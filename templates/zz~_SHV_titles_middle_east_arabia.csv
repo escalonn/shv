@@ -1,7 +1,4 @@
-#,T,I,T,L,E
-K,E,Y
-V,A,L,U,E
-S,W,M,H
+#TITLE,KEY,VALUE,SWMH
 e_arabia,e_arabia,,Arabian Empire
 e_arabia,e_arabia_adj,,Arabian
 e_arabia,short_name,,yes

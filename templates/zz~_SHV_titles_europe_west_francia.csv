@@ -1,7 +1,4 @@
-#,T,I,T,L,E
-K,E,Y
-V,A,L,U,E
-S,W,M,H
+#TITLE,KEY,VALUE,SWMH
 d_brabant,d_brabant,,Brabant
 d_brabant,d_brabant_adj,,Brabantian
 c_brabant,PROV117,,Leuven
