@@ -144,12 +144,12 @@ def read_prev():
 def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
                  prev_other_locs):
     out_row_lists = collections.defaultdict(
-        lambda: ['#TITLE;KEY;VALUE;SWMH;;;;;;;;;;;x'.split(';')])
+        lambda: ['#TITLE', 'KEY', 'VALUE', 'SWMH'])
     for title, pairs in title_attrs.items():
         out_rows = out_row_lists[title_region.get(title)]
         for key, value in pairs:
             prev = prev_title_attrs[title].get(key, '')
-            out_rows.append([title, key, prev, value] + [''] * 10 + ['x'])
+            out_rows.append([title, key, prev, value])
     with tempfile.TemporaryDirectory() as td:
         templates_t = pathlib.Path(td)
         for region, out_rows in out_row_lists.items():
@@ -158,10 +158,10 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
             with out_path.open('w', encoding='utf8', newline='') as csvfile:
                 csv.writer(csvfile).writerows(out_rows)
         out_path = templates_t / 'zz~_SHV_provinces_other.csv'
-        out_rows = ['#KEY;VALUE;SWMH;;;;;;;;;;;;x'.split(';')]
+        out_rows = ['#KEY', 'VALUE', 'SWMH']
         for key, value in other_locs:
             prev = prev_other_locs.get(key, '')
-            out_rows.append([key, prev, value] + [''] * 11 + ['x'])
+            out_rows.append([key, prev, value])
         with out_path.open('w', encoding='utf8', newline='') as csvfile:
             csv.writer(csvfile).writerows(out_rows)
         templates = rootpath / 'shv/templates'
