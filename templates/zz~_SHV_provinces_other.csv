@@ -28,14 +28,14 @@ PROV1446,Ioanniasee,Lake Ioannina
 PROV1447,Trichonidasee,Lake Trichonida
 PROV1448,Volvisee,Lake Volvi
 PROV1449,Koroniasee,Lake Koronia
-PROV1450,İzniksee,Lake Iznik
+PROV1450,Izniksee,Lake Iznik
 PROV1451,Manyassee,Lake Kus
 PROV1452,Uluabatsee,Lake Ulubat
 PROV1453,Bafasee,Lake Bafa
-PROV1454,Acısee,Lake Acigöl
+PROV1454,Acisee,Lake Acigöl
 PROV1455,Burdursee,Lake Burdur
-PROV1456,Eğirdirsee,Lake Egirdir
-PROV1457,Beyşehirsee,Lake Beysehir
+PROV1456,Egirdirsee,Lake Egirdir
+PROV1457,Beysehirsee,Lake Beysehir
 PROV1458,Tuzsee,Lake Tuz
 PROV1459,Tsanasee,Lake Tana
 PROV1460,Ghoubetsee,Lake Ghoubet
@@ -119,7 +119,7 @@ PROV1747,Golf von Biskaya,Bay of Biscay
 PROV1748,Donegal Bay,Donegal Bay
 PROV1749,Kanaren,Sea of Canarias
 PROV1750,Bretonische Küste,Bretagne Coast
-PROV1751,Mjřsasee,Mjøsa
+PROV1751,Mjøsasee,Mjøsa
 PROV1752,See Genezareth,Tiveriade Lake
 PROV1753,Portugiesische Küste,Portugal Coast
 PROV1754,Golf von Cadiz,Golfo de Cadiz
@@ -188,7 +188,7 @@ PROV1816,Skagerak,Skagerak
 PROV1817,Jammerbucht,Jammerbugten
 PROV1818,Storebælt,Storebælt
 PROV1819,Vesterhavet,Vesterhavet
-PROV1820,Smĺlandshavet,Smålandshavet
+PROV1820,Smålandshavet,Smålandshavet
 PROV1821,Ilmensee,Lake Ilmen
 PROV1822,Wirzsee,Lake Vörts
 PROV1823,Pljussa,Plyussa
