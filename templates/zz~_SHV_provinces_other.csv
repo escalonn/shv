@@ -1,323 +1,323 @@
-#KEY,VALUE,SWMH,,,,,,,,,,,,x
-PROV0,Unbekannt,Unknown,,,,,,,,,,,,x
-PROV279,Lappland,Lappland,,,,,,,,,,,,x
-PROV627,Karakum,Kara-Kum,,,,,,,,,,,,x
-PROV636,Lut,Lut,,,,,,,,,,,,x
-PROV782,Negeb,Negev desert,,,,,,,,,,,,x
-PROV806,Libysche Wüste,Libyan Desert,,,,,,,,,,,,x
-PROV901,Kysylkum,Kyzyl-Kum,,,,,,,,,,,,x
-PROV908,Rub al-Chali,Rub' al Khali Desert,,,,,,,,,,,,x
-PROV909,Weiße Wüste,White Desert,,,,,,,,,,,,x
-PROV910,Sibirien,Siberia,,,,,,,,,,,,x
-PROV923,Adrar-Plateau,Adrar Plateau,,,,,,,,,,,,x
-PROV924,Westliche Sahara,Western Sahara,,,,,,,,,,,,x
-PROV1023,Nefud,An Nafud,,,,,,,,,,,,x
-PROV1286,Tanezrouft,Tanezrouft,,,,,,,,,,,,x
-PROV1338,Arabische Wüste,Eastern Desert,,,,,,,,,,,,x
-PROV1385,Kankan,Kankan,,,,,,,,,,,,x
-PROV1437,Neuenburgersee,Lake Neuchâtel,,,,,,,,,,,,x
-PROV1438,Vierwaldstättersee,Lake Lucerne,,,,,,,,,,,,x
-PROV1439,Zürichsee,Lake Zurich,,,,,,,,,,,,x
-PROV1440,Öyern,Řyern,,,,,,,,,,,,x
-PROV1441,Gardasee,Lago de Garda,,,,,,,,,,,,x
-PROV1442,Iseosee,Lago de Iseo,,,,,,,,,,,,x
-PROV1443,Comer See,Lago de Como,,,,,,,,,,,,x
-PROV1444,Luganersee,Lago de Lugano,,,,,,,,,,,,x
-PROV1445,Langensee,Lago de Maggiore,,,,,,,,,,,,x
-PROV1446,Ioanniasee,Lake Ioannina,,,,,,,,,,,,x
-PROV1447,Trichonidasee,Lake Trichonida,,,,,,,,,,,,x
-PROV1448,Volvisee,Lake Volvi,,,,,,,,,,,,x
-PROV1449,Koroniasee,Lake Koronia,,,,,,,,,,,,x
-PROV1450,İzniksee,Lake Iznik,,,,,,,,,,,,x
-PROV1451,Manyassee,Lake Kus,,,,,,,,,,,,x
-PROV1452,Uluabatsee,Lake Ulubat,,,,,,,,,,,,x
-PROV1453,Bafasee,Lake Bafa,,,,,,,,,,,,x
-PROV1454,Acısee,Lake Acigöl,,,,,,,,,,,,x
-PROV1455,Burdursee,Lake Burdur,,,,,,,,,,,,x
-PROV1456,Eğirdirsee,Lake Egirdir,,,,,,,,,,,,x
-PROV1457,Beyşehirsee,Lake Beysehir,,,,,,,,,,,,x
-PROV1458,Tuzsee,Lake Tuz,,,,,,,,,,,,x
-PROV1459,Tsanasee,Lake Tana,,,,,,,,,,,,x
-PROV1460,Ghoubetsee,Lake Ghoubet,,,,,,,,,,,,x
-PROV1461,Assalsee,Lake Assal,,,,,,,,,,,,x
-PROV1462,Namaksee,Lake Namak,,,,,,,,,,,,x
-PROV1463,Loch Rí,Lough Ree,,,,,,,,,,,,x
-PROV1464,Loch Deirgeirt,Lough Derg,,,,,,,,,,,,x
-PROV1465,Loch Coirib,Lough Corrib,,,,,,,,,,,,x
-PROV1466,Loch Measca,Lough Mask,,,,,,,,,,,,x
-PROV1467,Loch Con,Lough Conn,,,,,,,,,,,,x
-PROV1468,Nizhivy Vyg,Nizhivy Vyg,,,,,,,,,,,,x
-PROV1469,Qarunsee,Birket Qarun,,,,,,,,,,,,x
-PROV1475,Straße von Hormus,Strait of Hormuz,,,,,,,,,,,,x
-PROV1483,Bayuda,Bayuda Desert,,,,,,,,,,,,x
-PROV1486,Voltabecken,Volta Basin,,,,,,,,,,,,x
-PROV1487,Zentralafrika,Central Africa,,,,,,,,,,,,x
-PROV1493,Nubische Wüste,Nubian Desert,,,,,,,,,,,,x
-PROV1497,,,,,,,,,,,,,,x
-PROV1498,,,,,,,,,,,,,,x
-PROV1504,westliche Wüste,Western Desert,,,,,,,,,,,,x
-PROV1532,Dascht-e Kawir,Dasht-e Kevîr,,,,,,,,,,,,x
-PROV1582,Taklamakan,Takla Makan Desert,,,,,,,,,,,,x
-PROV1583,Pamir,The Pamir,,,,,,,,,,,,x
-PROV1588,Himalaya,Himalayas,,,,,,,,,,,,x
-PROV1589,Tienschan,Tian Shan,,,,,,,,,,,,x
-PROV1590,Indien,India,,,,,,,,,,,,x
-PROV1595,Balchaschsee,Lake Balkash,,,,,,,,,,,,x
-PROV1596,Yssyksee,Lake Issyk,,,,,,,,,,,,x
-PROV1597,Saissansee,Lake Zaysan,,,,,,,,,,,,x
-PROV1598,Alakölsee,Lake Alakol,,,,,,,,,,,,x
-PROV1599,Ebinursee,Lake Ebinur,,,,,,,,,,,,x
-PROV1698,Rhein,Ryn,,,,,,,,,,,,x
-PROV1700,Golf von Hammamet,Golfe de Hammamet,,,,,,,,,,,,x
-PROV1701,Kanal von Malta,Malta Channel,,,,,,,,,,,,x
-PROV1702,Golf von Sidra,Gulf of Sidra,,,,,,,,,,,,x
-PROV1703,Golf von Tarent,Golfo di Taranto,,,,,,,,,,,,x
-PROV1704,Ionisches Meer,Ionian Sea,,,,,,,,,,,,x
-PROV1705,Straße von Otranto,Strait of Otranto,,,,,,,,,,,,x
-PROV1706,Adriatisches Meer,Adriatic Sea,,,,,,,,,,,,x
-PROV1707,Golf von Venedig,Gulf of Venice,,,,,,,,,,,,x
-PROV1708,Ägäisches Meer,Aegean Sea,,,,,,,,,,,,x
-PROV1709,Kykladen,Cyclades,,,,,,,,,,,,x
-PROV1710,Kretisches Meer,Sea of Crete,,,,,,,,,,,,x
-PROV1711,Ägyptische Küste,Coast of Egypt,,,,,,,,,,,,x
-PROV1712,Nildelta,Nile Delta,,,,,,,,,,,,x
-PROV1713,Palästinensisches Meer,Sea of Palestine,,,,,,,,,,,,x
-PROV1714,östliches Mittelmeer,Eastern Mediterranean,,,,,,,,,,,,x
-PROV1715,Westägäisches Meer,Western Aegean Sea,,,,,,,,,,,,x
-PROV1716,Näsijärvi,Näsijärvi,,,,,,,,,,,,x
-PROV1717,Aralsee,Aral Sea,,,,,,,,,,,,x
-PROV1718,Libanesisches Meer,Levantine Sea,,,,,,,,,,,,x
-PROV1719,Kilikisches Meer,Cilician Sea,,,,,,,,,,,,x
-PROV1720,Marmarameer,Sea of Marmara,,,,,,,,,,,,x
-PROV1721,Golf von Burgas,Gulf of Varna,,,,,,,,,,,,x
-PROV1722,Taurische Küste,Coast of Taurida,,,,,,,,,,,,x
-PROV1723,Schwarzes Meer,Black Sea,,,,,,,,,,,,x
-PROV1724,Colchische Küste,Coast of Kolkhida,,,,,,,,,,,,x
-PROV1725,Kaspisches Meer,Caspian Sea,,,,,,,,,,,,x
-PROV1726,Marrokanische Küste,Coast of Morocco,,,,,,,,,,,,x
-PROV1727,Straße von Gibraltar,Strait of Gibraltar,,,,,,,,,,,,x
-PROV1728,Saimaa,Saimaa,,,,,,,,,,,,x
-PROV1729,Plattensee,Lake Balaton,,,,,,,,,,,,x
-PROV1730,Oulujärvi,Oulujärvi,,,,,,,,,,,,x
-PROV1731,Ladogasee,Lake Ladoga,,,,,,,,,,,,x
-PROV1732,Mälaren,Mälaren,,,,,,,,,,,,x
-PROV1733,Färöer Inseln,Faroya,,,,,,,,,,,,x
-PROV1734,Hjälmaren,Hjälmaren,,,,,,,,,,,,x
-PROV1735,Vätternsee,Vättern,,,,,,,,,,,,x
-PROV1736,Vänersee,Vänern,,,,,,,,,,,,x
-PROV1737,Weißes Meer,White Sea,,,,,,,,,,,,x
-PROV1738,Strait of Dover,Strait of Dover,,,,,,,,,,,,x
-PROV1739,The Solent,The Solent,,,,,,,,,,,,x
-PROV1740,Land's End,Land's End,,,,,,,,,,,,x
-PROV1741,St. George's Channel,St. George's Channel,,,,,,,,,,,,x
-PROV1742,Asowsches Meer,Sea of Azov,,,,,,,,,,,,x
-PROV1743,Kap Finisterre,Cabo de Finisterre,,,,,,,,,,,,x
-PROV1744,Bodensee,Bodensee,,,,,,,,,,,,x
-PROV1745,Golf von Karabugas,Kara-Bogaz Gol,,,,,,,,,,,,x
-PROV1746,Nordsee,Noordzee,,,,,,,,,,,,x
-PROV1747,Golf von Biskaya,Bay of Biscay,,,,,,,,,,,,x
-PROV1748,Donegal Bay,Donegal Bay,,,,,,,,,,,,x
-PROV1749,Kanaren,Sea of Canarias,,,,,,,,,,,,x
-PROV1750,Bretonische Küste,Bretagne Coast,,,,,,,,,,,,x
-PROV1751,Mjřsasee,Mjřsa,,,,,,,,,,,,x
-PROV1752,See Genezareth,Tiveriade Lake,,,,,,,,,,,,x
-PROV1753,Portugiesische Küste,Portugal Coast,,,,,,,,,,,,x
-PROV1754,Golf von Cadiz,Golfo de Cadiz,,,,,,,,,,,,x
-PROV1755,Tyrifjord,Tyrifjorden,,,,,,,,,,,,x
-PROV1756,Totes Meer,Dead Sea,,,,,,,,,,,,x
-PROV1757,Rigaer Bucht,Gulf of Riga,,,,,,,,,,,,x
-PROV1758,Nordatlantik,North Atlantic,,,,,,,,,,,,x
-PROV1759,Südnorwegisches Meer,Southern Coast of Norway,,,,,,,,,,,,x
-PROV1760,Nordsee,North Sea,,,,,,,,,,,,x
-PROV1761,Nordsee,North Sea,,,,,,,,,,,,x
-PROV1762,Nordsee,North Sea,,,,,,,,,,,,x
-PROV1763,Shetland Inseln,Sea of Shetland,,,,,,,,,,,,x
-PROV1764,Bantry Bay,Bantry Bay,,,,,,,,,,,,x
-PROV1765,The Minch,The Minch,,,,,,,,,,,,x
-PROV1766,Moray Firth,Moray Firth,,,,,,,,,,,,x
-PROV1767,Firth of Forth,Firth of Forth,,,,,,,,,,,,x
-PROV1768,Doggerbank,Dogger bank,,,,,,,,,,,,x
-PROV1769,The Wash,The Wash,,,,,,,,,,,,x
-PROV1770,Onegasee,Onego,,,,,,,,,,,,x
-PROV1771,Nordsee,North Sea,,,,,,,,,,,,x
-PROV1772,Öresund,Řresund,,,,,,,,,,,,x
-PROV1773,Golf von Helgoland,Gulf of Heligoland,,,,,,,,,,,,x
-PROV1774,Kattegat,Kattegat,,,,,,,,,,,,x
-PROV1775,Kolberger Heide,Kolberger Heide,,,,,,,,,,,,x
-PROV1776,Hanöbucht,Bight of Hanö,,,,,,,,,,,,x
-PROV1777,Danziger Bucht,Gulf of Danzig,,,,,,,,,,,,x
-PROV1778,Åland Islands,Sea of Ĺland,,,,,,,,,,,,x
-PROV1779,Golf von Finnland,Gulf of Finland,,,,,,,,,,,,x
-PROV1780,Bottnische Bucht,Gulf of Bothnia,,,,,,,,,,,,x
-PROV1781,Bottnische Bucht,Gulf of Bothnia,,,,,,,,,,,,x
-PROV1782,Adriatisches Meer,Adriatic Sea,,,,,,,,,,,,x
-PROV1783,Channel Islands,Îles de la Manche,,,,,,,,,,,,x
-PROV1784,Mauretanische Küste,Mauretanian Coast,,,,,,,,,,,,x
-PROV1785,Peipussee,Lake Peipus,,,,,,,,,,,,x
-PROV1786,Jalpuhsee,Lake Yalpug,,,,,,,,,,,,x
-PROV1787,Asturische Küste,Coast of Asturias,,,,,,,,,,,,x
-PROV1788,Nördlicher Golf von Biskaya,Northern Bay of Biscay,,,,,,,,,,,,x
-PROV1789,Keltische See,Celtic Sea,,,,,,,,,,,,x
-PROV1790,Inarijärvi,Inarijärvi,,,,,,,,,,,,x
-PROV1791,Isländische Küste,Coast of Iceland,,,,,,,,,,,,x
-PROV1792,Westliche Kykladen,Western Cyclades,,,,,,,,,,,,x
-PROV1793,Skutarisee,Lake Scutari,,,,,,,,,,,,x
-PROV1794,Ohridsee,Lake Ohrid,,,,,,,,,,,,x
-PROV1795,Prespasee,Lake Prespa,,,,,,,,,,,,x
-PROV1796,Päijänne,Päijänne,,,,,,,,,,,,x
-PROV1797,Irisches Meer,Irish Sea,,,,,,,,,,,,x
-PROV1798,Westliches Mittelmeer,Western Mediterranean,,,,,,,,,,,,x
-PROV1799,Golf von Valencia,Golfo de Valencia,,,,,,,,,,,,x
-PROV1800,Balearen,Islas Baleares,,,,,,,,,,,,x
-PROV1801,Ponant,Ponant,,,,,,,,,,,,x
-PROV1802,Mittelmeer,Mediterranean Sea,,,,,,,,,,,,x
-PROV1803,Golfe du Lion,Golfe du Lion,,,,,,,,,,,,x
-PROV1804,Genfersee,Lake Léman,,,,,,,,,,,,x
-PROV1805,Côte d’Azur,Cote d Azur,,,,,,,,,,,,x
-PROV1806,Ligurisches Meer,Ligurian Sea,,,,,,,,,,,,x
-PROV1807,Tyrrhenisches Meer,Tyrrhenian Sea,,,,,,,,,,,,x
-PROV1808,Sardische Küste,Coast of Sardegna,,,,,,,,,,,,x
-PROV1809,Golf von Neapel,Golfo di Napoli,,,,,,,,,,,,x
-PROV1810,Straße von Messina,Strait di Messina,,,,,,,,,,,,x
-PROV1811,Sewansee,Lake Sevan,,,,,,,,,,,,x
-PROV1812,Vansee,Lake Van,,,,,,,,,,,,x
-PROV1813,Urmiasee,Lake Urmia,,,,,,,,,,,,x
-PROV1814,Neusiedlersee,Lake Fertö,,,,,,,,,,,,x
-PROV1815,Limfjord,Limfjorden,,,,,,,,,,,,x
-PROV1816,Skagerak,Skagerak,,,,,,,,,,,,x
-PROV1817,Jammerbucht,Jammerbugten,,,,,,,,,,,,x
-PROV1818,Storebælt,Storebćlt,,,,,,,,,,,,x
-PROV1819,Vesterhavet,Vesterhavet,,,,,,,,,,,,x
-PROV1820,Smĺlandshavet,Smĺlandshavet,,,,,,,,,,,,x
-PROV1821,Ilmensee,Lake Ilmen,,,,,,,,,,,,x
-PROV1822,Wirzsee,Lake Vörts,,,,,,,,,,,,x
-PROV1823,Pljussa,Plyussa,,,,,,,,,,,,x
-PROV1824,Wolchow,Volkhov,,,,,,,,,,,,x
-PROV1825,Mittelmeer,Mediterranean Sea,,,,,,,,,,,,x
-PROV1826,Vastenjaure,Lake Vastenjaure,,,,,,,,,,,,x
-PROV1827,Göta älv,Gautelfr,,,,,,,,,,,,x
-PROV1828,Salsvatnet,Salsvatnet,,,,,,,,,,,,x
-PROV1829,Weißer See,Lake Beloe,,,,,,,,,,,,x
-PROV1830,Kama,Kama,,,,,,,,,,,,x
-PROV1832,Petschora,Pechora,,,,,,,,,,,,x
-PROV1833,Sarykamyschsee,Lake Sarygamysh,,,,,,,,,,,,x
-PROV1834,Manytsch,Manych,,,,,,,,,,,,x
-PROV1835,Chott el Djerid,Chot El Jerid,,,,,,,,,,,,x
-PROV1836,Chott el Gharsa,Chot El Gharsa,,,,,,,,,,,,x
-PROV1837,Chott Melrhir,Chot El Melghir,,,,,,,,,,,,x
-PROV1838,Tschadsee,Lake Chad,,,,,,,,,,,,x
-PROV1839,Loch Lomond,Loch Lomond,,,,,,,,,,,,x
-PROV1840,Loch Neathach,Lough Neagh,,,,,,,,,,,,x
-PROV1841,Erne,Erne,,,,,,,,,,,,x
-PROV1842,Golf von Persien,Persian Gulf,,,,,,,,,,,,x
-PROV1843,Golf von Persien,Persian Gulf,,,,,,,,,,,,x
-PROV1844,Arabisches Meer,Arabian Sea,,,,,,,,,,,,x
-PROV1845,Golf von Khambhat,Gulf of Khambhat,,,,,,,,,,,,x
-PROV1846,Golf von Kachchh,Gulf of Kutch,,,,,,,,,,,,x
-PROV1847,Malabarküste,Coast of Malabar,,,,,,,,,,,,x
-PROV1848,Indusdelta,Indus Delta,,,,,,,,,,,,x
-PROV1849,Swir,Svir,,,,,,,,,,,,x
-PROV1850,Andoma,Andoma,,,,,,,,,,,,x
-PROV1851,Soyda,Soyda,,,,,,,,,,,,x
-PROV1852,Kema,Kema,,,,,,,,,,,,x
-PROV1853,Scheksna,Sheksna,,,,,,,,,,,,x
-PROV1854,Scheksna,Sheksna,,,,,,,,,,,,x
-PROV1855,Suda,Suda,,,,,,,,,,,,x
-PROV1856,Mologa,Mologa,,,,,,,,,,,,x
-PROV1857,Mologa,Mologa,,,,,,,,,,,,x
-PROV1858,Tschagodoschtscha,Chagodoshcha,,,,,,,,,,,,x
-PROV1859,Wolga,Volga,,,,,,,,,,,,x
-PROV1860,Wolga,Volga,,,,,,,,,,,,x
-PROV1861,Wolga,Volga,,,,,,,,,,,,x
-PROV1862,Wolga,Volga,,,,,,,,,,,,x
-PROV1863,Wolga,Volga,,,,,,,,,,,,x
-PROV1864,Wolga,Volga,,,,,,,,,,,,x
-PROV1865,Wolga,Volga,,,,,,,,,,,,x
-PROV1866,Wolga,Volga,,,,,,,,,,,,x
-PROV1867,Wolga,Volga,,,,,,,,,,,,x
-PROV1868,Wolga,Volga,,,,,,,,,,,,x
-PROV1869,Wolga,Volga,,,,,,,,,,,,x
-PROV1870,Wolga,Volga,,,,,,,,,,,,x
-PROV1871,Oka,Oka,,,,,,,,,,,,x
-PROV1872,Oka,Oka,,,,,,,,,,,,x
-PROV1873,Oka,Oka,,,,,,,,,,,,x
-PROV1874,Oka,Oka,,,,,,,,,,,,x
-PROV1875,Oka,Oka,,,,,,,,,,,,x
-PROV1876,Moskwa,Moskva,,,,,,,,,,,,x
-PROV1877,Moskwa,Moskva,,,,,,,,,,,,x
-PROV1878,Kljasma,Klyazma,,,,,,,,,,,,x
-PROV1879,Kljasma,Klyazma,,,,,,,,,,,,x
-PROV1880,Pronja ,Pronya,,,,,,,,,,,,x
-PROV1881,Don,Don,,,,,,,,,,,,x
-PROV1882,Don,Don,,,,,,,,,,,,x
-PROV1883,Don,Don,,,,,,,,,,,,x
-PROV1884,Don,Don,,,,,,,,,,,,x
-PROV1885,Smolny,Smolnya,,,,,,,,,,,,x
-PROV1886,Smolny,Smolnya,,,,,,,,,,,,x
-PROV1887,Smolny,Smolnya,,,,,,,,,,,,x
-PROV1888,Prypjat,Pripjat,,,,,,,,,,,,x
-PROV1889,Dnepr,Dneiper,,,,,,,,,,,,x
-PROV1890,Dnepr,Dneiper,,,,,,,,,,,,x
-PROV1891,Dnepr,Dneiper,,,,,,,,,,,,x
-PROV1892,Dnepr,Dneiper,,,,,,,,,,,,x
-PROV1893,Düna,West Dvina,,,,,,,,,,,,x
-PROV1894,Düna,West Dvina,,,,,,,,,,,,x
-PROV1895,Düna,West Dvina,,,,,,,,,,,,x
-PROV1896,Lowat,Lovat,,,,,,,,,,,,x
-PROV1897,Desna,Desna,,,,,,,,,,,,x
-PROV1898,Desna,Desna,,,,,,,,,,,,x
-PROV1899,Seim,Sejm,,,,,,,,,,,,x
-PROV1900,Seim,Sejm,,,,,,,,,,,,x
-PROV1901,Themse,Thames,,,,,,,,,,,,x
-PROV1902,Themse,Thames,,,,,,,,,,,,x
-PROV1903,Vilaine,Vilaine,,,,,,,,,,,,x
-PROV1904,Somme,Somme,,,,,,,,,,,,x
-PROV1905,Main,Main,,,,,,,,,,,,x
-PROV1906,Seine,Seine,,,,,,,,,,,,x
-PROV1907,Seine,Seine,,,,,,,,,,,,x
-PROV1908,Seine,Seine,,,,,,,,,,,,x
-PROV1909,Yonne,Yonne,,,,,,,,,,,,x
-PROV1910,Marne,Marne,,,,,,,,,,,,x
-PROV1911,Marne,Marne,,,,,,,,,,,,x
-PROV1912,Oise,Oise,,,,,,,,,,,,x
-PROV1913,Oise,Oise,,,,,,,,,,,,x
-PROV1914,Aisne,Aisne,,,,,,,,,,,,x
-PROV1915,Loire,Loire,,,,,,,,,,,,x
-PROV1916,Loire,Loire,,,,,,,,,,,,x
-PROV1917,Loire,Loire,,,,,,,,,,,,x
-PROV1918,Vienne,Vienne,,,,,,,,,,,,x
-PROV1919,Mosel,Mosel,,,,,,,,,,,,x
-PROV1920,Charente,Charente,,,,,,,,,,,,x
-PROV1921,Mosel,Mosel,,,,,,,,,,,,x
-PROV1922,Dordogne,Dordogne,,,,,,,,,,,,x
-PROV1923,Garonne,Garonne,,,,,,,,,,,,x
-PROV1924,Garonne,Garonne,,,,,,,,,,,,x
-PROV1925,Garonne,Garonne,,,,,,,,,,,,x
-PROV1926,Adour,Adour,,,,,,,,,,,,x
-PROV1927,Rhone,Rhone,,,,,,,,,,,,x
-PROV1928,Guadalquivir,Guadalquivir,,,,,,,,,,,,x
-PROV1929,Rhein,Rhein,,,,,,,,,,,,x
-PROV1930,Rhein,Rhein,,,,,,,,,,,,x
-PROV1931,Rhein,Rhein,,,,,,,,,,,,x
-PROV1932,Maas,Maas,,,,,,,,,,,,x
-PROV1933,Maas,Maas,,,,,,,,,,,,x
-PROV1934,Maas,Maas,,,,,,,,,,,,x
-PROV1935,Rann von Kachchh,Rann of Kutch,,,,,,,,,,,,x
-PROV1936,Indus,Indus,,,,,,,,,,,,x
-PROV1937,Indus,Indus,,,,,,,,,,,,x
-PROV1938,Rotes Meer,Red Sea,,,,,,,,,,,,x
-PROV1939,Rotes Meer,Red Sea,,,,,,,,,,,,x
-PROV1940,Rotes Meer,Red Sea,,,,,,,,,,,,x
-PROV1941,Golf von Aden,Gulf of Aden,,,,,,,,,,,,x
-PROV1942,Somalische Küste,Coast of Somailia,,,,,,,,,,,,x
-PROV1943,Yemenitische Küste,Coast of Yemen,,,,,,,,,,,,x
-PROV1944,Omannische Küste,Coast of Oman,,,,,,,,,,,,x
-PROV1945,Golf von Oman,Gulf of Oman,,,,,,,,,,,,x
-PROV1946,Großer Erg,Grand Erg,,,,,,,,,,,,x
-PROV1947,Ghat Sahara,Ghat Sahara,,,,,,,,,,,,x
-PROV1948,Südliche Sahara,South Sahara,,,,,,,,,,,,x
-PROV1949,Ténéré,Tenere Desert,,,,,,,,,,,,x
-PROV1950,Südliche Ténéré,South Tenere,,,,,,,,,,,,x
-PROV1951,Badiyat ash Sham,Badiyat ash-sham,,,,,,,,,,,,x
-PROV1952,Ténéré,Ténéré,,,,,,,,,,,,x
-PROV1953,,,,,,,,,,,,,,x
+#KEY,VALUE,SWMH
+PROV0,Unbekannt,Unknown
+PROV279,Lappland,Lappland
+PROV627,Karakum,Kara-Kum
+PROV636,Lut,Lut
+PROV782,Negeb,Negev desert
+PROV806,Libysche Wüste,Libyan Desert
+PROV901,Kysylkum,Kyzyl-Kum
+PROV908,Rub al-Chali,Rub' al Khali Desert
+PROV909,Weiße Wüste,White Desert
+PROV910,Sibirien,Siberia
+PROV923,Adrar-Plateau,Adrar Plateau
+PROV924,Westliche Sahara,Western Sahara
+PROV1023,Nefud,An Nafud
+PROV1286,Tanezrouft,Tanezrouft
+PROV1338,Arabische Wüste,Eastern Desert
+PROV1385,Kankan,Kankan
+PROV1437,Neuenburgersee,Lake Neuchâtel
+PROV1438,Vierwaldstättersee,Lake Lucerne
+PROV1439,Zürichsee,Lake Zurich
+PROV1440,Öyern,Øyern
+PROV1441,Gardasee,Lago de Garda
+PROV1442,Iseosee,Lago de Iseo
+PROV1443,Comer See,Lago de Como
+PROV1444,Luganersee,Lago de Lugano
+PROV1445,Langensee,Lago de Maggiore
+PROV1446,Ioanniasee,Lake Ioannina
+PROV1447,Trichonidasee,Lake Trichonida
+PROV1448,Volvisee,Lake Volvi
+PROV1449,Koroniasee,Lake Koronia
+PROV1450,İzniksee,Lake Iznik
+PROV1451,Manyassee,Lake Kus
+PROV1452,Uluabatsee,Lake Ulubat
+PROV1453,Bafasee,Lake Bafa
+PROV1454,Acısee,Lake Acigöl
+PROV1455,Burdursee,Lake Burdur
+PROV1456,Eğirdirsee,Lake Egirdir
+PROV1457,Beyşehirsee,Lake Beysehir
+PROV1458,Tuzsee,Lake Tuz
+PROV1459,Tsanasee,Lake Tana
+PROV1460,Ghoubetsee,Lake Ghoubet
+PROV1461,Assalsee,Lake Assal
+PROV1462,Namaksee,Lake Namak
+PROV1463,Loch Rí,Lough Ree
+PROV1464,Loch Deirgeirt,Lough Derg
+PROV1465,Loch Coirib,Lough Corrib
+PROV1466,Loch Measca,Lough Mask
+PROV1467,Loch Con,Lough Conn
+PROV1468,Nizhivy Vyg,Nizhivy Vyg
+PROV1469,Qarunsee,Birket Qarun
+PROV1475,Straße von Hormus,Strait of Hormuz
+PROV1483,Bayuda,Bayuda Desert
+PROV1486,Voltabecken,Volta Basin
+PROV1487,Zentralafrika,Central Africa
+PROV1493,Nubische Wüste,Nubian Desert
+PROV1497,,
+PROV1498,,
+PROV1504,westliche Wüste,Western Desert
+PROV1532,Dascht-e Kawir,Dasht-e Kevîr
+PROV1582,Taklamakan,Takla Makan Desert
+PROV1583,Pamir,The Pamir
+PROV1588,Himalaya,Himalayas
+PROV1589,Tienschan,Tian Shan
+PROV1590,Indien,India
+PROV1595,Balchaschsee,Lake Balkash
+PROV1596,Yssyksee,Lake Issyk
+PROV1597,Saissansee,Lake Zaysan
+PROV1598,Alakölsee,Lake Alakol
+PROV1599,Ebinursee,Lake Ebinur
+PROV1698,Rhein,Ryn
+PROV1700,Golf von Hammamet,Golfe de Hammamet
+PROV1701,Kanal von Malta,Malta Channel
+PROV1702,Golf von Sidra,Gulf of Sidra
+PROV1703,Golf von Tarent,Golfo di Taranto
+PROV1704,Ionisches Meer,Ionian Sea
+PROV1705,Straße von Otranto,Strait of Otranto
+PROV1706,Adriatisches Meer,Adriatic Sea
+PROV1707,Golf von Venedig,Gulf of Venice
+PROV1708,Ägäisches Meer,Aegean Sea
+PROV1709,Kykladen,Cyclades
+PROV1710,Kretisches Meer,Sea of Crete
+PROV1711,Ägyptische Küste,Coast of Egypt
+PROV1712,Nildelta,Nile Delta
+PROV1713,Palästinensisches Meer,Sea of Palestine
+PROV1714,östliches Mittelmeer,Eastern Mediterranean
+PROV1715,Westägäisches Meer,Western Aegean Sea
+PROV1716,Näsijärvi,Näsijärvi
+PROV1717,Aralsee,Aral Sea
+PROV1718,Libanesisches Meer,Levantine Sea
+PROV1719,Kilikisches Meer,Cilician Sea
+PROV1720,Marmarameer,Sea of Marmara
+PROV1721,Golf von Burgas,Gulf of Varna
+PROV1722,Taurische Küste,Coast of Taurida
+PROV1723,Schwarzes Meer,Black Sea
+PROV1724,Colchische Küste,Coast of Kolkhida
+PROV1725,Kaspisches Meer,Caspian Sea
+PROV1726,Marrokanische Küste,Coast of Morocco
+PROV1727,Straße von Gibraltar,Strait of Gibraltar
+PROV1728,Saimaa,Saimaa
+PROV1729,Plattensee,Lake Balaton
+PROV1730,Oulujärvi,Oulujärvi
+PROV1731,Ladogasee,Lake Ladoga
+PROV1732,Mälaren,Mälaren
+PROV1733,Färöer Inseln,Faroya
+PROV1734,Hjälmaren,Hjälmaren
+PROV1735,Vätternsee,Vättern
+PROV1736,Vänersee,Vänern
+PROV1737,Weißes Meer,White Sea
+PROV1738,Strait of Dover,Strait of Dover
+PROV1739,The Solent,The Solent
+PROV1740,Land's End,Land's End
+PROV1741,St. George's Channel,St. George's Channel
+PROV1742,Asowsches Meer,Sea of Azov
+PROV1743,Kap Finisterre,Cabo de Finisterre
+PROV1744,Bodensee,Bodensee
+PROV1745,Golf von Karabugas,Kara-Bogaz Gol
+PROV1746,Nordsee,Noordzee
+PROV1747,Golf von Biskaya,Bay of Biscay
+PROV1748,Donegal Bay,Donegal Bay
+PROV1749,Kanaren,Sea of Canarias
+PROV1750,Bretonische Küste,Bretagne Coast
+PROV1751,Mjřsasee,Mjøsa
+PROV1752,See Genezareth,Tiveriade Lake
+PROV1753,Portugiesische Küste,Portugal Coast
+PROV1754,Golf von Cadiz,Golfo de Cadiz
+PROV1755,Tyrifjord,Tyrifjorden
+PROV1756,Totes Meer,Dead Sea
+PROV1757,Rigaer Bucht,Gulf of Riga
+PROV1758,Nordatlantik,North Atlantic
+PROV1759,Südnorwegisches Meer,Southern Coast of Norway
+PROV1760,Nordsee,North Sea
+PROV1761,Nordsee,North Sea
+PROV1762,Nordsee,North Sea
+PROV1763,Shetland Inseln,Sea of Shetland
+PROV1764,Bantry Bay,Bantry Bay
+PROV1765,The Minch,The Minch
+PROV1766,Moray Firth,Moray Firth
+PROV1767,Firth of Forth,Firth of Forth
+PROV1768,Doggerbank,Dogger bank
+PROV1769,The Wash,The Wash
+PROV1770,Onegasee,Onego
+PROV1771,Nordsee,North Sea
+PROV1772,Öresund,Øresund
+PROV1773,Golf von Helgoland,Gulf of Heligoland
+PROV1774,Kattegat,Kattegat
+PROV1775,Kolberger Heide,Kolberger Heide
+PROV1776,Hanöbucht,Bight of Hanö
+PROV1777,Danziger Bucht,Gulf of Danzig
+PROV1778,Åland Islands,Sea of Åland
+PROV1779,Golf von Finnland,Gulf of Finland
+PROV1780,Bottnische Bucht,Gulf of Bothnia
+PROV1781,Bottnische Bucht,Gulf of Bothnia
+PROV1782,Adriatisches Meer,Adriatic Sea
+PROV1783,Channel Islands,Îles de la Manche
+PROV1784,Mauretanische Küste,Mauretanian Coast
+PROV1785,Peipussee,Lake Peipus
+PROV1786,Jalpuhsee,Lake Yalpug
+PROV1787,Asturische Küste,Coast of Asturias
+PROV1788,Nördlicher Golf von Biskaya,Northern Bay of Biscay
+PROV1789,Keltische See,Celtic Sea
+PROV1790,Inarijärvi,Inarijärvi
+PROV1791,Isländische Küste,Coast of Iceland
+PROV1792,Westliche Kykladen,Western Cyclades
+PROV1793,Skutarisee,Lake Scutari
+PROV1794,Ohridsee,Lake Ohrid
+PROV1795,Prespasee,Lake Prespa
+PROV1796,Päijänne,Päijänne
+PROV1797,Irisches Meer,Irish Sea
+PROV1798,Westliches Mittelmeer,Western Mediterranean
+PROV1799,Golf von Valencia,Golfo de Valencia
+PROV1800,Balearen,Islas Baleares
+PROV1801,Ponant,Ponant
+PROV1802,Mittelmeer,Mediterranean Sea
+PROV1803,Golfe du Lion,Golfe du Lion
+PROV1804,Genfersee,Lake Léman
+PROV1805,Côte d’Azur,Cote d Azur
+PROV1806,Ligurisches Meer,Ligurian Sea
+PROV1807,Tyrrhenisches Meer,Tyrrhenian Sea
+PROV1808,Sardische Küste,Coast of Sardegna
+PROV1809,Golf von Neapel,Golfo di Napoli
+PROV1810,Straße von Messina,Strait di Messina
+PROV1811,Sewansee,Lake Sevan
+PROV1812,Vansee,Lake Van
+PROV1813,Urmiasee,Lake Urmia
+PROV1814,Neusiedlersee,Lake Fertö
+PROV1815,Limfjord,Limfjorden
+PROV1816,Skagerak,Skagerak
+PROV1817,Jammerbucht,Jammerbugten
+PROV1818,Storebælt,Storebælt
+PROV1819,Vesterhavet,Vesterhavet
+PROV1820,Smĺlandshavet,Smålandshavet
+PROV1821,Ilmensee,Lake Ilmen
+PROV1822,Wirzsee,Lake Vörts
+PROV1823,Pljussa,Plyussa
+PROV1824,Wolchow,Volkhov
+PROV1825,Mittelmeer,Mediterranean Sea
+PROV1826,Vastenjaure,Lake Vastenjaure
+PROV1827,Göta älv,Gautelfr
+PROV1828,Salsvatnet,Salsvatnet
+PROV1829,Weißer See,Lake Beloe
+PROV1830,Kama,Kama
+PROV1832,Petschora,Pechora
+PROV1833,Sarykamyschsee,Lake Sarygamysh
+PROV1834,Manytsch,Manych
+PROV1835,Chott el Djerid,Chot El Jerid
+PROV1836,Chott el Gharsa,Chot El Gharsa
+PROV1837,Chott Melrhir,Chot El Melghir
+PROV1838,Tschadsee,Lake Chad
+PROV1839,Loch Lomond,Loch Lomond
+PROV1840,Loch Neathach,Lough Neagh
+PROV1841,Erne,Erne
+PROV1842,Golf von Persien,Persian Gulf
+PROV1843,Golf von Persien,Persian Gulf
+PROV1844,Arabisches Meer,Arabian Sea
+PROV1845,Golf von Khambhat,Gulf of Khambhat
+PROV1846,Golf von Kachchh,Gulf of Kutch
+PROV1847,Malabarküste,Coast of Malabar
+PROV1848,Indusdelta,Indus Delta
+PROV1849,Swir,Svir
+PROV1850,Andoma,Andoma
+PROV1851,Soyda,Soyda
+PROV1852,Kema,Kema
+PROV1853,Scheksna,Sheksna
+PROV1854,Scheksna,Sheksna
+PROV1855,Suda,Suda
+PROV1856,Mologa,Mologa
+PROV1857,Mologa,Mologa
+PROV1858,Tschagodoschtscha,Chagodoshcha
+PROV1859,Wolga,Volga
+PROV1860,Wolga,Volga
+PROV1861,Wolga,Volga
+PROV1862,Wolga,Volga
+PROV1863,Wolga,Volga
+PROV1864,Wolga,Volga
+PROV1865,Wolga,Volga
+PROV1866,Wolga,Volga
+PROV1867,Wolga,Volga
+PROV1868,Wolga,Volga
+PROV1869,Wolga,Volga
+PROV1870,Wolga,Volga
+PROV1871,Oka,Oka
+PROV1872,Oka,Oka
+PROV1873,Oka,Oka
+PROV1874,Oka,Oka
+PROV1875,Oka,Oka
+PROV1876,Moskwa,Moskva
+PROV1877,Moskwa,Moskva
+PROV1878,Kljasma,Klyazma
+PROV1879,Kljasma,Klyazma
+PROV1880,Pronja ,Pronya
+PROV1881,Don,Don
+PROV1882,Don,Don
+PROV1883,Don,Don
+PROV1884,Don,Don
+PROV1885,Smolny,Smolnya
+PROV1886,Smolny,Smolnya
+PROV1887,Smolny,Smolnya
+PROV1888,Prypjat,Pripjat
+PROV1889,Dnepr,Dneiper
+PROV1890,Dnepr,Dneiper
+PROV1891,Dnepr,Dneiper
+PROV1892,Dnepr,Dneiper
+PROV1893,Düna,West Dvina
+PROV1894,Düna,West Dvina
+PROV1895,Düna,West Dvina
+PROV1896,Lowat,Lovat
+PROV1897,Desna,Desna
+PROV1898,Desna,Desna
+PROV1899,Seim,Sejm
+PROV1900,Seim,Sejm
+PROV1901,Themse,Thames
+PROV1902,Themse,Thames
+PROV1903,Vilaine,Vilaine
+PROV1904,Somme,Somme
+PROV1905,Main,Main
+PROV1906,Seine,Seine
+PROV1907,Seine,Seine
+PROV1908,Seine,Seine
+PROV1909,Yonne,Yonne
+PROV1910,Marne,Marne
+PROV1911,Marne,Marne
+PROV1912,Oise,Oise
+PROV1913,Oise,Oise
+PROV1914,Aisne,Aisne
+PROV1915,Loire,Loire
+PROV1916,Loire,Loire
+PROV1917,Loire,Loire
+PROV1918,Vienne,Vienne
+PROV1919,Mosel,Mosel
+PROV1920,Charente,Charente
+PROV1921,Mosel,Mosel
+PROV1922,Dordogne,Dordogne
+PROV1923,Garonne,Garonne
+PROV1924,Garonne,Garonne
+PROV1925,Garonne,Garonne
+PROV1926,Adour,Adour
+PROV1927,Rhone,Rhone
+PROV1928,Guadalquivir,Guadalquivir
+PROV1929,Rhein,Rhein
+PROV1930,Rhein,Rhein
+PROV1931,Rhein,Rhein
+PROV1932,Maas,Maas
+PROV1933,Maas,Maas
+PROV1934,Maas,Maas
+PROV1935,Rann von Kachchh,Rann of Kutch
+PROV1936,Indus,Indus
+PROV1937,Indus,Indus
+PROV1938,Rotes Meer,Red Sea
+PROV1939,Rotes Meer,Red Sea
+PROV1940,Rotes Meer,Red Sea
+PROV1941,Golf von Aden,Gulf of Aden
+PROV1942,Somalische Küste,Coast of Somailia
+PROV1943,Yemenitische Küste,Coast of Yemen
+PROV1944,Omannische Küste,Coast of Oman
+PROV1945,Golf von Oman,Gulf of Oman
+PROV1946,Großer Erg,Grand Erg
+PROV1947,Ghat Sahara,Ghat Sahara
+PROV1948,Südliche Sahara,South Sahara
+PROV1949,Ténéré,Tenere Desert
+PROV1950,Südliche Ténéré,South Tenere
+PROV1951,Badiyat ash Sham,Badiyat ash-sham
+PROV1952,Ténéré,Ténéré
+PROV1953,,

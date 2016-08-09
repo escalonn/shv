@@ -131,7 +131,7 @@ def read_prev():
         with path.open(encoding='utf8', newline='') as csvfile:
             reader = csv.reader(csvfile)
             next(reader)
-            if 'other_provinces' in path.name:
+            if 'provinces_other' in path.name:
                 for row in reader:
                     key, value = row[:2]
                     prev_other_locs[key] = value
