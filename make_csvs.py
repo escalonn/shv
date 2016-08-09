@@ -129,6 +129,12 @@ def read_prev():
     prev_other_locs = {}
     for path in ck2parser.files('*.csv', basedir=(rootpath / 'shv/templates')):
         with path.open(encoding='utf8', newline='') as csvfile:
+            try:
+                csvfile.read().encode('cp1252')
+            except UnicodeEncodeError:
+                print(path)
+                raise
+            csvfile.seek(0)
             reader = csv.reader(csvfile)
             next(reader)
             if 'provinces_other' in path.name:
