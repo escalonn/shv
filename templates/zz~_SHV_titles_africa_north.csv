@@ -11,9 +11,9 @@ d_alexandria,coptic,,Rakote,,,,,,,,,,,x
 d_alexandria,greek,,Aigyptos,,,,,,,,,,,x
 d_alexandria,d_alexandria_adj_greek,,Aigyptian,,,,,,,,,,,x
 d_alexandria,roman,,Aegyptus,,,,,,,,,,,x
-c_alexandria,PROV802,,IskandarÓya,,,,,,,,,,,x
+c_alexandria,PROV802,,Iskandar√Æya,,,,,,,,,,,x
 c_alexandria,c_alexandria,,,,,,,,,,,,,x
-c_alexandria,c_alexandria_adj,,IskandarÓyÓ,,,,,,,,,,,x
+c_alexandria,c_alexandria_adj,,Iskandar√Æy√Æ,,,,,,,,,,,x
 c_alexandria,coptic,,Rakote,,,,,,,,,,,x
 c_alexandria,greek,,Alexandreia,,,,,,,,,,,x
 b_alexandria,b_alexandria,,Alexandria,,,,,,,,,,,x
@@ -23,7 +23,7 @@ b_abukir,b_abukir,,Abukir,,,,,,,,,,,x
 b_abukir,b_abukir_adj,,,,,,,,,,,,,x
 b_abukir,greek,,Kanopos,,,,,,,,,,,x
 b_abukir,roman,,Canopus,,,,,,,,,,,x
-b_hammam,b_hammam,,Hamm·m,,,,,,,,,,,x
+b_hammam,b_hammam,,Hamm√°m,,,,,,,,,,,x
 b_hammam,b_hammam_adj,,,,,,,,,,,,,x
 b_marabout,b_marabout,,Marabout,,,,,,,,,,,x
 b_marabout,b_marabout_adj,,,,,,,,,,,,,x
@@ -31,7 +31,7 @@ b_dukhayla,b_dukhayla,,Dukhayla,,,,,,,,,,,x
 b_dukhayla,b_dukhayla_adj,,,,,,,,,,,,,x
 c_al_alamayn,PROV804,,Sullum,,,,,,,,,,,x
 c_al_alamayn,c_al_alamayn,,,,,,,,,,,,,x
-c_al_alamayn,c_al_alamayn_adj,,SullumÓ,,,,,,,,,,,x
+c_al_alamayn,c_al_alamayn_adj,,Sullum√Æ,,,,,,,,,,,x
 c_al_alamayn,greek,,Paraitonion,,,,,,,,,,,x
 c_al_alamayn,c_al_alamayn_adj_greek,,Paraitonian,,,,,,,,,,,x
 c_al_alamayn,roman,,Paraetonium,,,,,,,,,,,x
@@ -43,9 +43,9 @@ b_mersamatruh,b_mersamatruh,,Matruh,,,,,,,,,,,x
 b_mersamatruh,b_mersamatruh_adj,,,,,,,,,,,,,x
 b_mersamatruh,greek,,Paraitonion,,,,,,,,,,,x
 b_mersamatruh,roman,,Paraetonium,,,,,,,,,,,x
-c_quattara,PROV803,,SÓwa,,,,,,,,,,,x
+c_quattara,PROV803,,S√Æwa,,,,,,,,,,,x
 c_quattara,c_quattara,,,,,,,,,,,,,x
-c_quattara,c_quattara_adj,,SÓwÓ,,,,,,,,,,,x
+c_quattara,c_quattara_adj,,S√Æw√Æ,,,,,,,,,,,x
 c_quattara,greek,,Ammonion,,,,,,,,,,,x
 c_quattara,c_quattara_adj_greek,,Ammonian,,,,,,,,,,,x
 c_quattara,roman,,Ammonium,,,,,,,,,,,x
@@ -53,20 +53,20 @@ b_siwa,b_siwa,,Siwa,,,,,,,,,,,x
 b_siwa,b_siwa_adj,,,,,,,,,,,,,x
 b_siwa,greek,,Ammonion,,,,,,,,,,,x
 b_siwa,roman,,Ammonium,,,,,,,,,,,x
-b_santariya,b_santariya,,SantarÌya,,,,,,,,,,,x
+b_santariya,b_santariya,,Santar√≠ya,,,,,,,,,,,x
 b_santariya,b_santariya_adj,,,,,,,,,,,,,x
 b_santariya,greek,,Klimax,,,,,,,,,,,x
 b_santariya,roman,,Klimax,,,,,,,,,,,x
 b_quattara,b_quattara,,Quattara,,,,,,,,,,,x
 b_quattara,b_quattara_adj,,,,,,,,,,,,,x
-d_damietta,d_damietta,,Dumiy·t,,,,,,,,,,,x
-d_damietta,d_damietta_adj,,Dumiy·tÌ,,,,,,,,,,,x
+d_damietta,d_damietta,,Dumiy√°t,,,,,,,,,,,x
+d_damietta,d_damietta_adj,,Dumiy√°t√≠,,,,,,,,,,,x
 d_damietta,greek,,Augustamnike,,,,,,,,,,,x
 d_damietta,d_damietta_adj_greek,,Augustamnikan,,,,,,,,,,,x
 d_damietta,roman,,Augustamnica,,,,,,,,,,,x
-c_gabiyaha,PROV799,,Nastar‚wa,,,,,,,,,,,x
+c_gabiyaha,PROV799,,Nastar√¢wa,,,,,,,,,,,x
 c_gabiyaha,c_gabiyaha,,,,,,,,,,,,,x
-c_gabiyaha,c_gabiyaha_adj,,Nastar·wÓ,,,,,,,,,,,x
+c_gabiyaha,c_gabiyaha_adj,,Nastar√°w√Æ,,,,,,,,,,,x
 c_gabiyaha,central_italian,,Rosetta,,,,,,,,,,,x
 c_gabiyaha,c_gabiyaha_adj_central_italian,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,coptic,,Rashit,,,,,,,,,,,x
@@ -97,7 +97,7 @@ c_gabiyaha,tuscan,,Rosetta,,,,,,,,,,,x
 c_gabiyaha,c_gabiyaha_adj_tuscan,,Rosettan,,,,,,,,,,,x
 c_gabiyaha,venetian,,Rosetta,,,,,,,,,,,x
 c_gabiyaha,c_gabiyaha_adj_venetian,,Rosettan,,,,,,,,,,,x
-b_nastarawa,b_nastarawa,,Nastar·wa,,,,,,,,,,,x
+b_nastarawa,b_nastarawa,,Nastar√°wa,,,,,,,,,,,x
 b_nastarawa,b_nastarawa_adj,,,,,,,,,,,,,x
 b_burullus,b_burullus,,Burullus,,,,,,,,,,,x
 b_burullus,b_burullus_adj,,,,,,,,,,,,,x
@@ -110,7 +110,7 @@ b_fuwa,greek,,Paua,,,,,,,,,,,x
 b_fuwa,roman,,Paua,,,,,,,,,,,x
 b_tida,b_tida,,Tida,,,,,,,,,,,x
 b_tida,b_tida_adj,,,,,,,,,,,,,x
-b_rashid,b_rashid,,RashÌd,,,,,,,,,,,x
+b_rashid,b_rashid,,Rash√≠d,,,,,,,,,,,x
 b_rashid,b_rashid_adj,,,,,,,,,,,,,x
 b_rashid,central_italian,,Rosetta,,,,,,,,,,,x
 b_rashid,coptic,,Rashit,,,,,,,,,,,x
@@ -128,16 +128,16 @@ b_rashid,sicilian,,Rosetta,,,,,,,,,,,x
 b_rashid,southern_italian,,Rosetta,,,,,,,,,,,x
 b_rashid,tuscan,,Rosetta,,,,,,,,,,,x
 b_rashid,venetian,,Rosetta,,,,,,,,,,,x
-b_alshirak,b_alshirak,,al Shir·k,,,,,,,,,,,x
+b_alshirak,b_alshirak,,al Shir√°k,,,,,,,,,,,x
 b_alshirak,b_alshirak_adj,,,,,,,,,,,,,x
-c_delta,PROV798,,Dimy‚t,,,,,,,,,,,x
+c_delta,PROV798,,Dimy√¢t,,,,,,,,,,,x
 c_delta,c_delta,,,,,,,,,,,,,x
-c_delta,c_delta_adj,,Dimy·tÓ,,,,,,,,,,,x
+c_delta,c_delta_adj,,Dimy√°t√Æ,,,,,,,,,,,x
 c_delta,coptic,,Tamiati,,,,,,,,,,,x
 c_delta,greek,,Tamiathis,,,,,,,,,,,x
 c_delta,c_delta_adj_greek,,Tamiathian,,,,,,,,,,,x
 c_delta,roman,,Tamiathis,,,,,,,,,,,x
-b_damietta,b_damietta,,Dumiy·t,,,,,,,,,,,x
+b_damietta,b_damietta,,Dumiy√°t,,,,,,,,,,,x
 b_damietta,b_damietta_adj,,,,,,,,,,,,,x
 b_damietta,coptic,,Tamiati,,,,,,,,,,,x
 b_damietta,greek,,Tamiathis,,,,,,,,,,,x
@@ -149,28 +149,28 @@ b_shata,b_shata,,Shata,,,,,,,,,,,x
 b_shata,b_shata_adj,,,,,,,,,,,,,x
 b_daqahla,b_daqahla,,Daqahla,,,,,,,,,,,x
 b_daqahla,b_daqahla_adj,,,,,,,,,,,,,x
-c_pelusia,PROV789,,Ushm˙n Tann‚h,,,,,,,,,,,x
+c_pelusia,PROV789,,Ushm√∫n Tann√¢h,,,,,,,,,,,x
 c_pelusia,c_pelusia,,,,,,,,,,,,,x
-c_pelusia,c_pelusia_adj,,Ushm˙n Tann·hÓ,,,,,,,,,,,x
+c_pelusia,c_pelusia_adj,,Ushm√∫n Tann√°h√Æ,,,,,,,,,,,x
 c_pelusia,greek,,Thennesos,,,,,,,,,,,x
 c_pelusia,c_pelusia_adj_greek,,Thennesian,,,,,,,,,,,x
 c_pelusia,roman,,Thennisus,,,,,,,,,,,x
-b_ushmuntan,b_ushmuntan,,Ushm˙m Tann·h,,,,,,,,,,,x
+b_ushmuntan,b_ushmuntan,,Ushm√∫m Tann√°h,,,,,,,,,,,x
 b_ushmuntan,b_ushmuntan_adj,,,,,,,,,,,,,x
 b_ushmuntan,coptic,,Schmoun Erman,,,,,,,,,,,x
 b_ushmuntan,greek,,Schmoun Erman,,,,,,,,,,,x
 b_ushmuntan,roman,,Schmoun Erman,,,,,,,,,,,x
-b_tinis,b_tinis,,TinnÌs,,,,,,,,,,,x
+b_tinis,b_tinis,,Tinn√≠s,,,,,,,,,,,x
 b_tinis,b_tinis_adj,,,,,,,,,,,,,x
 b_tinis,greek,,Thennesos,,,,,,,,,,,x
 b_tinis,roman,,Thennisus,,,,,,,,,,,x
-b_faqus,b_faqus,,F·q˙s,,,,,,,,,,,x
+b_faqus,b_faqus,,F√°q√∫s,,,,,,,,,,,x
 b_faqus,b_faqus_adj,,,,,,,,,,,,,x
 b_faqus,greek,,Phakoussai,,,,,,,,,,,x
 b_faqus,roman,,Phakoussae,,,,,,,,,,,x
 c_bilbays,PROV1331,,Bilbays,,,,,,,,,,,x
 c_bilbays,c_bilbays,,,,,,,,,,,,,x
-c_bilbays,c_bilbays_adj,,BilbaysÓ,,,,,,,,,,,x
+c_bilbays,c_bilbays_adj,,Bilbays√Æ,,,,,,,,,,,x
 c_bilbays,coptic,,Phelbs,,,,,,,,,,,x
 c_bilbays,greek,,Bilbeis,,,,,,,,,,,x
 c_bilbays,c_bilbays_adj_greek,,Bilbeisi,,,,,,,,,,,x
@@ -184,106 +184,106 @@ b_basta,b_basta,,Basta,,,,,,,,,,,x
 b_basta,b_basta_adj,,,,,,,,,,,,,x
 b_basta,greek,,Boubastos,,,,,,,,,,,x
 b_basta,roman,,Bubastos,,,,,,,,,,,x
-b_san_bilbays,b_san_bilbays,,S·n,,,,,,,,,,,x
+b_san_bilbays,b_san_bilbays,,S√°n,,,,,,,,,,,x
 b_san_bilbays,b_san_bilbays_adj,,,,,,,,,,,,,x
 b_san_bilbays,greek,,Tanis,,,,,,,,,,,x
 b_san_bilbays,roman,,Tanis,,,,,,,,,,,x
-b_abbasiya,b_abbasiya,,al-'Abb·siya,,,,,,,,,,,x
+b_abbasiya,b_abbasiya,,al-'Abb√°siya,,,,,,,,,,,x
 b_abbasiya,b_abbasiya_adj,,,,,,,,,,,,,x
-b_banha,b_banha,,Banh·,,,,,,,,,,,x
+b_banha,b_banha,,Banh√°,,,,,,,,,,,x
 b_banha,b_banha_adj,,,,,,,,,,,,,x
-b_samannud,b_samannud,,Samann˙d,,,,,,,,,,,x
+b_samannud,b_samannud,,Samann√∫d,,,,,,,,,,,x
 b_samannud,b_samannud_adj,,,,,,,,,,,,,x
 b_samannud,greek,,Sebennytos,,,,,,,,,,,x
 b_samannud,roman,,Sebennytus,,,,,,,,,,,x
-d_cairo,d_cairo,,Q·hira,,,,,,,,,,,x
-d_cairo,d_cairo_adj,,Q·hirÌ,,,,,,,,,,,x
+d_cairo,d_cairo,,Q√°hira,,,,,,,,,,,x
+d_cairo,d_cairo_adj,,Q√°hir√≠,,,,,,,,,,,x
 d_cairo,greek,,Arkadia,,,,,,,,,,,x
 d_cairo,d_cairo_adj_greek,,Arkadian,,,,,,,,,,,x
 d_cairo,roman,,Arcadia,,,,,,,,,,,x
 c_cairo,PROV796,,Cairo,,,,,,,,,,,x
 c_cairo,c_cairo,,,,,,,,,,,,,x
-c_cairo,c_cairo_adj,,Q·hirÓ,,,,,,,,,,,x
+c_cairo,c_cairo_adj,,Q√°hir√Æ,,,,,,,,,,,x
 c_cairo,coptic,,Phystaton,,,,,,,,,,,x
 c_cairo,greek,,Phystaton,,,,,,,,,,,x
 c_cairo,c_cairo_adj_greek,,Phystatian,,,,,,,,,,,x
 c_cairo,roman,,Babylon,,,,,,,,,,,x
-b_cairo,b_cairo,,al Q·hira,,,,,,,,,,,x
+b_cairo,b_cairo,,al Q√°hira,,,,,,,,,,,x
 b_cairo,b_cairo_adj,,,,,,,,,,,,,x
 b_cairo,coptic,,Kahire,,,,,,,,,,,x
 b_cairo,greek,,Babylon,,,,,,,,,,,x
 b_cairo,roman,,Babylon,,,,,,,,,,,x
-b_fustat,b_fustat,,Fust·t,,,,,,,,,,,x
+b_fustat,b_fustat,,Fust√°t,,,,,,,,,,,x
 b_fustat,b_fustat_adj,,,,,,,,,,,,,x
 b_fustat,coptic,,Phystaton,,,,,,,,,,,x
 b_fustat,greek,,Phystaton,,,,,,,,,,,x
 b_fustat,roman,,Phystaton,,,,,,,,,,,x
-b_qaylub,b_qaylub,,Qalyl˙b,,,,,,,,,,,x
+b_qaylub,b_qaylub,,Qalyl√∫b,,,,,,,,,,,x
 b_qaylub,b_qaylub_adj,,,,,,,,,,,,,x
 b_qaylub,coptic,,On,,,,,,,,,,,x
 b_qaylub,greek,,Heliopolis,,,,,,,,,,,x
 b_qaylub,roman,,Heliopolis,,,,,,,,,,,x
 b_alazhar,b_alazhar,,al Azhar,,,,,,,,,,,x
 b_alazhar,b_alazhar_adj,,,,,,,,,,,,,x
-b_alazhar,greek,,Kremast· EkklisÌa,,,,,,,,,,,x
-b_helwan,b_helwan,,Hulw·n,,,,,,,,,,,x
+b_alazhar,greek,,Kremast√° Ekklis√≠a,,,,,,,,,,,x
+b_helwan,b_helwan,,Hulw√°n,,,,,,,,,,,x
 b_helwan,b_helwan_adj,,,,,,,,,,,,,x
 b_ain_shams,b_ain_shams,,Ain Shams,,,,,,,,,,,x
 b_ain_shams,b_ain_shams_adj,,,,,,,,,,,,,x
-b_ghayfa,b_ghayfa,,Ghayf·,,,,,,,,,,,x
+b_ghayfa,b_ghayfa,,Ghayf√°,,,,,,,,,,,x
 b_ghayfa,b_ghayfa_adj,,,,,,,,,,,,,x
-c_manupura,PROV797,,Man˙f,,,,,,,,,,,x
+c_manupura,PROV797,,Man√∫f,,,,,,,,,,,x
 c_manupura,c_manupura,,,,,,,,,,,,,x
-c_manupura,c_manupura_adj,,Man˙fÓ,,,,,,,,,,,x
+c_manupura,c_manupura_adj,,Man√∫f√Æ,,,,,,,,,,,x
 c_manupura,coptic,,Panaho,,,,,,,,,,,x
 c_manupura,greek,,Athribis,,,,,,,,,,,x
 c_manupura,c_manupura_adj_greek,,Athriban,,,,,,,,,,,x
 c_manupura,roman,,Athribis,,,,,,,,,,,x
-b_manuf,b_manuf,,Man˙f,,,,,,,,,,,x
+b_manuf,b_manuf,,Man√∫f,,,,,,,,,,,x
 b_manuf,b_manuf_adj,,,,,,,,,,,,,x
 b_manuf,coptic,,Onufe,,,,,,,,,,,x
 b_manuf,greek,,Onouphis,,,,,,,,,,,x
 b_manuf,roman,,Onuphis,,,,,,,,,,,x
-b_quwaysina,b_quwaysina,,Quwaysin·,,,,,,,,,,,x
+b_quwaysina,b_quwaysina,,Quwaysin√°,,,,,,,,,,,x
 b_quwaysina,b_quwaysina_adj,,,,,,,,,,,,,x
 b_quwaysina,coptic,,Panaho,,,,,,,,,,,x
 b_quwaysina,greek,,Athribis,,,,,,,,,,,x
 b_quwaysina,roman,,Athribis,,,,,,,,,,,x
-b_ibyar,b_ibyar,,Iby·r,,,,,,,,,,,x
+b_ibyar,b_ibyar,,Iby√°r,,,,,,,,,,,x
 b_ibyar,b_ibyar_adj,,,,,,,,,,,,,x
-b_shatanul,b_shatanul,,Shatan˙l,,,,,,,,,,,x
+b_shatanul,b_shatanul,,Shatan√∫l,,,,,,,,,,,x
 b_shatanul,b_shatanul_adj,,,,,,,,,,,,,x
 b_almahallah,b_almahallah,,Al-Mahallah,,,,,,,,,,,x
 b_almahallah,b_almahallah_adj,,,,,,,,,,,,,x
 b_zagazig,b_zagazig,,Zagazig,,,,,,,,,,,x
 b_zagazig,b_zagazig_adj,,,,,,,,,,,,,x
-c_buhairya,PROV801,,Hawf GharbÓ,,,,,,,,,,,x
+c_buhairya,PROV801,,Hawf Gharb√Æ,,,,,,,,,,,x
 c_buhairya,c_buhairya,,,,,,,,,,,,,x
-c_buhairya,c_buhairya_adj,,HawfÓ,,,,,,,,,,,x
+c_buhairya,c_buhairya_adj,,Hawf√Æ,,,,,,,,,,,x
 c_buhairya,coptic,,Timinhor,,,,,,,,,,,x
 c_buhairya,greek,,Hermopolis,,,,,,,,,,,x
 c_buhairya,c_buhairya_adj_greek,,Hermopolitan,,,,,,,,,,,x
 c_buhairya,roman,,Hermopolis,,,,,,,,,,,x
-b_damanhur,b_damanhur,,Damanh˙r,,,,,,,,,,,x
+b_damanhur,b_damanhur,,Damanh√∫r,,,,,,,,,,,x
 b_damanhur,b_damanhur_adj,,,,,,,,,,,,,x
 b_damanhur,coptic,,Timinhor,,,,,,,,,,,x
 b_damanhur,greek,,Hermopolis Mikra,,,,,,,,,,,x
 b_damanhur,roman,,Hermopolis Micra,,,,,,,,,,,x
-b_ramsis,b_ramsis,,RamsÌs,,,,,,,,,,,x
+b_ramsis,b_ramsis,,Rams√≠s,,,,,,,,,,,x
 b_ramsis,b_ramsis_adj,,,,,,,,,,,,,x
-b_kharibta,b_kharibta,,Kharibt·,,,,,,,,,,,x
+b_kharibta,b_kharibta,,Kharibt√°,,,,,,,,,,,x
 b_kharibta,b_kharibta_adj,,,,,,,,,,,,,x
 b_kharibta,greek,,Skiathis,,,,,,,,,,,x
 b_kharibta,roman,,Scetis,,,,,,,,,,,x
-b_qartasa,b_qartasa,,Qartas·,,,,,,,,,,,x
+b_qartasa,b_qartasa,,Qartas√°,,,,,,,,,,,x
 b_qartasa,b_qartasa_adj,,,,,,,,,,,,,x
-c_gizeh,PROV800,,GÓza,,,,,,,,,,,x
+c_gizeh,PROV800,,G√Æza,,,,,,,,,,,x
 c_gizeh,c_gizeh,,,,,,,,,,,,,x
-c_gizeh,c_gizeh_adj,,GÓzÓ,,,,,,,,,,,x
+c_gizeh,c_gizeh_adj,,G√Æz√Æ,,,,,,,,,,,x
 c_gizeh,greek,,Memphis,,,,,,,,,,,x
 c_gizeh,c_gizeh_adj_greek,,Memphian,,,,,,,,,,,x
 c_gizeh,roman,,Memphis,,,,,,,,,,,x
-b_gizeh,b_gizeh,,GÌzeh,,,,,,,,,,,x
+b_gizeh,b_gizeh,,G√≠zeh,,,,,,,,,,,x
 b_gizeh,b_gizeh_adj,,,,,,,,,,,,,x
 b_gizeh,greek,,Memphis,,,,,,,,,,,x
 b_gizeh,roman,,Memphis,,,,,,,,,,,x
@@ -291,11 +291,11 @@ b_aburowash,b_aburowash,,Abu Rowash,,,,,,,,,,,x
 b_aburowash,b_aburowash_adj,,,,,,,,,,,,,x
 b_saqqara,b_saqqara,,Saqqara,,,,,,,,,,,x
 b_saqqara,b_saqqara_adj,,,,,,,,,,,,,x
-b_saqqara,greek,,MonÏ tÏs Apa Ieremias,,,,,,,,,,,x
+b_saqqara,greek,,Mon√¨ t√¨s Apa Ieremias,,,,,,,,,,,x
 b_saqqara,roman,,Serapeum,,,,,,,,,,,x
 c_sarqihya,PROV790,,Quzlum,,,,,,,,,,,x
 c_sarqihya,c_sarqihya,,,,,,,,,,,,,x
-c_sarqihya,c_sarqihya_adj,,QuzlumÓ,,,,,,,,,,,x
+c_sarqihya,c_sarqihya_adj,,Quzlum√Æ,,,,,,,,,,,x
 c_sarqihya,greek,,Klysma,,,,,,,,,,,x
 c_sarqihya,c_sarqihya_adj_greek,,Klysman,,,,,,,,,,,x
 c_sarqihya,roman,,Clysma,,,,,,,,,,,x
@@ -309,21 +309,21 @@ b_suez,b_suez,,Suez,,,,,,,,,,,x
 b_suez,b_suez_adj,,,,,,,,,,,,,x
 c_itfih,PROV1335,,Itfih,,,,,,,,,,,x
 c_itfih,c_itfih,,,,,,,,,,,,,x
-c_itfih,c_itfih_adj,,ItfÓhÓ,,,,,,,,,,,x
+c_itfih,c_itfih_adj,,Itf√Æh√Æ,,,,,,,,,,,x
 c_itfih,coptic,,Tpeh,,,,,,,,,,,x
 c_itfih,greek,,Aphroditoupolis,,,,,,,,,,,x
 c_itfih,c_itfih_adj_greek,,Aphroditoupolitan,,,,,,,,,,,x
 c_itfih,roman,,Aphroditopolis,,,,,,,,,,,x
-b_itfih,b_itfih,,ItfÌh,,,,,,,,,,,x
+b_itfih,b_itfih,,Itf√≠h,,,,,,,,,,,x
 b_itfih,b_itfih_adj,,,,,,,,,,,,,x
 b_itfih,coptic,,Tpeh,,,,,,,,,,,x
 b_itfih,greek,,Aphroditoupolis,,,,,,,,,,,x
 b_itfih,roman,,Aphroditopolis,,,,,,,,,,,x
-b_busir,b_busir,,B˙sÌr,,,,,,,,,,,x
+b_busir,b_busir,,B√∫s√≠r,,,,,,,,,,,x
 b_busir,b_busir_adj,,,,,,,,,,,,,x
 b_busir,greek,,Bousiris,,,,,,,,,,,x
 b_busir,roman,,Bousiris,,,,,,,,,,,x
-b_lahun,b_lahun,,al Lah˙n,,,,,,,,,,,x
+b_lahun,b_lahun,,al Lah√∫n,,,,,,,,,,,x
 b_lahun,b_lahun_adj,,,,,,,,,,,,,x
 b_lahun,greek,,Ptolemais Hormou,,,,,,,,,,,x
 b_lahun,roman,,Ptolemais Hormou,,,,,,,,,,,x
@@ -331,89 +331,89 @@ b_alqababt,b_alqababt,,Al-Qababt,,,,,,,,,,,x
 b_alqababt,b_alqababt_adj,,,,,,,,,,,,,x
 c_bahnasa,PROV1336,,Bahnasa,,,,,,,,,,,x
 c_bahnasa,c_bahnasa,,,,,,,,,,,,,x
-c_bahnasa,c_bahnasa_adj,,BahnasÓ,,,,,,,,,,,x
+c_bahnasa,c_bahnasa_adj,,Bahnas√Æ,,,,,,,,,,,x
 c_bahnasa,coptic,,Pemdje,,,,,,,,,,,x
 c_bahnasa,greek,,Oxyrynchos,,,,,,,,,,,x
 c_bahnasa,c_bahnasa_adj_greek,,Oxyrynchan,,,,,,,,,,,x
 c_bahnasa,roman,,Oxyrhynchus,,,,,,,,,,,x
-b_bahnasa,b_bahnasa,,Al-Bahnas·,,,,,,,,,,,x
+b_bahnasa,b_bahnasa,,Al-Bahnas√°,,,,,,,,,,,x
 b_bahnasa,b_bahnasa_adj,,,,,,,,,,,,,x
 b_bahnasa,coptic,,Pemdje,,,,,,,,,,,x
 b_bahnasa,greek,,Oxyrynchos,,,,,,,,,,,x
 b_bahnasa,roman,,Oxyrhynchus,,,,,,,,,,,x
-b_saft,b_saft,,Saft al-MuhallabÌ,,,,,,,,,,,x
+b_saft,b_saft,,Saft al-Muhallab√≠,,,,,,,,,,,x
 b_saft,b_saft_adj,,,,,,,,,,,,,x
 b_alqays,b_alqays,,Al-Qays,,,,,,,,,,,x
 b_alqays,b_alqays_adj,,,,,,,,,,,,,x
 b_alqays,greek,,Kynopolis,,,,,,,,,,,x
 b_alqays,roman,,Cynopolis,,,,,,,,,,,x
-b_ansina,b_ansina,,AnsinÌ,,,,,,,,,,,x
+b_ansina,b_ansina,,Ansin√≠,,,,,,,,,,,x
 b_ansina,b_ansina_adj,,,,,,,,,,,,,x
-b_ahnas,b_ahnas,,Ahn·s,,,,,,,,,,,x
+b_ahnas,b_ahnas,,Ahn√°s,,,,,,,,,,,x
 b_ahnas,b_ahnas_adj,,,,,,,,,,,,,x
-d_alwahat,d_alwahat,,Al Wah·t,,,,,,,,,,,x
-d_alwahat,d_alwahat_adj,,Al Wah·tÌ,,,,,,,,,,,x
+d_alwahat,d_alwahat,,Al Wah√°t,,,,,,,,,,,x
+d_alwahat,d_alwahat_adj,,Al Wah√°t√≠,,,,,,,,,,,x
 c_kharija,PROV1341,,Kharija,,,,,,,,,,,x
 c_kharija,c_kharija,,,,,,,,,,,,,x
-c_kharija,c_kharija_adj,,Kh·rijÓ,,,,,,,,,,,x
+c_kharija,c_kharija_adj,,Kh√°rij√Æ,,,,,,,,,,,x
 c_kharija,coptic,,Uhiresi,,,,,,,,,,,x
 c_kharija,greek,,Oasis Megas,,,,,,,,,,,x
 c_kharija,c_kharija_adj_greek,,Oasis Megan,,,,,,,,,,,x
 c_kharija,roman,,Oasis Magna,,,,,,,,,,,x
-b_kharija,b_kharija,,Al-Kh·rija,,,,,,,,,,,x
+b_kharija,b_kharija,,Al-Kh√°rija,,,,,,,,,,,x
 b_kharija,b_kharija_adj,,,,,,,,,,,,,x
 b_kharija,greek,,Hibis,,,,,,,,,,,x
 b_kharija,roman,,Hibis,,,,,,,,,,,x
-b_alkalamun,b_alkalamun,,Al-Kalam˙n,,,,,,,,,,,x
+b_alkalamun,b_alkalamun,,Al-Kalam√∫n,,,,,,,,,,,x
 b_alkalamun,b_alkalamun_adj,,,,,,,,,,,,,x
 b_alkasr,b_alkasr,,Al-Kasr,,,,,,,,,,,x
 b_alkasr,b_alkasr_adj,,,,,,,,,,,,,x
 c_dakhila,PROV1342,,Dakhila,,,,,,,,,,,x
 c_dakhila,c_dakhila,,,,,,,,,,,,,x
-c_dakhila,c_dakhila_adj,,DakhÓlÓ,,,,,,,,,,,x
+c_dakhila,c_dakhila_adj,,Dakh√Æl√Æ,,,,,,,,,,,x
 c_dakhila,greek,,Mothis,,,,,,,,,,,x
 c_dakhila,c_dakhila_adj_greek,,Mothisan,,,,,,,,,,,x
 c_dakhila,roman,,Mothis,,,,,,,,,,,x
-b_dakhila,b_dakhila,,Al-D·khila,,,,,,,,,,,x
+b_dakhila,b_dakhila,,Al-D√°khila,,,,,,,,,,,x
 b_dakhila,b_dakhila_adj,,,,,,,,,,,,,x
 b_dakhila,greek,,Mothis,,,,,,,,,,,x
 b_dakhila,roman,,Mothis,,,,,,,,,,,x
-b_farfarun,b_farfarun,,Farf·r˙n,,,,,,,,,,,x
+b_farfarun,b_farfarun,,Farf√°r√∫n,,,,,,,,,,,x
 b_farfarun,b_farfarun_adj,,,,,,,,,,,,,x
 c_bahriya,PROV1343,,Bahriya,,,,,,,,,,,x
 c_bahriya,c_bahriya,,,,,,,,,,,,,x
-c_bahriya,c_bahriya_adj,,BahrÓyÓ,,,,,,,,,,,x
+c_bahriya,c_bahriya_adj,,Bahr√Æy√Æ,,,,,,,,,,,x
 c_bahriya,greek,,Oasis Mikra,,,,,,,,,,,x
 c_bahriya,c_bahriya_adj_greek,,Oasis Mikran,,,,,,,,,,,x
 c_bahriya,roman,,Oasis Parva,,,,,,,,,,,x
-b_bahriya,b_bahriya,,Al-B·hriya,,,,,,,,,,,x
+b_bahriya,b_bahriya,,Al-B√°hriya,,,,,,,,,,,x
 b_bahriya,b_bahriya_adj,,,,,,,,,,,,,x
 b_bahriya,greek,,Oasis Mikra,,,,,,,,,,,x
 b_bahriya,roman,,Oasis Parva,,,,,,,,,,,x
 c_fayyum,PROV1334,,Fayyum,,,,,,,,,,,x
 c_fayyum,c_fayyum,,,,,,,,,,,,,x
-c_fayyum,c_fayyum_adj,,Fayy˙mÓ,,,,,,,,,,,x
+c_fayyum,c_fayyum_adj,,Fayy√∫m√Æ,,,,,,,,,,,x
 c_fayyum,coptic,,Peiom,,,,,,,,,,,x
-c_fayyum,greek,,ArsinoÎ,,,,,,,,,,,x
+c_fayyum,greek,,Arsino√´,,,,,,,,,,,x
 c_fayyum,c_fayyum_adj_greek,,Arsinoan,,,,,,,,,,,x
-c_fayyum,roman,,ArsinoÎ,,,,,,,,,,,x
-b_fayyum,b_fayyum,,Al-Fayy˙m,,,,,,,,,,,x
+c_fayyum,roman,,Arsino√´,,,,,,,,,,,x
+b_fayyum,b_fayyum,,Al-Fayy√∫m,,,,,,,,,,,x
 b_fayyum,b_fayyum_adj,,,,,,,,,,,,,x
 b_fayyum,coptic,,Peiom,,,,,,,,,,,x
-b_fayyum,greek,,ArsinoÎ,,,,,,,,,,,x
-b_fayyum,roman,,ArsinoÎ,,,,,,,,,,,x
-b_fidaymin,b_fidaymin,,FidaymÌn,,,,,,,,,,,x
+b_fayyum,greek,,Arsino√´,,,,,,,,,,,x
+b_fayyum,roman,,Arsino√´,,,,,,,,,,,x
+b_fidaymin,b_fidaymin,,Fidaym√≠n,,,,,,,,,,,x
 b_fidaymin,b_fidaymin_adj,,,,,,,,,,,,,x
-b_iqna,b_iqna,,Iqn·,,,,,,,,,,,x
+b_iqna,b_iqna,,Iqn√°,,,,,,,,,,,x
 b_iqna,b_iqna_adj,,,,,,,,,,,,,x
-d_aswan,d_aswan,,Al-Sa'Ìd,,,,,,,,,,,x
-d_aswan,d_aswan_adj,,Al-Sa'ÌdÌ,,,,,,,,,,,x
-d_aswan,greek,,ThebaÔs,,,,,,,,,,,x
-d_aswan,d_aswan_adj_greek,,ThebaÔan,,,,,,,,,,,x
+d_aswan,d_aswan,,Al-Sa'√≠d,,,,,,,,,,,x
+d_aswan,d_aswan_adj,,Al-Sa'√≠d√≠,,,,,,,,,,,x
+d_aswan,greek,,Theba√Øs,,,,,,,,,,,x
+d_aswan,d_aswan_adj_greek,,Theba√Øan,,,,,,,,,,,x
 d_aswan,roman,,Thebais,,,,,,,,,,,x
 c_quena,PROV791,,Qusayr,,,,,,,,,,,x
 c_quena,c_quena,,,,,,,,,,,,,x
-c_quena,c_quena_adj,,QusayrÓ,,,,,,,,,,,x
+c_quena,c_quena_adj,,Qusayr√Æ,,,,,,,,,,,x
 c_quena,greek,,Myos Hormos,,,,,,,,,,,x
 c_quena,c_quena_adj_greek,,Myos Horman,,,,,,,,,,,x
 c_quena,roman,,Myos Hormos,,,,,,,,,,,x
@@ -427,52 +427,52 @@ b_abughusun,b_abughusun,,Abu Ghusun,,,,,,,,,,,x
 b_abughusun,b_abughusun_adj,,,,,,,,,,,,,x
 c_manfalut,PROV1337,,Manfalut,,,,,,,,,,,x
 c_manfalut,c_manfalut,,,,,,,,,,,,,x
-c_manfalut,c_manfalut_adj,,Manfal˙tÓ,,,,,,,,,,,x
+c_manfalut,c_manfalut_adj,,Manfal√∫t√Æ,,,,,,,,,,,x
 c_manfalut,coptic,,Manbalot,,,,,,,,,,,x
 c_manfalut,greek,,Manbalot,,,,,,,,,,,x
 c_manfalut,c_manfalut_adj_greek,,Manbalotan,,,,,,,,,,,x
 c_manfalut,roman,,Manbalot,,,,,,,,,,,x
-b_manfalut,b_manfalut,,Manfal˙t,,,,,,,,,,,x
+b_manfalut,b_manfalut,,Manfal√∫t,,,,,,,,,,,x
 b_manfalut,b_manfalut_adj,,,,,,,,,,,,,x
 b_manfalut,coptic,,Manbalot,,,,,,,,,,,x
 b_manfalut,greek,,Manbalot,,,,,,,,,,,x
 b_manfalut,roman,,Manbalot,,,,,,,,,,,x
-b_qusqam,b_qusqam,,Q˙s Q·m,,,,,,,,,,,x
+b_qusqam,b_qusqam,,Q√∫s Q√°m,,,,,,,,,,,x
 b_qusqam,b_qusqam_adj,,,,,,,,,,,,,x
-b_ushmun,b_ushmun,,Al-Ushm˙n,,,,,,,,,,,x
+b_ushmun,b_ushmun,,Al-Ushm√∫n,,,,,,,,,,,x
 b_ushmun,b_ushmun_adj,,,,,,,,,,,,,x
 b_ushmun,greek,,Hermopolis Megas,,,,,,,,,,,x
 b_ushmun,roman,,Hermopolis Magna,,,,,,,,,,,x
 c_ikhmin,PROV1339,,Ikhmin,,,,,,,,,,,x
 c_ikhmin,c_ikhmin,,,,,,,,,,,,,x
-c_ikhmin,c_ikhmin_adj,,IkhmÓnÓ,,,,,,,,,,,x
+c_ikhmin,c_ikhmin_adj,,Ikhm√Æn√Æ,,,,,,,,,,,x
 c_ikhmin,coptic,,Shmin,,,,,,,,,,,x
 c_ikhmin,greek,,Panopolis,,,,,,,,,,,x
 c_ikhmin,c_ikhmin_adj_greek,,Panopolitan,,,,,,,,,,,x
 c_ikhmin,roman,,Panopolis,,,,,,,,,,,x
-b_ikhmin,b_ikhmin,,IkhmÌn,,,,,,,,,,,x
+b_ikhmin,b_ikhmin,,Ikhm√≠n,,,,,,,,,,,x
 b_ikhmin,b_ikhmin_adj,,,,,,,,,,,,,x
 b_ikhmin,coptic,,Shmin,,,,,,,,,,,x
 b_ikhmin,greek,,Panopolis,,,,,,,,,,,x
 b_ikhmin,roman,,Panopolis,,,,,,,,,,,x
-b_hu,b_hu,,H˙,,,,,,,,,,,x
+b_hu,b_hu,,H√∫,,,,,,,,,,,x
 b_hu,b_hu_adj,,,,,,,,,,,,,x
 b_hu,greek,,Diospolis Mikra,,,,,,,,,,,x
 b_hu,roman,,Diospolis Micra,,,,,,,,,,,x
-b_bulyana,b_bulyana,,Buly·na,,,,,,,,,,,x
+b_bulyana,b_bulyana,,Buly√°na,,,,,,,,,,,x
 b_bulyana,b_bulyana_adj,,,,,,,,,,,,,x
 c_qus,PROV1340,,Qus,,,,,,,,,,,x
 c_qus,c_qus,,,,,,,,,,,,,x
-c_qus,c_qus_adj,,Q˙sÓ,,,,,,,,,,,x
+c_qus,c_qus_adj,,Q√∫s√Æ,,,,,,,,,,,x
 c_qus,coptic,,Ne,,,,,,,,,,,x
 c_qus,greek,,Thebai,,,,,,,,,,,x
 c_qus,c_qus_adj_greek,,Thebaian,,,,,,,,,,,x
 c_qus,roman,,Thebae,,,,,,,,,,,x
-b_qus,b_qus,,Q˙s,,,,,,,,,,,x
+b_qus,b_qus,,Q√∫s,,,,,,,,,,,x
 b_qus,b_qus_adj,,,,,,,,,,,,,x
 b_qus,greek,,Apollinopolis Mikra,,,,,,,,,,,x
 b_qus,roman,,Apollonopolis Parva,,,,,,,,,,,x
-b_qina,b_qina,,Qin·,,,,,,,,,,,x
+b_qina,b_qina,,Qin√°,,,,,,,,,,,x
 b_qina,b_qina_adj,,,,,,,,,,,,,x
 b_qina,coptic,,Kone,,,,,,,,,,,x
 b_qina,greek,,Kaine,,,,,,,,,,,x
@@ -482,7 +482,7 @@ b_luxor,b_luxor_adj,,,,,,,,,,,,,x
 b_luxor,coptic,,Ne,,,,,,,,,,,x
 b_luxor,greek,,Thebai,,,,,,,,,,,x
 b_luxor,roman,,Thebae,,,,,,,,,,,x
-b_dandara,b_dandara,,Dandar·,,,,,,,,,,,x
+b_dandara,b_dandara,,Dandar√°,,,,,,,,,,,x
 b_dandara,b_dandara_adj,,,,,,,,,,,,,x
 b_dandara,greek,,Tentyris,,,,,,,,,,,x
 b_dandara,roman,,Tentyris,,,,,,,,,,,x
@@ -490,16 +490,16 @@ b_quft,b_quft,,Qift,,,,,,,,,,,x
 b_quft,b_quft_adj,,,,,,,,,,,,,x
 b_quft,greek,,Iustinianopolis,,,,,,,,,,,x
 b_quft,roman,,Coptos,,,,,,,,,,,x
-b_faw,b_faw,,F·w,,,,,,,,,,,x
+b_faw,b_faw,,F√°w,,,,,,,,,,,x
 b_faw,b_faw_adj,,,,,,,,,,,,,x
 c_asyut,PROV795,,Asyut,,,,,,,,,,,x
 c_asyut,c_asyut,,,,,,,,,,,,,x
-c_asyut,c_asyut_adj,,Asy˙tÓ,,,,,,,,,,,x
+c_asyut,c_asyut_adj,,Asy√∫t√Æ,,,,,,,,,,,x
 c_asyut,coptic,,Siout,,,,,,,,,,,x
 c_asyut,greek,,Lykopolis,,,,,,,,,,,x
 c_asyut,c_asyut_adj_greek,,Lykopolitan,,,,,,,,,,,x
 c_asyut,roman,,Lycopolis,,,,,,,,,,,x
-b_asyut,b_asyut,,Asy˙t,,,,,,,,,,,x
+b_asyut,b_asyut,,Asy√∫t,,,,,,,,,,,x
 b_asyut,b_asyut_adj,,,,,,,,,,,,,x
 b_asyut,coptic,,Siout,,,,,,,,,,,x
 b_asyut,greek,,Lykopolis,,,,,,,,,,,x
@@ -508,25 +508,25 @@ b_shutb,b_shutb,,Shutb,,,,,,,,,,,x
 b_shutb,b_shutb_adj,,,,,,,,,,,,,x
 b_shutb,greek,,Hypsele,,,,,,,,,,,x
 b_shutb,roman,,Hypsele,,,,,,,,,,,x
-b_butij,b_butij,,B˙tÌj,,,,,,,,,,,x
+b_butij,b_butij,,B√∫t√≠j,,,,,,,,,,,x
 b_butij,b_butij_adj,,,,,,,,,,,,,x
 b_butij,greek,,Apotheke,,,,,,,,,,,x
 b_butij,roman,,Apotheke,,,,,,,,,,,x
-b_bawit,b_bawit,,BawÌt,,,,,,,,,,,x
+b_bawit,b_bawit,,Baw√≠t,,,,,,,,,,,x
 b_bawit,b_bawit_adj,,,,,,,,,,,,,x
 c_aswan,PROV794,,Aswan,,,,,,,,,,,x
 c_aswan,c_aswan,,,,,,,,,,,,,x
-c_aswan,c_aswan_adj,,Asw·nÓ,,,,,,,,,,,x
+c_aswan,c_aswan_adj,,Asw√°n√Æ,,,,,,,,,,,x
 c_aswan,coptic,,Suan,,,,,,,,,,,x
 c_aswan,greek,,Syene,,,,,,,,,,,x
 c_aswan,c_aswan_adj_greek,,Syenan,,,,,,,,,,,x
 c_aswan,roman,,Syene,,,,,,,,,,,x
-b_aswan,b_aswan,,Asw·n,,,,,,,,,,,x
+b_aswan,b_aswan,,Asw√°n,,,,,,,,,,,x
 b_aswan,b_aswan_adj,,,,,,,,,,,,,x
 b_aswan,coptic,,Suan,,,,,,,,,,,x
 b_aswan,greek,,Syene,,,,,,,,,,,x
 b_aswan,roman,,Syene,,,,,,,,,,,x
-b_udfu,b_udfu,,Udf˙,,,,,,,,,,,x
+b_udfu,b_udfu,,Udf√∫,,,,,,,,,,,x
 b_udfu,b_udfu_adj,,,,,,,,,,,,,x
 b_udfu,greek,,Apollinopolis Megas,,,,,,,,,,,x
 b_udfu,roman,,Apollonopolis Magna,,,,,,,,,,,x
@@ -534,34 +534,34 @@ b_armant,b_armant,,Armant,,,,,,,,,,,x
 b_armant,b_armant_adj,,,,,,,,,,,,,x
 b_armant,greek,,Hermonthis,,,,,,,,,,,x
 b_armant,roman,,Hermonthis,,,,,,,,,,,x
-b_isna,b_isna,,Isn·,,,,,,,,,,,x
+b_isna,b_isna,,Isn√°,,,,,,,,,,,x
 b_isna,b_isna_adj,,,,,,,,,,,,,x
 d_cyrenaica,d_cyrenaica,,Barqa,,,,,,,,,,,x
-d_cyrenaica,d_cyrenaica_adj,,BarqÌ,,,,,,,,,,,x
+d_cyrenaica,d_cyrenaica_adj,,Barq√≠,,,,,,,,,,,x
 d_cyrenaica,greek,,Libya Pentapolis,,,,,,,,,,,x
 d_cyrenaica,d_cyrenaica_adj_greek,,Lybia Pentapolitan,,,,,,,,,,,x
 d_cyrenaica,roman,,Libya Pentapolis,,,,,,,,,,,x
-c_senoussi,PROV807,,AwjÓla,,,,,,,,,,,x
+c_senoussi,PROV807,,Awj√Æla,,,,,,,,,,,x
 c_senoussi,c_senoussi,,,,,,,,,,,,,x
-c_senoussi,c_senoussi_adj,,AwjÓlÓ,,,,,,,,,,,x
+c_senoussi,c_senoussi_adj,,Awj√Æl√Æ,,,,,,,,,,,x
 c_senoussi,greek,,Augila,,,,,,,,,,,x
 c_senoussi,c_senoussi_adj_greek,,Augilan,,,,,,,,,,,x
 c_senoussi,roman,,Augila,,,,,,,,,,,x
-b_awjila,b_awjila,,AwjÌla,,,,,,,,,,,x
+b_awjila,b_awjila,,Awj√≠la,,,,,,,,,,,x
 b_awjila,b_awjila_adj,,,,,,,,,,,,,x
 b_awjila,greek,,Augila,,,,,,,,,,,x
 b_awjila,roman,,Augila,,,,,,,,,,,x
 b_jalu,b_jalu,,Jalu,,,,,,,,,,,x
 b_jalu,b_jalu_adj,,,,,,,,,,,,,x
-b_arzakiya,b_arzakiya,,ArzakÌya,,,,,,,,,,,x
+b_arzakiya,b_arzakiya,,Arzak√≠ya,,,,,,,,,,,x
 b_arzakiya,b_arzakiya_adj,,,,,,,,,,,,,x
 c_ajadabiya,PROV1345,,Adjadabiya,,,,,,,,,,,x
 c_ajadabiya,c_ajadabiya,,,,,,,,,,,,,x
-c_ajadabiya,c_ajadabiya_adj,,AjadabÓyÓ,,,,,,,,,,,x
+c_ajadabiya,c_ajadabiya_adj,,Ajadab√Æy√Æ,,,,,,,,,,,x
 c_ajadabiya,greek,,Corniclanum,,,,,,,,,,,x
 c_ajadabiya,c_ajadabiya_adj_greek,,Corniclanian,,,,,,,,,,,x
 c_ajadabiya,roman,,Corniclanum,,,,,,,,,,,x
-b_ajdabiya,b_ajdabiya,,AjadabÌya,,,,,,,,,,,x
+b_ajdabiya,b_ajdabiya,,Ajadab√≠ya,,,,,,,,,,,x
 b_ajdabiya,b_ajdabiya_adj,,,,,,,,,,,,,x
 b_ajdabiya,greek,,Corniclanum,,,,,,,,,,,x
 b_ajdabiya,roman,,Corniclanum,,,,,,,,,,,x
@@ -571,7 +571,7 @@ b_alaghaila,greek,,Anabucis,,,,,,,,,,,x
 b_alaghaila,roman,,Anabucis,,,,,,,,,,,x
 c_benghazi,PROV808,,Barqa,,,,,,,,,,,x
 c_benghazi,c_benghazi,,,,,,,,,,,,,x
-c_benghazi,c_benghazi_adj,,BarqÓ,,,,,,,,,,,x
+c_benghazi,c_benghazi_adj,,Barq√Æ,,,,,,,,,,,x
 c_benghazi,greek,,Kyrene,,,,,,,,,,,x
 c_benghazi,c_benghazi_adj_greek,,Kyrenian,,,,,,,,,,,x
 c_benghazi,roman,,Cyrene,,,,,,,,,,,x
@@ -579,15 +579,15 @@ b_barca,b_barca,,Barqa,,,,,,,,,,,x
 b_barca,b_barca_adj,,,,,,,,,,,,,x
 b_barca,greek,,Barke,,,,,,,,,,,x
 b_barca,roman,,Barca,,,,,,,,,,,x
-b_benghazi,b_benghazi,,Bengh·zÌ,,,,,,,,,,,x
+b_benghazi,b_benghazi,,Bengh√°z√≠,,,,,,,,,,,x
 b_benghazi,b_benghazi_adj,,,,,,,,,,,,,x
 b_benghazi,greek,,Berenike,,,,,,,,,,,x
 b_benghazi,roman,,Berenice,,,,,,,,,,,x
-b_oriana,b_oriana,,Ori·na,,,,,,,,,,,x
+b_oriana,b_oriana,,Ori√°na,,,,,,,,,,,x
 b_oriana,b_oriana_adj,,,,,,,,,,,,,x
 b_oriana,greek,,Kyrene,,,,,,,,,,,x
 b_oriana,roman,,Cyrene,,,,,,,,,,,x
-b_baydabenghazi,b_baydabenghazi,,Bayd·,,,,,,,,,,,x
+b_baydabenghazi,b_baydabenghazi,,Bayd√°,,,,,,,,,,,x
 b_baydabenghazi,b_baydabenghazi_adj,,,,,,,,,,,,,x
 b_baydabenghazi,greek,,Balagrae,,,,,,,,,,,x
 b_baydabenghazi,roman,,Balagrae,,,,,,,,,,,x
@@ -595,9 +595,9 @@ b_tulmaytath,b_tulmaytath,,Tulmaytath,,,,,,,,,,,x
 b_tulmaytath,b_tulmaytath_adj,,,,,,,,,,,,,x
 b_tulmaytath,greek,,Ptolemais,,,,,,,,,,,x
 b_tulmaytath,roman,,Ptolemais,,,,,,,,,,,x
-c_tobruk,PROV805,,Tubr˙k,,,,,,,,,,,x
+c_tobruk,PROV805,,Tubr√∫k,,,,,,,,,,,x
 c_tobruk,c_tobruk,,,,,,,,,,,,,x
-c_tobruk,c_tobruk_adj,,Tobr˙kÓ,,,,,,,,,,,x
+c_tobruk,c_tobruk_adj,,Tobr√∫k√Æ,,,,,,,,,,,x
 c_tobruk,greek,,Antipyrgos,,,,,,,,,,,x
 c_tobruk,c_tobruk_adj_greek,,Antipyrgian,,,,,,,,,,,x
 c_tobruk,roman,,Antipyrgus,,,,,,,,,,,x
@@ -611,7 +611,7 @@ b_derna,greek,,Darnis,,,,,,,,,,,x
 b_derna,roman,,Darnis,,,,,,,,,,,x
 b_lakka,b_lakka,,Lakka,,,,,,,,,,,x
 b_lakka,b_lakka_adj,,,,,,,,,,,,,x
-b_bardia,b_bardia,,BardÌya,,,,,,,,,,,x
+b_bardia,b_bardia,,Bard√≠ya,,,,,,,,,,,x
 b_bardia,b_bardia_adj,,,,,,,,,,,,,x
 b_bardia,greek,,Petras Megas,,,,,,,,,,,x
 b_bardia,roman,,Petras Maior,,,,,,,,,,,x
@@ -631,7 +631,7 @@ d_tunis,roman,,Africa Proconsularis,,,,,,,,,,,x
 d_tunis,d_tunis_adj_roman,,Africa Proconsularan,,,,,,,,,,,x
 c_tunis,PROV817,,Tunis,,,,,,,,,,,x
 c_tunis,c_tunis,,,,,,,,,,,,,x
-c_tunis,c_tunis_adj,,T˙nisÓ,,,,,,,,,,,x
+c_tunis,c_tunis_adj,,T√∫nis√Æ,,,,,,,,,,,x
 c_tunis,c_tunis_adj_andalusian_arabic,,Qartajan,,,,,,,,,,,x
 c_tunis,c_tunis_adj_bedouin_arabic,,Qartajan,,,,,,,,,,,x
 c_tunis,c_tunis_adj_egyptian_arabic,,Qartajan,,,,,,,,,,,x
@@ -679,14 +679,14 @@ b_hammamet,b_hammamet,,Hammamet,,,,,,,,,,,x
 b_hammamet,b_hammamet_adj,,,,,,,,,,,,,x
 b_hammamet,greek,,Pupput,,,,,,,,,,,x
 b_hammamet,roman,,Pupput,,,,,,,,,,,x
-c_medjerda,PROV818,,S˙sa,,,,,,,,,,,x
+c_medjerda,PROV818,,S√∫sa,,,,,,,,,,,x
 c_medjerda,c_medjerda,,,,,,,,,,,,,x
-c_medjerda,c_medjerda_adj,,S˙sÓ,,,,,,,,,,,x
+c_medjerda,c_medjerda_adj,,S√∫s√Æ,,,,,,,,,,,x
 c_medjerda,greek,,Hadrumetum,,,,,,,,,,,x
 c_medjerda,c_medjerda_adj_greek,,Hadrumetan,,,,,,,,,,,x
 c_medjerda,roman,,Hadrumetum,,,,,,,,,,,x
 c_medjerda,c_medjerda_adj_roman,,Hadrumetan,,,,,,,,,,,x
-b_monastir,b_monastir,,M˙nastir,,,,,,,,,,,x
+b_monastir,b_monastir,,M√∫nastir,,,,,,,,,,,x
 b_monastir,b_monastir_adj,,,,,,,,,,,,,x
 b_monastir,greek,,Ruspina,,,,,,,,,,,x
 b_monastir,roman,,Ruspina,,,,,,,,,,,x
@@ -698,7 +698,7 @@ b_siliana,b_siliana,,Siliana,,,,,,,,,,,x
 b_siliana,b_siliana_adj,,,,,,,,,,,,,x
 c_bizerte,PROV819,,Banzart,,,,,,,,,,,x
 c_bizerte,c_bizerte,,,,,,,,,,,,,x
-c_bizerte,c_bizerte_adj,,BanzartÓ,,,,,,,,,,,x
+c_bizerte,c_bizerte_adj,,Banzart√Æ,,,,,,,,,,,x
 c_bizerte,greek,,Hippo Diarrhytos,,,,,,,,,,,x
 c_bizerte,c_bizerte_adj_greek,,Hippo Diarrhytan,,,,,,,,,,,x
 c_bizerte,roman,,Hippo Diarrhytus,,,,,,,,,,,x
@@ -719,24 +719,24 @@ b_marsaalkharaz,b_marsaalkharaz,,Marsa al-Kharaz,,,,,,,,,,,x
 b_marsaalkharaz,b_marsaalkharaz_adj,,,,,,,,,,,,,x
 c_kairwan,PROV815,,Kairwan,,,,,,,,,,,x
 c_kairwan,c_kairwan,,,,,,,,,,,,,x
-c_kairwan,c_kairwan_adj,,Kairaw·nÓ,,,,,,,,,,,x
+c_kairwan,c_kairwan_adj,,Kairaw√°n√Æ,,,,,,,,,,,x
 c_kairwan,greek,,Thysdrus,,,,,,,,,,,x
 c_kairwan,c_kairwan_adj_greek,,Thysdrian,,,,,,,,,,,x
 c_kairwan,roman,,Thysdrus,,,,,,,,,,,x
 c_kairwan,c_kairwan_adj_roman,,Thysdrian,,,,,,,,,,,x
-b_kairouan,b_kairouan,,Kairaw·n,,,,,,,,,,,x
+b_kairouan,b_kairouan,,Kairaw√°n,,,,,,,,,,,x
 b_kairouan,b_kairouan_adj,,,,,,,,,,,,,x
 b_kairouan,greek,,Kamounia,,,,,,,,,,,x
 b_kairouan,roman,,Kamounia,,,,,,,,,,,x
-b_alabbasiyaifr,b_alabbasiyaifr,,Al-Abb·sÌya,,,,,,,,,,,x
+b_alabbasiyaifr,b_alabbasiyaifr,,Al-Abb√°s√≠ya,,,,,,,,,,,x
 b_alabbasiyaifr,b_alabbasiyaifr_adj,,,,,,,,,,,,,x
 b_alabbasiyaifr,greek,,Thysdros,,,,,,,,,,,x
 b_alabbasiyaifr,roman,,Thysdrus,,,,,,,,,,,x
-b_rakkada,b_rakkada,,Rakk·da,,,,,,,,,,,x
+b_rakkada,b_rakkada,,Rakk√°da,,,,,,,,,,,x
 b_rakkada,b_rakkada_adj,,,,,,,,,,,,,x
 b_rakkada,greek,,Iubaltiana,,,,,,,,,,,x
 b_rakkada,roman,,Iubaltiana,,,,,,,,,,,x
-b_sabiba,b_sabiba,,SabÌba,,,,,,,,,,,x
+b_sabiba,b_sabiba,,Sab√≠ba,,,,,,,,,,,x
 b_sabiba,b_sabiba_adj,,,,,,,,,,,,,x
 b_sabiba,greek,,Sufes,,,,,,,,,,,x
 b_sabiba,roman,,Sufes,,,,,,,,,,,x
@@ -744,24 +744,24 @@ b_eljem,b_eljem,,El Jem,,,,,,,,,,,x
 b_eljem,b_eljem_adj,,,,,,,,,,,,,x
 b_eljem,greek,,Aquae Regiae,,,,,,,,,,,x
 b_eljem,roman,,Aquae Regiae,,,,,,,,,,,x
-b_subaytila,b_subaytila,,SubaytÌla,,,,,,,,,,,x
+b_subaytila,b_subaytila,,Subayt√≠la,,,,,,,,,,,x
 b_subaytila,b_subaytila_adj,,,,,,,,,,,,,x
 c_sfax,PROV1353,,Sfax,,,,,,,,,,,x
 c_sfax,c_sfax,,,,,,,,,,,,,x
-c_sfax,c_sfax_adj,,Suf·ksÓ,,,,,,,,,,,x
+c_sfax,c_sfax_adj,,Suf√°ks√Æ,,,,,,,,,,,x
 c_sfax,greek,,Thapsus,,,,,,,,,,,x
 c_sfax,c_sfax_adj_greek,,Thapsian,,,,,,,,,,,x
 c_sfax,roman,,Thapsus,,,,,,,,,,,x
 c_sfax,c_sfax_adj_roman,,Thapsian,,,,,,,,,,,x
-b_sfax,b_sfax,,Suf·kis,,,,,,,,,,,x
+b_sfax,b_sfax,,Suf√°kis,,,,,,,,,,,x
 b_sfax,b_sfax_adj,,,,,,,,,,,,,x
 b_sfax,greek,,Taparura,,,,,,,,,,,x
 b_sfax,roman,,Taparura,,,,,,,,,,,x
-b_mahdia,b_mahdia,,MahdÌya,,,,,,,,,,,x
+b_mahdia,b_mahdia,,Mahd√≠ya,,,,,,,,,,,x
 b_mahdia,b_mahdia_adj,,,,,,,,,,,,,x
 b_mahdia,greek,,Thapsos,,,,,,,,,,,x
 b_mahdia,roman,,Thapsus,,,,,,,,,,,x
-b_haydaran,b_haydaran,,Haydar·n,,,,,,,,,,,x
+b_haydaran,b_haydaran,,Haydar√°n,,,,,,,,,,,x
 b_haydaran,b_haydaran_adj,,,,,,,,,,,,,x
 b_slakta,b_slakta,,Slakta,,,,,,,,,,,x
 b_slakta,b_slakta_adj,,,,,,,,,,,,,x
@@ -779,7 +779,7 @@ d_qamuda,roman,,Byzacena,,,,,,,,,,,x
 d_qamuda,d_qamuda_adj_roman,,Byzacenan,,,,,,,,,,,x
 c_gabes,PROV814,,Gabes,,,,,,,,,,,x
 c_gabes,c_gabes,,,,,,,,,,,,,x
-c_gabes,c_gabes_adj,,Q·bisÓ,,,,,,,,,,,x
+c_gabes,c_gabes_adj,,Q√°bis√Æ,,,,,,,,,,,x
 c_gabes,greek,,Tacape,,,,,,,,,,,x
 c_gabes,c_gabes_adj_greek,,Tacapian,,,,,,,,,,,x
 c_gabes,roman,,Tacapae,,,,,,,,,,,x
@@ -788,7 +788,7 @@ b_haddej,b_haddej,,Haddej,,,,,,,,,,,x
 b_haddej,b_haddej_adj,,,,,,,,,,,,,x
 b_haddej,greek,,Bezereos,,,,,,,,,,,x
 b_haddej,roman,,Bezereos,,,,,,,,,,,x
-b_gabes,b_gabes,,G·bis,,,,,,,,,,,x
+b_gabes,b_gabes,,G√°bis,,,,,,,,,,,x
 b_gabes,b_gabes_adj,,,,,,,,,,,,,x
 b_gabes,greek,,Tacape,,,,,,,,,,,x
 b_gabes,roman,,Tacapae,,,,,,,,,,,x
@@ -800,7 +800,7 @@ b_medenine,b_medenine,,Medenine,,,,,,,,,,,x
 b_medenine,b_medenine_adj,,,,,,,,,,,,,x
 b_medenine,greek,,Zitha,,,,,,,,,,,x
 b_medenine,roman,,Zitha,,,,,,,,,,,x
-b_jarjis,b_jarjis,,JarjÌs,,,,,,,,,,,x
+b_jarjis,b_jarjis,,Jarj√≠s,,,,,,,,,,,x
 b_jarjis,b_jarjis_adj,,,,,,,,,,,,,x
 b_jarjis,greek,,Gergis,,,,,,,,,,,x
 b_jarjis,roman,,Gergis,,,,,,,,,,,x
@@ -808,7 +808,7 @@ b_steftimi,b_steftimi,,Steftimi,,,,,,,,,,,x
 b_steftimi,b_steftimi_adj,,,,,,,,,,,,,x
 c_djerba,PROV813,,Djerba,,,,,,,,,,,x
 c_djerba,c_djerba,,,,,,,,,,,,,x
-c_djerba,c_djerba_adj,,DjerbÓ,,,,,,,,,,,x
+c_djerba,c_djerba_adj,,Djerb√Æ,,,,,,,,,,,x
 c_djerba,greek,,Girba,,,,,,,,,,,x
 c_djerba,c_djerba_adj_greek,,Girban,,,,,,,,,,,x
 c_djerba,roman,,Girba,,,,,,,,,,,x
@@ -825,7 +825,7 @@ b_ajim,greek,,Tipasa,,,,,,,,,,,x
 b_ajim,roman,,Tipasa,,,,,,,,,,,x
 c_nafzawa,PROV1351,,Jerid,,,,,,,,,,,x
 c_nafzawa,c_nafzawa,,,,,,,,,,,,,x
-c_nafzawa,c_nafzawa_adj,,Nafz·wÓ,,,,,,,,,,,x
+c_nafzawa,c_nafzawa_adj,,Nafz√°w√Æ,,,,,,,,,,,x
 c_nafzawa,greek,,Nepte,,,,,,,,,,,x
 c_nafzawa,c_nafzawa_adj_greek,,Neptian,,,,,,,,,,,x
 c_nafzawa,roman,,Nepte,,,,,,,,,,,x
@@ -846,12 +846,12 @@ b_souf,b_souf,,Souf,,,,,,,,,,,x
 b_souf,b_souf_adj,,,,,,,,,,,,,x
 c_qashtiliya,PROV1352,,Qashtiliya,,,,,,,,,,,x
 c_qashtiliya,c_qashtiliya,,,,,,,,,,,,,x
-c_qashtiliya,c_qashtiliya_adj,,QashtilÓyÓ,,,,,,,,,,,x
+c_qashtiliya,c_qashtiliya_adj,,Qashtil√Æy√Æ,,,,,,,,,,,x
 c_qashtiliya,greek,,Capsa,,,,,,,,,,,x
 c_qashtiliya,c_qashtiliya_adj_greek,,Capsian,,,,,,,,,,,x
 c_qashtiliya,roman,,Capsa,,,,,,,,,,,x
 c_qashtiliya,c_qashtiliya_adj_roman,,Capsian,,,,,,,,,,,x
-b_qamuda,b_qamuda,,Qam˙da,,,,,,,,,,,x
+b_qamuda,b_qamuda,,Qam√∫da,,,,,,,,,,,x
 b_qamuda,b_qamuda_adj,,,,,,,,,,,,,x
 b_qamuda,greek,,Thelepte,,,,,,,,,,,x
 b_qamuda,roman,,Thelepte,,,,,,,,,,,x
@@ -859,7 +859,7 @@ b_qafsa,b_qafsa,,Qafsa,,,,,,,,,,,x
 b_qafsa,b_qafsa_adj,,,,,,,,,,,,,x
 b_qafsa,greek,,Capsa,,,,,,,,,,,x
 b_qafsa,roman,,Capsa,,,,,,,,,,,x
-b_tazwir,b_tazwir,,TazwÌr,,,,,,,,,,,x
+b_tazwir,b_tazwir,,Tazw√≠r,,,,,,,,,,,x
 b_tazwir,b_tazwir_adj,,,,,,,,,,,,,x
 b_tazwir,greek,,Thusuros,,,,,,,,,,,x
 b_tazwir,roman,,Thusuros,,,,,,,,,,,x
@@ -867,7 +867,7 @@ d_tripolitania,d_tripolitania,,Tripolitania,,,,,,,,,,,x
 d_tripolitania,d_tripolitania_adj,,Tripolitani,,,,,,,,,,,x
 c_tripolitana,PROV811,,Tripolitana,,,,,,,,,,,x
 c_tripolitana,c_tripolitana,,,,,,,,,,,,,x
-c_tripolitana,c_tripolitana_adj,,Tar·bulsÓ,,,,,,,,,,,x
+c_tripolitana,c_tripolitana_adj,,Tar√°buls√Æ,,,,,,,,,,,x
 b_libtripoli,b_libtripoli,,Tripolis,,,,,,,,,,,x
 b_libtripoli,b_libtripoli_adj,,,,,,,,,,,,,x
 b_libtripoli,greek,,Oea,,,,,,,,,,,x
@@ -878,13 +878,13 @@ b_nalut,b_nalut,,Nalut,,,,,,,,,,,x
 b_nalut,b_nalut_adj,,,,,,,,,,,,,x
 b_nalut,greek,,Tabuinati,,,,,,,,,,,x
 b_nalut,roman,,Tabuinati,,,,,,,,,,,x
-b_baniwaled,b_baniwaled,,BanÌ WalÌd,,,,,,,,,,,x
+b_baniwaled,b_baniwaled,,Ban√≠ Wal√≠d,,,,,,,,,,,x
 b_baniwaled,b_baniwaled_adj,,,,,,,,,,,,,x
 b_baniwaled,greek,,Assaria,,,,,,,,,,,x
 b_baniwaled,roman,,Assaria,,,,,,,,,,,x
 c_leptis_magna,PROV810,,Leptis Magna,,,,,,,,,,,x
 c_leptis_magna,c_leptis_magna,,,,,,,,,,,,,x
-c_leptis_magna,c_leptis_magna_adj,,Misr·tÓ,,,,,,,,,,,x
+c_leptis_magna,c_leptis_magna_adj,,Misr√°t√Æ,,,,,,,,,,,x
 c_leptis_magna,bedouin_arabic,,Labda,,,,,,,,,,,x
 c_leptis_magna,egyptian_arabic,,Labda,,,,,,,,,,,x
 c_leptis_magna,greek,,Lepcis Magna,,,,,,,,,,,x
@@ -893,15 +893,15 @@ c_leptis_magna,levantine_arabic,,Labda,,,,,,,,,,,x
 c_leptis_magna,maghreb_arabic,,Labda,,,,,,,,,,,x
 c_leptis_magna,roman,,Lepcis Magna,,,,,,,,,,,x
 c_leptis_magna,c_leptis_magna_adj_roman,,Lepcis Magnan,,,,,,,,,,,x
-b_misratah,b_misratah,,Misur·tah,,,,,,,,,,,x
+b_misratah,b_misratah,,Misur√°tah,,,,,,,,,,,x
 b_misratah,b_misratah_adj,,,,,,,,,,,,,x
 b_misratah,greek,,Thubactis,,,,,,,,,,,x
 b_misratah,roman,,Thubactis,,,,,,,,,,,x
-b_alhasun,b_alhasun,,Al-Has˙n,,,,,,,,,,,x
+b_alhasun,b_alhasun,,Al-Has√∫n,,,,,,,,,,,x
 b_alhasun,b_alhasun_adj,,,,,,,,,,,,,x
 c_syrte,PROV809,,Syrte,,,,,,,,,,,x
 c_syrte,c_syrte,,,,,,,,,,,,,x
-c_syrte,c_syrte_adj,,SurtÓ,,,,,,,,,,,x
+c_syrte,c_syrte_adj,,Surt√Æ,,,,,,,,,,,x
 c_syrte,greek,,Macomades,,,,,,,,,,,x
 c_syrte,c_syrte_adj_greek,,Macomadian,,,,,,,,,,,x
 c_syrte,roman,,Macomades,,,,,,,,,,,x
@@ -916,12 +916,12 @@ b_assultan,b_assultan,,As Sultan,,,,,,,,,,,x
 b_assultan,b_assultan_adj,,,,,,,,,,,,,x
 c_zawiya,PROV1349,,Zawiya,,,,,,,,,,,x
 c_zawiya,c_zawiya,,,,,,,,,,,,,x
-c_zawiya,c_zawiya_adj,,ZawÓyÓ,,,,,,,,,,,x
+c_zawiya,c_zawiya_adj,,Zaw√Æy√Æ,,,,,,,,,,,x
 c_zawiya,greek,,Abrotonon,,,,,,,,,,,x
 c_zawiya,c_zawiya_adj_greek,,Abrotonan,,,,,,,,,,,x
 c_zawiya,roman,,Abrotonum,,,,,,,,,,,x
 c_zawiya,c_zawiya_adj_roman,,Abrotonan,,,,,,,,,,,x
-b_zawiya,b_zawiya,,ZawÌya,,,,,,,,,,,x
+b_zawiya,b_zawiya,,Zaw√≠ya,,,,,,,,,,,x
 b_zawiya,b_zawiya_adj,,,,,,,,,,,,,x
 b_zawiya,greek,,Pontos,,,,,,,,,,,x
 b_zawiya,roman,,Pontes,,,,,,,,,,,x
@@ -941,14 +941,14 @@ d_kabylia,greek,,Numidia Cirtensis,,,,,,,,,,,x
 d_kabylia,d_kabylia_adj_greek,,Numidia Cirtensian,,,,,,,,,,,x
 d_kabylia,roman,,Numidia Cirtensis,,,,,,,,,,,x
 d_kabylia,d_kabylia_adj_roman,,Numidia Cirtensian,,,,,,,,,,,x
-c_beni_yanni,PROV825,,JÓjil,,,,,,,,,,,x
+c_beni_yanni,PROV825,,J√Æjil,,,,,,,,,,,x
 c_beni_yanni,c_beni_yanni,,,,,,,,,,,,,x
-c_beni_yanni,c_beni_yanni_adj,,JijÓlÓ,,,,,,,,,,,x
+c_beni_yanni,c_beni_yanni_adj,,Jij√Æl√Æ,,,,,,,,,,,x
 c_beni_yanni,greek,,Igilgili,,,,,,,,,,,x
 c_beni_yanni,c_beni_yanni_adj_greek,,Igilgilan,,,,,,,,,,,x
 c_beni_yanni,roman,,Igilgili,,,,,,,,,,,x
 c_beni_yanni,c_beni_yanni_adj_roman,,Igilgilan,,,,,,,,,,,x
-b_jijel,b_jijel,,Jij·Ìl,,,,,,,,,,,x
+b_jijel,b_jijel,,Jij√°√≠l,,,,,,,,,,,x
 b_jijel,b_jijel_adj,,,,,,,,,,,,,x
 b_jijel,greek,,Igilgili,,,,,,,,,,,x
 b_jijel,roman,,Igilgili,,,,,,,,,,,x
@@ -958,12 +958,12 @@ b_bujima,b_bujima,,Bujima,,,,,,,,,,,x
 b_bujima,b_bujima_adj,,,,,,,,,,,,,x
 c_constantine,PROV821,,Qustantiniyya,,,,,,,,,,,x
 c_constantine,c_constantine,,,,,,,,,,,,,x
-c_constantine,c_constantine_adj,,KustantÓnÓ,,,,,,,,,,,x
+c_constantine,c_constantine_adj,,Kustant√Æn√Æ,,,,,,,,,,,x
 c_constantine,greek,,Cirta,,,,,,,,,,,x
 c_constantine,c_constantine_adj_greek,,Cirtan,,,,,,,,,,,x
 c_constantine,roman,,Cirta,,,,,,,,,,,x
 c_constantine,c_constantine_adj_roman,,Cirtan,,,,,,,,,,,x
-b_constantine,b_constantine,,QustantÌna,,,,,,,,,,,x
+b_constantine,b_constantine,,Qustant√≠na,,,,,,,,,,,x
 b_constantine,b_constantine_adj,,,,,,,,,,,,,x
 b_constantine,greek,,Cirta,,,,,,,,,,,x
 b_constantine,roman,,Cirta,,,,,,,,,,,x
@@ -973,14 +973,14 @@ b_elkhroub,greek,,Tiddis,,,,,,,,,,,x
 b_elkhroub,roman,,Tiddis,,,,,,,,,,,x
 b_guerrah,b_guerrah,,Guerrah,,,,,,,,,,,x
 b_guerrah,b_guerrah_adj,,,,,,,,,,,,,x
-c_bejaija,PROV822,,Bidj‚ya,,,,,,,,,,,x
+c_bejaija,PROV822,,Bidj√¢ya,,,,,,,,,,,x
 c_bejaija,c_bejaija,,,,,,,,,,,,,x
-c_bejaija,c_bejaija_adj,,BijayÓ,,,,,,,,,,,x
+c_bejaija,c_bejaija_adj,,Bijay√Æ,,,,,,,,,,,x
 c_bejaija,greek,,Saldai,,,,,,,,,,,x
 c_bejaija,c_bejaija_adj_greek,,Saldaian,,,,,,,,,,,x
 c_bejaija,roman,,Saldae,,,,,,,,,,,x
 c_bejaija,c_bejaija_adj_roman,,Saldaian,,,,,,,,,,,x
-b_bejaija,b_bejaija,,Bidj·ya,,,,,,,,,,,x
+b_bejaija,b_bejaija,,Bidj√°ya,,,,,,,,,,,x
 b_bejaija,b_bejaija_adj,,,,,,,,,,,,,x
 b_bejaija,greek,,Saldae,,,,,,,,,,,x
 b_bejaija,roman,,Saldae,,,,,,,,,,,x
@@ -990,18 +990,18 @@ b_tadallis,greek,,Rusuccuru,,,,,,,,,,,x
 b_tadallis,roman,,Rusuccuru,,,,,,,,,,,x
 b_elbekara,b_elbekara,,El Bekara,,,,,,,,,,,x
 b_elbekara,b_elbekara_adj,,,,,,,,,,,,,x
-c_annaba,PROV820,,B˙na,,,,,,,,,,,x
+c_annaba,PROV820,,B√∫na,,,,,,,,,,,x
 c_annaba,c_annaba,,,,,,,,,,,,,x
-c_annaba,c_annaba_adj,,Ann·bÓ,,,,,,,,,,,x
+c_annaba,c_annaba_adj,,Ann√°b√Æ,,,,,,,,,,,x
 c_annaba,greek,,Hippo Regius,,,,,,,,,,,x
 c_annaba,c_annaba_adj_greek,,Hippo Regian,,,,,,,,,,,x
 c_annaba,roman,,Hippo Regius,,,,,,,,,,,x
 c_annaba,c_annaba_adj_roman,,Hippo Regian,,,,,,,,,,,x
-b_annabah,b_annabah,,Ann·ba,,,,,,,,,,,x
+b_annabah,b_annabah,,Ann√°ba,,,,,,,,,,,x
 b_annabah,b_annabah_adj,,,,,,,,,,,,,x
 b_annabah,greek,,Hippo Regius,,,,,,,,,,,x
 b_annabah,roman,,Hippo Regius,,,,,,,,,,,x
-b_buna,b_buna,,B˙na,,,,,,,,,,,x
+b_buna,b_buna,,B√∫na,,,,,,,,,,,x
 b_buna,b_buna_adj,,,,,,,,,,,,,x
 b_buna,greek,,Rusicade,,,,,,,,,,,x
 b_buna,roman,,Rusicade,,,,,,,,,,,x
@@ -1011,7 +1011,7 @@ b_mila,greek,,Chullu,,,,,,,,,,,x
 b_mila,roman,,Chullu,,,,,,,,,,,x
 c_setif,PROV1355,,Kabylia,,,,,,,,,,,x
 c_setif,c_setif,,,,,,,,,,,,,x
-c_setif,c_setif_adj,,SetifÓ,,,,,,,,,,,x
+c_setif,c_setif_adj,,Setif√Æ,,,,,,,,,,,x
 c_setif,greek,,Setifis,,,,,,,,,,,x
 c_setif,c_setif_adj_greek,,Setifisan,,,,,,,,,,,x
 c_setif,roman,,Setifis,,,,,,,,,,,x
@@ -1020,7 +1020,7 @@ b_setif,b_setif,,Setif,,,,,,,,,,,x
 b_setif,b_setif_adj,,,,,,,,,,,,,x
 b_setif,greek,,Setifis,,,,,,,,,,,x
 b_setif,roman,,Setifis,,,,,,,,,,,x
-b_qalatbhammad,b_qalatbhammad,,Qalat Banu Hamm·d,,,,,,,,,,,x
+b_qalatbhammad,b_qalatbhammad,,Qalat Banu Hamm√°d,,,,,,,,,,,x
 b_qalatbhammad,b_qalatbhammad_adj,,,,,,,,,,,,,x
 b_qalatbhammad,greek,,Cuicul,,,,,,,,,,,x
 b_qalatbhammad,roman,,Cuicul,,,,,,,,,,,x
@@ -1032,7 +1032,7 @@ d_zab,roman,,Numidia Militiana,,,,,,,,,,,x
 d_zab,d_zab_adj_roman,,Numidia Militianan,,,,,,,,,,,x
 c_ouled_nail,PROV828,,Bou Sa'ada,,,,,,,,,,,x
 c_ouled_nail,c_ouled_nail,,,,,,,,,,,,,x
-c_ouled_nail,c_ouled_nail_adj,,Bou SaadÓ,,,,,,,,,,,x
+c_ouled_nail,c_ouled_nail_adj,,Bou Saad√Æ,,,,,,,,,,,x
 c_ouled_nail,greek,,Dimmidi,,,,,,,,,,,x
 c_ouled_nail,c_ouled_nail_adj_greek,,Dimmidan,,,,,,,,,,,x
 c_ouled_nail,roman,,Dimmidi,,,,,,,,,,,x
@@ -1049,7 +1049,7 @@ b_roumana,b_roumana,,Roumana,,,,,,,,,,,x
 b_roumana,b_roumana_adj,,,,,,,,,,,,,x
 c_biskra,PROV823,,Biskra,,,,,,,,,,,x
 c_biskra,c_biskra,,,,,,,,,,,,,x
-c_biskra,c_biskra_adj,,BiskrÓ,,,,,,,,,,,x
+c_biskra,c_biskra_adj,,Biskr√Æ,,,,,,,,,,,x
 c_biskra,greek,,Vescera,,,,,,,,,,,x
 c_biskra,c_biskra_adj_greek,,Vesceran,,,,,,,,,,,x
 c_biskra,roman,,Vescera,,,,,,,,,,,x
@@ -1058,7 +1058,7 @@ b_biskra,b_biskra,,Biskra,,,,,,,,,,,x
 b_biskra,b_biskra_adj,,,,,,,,,,,,,x
 b_biskra,greek,,Vescera,,,,,,,,,,,x
 b_biskra,roman,,Vescera,,,,,,,,,,,x
-b_badis,b_badis,,B·dÌs,,,,,,,,,,,x
+b_badis,b_badis,,B√°d√≠s,,,,,,,,,,,x
 b_badis,b_badis_adj,,,,,,,,,,,,,x
 b_badis,greek,,Badias,,,,,,,,,,,x
 b_badis,roman,,Badias,,,,,,,,,,,x
@@ -1074,12 +1074,12 @@ b_bigou,greek,,Mesarfelta,,,,,,,,,,,x
 b_bigou,roman,,Mesarfelta,,,,,,,,,,,x
 c_tell_atlas,PROV824,,Tabna,,,,,,,,,,,x
 c_tell_atlas,c_tell_atlas,,,,,,,,,,,,,x
-c_tell_atlas,c_tell_atlas_adj,,MasÓlÓ,,,,,,,,,,,x
+c_tell_atlas,c_tell_atlas_adj,,Mas√Æl√Æ,,,,,,,,,,,x
 c_tell_atlas,greek,,Lambaesis,,,,,,,,,,,x
 c_tell_atlas,c_tell_atlas_adj_greek,,Lambaesian,,,,,,,,,,,x
 c_tell_atlas,roman,,Lambaesis,,,,,,,,,,,x
 c_tell_atlas,c_tell_atlas_adj_roman,,Lambaesian,,,,,,,,,,,x
-b_masila,b_masila,,MasÌla,,,,,,,,,,,x
+b_masila,b_masila,,Mas√≠la,,,,,,,,,,,x
 b_masila,b_masila_adj,,,,,,,,,,,,,x
 b_masila,greek,,Lambaesis,,,,,,,,,,,x
 b_masila,roman,,Lambaesis,,,,,,,,,,,x
@@ -1095,7 +1095,7 @@ b_batna,b_batna,,Batna,,,,,,,,,,,x
 b_batna,b_batna_adj,,,,,,,,,,,,,x
 c_tabassa,PROV1354,,Tabassa,,,,,,,,,,,x
 c_tabassa,c_tabassa,,,,,,,,,,,,,x
-c_tabassa,c_tabassa_adj,,TabassÓ,,,,,,,,,,,x
+c_tabassa,c_tabassa_adj,,Tabass√Æ,,,,,,,,,,,x
 c_tabassa,greek,,Theveste,,,,,,,,,,,x
 c_tabassa,c_tabassa_adj_greek,,Thevestan,,,,,,,,,,,x
 c_tabassa,roman,,Theveste,,,,,,,,,,,x
@@ -1112,8 +1112,8 @@ b_ouenza,b_ouenza,,Ouenza,,,,,,,,,,,x
 b_ouenza,b_ouenza_adj,,,,,,,,,,,,,x
 c_arigh,PROV1356,,Arigh,,,,,,,,,,,x
 c_arigh,c_arigh,,,,,,,,,,,,,x
-c_arigh,c_arigh_adj,,ArÓghÓ,,,,,,,,,,,x
-b_arigh,b_arigh,,ArÌgh,,,,,,,,,,,x
+c_arigh,c_arigh_adj,,Ar√Ægh√Æ,,,,,,,,,,,x
+b_arigh,b_arigh,,Ar√≠gh,,,,,,,,,,,x
 b_arigh,b_arigh_adj,,,,,,,,,,,,,x
 k_maghreb,k_maghreb,,Maghreb,,,,,,,,,,,x
 k_maghreb,k_maghreb_adj,,Maghrebian,,,,,,,,,,,x
@@ -1121,26 +1121,26 @@ d_alger,d_alger,,Tahart,,,,,,,,,,,x
 d_alger,d_alger_adj,,Taharti,,,,,,,,,,,x
 d_alger,greek,,Mauretania Caesariensis,,,,,,,,,,,x
 d_alger,roman,,Mauretania Caesariensis,,,,,,,,,,,x
-c_atlas_mnt,PROV833,,T‚hart,,,,,,,,,,,x
+c_atlas_mnt,PROV833,,T√¢hart,,,,,,,,,,,x
 c_atlas_mnt,c_atlas_mnt,,,,,,,,,,,,,x
-c_atlas_mnt,c_atlas_mnt_adj,,T·hartÓ,,,,,,,,,,,x
+c_atlas_mnt,c_atlas_mnt_adj,,T√°hart√Æ,,,,,,,,,,,x
 c_atlas_mnt,greek,,Ala Miliaria,,,,,,,,,,,x
 c_atlas_mnt,roman,,Ala Miliaria,,,,,,,,,,,x
-b_tiaret,b_tiaret,,At·hart,,,,,,,,,,,x
+b_tiaret,b_tiaret,,At√°hart,,,,,,,,,,,x
 b_tiaret,b_tiaret_adj,,,,,,,,,,,,,x
 b_tiaret,greek,,Tingartia,,,,,,,,,,,x
 b_tiaret,roman,,Tingartia,,,,,,,,,,,x
-b_qalathuwara,b_qalathuwara,,Qal·t Huwara,,,,,,,,,,,x
+b_qalathuwara,b_qalathuwara,,Qal√°t Huwara,,,,,,,,,,,x
 b_qalathuwara,b_qalathuwara_adj,,,,,,,,,,,,,x
 b_qalathuwara,greek,,Ala Miliaria,,,,,,,,,,,x
 b_qalathuwara,roman,,Ala Miliaria,,,,,,,,,,,x
 b_aflu,b_aflu,,Aflu,,,,,,,,,,,x
 b_aflu,b_aflu_adj,,,,,,,,,,,,,x
-b_saida,b_saida,,SaÌda,,,,,,,,,,,x
+b_saida,b_saida,,Sa√≠da,,,,,,,,,,,x
 b_saida,b_saida_adj,,,,,,,,,,,,,x
 c_lemdiyya,PROV830,,Achir,,,,,,,,,,,x
 c_lemdiyya,c_lemdiyya,,,,,,,,,,,,,x
-c_lemdiyya,c_lemdiyya_adj,,AchirÓ,,,,,,,,,,,x
+c_lemdiyya,c_lemdiyya_adj,,Achir√Æ,,,,,,,,,,,x
 c_lemdiyya,greek,,Auzia,,,,,,,,,,,x
 c_lemdiyya,roman,,Auzia,,,,,,,,,,,x
 b_achir,b_achir,,Achir,,,,,,,,,,,x
@@ -1151,22 +1151,22 @@ b_djelfa,b_djelfa,,Djelfa,,,,,,,,,,,x
 b_djelfa,b_djelfa_adj,,,,,,,,,,,,,x
 b_elyourh,b_elyourh,,El-Yourh,,,,,,,,,,,x
 b_elyourh,b_elyourh_adj,,,,,,,,,,,,,x
-b_selmana,b_selmana,,Selm·na,,,,,,,,,,,x
+b_selmana,b_selmana,,Selm√°na,,,,,,,,,,,x
 b_selmana,b_selmana_adj,,,,,,,,,,,,,x
-c_al_djazair,PROV831,,Al-Jaz‚ir,,,,,,,,,,,x
+c_al_djazair,PROV831,,Al-Jaz√¢ir,,,,,,,,,,,x
 c_al_djazair,c_al_djazair,,,,,,,,,,,,,x
-c_al_djazair,c_al_djazair_adj,,DjazairÓ,,,,,,,,,,,x
+c_al_djazair,c_al_djazair_adj,,Djazair√Æ,,,,,,,,,,,x
 c_al_djazair,greek,,Iol Caesarea,,,,,,,,,,,x
 c_al_djazair,roman,,Iol Caesarea,,,,,,,,,,,x
-b_algiers,b_algiers,,Al-Jaz·ir,,,,,,,,,,,x
+b_algiers,b_algiers,,Al-Jaz√°ir,,,,,,,,,,,x
 b_algiers,b_algiers_adj,,,,,,,,,,,,,x
 b_algiers,greek,,Ikosion,,,,,,,,,,,x
 b_algiers,roman,,Icosium,,,,,,,,,,,x
-b_mattija,b_mattija,,MattÌja,,,,,,,,,,,x
+b_mattija,b_mattija,,Matt√≠ja,,,,,,,,,,,x
 b_mattija,b_mattija_adj,,,,,,,,,,,,,x
 b_mattija,greek,,Iol Caesarea,,,,,,,,,,,x
 b_mattija,roman,,Iol Caesarea,,,,,,,,,,,x
-b_miliyana,b_miliyana,,Miliy·na,,,,,,,,,,,x
+b_miliyana,b_miliyana,,Miliy√°na,,,,,,,,,,,x
 b_miliyana,b_miliyana_adj,,,,,,,,,,,,,x
 b_miliyana,greek,,Zucchabar,,,,,,,,,,,x
 b_miliyana,roman,,Zucchabar,,,,,,,,,,,x
@@ -1184,7 +1184,7 @@ b_blida,b_blida,,Blida,,,,,,,,,,,x
 b_blida,b_blida_adj,,,,,,,,,,,,,x
 c_snassen,PROV836,,Tanas,,,,,,,,,,,x
 c_snassen,c_snassen,,,,,,,,,,,,,x
-c_snassen,c_snassen_adj,,TanasÓ,,,,,,,,,,,x
+c_snassen,c_snassen_adj,,Tanas√Æ,,,,,,,,,,,x
 c_snassen,greek,,Cartenna,,,,,,,,,,,x
 c_snassen,roman,,Cartenna,,,,,,,,,,,x
 b_tanas,b_tanas,,Tanas,,,,,,,,,,,x
@@ -1199,14 +1199,14 @@ d_tlemcen,d_tlemcen,,Tilimsan,,,,,,,,,,,x
 d_tlemcen,d_tlemcen_adj,,Tilimsani,,,,,,,,,,,x
 d_tlemcen,greek,,Mauretania Siga,,,,,,,,,,,x
 d_tlemcen,roman,,Mauretania Siga,,,,,,,,,,,x
-c_tlemcen,PROV834,,Tilims‚n,,,,,,,,,,,x
+c_tlemcen,PROV834,,Tilims√¢n,,,,,,,,,,,x
 c_tlemcen,c_tlemcen,,,,,,,,,,,,,x
-c_tlemcen,c_tlemcen_adj,,Tilims·nÓ,,,,,,,,,,,x
-b_tlemcen,b_tlemcen,,Tilims·n,,,,,,,,,,,x
+c_tlemcen,c_tlemcen_adj,,Tilims√°n√Æ,,,,,,,,,,,x
+b_tlemcen,b_tlemcen,,Tilims√°n,,,,,,,,,,,x
 b_tlemcen,b_tlemcen_adj,,,,,,,,,,,,,x
 b_tlemcen,greek,,Pomaria,,,,,,,,,,,x
 b_tlemcen,roman,,Pomaria,,,,,,,,,,,x
-b_sidibelabbes,b_sidibelabbes,,Sidi el Abb·s,,,,,,,,,,,x
+b_sidibelabbes,b_sidibelabbes,,Sidi el Abb√°s,,,,,,,,,,,x
 b_sidibelabbes,b_sidibelabbes_adj,,,,,,,,,,,,,x
 b_sidibelabbes,greek,,Altava,,,,,,,,,,,x
 b_sidibelabbes,roman,,Altava,,,,,,,,,,,x
@@ -1226,12 +1226,12 @@ b_tessala,b_tessala,,Tessala,,,,,,,,,,,x
 b_tessala,b_tessala_adj,,,,,,,,,,,,,x
 b_letelagh,b_letelagh,,Le Telagh,,,,,,,,,,,x
 b_letelagh,b_letelagh_adj,,,,,,,,,,,,,x
-c_orania,PROV832,,Wahr‚n,,,,,,,,,,,x
+c_orania,PROV832,,Wahr√¢n,,,,,,,,,,,x
 c_orania,c_orania,,,,,,,,,,,,,x
-c_orania,c_orania_adj,,Wahr·nÓ,,,,,,,,,,,x
+c_orania,c_orania_adj,,Wahr√°n√Æ,,,,,,,,,,,x
 c_orania,greek,,Siga,,,,,,,,,,,x
 c_orania,roman,,Siga,,,,,,,,,,,x
-b_oran,b_oran,,Wahr·n,,,,,,,,,,,x
+b_oran,b_oran,,Wahr√°n,,,,,,,,,,,x
 b_oran,b_oran_adj,,,,,,,,,,,,,x
 b_oran,greek,,Unica Colonia,,,,,,,,,,,x
 b_oran,roman,,Unica Colonia,,,,,,,,,,,x
@@ -1245,7 +1245,7 @@ b_kasribnsinan,greek,,Albulae,,,,,,,,,,,x
 b_kasribnsinan,roman,,Albulae,,,,,,,,,,,x
 b_aintemouchent,b_aintemouchent,,Ain Temouchent,,,,,,,,,,,x
 b_aintemouchent,b_aintemouchent_adj,,,,,,,,,,,,,x
-b_marsafarukh,b_marsafarukh,,Marsa Far˙kh,,,,,,,,,,,x
+b_marsafarukh,b_marsafarukh,,Marsa Far√∫kh,,,,,,,,,,,x
 b_marsafarukh,b_marsafarukh_adj,,,,,,,,,,,,,x
 b_marsafarukh,greek,,Quiza Cenitana,,,,,,,,,,,x
 b_marsafarukh,roman,,Quiza Cenitana,,,,,,,,,,,x
@@ -1253,7 +1253,7 @@ b_maghnia,b_maghnia,,Maghnia,,,,,,,,,,,x
 b_maghnia,b_maghnia_adj,,,,,,,,,,,,,x
 c_hanyan,PROV835,,Hunayn,,,,,,,,,,,x
 c_hanyan,c_hanyan,,,,,,,,,,,,,x
-c_hanyan,c_hanyan_adj,,HunaynÓ,,,,,,,,,,,x
+c_hanyan,c_hanyan_adj,,Hunayn√Æ,,,,,,,,,,,x
 b_hanyan,b_hanyan,,Hunayn,,,,,,,,,,,x
 b_hanyan,b_hanyan_adj,,,,,,,,,,,,,x
 b_nadruma,b_nadruma,,Nadruma,,,,,,,,,,,x
@@ -1264,18 +1264,18 @@ d_tangiers,greek,,Mauretania Tingitana,,,,,,,,,,,x
 d_tangiers,roman,,Mauretania Tingitana,,,,,,,,,,,x
 c_tangiers,PROV841,,Tandja,,,,,,,,,,,x
 c_tangiers,c_tangiers,,,,,,,,,,,,,x
-c_tangiers,c_tangiers_adj,,TandjÓ,,,,,,,,,,,x
+c_tangiers,c_tangiers_adj,,Tandj√Æ,,,,,,,,,,,x
 c_tangiers,greek,,Tingis,,,,,,,,,,,x
 c_tangiers,roman,,Tingis,,,,,,,,,,,x
 b_tangiers,b_tangiers,,Tadja,,,,,,,,,,,x
 b_tangiers,b_tangiers_adj,,,,,,,,,,,,,x
 b_tangiers,greek,,Tingis,,,,,,,,,,,x
 b_tangiers,roman,,Tingis,,,,,,,,,,,x
-b_asilah,b_asilah,,AsÌla,,,,,,,,,,,x
+b_asilah,b_asilah,,As√≠la,,,,,,,,,,,x
 b_asilah,b_asilah_adj,,,,,,,,,,,,,x
 b_asilah,greek,,Zilil,,,,,,,,,,,x
 b_asilah,roman,,Zilil,,,,,,,,,,,x
-b_kasrkutama,b_kasrkutama,,Kasr Kut·ma,,,,,,,,,,,x
+b_kasrkutama,b_kasrkutama,,Kasr Kut√°ma,,,,,,,,,,,x
 b_kasrkutama,b_kasrkutama_adj,,,,,,,,,,,,,x
 b_kasrkutama,greek,,Oppidum Novum,,,,,,,,,,,x
 b_kasrkutama,roman,,Oppidum Novum,,,,,,,,,,,x
@@ -1285,14 +1285,14 @@ b_laraiche,greek,,Lixus,,,,,,,,,,,x
 b_laraiche,roman,,Lixus,,,,,,,,,,,x
 c_cebta,PROV839,,Sebta,,,,,,,,,,,x
 c_cebta,c_cebta,,,,,,,,,,,,,x
-c_cebta,c_cebta_adj,,SebtÓ,,,,,,,,,,,x
+c_cebta,c_cebta_adj,,Sebt√Æ,,,,,,,,,,,x
 c_cebta,greek,,Septem,,,,,,,,,,,x
 c_cebta,roman,,Septem,,,,,,,,,,,x
 b_cueta,b_cueta,,Sebta,,,,,,,,,,,x
 b_cueta,b_cueta_adj,,,,,,,,,,,,,x
 b_cueta,greek,,Septem,,,,,,,,,,,x
 b_cueta,roman,,Septem,,,,,,,,,,,x
-b_tetouan,b_tetouan,,Tit·w·n,,,,,,,,,,,x
+b_tetouan,b_tetouan,,Tit√°w√°n,,,,,,,,,,,x
 b_tetouan,b_tetouan_adj,,,,,,,,,,,,,x
 b_tetouan,greek,,Tamuda,,,,,,,,,,,x
 b_tetouan,roman,,Tamuda,,,,,,,,,,,x
@@ -1302,14 +1302,14 @@ b_martil,b_martil,,Martil,,,,,,,,,,,x
 b_martil,b_martil_adj,,,,,,,,,,,,,x
 c_nakur,PROV1360,,Nakur,,,,,,,,,,,x
 c_nakur,c_nakur,,,,,,,,,,,,,x
-c_nakur,c_nakur_adj,,NakurÓ,,,,,,,,,,,x
+c_nakur,c_nakur_adj,,Nakur√Æ,,,,,,,,,,,x
 c_nakur,greek,,Rusaddir,,,,,,,,,,,x
 c_nakur,roman,,Rusaddir,,,,,,,,,,,x
-b_nakur,b_nakur,,N·kur,,,,,,,,,,,x
+b_nakur,b_nakur,,N√°kur,,,,,,,,,,,x
 b_nakur,b_nakur_adj,,,,,,,,,,,,,x
-b_ghumira,b_ghumira,,GhumÌra,,,,,,,,,,,x
+b_ghumira,b_ghumira,,Ghum√≠ra,,,,,,,,,,,x
 b_ghumira,b_ghumira_adj,,,,,,,,,,,,,x
-b_melilla,b_melilla,,MalÌla,,,,,,,,,,,x
+b_melilla,b_melilla,,Mal√≠la,,,,,,,,,,,x
 b_melilla,b_melilla_adj,,,,,,,,,,,,,x
 b_melilla,greek,,Rusaddir,,,,,,,,,,,x
 b_melilla,roman,,Rusaddir,,,,,,,,,,,x
@@ -1323,14 +1323,14 @@ d_fes,d_fes,,Fas,,,,,,,,,,,x
 d_fes,d_fes_adj,,Fasi,,,,,,,,,,,x
 d_fes,greek,,Mauretania Volubilis,,,,,,,,,,,x
 d_fes,roman,,Mauretania Volubilis,,,,,,,,,,,x
-c_fes,PROV840,,F‚s,,,,,,,,,,,x
+c_fes,PROV840,,F√¢s,,,,,,,,,,,x
 c_fes,c_fes,,,,,,,,,,,,,x
-c_fes,c_fes_adj,,F·sÓ,,,,,,,,,,,x
+c_fes,c_fes_adj,,F√°s√Æ,,,,,,,,,,,x
 c_fes,greek,,Volubilis,,,,,,,,,,,x
 c_fes,roman,,Volubilis,,,,,,,,,,,x
-b_fes,b_fes,,F·s,,,,,,,,,,,x
+b_fes,b_fes,,F√°s,,,,,,,,,,,x
 b_fes,b_fes_adj,,,,,,,,,,,,,x
-b_meknes,b_meknes,,Mikn·s·,,,,,,,,,,,x
+b_meknes,b_meknes,,Mikn√°s√°,,,,,,,,,,,x
 b_meknes,b_meknes_adj,,,,,,,,,,,,,x
 b_sefrou,b_sefrou,,Sefrou,,,,,,,,,,,x
 b_sefrou,b_sefrou_adj,,,,,,,,,,,,,x
@@ -1342,9 +1342,9 @@ b_zerhoun,b_zerhoun,,Zerhoun,,,,,,,,,,,x
 b_zerhoun,b_zerhoun_adj,,,,,,,,,,,,,x
 b_elhajeb,b_elhajeb,,El-Hajeb,,,,,,,,,,,x
 b_elhajeb,b_elhajeb_adj,,,,,,,,,,,,,x
-c_infa,PROV842,,Rib‚t al-Fath,,,,,,,,,,,x
+c_infa,PROV842,,Rib√¢t al-Fath,,,,,,,,,,,x
 c_infa,c_infa,,,,,,,,,,,,,x
-c_infa,c_infa_adj,,InfÓ,,,,,,,,,,,x
+c_infa,c_infa_adj,,Inf√Æ,,,,,,,,,,,x
 c_infa,greek,,Anfus,,,,,,,,,,,x
 c_infa,roman,,Anfus,,,,,,,,,,,x
 b_infa,b_infa,,Infa,,,,,,,,,,,x
@@ -1353,11 +1353,11 @@ b_infa,greek,,Anfus,,,,,,,,,,,x
 b_infa,roman,,Anfus,,,,,,,,,,,x
 b_rabat,b_rabat,,Rabat,,,,,,,,,,,x
 b_rabat,b_rabat_adj,,,,,,,,,,,,,x
-b_sidirahhal,b_sidirahhal,,Sidi Rahh·l,,,,,,,,,,,x
+b_sidirahhal,b_sidirahhal,,Sidi Rahh√°l,,,,,,,,,,,x
 b_sidirahhal,b_sidirahhal_adj,,,,,,,,,,,,,x
 c_sa,PROV1358,,Sa,,,,,,,,,,,x
 c_sa,c_sa,,,,,,,,,,,,,x
-c_sa,c_sa_adj,,Sa'Ó,,,,,,,,,,,x
+c_sa,c_sa_adj,,Sa'√Æ,,,,,,,,,,,x
 b_sa,b_sa,,Sa',,,,,,,,,,,x
 b_sa,b_sa_adj,,,,,,,,,,,,,x
 b_debdou,b_debdou,,Debdou,,,,,,,,,,,x
@@ -1366,78 +1366,78 @@ b_berkane,b_berkane,,Berkane,,,,,,,,,,,x
 b_berkane,b_berkane_adj,,,,,,,,,,,,,x
 c_sala,PROV1361,,Sala,,,,,,,,,,,x
 c_sala,c_sala,,,,,,,,,,,,,x
-c_sala,c_sala_adj,,SalÓ,,,,,,,,,,,x
+c_sala,c_sala_adj,,Sal√Æ,,,,,,,,,,,x
 c_sala,greek,,Sala Colonia,,,,,,,,,,,x
 c_sala,roman,,Sala Colonia,,,,,,,,,,,x
-b_sale,b_sale,,Sal·,,,,,,,,,,,x
+b_sale,b_sale,,Sal√°,,,,,,,,,,,x
 b_sale,b_sale_adj,,,,,,,,,,,,,x
 b_sale,greek,,Sala Colonia,,,,,,,,,,,x
 b_sale,roman,,Sala Colonia,,,,,,,,,,,x
 b_albasra,b_albasra,,Al-Basra,,,,,,,,,,,x
 b_albasra,b_albasra_adj,,,,,,,,,,,,,x
-c_el_rif,PROV838,,El-RÓf,,,,,,,,,,,x
+c_el_rif,PROV838,,El-R√Æf,,,,,,,,,,,x
 c_el_rif,c_el_rif,,,,,,,,,,,,,x
-c_el_rif,c_el_rif_adj,,RÓfÓ,,,,,,,,,,,x
-b_taza,b_taza,,MalÌla,,,,,,,,,,,x
+c_el_rif,c_el_rif_adj,,R√Æf√Æ,,,,,,,,,,,x
+b_taza,b_taza,,Mal√≠la,,,,,,,,,,,x
 b_taza,b_taza_adj,,,,,,,,,,,,,x
-b_ketama,b_ketama,,Ket·ma,,,,,,,,,,,x
+b_ketama,b_ketama,,Ket√°ma,,,,,,,,,,,x
 b_ketama,b_ketama_adj,,,,,,,,,,,,,x
 b_saka,b_saka,,Saka,,,,,,,,,,,x
 b_saka,b_saka_adj,,,,,,,,,,,,,x
 d_marrakech,d_marrakech,,Marrakush,,,,,,,,,,,x
 d_marrakech,d_marrakech_adj,,Marrakushi,,,,,,,,,,,x
-c_marrakech,PROV843,,Marr‚kush,,,,,,,,,,,x
+c_marrakech,PROV843,,Marr√¢kush,,,,,,,,,,,x
 c_marrakech,c_marrakech,,,,,,,,,,,,,x
-c_marrakech,c_marrakech_adj,,Marr·k˙shÓ,,,,,,,,,,,x
-b_marrakech,b_marrakech,,Marr·kush,,,,,,,,,,,x
+c_marrakech,c_marrakech_adj,,Marr√°k√∫sh√Æ,,,,,,,,,,,x
+b_marrakech,b_marrakech,,Marr√°kush,,,,,,,,,,,x
 b_marrakech,b_marrakech_adj,,,,,,,,,,,,,x
-b_aghmat,b_aghmat,,Aghm·t,,,,,,,,,,,x
+b_aghmat,b_aghmat,,Aghm√°t,,,,,,,,,,,x
 b_aghmat,b_aghmat_adj,,,,,,,,,,,,,x
 b_naffis,b_naffis,,Naffis,,,,,,,,,,,x
 b_naffis,b_naffis_adj,,,,,,,,,,,,,x
-b_dai,b_dai,,DaÌ,,,,,,,,,,,x
+b_dai,b_dai,,Da√≠,,,,,,,,,,,x
 b_dai,b_dai_adj,,,,,,,,,,,,,x
 b_tasgimut,b_tasgimut,,Tasgimut,,,,,,,,,,,x
 b_tasgimut,b_tasgimut_adj,,,,,,,,,,,,,x
 b_asni,b_asni,,Asni,,,,,,,,,,,x
 b_asni,b_asni_adj,,,,,,,,,,,,,x
-c_tharasset,PROV847,,Tar˙dant,,,,,,,,,,,x
+c_tharasset,PROV847,,Tar√∫dant,,,,,,,,,,,x
 c_tharasset,c_tharasset,,,,,,,,,,,,,x
-c_tharasset,c_tharasset_adj,,Tar˙dantÓ,,,,,,,,,,,x
+c_tharasset,c_tharasset_adj,,Tar√∫dant√Æ,,,,,,,,,,,x
 b_taroudaut,b_taroudaut,,Tarudant,,,,,,,,,,,x
 b_taroudaut,b_taroudaut_adj,,,,,,,,,,,,,x
 b_massa,b_massa,,Massa,,,,,,,,,,,x
 b_massa,b_massa_adj,,,,,,,,,,,,,x
 b_tinmel,b_tinmel,,Tinmel,,,,,,,,,,,x
 b_tinmel,b_tinmel_adj,,,,,,,,,,,,,x
-b_igilliz,b_igilliz,,IgÌlÌz,,,,,,,,,,,x
+b_igilliz,b_igilliz,,Ig√≠l√≠z,,,,,,,,,,,x
 b_igilliz,b_igilliz_adj,,,,,,,,,,,,,x
-c_anti-atlas,PROV845,,Tinmall‚l,,,,,,,,,,,x
+c_anti-atlas,PROV845,,Tinmall√¢l,,,,,,,,,,,x
 c_anti-atlas,c_anti-atlas,,,,,,,,,,,,,x
-c_anti-atlas,c_anti-atlas_adj,,TinmallalÓ,,,,,,,,,,,x
+c_anti-atlas,c_anti-atlas_adj,,Tinmallal√Æ,,,,,,,,,,,x
 b_agadir,b_agadir,,Agadir,,,,,,,,,,,x
 b_agadir,b_agadir_adj,,,,,,,,,,,,,x
 b_tinmallal,b_tinmallal,,Tinmallal,,,,,,,,,,,x
 b_tinmallal,b_tinmallal_adj,,,,,,,,,,,,,x
-b_ribatshakir,b_ribatshakir,,Rib·t ShakÌr,,,,,,,,,,,x
+b_ribatshakir,b_ribatshakir,,Rib√°t Shak√≠r,,,,,,,,,,,x
 b_ribatshakir,b_ribatshakir_adj,,,,,,,,,,,,,x
 b_igiradyatuf,b_igiradyatuf,,Igir ad Yatouf,,,,,,,,,,,x
 b_igiradyatuf,b_igiradyatuf_adj,,,,,,,,,,,,,x
-c_massat,PROV844,,AsfÓ,,,,,,,,,,,x
+c_massat,PROV844,,Asf√Æ,,,,,,,,,,,x
 c_massat,c_massat,,,,,,,,,,,,,x
-c_massat,c_massat_adj,,AsfÓ,,,,,,,,,,,x
-b_oualidia,b_oualidia,,WalÌdÌya,,,,,,,,,,,x
+c_massat,c_massat_adj,,Asf√Æ,,,,,,,,,,,x
+b_oualidia,b_oualidia,,Wal√≠d√≠ya,,,,,,,,,,,x
 b_oualidia,b_oualidia_adj,,,,,,,,,,,,,x
-b_eljadida,b_eljadida,,El-JadÌda,,,,,,,,,,,x
+b_eljadida,b_eljadida,,El-Jad√≠da,,,,,,,,,,,x
 b_eljadida,b_eljadida_adj,,,,,,,,,,,,,x
 b_safi,b_safi,,Safi,,,,,,,,,,,x
 b_safi,b_safi_adj,,,,,,,,,,,,,x
 c_sijilmasa,PROV918,,Sijilmasa,,,,,,,,,,,x
 c_sijilmasa,c_sijilmasa,,,,,,,,,,,,,x
-c_sijilmasa,c_sijilmasa_adj,,SijilmasÓ,,,,,,,,,,,x
+c_sijilmasa,c_sijilmasa_adj,,Sijilmas√Æ,,,,,,,,,,,x
 b_sijilmasa,b_sijilmasa,,Sijilmasa,,,,,,,,,,,x
 b_sijilmasa,b_sijilmasa_adj,,,,,,,,,,,,,x
-b_bechar,b_bechar,,BÈchar,,,,,,,,,,,x
+b_bechar,b_bechar,,B√©char,,,,,,,,,,,x
 b_bechar,b_bechar_adj,,,,,,,,,,,,,x
 b_benitajjit,b_benitajjit,,Beni Tajjit,,,,,,,,,,,x
 b_benitajjit,b_benitajjit_adj,,,,,,,,,,,,,x
@@ -1445,12 +1445,12 @@ b_boudnib,b_boudnib,,Dboundib,,,,,,,,,,,x
 b_boudnib,b_boudnib_adj,,,,,,,,,,,,,x
 c_sous,PROV1362,,Tafilalet,,,,,,,,,,,x
 c_sous,c_sous,,,,,,,,,,,,,x
-c_sous,c_sous_adj,,SousÓ,,,,,,,,,,,x
+c_sous,c_sous_adj,,Sous√Æ,,,,,,,,,,,x
 b_thineghir,b_thineghir,,Thinaghir,,,,,,,,,,,x
 b_thineghir,b_thineghir_adj,,,,,,,,,,,,,x
-b_ouarzazate,b_ouarzazate,,Warzaz·t,,,,,,,,,,,x
+b_ouarzazate,b_ouarzazate,,Warzaz√°t,,,,,,,,,,,x
 b_ouarzazate,b_ouarzazate_adj,,,,,,,,,,,,,x
-b_alnif,b_alnif,,Al-NÌf,,,,,,,,,,,x
+b_alnif,b_alnif,,Al-N√≠f,,,,,,,,,,,x
 b_alnif,b_alnif_adj,,,,,,,,,,,,,x
 k_mauretania,k_mauretania,,Mauretania,,,,,,,,,,,x
 k_mauretania,k_mauretania_adj,,Mauretani,,,,,,,,,,,x
@@ -1458,67 +1458,67 @@ d_draa,d_draa,,Draa,,,,,,,,,,,x
 d_draa,d_draa_adj,,Drai,,,,,,,,,,,x
 c_draa,PROV1363,,Draa,,,,,,,,,,,x
 c_draa,c_draa,,,,,,,,,,,,,x
-c_draa,c_draa_adj,,Dra'Ó,,,,,,,,,,,x
+c_draa,c_draa_adj,,Dra'√Æ,,,,,,,,,,,x
 b_tata,b_tata,,Tata,,,,,,,,,,,x
 b_tata,b_tata_adj,,,,,,,,,,,,,x
-b_wadidraa,b_wadidraa,,W·dÌ Draa,,,,,,,,,,,x
+b_wadidraa,b_wadidraa,,W√°d√≠ Draa,,,,,,,,,,,x
 b_wadidraa,b_wadidraa_adj,,,,,,,,,,,,,x
 c_ifni,PROV846,,Ifni,,,,,,,,,,,x
 c_ifni,c_ifni,,,,,,,,,,,,,x
-c_ifni,c_ifni_adj,,IfnÓ,,,,,,,,,,,x
-b_ifni,b_ifni,,IfnÌ,,,,,,,,,,,x
+c_ifni,c_ifni_adj,,Ifn√Æ,,,,,,,,,,,x
+b_ifni,b_ifni,,Ifn√≠,,,,,,,,,,,x
 b_ifni,b_ifni_adj,,,,,,,,,,,,,x
-b_nullamta,b_nullamta,,N˙l Lamta,,,,,,,,,,,x
+b_nullamta,b_nullamta,,N√∫l Lamta,,,,,,,,,,,x
 b_nullamta,b_nullamta_adj,,,,,,,,,,,,,x
-b_guelmim,b_guelmim,,GuelmÌn,,,,,,,,,,,x
+b_guelmim,b_guelmim,,Guelm√≠n,,,,,,,,,,,x
 b_guelmim,b_guelmim_adj,,,,,,,,,,,,,x
 c_tindouf,PROV1364,,Tindouf,,,,,,,,,,,x
 c_tindouf,c_tindouf,,,,,,,,,,,,,x
-c_tindouf,c_tindouf_adj,,TundoufÓ,,,,,,,,,,,x
+c_tindouf,c_tindouf_adj,,Tundouf√Æ,,,,,,,,,,,x
 b_tindouf,b_tindouf,,Tindouf,,,,,,,,,,,x
 b_tindouf,b_tindouf_adj,,,,,,,,,,,,,x
 d_adrar,d_adrar,,Adrar,,,,,,,,,,,x
 d_adrar,d_adrar_adj,,Adrari,,,,,,,,,,,x
-c_ouadane,PROV920,,Wad‚n,,,,,,,,,,,x
+c_ouadane,PROV920,,Wad√¢n,,,,,,,,,,,x
 c_ouadane,c_ouadane,,,,,,,,,,,,,x
-c_ouadane,c_ouadane_adj,,Wad·nÓ,,,,,,,,,,,x
-b_ouadane,b_ouadane,,Wad·n,,,,,,,,,,,x
+c_ouadane,c_ouadane_adj,,Wad√°n√Æ,,,,,,,,,,,x
+b_ouadane,b_ouadane,,Wad√°n,,,,,,,,,,,x
 b_ouadane,b_ouadane_adj,,,,,,,,,,,,,x
 b_chinguitti,b_chinguitti,,Chinguitti,,,,,,,,,,,x
 b_chinguitti,b_chinguitti_adj,,,,,,,,,,,,,x
-b_binklabin,b_binklabin,,BinklabÌn,,,,,,,,,,,x
+b_binklabin,b_binklabin,,Binklab√≠n,,,,,,,,,,,x
 b_binklabin,b_binklabin_adj,,,,,,,,,,,,,x
 b_tingi,b_tingi,,Tingi,,,,,,,,,,,x
 b_tingi,b_tingi_adj,,,,,,,,,,,,,x
-b_azuggi,b_azuggi,,Az˙kkÌ,,,,,,,,,,,x
+b_azuggi,b_azuggi,,Az√∫kk√≠,,,,,,,,,,,x
 b_azuggi,b_azuggi_adj,,,,,,,,,,,,,x
 c_idjil,PROV921,,Idjil,,,,,,,,,,,x
 c_idjil,c_idjil,,,,,,,,,,,,,x
-c_idjil,c_idjil_adj,,IdjÓlÓ,,,,,,,,,,,x
-b_idjil,b_idjil,,IdjÌl,,,,,,,,,,,x
+c_idjil,c_idjil_adj,,Idj√Æl√Æ,,,,,,,,,,,x
+b_idjil,b_idjil,,Idj√≠l,,,,,,,,,,,x
 b_idjil,b_idjil_adj,,,,,,,,,,,,,x
 c_birumgrein,PROV1367,,Bir um Grein,,,,,,,,,,,x
 c_birumgrein,c_birumgrein,,,,,,,,,,,,,x
-c_birumgrein,c_birumgrein_adj,,BirumgreinÓ,,,,,,,,,,,x
-b_birumgrein,b_birumgrein,,BÌr um-Grein,,,,,,,,,,,x
+c_birumgrein,c_birumgrein_adj,,Birumgrein√Æ,,,,,,,,,,,x
+b_birumgrein,b_birumgrein,,B√≠r um-Grein,,,,,,,,,,,x
 b_birumgrein,b_birumgrein_adj,,,,,,,,,,,,,x
 c_akjoujt,PROV1368,,Amatlus,,,,,,,,,,,x
 c_akjoujt,c_akjoujt,,,,,,,,,,,,,x
-c_akjoujt,c_akjoujt_adj,,AkjoujtÓ,,,,,,,,,,,x
+c_akjoujt,c_akjoujt_adj,,Akjoujt√Æ,,,,,,,,,,,x
 b_akjoujt,b_akjoujt,,Akjoujt,,,,,,,,,,,x
 b_akjoujt,b_akjoujt_adj,,,,,,,,,,,,,x
 d_taghaza,d_taghaza,,Taghaza,,,,,,,,,,,x
 d_taghaza,d_taghaza_adj,,Taghazi,,,,,,,,,,,x
 c_taghaza,PROV916,,Taghaza,,,,,,,,,,,x
 c_taghaza,c_taghaza,,,,,,,,,,,,,x
-c_taghaza,c_taghaza_adj,,Tagh·zÓ,,,,,,,,,,,x
-b_taghaza,b_taghaza,,Tagh·za,,,,,,,,,,,x
+c_taghaza,c_taghaza_adj,,Tagh√°z√Æ,,,,,,,,,,,x
+b_taghaza,b_taghaza,,Tagh√°za,,,,,,,,,,,x
 b_taghaza,b_taghaza_adj,,,,,,,,,,,,,x
 b_taoudeni,b_taoudeni,,Taoudeni,,,,,,,,,,,x
 b_taoudeni,b_taoudeni_adj,,,,,,,,,,,,,x
 c_tassarahla,PROV1366,,Tassarahla,,,,,,,,,,,x
 c_tassarahla,c_tassarahla,,,,,,,,,,,,,x
-c_tassarahla,c_tassarahla_adj,,TassarahlÓ,,,,,,,,,,,x
+c_tassarahla,c_tassarahla_adj,,Tassarahl√Æ,,,,,,,,,,,x
 b_tassarahla,b_tassarahla,,Tassarahla,,,,,,,,,,,x
 b_tassarahla,b_tassarahla_adj,,,,,,,,,,,,,x
 k_canarias,k_canarias,,Canarias,,,,,,,,,,,x
@@ -1527,9 +1527,9 @@ k_canarias,aragonese,,Canarias,,,,,,,,,,,x
 k_canarias,basque,,Kanariak,,,,,,,,,,,x
 k_canarias,castillan,,Canarias,,,,,,,,,,,x
 k_canarias,catalan,,Canarias,,,,,,,,,,,x
-k_canarias,galician,,Can·rias,,,,,,,,,,,x
+k_canarias,galician,,Can√°rias,,,,,,,,,,,x
 k_canarias,leonese,,Canarias,,,,,,,,,,,x
-k_canarias,portuguese,,Can·rias,,,,,,,,,,,x
+k_canarias,portuguese,,Can√°rias,,,,,,,,,,,x
 k_canarias,zanata,,Kanar,,,,,,,,,,,x
 d_canarias,d_canarias,,Canarias,,,,,,,,,,,x
 d_canarias,d_canarias_adj,,Canaria,,,,,,,,,,,x
@@ -1537,9 +1537,9 @@ d_canarias,aragonese,,Canarias,,,,,,,,,,,x
 d_canarias,basque,,Kanariak,,,,,,,,,,,x
 d_canarias,castillan,,Canarias,,,,,,,,,,,x
 d_canarias,catalan,,Canarias,,,,,,,,,,,x
-d_canarias,galician,,Can·rias,,,,,,,,,,,x
+d_canarias,galician,,Can√°rias,,,,,,,,,,,x
 d_canarias,leonese,,Canarias,,,,,,,,,,,x
-d_canarias,portuguese,,Can·rias,,,,,,,,,,,x
+d_canarias,portuguese,,Can√°rias,,,,,,,,,,,x
 d_canarias,zanata,,Kanar,,,,,,,,,,,x
 c_tenerife,PROV1365,,Tenerife,,,,,,,,,,,x
 c_tenerife,c_tenerife,,,,,,,,,,,,,x
@@ -1552,13 +1552,13 @@ c_tenerife,catalan,,Tenerife,,,,,,,,,,,x
 c_tenerife,galician,,Tenerife,,,,,,,,,,,x
 c_tenerife,leonese,,Tenerife,,,,,,,,,,,x
 c_tenerife,portuguese,,Tenerife,,,,,,,,,,,x
-c_tenerife,zanata,,Aöenöen,,,,,,,,,,,x
-c_tenerife,c_tenerife_adj_zanata,,Aöenöen,,,,,,,,,,,x
+c_tenerife,zanata,,A≈°en≈°en,,,,,,,,,,,x
+c_tenerife,c_tenerife_adj_zanata,,A≈°en≈°en,,,,,,,,,,,x
 b_adeje,b_adeje,,Adeje,,,,,,,,,,,x
 b_adeje,b_adeje_adj,,,,,,,,,,,,,x
 b_taoro,b_taoro,,Taoro,,,,,,,,,,,x
 b_taoro,b_taoro_adj,,,,,,,,,,,,,x
-b_guimar,b_guimar,,G¸imar,,,,,,,,,,,x
+b_guimar,b_guimar,,G√ºimar,,,,,,,,,,,x
 b_guimar,b_guimar_adj,,,,,,,,,,,,,x
 b_candelaria,b_candelaria,,Candelaria,,,,,,,,,,,x
 b_candelaria,b_candelaria_adj,,,,,,,,,,,,,x
@@ -1567,18 +1567,18 @@ c_canarias,c_canarias,,,,,,,,,,,,,x
 c_canarias,c_canarias_adj,,Canarian,,,,,,,,,,,x
 c_canarias,aragonese,,Gran Canaria,,,,,,,,,,,x
 c_canarias,basque,,Kanaria Handia,,,,,,,,,,,x
-c_canarias,canarian,,Tamar·n,,,,,,,,,,,x
+c_canarias,canarian,,Tamar√°n,,,,,,,,,,,x
 c_canarias,castillan,,Gran Canaria,,,,,,,,,,,x
 c_canarias,catalan,,Gran Canaria,,,,,,,,,,,x
-c_canarias,galician,,Gr„ Can·ria,,,,,,,,,,,x
+c_canarias,galician,,Gr√£ Can√°ria,,,,,,,,,,,x
 c_canarias,leonese,,Gran Canaria,,,,,,,,,,,x
-c_canarias,portuguese,,Gr„ Can·ria,,,,,,,,,,,x
-c_canarias,zanata,,Tam„ran,,,,,,,,,,,x
+c_canarias,portuguese,,Gr√£ Can√°ria,,,,,,,,,,,x
+c_canarias,zanata,,Tam√£ran,,,,,,,,,,,x
 b_agaldar,b_agaldar,,Agaldar,,,,,,,,,,,x
 b_agaldar,b_agaldar_adj,,,,,,,,,,,,,x
 b_telde,b_telde,,Telde,,,,,,,,,,,x
 b_telde,b_telde_adj,,,,,,,,,,,,,x
-b_aguimes,b_aguimes,,Ag¸imes,,,,,,,,,,,x
+b_aguimes,b_aguimes,,Ag√ºimes,,,,,,,,,,,x
 b_aguimes,b_aguimes_adj,,,,,,,,,,,,,x
 k_sahara,k_sahara,,Sahara,,,,,,,,,,,x
 k_sahara,k_sahara_adj,,Saharan,,,,,,,,,,,x
@@ -1586,7 +1586,7 @@ d_hoggar,d_hoggar,,Hoggar,,,,,,,,,,,x
 d_hoggar,d_hoggar_adj,,Hoggari,,,,,,,,,,,x
 c_hoggar,PROV1403,,Hoggar,,,,,,,,,,,x
 c_hoggar,c_hoggar,,,,,,,,,,,,,x
-c_hoggar,c_hoggar_adj,,HoggarÓ,,,,,,,,,,,x
+c_hoggar,c_hoggar_adj,,Hoggar√Æ,,,,,,,,,,,x
 b_hoggar,b_hoggar,,Hoggar,,,,,,,,,,,x
 b_hoggar,b_hoggar_adj,,,,,,,,,,,,,x
 b_tamanrasset,b_tamanrasset,,Tamanrasset,,,,,,,,,,,x
@@ -1595,31 +1595,31 @@ b_timanissao,b_timanissao,,Timanissao,,,,,,,,,,,x
 b_timanissao,b_timanissao_adj,,,,,,,,,,,,,x
 c_djanet,PROV1402,,Djanet,,,,,,,,,,,x
 c_djanet,c_djanet,,,,,,,,,,,,,x
-c_djanet,c_djanet_adj,,DjanÓtÓ,,,,,,,,,,,x
+c_djanet,c_djanet_adj,,Djan√Æt√Æ,,,,,,,,,,,x
 b_djanet,b_djanet,,Djanet,,,,,,,,,,,x
 b_djanet,b_djanet_adj,,,,,,,,,,,,,x
-c_ilizi,PROV1380,,IlÓzÓ,,,,,,,,,,,x
+c_ilizi,PROV1380,,Il√Æz√Æ,,,,,,,,,,,x
 c_ilizi,c_ilizi,,,,,,,,,,,,,x
-c_ilizi,c_ilizi_adj,,IlÓzÓ,,,,,,,,,,,x
-b_ilizi,b_ilizi,,IlÌzÌ,,,,,,,,,,,x
+c_ilizi,c_ilizi_adj,,Il√Æz√Æ,,,,,,,,,,,x
+b_ilizi,b_ilizi,,Il√≠z√≠,,,,,,,,,,,x
 b_ilizi,b_ilizi_adj,,,,,,,,,,,,,x
 d_tuat,d_tuat,,Tuat,,,,,,,,,,,x
-d_tuat,d_tuat_adj,,TuatÌ,,,,,,,,,,,x
+d_tuat,d_tuat_adj,,Tuat√≠,,,,,,,,,,,x
 c_figuig,PROV837,,Figuig,,,,,,,,,,,x
 c_figuig,c_figuig,,,,,,,,,,,,,x
-c_figuig,c_figuig_adj,,FiguigÓ,,,,,,,,,,,x
+c_figuig,c_figuig_adj,,Figuig√Æ,,,,,,,,,,,x
 b_figuig,b_figuig,,Figuig,,,,,,,,,,,x
 b_figuig,b_figuig_adj,,,,,,,,,,,,,x
 c_wallen,PROV1395,,Wallen,,,,,,,,,,,x
 c_wallen,c_wallen,,,,,,,,,,,,,x
-c_wallen,c_wallen_adj,,WallenÓ,,,,,,,,,,,x
+c_wallen,c_wallen_adj,,Wallen√Æ,,,,,,,,,,,x
 b_wallen,b_wallen,,Wallen,,,,,,,,,,,x
 b_wallen,b_wallen_adj,,,,,,,,,,,,,x
 b_insalah,b_insalah,,In Salah,,,,,,,,,,,x
 b_insalah,b_insalah_adj,,,,,,,,,,,,,x
 c_tuat,PROV1396,,Tuat,,,,,,,,,,,x
 c_tuat,c_tuat,,,,,,,,,,,,,x
-c_tuat,c_tuat_adj,,TouatÓ,,,,,,,,,,,x
+c_tuat,c_tuat_adj,,Touat√Æ,,,,,,,,,,,x
 b_reggane,b_reggane,,Reggane,,,,,,,,,,,x
 b_reggane,b_reggane_adj,,,,,,,,,,,,,x
 b_timmi,b_timmi,,Timmi,,,,,,,,,,,x
@@ -1632,7 +1632,7 @@ b_bouda,b_bouda,,Bouda,,,,,,,,,,,x
 b_bouda,b_bouda_adj,,,,,,,,,,,,,x
 c_elgolea,PROV1397,,El Golea,,,,,,,,,,,x
 c_elgolea,c_elgolea,,,,,,,,,,,,,x
-c_elgolea,c_elgolea_adj,,QulayÓ,,,,,,,,,,,x
+c_elgolea,c_elgolea_adj,,Qulay√Æ,,,,,,,,,,,x
 b_elgolea,b_elgolea,,Al -Qulaya,,,,,,,,,,,x
 b_elgolea,b_elgolea_adj,,,,,,,,,,,,,x
 d_mzab,d_mzab,,Mzab,,,,,,,,,,,x
@@ -1641,34 +1641,34 @@ d_mzab,greek,,Gaetulia,,,,,,,,,,,x
 d_mzab,roman,,Gaetulia,,,,,,,,,,,x
 c_mzab,PROV829,,Al-Aghwat,,,,,,,,,,,x
 c_mzab,c_mzab,,,,,,,,,,,,,x
-c_mzab,c_mzab_adj,,Mz·bÓ,,,,,,,,,,,x
+c_mzab,c_mzab_adj,,Mz√°b√Æ,,,,,,,,,,,x
 b_mzab,b_mzab,,Mzab,,,,,,,,,,,x
 b_mzab,b_mzab_adj,,,,,,,,,,,,,x
 b_noumerat,b_noumerat,,Noumerat,,,,,,,,,,,x
 b_noumerat,b_noumerat_adj,,,,,,,,,,,,,x
-b_ghardaiya,b_ghardaiya,,GhardaÌya,,,,,,,,,,,x
+b_ghardaiya,b_ghardaiya,,Gharda√≠ya,,,,,,,,,,,x
 b_ghardaiya,b_ghardaiya_adj,,,,,,,,,,,,,x
 b_tilghemt,b_tilghemt,,Tilghemt,,,,,,,,,,,x
 b_tilghemt,b_tilghemt_adj,,,,,,,,,,,,,x
 c_wargla,PROV1392,,Wargla,,,,,,,,,,,x
 c_wargla,c_wargla,,,,,,,,,,,,,x
-c_wargla,c_wargla_adj,,WarjÓl·nÓ,,,,,,,,,,,x
+c_wargla,c_wargla_adj,,Warj√Æl√°n√Æ,,,,,,,,,,,x
 b_ouargla,b_ouargla,,Wargla,,,,,,,,,,,x
 b_ouargla,b_ouargla_adj,,,,,,,,,,,,,x
 b_tukkurt,b_tukkurt,,Tukkurt,,,,,,,,,,,x
 b_tukkurt,b_tukkurt_adj,,,,,,,,,,,,,x
-b_sadrata,b_sadrata,,Sadr·ta,,,,,,,,,,,x
+b_sadrata,b_sadrata,,Sadr√°ta,,,,,,,,,,,x
 b_sadrata,b_sadrata_adj,,,,,,,,,,,,,x
 b_taghyart,b_taghyart,,Taghyart,,,,,,,,,,,x
 b_taghyart,b_taghyart_adj,,,,,,,,,,,,,x
 b_karima,b_karima,,Karima,,,,,,,,,,,x
 b_karima,b_karima_adj,,,,,,,,,,,,,x
-c_ghadames,PROV1223,,GhadamÈs,,,,,,,,,,,x
+c_ghadames,PROV1223,,Ghadam√©s,,,,,,,,,,,x
 c_ghadames,c_ghadames,,,,,,,,,,,,,x
-c_ghadames,c_ghadames_adj,,GhadamÓsÓ,,,,,,,,,,,x
+c_ghadames,c_ghadames_adj,,Ghadam√Æs√Æ,,,,,,,,,,,x
 c_ghadames,greek,,Cydamus,,,,,,,,,,,x
 c_ghadames,roman,,Cydamus,,,,,,,,,,,x
-b_ghadames,b_ghadames,,GhadamÈs,,,,,,,,,,,x
+b_ghadames,b_ghadames,,Ghadam√©s,,,,,,,,,,,x
 b_ghadames,b_ghadames_adj,,,,,,,,,,,,,x
 b_ghadames,greek,,Cydamus,,,,,,,,,,,x
 b_ghadames,roman,,Cydamus,,,,,,,,,,,x
@@ -1678,8 +1678,8 @@ d_air,d_air,,Air,,,,,,,,,,,x
 d_air,d_air_adj,,Airi,,,,,,,,,,,x
 c_agades,PROV1225,,Agadez,,,,,,,,,,,x
 c_agades,c_agades,,,,,,,,,,,,,x
-c_agades,c_agades_adj,,AgadÓ,,,,,,,,,,,x
-b_agades,b_agades,,AgadÈs,,,,,,,,,,,x
+c_agades,c_agades_adj,,Agad√Æ,,,,,,,,,,,x
+b_agades,b_agades,,Agad√©s,,,,,,,,,,,x
 b_agades,b_agades_adj,,,,,,,,,,,,,x
 b_takkeda,b_takkeda,,Takkeda,,,,,,,,,,,x
 b_takkeda,b_takkeda_adj,,,,,,,,,,,,,x
@@ -1689,7 +1689,7 @@ b_maranda,b_maranda,,Maranda,,,,,,,,,,,x
 b_maranda,b_maranda_adj,,,,,,,,,,,,,x
 c_ainazawa,PROV1401,,Ain Azawa,,,,,,,,,,,x
 c_ainazawa,c_ainazawa,,,,,,,,,,,,,x
-c_ainazawa,c_ainazawa_adj,,Az·wÓ,,,,,,,,,,,x
+c_ainazawa,c_ainazawa_adj,,Az√°w√Æ,,,,,,,,,,,x
 b_azawa,b_azawa,,Ain Azawa,,,,,,,,,,,x
 b_azawa,b_azawa_adj,,,,,,,,,,,,,x
 k_fezzan,k_fezzan,,Fezzan,,,,,,,,,,,x
@@ -1701,7 +1701,7 @@ d_fezzan,greek,,Garamantia,,,,,,,,,,,x
 d_fezzan,roman,,Garamantia,,,,,,,,,,,x
 c_murzuk,PROV1404,,Murzuk,,,,,,,,,,,x
 c_murzuk,c_murzuk,,,,,,,,,,,,,x
-c_murzuk,c_murzuk_adj,,MurzukÓ,,,,,,,,,,,x
+c_murzuk,c_murzuk_adj,,Murzuk√Æ,,,,,,,,,,,x
 b_murzuk,b_murzuk,,Murzuk,,,,,,,,,,,x
 b_murzuk,b_murzuk_adj,,,,,,,,,,,,,x
 b_mishtouta,b_mishtouta,,Mishtouta,,,,,,,,,,,x
@@ -1712,21 +1712,21 @@ b_dillaim,b_dillaim,,Dillaim,,,,,,,,,,,x
 b_dillaim,b_dillaim_adj,,,,,,,,,,,,,x
 b_tassawa,b_tassawa,,Tassawa,,,,,,,,,,,x
 b_tassawa,b_tassawa_adj,,,,,,,,,,,,,x
-b_tamzawa,b_tamzawa,,Tamz·wa,,,,,,,,,,,x
+b_tamzawa,b_tamzawa,,Tamz√°wa,,,,,,,,,,,x
 b_tamzawa,b_tamzawa_adj,,,,,,,,,,,,,x
 c_ghat,PROV1226,,Ghat,,,,,,,,,,,x
 c_ghat,c_ghat,,,,,,,,,,,,,x
-c_ghat,c_ghat_adj,,Gh·tÓ,,,,,,,,,,,x
-b_ghat,b_ghat,,Gh·t,,,,,,,,,,,x
+c_ghat,c_ghat_adj,,Gh√°t√Æ,,,,,,,,,,,x
+b_ghat,b_ghat,,Gh√°t,,,,,,,,,,,x
 b_ghat,b_ghat_adj,,,,,,,,,,,,,x
 c_nafusa,PROV1398,,Nafusa,,,,,,,,,,,x
 c_nafusa,c_nafusa,,,,,,,,,,,,,x
-c_nafusa,c_nafusa_adj,,Naf˙sÓ,,,,,,,,,,,x
+c_nafusa,c_nafusa_adj,,Naf√∫s√Æ,,,,,,,,,,,x
 c_nafusa,greek,,Thenteos,,,,,,,,,,,x
 c_nafusa,c_nafusa_adj_greek,,Thentean,,,,,,,,,,,x
 c_nafusa,roman,,Thenteos,,,,,,,,,,,x
 c_nafusa,c_nafusa_adj_roman,,Thentean,,,,,,,,,,,x
-b_nafusa,b_nafusa,,Naf˙sa,,,,,,,,,,,x
+b_nafusa,b_nafusa,,Naf√∫sa,,,,,,,,,,,x
 b_nafusa,b_nafusa_adj,,,,,,,,,,,,,x
 b_nafusa,greek,,Thenteos,,,,,,,,,,,x
 b_nafusa,roman,,Thenteos,,,,,,,,,,,x
@@ -1734,25 +1734,25 @@ b_djadojafran,b_djadojafran,,Djado,,,,,,,,,,,x
 b_djadojafran,b_djadojafran_adj,,,,,,,,,,,,,x
 b_djadojafran,greek,,Thenadassa,,,,,,,,,,,x
 b_djadojafran,roman,,Thenadassa,,,,,,,,,,,x
-b_tiri,b_tiri,,TÌrÌ,,,,,,,,,,,x
+b_tiri,b_tiri,,T√≠r√≠,,,,,,,,,,,x
 b_tiri,b_tiri_adj,,,,,,,,,,,,,x
-b_jafran,b_jafran,,Jafr·n,,,,,,,,,,,x
+b_jafran,b_jafran,,Jafr√°n,,,,,,,,,,,x
 b_jafran,b_jafran_adj,,,,,,,,,,,,,x
 c_waddan,PROV1399,,Waddan,,,,,,,,,,,x
 c_waddan,c_waddan,,,,,,,,,,,,,x
-c_waddan,c_waddan_adj,,WaddanÓ,,,,,,,,,,,x
+c_waddan,c_waddan_adj,,Waddan√Æ,,,,,,,,,,,x
 c_waddan,greek,,Gholaia,,,,,,,,,,,x
 c_waddan,roman,,Gholaia,,,,,,,,,,,x
 b_waddan,b_waddan,,Waddan,,,,,,,,,,,x
 b_waddan,b_waddan_adj,,,,,,,,,,,,,x
 b_waddan,greek,,Gholaia,,,,,,,,,,,x
 b_waddan,roman,,Gholaia,,,,,,,,,,,x
-b_tadjrift,b_tadjrift,,TadjrÌft,,,,,,,,,,,x
+b_tadjrift,b_tadjrift,,Tadjr√≠ft,,,,,,,,,,,x
 b_tadjrift,b_tadjrift_adj,,,,,,,,,,,,,x
 c_zawila,PROV1405,,Zawila,,,,,,,,,,,x
 c_zawila,c_zawila,,,,,,,,,,,,,x
-c_zawila,c_zawila_adj,,ZawÓlÓ,,,,,,,,,,,x
-b_zawila,b_zawila,,ZawÌla,,,,,,,,,,,x
+c_zawila,c_zawila_adj,,Zaw√Æl√Æ,,,,,,,,,,,x
+b_zawila,b_zawila,,Zaw√≠la,,,,,,,,,,,x
 b_zawila,b_zawila_adj,,,,,,,,,,,,,x
 b_sebha,b_sebha,,Sebha,,,,,,,,,,,x
 b_sebha,b_sebha_adj,,,,,,,,,,,,,x
@@ -1760,18 +1760,18 @@ b_sebha,greek,,Sabae,,,,,,,,,,,x
 b_sebha,roman,,Sabae,,,,,,,,,,,x
 b_zalha,b_zalha,,Zalha,,,,,,,,,,,x
 b_zalha,b_zalha_adj,,,,,,,,,,,,,x
-b_sabab,b_sabab,,Sab·b,,,,,,,,,,,x
+b_sabab,b_sabab,,Sab√°b,,,,,,,,,,,x
 b_sabab,b_sabab_adj,,,,,,,,,,,,,x
 c_tummo,PROV1408,,Tumma,,,,,,,,,,,x
 c_tummo,c_tummo,,,,,,,,,,,,,x
-c_tummo,c_tummo_adj,,TummÓ,,,,,,,,,,,x
+c_tummo,c_tummo_adj,,Tumm√Æ,,,,,,,,,,,x
 b_tummo,b_tummo,,Tummo,,,,,,,,,,,x
 b_tummo,b_tummo_adj,,,,,,,,,,,,,x
 d_tibesti,d_tibesti,,Tibesti,,,,,,,,,,,x
 d_tibesti,d_tibesti_adj,,Tibesti,,,,,,,,,,,x
 c_roufra,PROV1235,,Koufra,,,,,,,,,,,x
 c_roufra,c_roufra,,,,,,,,,,,,,x
-c_roufra,c_roufra_adj,,KoufrÓ,,,,,,,,,,,x
+c_roufra,c_roufra_adj,,Koufr√Æ,,,,,,,,,,,x
 b_koufra,b_koufra,,Koufra,,,,,,,,,,,x
 b_koufra,b_koufra_adj,,,,,,,,,,,,,x
 b_sherda,b_sherda,,Sherda,,,,,,,,,,,x
@@ -1780,13 +1780,13 @@ b_aingalakka,b_aingalakka,,Ain Galakka,,,,,,,,,,,x
 b_aingalakka,b_aingalakka_adj,,,,,,,,,,,,,x
 c_tazerbo,PROV1406,,Gherma,,,,,,,,,,,x
 c_tazerbo,c_tazerbo,,,,,,,,,,,,,x
-c_tazerbo,c_tazerbo_adj,,GhermÓ,,,,,,,,,,,x
+c_tazerbo,c_tazerbo_adj,,Gherm√Æ,,,,,,,,,,,x
 b_tazerbo,b_tazerbo,,Tazerbo,,,,,,,,,,,x
 b_tazerbo,b_tazerbo_adj,,,,,,,,,,,,,x
 b_gherma,b_gherma,,Gherma,,,,,,,,,,,x
 b_gherma,b_gherma_adj,,,,,,,,,,,,,x
 k_kanem,k_kanem,,Kanem,,,,,,,,,,,x
-k_kanem,k_kanem_adj,,KanemÌ,,,,,,,,,,,x
+k_kanem,k_kanem_adj,,Kanem√≠,,,,,,,,,,,x
 d_bornu,d_bornu,,Bornu,,,,,,,,,,,x
 d_bornu,d_bornu_adj,,Bornu,,,,,,,,,,,x
 c_bornu,PROV1476,,Bornu,,,,,,,,,,,x
@@ -1823,7 +1823,7 @@ b_munio,b_munio_adj,,,,,,,,,,,,,x
 b_nguru,b_nguru,,Nguru,,,,,,,,,,,x
 b_nguru,b_nguru_adj,,,,,,,,,,,,,x
 d_kanem,d_kanem,,Kanem,,,,,,,,,,,x
-d_kanem,d_kanem_adj,,KanemÌ,,,,,,,,,,,x
+d_kanem,d_kanem_adj,,Kanem√≠,,,,,,,,,,,x
 c_kanem,PROV1329,,Kanem,,,,,,,,,,,x
 c_kanem,c_kanem,,,,,,,,,,,,,x
 c_kanem,c_kanem_adj,,Kanem,,,,,,,,,,,x
@@ -1847,7 +1847,7 @@ b_makari,b_makari_adj,,,,,,,,,,,,,x
 b_kuka,b_kuka,,Kuka,,,,,,,,,,,x
 b_kuka,b_kuka_adj,,,,,,,,,,,,,x
 d_wadai,d_wadai,,Wadai,,,,,,,,,,,x
-d_wadai,d_wadai_adj,,WadaÌ,,,,,,,,,,,x
+d_wadai,d_wadai_adj,,Wada√≠,,,,,,,,,,,x
 c_wadai,PROV1480,,Wadai,,,,,,,,,,,x
 c_wadai,c_wadai,,,,,,,,,,,,,x
 c_wadai,c_wadai_adj,,Wadai,,,,,,,,,,,x
@@ -1861,7 +1861,7 @@ d_kawar,d_kawar,,Kawar,,,,,,,,,,,x
 d_kawar,d_kawar_adj,,Kawari,,,,,,,,,,,x
 c_bilma,PROV1227,,Kawar,,,,,,,,,,,x
 c_bilma,c_bilma,,,,,,,,,,,,,x
-c_bilma,c_bilma_adj,,BilmÓ,,,,,,,,,,,x
+c_bilma,c_bilma_adj,,Bilm√Æ,,,,,,,,,,,x
 b_bilma,b_bilma,,Bilma,,,,,,,,,,,x
 b_bilma,b_bilma_adj,,,,,,,,,,,,,x
 b_dirku,b_dirku,,Dirku,,,,,,,,,,,x
@@ -1872,6 +1872,6 @@ b_fachi,b_fachi,,Fachi,,,,,,,,,,,x
 b_fachi,b_fachi_adj,,,,,,,,,,,,,x
 c_djado,PROV1400,,Djado,,,,,,,,,,,x
 c_djado,c_djado,,,,,,,,,,,,,x
-c_djado,c_djado_adj,,DjadÓ,,,,,,,,,,,x
+c_djado,c_djado_adj,,Djad√Æ,,,,,,,,,,,x
 b_djado,b_djado,,Djado,,,,,,,,,,,x
 b_djado,b_djado_adj,,,,,,,,,,,,,x

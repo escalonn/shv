@@ -1,14 +1,14 @@
 #TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
-e_spain,e_spain,,EspaÒa,,,,,,,,,,,x
-e_spain,e_spain_adj,,EspaÒola,,,,,,,,,,,x
+e_spain,e_spain,,Espa√±a,,,,,,,,,,,x
+e_spain,e_spain_adj,,Espa√±ola,,,,,,,,,,,x
 e_spain,andalusian_arabic,,Isbaniyya,,,,,,,,,,,x
 e_spain,aragonese,,Espanya,,,,,,,,,,,x
 e_spain,basque,,Espainia,,,,,,,,,,,x
 e_spain,catalan,,Espanya,,,,,,,,,,,x
 e_spain,egyptian_arabic,,Isbaniyya,,,,,,,,,,,x
 e_spain,frankish,,Espagne,,,,,,,,,,,x
-e_spain,galician,,EspaÒa,,,,,,,,,,,x
-e_spain,leonese,,EspaÒa,,,,,,,,,,,x
+e_spain,galician,,Espa√±a,,,,,,,,,,,x
+e_spain,leonese,,Espa√±a,,,,,,,,,,,x
 e_spain,levantine_arabic,,Isbaniyya,,,,,,,,,,,x
 e_spain,maghreb_arabic,,Isbaniyya,,,,,,,,,,,x
 e_spain,portuguese,,Espanha,,,,,,,,,,,x
@@ -73,14 +73,14 @@ b_mirandadeebro,basque,,Miranda Ebroko,,,,,,,,,,,x
 b_mirandadeebro,bedouin_arabic,,Miranda al-A'bra,,,,,,,,,,,x
 b_mirandadeebro,catalan,,Miranda d'Ebre,,,,,,,,,,,x
 b_mirandadeebro,egyptian_arabic,,Miranda al-A'bra,,,,,,,,,,,x
-b_mirandadeebro,frankish,,Mirande d'»bre,,,,,,,,,,,x
+b_mirandadeebro,frankish,,Mirande d'√àbre,,,,,,,,,,,x
 b_mirandadeebro,galician,,Miranda do Ebro,,,,,,,,,,,x
 b_mirandadeebro,leonese,,Miranda d'Ebro,,,,,,,,,,,x
 b_mirandadeebro,levantine_arabic,,Miranda al-A'bra,,,,,,,,,,,x
 b_mirandadeebro,maghreb_arabic,,Miranda al-A'bra,,,,,,,,,,,x
 b_mirandadeebro,portuguese,,Miranda do Ebro,,,,,,,,,,,x
 b_mirandadeebro,sicilian_arabic,,Miranda al-A'bra,,,,,,,,,,,x
-b_onya,b_onya,,OÒa,,,,,,,,,,,x
+b_onya,b_onya,,O√±a,,,,,,,,,,,x
 b_onya,b_onya_adj,,,,,,,,,,,,,x
 b_onya,andalusian_arabic,,Unniyya,,,,,,,,,,,x
 b_onya,aragonese,,Onya,,,,,,,,,,,x
@@ -104,17 +104,17 @@ b_lara,sicilian_arabic,,La'ra,,,,,,,,,,,x
 b_castrojeriz,b_castrojeriz,,Castrojeriz,,,,,,,,,,,x
 b_castrojeriz,b_castrojeriz_adj,,,,,,,,,,,,,x
 b_castrojeriz,andalusian_arabic,,Qal'at Shigrit,,,,,,,,,,,x
-b_castrojeriz,aragonese,,CastrocherÌz,,,,,,,,,,,x
+b_castrojeriz,aragonese,,Castrocher√≠z,,,,,,,,,,,x
 b_castrojeriz,basque,,Kastroxeritz,,,,,,,,,,,x
 b_castrojeriz,bedouin_arabic,,Qal'at Shigrit,,,,,,,,,,,x
 b_castrojeriz,catalan,,Castrasoritz,,,,,,,,,,,x
 b_castrojeriz,egyptian_arabic,,Qal'at Shigrit,,,,,,,,,,,x
-b_castrojeriz,frankish,,Ch‚teausÈri,,,,,,,,,,,x
+b_castrojeriz,frankish,,Ch√¢teaus√©ri,,,,,,,,,,,x
 b_castrojeriz,galician,,Castroxeriz,,,,,,,,,,,x
 b_castrojeriz,leonese,,Castroxeriz,,,,,,,,,,,x
 b_castrojeriz,levantine_arabic,,Qal'at Shigrit,,,,,,,,,,,x
 b_castrojeriz,maghreb_arabic,,Qal'at Shigrit,,,,,,,,,,,x
-b_castrojeriz,portuguese,,Alc·cer do Geriz,,,,,,,,,,,x
+b_castrojeriz,portuguese,,Alc√°cer do Geriz,,,,,,,,,,,x
 b_castrojeriz,sicilian_arabic,,Qal'at Shigrit,,,,,,,,,,,x
 b_arandadeduero,b_arandadeduero,,Aranda de Duero,,,,,,,,,,,x
 b_arandadeduero,b_arandadeduero_adj,,,,,,,,,,,,,x
@@ -140,13 +140,13 @@ c_valladolid,levantine_arabic,,Balad al-Walid,,,,,,,,,,,x
 c_valladolid,maghreb_arabic,,Balad al-Walid,,,,,,,,,,,x
 c_valladolid,portuguese,,Valhadolide,,,,,,,,,,,x
 c_valladolid,sicilian_arabic,,Balad al-Walid,,,,,,,,,,,x
-b_penyafiel,b_penyafiel,,PeÒafiel,,,,,,,,,,,x
+b_penyafiel,b_penyafiel,,Pe√±afiel,,,,,,,,,,,x
 b_penyafiel,b_penyafiel_adj,,,,,,,,,,,,,x
 b_penyafiel,andalusian_arabic,,Racha Rachel,,,,,,,,,,,x
 b_penyafiel,bedouin_arabic,,Racha Rachel,,,,,,,,,,,x
 b_penyafiel,catalan,,Penyafidel,,,,,,,,,,,x
 b_penyafiel,egyptian_arabic,,Racha Rachel,,,,,,,,,,,x
-b_penyafiel,frankish,,MontfidËle,,,,,,,,,,,x
+b_penyafiel,frankish,,Montfid√®le,,,,,,,,,,,x
 b_penyafiel,levantine_arabic,,Racha Rachel,,,,,,,,,,,x
 b_penyafiel,maghreb_arabic,,Racha Rachel,,,,,,,,,,,x
 b_penyafiel,portuguese,,Penhafiel,,,,,,,,,,,x
@@ -184,7 +184,7 @@ b_medinaderioseco,basque,,Medina Rioseko,,,,,,,,,,,x
 b_medinaderioseco,bedouin_arabic,,Madina as-Sikka,,,,,,,,,,,x
 b_medinaderioseco,catalan,,Medina de Riusec,,,,,,,,,,,x
 b_medinaderioseco,egyptian_arabic,,Madina as-Sikka,,,,,,,,,,,x
-b_medinaderioseco,frankish,,MÈdina du SËche,,,,,,,,,,,x
+b_medinaderioseco,frankish,,M√©dina du S√®che,,,,,,,,,,,x
 b_medinaderioseco,levantine_arabic,,Madina as-Sikka,,,,,,,,,,,x
 b_medinaderioseco,maghreb_arabic,,Madina as-Sikka,,,,,,,,,,,x
 b_medinaderioseco,sicilian_arabic,,Madina as-Sikka,,,,,,,,,,,x
@@ -193,23 +193,23 @@ c_soria,c_soria,,,,,,,,,,,,,x
 c_soria,c_soria_adj,,Sorian,,,,,,,,,,,x
 c_soria,andalusian_arabic,,Suria,,,,,,,,,,,x
 c_soria,bedouin_arabic,,Suria,,,,,,,,,,,x
-c_soria,catalan,,SÚria,,,,,,,,,,,x
+c_soria,catalan,,S√≤ria,,,,,,,,,,,x
 c_soria,egyptian_arabic,,Suria,,,,,,,,,,,x
 c_soria,frankish,,Sorie,,,,,,,,,,,x
 c_soria,levantine_arabic,,Suria,,,,,,,,,,,x
 c_soria,maghreb_arabic,,Suria,,,,,,,,,,,x
-c_soria,portuguese,,SÛria,,,,,,,,,,,x
+c_soria,portuguese,,S√≥ria,,,,,,,,,,,x
 c_soria,sicilian_arabic,,Suria,,,,,,,,,,,x
 b_soria,b_soria,,Soria,,,,,,,,,,,x
 b_soria,b_soria_adj,,,,,,,,,,,,,x
 b_soria,andalusian_arabic,,Suria,,,,,,,,,,,x
 b_soria,bedouin_arabic,,Suria,,,,,,,,,,,x
-b_soria,catalan,,SÚria,,,,,,,,,,,x
+b_soria,catalan,,S√≤ria,,,,,,,,,,,x
 b_soria,egyptian_arabic,,Suria,,,,,,,,,,,x
 b_soria,frankish,,Sorie,,,,,,,,,,,x
 b_soria,levantine_arabic,,Suria,,,,,,,,,,,x
 b_soria,maghreb_arabic,,Suria,,,,,,,,,,,x
-b_soria,portuguese,,SÛria,,,,,,,,,,,x
+b_soria,portuguese,,S√≥ria,,,,,,,,,,,x
 b_soria,sicilian_arabic,,Suria,,,,,,,,,,,x
 b_osma,b_osma,,Osma,,,,,,,,,,,x
 b_osma,b_osma_adj,,,,,,,,,,,,,x
@@ -242,13 +242,13 @@ c_asturias_de_santillana,c_asturias_de_santillana_adj,,Asturias de Santillanian,
 c_asturias_de_santillana,andalusian_arabic,,Sant'ianna,,,,,,,,,,,x
 c_asturias_de_santillana,basque,,Santillanako Asturias,,,,,,,,,,,x
 c_asturias_de_santillana,bedouin_arabic,,Sant'ianna,,,,,,,,,,,x
-c_asturias_de_santillana,catalan,,Ast˙ries de Santillana,,,,,,,,,,,x
+c_asturias_de_santillana,catalan,,Ast√∫ries de Santillana,,,,,,,,,,,x
 c_asturias_de_santillana,egyptian_arabic,,Sant'ianna,,,,,,,,,,,x
 c_asturias_de_santillana,frankish,,Asturies de Sainte-Julianne,,,,,,,,,,,x
 c_asturias_de_santillana,leonese,,Asturies de Santillana,,,,,,,,,,,x
 c_asturias_de_santillana,levantine_arabic,,Sant'ianna,,,,,,,,,,,x
 c_asturias_de_santillana,maghreb_arabic,,Sant'ianna,,,,,,,,,,,x
-c_asturias_de_santillana,portuguese,,Ast˙rias de Santilhana,,,,,,,,,,,x
+c_asturias_de_santillana,portuguese,,Ast√∫rias de Santilhana,,,,,,,,,,,x
 c_asturias_de_santillana,sicilian_arabic,,Sant'ianna,,,,,,,,,,,x
 b_santillanadelmar,b_santillanadelmar,,Santillana del Mar,,,,,,,,,,,x
 b_santillanadelmar,b_santillanadelmar_adj,,,,,,,,,,,,,x
@@ -266,9 +266,9 @@ b_liebana,b_liebana,,Liebana,,,,,,,,,,,x
 b_liebana,b_liebana_adj,,,,,,,,,,,,,x
 b_liebana,andalusian_arabic,,Libbana,,,,,,,,,,,x
 b_liebana,bedouin_arabic,,Libbana,,,,,,,,,,,x
-b_liebana,catalan,,LiËbana,,,,,,,,,,,x
+b_liebana,catalan,,Li√®bana,,,,,,,,,,,x
 b_liebana,egyptian_arabic,,Libbana,,,,,,,,,,,x
-b_liebana,frankish,,LiÈbane,,,,,,,,,,,x
+b_liebana,frankish,,Li√©bane,,,,,,,,,,,x
 b_liebana,levantine_arabic,,Libbana,,,,,,,,,,,x
 b_liebana,maghreb_arabic,,Libbana,,,,,,,,,,,x
 b_liebana,sicilian_arabic,,Libbana,,,,,,,,,,,x
@@ -294,8 +294,8 @@ b_laredo,b_laredo_adj,,,,,,,,,,,,,x
 b_laredo,andalusian_arabic,,Larat,,,,,,,,,,,x
 b_laredo,bedouin_arabic,,Larat,,,,,,,,,,,x
 b_laredo,egyptian_arabic,,Larat,,,,,,,,,,,x
-b_laredo,frankish,,LarËde,,,,,,,,,,,x
-b_laredo,leonese,,LarÈu,,,,,,,,,,,x
+b_laredo,frankish,,Lar√®de,,,,,,,,,,,x
+b_laredo,leonese,,Lar√©u,,,,,,,,,,,x
 b_laredo,levantine_arabic,,Larat,,,,,,,,,,,x
 b_laredo,maghreb_arabic,,Larat,,,,,,,,,,,x
 b_laredo,sicilian_arabic,,Larat,,,,,,,,,,,x
@@ -305,14 +305,14 @@ c_palencia,c_palencia_adj,,Palentina,,,,,,,,,,,x
 c_palencia,andalusian_arabic,,Belansiya,,,,,,,,,,,x
 c_palencia,basque,,Palentzia,,,,,,,,,,,x
 c_palencia,bedouin_arabic,,Belansiya,,,,,,,,,,,x
-c_palencia,catalan,,PalËncia,,,,,,,,,,,x
+c_palencia,catalan,,Pal√®ncia,,,,,,,,,,,x
 c_palencia,egyptian_arabic,,Belansiya,,,,,,,,,,,x
 c_palencia,frankish,,Palence,,,,,,,,,,,x
 c_palencia,levantine_arabic,,Belansiya,,,,,,,,,,,x
 c_palencia,maghreb_arabic,,Belansiya,,,,,,,,,,,x
-c_palencia,portuguese,,PalÍncia,,,,,,,,,,,x
+c_palencia,portuguese,,Pal√™ncia,,,,,,,,,,,x
 c_palencia,sicilian_arabic,,Belansiya,,,,,,,,,,,x
-b_carrion,b_carrion,,CarriÛn,,,,,,,,,,,x
+b_carrion,b_carrion,,Carri√≥n,,,,,,,,,,,x
 b_carrion,b_carrion_adj,,,,,,,,,,,,,x
 b_carrion,andalusian_arabic,,Qarun,,,,,,,,,,,x
 b_carrion,basque,,Karrion,,,,,,,,,,,x
@@ -327,14 +327,14 @@ b_palencia,b_palencia_adj,,,,,,,,,,,,,x
 b_palencia,andalusian_arabic,,Belansiya,,,,,,,,,,,x
 b_palencia,basque,,Palentzia,,,,,,,,,,,x
 b_palencia,bedouin_arabic,,Belansiya,,,,,,,,,,,x
-b_palencia,catalan,,PalËncia,,,,,,,,,,,x
+b_palencia,catalan,,Pal√®ncia,,,,,,,,,,,x
 b_palencia,egyptian_arabic,,Belansiya,,,,,,,,,,,x
 b_palencia,frankish,,Palence,,,,,,,,,,,x
 b_palencia,levantine_arabic,,Belansiya,,,,,,,,,,,x
 b_palencia,maghreb_arabic,,Belansiya,,,,,,,,,,,x
-b_palencia,portuguese,,PalÍncia,,,,,,,,,,,x
+b_palencia,portuguese,,Pal√™ncia,,,,,,,,,,,x
 b_palencia,sicilian_arabic,,Belansiya,,,,,,,,,,,x
-b_duenyas,b_duenyas,,DueÒas,,,,,,,,,,,x
+b_duenyas,b_duenyas,,Due√±as,,,,,,,,,,,x
 b_duenyas,b_duenyas_adj,,,,,,,,,,,,,x
 b_duenyas,andalusian_arabic,,Dunniyya,,,,,,,,,,,x
 b_duenyas,aragonese,,Duenyas,,,,,,,,,,,x
@@ -342,12 +342,12 @@ b_duenyas,bedouin_arabic,,Dunniyya,,,,,,,,,,,x
 b_duenyas,catalan,,Duenyas,,,,,,,,,,,x
 b_duenyas,egyptian_arabic,,Dunniyya,,,,,,,,,,,x
 b_duenyas,frankish,,Dognes,,,,,,,,,,,x
-b_duenyas,leonese,,DueÒes,,,,,,,,,,,x
+b_duenyas,leonese,,Due√±es,,,,,,,,,,,x
 b_duenyas,levantine_arabic,,Dunniyya,,,,,,,,,,,x
 b_duenyas,maghreb_arabic,,Dunniyya,,,,,,,,,,,x
 b_duenyas,portuguese,,Duenhas,,,,,,,,,,,x
 b_duenyas,sicilian_arabic,,Dunniyya,,,,,,,,,,,x
-b_saldanya,b_saldanya,,SaldaÒa,,,,,,,,,,,x
+b_saldanya,b_saldanya,,Salda√±a,,,,,,,,,,,x
 b_saldanya,b_saldanya_adj,,,,,,,,,,,,,x
 b_saldanya,andalusian_arabic,,Gili-Zalan,,,,,,,,,,,x
 b_saldanya,aragonese,,Saldanya,,,,,,,,,,,x
@@ -364,13 +364,13 @@ d_segovia,d_segovia_adj,,Segoviana,,,,,,,,,,,x
 d_segovia,andalusian_arabic,,Siqubiyyah,,,,,,,,,,,x
 d_segovia,basque,,Segobia,,,,,,,,,,,x
 d_segovia,bedouin_arabic,,Siqubiyyah,,,,,,,,,,,x
-d_segovia,catalan,,SegÚvia,,,,,,,,,,,x
+d_segovia,catalan,,Seg√≤via,,,,,,,,,,,x
 d_segovia,egyptian_arabic,,Siqubiyyah,,,,,,,,,,,x
-d_segovia,frankish,,SÈgovie,,,,,,,,,,,x
+d_segovia,frankish,,S√©govie,,,,,,,,,,,x
 d_segovia,greek,,Segoubia,,,,,,,,,,,x
 d_segovia,levantine_arabic,,Siqubiyyah,,,,,,,,,,,x
 d_segovia,maghreb_arabic,,Siqubiyyah,,,,,,,,,,,x
-d_segovia,portuguese,,SegÛvia,,,,,,,,,,,x
+d_segovia,portuguese,,Seg√≥via,,,,,,,,,,,x
 d_segovia,roman,,Segovia,,,,,,,,,,,x
 d_segovia,sicilian_arabic,,Siqubiyyah,,,,,,,,,,,x
 c_segovia,PROV1199,,Segovia,,,,,,,,,,,x
@@ -379,13 +379,13 @@ c_segovia,c_segovia_adj,,Segoviana,,,,,,,,,,,x
 c_segovia,andalusian_arabic,,Siqubiyyah,,,,,,,,,,,x
 c_segovia,basque,,Segobia,,,,,,,,,,,x
 c_segovia,bedouin_arabic,,Siqubiyyah,,,,,,,,,,,x
-c_segovia,catalan,,SegÚvia,,,,,,,,,,,x
+c_segovia,catalan,,Seg√≤via,,,,,,,,,,,x
 c_segovia,egyptian_arabic,,Siqubiyyah,,,,,,,,,,,x
-c_segovia,frankish,,SÈgovie,,,,,,,,,,,x
+c_segovia,frankish,,S√©govie,,,,,,,,,,,x
 c_segovia,greek,,Segoubia,,,,,,,,,,,x
 c_segovia,levantine_arabic,,Siqubiyyah,,,,,,,,,,,x
 c_segovia,maghreb_arabic,,Siqubiyyah,,,,,,,,,,,x
-c_segovia,portuguese,,SegÛvia,,,,,,,,,,,x
+c_segovia,portuguese,,Seg√≥via,,,,,,,,,,,x
 c_segovia,roman,,Segovia,,,,,,,,,,,x
 c_segovia,sicilian_arabic,,Siqubiyyah,,,,,,,,,,,x
 b_segovia,b_segovia,,Segovia,,,,,,,,,,,x
@@ -393,23 +393,23 @@ b_segovia,b_segovia_adj,,,,,,,,,,,,,x
 b_segovia,andalusian_arabic,,Siqubiyyah,,,,,,,,,,,x
 b_segovia,basque,,Segobia,,,,,,,,,,,x
 b_segovia,bedouin_arabic,,Siqubiyyah,,,,,,,,,,,x
-b_segovia,catalan,,SegÚvia,,,,,,,,,,,x
+b_segovia,catalan,,Seg√≤via,,,,,,,,,,,x
 b_segovia,egyptian_arabic,,Siqubiyyah,,,,,,,,,,,x
-b_segovia,frankish,,SÈgovie,,,,,,,,,,,x
+b_segovia,frankish,,S√©govie,,,,,,,,,,,x
 b_segovia,greek,,Segoubia,,,,,,,,,,,x
 b_segovia,levantine_arabic,,Siqubiyyah,,,,,,,,,,,x
 b_segovia,maghreb_arabic,,Siqubiyyah,,,,,,,,,,,x
-b_segovia,portuguese,,SegÛvia,,,,,,,,,,,x
+b_segovia,portuguese,,Seg√≥via,,,,,,,,,,,x
 b_segovia,roman,,Segovia,,,,,,,,,,,x
 b_segovia,sicilian_arabic,,Siqubiyyah,,,,,,,,,,,x
-b_sepulveda,b_sepulveda,,Sep˙lveda,,,,,,,,,,,x
+b_sepulveda,b_sepulveda,,Sep√∫lveda,,,,,,,,,,,x
 b_sepulveda,b_sepulveda_adj,,,,,,,,,,,,,x
 b_sepulveda,andalusian_arabic,,Sipulbiyyah,,,,,,,,,,,x
 b_sepulveda,aragonese,,Sepulvega,,,,,,,,,,,x
 b_sepulveda,basque,,Sepulbeda,,,,,,,,,,,x
 b_sepulveda,bedouin_arabic,,Sipulbiyyah,,,,,,,,,,,x
 b_sepulveda,egyptian_arabic,,Sipulbiyyah,,,,,,,,,,,x
-b_sepulveda,frankish,,SÈpulveda,,,,,,,,,,,x
+b_sepulveda,frankish,,S√©pulveda,,,,,,,,,,,x
 b_sepulveda,levantine_arabic,,Sipulbiyyah,,,,,,,,,,,x
 b_sepulveda,maghreb_arabic,,Sipulbiyyah,,,,,,,,,,,x
 b_sepulveda,sicilian_arabic,,Sipulbiyyah,,,,,,,,,,,x
@@ -423,7 +423,7 @@ b_sacramenia,frankish,,Sacramenne,,,,,,,,,,,x
 b_sacramenia,levantine_arabic,,Saquramina,,,,,,,,,,,x
 b_sacramenia,maghreb_arabic,,Saquramina,,,,,,,,,,,x
 b_sacramenia,sicilian_arabic,,Saquramina,,,,,,,,,,,x
-b_cuellar,b_cuellar,,CuÈllar,,,,,,,,,,,x
+b_cuellar,b_cuellar,,Cu√©llar,,,,,,,,,,,x
 b_cuellar,b_cuellar_adj,,,,,,,,,,,,,x
 b_cuellar,andalusian_arabic,,Qullar,,,,,,,,,,,x
 b_cuellar,basque,,Kuellar,,,,,,,,,,,x
@@ -431,34 +431,34 @@ b_cuellar,bedouin_arabic,,Qullar,,,,,,,,,,,x
 b_cuellar,egyptian_arabic,,Qullar,,,,,,,,,,,x
 b_cuellar,levantine_arabic,,Qullar,,,,,,,,,,,x
 b_cuellar,maghreb_arabic,,Qullar,,,,,,,,,,,x
-b_cuellar,portuguese,,CuÈlhar,,,,,,,,,,,x
+b_cuellar,portuguese,,Cu√©lhar,,,,,,,,,,,x
 b_cuellar,sicilian_arabic,,Qullar,,,,,,,,,,,x
-c_avila,PROV1198,,¡vila,,,,,,,,,,,x
+c_avila,PROV1198,,√Åvila,,,,,,,,,,,x
 c_avila,c_avila,,,,,,,,,,,,,x
 c_avila,c_avila_adj,,Abulense,,,,,,,,,,,x
 c_avila,andalusian_arabic,,Abbila,,,,,,,,,,,x
 c_avila,basque,,Abila,,,,,,,,,,,x
 c_avila,bedouin_arabic,,Abbila,,,,,,,,,,,x
-c_avila,catalan,,¿vila,,,,,,,,,,,x
+c_avila,catalan,,√Ävila,,,,,,,,,,,x
 c_avila,egyptian_arabic,,Abbila,,,,,,,,,,,x
 c_avila,greek,,Obila,,,,,,,,,,,x
 c_avila,levantine_arabic,,Abbila,,,,,,,,,,,x
 c_avila,maghreb_arabic,,Abbila,,,,,,,,,,,x
 c_avila,roman,,Obila,,,,,,,,,,,x
 c_avila,sicilian_arabic,,Abbila,,,,,,,,,,,x
-b_avila,b_avila,,¡vila,,,,,,,,,,,x
+b_avila,b_avila,,√Åvila,,,,,,,,,,,x
 b_avila,b_avila_adj,,,,,,,,,,,,,x
 b_avila,andalusian_arabic,,Abbila,,,,,,,,,,,x
 b_avila,basque,,Abila,,,,,,,,,,,x
 b_avila,bedouin_arabic,,Abbila,,,,,,,,,,,x
-b_avila,catalan,,¿vila,,,,,,,,,,,x
+b_avila,catalan,,√Ävila,,,,,,,,,,,x
 b_avila,egyptian_arabic,,Abbila,,,,,,,,,,,x
 b_avila,greek,,Obila,,,,,,,,,,,x
 b_avila,levantine_arabic,,Abbila,,,,,,,,,,,x
 b_avila,maghreb_arabic,,Abbila,,,,,,,,,,,x
 b_avila,roman,,Obila,,,,,,,,,,,x
 b_avila,sicilian_arabic,,Abbila,,,,,,,,,,,x
-b_arevalo,b_arevalo,,ArÈvalo,,,,,,,,,,,x
+b_arevalo,b_arevalo,,Ar√©valo,,,,,,,,,,,x
 b_arevalo,b_arevalo_adj,,,,,,,,,,,,,x
 b_arevalo,andalusian_arabic,,Arbal'un,,,,,,,,,,,x
 b_arevalo,basque,,Arebalo,,,,,,,,,,,x
@@ -475,7 +475,7 @@ b_valdeiglesias,basque,,Baldeliza,,,,,,,,,,,x
 b_valdeiglesias,bedouin_arabic,,Wadi al-Kanais,,,,,,,,,,,x
 b_valdeiglesias,catalan,,Val d'Esglesias,,,,,,,,,,,x
 b_valdeiglesias,egyptian_arabic,,Wadi al-Kanais,,,,,,,,,,,x
-b_valdeiglesias,frankish,,Val d'…glises,,,,,,,,,,,x
+b_valdeiglesias,frankish,,Val d'√âglises,,,,,,,,,,,x
 b_valdeiglesias,galician,,Valdigrexas,,,,,,,,,,,x
 b_valdeiglesias,leonese,,Valdilesies,,,,,,,,,,,x
 b_valdeiglesias,levantine_arabic,,Wadi al-Kanais,,,,,,,,,,,x
@@ -505,7 +505,7 @@ c_medina_del_campo,basque,,Medina Zelaia,,,,,,,,,,,x
 c_medina_del_campo,bedouin_arabic,,Madina al-Marje,,,,,,,,,,,x
 c_medina_del_campo,catalan,,Medina del Camp,,,,,,,,,,,x
 c_medina_del_campo,egyptian_arabic,,Madina al-Marje,,,,,,,,,,,x
-c_medina_del_campo,frankish,,MÈdine du Champ,,,,,,,,,,,x
+c_medina_del_campo,frankish,,M√©dine du Champ,,,,,,,,,,,x
 c_medina_del_campo,galician,,Medina do Campo,,,,,,,,,,,x
 c_medina_del_campo,leonese,,Medina'l Campu,,,,,,,,,,,x
 c_medina_del_campo,levantine_arabic,,Madina al-Marje,,,,,,,,,,,x
@@ -532,7 +532,7 @@ b_medinadelcampo,basque,,Medina Zelaia,,,,,,,,,,,x
 b_medinadelcampo,bedouin_arabic,,Madina al-Marje,,,,,,,,,,,x
 b_medinadelcampo,catalan,,Medina del Camp,,,,,,,,,,,x
 b_medinadelcampo,egyptian_arabic,,Madina al-Marje,,,,,,,,,,,x
-b_medinadelcampo,frankish,,MÈdine du Champ,,,,,,,,,,,x
+b_medinadelcampo,frankish,,M√©dine du Champ,,,,,,,,,,,x
 b_medinadelcampo,galician,,Medina do Campo,,,,,,,,,,,x
 b_medinadelcampo,leonese,,Medina'l Campu,,,,,,,,,,,x
 b_medinadelcampo,levantine_arabic,,Madina al-Marje,,,,,,,,,,,x
@@ -545,58 +545,58 @@ b_tordesillas,andalusian_arabic,,Thur Shilah,,,,,,,,,,,x
 b_tordesillas,bedouin_arabic,,Thur Shilah,,,,,,,,,,,x
 b_tordesillas,catalan,,Tordesilles,,,,,,,,,,,x
 b_tordesillas,egyptian_arabic,,Thur Shilah,,,,,,,,,,,x
-b_tordesillas,frankish,,TordÈsilles,,,,,,,,,,,x
+b_tordesillas,frankish,,Tord√©silles,,,,,,,,,,,x
 b_tordesillas,leonese,,Tordesilles,,,,,,,,,,,x
 b_tordesillas,levantine_arabic,,Thur Shilah,,,,,,,,,,,x
 b_tordesillas,maghreb_arabic,,Thur Shilah,,,,,,,,,,,x
 b_tordesillas,portuguese,,Tordesilhas,,,,,,,,,,,x
 b_tordesillas,sicilian_arabic,,Thur Shilah,,,,,,,,,,,x
-d_najera,d_najera,,N·jera,,,,,,,,,,,x
+d_najera,d_najera,,N√°jera,,,,,,,,,,,x
 d_najera,d_najera_adj,,Najerina,,,,,,,,,,,x
-d_najera,andalusian_arabic,,N·xara,,,,,,,,,,,x
+d_najera,andalusian_arabic,,N√°xara,,,,,,,,,,,x
 d_najera,aragonese,,Nachera,,,,,,,,,,,x
 d_najera,basque,,Naiara,,,,,,,,,,,x
-d_najera,bedouin_arabic,,N·xara,,,,,,,,,,,x
-d_najera,catalan,,N‡xera,,,,,,,,,,,x
-d_najera,egyptian_arabic,,N·xara,,,,,,,,,,,x
-d_najera,frankish,,NajÈra,,,,,,,,,,,x
-d_najera,galician,,N·xera,,,,,,,,,,,x
-d_najera,leonese,,N·xera,,,,,,,,,,,x
-d_najera,levantine_arabic,,N·xara,,,,,,,,,,,x
-d_najera,maghreb_arabic,,N·xara,,,,,,,,,,,x
-d_najera,portuguese,,N·xera,,,,,,,,,,,x
-d_najera,sicilian_arabic,,N·xara,,,,,,,,,,,x
-c_najera,PROV201,,N·jera,,,,,,,,,,,x
+d_najera,bedouin_arabic,,N√°xara,,,,,,,,,,,x
+d_najera,catalan,,N√†xera,,,,,,,,,,,x
+d_najera,egyptian_arabic,,N√°xara,,,,,,,,,,,x
+d_najera,frankish,,Naj√©ra,,,,,,,,,,,x
+d_najera,galician,,N√°xera,,,,,,,,,,,x
+d_najera,leonese,,N√°xera,,,,,,,,,,,x
+d_najera,levantine_arabic,,N√°xara,,,,,,,,,,,x
+d_najera,maghreb_arabic,,N√°xara,,,,,,,,,,,x
+d_najera,portuguese,,N√°xera,,,,,,,,,,,x
+d_najera,sicilian_arabic,,N√°xara,,,,,,,,,,,x
+c_najera,PROV201,,N√°jera,,,,,,,,,,,x
 c_najera,c_najera,,,,,,,,,,,,,x
-c_najera,c_najera_adj,,N·jeran,,,,,,,,,,,x
-c_najera,andalusian_arabic,,N·xara,,,,,,,,,,,x
+c_najera,c_najera_adj,,N√°jeran,,,,,,,,,,,x
+c_najera,andalusian_arabic,,N√°xara,,,,,,,,,,,x
 c_najera,aragonese,,Nachera,,,,,,,,,,,x
 c_najera,basque,,Naiara,,,,,,,,,,,x
-c_najera,bedouin_arabic,,N·xara,,,,,,,,,,,x
-c_najera,catalan,,N‡xera,,,,,,,,,,,x
-c_najera,egyptian_arabic,,N·xara,,,,,,,,,,,x
-c_najera,frankish,,NajÈra,,,,,,,,,,,x
-c_najera,galician,,N·xera,,,,,,,,,,,x
-c_najera,leonese,,N·xera,,,,,,,,,,,x
-c_najera,levantine_arabic,,N·xara,,,,,,,,,,,x
-c_najera,maghreb_arabic,,N·xara,,,,,,,,,,,x
-c_najera,portuguese,,N·xera,,,,,,,,,,,x
-c_najera,sicilian_arabic,,N·xara,,,,,,,,,,,x
-b_najera,b_najera,,N·jera,,,,,,,,,,,x
+c_najera,bedouin_arabic,,N√°xara,,,,,,,,,,,x
+c_najera,catalan,,N√†xera,,,,,,,,,,,x
+c_najera,egyptian_arabic,,N√°xara,,,,,,,,,,,x
+c_najera,frankish,,Naj√©ra,,,,,,,,,,,x
+c_najera,galician,,N√°xera,,,,,,,,,,,x
+c_najera,leonese,,N√°xera,,,,,,,,,,,x
+c_najera,levantine_arabic,,N√°xara,,,,,,,,,,,x
+c_najera,maghreb_arabic,,N√°xara,,,,,,,,,,,x
+c_najera,portuguese,,N√°xera,,,,,,,,,,,x
+c_najera,sicilian_arabic,,N√°xara,,,,,,,,,,,x
+b_najera,b_najera,,N√°jera,,,,,,,,,,,x
 b_najera,b_najera_adj,,,,,,,,,,,,,x
-b_najera,andalusian_arabic,,N·xara,,,,,,,,,,,x
+b_najera,andalusian_arabic,,N√°xara,,,,,,,,,,,x
 b_najera,aragonese,,Nachera,,,,,,,,,,,x
 b_najera,basque,,Naiara,,,,,,,,,,,x
-b_najera,bedouin_arabic,,N·xara,,,,,,,,,,,x
-b_najera,catalan,,N‡xera,,,,,,,,,,,x
-b_najera,egyptian_arabic,,N·xara,,,,,,,,,,,x
-b_najera,frankish,,NajÈra,,,,,,,,,,,x
-b_najera,galician,,N·xera,,,,,,,,,,,x
-b_najera,leonese,,N·xera,,,,,,,,,,,x
-b_najera,levantine_arabic,,N·xara,,,,,,,,,,,x
-b_najera,maghreb_arabic,,N·xara,,,,,,,,,,,x
-b_najera,portuguese,,N·xera,,,,,,,,,,,x
-b_najera,sicilian_arabic,,N·xara,,,,,,,,,,,x
+b_najera,bedouin_arabic,,N√°xara,,,,,,,,,,,x
+b_najera,catalan,,N√†xera,,,,,,,,,,,x
+b_najera,egyptian_arabic,,N√°xara,,,,,,,,,,,x
+b_najera,frankish,,Naj√©ra,,,,,,,,,,,x
+b_najera,galician,,N√°xera,,,,,,,,,,,x
+b_najera,leonese,,N√°xera,,,,,,,,,,,x
+b_najera,levantine_arabic,,N√°xara,,,,,,,,,,,x
+b_najera,maghreb_arabic,,N√°xara,,,,,,,,,,,x
+b_najera,portuguese,,N√°xera,,,,,,,,,,,x
+b_najera,sicilian_arabic,,N√°xara,,,,,,,,,,,x
 b_haro,b_haro,,Haro,,,,,,,,,,,x
 b_haro,b_haro_adj,,,,,,,,,,,,,x
 b_haro,andalusian_arabic,,Wadim Arum,,,,,,,,,,,x
@@ -609,14 +609,14 @@ b_santodomingodelacalzada,b_santodomingodelacalzada,,Santo Domingo de la Calzada
 b_santodomingodelacalzada,b_santodomingodelacalzada_adj,,,,,,,,,,,,,x
 b_santodomingodelacalzada,andalusian_arabic,,al-Uxa,,,,,,,,,,,x
 b_santodomingodelacalzada,bedouin_arabic,,al-Uxa,,,,,,,,,,,x
-b_santodomingodelacalzada,catalan,,Sant DomËnec de la CalÁada,,,,,,,,,,,x
+b_santodomingodelacalzada,catalan,,Sant Dom√®nec de la Cal√ßada,,,,,,,,,,,x
 b_santodomingodelacalzada,egyptian_arabic,,al-Uxa,,,,,,,,,,,x
 b_santodomingodelacalzada,frankish,,Saint Dominic de la Voie,,,,,,,,,,,x
 b_santodomingodelacalzada,galician,,San Domingos da Estrada,,,,,,,,,,,x
 b_santodomingodelacalzada,leonese,,Santu Domingu de la Calzada,,,,,,,,,,,x
 b_santodomingodelacalzada,levantine_arabic,,al-Uxa,,,,,,,,,,,x
 b_santodomingodelacalzada,maghreb_arabic,,al-Uxa,,,,,,,,,,,x
-b_santodomingodelacalzada,portuguese,,S„o Domingos da Estrada,,,,,,,,,,,x
+b_santodomingodelacalzada,portuguese,,S√£o Domingos da Estrada,,,,,,,,,,,x
 b_santodomingodelacalzada,sicilian_arabic,,al-Uxa,,,,,,,,,,,x
 b_anguiano,b_anguiano,,Anguiano,,,,,,,,,,,x
 b_anguiano,b_anguiano_adj,,,,,,,,,,,,,x
@@ -627,21 +627,21 @@ b_anguiano,frankish,,Anguien,,,,,,,,,,,x
 b_anguiano,levantine_arabic,,Annidin,,,,,,,,,,,x
 b_anguiano,maghreb_arabic,,Annidin,,,,,,,,,,,x
 b_anguiano,sicilian_arabic,,Annidin,,,,,,,,,,,x
-c_logrono,PROV1217,,LogroÒo,,,,,,,,,,,x
+c_logrono,PROV1217,,Logro√±o,,,,,,,,,,,x
 c_logrono,c_logrono,,,,,,,,,,,,,x
-c_logrono,c_logrono_adj,,LogroÒesa,,,,,,,,,,,x
+c_logrono,c_logrono_adj,,Logro√±esa,,,,,,,,,,,x
 c_logrono,andalusian_arabic,,Luhjruun,,,,,,,,,,,x
 c_logrono,aragonese,,Logronyo,,,,,,,,,,,x
 c_logrono,bedouin_arabic,,Luhjruun,,,,,,,,,,,x
 c_logrono,catalan,,Logronyo,,,,,,,,,,,x
 c_logrono,egyptian_arabic,,Luhjruun,,,,,,,,,,,x
 c_logrono,frankish,,Logrogne,,,,,,,,,,,x
-c_logrono,leonese,,LogroÒu,,,,,,,,,,,x
+c_logrono,leonese,,Logro√±u,,,,,,,,,,,x
 c_logrono,levantine_arabic,,Luhjruun,,,,,,,,,,,x
 c_logrono,maghreb_arabic,,Luhjruun,,,,,,,,,,,x
 c_logrono,portuguese,,Logronho,,,,,,,,,,,x
 c_logrono,sicilian_arabic,,Luhjruun,,,,,,,,,,,x
-b_logronyo,b_logronyo,,LogroÒo,,,,,,,,,,,x
+b_logronyo,b_logronyo,,Logro√±o,,,,,,,,,,,x
 b_logronyo,b_logronyo_adj,,,,,,,,,,,,,x
 b_logronyo,andalusian_arabic,,Luhjruun,,,,,,,,,,,x
 b_logronyo,aragonese,,Logronyo,,,,,,,,,,,x
@@ -649,7 +649,7 @@ b_logronyo,bedouin_arabic,,Luhjruun,,,,,,,,,,,x
 b_logronyo,catalan,,Logronyo,,,,,,,,,,,x
 b_logronyo,egyptian_arabic,,Luhjruun,,,,,,,,,,,x
 b_logronyo,frankish,,Logrogne,,,,,,,,,,,x
-b_logronyo,leonese,,LogroÒu,,,,,,,,,,,x
+b_logronyo,leonese,,Logro√±u,,,,,,,,,,,x
 b_logronyo,levantine_arabic,,Luhjruun,,,,,,,,,,,x
 b_logronyo,maghreb_arabic,,Luhjruun,,,,,,,,,,,x
 b_logronyo,portuguese,,Logronho,,,,,,,,,,,x
@@ -682,7 +682,7 @@ b_arnedo,bedouin_arabic,,Yrnidd,,,,,,,,,,,x
 b_arnedo,catalan,,Arnet,,,,,,,,,,,x
 b_arnedo,egyptian_arabic,,Yrnidd,,,,,,,,,,,x
 b_arnedo,frankish,,Arnet,,,,,,,,,,,x
-b_arnedo,leonese,,ArnÈu,,,,,,,,,,,x
+b_arnedo,leonese,,Arn√©u,,,,,,,,,,,x
 b_arnedo,levantine_arabic,,Yrnidd,,,,,,,,,,,x
 b_arnedo,maghreb_arabic,,Yrnidd,,,,,,,,,,,x
 b_arnedo,sicilian_arabic,,Yrnidd,,,,,,,,,,,x
@@ -730,7 +730,7 @@ c_navarra,sicilian_arabic,,al-Nahara,,,,,,,,,,,x
 b_pamplona,b_pamplona,,Pamplona,,,,,,,,,,,x
 b_pamplona,b_pamplona_adj,,,,,,,,,,,,,x
 b_pamplona,andalusian_arabic,,Bambaluna,,,,,,,,,,,x
-b_pamplona,basque,,IruÒa,,,,,,,,,,,x
+b_pamplona,basque,,Iru√±a,,,,,,,,,,,x
 b_pamplona,bedouin_arabic,,Bambaluna,,,,,,,,,,,x
 b_pamplona,egyptian_arabic,,Bambaluna,,,,,,,,,,,x
 b_pamplona,frankish,,Pampelune,,,,,,,,,,,x
@@ -800,7 +800,7 @@ b_sestao,b_sestao_adj,,,,,,,,,,,,,x
 b_sestao,andalusian_arabic,,Sistuh,,,,,,,,,,,x
 b_sestao,bedouin_arabic,,Sistuh,,,,,,,,,,,x
 b_sestao,egyptian_arabic,,Sistuh,,,,,,,,,,,x
-b_sestao,frankish,,SixtÈe,,,,,,,,,,,x
+b_sestao,frankish,,Sixt√©e,,,,,,,,,,,x
 b_sestao,leonese,,Sestau,,,,,,,,,,,x
 b_sestao,levantine_arabic,,Sistuh,,,,,,,,,,,x
 b_sestao,maghreb_arabic,,Sistuh,,,,,,,,,,,x
@@ -811,7 +811,7 @@ b_guernica,andalusian_arabic,,Gyrniqqa,,,,,,,,,,,x
 b_guernica,basque,,Gernika,,,,,,,,,,,x
 b_guernica,bedouin_arabic,,Gyrniqqa,,,,,,,,,,,x
 b_guernica,egyptian_arabic,,Gyrniqqa,,,,,,,,,,,x
-b_guernica,frankish,,GuÈrnique,,,,,,,,,,,x
+b_guernica,frankish,,Gu√©rnique,,,,,,,,,,,x
 b_guernica,levantine_arabic,,Gyrniqqa,,,,,,,,,,,x
 b_guernica,maghreb_arabic,,Gyrniqqa,,,,,,,,,,,x
 b_guernica,sicilian_arabic,,Gyrniqqa,,,,,,,,,,,x
@@ -827,14 +827,14 @@ b_bilbao,levantine_arabic,,Bilbah,,,,,,,,,,,x
 b_bilbao,maghreb_arabic,,Bilbah,,,,,,,,,,,x
 b_bilbao,portuguese,,Bilbau,,,,,,,,,,,x
 b_bilbao,sicilian_arabic,,Bilbah,,,,,,,,,,,x
-c_alava,PROV1202,,¡lava,,,,,,,,,,,x
+c_alava,PROV1202,,√Ålava,,,,,,,,,,,x
 c_alava,c_alava,,,,,,,,,,,,,x
 c_alava,c_alava_adj,,Alavesa,,,,,,,,,,,x
 c_alava,andalusian_arabic,,Alabba,,,,,,,,,,,x
 c_alava,aragonese,,Alava,,,,,,,,,,,x
 c_alava,basque,,Araba,,,,,,,,,,,x
 c_alava,bedouin_arabic,,Alabba,,,,,,,,,,,x
-c_alava,catalan,,¿laba,,,,,,,,,,,x
+c_alava,catalan,,√Älaba,,,,,,,,,,,x
 c_alava,egyptian_arabic,,Alabba,,,,,,,,,,,x
 c_alava,frankish,,Alava,,,,,,,,,,,x
 c_alava,levantine_arabic,,Alabba,,,,,,,,,,,x
@@ -845,18 +845,18 @@ b_santa_cruz_de_campezo,b_santa_cruz_de_campezo_adj,,,,,,,,,,,,,x
 b_santa_cruz_de_campezo,andalusian_arabic,,Qampusah,,,,,,,,,,,x
 b_santa_cruz_de_campezo,basque,,Santikurutze Kanpezu,,,,,,,,,,,x
 b_santa_cruz_de_campezo,bedouin_arabic,,Qampusah,,,,,,,,,,,x
-b_santa_cruz_de_campezo,catalan,,Santa Creu de CampËs,,,,,,,,,,,x
+b_santa_cruz_de_campezo,catalan,,Santa Creu de Camp√®s,,,,,,,,,,,x
 b_santa_cruz_de_campezo,egyptian_arabic,,Qampusah,,,,,,,,,,,x
 b_santa_cruz_de_campezo,frankish,,Sainte-Croix de Campezu,,,,,,,,,,,x
 b_santa_cruz_de_campezo,levantine_arabic,,Qampusah,,,,,,,,,,,x
 b_santa_cruz_de_campezo,maghreb_arabic,,Qampusah,,,,,,,,,,,x
-b_santa_cruz_de_campezo,portuguese,,Santa Cruz de CampeÁo,,,,,,,,,,,x
+b_santa_cruz_de_campezo,portuguese,,Santa Cruz de Campe√ßo,,,,,,,,,,,x
 b_santa_cruz_de_campezo,sicilian_arabic,,Qampusah,,,,,,,,,,,x
-b_iruna_de_oca,b_iruna_de_oca,,IruÒa de Oca,,,,,,,,,,,x
+b_iruna_de_oca,b_iruna_de_oca,,Iru√±a de Oca,,,,,,,,,,,x
 b_iruna_de_oca,b_iruna_de_oca_adj,,,,,,,,,,,,,x
 b_iruna_de_oca,andalusian_arabic,,Irun'uq,,,,,,,,,,,x
 b_iruna_de_oca,aragonese,,Irunya d'Oca,,,,,,,,,,,x
-b_iruna_de_oca,basque,,IruÒa Oka,,,,,,,,,,,x
+b_iruna_de_oca,basque,,Iru√±a Oka,,,,,,,,,,,x
 b_iruna_de_oca,bedouin_arabic,,Irun'uq,,,,,,,,,,,x
 b_iruna_de_oca,catalan,,Irunya d'Oca,,,,,,,,,,,x
 b_iruna_de_oca,egyptian_arabic,,Irun'uq,,,,,,,,,,,x
@@ -870,7 +870,7 @@ b_vitoria,b_vitoria_adj,,,,,,,,,,,,,x
 b_vitoria,andalusian_arabic,,Bituriyya,,,,,,,,,,,x
 b_vitoria,basque,,Gasteiz,,,,,,,,,,,x
 b_vitoria,bedouin_arabic,,Bituriyya,,,,,,,,,,,x
-b_vitoria,catalan,,VitÚria,,,,,,,,,,,x
+b_vitoria,catalan,,Vit√≤ria,,,,,,,,,,,x
 b_vitoria,egyptian_arabic,,Bituriyya,,,,,,,,,,,x
 b_vitoria,levantine_arabic,,Bituriyya,,,,,,,,,,,x
 b_vitoria,maghreb_arabic,,Bituriyya,,,,,,,,,,,x
@@ -880,7 +880,7 @@ b_laguardia,b_laguardia_adj,,,,,,,,,,,,,x
 b_laguardia,andalusian_arabic,,al-Warddiyya,,,,,,,,,,,x
 b_laguardia,basque,,Guardia,,,,,,,,,,,x
 b_laguardia,bedouin_arabic,,al-Warddiyya,,,,,,,,,,,x
-b_laguardia,catalan,,Lagu‡rdia,,,,,,,,,,,x
+b_laguardia,catalan,,Lagu√†rdia,,,,,,,,,,,x
 b_laguardia,egyptian_arabic,,al-Warddiyya,,,,,,,,,,,x
 b_laguardia,frankish,,Lagarde,,,,,,,,,,,x
 b_laguardia,galician,,Aguardia,,,,,,,,,,,x
@@ -888,22 +888,22 @@ b_laguardia,levantine_arabic,,al-Warddiyya,,,,,,,,,,,x
 b_laguardia,maghreb_arabic,,al-Warddiyya,,,,,,,,,,,x
 b_laguardia,portuguese,,Aguardia,,,,,,,,,,,x
 b_laguardia,sicilian_arabic,,al-Warddiyya,,,,,,,,,,,x
-c_guipuzcoa,PROV1203,,Guip˙zcoa,,,,,,,,,,,x
+c_guipuzcoa,PROV1203,,Guip√∫zcoa,,,,,,,,,,,x
 c_guipuzcoa,c_guipuzcoa,,,,,,,,,,,,,x
 c_guipuzcoa,c_guipuzcoa_adj,,Guipuzcoano,,,,,,,,,,,x
 c_guipuzcoa,andalusian_arabic,,Ybbusqa,,,,,,,,,,,x
 c_guipuzcoa,aragonese,,Guipuzcua,,,,,,,,,,,x
 c_guipuzcoa,basque,,Gipuzkoa,,,,,,,,,,,x
 c_guipuzcoa,bedouin_arabic,,Ybbusqa,,,,,,,,,,,x
-c_guipuzcoa,catalan,,Guip˙scoa,,,,,,,,,,,x
+c_guipuzcoa,catalan,,Guip√∫scoa,,,,,,,,,,,x
 c_guipuzcoa,egyptian_arabic,,Ybbusqa,,,,,,,,,,,x
 c_guipuzcoa,frankish,,Guipuscoa,,,,,,,,,,,x
-c_guipuzcoa,galician,,Guip˙scoa,,,,,,,,,,,x
+c_guipuzcoa,galician,,Guip√∫scoa,,,,,,,,,,,x
 c_guipuzcoa,levantine_arabic,,Ybbusqa,,,,,,,,,,,x
 c_guipuzcoa,maghreb_arabic,,Ybbusqa,,,,,,,,,,,x
-c_guipuzcoa,portuguese,,Guip˙scoa,,,,,,,,,,,x
+c_guipuzcoa,portuguese,,Guip√∫scoa,,,,,,,,,,,x
 c_guipuzcoa,sicilian_arabic,,Ybbusqa,,,,,,,,,,,x
-b_irun,b_irun,,Ir˙n,,,,,,,,,,,x
+b_irun,b_irun,,Ir√∫n,,,,,,,,,,,x
 b_irun,b_irun_adj,,,,,,,,,,,,,x
 b_irun,basque,,Irun,,,,,,,,,,,x
 b_irun,frankish,,Irun,,,,,,,,,,,x
@@ -916,18 +916,18 @@ b_eibar,egyptian_arabic,,Ibbar,,,,,,,,,,,x
 b_eibar,levantine_arabic,,Ibbar,,,,,,,,,,,x
 b_eibar,maghreb_arabic,,Ibbar,,,,,,,,,,,x
 b_eibar,sicilian_arabic,,Ibbar,,,,,,,,,,,x
-b_sansebastian,b_sansebastian,,San Sebasti·n,,,,,,,,,,,x
+b_sansebastian,b_sansebastian,,San Sebasti√°n,,,,,,,,,,,x
 b_sansebastian,b_sansebastian_adj,,,,,,,,,,,,,x
 b_sansebastian,andalusian_arabic,,Dunustiyya,,,,,,,,,,,x
-b_sansebastian,aragonese,,Sant Sebasti·n,,,,,,,,,,,x
+b_sansebastian,aragonese,,Sant Sebasti√°n,,,,,,,,,,,x
 b_sansebastian,basque,,Donostia,,,,,,,,,,,x
 b_sansebastian,bedouin_arabic,,Dunustiyya,,,,,,,,,,,x
-b_sansebastian,catalan,,Sant Sebasti‡,,,,,,,,,,,x
+b_sansebastian,catalan,,Sant Sebasti√†,,,,,,,,,,,x
 b_sansebastian,egyptian_arabic,,Dunustiyya,,,,,,,,,,,x
-b_sansebastian,frankish,,Saint SÈbastien,,,,,,,,,,,x
+b_sansebastian,frankish,,Saint S√©bastien,,,,,,,,,,,x
 b_sansebastian,levantine_arabic,,Dunustiyya,,,,,,,,,,,x
 b_sansebastian,maghreb_arabic,,Dunustiyya,,,,,,,,,,,x
-b_sansebastian,portuguese,,S„o Sebasti„o,,,,,,,,,,,x
+b_sansebastian,portuguese,,S√£o Sebasti√£o,,,,,,,,,,,x
 b_sansebastian,sicilian_arabic,,Dunustiyya,,,,,,,,,,,x
 b_tolosa,b_tolosa,,Tolosa,,,,,,,,,,,x
 b_tolosa,b_tolosa_adj,,,,,,,,,,,,,x
@@ -944,7 +944,7 @@ c_tudela,andalusian_arabic,,al-Tutili,,,,,,,,,,,x
 c_tudela,basque,,Tutera,,,,,,,,,,,x
 c_tudela,bedouin_arabic,,al-Tutili,,,,,,,,,,,x
 c_tudela,egyptian_arabic,,al-Tutili,,,,,,,,,,,x
-c_tudela,frankish,,TudËle,,,,,,,,,,,x
+c_tudela,frankish,,Tud√®le,,,,,,,,,,,x
 c_tudela,levantine_arabic,,al-Tutili,,,,,,,,,,,x
 c_tudela,maghreb_arabic,,al-Tutili,,,,,,,,,,,x
 c_tudela,sicilian_arabic,,al-Tutili,,,,,,,,,,,x
@@ -954,7 +954,7 @@ b_tudela,andalusian_arabic,,al-Tutili,,,,,,,,,,,x
 b_tudela,basque,,Tutera,,,,,,,,,,,x
 b_tudela,bedouin_arabic,,al-Tutili,,,,,,,,,,,x
 b_tudela,egyptian_arabic,,al-Tutili,,,,,,,,,,,x
-b_tudela,frankish,,TudËle,,,,,,,,,,,x
+b_tudela,frankish,,Tud√®le,,,,,,,,,,,x
 b_tudela,levantine_arabic,,al-Tutili,,,,,,,,,,,x
 b_tudela,maghreb_arabic,,al-Tutili,,,,,,,,,,,x
 b_tudela,sicilian_arabic,,al-Tutili,,,,,,,,,,,x
@@ -998,18 +998,18 @@ b_valtierra,levantine_arabic,,Wadi al-Dira,,,,,,,,,,,x
 b_valtierra,maghreb_arabic,,Wadi al-Dira,,,,,,,,,,,x
 b_valtierra,portuguese,,Valterra,,,,,,,,,,,x
 b_valtierra,sicilian_arabic,,Wadi al-Dira,,,,,,,,,,,x
-k_leon,k_leon,,LeÛn,,,,,,,,,,,x
+k_leon,k_leon,,Le√≥n,,,,,,,,,,,x
 k_leon,k_leon_adj,,Leonesa,,,,,,,,,,,x
 k_leon,andalusian_arabic,,al-Uyun,,,,,,,,,,,x
-k_leon,aragonese,,LeyÛn,,,,,,,,,,,x
+k_leon,aragonese,,Ley√≥n,,,,,,,,,,,x
 k_leon,bedouin_arabic,,al-Uyun,,,,,,,,,,,x
-k_leon,catalan,,LleÛ,,,,,,,,,,,x
+k_leon,catalan,,Lle√≥,,,,,,,,,,,x
 k_leon,egyptian_arabic,,al-Uyun,,,,,,,,,,,x
 k_leon,greek,,Kallaikia,,,,,,,,,,,x
-k_leon,leonese,,LliÛn,,,,,,,,,,,x
+k_leon,leonese,,Lli√≥n,,,,,,,,,,,x
 k_leon,levantine_arabic,,al-Uyun,,,,,,,,,,,x
 k_leon,maghreb_arabic,,al-Uyun,,,,,,,,,,,x
-k_leon,portuguese,,Le„o,,,,,,,,,,,x
+k_leon,portuguese,,Le√£o,,,,,,,,,,,x
 k_leon,roman,,Gallaecia,,,,,,,,,,,x
 k_leon,sicilian_arabic,,al-Uyun,,,,,,,,,,,x
 d_galicia,d_galicia,,Galicia,,,,,,,,,,,x
@@ -1017,7 +1017,7 @@ d_galicia,d_galicia_adj,,Gallega,,,,,,,,,,,x
 d_galicia,andalusian_arabic,,Galisiyya,,,,,,,,,,,x
 d_galicia,basque,,Galizia,,,,,,,,,,,x
 d_galicia,bedouin_arabic,,Galisiyya,,,,,,,,,,,x
-d_galicia,catalan,,GalÌcia,,,,,,,,,,,x
+d_galicia,catalan,,Gal√≠cia,,,,,,,,,,,x
 d_galicia,egyptian_arabic,,Galisiyya,,,,,,,,,,,x
 d_galicia,frankish,,Galice,,,,,,,,,,,x
 d_galicia,greek,,Kallaikia,,,,,,,,,,,x
@@ -1088,48 +1088,48 @@ b_vigo,egyptian_arabic,,Biqqu,,,,,,,,,,,x
 b_vigo,levantine_arabic,,Biqqu,,,,,,,,,,,x
 b_vigo,maghreb_arabic,,Biqqu,,,,,,,,,,,x
 b_vigo,sicilian_arabic,,Biqqu,,,,,,,,,,,x
-b_vilagarcia,b_vilagarcia,,VilagarcÌa,,,,,,,,,,,x
+b_vilagarcia,b_vilagarcia,,Vilagarc√≠a,,,,,,,,,,,x
 b_vilagarcia,b_vilagarcia_adj,,,,,,,,,,,,,x
 b_vilagarcia,andalusian_arabic,,Arusha,,,,,,,,,,,x
-b_vilagarcia,aragonese,,VilagarcÌa d'Arosa,,,,,,,,,,,x
+b_vilagarcia,aragonese,,Vilagarc√≠a d'Arosa,,,,,,,,,,,x
 b_vilagarcia,basque,,Gartziaherria Arosa,,,,,,,,,,,x
 b_vilagarcia,bedouin_arabic,,Arusha,,,,,,,,,,,x
-b_vilagarcia,castillan,,VillagarcÌa de Arosa,,,,,,,,,,,x
-b_vilagarcia,catalan,,VilagarcÌa d'Arosa,,,,,,,,,,,x
+b_vilagarcia,castillan,,Villagarc√≠a de Arosa,,,,,,,,,,,x
+b_vilagarcia,catalan,,Vilagarc√≠a d'Arosa,,,,,,,,,,,x
 b_vilagarcia,egyptian_arabic,,Arusha,,,,,,,,,,,x
 b_vilagarcia,frankish,,Garciville d'Arousse,,,,,,,,,,,x
-b_vilagarcia,galician,,VilagarcÌa de Arousa,,,,,,,,,,,x
-b_vilagarcia,leonese,,VillagarcÌa d'Arosa,,,,,,,,,,,x
+b_vilagarcia,galician,,Vilagarc√≠a de Arousa,,,,,,,,,,,x
+b_vilagarcia,leonese,,Villagarc√≠a d'Arosa,,,,,,,,,,,x
 b_vilagarcia,levantine_arabic,,Arusha,,,,,,,,,,,x
 b_vilagarcia,maghreb_arabic,,Arusha,,,,,,,,,,,x
-b_vilagarcia,portuguese,,VilagarcÌa de Arousa,,,,,,,,,,,x
+b_vilagarcia,portuguese,,Vilagarc√≠a de Arousa,,,,,,,,,,,x
 b_vilagarcia,sicilian_arabic,,Arusha,,,,,,,,,,,x
-c_coruna,PROV156,,Trast·mara,,,,,,,,,,,x
+c_coruna,PROV156,,Trast√°mara,,,,,,,,,,,x
 c_coruna,c_coruna,,,,,,,,,,,,,x
-c_coruna,c_coruna_adj,,CoruÒan,,,,,,,,,,,x
+c_coruna,c_coruna_adj,,Coru√±an,,,,,,,,,,,x
 c_coruna,andalusian_arabic,,Qruniyyah,,,,,,,,,,,x
 c_coruna,aragonese,,Trastamara,,,,,,,,,,,x
 c_coruna,bedouin_arabic,,Qruniyyah,,,,,,,,,,,x
-c_coruna,catalan,,Trast‡mara,,,,,,,,,,,x
+c_coruna,catalan,,Trast√†mara,,,,,,,,,,,x
 c_coruna,egyptian_arabic,,Qruniyyah,,,,,,,,,,,x
 c_coruna,frankish,,Trastamare,,,,,,,,,,,x
 c_coruna,greek,,Brigantion,,,,,,,,,,,x
 c_coruna,levantine_arabic,,Qruniyyah,,,,,,,,,,,x
 c_coruna,maghreb_arabic,,Qruniyyah,,,,,,,,,,,x
-c_coruna,portuguese,,Trast‚mara,,,,,,,,,,,x
+c_coruna,portuguese,,Trast√¢mara,,,,,,,,,,,x
 c_coruna,roman,,Brigantium,,,,,,,,,,,x
 c_coruna,sicilian_arabic,,Qruniyyah,,,,,,,,,,,x
-b_corunya,b_corunya,,CoruÒa,,,,,,,,,,,x
+b_corunya,b_corunya,,Coru√±a,,,,,,,,,,,x
 b_corunya,b_corunya_adj,,,,,,,,,,,,,x
 b_corunya,andalusian_arabic,,Qruniyyah,,,,,,,,,,,x
 b_corunya,aragonese,,Corunya,,,,,,,,,,,x
-b_corunya,basque,,KoruÒa,,,,,,,,,,,x
+b_corunya,basque,,Koru√±a,,,,,,,,,,,x
 b_corunya,bedouin_arabic,,Qruniyyah,,,,,,,,,,,x
-b_corunya,castillan,,La CoruÒa,,,,,,,,,,,x
+b_corunya,castillan,,La Coru√±a,,,,,,,,,,,x
 b_corunya,catalan,,La Corunya,,,,,,,,,,,x
 b_corunya,egyptian_arabic,,Qruniyyah,,,,,,,,,,,x
 b_corunya,frankish,,La Corogne,,,,,,,,,,,x
-b_corunya,galician,,A CoruÒa,,,,,,,,,,,x
+b_corunya,galician,,A Coru√±a,,,,,,,,,,,x
 b_corunya,greek,,Brigantion,,,,,,,,,,,x
 b_corunya,levantine_arabic,,Qruniyyah,,,,,,,,,,,x
 b_corunya,maghreb_arabic,,Qruniyyah,,,,,,,,,,,x
@@ -1140,11 +1140,11 @@ b_betanzos,b_betanzos,,Betanzos,,,,,,,,,,,x
 b_betanzos,b_betanzos_adj,,,,,,,,,,,,,x
 b_betanzos,andalusian_arabic,,Bitunsa,,,,,,,,,,,x
 b_betanzos,bedouin_arabic,,Bitunsa,,,,,,,,,,,x
-b_betanzos,catalan,,BetanÁos,,,,,,,,,,,x
+b_betanzos,catalan,,Betan√ßos,,,,,,,,,,,x
 b_betanzos,egyptian_arabic,,Bitunsa,,,,,,,,,,,x
 b_betanzos,levantine_arabic,,Bitunsa,,,,,,,,,,,x
 b_betanzos,maghreb_arabic,,Bitunsa,,,,,,,,,,,x
-b_betanzos,portuguese,,BetanÁos,,,,,,,,,,,x
+b_betanzos,portuguese,,Betan√ßos,,,,,,,,,,,x
 b_betanzos,sicilian_arabic,,Bitunsa,,,,,,,,,,,x
 b_cambre,b_cambre,,Cambre,,,,,,,,,,,x
 b_cambre,b_cambre_adj,,,,,,,,,,,,,x
@@ -1196,15 +1196,15 @@ b_villalba,levantine_arabic,,Abiad al-Qariya,,,,,,,,,,,x
 b_villalba,maghreb_arabic,,Abiad al-Qariya,,,,,,,,,,,x
 b_villalba,portuguese,,Vilalba,,,,,,,,,,,x
 b_villalba,sicilian_arabic,,Abiad al-Qariya,,,,,,,,,,,x
-b_mondonedo,b_mondonedo,,MondoÒedo,,,,,,,,,,,x
+b_mondonedo,b_mondonedo,,Mondo√±edo,,,,,,,,,,,x
 b_mondonedo,b_mondonedo_adj,,,,,,,,,,,,,x
 b_mondonedo,andalusian_arabic,,Mund'unn,,,,,,,,,,,x
 b_mondonedo,aragonese,,Mondonyedo,,,,,,,,,,,x
 b_mondonedo,bedouin_arabic,,Mund'unn,,,,,,,,,,,x
 b_mondonedo,catalan,,Mondonyedo,,,,,,,,,,,x
 b_mondonedo,egyptian_arabic,,Mund'unn,,,,,,,,,,,x
-b_mondonedo,frankish,,MondognËde,,,,,,,,,,,x
-b_mondonedo,leonese,,MondoÒÈu,,,,,,,,,,,x
+b_mondonedo,frankish,,Mondogn√®de,,,,,,,,,,,x
+b_mondonedo,leonese,,Mondo√±√©u,,,,,,,,,,,x
 b_mondonedo,levantine_arabic,,Mund'unn,,,,,,,,,,,x
 b_mondonedo,maghreb_arabic,,Mund'unn,,,,,,,,,,,x
 b_mondonedo,portuguese,,Mondonhedo,,,,,,,,,,,x
@@ -1253,7 +1253,7 @@ b_ourense,levantine_arabic,,Urinsiyya,,,,,,,,,,,x
 b_ourense,maghreb_arabic,,Urinsiyya,,,,,,,,,,,x
 b_ourense,portuguese,,Ourense,,,,,,,,,,,x
 b_ourense,sicilian_arabic,,Urinsiyya,,,,,,,,,,,x
-b_ribadavia,b_ribadavia,,RibadavÌa,,,,,,,,,,,x
+b_ribadavia,b_ribadavia,,Ribadav√≠a,,,,,,,,,,,x
 b_ribadavia,b_ribadavia_adj,,,,,,,,,,,,,x
 b_ribadavia,andalusian_arabic,,Ribbadabiyya,,,,,,,,,,,x
 b_ribadavia,basque,,Ribadabia,,,,,,,,,,,x
@@ -1271,47 +1271,47 @@ b_allariz,levantine_arabic,,al-Arid,,,,,,,,,,,x
 b_allariz,maghreb_arabic,,al-Arid,,,,,,,,,,,x
 b_allariz,portuguese,,Alhariz,,,,,,,,,,,x
 b_allariz,sicilian_arabic,,al-Arid,,,,,,,,,,,x
-d_leon,d_leon,,LeÛn,,,,,,,,,,,x
+d_leon,d_leon,,Le√≥n,,,,,,,,,,,x
 d_leon,d_leon_adj,,Leonesa,,,,,,,,,,,x
 d_leon,andalusian_arabic,,al-Uyun,,,,,,,,,,,x
-d_leon,aragonese,,LeyÛn,,,,,,,,,,,x
+d_leon,aragonese,,Ley√≥n,,,,,,,,,,,x
 d_leon,bedouin_arabic,,al-Uyun,,,,,,,,,,,x
-d_leon,catalan,,LleÛ,,,,,,,,,,,x
+d_leon,catalan,,Lle√≥,,,,,,,,,,,x
 d_leon,egyptian_arabic,,al-Uyun,,,,,,,,,,,x
-d_leon,leonese,,LliÛn,,,,,,,,,,,x
+d_leon,leonese,,Lli√≥n,,,,,,,,,,,x
 d_leon,levantine_arabic,,al-Uyun,,,,,,,,,,,x
 d_leon,maghreb_arabic,,al-Uyun,,,,,,,,,,,x
-d_leon,portuguese,,Le„o,,,,,,,,,,,x
+d_leon,portuguese,,Le√£o,,,,,,,,,,,x
 d_leon,sicilian_arabic,,al-Uyun,,,,,,,,,,,x
-c_leon,PROV190,,LeÛn,,,,,,,,,,,x
+c_leon,PROV190,,Le√≥n,,,,,,,,,,,x
 c_leon,c_leon,,,,,,,,,,,,,x
-c_leon,c_leon_adj,,LÈonian,,,,,,,,,,,x
+c_leon,c_leon_adj,,L√©onian,,,,,,,,,,,x
 c_leon,andalusian_arabic,,al-Uyun,,,,,,,,,,,x
-c_leon,aragonese,,LeyÛn,,,,,,,,,,,x
+c_leon,aragonese,,Ley√≥n,,,,,,,,,,,x
 c_leon,bedouin_arabic,,al-Uyun,,,,,,,,,,,x
-c_leon,catalan,,LleÛ,,,,,,,,,,,x
+c_leon,catalan,,Lle√≥,,,,,,,,,,,x
 c_leon,egyptian_arabic,,al-Uyun,,,,,,,,,,,x
-c_leon,leonese,,LliÛn,,,,,,,,,,,x
+c_leon,leonese,,Lli√≥n,,,,,,,,,,,x
 c_leon,levantine_arabic,,al-Uyun,,,,,,,,,,,x
 c_leon,maghreb_arabic,,al-Uyun,,,,,,,,,,,x
-c_leon,portuguese,,Le„o,,,,,,,,,,,x
+c_leon,portuguese,,Le√£o,,,,,,,,,,,x
 c_leon,sicilian_arabic,,al-Uyun,,,,,,,,,,,x
-b_leon,b_leon,,LeÛn,,,,,,,,,,,x
+b_leon,b_leon,,Le√≥n,,,,,,,,,,,x
 b_leon,b_leon_adj,,,,,,,,,,,,,x
 b_leon,andalusian_arabic,,al-Uyun,,,,,,,,,,,x
-b_leon,aragonese,,LeyÛn,,,,,,,,,,,x
+b_leon,aragonese,,Ley√≥n,,,,,,,,,,,x
 b_leon,bedouin_arabic,,al-Uyun,,,,,,,,,,,x
-b_leon,catalan,,LleÛ,,,,,,,,,,,x
+b_leon,catalan,,Lle√≥,,,,,,,,,,,x
 b_leon,egyptian_arabic,,al-Uyun,,,,,,,,,,,x
-b_leon,leonese,,LliÛn,,,,,,,,,,,x
+b_leon,leonese,,Lli√≥n,,,,,,,,,,,x
 b_leon,levantine_arabic,,al-Uyun,,,,,,,,,,,x
 b_leon,maghreb_arabic,,al-Uyun,,,,,,,,,,,x
-b_leon,portuguese,,Le„o,,,,,,,,,,,x
+b_leon,portuguese,,Le√£o,,,,,,,,,,,x
 b_leon,sicilian_arabic,,al-Uyun,,,,,,,,,,,x
-b_sahagun,b_sahagun,,Sahag˙n,,,,,,,,,,,x
+b_sahagun,b_sahagun,,Sahag√∫n,,,,,,,,,,,x
 b_sahagun,b_sahagun_adj,,,,,,,,,,,,,x
 b_sahagun,andalusian_arabic,,Sahgun,,,,,,,,,,,x
-b_sahagun,aragonese,,Safag˙n,,,,,,,,,,,x
+b_sahagun,aragonese,,Safag√∫n,,,,,,,,,,,x
 b_sahagun,basque,,Sahagun,,,,,,,,,,,x
 b_sahagun,bedouin_arabic,,Sahgun,,,,,,,,,,,x
 b_sahagun,catalan,,Sant Facund,,,,,,,,,,,x
@@ -1320,7 +1320,7 @@ b_sahagun,frankish,,Saint Facond,,,,,,,,,,,x
 b_sahagun,galician,,San Facundo,,,,,,,,,,,x
 b_sahagun,levantine_arabic,,Sahgun,,,,,,,,,,,x
 b_sahagun,maghreb_arabic,,Sahgun,,,,,,,,,,,x
-b_sahagun,portuguese,,S„o Facundo,,,,,,,,,,,x
+b_sahagun,portuguese,,S√£o Facundo,,,,,,,,,,,x
 b_sahagun,sicilian_arabic,,Sahgun,,,,,,,,,,,x
 b_mansilladelasmulas,b_mansilladelasmulas,,Mansilla de las Mulas,,,,,,,,,,,x
 b_mansilladelasmulas,b_mansilladelasmulas_adj,,,,,,,,,,,,,x
@@ -1343,7 +1343,7 @@ b_luna,andalusian_arabic,,Lunnah,,,,,,,,,,,x
 b_luna,bedouin_arabic,,Lunnah,,,,,,,,,,,x
 b_luna,egyptian_arabic,,Lunnah,,,,,,,,,,,x
 b_luna,frankish,,Lune,,,,,,,,,,,x
-b_luna,galician,,L˙a,,,,,,,,,,,x
+b_luna,galician,,L√∫a,,,,,,,,,,,x
 b_luna,leonese,,Tsuna,,,,,,,,,,,x
 b_luna,levantine_arabic,,Lunnah,,,,,,,,,,,x
 b_luna,maghreb_arabic,,Lunnah,,,,,,,,,,,x
@@ -1354,13 +1354,13 @@ b_coyanza,b_coyanza_adj,,,,,,,,,,,,,x
 b_coyanza,andalusian_arabic,,Quyansha,,,,,,,,,,,x
 b_coyanza,basque,,Koiantza,,,,,,,,,,,x
 b_coyanza,bedouin_arabic,,Quyansha,,,,,,,,,,,x
-b_coyanza,catalan,,CoyanÁa,,,,,,,,,,,x
+b_coyanza,catalan,,Coyan√ßa,,,,,,,,,,,x
 b_coyanza,egyptian_arabic,,Quyansha,,,,,,,,,,,x
 b_coyanza,frankish,,Coyance,,,,,,,,,,,x
-b_coyanza,leonese,,CoyanÁa,,,,,,,,,,,x
+b_coyanza,leonese,,Coyan√ßa,,,,,,,,,,,x
 b_coyanza,levantine_arabic,,Quyansha,,,,,,,,,,,x
 b_coyanza,maghreb_arabic,,Quyansha,,,,,,,,,,,x
-b_coyanza,portuguese,,CoyanÁa,,,,,,,,,,,x
+b_coyanza,portuguese,,Coyan√ßa,,,,,,,,,,,x
 b_coyanza,sicilian_arabic,,Quyansha,,,,,,,,,,,x
 c_zamora,PROV191,,Zamora,,,,,,,,,,,x
 c_zamora,c_zamora,,,,,,,,,,,,,x
@@ -1385,12 +1385,12 @@ b_zamora,maghreb_arabic,,Samurah,,,,,,,,,,,x
 b_zamora,portuguese,,Samora,,,,,,,,,,,x
 b_zamora,roman,,Ocelum Duri,,,,,,,,,,,x
 b_zamora,sicilian_arabic,,Samurah,,,,,,,,,,,x
-b_tabara,b_tabara,,T·bara,,,,,,,,,,,x
+b_tabara,b_tabara,,T√°bara,,,,,,,,,,,x
 b_tabara,b_tabara_adj,,,,,,,,,,,,,x
 b_tabara,andalusian_arabic,,Tabbara,,,,,,,,,,,x
 b_tabara,basque,,Tabara,,,,,,,,,,,x
 b_tabara,bedouin_arabic,,Tabbara,,,,,,,,,,,x
-b_tabara,catalan,,T‡bara,,,,,,,,,,,x
+b_tabara,catalan,,T√†bara,,,,,,,,,,,x
 b_tabara,egyptian_arabic,,Tabbara,,,,,,,,,,,x
 b_tabara,frankish,,Tabare,,,,,,,,,,,x
 b_tabara,levantine_arabic,,Tabbara,,,,,,,,,,,x
@@ -1400,7 +1400,7 @@ b_sanabria,b_sanabria,,Sanabria,,,,,,,,,,,x
 b_sanabria,b_sanabria_adj,,,,,,,,,,,,,x
 b_sanabria,andalusian_arabic,,Sennabrah,,,,,,,,,,,x
 b_sanabria,bedouin_arabic,,Sennabrah,,,,,,,,,,,x
-b_sanabria,catalan,,San‡bria,,,,,,,,,,,x
+b_sanabria,catalan,,San√†bria,,,,,,,,,,,x
 b_sanabria,egyptian_arabic,,Sennabrah,,,,,,,,,,,x
 b_sanabria,frankish,,Sanabrie,,,,,,,,,,,x
 b_sanabria,galician,,Seabra,,,,,,,,,,,x
@@ -1428,13 +1428,13 @@ c_asturias_de_oviedo,c_asturias_de_oviedo_adj,,Oviedonian,,,,,,,,,,,x
 c_asturias_de_oviedo,andalusian_arabic,,Uffiddu,,,,,,,,,,,x
 c_asturias_de_oviedo,basque,,Obiedoko Asturias,,,,,,,,,,,x
 c_asturias_de_oviedo,bedouin_arabic,,Uffiddu,,,,,,,,,,,x
-c_asturias_de_oviedo,catalan,,Ast˙ries d'Oviedo,,,,,,,,,,,x
+c_asturias_de_oviedo,catalan,,Ast√∫ries d'Oviedo,,,,,,,,,,,x
 c_asturias_de_oviedo,egyptian_arabic,,Uffiddu,,,,,,,,,,,x
 c_asturias_de_oviedo,frankish,,Asturies d'Ouviet,,,,,,,,,,,x
-c_asturias_de_oviedo,leonese,,Asturies d'UviÈu,,,,,,,,,,,x
+c_asturias_de_oviedo,leonese,,Asturies d'Uvi√©u,,,,,,,,,,,x
 c_asturias_de_oviedo,levantine_arabic,,Uffiddu,,,,,,,,,,,x
 c_asturias_de_oviedo,maghreb_arabic,,Uffiddu,,,,,,,,,,,x
-c_asturias_de_oviedo,portuguese,,Ast˙rias d'Oviedo,,,,,,,,,,,x
+c_asturias_de_oviedo,portuguese,,Ast√∫rias d'Oviedo,,,,,,,,,,,x
 c_asturias_de_oviedo,sicilian_arabic,,Uffiddu,,,,,,,,,,,x
 b_oviedo,b_oviedo,,Oviedo,,,,,,,,,,,x
 b_oviedo,b_oviedo_adj,,,,,,,,,,,,,x
@@ -1443,11 +1443,11 @@ b_oviedo,basque,,Obiedo,,,,,,,,,,,x
 b_oviedo,bedouin_arabic,,Uffiddu,,,,,,,,,,,x
 b_oviedo,egyptian_arabic,,Uffiddu,,,,,,,,,,,x
 b_oviedo,frankish,,Ouviet,,,,,,,,,,,x
-b_oviedo,leonese,,UviÈu,,,,,,,,,,,x
+b_oviedo,leonese,,Uvi√©u,,,,,,,,,,,x
 b_oviedo,levantine_arabic,,Uffiddu,,,,,,,,,,,x
 b_oviedo,maghreb_arabic,,Uffiddu,,,,,,,,,,,x
 b_oviedo,sicilian_arabic,,Uffiddu,,,,,,,,,,,x
-b_gijon,b_gijon,,GijÛn,,,,,,,,,,,x
+b_gijon,b_gijon,,Gij√≥n,,,,,,,,,,,x
 b_gijon,b_gijon_adj,,,,,,,,,,,,,x
 b_gijon,andalusian_arabic,,Shishun,,,,,,,,,,,x
 b_gijon,aragonese,,Xixon,,,,,,,,,,,x
@@ -1456,13 +1456,13 @@ b_gijon,bedouin_arabic,,Shishun,,,,,,,,,,,x
 b_gijon,catalan,,Xixon,,,,,,,,,,,x
 b_gijon,egyptian_arabic,,Shishun,,,,,,,,,,,x
 b_gijon,frankish,,Gijon,,,,,,,,,,,x
-b_gijon,galician,,XixÛn,,,,,,,,,,,x
-b_gijon,leonese,,XixÛn,,,,,,,,,,,x
+b_gijon,galician,,Xix√≥n,,,,,,,,,,,x
+b_gijon,leonese,,Xix√≥n,,,,,,,,,,,x
 b_gijon,levantine_arabic,,Shishun,,,,,,,,,,,x
 b_gijon,maghreb_arabic,,Shishun,,,,,,,,,,,x
-b_gijon,portuguese,,Xix„o,,,,,,,,,,,x
+b_gijon,portuguese,,Xix√£o,,,,,,,,,,,x
 b_gijon,sicilian_arabic,,Shishun,,,,,,,,,,,x
-b_cangasdeonis,b_cangasdeonis,,Cangas de OnÌs,,,,,,,,,,,x
+b_cangasdeonis,b_cangasdeonis,,Cangas de On√≠s,,,,,,,,,,,x
 b_cangasdeonis,b_cangasdeonis_adj,,,,,,,,,,,,,x
 b_cangasdeonis,andalusian_arabic,,Qanqa al-Unnesh,,,,,,,,,,,x
 b_cangasdeonis,aragonese,,Cangues d'Onis,,,,,,,,,,,x
@@ -1471,11 +1471,11 @@ b_cangasdeonis,bedouin_arabic,,Qanqa al-Unnesh,,,,,,,,,,,x
 b_cangasdeonis,catalan,,Cangues d'Onis,,,,,,,,,,,x
 b_cangasdeonis,egyptian_arabic,,Qanqa al-Unnesh,,,,,,,,,,,x
 b_cangasdeonis,frankish,,Cangues d'Onis,,,,,,,,,,,x
-b_cangasdeonis,leonese,,Cangues d'OnÌs,,,,,,,,,,,x
+b_cangasdeonis,leonese,,Cangues d'On√≠s,,,,,,,,,,,x
 b_cangasdeonis,levantine_arabic,,Qanqa al-Unnesh,,,,,,,,,,,x
 b_cangasdeonis,maghreb_arabic,,Qanqa al-Unnesh,,,,,,,,,,,x
 b_cangasdeonis,sicilian_arabic,,Qanqa al-Unnesh,,,,,,,,,,,x
-b_quiros,b_quiros,,QuirÛs,,,,,,,,,,,x
+b_quiros,b_quiros,,Quir√≥s,,,,,,,,,,,x
 b_quiros,b_quiros_adj,,,,,,,,,,,,,x
 b_quiros,andalusian_arabic,,Qrus,,,,,,,,,,,x
 b_quiros,basque,,Kiros,,,,,,,,,,,x
@@ -1485,7 +1485,7 @@ b_quiros,frankish,,Quiros,,,,,,,,,,,x
 b_quiros,levantine_arabic,,Qrus,,,,,,,,,,,x
 b_quiros,maghreb_arabic,,Qrus,,,,,,,,,,,x
 b_quiros,sicilian_arabic,,Qrus,,,,,,,,,,,x
-b_norena,b_norena,,NoreÒa,,,,,,,,,,,x
+b_norena,b_norena,,Nore√±a,,,,,,,,,,,x
 b_norena,b_norena_adj,,,,,,,,,,,,,x
 b_norena,andalusian_arabic,,Nurenniyya,,,,,,,,,,,x
 b_norena,aragonese,,Norenya,,,,,,,,,,,x
@@ -1539,7 +1539,7 @@ b_villafrancadelbierzo,basque,,Billafranka Bierzo,,,,,,,,,,,x
 b_villafrancadelbierzo,bedouin_arabic,,Byrsu,,,,,,,,,,,x
 b_villafrancadelbierzo,catalan,,Vilafranca del Bierzo,,,,,,,,,,,x
 b_villafrancadelbierzo,egyptian_arabic,,Byrsu,,,,,,,,,,,x
-b_villafrancadelbierzo,frankish,,Villefranc du BiËrce,,,,,,,,,,,x
+b_villafrancadelbierzo,frankish,,Villefranc du Bi√®rce,,,,,,,,,,,x
 b_villafrancadelbierzo,galician,,Vilafranca do Bierzo,,,,,,,,,,,x
 b_villafrancadelbierzo,leonese,,Villafranca del Bierzu,,,,,,,,,,,x
 b_villafrancadelbierzo,levantine_arabic,,Byrsu,,,,,,,,,,,x
@@ -1598,11 +1598,11 @@ b_fuentesauco,andalusian_arabic,,Ianbuu al-Khman,,,,,,,,,,,x
 b_fuentesauco,aragonese,,Fontsabuco,,,,,,,,,,,x
 b_fuentesauco,basque,,Intsusaiturri,,,,,,,,,,,x
 b_fuentesauco,bedouin_arabic,,Ianbuu al-Khman,,,,,,,,,,,x
-b_fuentesauco,catalan,,Fontsa¸c,,,,,,,,,,,x
+b_fuentesauco,catalan,,Fontsa√ºc,,,,,,,,,,,x
 b_fuentesauco,egyptian_arabic,,Ianbuu al-Khman,,,,,,,,,,,x
 b_fuentesauco,frankish,,Fontsureau,,,,,,,,,,,x
 b_fuentesauco,galician,,Fontesabugo,,,,,,,,,,,x
-b_fuentesauco,leonese,,Jonsa˙cu,,,,,,,,,,,x
+b_fuentesauco,leonese,,Jonsa√∫cu,,,,,,,,,,,x
 b_fuentesauco,levantine_arabic,,Ianbuu al-Khman,,,,,,,,,,,x
 b_fuentesauco,maghreb_arabic,,Ianbuu al-Khman,,,,,,,,,,,x
 b_fuentesauco,portuguese,,Fontesabugueiro,,,,,,,,,,,x
@@ -1639,7 +1639,7 @@ b_salamanca,levantine_arabic,,al-Mantiqa,,,,,,,,,,,x
 b_salamanca,maghreb_arabic,,al-Mantiqa,,,,,,,,,,,x
 b_salamanca,roman,,Salamantica,,,,,,,,,,,x
 b_salamanca,sicilian_arabic,,al-Mantiqa,,,,,,,,,,,x
-b_bejar,b_bejar,,BÈjar,,,,,,,,,,,x
+b_bejar,b_bejar,,B√©jar,,,,,,,,,,,x
 b_bejar,b_bejar_adj,,,,,,,,,,,,,x
 b_bejar,andalusian_arabic,,Beiyar,,,,,,,,,,,x
 b_bejar,basque,,Beiar,,,,,,,,,,,x
@@ -1679,7 +1679,7 @@ c_ciudad_rodrigo,basque,,Errodeika-Hiri,,,,,,,,,,,x
 c_ciudad_rodrigo,bedouin_arabic,,Madina Ludhriq,,,,,,,,,,,x
 c_ciudad_rodrigo,catalan,,Ciutat Roderic,,,,,,,,,,,x
 c_ciudad_rodrigo,egyptian_arabic,,Madina Ludhriq,,,,,,,,,,,x
-c_ciudad_rodrigo,frankish,,CitÈ Rodrigue,,,,,,,,,,,x
+c_ciudad_rodrigo,frankish,,Cit√© Rodrigue,,,,,,,,,,,x
 c_ciudad_rodrigo,galician,,Cidade Rui,,,,,,,,,,,x
 c_ciudad_rodrigo,leonese,,Ciarrodrigu,,,,,,,,,,,x
 c_ciudad_rodrigo,levantine_arabic,,Madina Ludhriq,,,,,,,,,,,x
@@ -1694,7 +1694,7 @@ b_ciudadrodrigo,basque,,Errodeika-Hiri,,,,,,,,,,,x
 b_ciudadrodrigo,bedouin_arabic,,Madina Ludhriq,,,,,,,,,,,x
 b_ciudadrodrigo,catalan,,Ciutat Roderic,,,,,,,,,,,x
 b_ciudadrodrigo,egyptian_arabic,,Madina Ludhriq,,,,,,,,,,,x
-b_ciudadrodrigo,frankish,,CitÈ Rodrigue,,,,,,,,,,,x
+b_ciudadrodrigo,frankish,,Cit√© Rodrigue,,,,,,,,,,,x
 b_ciudadrodrigo,galician,,Cidade Rui,,,,,,,,,,,x
 b_ciudadrodrigo,leonese,,Ciarrodrigu,,,,,,,,,,,x
 b_ciudadrodrigo,levantine_arabic,,Madina Ludhriq,,,,,,,,,,,x
@@ -1718,45 +1718,45 @@ b_sanctispiritus,egyptian_arabic,,Sannishbir,,,,,,,,,,,x
 b_sanctispiritus,levantine_arabic,,Sannishbir,,,,,,,,,,,x
 b_sanctispiritus,maghreb_arabic,,Sannishbir,,,,,,,,,,,x
 b_sanctispiritus,sicilian_arabic,,Sannishbir,,,,,,,,,,,x
-k_aragon,k_aragon,,AragÛn,,,,,,,,,,,x
+k_aragon,k_aragon,,Arag√≥n,,,,,,,,,,,x
 k_aragon,k_aragon_adj,,Aragonesa,,,,,,,,,,,x
 k_aragon,andalusian_arabic,,Aragu'un,,,,,,,,,,,x
 k_aragon,basque,,Aragoi,,,,,,,,,,,x
 k_aragon,bedouin_arabic,,Aragu'un,,,,,,,,,,,x
-k_aragon,catalan,,AragÛ,,,,,,,,,,,x
+k_aragon,catalan,,Arag√≥,,,,,,,,,,,x
 k_aragon,egyptian_arabic,,Aragu'un,,,,,,,,,,,x
 k_aragon,frankish,,Aragon,,,,,,,,,,,x
 k_aragon,greek,,Tarrakonesia,,,,,,,,,,,x
 k_aragon,levantine_arabic,,Aragu'un,,,,,,,,,,,x
 k_aragon,maghreb_arabic,,Aragu'un,,,,,,,,,,,x
-k_aragon,portuguese,,Arag„o,,,,,,,,,,,x
+k_aragon,portuguese,,Arag√£o,,,,,,,,,,,x
 k_aragon,roman,,Tarraconensis,,,,,,,,,,,x
 k_aragon,sicilian_arabic,,Aragu'un,,,,,,,,,,,x
-d_aragon,d_aragon,,AragÛn,,,,,,,,,,,x
+d_aragon,d_aragon,,Arag√≥n,,,,,,,,,,,x
 d_aragon,d_aragon_adj,,Aragonesa,,,,,,,,,,,x
 d_aragon,andalusian_arabic,,Aragu'un,,,,,,,,,,,x
 d_aragon,basque,,Aragoi,,,,,,,,,,,x
 d_aragon,bedouin_arabic,,Aragu'un,,,,,,,,,,,x
-d_aragon,catalan,,AragÛ,,,,,,,,,,,x
+d_aragon,catalan,,Arag√≥,,,,,,,,,,,x
 d_aragon,egyptian_arabic,,Aragu'un,,,,,,,,,,,x
 d_aragon,frankish,,Aragon,,,,,,,,,,,x
 d_aragon,levantine_arabic,,Aragu'un,,,,,,,,,,,x
 d_aragon,maghreb_arabic,,Aragu'un,,,,,,,,,,,x
-d_aragon,portuguese,,Arag„o,,,,,,,,,,,x
+d_aragon,portuguese,,Arag√£o,,,,,,,,,,,x
 d_aragon,sicilian_arabic,,Aragu'un,,,,,,,,,,,x
-c_alto_aragon,PROV207,,Alto AragÛn,,,,,,,,,,,x
+c_alto_aragon,PROV207,,Alto Arag√≥n,,,,,,,,,,,x
 c_alto_aragon,c_alto_aragon,,,,,,,,,,,,,x
-c_alto_aragon,c_alto_aragon_adj,,Alto AragÛnian,,,,,,,,,,,x
+c_alto_aragon,c_alto_aragon_adj,,Alto Arag√≥nian,,,,,,,,,,,x
 c_alto_aragon,andalusian_arabic,,Aragu'un al-Hala,,,,,,,,,,,x
 c_alto_aragon,basque,,Aragoi Garaia,,,,,,,,,,,x
 c_alto_aragon,bedouin_arabic,,Aragu'un al-Hala,,,,,,,,,,,x
-c_alto_aragon,catalan,,Alt AragÛ,,,,,,,,,,,x
+c_alto_aragon,catalan,,Alt Arag√≥,,,,,,,,,,,x
 c_alto_aragon,egyptian_arabic,,Aragu'un al-Hala,,,,,,,,,,,x
 c_alto_aragon,frankish,,Haut Aragon,,,,,,,,,,,x
-c_alto_aragon,leonese,,Altu AragÛn,,,,,,,,,,,x
+c_alto_aragon,leonese,,Altu Arag√≥n,,,,,,,,,,,x
 c_alto_aragon,levantine_arabic,,Aragu'un al-Hala,,,,,,,,,,,x
 c_alto_aragon,maghreb_arabic,,Aragu'un al-Hala,,,,,,,,,,,x
-c_alto_aragon,portuguese,,Alto Arag„o,,,,,,,,,,,x
+c_alto_aragon,portuguese,,Alto Arag√£o,,,,,,,,,,,x
 c_alto_aragon,sicilian_arabic,,Aragu'un al-Hala,,,,,,,,,,,x
 b_jaca,b_jaca,,Jaca,,,,,,,,,,,x
 b_jaca,b_jaca_adj,,,,,,,,,,,,,x
@@ -1782,14 +1782,14 @@ b_borau,sicilian_arabic,,Bured,,,,,,,,,,,x
 b_canfranc,b_canfranc,,Canfranc,,,,,,,,,,,x
 b_canfranc,b_canfranc_adj,,,,,,,,,,,,,x
 b_canfranc,andalusian_arabic,,Qanfran,,,,,,,,,,,x
-b_canfranc,aragonese,,Canfr·n,,,,,,,,,,,x
+b_canfranc,aragonese,,Canfr√°n,,,,,,,,,,,x
 b_canfranc,basque,,Kanfrank,,,,,,,,,,,x
 b_canfranc,bedouin_arabic,,Qanfran,,,,,,,,,,,x
 b_canfranc,egyptian_arabic,,Qanfran,,,,,,,,,,,x
 b_canfranc,levantine_arabic,,Qanfran,,,,,,,,,,,x
 b_canfranc,maghreb_arabic,,Qanfran,,,,,,,,,,,x
 b_canfranc,sicilian_arabic,,Qanfran,,,,,,,,,,,x
-b_anso,b_anso,,AnsÛ,,,,,,,,,,,x
+b_anso,b_anso,,Ans√≥,,,,,,,,,,,x
 b_anso,b_anso_adj,,,,,,,,,,,,,x
 b_anso,andalusian_arabic,,N'Suh,,,,,,,,,,,x
 b_anso,bedouin_arabic,,N'Suh,,,,,,,,,,,x
@@ -1808,18 +1808,18 @@ c_sobrarbe,egyptian_arabic,,Subrarb,,,,,,,,,,,x
 c_sobrarbe,levantine_arabic,,Subrarb,,,,,,,,,,,x
 c_sobrarbe,maghreb_arabic,,Subrarb,,,,,,,,,,,x
 c_sobrarbe,sicilian_arabic,,Subrarb,,,,,,,,,,,x
-b_ainsa,b_ainsa,,AÌnsa,,,,,,,,,,,x
+b_ainsa,b_ainsa,,A√≠nsa,,,,,,,,,,,x
 b_ainsa,b_ainsa_adj,,,,,,,,,,,,,x
 b_ainsa,andalusian_arabic,,Insa,,,,,,,,,,,x
-b_ainsa,aragonese,,L'AÌnsa,,,,,,,,,,,x
+b_ainsa,aragonese,,L'A√≠nsa,,,,,,,,,,,x
 b_ainsa,bedouin_arabic,,Insa,,,,,,,,,,,x
-b_ainsa,catalan,,AÔnse,,,,,,,,,,,x
+b_ainsa,catalan,,A√Ønse,,,,,,,,,,,x
 b_ainsa,egyptian_arabic,,Insa,,,,,,,,,,,x
-b_ainsa,frankish,,AÔnse,,,,,,,,,,,x
+b_ainsa,frankish,,A√Ønse,,,,,,,,,,,x
 b_ainsa,levantine_arabic,,Insa,,,,,,,,,,,x
 b_ainsa,maghreb_arabic,,Insa,,,,,,,,,,,x
 b_ainsa,sicilian_arabic,,Insa,,,,,,,,,,,x
-b_boltanya,b_boltanya,,BoltaÒa,,,,,,,,,,,x
+b_boltanya,b_boltanya,,Bolta√±a,,,,,,,,,,,x
 b_boltanya,b_boltanya_adj,,,,,,,,,,,,,x
 b_boltanya,andalusian_arabic,,Burtaniyya,,,,,,,,,,,x
 b_boltanya,aragonese,,Boltanya,,,,,,,,,,,x
@@ -1831,19 +1831,19 @@ b_boltanya,levantine_arabic,,Burtaniyya,,,,,,,,,,,x
 b_boltanya,maghreb_arabic,,Burtaniyya,,,,,,,,,,,x
 b_boltanya,portuguese,,Boltanha,,,,,,,,,,,x
 b_boltanya,sicilian_arabic,,Burtaniyya,,,,,,,,,,,x
-b_san_victorian,b_san_victorian,,San Victori·n,,,,,,,,,,,x
+b_san_victorian,b_san_victorian,,San Victori√°n,,,,,,,,,,,x
 b_san_victorian,b_san_victorian_adj,,,,,,,,,,,,,x
 b_san_victorian,andalusian_arabic,,Erawash,,,,,,,,,,,x
-b_san_victorian,aragonese,,Sant Veturi·n,,,,,,,,,,,x
+b_san_victorian,aragonese,,Sant Veturi√°n,,,,,,,,,,,x
 b_san_victorian,basque,,Done Bittorian,,,,,,,,,,,x
 b_san_victorian,bedouin_arabic,,Erawash,,,,,,,,,,,x
-b_san_victorian,catalan,,Sant victori‡,,,,,,,,,,,x
+b_san_victorian,catalan,,Sant victori√†,,,,,,,,,,,x
 b_san_victorian,egyptian_arabic,,Erawash,,,,,,,,,,,x
 b_san_victorian,frankish,,Saint Victorien,,,,,,,,,,,x
-b_san_victorian,galician,,San Vitori·n,,,,,,,,,,,x
+b_san_victorian,galician,,San Vitori√°n,,,,,,,,,,,x
 b_san_victorian,levantine_arabic,,Erawash,,,,,,,,,,,x
 b_san_victorian,maghreb_arabic,,Erawash,,,,,,,,,,,x
-b_san_victorian,portuguese,,S„o Vitori·n,,,,,,,,,,,x
+b_san_victorian,portuguese,,S√£o Vitori√°n,,,,,,,,,,,x
 b_san_victorian,sicilian_arabic,,Erawash,,,,,,,,,,,x
 b_las_bellostas,b_las_bellostas,,Las Bellostas,,,,,,,,,,,x
 b_las_bellostas,b_las_bellostas_adj,,,,,,,,,,,,,x
@@ -1852,7 +1852,7 @@ b_las_bellostas,aragonese,,As Bellostas,,,,,,,,,,,x
 b_las_bellostas,bedouin_arabic,,Bilushta,,,,,,,,,,,x
 b_las_bellostas,catalan,,Les Bellostes,,,,,,,,,,,x
 b_las_bellostas,egyptian_arabic,,Bilushta,,,,,,,,,,,x
-b_las_bellostas,frankish,,Les BÈllostes,,,,,,,,,,,x
+b_las_bellostas,frankish,,Les B√©llostes,,,,,,,,,,,x
 b_las_bellostas,galician,,As Bellostas,,,,,,,,,,,x
 b_las_bellostas,leonese,,Les Bellostes,,,,,,,,,,,x
 b_las_bellostas,levantine_arabic,,Bilushta,,,,,,,,,,,x
@@ -1864,12 +1864,12 @@ c_ribagorza,c_ribagorza,,,,,,,,,,,,,x
 c_ribagorza,c_ribagorza_adj,,Ribagorzana,,,,,,,,,,,x
 c_ribagorza,andalusian_arabic,,Ribbagursa,,,,,,,,,,,x
 c_ribagorza,bedouin_arabic,,Ribbagursa,,,,,,,,,,,x
-c_ribagorza,catalan,,RibagorÁa,,,,,,,,,,,x
+c_ribagorza,catalan,,Ribagor√ßa,,,,,,,,,,,x
 c_ribagorza,egyptian_arabic,,Ribbagursa,,,,,,,,,,,x
 c_ribagorza,frankish,,Ribagorce,,,,,,,,,,,x
 c_ribagorza,levantine_arabic,,Ribbagursa,,,,,,,,,,,x
 c_ribagorza,maghreb_arabic,,Ribbagursa,,,,,,,,,,,x
-c_ribagorza,portuguese,,RibagorÁa,,,,,,,,,,,x
+c_ribagorza,portuguese,,Ribagor√ßa,,,,,,,,,,,x
 c_ribagorza,sicilian_arabic,,Ribbagursa,,,,,,,,,,,x
 b_benabarre,b_benabarre,,Benabarre,,,,,,,,,,,x
 b_benabarre,b_benabarre_adj,,,,,,,,,,,,,x
@@ -1892,7 +1892,7 @@ b_graus,sicilian_arabic,,Hrauz,,,,,,,,,,,x
 b_benasque,b_benasque,,Benasque,,,,,,,,,,,x
 b_benasque,b_benasque_adj,,,,,,,,,,,,,x
 b_benasque,andalusian_arabic,,Banu Asq,,,,,,,,,,,x
-b_benasque,aragonese,,Ben·s,,,,,,,,,,,x
+b_benasque,aragonese,,Ben√°s,,,,,,,,,,,x
 b_benasque,basque,,Benazke,,,,,,,,,,,x
 b_benasque,bedouin_arabic,,Banu Asq,,,,,,,,,,,x
 b_benasque,catalan,,Benasc,,,,,,,,,,,x
@@ -1921,7 +1921,7 @@ d_zaragoza,frankish,,Saragosse,,,,,,,,,,,x
 d_zaragoza,greek,,Kaisaraugousta,,,,,,,,,,,x
 d_zaragoza,levantine_arabic,,Saraqusta,,,,,,,,,,,x
 d_zaragoza,maghreb_arabic,,Saraqusta,,,,,,,,,,,x
-d_zaragoza,portuguese,,SaragoÁa,,,,,,,,,,,x
+d_zaragoza,portuguese,,Sarago√ßa,,,,,,,,,,,x
 d_zaragoza,roman,,Caesaraugusta,,,,,,,,,,,x
 d_zaragoza,sicilian_arabic,,Saraqusta,,,,,,,,,,,x
 c_zaragoza,PROV202,,Zaragoza,,,,,,,,,,,x
@@ -1935,20 +1935,20 @@ c_zaragoza,frankish,,Saragosse,,,,,,,,,,,x
 c_zaragoza,greek,,Kaisaraugousta,,,,,,,,,,,x
 c_zaragoza,levantine_arabic,,Saraqusta,,,,,,,,,,,x
 c_zaragoza,maghreb_arabic,,Saraqusta,,,,,,,,,,,x
-c_zaragoza,portuguese,,SaragoÁa,,,,,,,,,,,x
+c_zaragoza,portuguese,,Sarago√ßa,,,,,,,,,,,x
 c_zaragoza,roman,,Caesaraugusta,,,,,,,,,,,x
 c_zaragoza,sicilian_arabic,,Saraqusta,,,,,,,,,,,x
-b_alagon,b_alagon,,AlagÛn,,,,,,,,,,,x
+b_alagon,b_alagon,,Alag√≥n,,,,,,,,,,,x
 b_alagon,b_alagon_adj,,,,,,,,,,,,,x
 b_alagon,andalusian_arabic,,Alagun,,,,,,,,,,,x
 b_alagon,basque,,Alagon,,,,,,,,,,,x
 b_alagon,bedouin_arabic,,Alagun,,,,,,,,,,,x
-b_alagon,catalan,,AlagÛ,,,,,,,,,,,x
+b_alagon,catalan,,Alag√≥,,,,,,,,,,,x
 b_alagon,egyptian_arabic,,Alagun,,,,,,,,,,,x
 b_alagon,frankish,,Alagon,,,,,,,,,,,x
 b_alagon,levantine_arabic,,Alagun,,,,,,,,,,,x
 b_alagon,maghreb_arabic,,Alagun,,,,,,,,,,,x
-b_alagon,portuguese,,Alag„o,,,,,,,,,,,x
+b_alagon,portuguese,,Alag√£o,,,,,,,,,,,x
 b_alagon,sicilian_arabic,,Alagun,,,,,,,,,,,x
 b_zaragoza,b_zaragoza,,Zaragoza,,,,,,,,,,,x
 b_zaragoza,b_zaragoza_adj,,,,,,,,,,,,,x
@@ -1968,7 +1968,7 @@ b_veruela,andalusian_arabic,,Birula,,,,,,,,,,,x
 b_veruela,basque,,Beruela,,,,,,,,,,,x
 b_veruela,bedouin_arabic,,Birula,,,,,,,,,,,x
 b_veruela,egyptian_arabic,,Birula,,,,,,,,,,,x
-b_veruela,frankish,,BÈruelle,,,,,,,,,,,x
+b_veruela,frankish,,B√©ruelle,,,,,,,,,,,x
 b_veruela,levantine_arabic,,Birula,,,,,,,,,,,x
 b_veruela,maghreb_arabic,,Birula,,,,,,,,,,,x
 b_veruela,sicilian_arabic,,Birula,,,,,,,,,,,x
@@ -1991,7 +1991,7 @@ b_ejea_de_los_caballeros,basque,,Exea Jaunak,,,,,,,,,,,x
 b_ejea_de_los_caballeros,bedouin_arabic,,Siya,,,,,,,,,,,x
 b_ejea_de_los_caballeros,catalan,,Eixea dels Cavallers,,,,,,,,,,,x
 b_ejea_de_los_caballeros,egyptian_arabic,,Siya,,,,,,,,,,,x
-b_ejea_de_los_caballeros,frankish,,EixÈe des Chevaliers,,,,,,,,,,,x
+b_ejea_de_los_caballeros,frankish,,Eix√©e des Chevaliers,,,,,,,,,,,x
 b_ejea_de_los_caballeros,galician,,Exea dos Cabaleiros,,,,,,,,,,,x
 b_ejea_de_los_caballeros,leonese,,Exea de los Caballeros,,,,,,,,,,,x
 b_ejea_de_los_caballeros,levantine_arabic,,Siya,,,,,,,,,,,x
@@ -2002,7 +2002,7 @@ c_calatayud,PROV175,,Calatayud,,,,,,,,,,,x
 c_calatayud,c_calatayud,,,,,,,,,,,,,x
 c_calatayud,c_calatayud_adj,,Calatayudian,,,,,,,,,,,x
 c_calatayud,andalusian_arabic,,Qal'at Ayyub,,,,,,,,,,,x
-c_calatayud,aragonese,,Calatay˙,,,,,,,,,,,x
+c_calatayud,aragonese,,Calatay√∫,,,,,,,,,,,x
 c_calatayud,basque,,Kalataiud,,,,,,,,,,,x
 c_calatayud,bedouin_arabic,,Qal'at Ayyub,,,,,,,,,,,x
 c_calatayud,catalan,,Calataiud,,,,,,,,,,,x
@@ -2013,7 +2013,7 @@ c_calatayud,sicilian_arabic,,Qal'at Ayyub,,,,,,,,,,,x
 b_calatayud,b_calatayud,,Calatayud,,,,,,,,,,,x
 b_calatayud,b_calatayud_adj,,,,,,,,,,,,,x
 b_calatayud,andalusian_arabic,,Qal'at Ayyub,,,,,,,,,,,x
-b_calatayud,aragonese,,Calatay˙,,,,,,,,,,,x
+b_calatayud,aragonese,,Calatay√∫,,,,,,,,,,,x
 b_calatayud,basque,,Kalataiud,,,,,,,,,,,x
 b_calatayud,bedouin_arabic,,Qal'at Ayyub,,,,,,,,,,,x
 b_calatayud,catalan,,Calataiud,,,,,,,,,,,x
@@ -2021,19 +2021,19 @@ b_calatayud,egyptian_arabic,,Qal'at Ayyub,,,,,,,,,,,x
 b_calatayud,levantine_arabic,,Qal'at Ayyub,,,,,,,,,,,x
 b_calatayud,maghreb_arabic,,Qal'at Ayyub,,,,,,,,,,,x
 b_calatayud,sicilian_arabic,,Qal'at Ayyub,,,,,,,,,,,x
-b_alhamadearagon,b_alhamadearagon,,Alhama de AragÛn,,,,,,,,,,,x
+b_alhamadearagon,b_alhamadearagon,,Alhama de Arag√≥n,,,,,,,,,,,x
 b_alhamadearagon,b_alhamadearagon_adj,,,,,,,,,,,,,x
 b_alhamadearagon,andalusian_arabic,,al-Hamma al-Aragu'un,,,,,,,,,,,x
-b_alhamadearagon,aragonese,,Alfama d'AragÛn,,,,,,,,,,,x
+b_alhamadearagon,aragonese,,Alfama d'Arag√≥n,,,,,,,,,,,x
 b_alhamadearagon,basque,,Alhama Aragoi,,,,,,,,,,,x
 b_alhamadearagon,bedouin_arabic,,al-Hamma al-Aragu'un,,,,,,,,,,,x
-b_alhamadearagon,catalan,,Alhama d'AragÛ,,,,,,,,,,,x
+b_alhamadearagon,catalan,,Alhama d'Arag√≥,,,,,,,,,,,x
 b_alhamadearagon,egyptian_arabic,,al-Hamma al-Aragu'un,,,,,,,,,,,x
 b_alhamadearagon,frankish,,Alhamme d'Aragon,,,,,,,,,,,x
-b_alhamadearagon,leonese,,Alhama d'AragÛn,,,,,,,,,,,x
+b_alhamadearagon,leonese,,Alhama d'Arag√≥n,,,,,,,,,,,x
 b_alhamadearagon,levantine_arabic,,al-Hamma al-Aragu'un,,,,,,,,,,,x
 b_alhamadearagon,maghreb_arabic,,al-Hamma al-Aragu'un,,,,,,,,,,,x
-b_alhamadearagon,portuguese,,Alfama de Arag„o,,,,,,,,,,,x
+b_alhamadearagon,portuguese,,Alfama de Arag√£o,,,,,,,,,,,x
 b_alhamadearagon,sicilian_arabic,,al-Hamma al-Aragu'un,,,,,,,,,,,x
 b_piedra,b_piedra,,Piedra,,,,,,,,,,,x
 b_piedra,b_piedra_adj,,,,,,,,,,,,,x
@@ -2048,18 +2048,18 @@ b_piedra,levantine_arabic,,Sajr,,,,,,,,,,,x
 b_piedra,maghreb_arabic,,Sajr,,,,,,,,,,,x
 b_piedra,portuguese,,Pedra,,,,,,,,,,,x
 b_piedra,sicilian_arabic,,Sajr,,,,,,,,,,,x
-b_nuevalos,b_nuevalos,,NuÈvalos,,,,,,,,,,,x
+b_nuevalos,b_nuevalos,,Nu√©valos,,,,,,,,,,,x
 b_nuevalos,b_nuevalos_adj,,,,,,,,,,,,,x
 b_nuevalos,andalusian_arabic,,Nubbal,,,,,,,,,,,x
 b_nuevalos,basque,,Nuebalos,,,,,,,,,,,x
 b_nuevalos,bedouin_arabic,,Nubbal,,,,,,,,,,,x
-b_nuevalos,catalan,,NÛvals,,,,,,,,,,,x
+b_nuevalos,catalan,,N√≥vals,,,,,,,,,,,x
 b_nuevalos,egyptian_arabic,,Nubbal,,,,,,,,,,,x
 b_nuevalos,frankish,,Nouvals,,,,,,,,,,,x
-b_nuevalos,galician,,NÛvalos,,,,,,,,,,,x
+b_nuevalos,galician,,N√≥valos,,,,,,,,,,,x
 b_nuevalos,levantine_arabic,,Nubbal,,,,,,,,,,,x
 b_nuevalos,maghreb_arabic,,Nubbal,,,,,,,,,,,x
-b_nuevalos,portuguese,,NÛvalos,,,,,,,,,,,x
+b_nuevalos,portuguese,,N√≥valos,,,,,,,,,,,x
 b_nuevalos,sicilian_arabic,,Nubbal,,,,,,,,,,,x
 c_huesca,PROV1207,,Huesca,,,,,,,,,,,x
 c_huesca,c_huesca,,,,,,,,,,,,,x
@@ -2072,7 +2072,7 @@ c_huesca,catalan,,Osca,,,,,,,,,,,x
 c_huesca,egyptian_arabic,,Wasqa,,,,,,,,,,,x
 c_huesca,frankish,,Osque,,,,,,,,,,,x
 c_huesca,greek,,Oska,,,,,,,,,,,x
-c_huesca,leonese,,G¸esca,,,,,,,,,,,x
+c_huesca,leonese,,G√ºesca,,,,,,,,,,,x
 c_huesca,levantine_arabic,,Wasqa,,,,,,,,,,,x
 c_huesca,maghreb_arabic,,Wasqa,,,,,,,,,,,x
 c_huesca,roman,,Osca,,,,,,,,,,,x
@@ -2087,18 +2087,18 @@ b_huesca,catalan,,Osca,,,,,,,,,,,x
 b_huesca,egyptian_arabic,,Wasqa,,,,,,,,,,,x
 b_huesca,frankish,,Osque,,,,,,,,,,,x
 b_huesca,greek,,Oska,,,,,,,,,,,x
-b_huesca,leonese,,G¸esca,,,,,,,,,,,x
+b_huesca,leonese,,G√ºesca,,,,,,,,,,,x
 b_huesca,levantine_arabic,,Wasqa,,,,,,,,,,,x
 b_huesca,maghreb_arabic,,Wasqa,,,,,,,,,,,x
 b_huesca,roman,,Osca,,,,,,,,,,,x
 b_huesca,sicilian_arabic,,Wasqa,,,,,,,,,,,x
-b_almudevar,b_almudevar,,AlmudÈvar,,,,,,,,,,,x
+b_almudevar,b_almudevar,,Almud√©var,,,,,,,,,,,x
 b_almudevar,b_almudevar_adj,,,,,,,,,,,,,x
 b_almudevar,andalusian_arabic,,al-Muddawwar,,,,,,,,,,,x
 b_almudevar,basque,,Almudebar,,,,,,,,,,,x
 b_almudevar,bedouin_arabic,,al-Muddawwar,,,,,,,,,,,x
 b_almudevar,egyptian_arabic,,al-Muddawwar,,,,,,,,,,,x
-b_almudevar,frankish,,AlmudÈver,,,,,,,,,,,x
+b_almudevar,frankish,,Almud√©ver,,,,,,,,,,,x
 b_almudevar,levantine_arabic,,al-Muddawwar,,,,,,,,,,,x
 b_almudevar,maghreb_arabic,,al-Muddawwar,,,,,,,,,,,x
 b_almudevar,sicilian_arabic,,al-Muddawwar,,,,,,,,,,,x
@@ -2232,7 +2232,7 @@ b_castellciutat,aragonese,,Castielciudat,,,,,,,,,,,x
 b_castellciutat,basque,,Gaztelua-Hiri,,,,,,,,,,,x
 b_castellciutat,bedouin_arabic,,Qalat al-Madina,,,,,,,,,,,x
 b_castellciutat,egyptian_arabic,,Qalat al-Madina,,,,,,,,,,,x
-b_castellciutat,frankish,,Ch‚teauville,,,,,,,,,,,x
+b_castellciutat,frankish,,Ch√¢teauville,,,,,,,,,,,x
 b_castellciutat,galician,,Castrocidade,,,,,,,,,,,x
 b_castellciutat,leonese,,Ciacastillu,,,,,,,,,,,x
 b_castellciutat,levantine_arabic,,Qalat al-Madina,,,,,,,,,,,x
@@ -2247,12 +2247,12 @@ b_laseudurgell,basque,,Urtxeluko Egoitza,,,,,,,,,,,x
 b_laseudurgell,bedouin_arabic,,Urgil,,,,,,,,,,,x
 b_laseudurgell,castillan,,Seo de Urgel,,,,,,,,,,,x
 b_laseudurgell,egyptian_arabic,,Urgil,,,,,,,,,,,x
-b_laseudurgell,frankish,,SiËge d'Urgell,,,,,,,,,,,x
-b_laseudurgell,galician,,SÈ de Urgell,,,,,,,,,,,x
+b_laseudurgell,frankish,,Si√®ge d'Urgell,,,,,,,,,,,x
+b_laseudurgell,galician,,S√© de Urgell,,,,,,,,,,,x
 b_laseudurgell,leonese,,La Seu d'Urgel,,,,,,,,,,,x
 b_laseudurgell,levantine_arabic,,Urgil,,,,,,,,,,,x
 b_laseudurgell,maghreb_arabic,,Urgil,,,,,,,,,,,x
-b_laseudurgell,portuguese,,SÈ de Urgell,,,,,,,,,,,x
+b_laseudurgell,portuguese,,S√© de Urgell,,,,,,,,,,,x
 b_laseudurgell,sicilian_arabic,,Urgil,,,,,,,,,,,x
 b_balaguer,b_balaguer,,Balaguer,,,,,,,,,,,x
 b_balaguer,b_balaguer_adj,,,,,,,,,,,,,x
@@ -2276,32 +2276,32 @@ c_rosello,c_rosello_adj,,Rosellian,,,,,,,,,,,x
 c_rosello,andalusian_arabic,,Rusl'un,,,,,,,,,,,x
 c_rosello,basque,,Rozeion,,,,,,,,,,,x
 c_rosello,bedouin_arabic,,Rusl'un,,,,,,,,,,,x
-c_rosello,castillan,,RosellÛn,,,,,,,,,,,x
-c_rosello,catalan,,RosellÛ,,,,,,,,,,,x
+c_rosello,castillan,,Rosell√≥n,,,,,,,,,,,x
+c_rosello,catalan,,Rosell√≥,,,,,,,,,,,x
 c_rosello,egyptian_arabic,,Rusl'un,,,,,,,,,,,x
 c_rosello,frankish,,Roussillon,,,,,,,,,,,x
 c_rosello,greek,,Rhouskinon,,,,,,,,,,,x
 c_rosello,levantine_arabic,,Rusl'un,,,,,,,,,,,x
 c_rosello,maghreb_arabic,,Rusl'un,,,,,,,,,,,x
-c_rosello,portuguese,,Rossilh„o,,,,,,,,,,,x
+c_rosello,portuguese,,Rossilh√£o,,,,,,,,,,,x
 c_rosello,roman,,Ruscino,,,,,,,,,,,x
 c_rosello,sicilian_arabic,,Rusl'un,,,,,,,,,,,x
-b_castellrossello,b_castellrossello,,Castell RossellÛ,,,,,,,,,,,x
+b_castellrossello,b_castellrossello,,Castell Rossell√≥,,,,,,,,,,,x
 b_castellrossello,b_castellrossello_adj,,,,,,,,,,,,,x
 b_castellrossello,andalusian_arabic,,Qal'at al-Rusl'un,,,,,,,,,,,x
-b_castellrossello,aragonese,,Castiello d'o RosellÛn,,,,,,,,,,,x
+b_castellrossello,aragonese,,Castiello d'o Rosell√≥n,,,,,,,,,,,x
 b_castellrossello,basque,,Rozeiongo Gaztelua,,,,,,,,,,,x
 b_castellrossello,bedouin_arabic,,Qal'at al-Rusl'un,,,,,,,,,,,x
-b_castellrossello,castillan,,Castillo del RosellÛn,,,,,,,,,,,x
-b_castellrossello,catalan,,Castell de RosellÛ,,,,,,,,,,,x
+b_castellrossello,castillan,,Castillo del Rosell√≥n,,,,,,,,,,,x
+b_castellrossello,catalan,,Castell de Rosell√≥,,,,,,,,,,,x
 b_castellrossello,egyptian_arabic,,Qal'at al-Rusl'un,,,,,,,,,,,x
-b_castellrossello,frankish,,Ch‚teau du Roussillon,,,,,,,,,,,x
-b_castellrossello,galician,,Castro do RosellÛn,,,,,,,,,,,x
+b_castellrossello,frankish,,Ch√¢teau du Roussillon,,,,,,,,,,,x
+b_castellrossello,galician,,Castro do Rosell√≥n,,,,,,,,,,,x
 b_castellrossello,greek,,Rhouskinon,,,,,,,,,,,x
-b_castellrossello,leonese,,Castiellu del RosellÛn,,,,,,,,,,,x
+b_castellrossello,leonese,,Castiellu del Rosell√≥n,,,,,,,,,,,x
 b_castellrossello,levantine_arabic,,Qal'at al-Rusl'un,,,,,,,,,,,x
 b_castellrossello,maghreb_arabic,,Qal'at al-Rusl'un,,,,,,,,,,,x
-b_castellrossello,portuguese,,Castelo do Rossilh„o,,,,,,,,,,,x
+b_castellrossello,portuguese,,Castelo do Rossilh√£o,,,,,,,,,,,x
 b_castellrossello,roman,,Ruscino,,,,,,,,,,,x
 b_castellrossello,sicilian_arabic,,Qal'at al-Rusl'un,,,,,,,,,,,x
 b_elna,b_elna,,Elna,,,,,,,,,,,x
@@ -2313,31 +2313,31 @@ b_elna,frankish,,Elne,,,,,,,,,,,x
 b_elna,levantine_arabic,,Ilna,,,,,,,,,,,x
 b_elna,maghreb_arabic,,Ilna,,,,,,,,,,,x
 b_elna,sicilian_arabic,,Ilna,,,,,,,,,,,x
-b_perpinya,b_perpinya,,Perpiny‡,,,,,,,,,,,x
+b_perpinya,b_perpinya,,Perpiny√†,,,,,,,,,,,x
 b_perpinya,b_perpinya_adj,,,,,,,,,,,,,x
 b_perpinya,andalusian_arabic,,Birbinan,,,,,,,,,,,x
-b_perpinya,aragonese,,Perpiny·n,,,,,,,,,,,x
-b_perpinya,basque,,PerpiÒan,,,,,,,,,,,x
+b_perpinya,aragonese,,Perpiny√°n,,,,,,,,,,,x
+b_perpinya,basque,,Perpi√±an,,,,,,,,,,,x
 b_perpinya,bedouin_arabic,,Birbinan,,,,,,,,,,,x
-b_perpinya,castillan,,PerpiÒ·n,,,,,,,,,,,x
+b_perpinya,castillan,,Perpi√±√°n,,,,,,,,,,,x
 b_perpinya,egyptian_arabic,,Birbinan,,,,,,,,,,,x
 b_perpinya,frankish,,Perpignan,,,,,,,,,,,x
-b_perpinya,galician,,PerpiÒ·n,,,,,,,,,,,x
-b_perpinya,leonese,,PerpiÒ·n,,,,,,,,,,,x
+b_perpinya,galician,,Perpi√±√°n,,,,,,,,,,,x
+b_perpinya,leonese,,Perpi√±√°n,,,,,,,,,,,x
 b_perpinya,levantine_arabic,,Birbinan,,,,,,,,,,,x
 b_perpinya,maghreb_arabic,,Birbinan,,,,,,,,,,,x
-b_perpinya,portuguese,,Perpinh„,,,,,,,,,,,x
+b_perpinya,portuguese,,Perpinh√£,,,,,,,,,,,x
 b_perpinya,sicilian_arabic,,Birbinan,,,,,,,,,,,x
 b_cerdanya,b_cerdanya,,Cerdanya,,,,,,,,,,,x
 b_cerdanya,b_cerdanya_adj,,,,,,,,,,,,,x
 b_cerdanya,andalusian_arabic,,Syrdanna,,,,,,,,,,,x
-b_cerdanya,basque,,ZerdaÒa,,,,,,,,,,,x
+b_cerdanya,basque,,Zerda√±a,,,,,,,,,,,x
 b_cerdanya,bedouin_arabic,,Syrdanna,,,,,,,,,,,x
-b_cerdanya,castillan,,CerdaÒa,,,,,,,,,,,x
+b_cerdanya,castillan,,Cerda√±a,,,,,,,,,,,x
 b_cerdanya,egyptian_arabic,,Syrdanna,,,,,,,,,,,x
 b_cerdanya,frankish,,Cerdagne,,,,,,,,,,,x
-b_cerdanya,galician,,CerdaÒa,,,,,,,,,,,x
-b_cerdanya,leonese,,CerdaÒa,,,,,,,,,,,x
+b_cerdanya,galician,,Cerda√±a,,,,,,,,,,,x
+b_cerdanya,leonese,,Cerda√±a,,,,,,,,,,,x
 b_cerdanya,levantine_arabic,,Syrdanna,,,,,,,,,,,x
 b_cerdanya,maghreb_arabic,,Syrdanna,,,,,,,,,,,x
 b_cerdanya,portuguese,,Cerdanha,,,,,,,,,,,x
@@ -2349,7 +2349,7 @@ c_empuries,andalusian_arabic,,Ympuriyyah,,,,,,,,,,,x
 c_empuries,basque,,Ampurias,,,,,,,,,,,x
 c_empuries,bedouin_arabic,,Ympuriyyah,,,,,,,,,,,x
 c_empuries,castillan,,Ampurias,,,,,,,,,,,x
-c_empuries,catalan,,Emp˙ries,,,,,,,,,,,x
+c_empuries,catalan,,Emp√∫ries,,,,,,,,,,,x
 c_empuries,egyptian_arabic,,Ympuriyyah,,,,,,,,,,,x
 c_empuries,frankish,,Empouries,,,,,,,,,,,x
 c_empuries,galician,,Ampurias,,,,,,,,,,,x
@@ -2357,24 +2357,24 @@ c_empuries,greek,,Emporion,,,,,,,,,,,x
 c_empuries,leonese,,Empuries,,,,,,,,,,,x
 c_empuries,levantine_arabic,,Ympuriyyah,,,,,,,,,,,x
 c_empuries,maghreb_arabic,,Ympuriyyah,,,,,,,,,,,x
-c_empuries,portuguese,,Amp˙rias,,,,,,,,,,,x
+c_empuries,portuguese,,Amp√∫rias,,,,,,,,,,,x
 c_empuries,roman,,Emporiae,,,,,,,,,,,x
 c_empuries,sicilian_arabic,,Ympuriyyah,,,,,,,,,,,x
-b_castellodempuries,b_castellodempuries,,CastellÛ D'Emp˙ries,,,,,,,,,,,x
+b_castellodempuries,b_castellodempuries,,Castell√≥ D'Emp√∫ries,,,,,,,,,,,x
 b_castellodempuries,b_castellodempuries_adj,,,,,,,,,,,,,x
 b_castellodempuries,andalusian_arabic,,Qal'at al-Ympuriyyah,,,,,,,,,,,x
 b_castellodempuries,basque,,Ampuriasko Gaztelua,,,,,,,,,,,x
 b_castellodempuries,bedouin_arabic,,Qal'at al-Ympuriyyah,,,,,,,,,,,x
-b_castellodempuries,castillan,,CastellÛn de Ampurias,,,,,,,,,,,x
-b_castellodempuries,catalan,,CastellÛ d'Emp˙ries,,,,,,,,,,,x
+b_castellodempuries,castillan,,Castell√≥n de Ampurias,,,,,,,,,,,x
+b_castellodempuries,catalan,,Castell√≥ d'Emp√∫ries,,,,,,,,,,,x
 b_castellodempuries,egyptian_arabic,,Qal'at al-Ympuriyyah,,,,,,,,,,,x
 b_castellodempuries,frankish,,Castillon d'Empouries,,,,,,,,,,,x
-b_castellodempuries,galician,,CastellÛn de Ampurias,,,,,,,,,,,x
+b_castellodempuries,galician,,Castell√≥n de Ampurias,,,,,,,,,,,x
 b_castellodempuries,greek,,Emporion,,,,,,,,,,,x
-b_castellodempuries,leonese,,CastellÛn d'Empuries,,,,,,,,,,,x
+b_castellodempuries,leonese,,Castell√≥n d'Empuries,,,,,,,,,,,x
 b_castellodempuries,levantine_arabic,,Qal'at al-Ympuriyyah,,,,,,,,,,,x
 b_castellodempuries,maghreb_arabic,,Qal'at al-Ympuriyyah,,,,,,,,,,,x
-b_castellodempuries,portuguese,,Castelh„o de Amp˙rias,,,,,,,,,,,x
+b_castellodempuries,portuguese,,Castelh√£o de Amp√∫rias,,,,,,,,,,,x
 b_castellodempuries,roman,,Emporiae,,,,,,,,,,,x
 b_castellodempuries,sicilian_arabic,,Qal'at al-Ympuriyyah,,,,,,,,,,,x
 b_santperederoda,b_santperederoda,,Sant Pere de Roda,,,,,,,,,,,x
@@ -2391,9 +2391,9 @@ b_santperederoda,galician,,San Pedro de Roda,,,,,,,,,,,x
 b_santperederoda,leonese,,San Pedru de Rodes,,,,,,,,,,,x
 b_santperederoda,levantine_arabic,,Rudda,,,,,,,,,,,x
 b_santperederoda,maghreb_arabic,,Rudda,,,,,,,,,,,x
-b_santperederoda,portuguese,,S„o Pedro de Roda,,,,,,,,,,,x
+b_santperederoda,portuguese,,S√£o Pedro de Roda,,,,,,,,,,,x
 b_santperederoda,sicilian_arabic,,Rudda,,,,,,,,,,,x
-b_torroellademontgri,b_torroellademontgri,,Torroella de MontgrÌ,,,,,,,,,,,x
+b_torroellademontgri,b_torroellademontgri,,Torroella de Montgr√≠,,,,,,,,,,,x
 b_torroellademontgri,b_torroellademontgri_adj,,,,,,,,,,,,,x
 b_torroellademontgri,andalusian_arabic,,Tureyla,,,,,,,,,,,x
 b_torroellademontgri,aragonese,,Torroella de Montgriso,,,,,,,,,,,x
@@ -2428,7 +2428,7 @@ c_girona,bedouin_arabic,,Yiruna,,,,,,,,,,,x
 c_girona,castillan,,Gerona,,,,,,,,,,,x
 c_girona,catalan,,Girona,,,,,,,,,,,x
 c_girona,egyptian_arabic,,Yiruna,,,,,,,,,,,x
-c_girona,frankish,,GÈrone,,,,,,,,,,,x
+c_girona,frankish,,G√©rone,,,,,,,,,,,x
 c_girona,galician,,Xirona,,,,,,,,,,,x
 c_girona,greek,,Gerounda,,,,,,,,,,,x
 c_girona,leonese,,Xerona,,,,,,,,,,,x
@@ -2444,7 +2444,7 @@ b_cabrera,aragonese,,Crapera,,,,,,,,,,,x
 b_cabrera,basque,,Ahuntzoa,,,,,,,,,,,x
 b_cabrera,bedouin_arabic,,Qabrira,,,,,,,,,,,x
 b_cabrera,egyptian_arabic,,Qabrira,,,,,,,,,,,x
-b_cabrera,frankish,,ChevriËre,,,,,,,,,,,x
+b_cabrera,frankish,,Chevri√®re,,,,,,,,,,,x
 b_cabrera,galician,,Cabreira,,,,,,,,,,,x
 b_cabrera,levantine_arabic,,Qabrira,,,,,,,,,,,x
 b_cabrera,maghreb_arabic,,Qabrira,,,,,,,,,,,x
@@ -2459,7 +2459,7 @@ b_girona,bedouin_arabic,,Yiruna,,,,,,,,,,,x
 b_girona,castillan,,Gerona,,,,,,,,,,,x
 b_girona,catalan,,Girona,,,,,,,,,,,x
 b_girona,egyptian_arabic,,Yiruna,,,,,,,,,,,x
-b_girona,frankish,,GÈrone,,,,,,,,,,,x
+b_girona,frankish,,G√©rone,,,,,,,,,,,x
 b_girona,galician,,Xirona,,,,,,,,,,,x
 b_girona,greek,,Gerounda,,,,,,,,,,,x
 b_girona,leonese,,Xerona,,,,,,,,,,,x
@@ -2477,7 +2477,7 @@ b_la_bisbal,egyptian_arabic,,Fundynid,,,,,,,,,,,x
 b_la_bisbal,levantine_arabic,,Fundynid,,,,,,,,,,,x
 b_la_bisbal,maghreb_arabic,,Fundynid,,,,,,,,,,,x
 b_la_bisbal,sicilian_arabic,,Fundynid,,,,,,,,,,,x
-b_besalu,b_besalu,,Besal˙,,,,,,,,,,,x
+b_besalu,b_besalu,,Besal√∫,,,,,,,,,,,x
 b_besalu,b_besalu_adj,,,,,,,,,,,,,x
 b_besalu,andalusian_arabic,,Bish al-Udd,,,,,,,,,,,x
 b_besalu,basque,,Besalu,,,,,,,,,,,x
@@ -2493,13 +2493,13 @@ d_catalunya_nova,andalusian_arabic,,Turtusha,,,,,,,,,,,x
 d_catalunya_nova,aragonese,,Catalunya Nova,,,,,,,,,,,x
 d_catalunya_nova,basque,,Katalunia Berria,,,,,,,,,,,x
 d_catalunya_nova,bedouin_arabic,,Turtusha,,,,,,,,,,,x
-d_catalunya_nova,castillan,,CataluÒa Nueva,,,,,,,,,,,x
+d_catalunya_nova,castillan,,Catalu√±a Nueva,,,,,,,,,,,x
 d_catalunya_nova,catalan,,Catalunya Nova,,,,,,,,,,,x
 d_catalunya_nova,egyptian_arabic,,Turtusha,,,,,,,,,,,x
 d_catalunya_nova,frankish,,Nouvelle Catalogne,,,,,,,,,,,x
-d_catalunya_nova,galician,,CataluÒa Nova,,,,,,,,,,,x
+d_catalunya_nova,galician,,Catalu√±a Nova,,,,,,,,,,,x
 d_catalunya_nova,greek,,Tarrakon,,,,,,,,,,,x
-d_catalunya_nova,leonese,,CataluÒa Nueva,,,,,,,,,,,x
+d_catalunya_nova,leonese,,Catalu√±a Nueva,,,,,,,,,,,x
 d_catalunya_nova,levantine_arabic,,Turtusha,,,,,,,,,,,x
 d_catalunya_nova,maghreb_arabic,,Turtusha,,,,,,,,,,,x
 d_catalunya_nova,portuguese,,Catalunha Nova,,,,,,,,,,,x
@@ -2511,11 +2511,11 @@ c_lleida,c_lleida_adj,,Lleidan,,,,,,,,,,,x
 c_lleida,andalusian_arabic,,Larida,,,,,,,,,,,x
 c_lleida,aragonese,,Leida,,,,,,,,,,,x
 c_lleida,bedouin_arabic,,Larida,,,,,,,,,,,x
-c_lleida,castillan,,LÈrida,,,,,,,,,,,x
+c_lleida,castillan,,L√©rida,,,,,,,,,,,x
 c_lleida,egyptian_arabic,,Larida,,,,,,,,,,,x
-c_lleida,frankish,,LÈrida,,,,,,,,,,,x
+c_lleida,frankish,,L√©rida,,,,,,,,,,,x
 c_lleida,greek,,Ilerda,,,,,,,,,,,x
-c_lleida,leonese,,LÈria,,,,,,,,,,,x
+c_lleida,leonese,,L√©ria,,,,,,,,,,,x
 c_lleida,levantine_arabic,,Larida,,,,,,,,,,,x
 c_lleida,maghreb_arabic,,Larida,,,,,,,,,,,x
 c_lleida,roman,,Ilerda,,,,,,,,,,,x
@@ -2525,7 +2525,7 @@ b_aitona,b_aitona_adj,,,,,,,,,,,,,x
 b_aitona,andalusian_arabic,,Zaytuna,,,,,,,,,,,x
 b_aitona,bedouin_arabic,,Zaytuna,,,,,,,,,,,x
 b_aitona,egyptian_arabic,,Zaytuna,,,,,,,,,,,x
-b_aitona,frankish,,AÔtone,,,,,,,,,,,x
+b_aitona,frankish,,A√Øtone,,,,,,,,,,,x
 b_aitona,levantine_arabic,,Zaytuna,,,,,,,,,,,x
 b_aitona,maghreb_arabic,,Zaytuna,,,,,,,,,,,x
 b_aitona,sicilian_arabic,,Zaytuna,,,,,,,,,,,x
@@ -2534,11 +2534,11 @@ b_lleida,b_lleida_adj,,,,,,,,,,,,,x
 b_lleida,andalusian_arabic,,Larida,,,,,,,,,,,x
 b_lleida,aragonese,,Leida,,,,,,,,,,,x
 b_lleida,bedouin_arabic,,Larida,,,,,,,,,,,x
-b_lleida,castillan,,LÈrida,,,,,,,,,,,x
+b_lleida,castillan,,L√©rida,,,,,,,,,,,x
 b_lleida,egyptian_arabic,,Larida,,,,,,,,,,,x
-b_lleida,frankish,,LÈrida,,,,,,,,,,,x
+b_lleida,frankish,,L√©rida,,,,,,,,,,,x
 b_lleida,greek,,Ilerda,,,,,,,,,,,x
-b_lleida,leonese,,LÈria,,,,,,,,,,,x
+b_lleida,leonese,,L√©ria,,,,,,,,,,,x
 b_lleida,levantine_arabic,,Larida,,,,,,,,,,,x
 b_lleida,maghreb_arabic,,Larida,,,,,,,,,,,x
 b_lleida,roman,,Ilerda,,,,,,,,,,,x
@@ -2549,7 +2549,7 @@ b_cervera,andalusian_arabic,,Sirbira,,,,,,,,,,,x
 b_cervera,basque,,Oreinoa,,,,,,,,,,,x
 b_cervera,bedouin_arabic,,Sirbira,,,,,,,,,,,x
 b_cervera,egyptian_arabic,,Sirbira,,,,,,,,,,,x
-b_cervera,frankish,,CervËre,,,,,,,,,,,x
+b_cervera,frankish,,Cerv√®re,,,,,,,,,,,x
 b_cervera,galician,,Cerveira,,,,,,,,,,,x
 b_cervera,leonese,,Cerviera,,,,,,,,,,,x
 b_cervera,levantine_arabic,,Sirbira,,,,,,,,,,,x
@@ -2613,21 +2613,21 @@ b_reus,egyptian_arabic,,Ridis,,,,,,,,,,,x
 b_reus,levantine_arabic,,Ridis,,,,,,,,,,,x
 b_reus,maghreb_arabic,,Ridis,,,,,,,,,,,x
 b_reus,sicilian_arabic,,Ridis,,,,,,,,,,,x
-b_entenca,b_entenca,,EntenÁa,,,,,,,,,,,x
+b_entenca,b_entenca,,Enten√ßa,,,,,,,,,,,x
 b_entenca,b_entenca_adj,,,,,,,,,,,,,x
 b_entenca,andalusian_arabic,,Indinsah,,,,,,,,,,,x
 b_entenca,aragonese,,Entenza,,,,,,,,,,,x
 b_entenca,basque,,Entenza,,,,,,,,,,,x
 b_entenca,bedouin_arabic,,Indinsah,,,,,,,,,,,x
 b_entenca,castillan,,Entenza,,,,,,,,,,,x
-b_entenca,catalan,,EntenÁa,,,,,,,,,,,x
+b_entenca,catalan,,Enten√ßa,,,,,,,,,,,x
 b_entenca,egyptian_arabic,,Indinsah,,,,,,,,,,,x
 b_entenca,frankish,,Entence,,,,,,,,,,,x
 b_entenca,galician,,Entenza,,,,,,,,,,,x
 b_entenca,leonese,,Entienza,,,,,,,,,,,x
 b_entenca,levantine_arabic,,Indinsah,,,,,,,,,,,x
 b_entenca,maghreb_arabic,,Indinsah,,,,,,,,,,,x
-b_entenca,portuguese,,EntenÁa,,,,,,,,,,,x
+b_entenca,portuguese,,Enten√ßa,,,,,,,,,,,x
 b_entenca,sicilian_arabic,,Indinsah,,,,,,,,,,,x
 d_teruel,d_teruel,,Teruel,,,,,,,,,,,x
 d_teruel,d_teruel_adj,,Turolense,,,,,,,,,,,x
@@ -2653,7 +2653,7 @@ b_mora_de_rubielos,basque,,Mora Rubielos,,,,,,,,,,,x
 b_mora_de_rubielos,bedouin_arabic,,Rubbil,,,,,,,,,,,x
 b_mora_de_rubielos,catalan,,Mora de Rubiels,,,,,,,,,,,x
 b_mora_de_rubielos,egyptian_arabic,,Rubbil,,,,,,,,,,,x
-b_mora_de_rubielos,frankish,,More de RubiËles,,,,,,,,,,,x
+b_mora_de_rubielos,frankish,,More de Rubi√®les,,,,,,,,,,,x
 b_mora_de_rubielos,levantine_arabic,,Rubbil,,,,,,,,,,,x
 b_mora_de_rubielos,maghreb_arabic,,Rubbil,,,,,,,,,,,x
 b_mora_de_rubielos,sicilian_arabic,,Rubbil,,,,,,,,,,,x
@@ -2665,18 +2665,18 @@ b_teruel,egyptian_arabic,,Tirwal,,,,,,,,,,,x
 b_teruel,levantine_arabic,,Tirwal,,,,,,,,,,,x
 b_teruel,maghreb_arabic,,Tirwal,,,,,,,,,,,x
 b_teruel,sicilian_arabic,,Tirwal,,,,,,,,,,,x
-b_hijar,b_hijar,,HÌjar,,,,,,,,,,,x
+b_hijar,b_hijar,,H√≠jar,,,,,,,,,,,x
 b_hijar,b_hijar_adj,,,,,,,,,,,,,x
 b_hijar,andalusian_arabic,,Issar,,,,,,,,,,,x
-b_hijar,aragonese,,Õxar,,,,,,,,,,,x
+b_hijar,aragonese,,√çxar,,,,,,,,,,,x
 b_hijar,basque,,Ixar,,,,,,,,,,,x
 b_hijar,bedouin_arabic,,Issar,,,,,,,,,,,x
-b_hijar,catalan,,Õxar,,,,,,,,,,,x
+b_hijar,catalan,,√çxar,,,,,,,,,,,x
 b_hijar,egyptian_arabic,,Issar,,,,,,,,,,,x
-b_hijar,galician,,Õxar,,,,,,,,,,,x
+b_hijar,galician,,√çxar,,,,,,,,,,,x
 b_hijar,levantine_arabic,,Issar,,,,,,,,,,,x
 b_hijar,maghreb_arabic,,Issar,,,,,,,,,,,x
-b_hijar,portuguese,,Õxar,,,,,,,,,,,x
+b_hijar,portuguese,,√çxar,,,,,,,,,,,x
 b_hijar,sicilian_arabic,,Issar,,,,,,,,,,,x
 b_utrillas,b_utrillas,,Utrillas,,,,,,,,,,,x
 b_utrillas,b_utrillas_adj,,,,,,,,,,,,,x
@@ -2692,14 +2692,14 @@ b_utrillas,levantine_arabic,,Urila,,,,,,,,,,,x
 b_utrillas,maghreb_arabic,,Urila,,,,,,,,,,,x
 b_utrillas,portuguese,,Utrielhas,,,,,,,,,,,x
 b_utrillas,sicilian_arabic,,Urila,,,,,,,,,,,x
-c_albarracin,PROV174,,AlbarracÌn,,,,,,,,,,,x
+c_albarracin,PROV174,,Albarrac√≠n,,,,,,,,,,,x
 c_albarracin,c_albarracin,,,,,,,,,,,,,x
 c_albarracin,c_albarracin_adj,,Albarracinian,,,,,,,,,,,x
 c_albarracin,andalusian_arabic,,Aben Razin,,,,,,,,,,,x
-c_albarracin,aragonese,,AlbarrazÌn,,,,,,,,,,,x
+c_albarracin,aragonese,,Albarraz√≠n,,,,,,,,,,,x
 c_albarracin,basque,,Albarratzin,,,,,,,,,,,x
 c_albarracin,bedouin_arabic,,Aben Razin,,,,,,,,,,,x
-c_albarracin,catalan,,AlbarrasÌ,,,,,,,,,,,x
+c_albarracin,catalan,,Albarras√≠,,,,,,,,,,,x
 c_albarracin,egyptian_arabic,,Aben Razin,,,,,,,,,,,x
 c_albarracin,levantine_arabic,,Aben Razin,,,,,,,,,,,x
 c_albarracin,maghreb_arabic,,Aben Razin,,,,,,,,,,,x
@@ -2719,13 +2719,13 @@ b_tramacastilla,levantine_arabic,,Dram al-Qila,,,,,,,,,,,x
 b_tramacastilla,maghreb_arabic,,Dram al-Qila,,,,,,,,,,,x
 b_tramacastilla,portuguese,,Tramacastela,,,,,,,,,,,x
 b_tramacastilla,sicilian_arabic,,Dram al-Qila,,,,,,,,,,,x
-b_albarracin,b_albarracin,,AlbarracÌn,,,,,,,,,,,x
+b_albarracin,b_albarracin,,Albarrac√≠n,,,,,,,,,,,x
 b_albarracin,b_albarracin_adj,,,,,,,,,,,,,x
 b_albarracin,andalusian_arabic,,Aben Razin,,,,,,,,,,,x
-b_albarracin,aragonese,,AlbarrazÌn,,,,,,,,,,,x
+b_albarracin,aragonese,,Albarraz√≠n,,,,,,,,,,,x
 b_albarracin,basque,,Albarratzin,,,,,,,,,,,x
 b_albarracin,bedouin_arabic,,Aben Razin,,,,,,,,,,,x
-b_albarracin,catalan,,AlbarrasÌ,,,,,,,,,,,x
+b_albarracin,catalan,,Albarras√≠,,,,,,,,,,,x
 b_albarracin,egyptian_arabic,,Aben Razin,,,,,,,,,,,x
 b_albarracin,levantine_arabic,,Aben Razin,,,,,,,,,,,x
 b_albarracin,maghreb_arabic,,Aben Razin,,,,,,,,,,,x
@@ -2752,7 +2752,7 @@ b_monreal_del_campo,basque,,Erreamendi Zelaia,,,,,,,,,,,x
 b_monreal_del_campo,bedouin_arabic,,Munral al-Marje,,,,,,,,,,,x
 b_monreal_del_campo,catalan,,Mont Reial del Camp,,,,,,,,,,,x
 b_monreal_del_campo,egyptian_arabic,,Munral al-Marje,,,,,,,,,,,x
-b_monreal_del_campo,frankish,,MontrÈal du Champ,,,,,,,,,,,x
+b_monreal_del_campo,frankish,,Montr√©al du Champ,,,,,,,,,,,x
 b_monreal_del_campo,galician,,Monterreal do Campo,,,,,,,,,,,x
 b_monreal_del_campo,levantine_arabic,,Munral al-Marje,,,,,,,,,,,x
 b_monreal_del_campo,maghreb_arabic,,Munral al-Marje,,,,,,,,,,,x
@@ -2800,12 +2800,12 @@ b_fabara,frankish,,Fabare,,,,,,,,,,,x
 b_fabara,levantine_arabic,,Hawara,,,,,,,,,,,x
 b_fabara,maghreb_arabic,,Hawara,,,,,,,,,,,x
 b_fabara,sicilian_arabic,,Hawara,,,,,,,,,,,x
-b_alcanyiz,b_alcanyiz,,AlcaÒiz,,,,,,,,,,,x
+b_alcanyiz,b_alcanyiz,,Alca√±iz,,,,,,,,,,,x
 b_alcanyiz,b_alcanyiz_adj,,,,,,,,,,,,,x
 b_alcanyiz,andalusian_arabic,,al-Qannis,,,,,,,,,,,x
 b_alcanyiz,aragonese,,Alcanyiz,,,,,,,,,,,x
 b_alcanyiz,bedouin_arabic,,al-Qannis,,,,,,,,,,,x
-b_alcanyiz,catalan,,AlcanyÌs,,,,,,,,,,,x
+b_alcanyiz,catalan,,Alcany√≠s,,,,,,,,,,,x
 b_alcanyiz,egyptian_arabic,,al-Qannis,,,,,,,,,,,x
 b_alcanyiz,frankish,,Alcagniz,,,,,,,,,,,x
 b_alcanyiz,levantine_arabic,,al-Qannis,,,,,,,,,,,x
@@ -2830,7 +2830,7 @@ d_ribatejo,d_ribatejo_adj,,Ribatejana,,,,,,,,,,,x
 d_ribatejo,andalusian_arabic,,Belatha,,,,,,,,,,,x
 d_ribatejo,aragonese,,Ribatacho,,,,,,,,,,,x
 d_ribatejo,egyptian_arabic,,Belatha,,,,,,,,,,,x
-d_ribatejo,frankish,,RiviËre-du-Tage,,,,,,,,,,,x
+d_ribatejo,frankish,,Rivi√®re-du-Tage,,,,,,,,,,,x
 d_ribatejo,galician,,Ribatexo,,,,,,,,,,,x
 d_ribatejo,leonese,,Ribatiexu,,,,,,,,,,,x
 d_ribatejo,levantine_arabic,,Belatha,,,,,,,,,,,x
@@ -2891,15 +2891,15 @@ b_alenquer,sicilian_arabic,,Alen Ker,,,,,,,,,,,x
 b_lourinha,b_lourinha,,Lourinha,,,,,,,,,,,x
 b_lourinha,b_lourinha_adj,,,,,,,,,,,,,x
 b_lourinha,andalusian_arabic,,Lurinnah,,,,,,,,,,,x
-b_lourinha,aragonese,,Loriny·n,,,,,,,,,,,x
-b_lourinha,basque,,LoriÒan,,,,,,,,,,,x
+b_lourinha,aragonese,,Loriny√°n,,,,,,,,,,,x
+b_lourinha,basque,,Lori√±an,,,,,,,,,,,x
 b_lourinha,bedouin_arabic,,Lurinnah,,,,,,,,,,,x
-b_lourinha,castillan,,LoriÒ·n,,,,,,,,,,,x
-b_lourinha,catalan,,Loriny‡,,,,,,,,,,,x
+b_lourinha,castillan,,Lori√±√°n,,,,,,,,,,,x
+b_lourinha,catalan,,Loriny√†,,,,,,,,,,,x
 b_lourinha,egyptian_arabic,,Lurinnah,,,,,,,,,,,x
 b_lourinha,frankish,,Lourignan,,,,,,,,,,,x
-b_lourinha,galician,,LouriÒ·n,,,,,,,,,,,x
-b_lourinha,leonese,,LoriÒ·n,,,,,,,,,,,x
+b_lourinha,galician,,Louri√±√°n,,,,,,,,,,,x
+b_lourinha,leonese,,Lori√±√°n,,,,,,,,,,,x
 b_lourinha,levantine_arabic,,Lurinnah,,,,,,,,,,,x
 b_lourinha,maghreb_arabic,,Lurinnah,,,,,,,,,,,x
 b_lourinha,sicilian_arabic,,Lurinnah,,,,,,,,,,,x
@@ -2913,7 +2913,7 @@ c_castelo_branco,bedouin_arabic,,Abiad al-Qal'at,,,,,,,,,,,x
 c_castelo_branco,castillan,,Castillo Blanco,,,,,,,,,,,x
 c_castelo_branco,catalan,,Castell Blanc,,,,,,,,,,,x
 c_castelo_branco,egyptian_arabic,,Abiad al-Qal'at,,,,,,,,,,,x
-c_castelo_branco,frankish,,Ch‚teaublanc,,,,,,,,,,,x
+c_castelo_branco,frankish,,Ch√¢teaublanc,,,,,,,,,,,x
 c_castelo_branco,galician,,Castrobranco,,,,,,,,,,,x
 c_castelo_branco,leonese,,Castiellu Blancu,,,,,,,,,,,x
 c_castelo_branco,levantine_arabic,,Abiad al-Qal'at,,,,,,,,,,,x
@@ -2928,7 +2928,7 @@ b_castelobranco,bedouin_arabic,,Abiad al-Qal'at,,,,,,,,,,,x
 b_castelobranco,castillan,,Castillo Blanco,,,,,,,,,,,x
 b_castelobranco,catalan,,Castell Blanc,,,,,,,,,,,x
 b_castelobranco,egyptian_arabic,,Abiad al-Qal'at,,,,,,,,,,,x
-b_castelobranco,frankish,,Ch‚teaublanc,,,,,,,,,,,x
+b_castelobranco,frankish,,Ch√¢teaublanc,,,,,,,,,,,x
 b_castelobranco,galician,,Castrobranco,,,,,,,,,,,x
 b_castelobranco,leonese,,Castiellu Blancu,,,,,,,,,,,x
 b_castelobranco,levantine_arabic,,Abiad al-Qal'at,,,,,,,,,,,x
@@ -2937,15 +2937,15 @@ b_castelobranco,sicilian_arabic,,Abiad al-Qal'at,,,,,,,,,,,x
 b_covilha,b_covilha,,Covilha,,,,,,,,,,,x
 b_covilha,b_covilha_adj,,,,,,,,,,,,,x
 b_covilha,andalusian_arabic,,Qubbilat,,,,,,,,,,,x
-b_covilha,aragonese,,Covill·n,,,,,,,,,,,x
+b_covilha,aragonese,,Covill√°n,,,,,,,,,,,x
 b_covilha,basque,,Kobillan,,,,,,,,,,,x
 b_covilha,bedouin_arabic,,Qubbilat,,,,,,,,,,,x
-b_covilha,castillan,,Covill·n,,,,,,,,,,,x
-b_covilha,catalan,,Covill‡,,,,,,,,,,,x
+b_covilha,castillan,,Covill√°n,,,,,,,,,,,x
+b_covilha,catalan,,Covill√†,,,,,,,,,,,x
 b_covilha,egyptian_arabic,,Qubbilat,,,,,,,,,,,x
 b_covilha,frankish,,Covillan,,,,,,,,,,,x
-b_covilha,galician,,Covill·n,,,,,,,,,,,x
-b_covilha,leonese,,Covill·n,,,,,,,,,,,x
+b_covilha,galician,,Covill√°n,,,,,,,,,,,x
+b_covilha,leonese,,Covill√°n,,,,,,,,,,,x
 b_covilha,levantine_arabic,,Qubbilat,,,,,,,,,,,x
 b_covilha,maghreb_arabic,,Qubbilat,,,,,,,,,,,x
 b_covilha,sicilian_arabic,,Qubbilat,,,,,,,,,,,x
@@ -2990,7 +2990,7 @@ b_tomar,egyptian_arabic,,Tummar,,,,,,,,,,,x
 b_tomar,levantine_arabic,,Tummar,,,,,,,,,,,x
 b_tomar,maghreb_arabic,,Tummar,,,,,,,,,,,x
 b_tomar,sicilian_arabic,,Tummar,,,,,,,,,,,x
-b_santarem,b_santarem,,SantarÈm,,,,,,,,,,,x
+b_santarem,b_santarem,,Santar√©m,,,,,,,,,,,x
 b_santarem,b_santarem_adj,,,,,,,,,,,,,x
 b_santarem,andalusian_arabic,,as-Shantariyn,,,,,,,,,,,x
 b_santarem,aragonese,,Santarem,,,,,,,,,,,x
@@ -3005,7 +3005,7 @@ b_santarem,greek,,Skallabis,,,,,,,,,,,x
 b_santarem,leonese,,Santarem,,,,,,,,,,,x
 b_santarem,levantine_arabic,,as-Shantariyn,,,,,,,,,,,x
 b_santarem,maghreb_arabic,,as-Shantariyn,,,,,,,,,,,x
-b_santarem,portuguese,,SantarÈm,,,,,,,,,,,x
+b_santarem,portuguese,,Santar√©m,,,,,,,,,,,x
 b_santarem,roman,,Scallabis,,,,,,,,,,,x
 b_santarem,sicilian_arabic,,as-Shantariyn,,,,,,,,,,,x
 b_abrantes,b_abrantes,,Abrantes,,,,,,,,,,,x
@@ -3016,18 +3016,18 @@ b_abrantes,egyptian_arabic,,Aburan,,,,,,,,,,,x
 b_abrantes,levantine_arabic,,Aburan,,,,,,,,,,,x
 b_abrantes,maghreb_arabic,,Aburan,,,,,,,,,,,x
 b_abrantes,sicilian_arabic,,Aburan,,,,,,,,,,,x
-b_ourem,b_ourem,,OurÈm,,,,,,,,,,,x
+b_ourem,b_ourem,,Our√©m,,,,,,,,,,,x
 b_ourem,b_ourem_adj,,,,,,,,,,,,,x
 b_ourem,andalusian_arabic,,Abdegas,,,,,,,,,,,x
-b_ourem,aragonese,,OrÈn,,,,,,,,,,,x
+b_ourem,aragonese,,Or√©n,,,,,,,,,,,x
 b_ourem,basque,,Oren,,,,,,,,,,,x
 b_ourem,bedouin_arabic,,Abdegas,,,,,,,,,,,x
-b_ourem,castillan,,OrÈn,,,,,,,,,,,x
+b_ourem,castillan,,Or√©n,,,,,,,,,,,x
 b_ourem,catalan,,Orem,,,,,,,,,,,x
 b_ourem,egyptian_arabic,,Abdegas,,,,,,,,,,,x
 b_ourem,frankish,,Ourem,,,,,,,,,,,x
 b_ourem,galician,,Ourem,,,,,,,,,,,x
-b_ourem,leonese,,OrÈn,,,,,,,,,,,x
+b_ourem,leonese,,Or√©n,,,,,,,,,,,x
 b_ourem,levantine_arabic,,Abdegas,,,,,,,,,,,x
 b_ourem,maghreb_arabic,,Abdegas,,,,,,,,,,,x
 b_ourem,sicilian_arabic,,Abdegas,,,,,,,,,,,x
@@ -3037,7 +3037,7 @@ c_leiria,c_leiria_adj,,Leiriense,,,,,,,,,,,x
 c_leiria,andalusian_arabic,,Liriyya,,,,,,,,,,,x
 c_leiria,bedouin_arabic,,Liriyya,,,,,,,,,,,x
 c_leiria,egyptian_arabic,,Liriyya,,,,,,,,,,,x
-c_leiria,frankish,,LÈiry,,,,,,,,,,,x
+c_leiria,frankish,,L√©iry,,,,,,,,,,,x
 c_leiria,leonese,,Lleiria,,,,,,,,,,,x
 c_leiria,levantine_arabic,,Liriyya,,,,,,,,,,,x
 c_leiria,maghreb_arabic,,Liriyya,,,,,,,,,,,x
@@ -3047,7 +3047,7 @@ b_leiria,b_leiria_adj,,,,,,,,,,,,,x
 b_leiria,andalusian_arabic,,Liriyya,,,,,,,,,,,x
 b_leiria,bedouin_arabic,,Liriyya,,,,,,,,,,,x
 b_leiria,egyptian_arabic,,Liriyya,,,,,,,,,,,x
-b_leiria,frankish,,LÈiry,,,,,,,,,,,x
+b_leiria,frankish,,L√©iry,,,,,,,,,,,x
 b_leiria,leonese,,Lleiria,,,,,,,,,,,x
 b_leiria,levantine_arabic,,Liriyya,,,,,,,,,,,x
 b_leiria,maghreb_arabic,,Liriyya,,,,,,,,,,,x
@@ -3067,7 +3067,7 @@ b_batalha,leonese,,Batalla,,,,,,,,,,,x
 b_batalha,levantine_arabic,,Ma'arak,,,,,,,,,,,x
 b_batalha,maghreb_arabic,,Ma'arak,,,,,,,,,,,x
 b_batalha,sicilian_arabic,,Ma'arak,,,,,,,,,,,x
-b_alcobaca,b_alcobaca,,AlcobaÁa,,,,,,,,,,,x
+b_alcobaca,b_alcobaca,,Alcoba√ßa,,,,,,,,,,,x
 b_alcobaca,b_alcobaca_adj,,,,,,,,,,,,,x
 b_alcobaca,andalusian_arabic,,al-Qubasha,,,,,,,,,,,x
 b_alcobaca,aragonese,,Alcobaza,,,,,,,,,,,x
@@ -3081,17 +3081,17 @@ b_alcobaca,leonese,,Alcobaza,,,,,,,,,,,x
 b_alcobaca,levantine_arabic,,al-Qubasha,,,,,,,,,,,x
 b_alcobaca,maghreb_arabic,,al-Qubasha,,,,,,,,,,,x
 b_alcobaca,sicilian_arabic,,al-Qubasha,,,,,,,,,,,x
-b_alvaiazere,b_alvaiazere,,Alvai·zere,,,,,,,,,,,x
+b_alvaiazere,b_alvaiazere,,Alvai√°zere,,,,,,,,,,,x
 b_alvaiazere,b_alvaiazere_adj,,,,,,,,,,,,,x
 b_alvaiazere,andalusian_arabic,,al-Baiaq,,,,,,,,,,,x
-b_alvaiazere,aragonese,,Albai·zer,,,,,,,,,,,x
+b_alvaiazere,aragonese,,Albai√°zer,,,,,,,,,,,x
 b_alvaiazere,basque,,Albaiatzer,,,,,,,,,,,x
 b_alvaiazere,bedouin_arabic,,al-Baiaq,,,,,,,,,,,x
-b_alvaiazere,castillan,,Albay·cer,,,,,,,,,,,x
-b_alvaiazere,catalan,,Albai·ssir,,,,,,,,,,,x
+b_alvaiazere,castillan,,Albay√°cer,,,,,,,,,,,x
+b_alvaiazere,catalan,,Albai√°ssir,,,,,,,,,,,x
 b_alvaiazere,egyptian_arabic,,al-Baiaq,,,,,,,,,,,x
 b_alvaiazere,frankish,,Alvaiacere,,,,,,,,,,,x
-b_alvaiazere,leonese,,Alvay·cere,,,,,,,,,,,x
+b_alvaiazere,leonese,,Alvay√°cere,,,,,,,,,,,x
 b_alvaiazere,levantine_arabic,,al-Baiaq,,,,,,,,,,,x
 b_alvaiazere,maghreb_arabic,,al-Baiaq,,,,,,,,,,,x
 b_alvaiazere,sicilian_arabic,,al-Baiaq,,,,,,,,,,,x
@@ -3110,8 +3110,8 @@ c_coimbra,c_coimbra_adj,,Coimbran,,,,,,,,,,,x
 c_coimbra,andalusian_arabic,,Qulumriyah,,,,,,,,,,,x
 c_coimbra,basque,,Koimbra,,,,,,,,,,,x
 c_coimbra,bedouin_arabic,,Qulumriyah,,,,,,,,,,,x
-c_coimbra,castillan,,CoÌmbra,,,,,,,,,,,x
-c_coimbra,catalan,,CoÔmbra,,,,,,,,,,,x
+c_coimbra,castillan,,Co√≠mbra,,,,,,,,,,,x
+c_coimbra,catalan,,Co√Ømbra,,,,,,,,,,,x
 c_coimbra,egyptian_arabic,,Qulumriyah,,,,,,,,,,,x
 c_coimbra,frankish,,Coimbre,,,,,,,,,,,x
 c_coimbra,greek,,Aeminion,,,,,,,,,,,x
@@ -3124,8 +3124,8 @@ b_coimbra,b_coimbra_adj,,,,,,,,,,,,,x
 b_coimbra,andalusian_arabic,,Qulumriyah,,,,,,,,,,,x
 b_coimbra,basque,,Koimbra,,,,,,,,,,,x
 b_coimbra,bedouin_arabic,,Qulumriyah,,,,,,,,,,,x
-b_coimbra,castillan,,CoÌmbra,,,,,,,,,,,x
-b_coimbra,catalan,,CoÔmbra,,,,,,,,,,,x
+b_coimbra,castillan,,Co√≠mbra,,,,,,,,,,,x
+b_coimbra,catalan,,Co√Ømbra,,,,,,,,,,,x
 b_coimbra,egyptian_arabic,,Qulumriyah,,,,,,,,,,,x
 b_coimbra,frankish,,Coimbre,,,,,,,,,,,x
 b_coimbra,greek,,Aeminion,,,,,,,,,,,x
@@ -3137,14 +3137,14 @@ b_cantanhede,b_cantanhede,,Cantanhede,,,,,,,,,,,x
 b_cantanhede,b_cantanhede_adj,,,,,,,,,,,,,x
 b_cantanhede,andalusian_arabic,,Qantanida,,,,,,,,,,,x
 b_cantanhede,aragonese,,Cantanyede,,,,,,,,,,,x
-b_cantanhede,basque,,KantaÒede,,,,,,,,,,,x
+b_cantanhede,basque,,Kanta√±ede,,,,,,,,,,,x
 b_cantanhede,bedouin_arabic,,Qantanida,,,,,,,,,,,x
-b_cantanhede,castillan,,CantaÒede,,,,,,,,,,,x
+b_cantanhede,castillan,,Canta√±ede,,,,,,,,,,,x
 b_cantanhede,catalan,,Cantanyede,,,,,,,,,,,x
 b_cantanhede,egyptian_arabic,,Qantanida,,,,,,,,,,,x
 b_cantanhede,frankish,,Cantagnede,,,,,,,,,,,x
-b_cantanhede,galician,,CantaÒede,,,,,,,,,,,x
-b_cantanhede,leonese,,CantaÒede,,,,,,,,,,,x
+b_cantanhede,galician,,Canta√±ede,,,,,,,,,,,x
+b_cantanhede,leonese,,Canta√±ede,,,,,,,,,,,x
 b_cantanhede,levantine_arabic,,Qantanida,,,,,,,,,,,x
 b_cantanhede,maghreb_arabic,,Qantanida,,,,,,,,,,,x
 b_cantanhede,sicilian_arabic,,Qantanida,,,,,,,,,,,x
@@ -3152,14 +3152,14 @@ b_penela,b_penela,,Penela,,,,,,,,,,,x
 b_penela,b_penela_adj,,,,,,,,,,,,,x
 b_penela,andalusian_arabic,,Djebelah,,,,,,,,,,,x
 b_penela,aragonese,,Penyela,,,,,,,,,,,x
-b_penela,basque,,PeÒela,,,,,,,,,,,x
+b_penela,basque,,Pe√±ela,,,,,,,,,,,x
 b_penela,bedouin_arabic,,Djebelah,,,,,,,,,,,x
-b_penela,castillan,,PeÒela,,,,,,,,,,,x
+b_penela,castillan,,Pe√±ela,,,,,,,,,,,x
 b_penela,catalan,,Penyela,,,,,,,,,,,x
 b_penela,egyptian_arabic,,Djebelah,,,,,,,,,,,x
 b_penela,frankish,,Rochette,,,,,,,,,,,x
-b_penela,galician,,PeÒela,,,,,,,,,,,x
-b_penela,leonese,,PeÒina,,,,,,,,,,,x
+b_penela,galician,,Pe√±ela,,,,,,,,,,,x
+b_penela,leonese,,Pe√±ina,,,,,,,,,,,x
 b_penela,levantine_arabic,,Djebelah,,,,,,,,,,,x
 b_penela,maghreb_arabic,,Djebelah,,,,,,,,,,,x
 b_penela,sicilian_arabic,,Djebelah,,,,,,,,,,,x
@@ -3281,7 +3281,7 @@ b_manteigas,bedouin_arabic,,Mindeqa,,,,,,,,,,,x
 b_manteigas,castillan,,Mantegas,,,,,,,,,,,x
 b_manteigas,catalan,,Mantegues,,,,,,,,,,,x
 b_manteigas,egyptian_arabic,,Mindeqa,,,,,,,,,,,x
-b_manteigas,frankish,,MantÈgues,,,,,,,,,,,x
+b_manteigas,frankish,,Mant√©gues,,,,,,,,,,,x
 b_manteigas,leonese,,Mantiegues,,,,,,,,,,,x
 b_manteigas,levantine_arabic,,Mindeqa,,,,,,,,,,,x
 b_manteigas,maghreb_arabic,,Mindeqa,,,,,,,,,,,x
@@ -3343,18 +3343,18 @@ b_gondomar,egyptian_arabic,,Gummar,,,,,,,,,,,x
 b_gondomar,levantine_arabic,,Gummar,,,,,,,,,,,x
 b_gondomar,maghreb_arabic,,Gummar,,,,,,,,,,,x
 b_gondomar,sicilian_arabic,,Gummar,,,,,,,,,,,x
-b_povoa_de_varzim,b_povoa_de_varzim,,PÛvoa de Varzim,,,,,,,,,,,x
+b_povoa_de_varzim,b_povoa_de_varzim,,P√≥voa de Varzim,,,,,,,,,,,x
 b_povoa_de_varzim,b_povoa_de_varzim_adj,,,,,,,,,,,,,x
 b_povoa_de_varzim,andalusian_arabic,,Yursim,,,,,,,,,,,x
-b_povoa_de_varzim,aragonese,,Puebla de VarzÌn,,,,,,,,,,,x
+b_povoa_de_varzim,aragonese,,Puebla de Varz√≠n,,,,,,,,,,,x
 b_povoa_de_varzim,basque,,Bartziherri,,,,,,,,,,,x
 b_povoa_de_varzim,bedouin_arabic,,Yursim,,,,,,,,,,,x
-b_povoa_de_varzim,castillan,,Puebla de VarcÌn,,,,,,,,,,,x
-b_povoa_de_varzim,catalan,,Pobla de VarsÌ,,,,,,,,,,,x
+b_povoa_de_varzim,castillan,,Puebla de Varc√≠n,,,,,,,,,,,x
+b_povoa_de_varzim,catalan,,Pobla de Vars√≠,,,,,,,,,,,x
 b_povoa_de_varzim,egyptian_arabic,,Yursim,,,,,,,,,,,x
 b_povoa_de_varzim,frankish,,Peule de Varsin,,,,,,,,,,,x
-b_povoa_de_varzim,galician,,PÛboa de VarcÌn,,,,,,,,,,,x
-b_povoa_de_varzim,leonese,,Pola de VarcÌn,,,,,,,,,,,x
+b_povoa_de_varzim,galician,,P√≥boa de Varc√≠n,,,,,,,,,,,x
+b_povoa_de_varzim,leonese,,Pola de Varc√≠n,,,,,,,,,,,x
 b_povoa_de_varzim,levantine_arabic,,Yursim,,,,,,,,,,,x
 b_povoa_de_varzim,maghreb_arabic,,Yursim,,,,,,,,,,,x
 b_povoa_de_varzim,sicilian_arabic,,Yursim,,,,,,,,,,,x
@@ -3395,12 +3395,12 @@ b_vianadocastelo,bedouin_arabic,,Biyyana al-Qal'at,,,,,,,,,,,x
 b_vianadocastelo,castillan,,Viana del Castillo,,,,,,,,,,,x
 b_vianadocastelo,catalan,,Viana del Castell,,,,,,,,,,,x
 b_vianadocastelo,egyptian_arabic,,Biyyana al-Qal'at,,,,,,,,,,,x
-b_vianadocastelo,frankish,,Vianne-du-Ch‚teau,,,,,,,,,,,x
+b_vianadocastelo,frankish,,Vianne-du-Ch√¢teau,,,,,,,,,,,x
 b_vianadocastelo,leonese,,Viana'l Castiellu,,,,,,,,,,,x
 b_vianadocastelo,levantine_arabic,,Biyyana al-Qal'at,,,,,,,,,,,x
 b_vianadocastelo,maghreb_arabic,,Biyyana al-Qal'at,,,,,,,,,,,x
 b_vianadocastelo,sicilian_arabic,,Biyyana al-Qal'at,,,,,,,,,,,x
-b_guimaraes,b_guimaraes,,Guimar„es,,,,,,,,,,,x
+b_guimaraes,b_guimaraes,,Guimar√£es,,,,,,,,,,,x
 b_guimaraes,b_guimaraes_adj,,,,,,,,,,,,,x
 b_guimaraes,andalusian_arabic,,Bimaraan,,,,,,,,,,,x
 b_guimaraes,aragonese,,Vimarans,,,,,,,,,,,x
@@ -3441,26 +3441,26 @@ b_pontedelima,leonese,,Puente de Limia,,,,,,,,,,,x
 b_pontedelima,levantine_arabic,,al-Qantarat al-Limiyya,,,,,,,,,,,x
 b_pontedelima,maghreb_arabic,,al-Qantarat al-Limiyya,,,,,,,,,,,x
 b_pontedelima,sicilian_arabic,,al-Qantarat al-Limiyya,,,,,,,,,,,x
-c_braganza,PROV188,,BraganÁa,,,,,,,,,,,x
+c_braganza,PROV188,,Bragan√ßa,,,,,,,,,,,x
 c_braganza,c_braganza,,,,,,,,,,,,,x
-c_braganza,c_braganza_adj,,BraganÁan,,,,,,,,,,,x
+c_braganza,c_braganza_adj,,Bragan√ßan,,,,,,,,,,,x
 c_braganza,andalusian_arabic,,Bragansiyya,,,,,,,,,,,x
 c_braganza,basque,,Bragantza,,,,,,,,,,,x
 c_braganza,bedouin_arabic,,Bragansiyya,,,,,,,,,,,x
 c_braganza,castillan,,Braganza,,,,,,,,,,,x
-c_braganza,catalan,,BraganÁa,,,,,,,,,,,x
+c_braganza,catalan,,Bragan√ßa,,,,,,,,,,,x
 c_braganza,egyptian_arabic,,Bragansiyya,,,,,,,,,,,x
 c_braganza,frankish,,Bragance,,,,,,,,,,,x
 c_braganza,leonese,,Bergancia,,,,,,,,,,,x
 c_braganza,levantine_arabic,,Bragansiyya,,,,,,,,,,,x
 c_braganza,maghreb_arabic,,Bragansiyya,,,,,,,,,,,x
 c_braganza,sicilian_arabic,,Bragansiyya,,,,,,,,,,,x
-b_braganza,b_braganza,,BraganÁa,,,,,,,,,,,x
+b_braganza,b_braganza,,Bragan√ßa,,,,,,,,,,,x
 b_braganza,b_braganza_adj,,,,,,,,,,,,,x
 b_braganza,andalusian_arabic,,Bragansiyya,,,,,,,,,,,x
 b_braganza,basque,,Bragantza,,,,,,,,,,,x
 b_braganza,bedouin_arabic,,Bragansiyya,,,,,,,,,,,x
-b_braganza,catalan,,BraganÁa,,,,,,,,,,,x
+b_braganza,catalan,,Bragan√ßa,,,,,,,,,,,x
 b_braganza,egyptian_arabic,,Bragansiyya,,,,,,,,,,,x
 b_braganza,frankish,,Bragance,,,,,,,,,,,x
 b_braganza,leonese,,Bergancia,,,,,,,,,,,x
@@ -3504,7 +3504,7 @@ b_torredemoncorvo,levantine_arabic,,al-Burj al-Djabal al-Ghurab,,,,,,,,,,,x
 b_torredemoncorvo,maghreb_arabic,,al-Burj al-Djabal al-Ghurab,,,,,,,,,,,x
 b_torredemoncorvo,sicilian_arabic,,al-Burj al-Djabal al-Ghurab,,,,,,,,,,,x
 k_andalusia,k_andalusia,,Al-Andalus,,,,,,,,,,,x
-k_andalusia,k_andalusia_adj,,AndalusÌ,,,,,,,,,,,x
+k_andalusia,k_andalusia_adj,,Andalus√≠,,,,,,,,,,,x
 k_andalusia,greek,,Carthaginiensis,,,,,,,,,,,x
 k_andalusia,roman,,Carthaginiensis,,,,,,,,,,,x
 d_beja,d_beja,,Alentejo,,,,,,,,,,,x
@@ -3520,9 +3520,9 @@ d_beja,leonese,,Alentiexu,,,,,,,,,,,x
 d_beja,levantine_arabic,,Taghr al-Adna,,,,,,,,,,,x
 d_beja,maghreb_arabic,,Taghr al-Adna,,,,,,,,,,,x
 d_beja,sicilian_arabic,,Taghr al-Adna,,,,,,,,,,,x
-c_evora,PROV186,,…vora,,,,,,,,,,,x
+c_evora,PROV186,,√âvora,,,,,,,,,,,x
 c_evora,c_evora,,,,,,,,,,,,,x
-c_evora,c_evora_adj,,…voran,,,,,,,,,,,x
+c_evora,c_evora_adj,,√âvoran,,,,,,,,,,,x
 c_evora,andalusian_arabic,,Yabura,,,,,,,,,,,x
 c_evora,basque,,Ebora,,,,,,,,,,,x
 c_evora,bedouin_arabic,,Yabura,,,,,,,,,,,x
@@ -3532,7 +3532,7 @@ c_evora,levantine_arabic,,Yabura,,,,,,,,,,,x
 c_evora,maghreb_arabic,,Yabura,,,,,,,,,,,x
 c_evora,roman,,Ebora,,,,,,,,,,,x
 c_evora,sicilian_arabic,,Yabura,,,,,,,,,,,x
-b_evora,b_evora,,…vora,,,,,,,,,,,x
+b_evora,b_evora,,√âvora,,,,,,,,,,,x
 b_evora,b_evora_adj,,,,,,,,,,,,,x
 b_evora,andalusian_arabic,,Yabura,,,,,,,,,,,x
 b_evora,basque,,Ebora,,,,,,,,,,,x
@@ -3573,38 +3573,38 @@ b_crato,frankish,,Crat,,,,,,,,,,,x
 b_crato,levantine_arabic,,Qrat,,,,,,,,,,,x
 b_crato,maghreb_arabic,,Qrat,,,,,,,,,,,x
 b_crato,sicilian_arabic,,Qrat,,,,,,,,,,,x
-c_alcacer_do_sal,PROV161,,Alc·cer do Sal,,,,,,,,,,,x
+c_alcacer_do_sal,PROV161,,Alc√°cer do Sal,,,,,,,,,,,x
 c_alcacer_do_sal,c_alcacer_do_sal,,,,,,,,,,,,,x
-c_alcacer_do_sal,c_alcacer_do_sal_adj,,Alc·cer do Salian,,,,,,,,,,,x
+c_alcacer_do_sal,c_alcacer_do_sal_adj,,Alc√°cer do Salian,,,,,,,,,,,x
 c_alcacer_do_sal,andalusian_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
 c_alcacer_do_sal,basque,,Gatza Gaztelua,,,,,,,,,,,x
 c_alcacer_do_sal,bedouin_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
-c_alcacer_do_sal,castillan,,Alc·zar de Sal,,,,,,,,,,,x
-c_alcacer_do_sal,catalan,,Alc‡sser de la Sal,,,,,,,,,,,x
+c_alcacer_do_sal,castillan,,Alc√°zar de Sal,,,,,,,,,,,x
+c_alcacer_do_sal,catalan,,Alc√†sser de la Sal,,,,,,,,,,,x
 c_alcacer_do_sal,egyptian_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
-c_alcacer_do_sal,frankish,,Ch‚teau du Sel,,,,,,,,,,,x
+c_alcacer_do_sal,frankish,,Ch√¢teau du Sel,,,,,,,,,,,x
 c_alcacer_do_sal,greek,,Salakeia,,,,,,,,,,,x
 c_alcacer_do_sal,levantine_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
 c_alcacer_do_sal,maghreb_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
 c_alcacer_do_sal,roman,,Salacia Imperatoria,,,,,,,,,,,x
 c_alcacer_do_sal,sicilian_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
-b_alcacerdosal,b_alcacerdosal,,Alc·cer do Sal,,,,,,,,,,,x
+b_alcacerdosal,b_alcacerdosal,,Alc√°cer do Sal,,,,,,,,,,,x
 b_alcacerdosal,b_alcacerdosal_adj,,,,,,,,,,,,,x
 b_alcacerdosal,andalusian_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
-b_alcacerdosal,aragonese,,Alc·zar de Sal,,,,,,,,,,,x
+b_alcacerdosal,aragonese,,Alc√°zar de Sal,,,,,,,,,,,x
 b_alcacerdosal,basque,,Gatza Gaztelua,,,,,,,,,,,x
 b_alcacerdosal,bedouin_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
-b_alcacerdosal,castillan,,Alc·zar de Sal,,,,,,,,,,,x
-b_alcacerdosal,catalan,,Alc‡sser de la Sal,,,,,,,,,,,x
+b_alcacerdosal,castillan,,Alc√°zar de Sal,,,,,,,,,,,x
+b_alcacerdosal,catalan,,Alc√†sser de la Sal,,,,,,,,,,,x
 b_alcacerdosal,egyptian_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
-b_alcacerdosal,frankish,,Ch‚teau du Sel,,,,,,,,,,,x
+b_alcacerdosal,frankish,,Ch√¢teau du Sel,,,,,,,,,,,x
 b_alcacerdosal,greek,,Salakeia,,,,,,,,,,,x
-b_alcacerdosal,leonese,,Alc·zar de Sal,,,,,,,,,,,x
+b_alcacerdosal,leonese,,Alc√°zar de Sal,,,,,,,,,,,x
 b_alcacerdosal,levantine_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
 b_alcacerdosal,maghreb_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
 b_alcacerdosal,roman,,Salacia Imperatoria,,,,,,,,,,,x
 b_alcacerdosal,sicilian_arabic,,al-Qasr-al-Baja,,,,,,,,,,,x
-b_alcacovas,b_alcacovas,,Alc·Áovas,,,,,,,,,,,x
+b_alcacovas,b_alcacovas,,Alc√°√ßovas,,,,,,,,,,,x
 b_alcacovas,b_alcacovas_adj,,,,,,,,,,,,,x
 b_alcacovas,andalusian_arabic,,al-Qasbah,,,,,,,,,,,x
 b_alcacovas,aragonese,,Alcazovas,,,,,,,,,,,x
@@ -3618,22 +3618,22 @@ b_alcacovas,leonese,,Alcazoves,,,,,,,,,,,x
 b_alcacovas,levantine_arabic,,al-Qasbah,,,,,,,,,,,x
 b_alcacovas,maghreb_arabic,,al-Qasbah,,,,,,,,,,,x
 b_alcacovas,sicilian_arabic,,al-Qasbah,,,,,,,,,,,x
-b_grandola,b_grandola,,Gr‚ndola,,,,,,,,,,,x
+b_grandola,b_grandola,,Gr√¢ndola,,,,,,,,,,,x
 b_grandola,b_grandola_adj,,,,,,,,,,,,,x
 b_grandola,andalusian_arabic,,Hrandlah,,,,,,,,,,,x
-b_grandola,aragonese,,Gr·ndola,,,,,,,,,,,x
+b_grandola,aragonese,,Gr√°ndola,,,,,,,,,,,x
 b_grandola,basque,,Grandola,,,,,,,,,,,x
 b_grandola,bedouin_arabic,,Hrandlah,,,,,,,,,,,x
-b_grandola,castillan,,Gr·ndola,,,,,,,,,,,x
-b_grandola,catalan,,Gr·ndola,,,,,,,,,,,x
+b_grandola,castillan,,Gr√°ndola,,,,,,,,,,,x
+b_grandola,catalan,,Gr√°ndola,,,,,,,,,,,x
 b_grandola,egyptian_arabic,,Hrandlah,,,,,,,,,,,x
-b_grandola,frankish,,Gr‚ndole,,,,,,,,,,,x
-b_grandola,galician,,Gr·ndola,,,,,,,,,,,x
-b_grandola,leonese,,Gr·ndola,,,,,,,,,,,x
+b_grandola,frankish,,Gr√¢ndole,,,,,,,,,,,x
+b_grandola,galician,,Gr√°ndola,,,,,,,,,,,x
+b_grandola,leonese,,Gr√°ndola,,,,,,,,,,,x
 b_grandola,levantine_arabic,,Hrandlah,,,,,,,,,,,x
 b_grandola,maghreb_arabic,,Hrandlah,,,,,,,,,,,x
 b_grandola,sicilian_arabic,,Hrandlah,,,,,,,,,,,x
-b_santiagodocacem,b_santiagodocacem,,Santiago do CacÈm,,,,,,,,,,,x
+b_santiagodocacem,b_santiagodocacem,,Santiago do Cac√©m,,,,,,,,,,,x
 b_santiagodocacem,b_santiagodocacem_adj,,,,,,,,,,,,,x
 b_santiagodocacem,andalusian_arabic,,al-Qashim,,,,,,,,,,,x
 b_santiagodocacem,aragonese,,Sant Chaime de Cacem,,,,,,,,,,,x
@@ -3642,7 +3642,7 @@ b_santiagodocacem,bedouin_arabic,,al-Qashim,,,,,,,,,,,x
 b_santiagodocacem,castillan,,Santiago de Cacem,,,,,,,,,,,x
 b_santiagodocacem,catalan,,Sant Jaume de Cacem,,,,,,,,,,,x
 b_santiagodocacem,egyptian_arabic,,al-Qashim,,,,,,,,,,,x
-b_santiagodocacem,frankish,,Saint-Jacques du CacÈm,,,,,,,,,,,x
+b_santiagodocacem,frankish,,Saint-Jacques du Cac√©m,,,,,,,,,,,x
 b_santiagodocacem,greek,,Mirobriga,,,,,,,,,,,x
 b_santiagodocacem,leonese,,Santiagu de Cacem,,,,,,,,,,,x
 b_santiagodocacem,levantine_arabic,,al-Qashim,,,,,,,,,,,x
@@ -3678,17 +3678,17 @@ b_aljustrel,egyptian_arabic,,al-Lustr,,,,,,,,,,,x
 b_aljustrel,levantine_arabic,,al-Lustr,,,,,,,,,,,x
 b_aljustrel,maghreb_arabic,,al-Lustr,,,,,,,,,,,x
 b_aljustrel,sicilian_arabic,,al-Lustr,,,,,,,,,,,x
-b_almodovar,b_almodovar,,AlmodÙvar,,,,,,,,,,,x
+b_almodovar,b_almodovar,,Almod√¥var,,,,,,,,,,,x
 b_almodovar,b_almodovar_adj,,,,,,,,,,,,,x
 b_almodovar,andalusian_arabic,,al-Mudawwar,,,,,,,,,,,x
-b_almodovar,aragonese,,AlmodÛvar,,,,,,,,,,,x
+b_almodovar,aragonese,,Almod√≥var,,,,,,,,,,,x
 b_almodovar,basque,,Almodobar,,,,,,,,,,,x
 b_almodovar,bedouin_arabic,,al-Mudawwar,,,,,,,,,,,x
-b_almodovar,castillan,,AlmodÛvar,,,,,,,,,,,x
-b_almodovar,catalan,,AlmodÚvar,,,,,,,,,,,x
+b_almodovar,castillan,,Almod√≥var,,,,,,,,,,,x
+b_almodovar,catalan,,Almod√≤var,,,,,,,,,,,x
 b_almodovar,egyptian_arabic,,al-Mudawwar,,,,,,,,,,,x
-b_almodovar,galician,,AlmodÛvar,,,,,,,,,,,x
-b_almodovar,leonese,,AlmodÛvar,,,,,,,,,,,x
+b_almodovar,galician,,Almod√≥var,,,,,,,,,,,x
+b_almodovar,leonese,,Almod√≥var,,,,,,,,,,,x
 b_almodovar,levantine_arabic,,al-Mudawwar,,,,,,,,,,,x
 b_almodovar,maghreb_arabic,,al-Mudawwar,,,,,,,,,,,x
 b_almodovar,sicilian_arabic,,al-Mudawwar,,,,,,,,,,,x
@@ -3702,9 +3702,9 @@ b_alvito,frankish,,Alvit,,,,,,,,,,,x
 b_alvito,levantine_arabic,,Albur,,,,,,,,,,,x
 b_alvito,maghreb_arabic,,Albur,,,,,,,,,,,x
 b_alvito,sicilian_arabic,,Albur,,,,,,,,,,,x
-c_mertola,PROV185,,MÈrtola,,,,,,,,,,,x
+c_mertola,PROV185,,M√©rtola,,,,,,,,,,,x
 c_mertola,c_mertola,,,,,,,,,,,,,x
-c_mertola,c_mertola_adj,,MÈrtolan,,,,,,,,,,,x
+c_mertola,c_mertola_adj,,M√©rtolan,,,,,,,,,,,x
 c_mertola,andalusian_arabic,,Martulah,,,,,,,,,,,x
 c_mertola,bedouin_arabic,,Martulah,,,,,,,,,,,x
 c_mertola,egyptian_arabic,,Martulah,,,,,,,,,,,x
@@ -3713,7 +3713,7 @@ c_mertola,levantine_arabic,,Martulah,,,,,,,,,,,x
 c_mertola,maghreb_arabic,,Martulah,,,,,,,,,,,x
 c_mertola,roman,,Myrtilis Iulia,,,,,,,,,,,x
 c_mertola,sicilian_arabic,,Martulah,,,,,,,,,,,x
-b_mertola,b_mertola,,MÈrtola,,,,,,,,,,,x
+b_mertola,b_mertola,,M√©rtola,,,,,,,,,,,x
 b_mertola,b_mertola_adj,,,,,,,,,,,,,x
 b_mertola,andalusian_arabic,,Martulah,,,,,,,,,,,x
 b_mertola,bedouin_arabic,,Martulah,,,,,,,,,,,x
@@ -3745,22 +3745,22 @@ b_monsaraz,egyptian_arabic,,Yabal Sharish,,,,,,,,,,,x
 b_monsaraz,levantine_arabic,,Yabal Sharish,,,,,,,,,,,x
 b_monsaraz,maghreb_arabic,,Yabal Sharish,,,,,,,,,,,x
 b_monsaraz,sicilian_arabic,,Yabal Sharish,,,,,,,,,,,x
-b_mourao,b_mourao,,Mour„o,,,,,,,,,,,x
+b_mourao,b_mourao,,Mour√£o,,,,,,,,,,,x
 b_mourao,b_mourao_adj,,,,,,,,,,,,,x
 b_mourao,andalusian_arabic,,Mura'an,,,,,,,,,,,x
-b_mourao,aragonese,,Mor·n,,,,,,,,,,,x
+b_mourao,aragonese,,Mor√°n,,,,,,,,,,,x
 b_mourao,basque,,Moran,,,,,,,,,,,x
 b_mourao,bedouin_arabic,,Mura'an,,,,,,,,,,,x
-b_mourao,castillan,,Mor·n,,,,,,,,,,,x
-b_mourao,catalan,,Mor‡,,,,,,,,,,,x
+b_mourao,castillan,,Mor√°n,,,,,,,,,,,x
+b_mourao,catalan,,Mor√†,,,,,,,,,,,x
 b_mourao,egyptian_arabic,,Mura'an,,,,,,,,,,,x
 b_mourao,frankish,,Mauran,,,,,,,,,,,x
-b_mourao,galician,,Mour·n,,,,,,,,,,,x
-b_mourao,leonese,,Mor·n,,,,,,,,,,,x
+b_mourao,galician,,Mour√°n,,,,,,,,,,,x
+b_mourao,leonese,,Mor√°n,,,,,,,,,,,x
 b_mourao,levantine_arabic,,Mura'an,,,,,,,,,,,x
 b_mourao,maghreb_arabic,,Mura'an,,,,,,,,,,,x
 b_mourao,sicilian_arabic,,Mura'an,,,,,,,,,,,x
-c_setubal,PROV1200,,Set˙bal,,,,,,,,,,,x
+c_setubal,PROV1200,,Set√∫bal,,,,,,,,,,,x
 c_setubal,c_setubal,,,,,,,,,,,,,x
 c_setubal,c_setubal_adj,,Setubalense,,,,,,,,,,,x
 c_setubal,andalusian_arabic,,Xetubre,,,,,,,,,,,x
@@ -3772,7 +3772,7 @@ c_setubal,levantine_arabic,,Xetubre,,,,,,,,,,,x
 c_setubal,maghreb_arabic,,Xetubre,,,,,,,,,,,x
 c_setubal,roman,,Caetobriga,,,,,,,,,,,x
 c_setubal,sicilian_arabic,,Xetubre,,,,,,,,,,,x
-b_setubal,b_setubal,,Set˙bal,,,,,,,,,,,x
+b_setubal,b_setubal,,Set√∫bal,,,,,,,,,,,x
 b_setubal,b_setubal_adj,,,,,,,,,,,,,x
 b_setubal,andalusian_arabic,,Xetubre,,,,,,,,,,,x
 b_setubal,basque,,Setubal,,,,,,,,,,,x
@@ -3857,31 +3857,31 @@ b_tavira,frankish,,Tavire,,,,,,,,,,,x
 b_tavira,levantine_arabic,,at-Tabira,,,,,,,,,,,x
 b_tavira,maghreb_arabic,,at-Tabira,,,,,,,,,,,x
 b_tavira,sicilian_arabic,,at-Tabira,,,,,,,,,,,x
-b_loule,b_loule,,LoulÈ,,,,,,,,,,,x
+b_loule,b_loule,,Loul√©,,,,,,,,,,,x
 b_loule,b_loule_adj,,,,,,,,,,,,,x
-b_loule,andalusian_arabic,,al-'Uly‚,,,,,,,,,,,x
-b_loule,aragonese,,LolÈ,,,,,,,,,,,x
+b_loule,andalusian_arabic,,al-'Uly√¢,,,,,,,,,,,x
+b_loule,aragonese,,Lol√©,,,,,,,,,,,x
 b_loule,basque,,Lole,,,,,,,,,,,x
-b_loule,bedouin_arabic,,al-'Uly‚,,,,,,,,,,,x
-b_loule,castillan,,LolÈ,,,,,,,,,,,x
-b_loule,catalan,,LolÈ,,,,,,,,,,,x
-b_loule,egyptian_arabic,,al-'Uly‚,,,,,,,,,,,x
-b_loule,leonese,,LolÈ,,,,,,,,,,,x
-b_loule,levantine_arabic,,al-'Uly‚,,,,,,,,,,,x
-b_loule,maghreb_arabic,,al-'Uly‚,,,,,,,,,,,x
-b_loule,sicilian_arabic,,al-'Uly‚,,,,,,,,,,,x
+b_loule,bedouin_arabic,,al-'Uly√¢,,,,,,,,,,,x
+b_loule,castillan,,Lol√©,,,,,,,,,,,x
+b_loule,catalan,,Lol√©,,,,,,,,,,,x
+b_loule,egyptian_arabic,,al-'Uly√¢,,,,,,,,,,,x
+b_loule,leonese,,Lol√©,,,,,,,,,,,x
+b_loule,levantine_arabic,,al-'Uly√¢,,,,,,,,,,,x
+b_loule,maghreb_arabic,,al-'Uly√¢,,,,,,,,,,,x
+b_loule,sicilian_arabic,,al-'Uly√¢,,,,,,,,,,,x
 b_castromarim,b_castromarim,,Castro Marim,,,,,,,,,,,x
 b_castromarim,b_castromarim_adj,,,,,,,,,,,,,x
 b_castromarim,andalusian_arabic,,al-Qasruh,,,,,,,,,,,x
-b_castromarim,aragonese,,Castro MarÌn,,,,,,,,,,,x
+b_castromarim,aragonese,,Castro Mar√≠n,,,,,,,,,,,x
 b_castromarim,basque,,Kastro Marim,,,,,,,,,,,x
 b_castromarim,bedouin_arabic,,al-Qasruh,,,,,,,,,,,x
-b_castromarim,castillan,,Castro MarÌn,,,,,,,,,,,x
-b_castromarim,catalan,,Castro MarÌ,,,,,,,,,,,x
+b_castromarim,castillan,,Castro Mar√≠n,,,,,,,,,,,x
+b_castromarim,catalan,,Castro Mar√≠,,,,,,,,,,,x
 b_castromarim,egyptian_arabic,,al-Qasruh,,,,,,,,,,,x
-b_castromarim,frankish,,Marim-le-Ch‚teaux,,,,,,,,,,,x
-b_castromarim,galician,,Castro MarÌn,,,,,,,,,,,x
-b_castromarim,leonese,,Castro MarÌn,,,,,,,,,,,x
+b_castromarim,frankish,,Marim-le-Ch√¢teaux,,,,,,,,,,,x
+b_castromarim,galician,,Castro Mar√≠n,,,,,,,,,,,x
+b_castromarim,leonese,,Castro Mar√≠n,,,,,,,,,,,x
 b_castromarim,levantine_arabic,,al-Qasruh,,,,,,,,,,,x
 b_castromarim,maghreb_arabic,,al-Qasruh,,,,,,,,,,,x
 b_castromarim,sicilian_arabic,,al-Qasruh,,,,,,,,,,,x
@@ -3938,7 +3938,7 @@ b_castroverde,levantine_arabic,,Ajdar al-Qal'at,,,,,,,,,,,x
 b_castroverde,maghreb_arabic,,Ajdar al-Qal'at,,,,,,,,,,,x
 b_castroverde,sicilian_arabic,,Ajdar al-Qal'at,,,,,,,,,,,x
 d_badajoz,d_badajoz,,Extremadura,,,,,,,,,,,x
-d_badajoz,d_badajoz_adj,,ExtremeÒa,,,,,,,,,,,x
+d_badajoz,d_badajoz_adj,,Extreme√±a,,,,,,,,,,,x
 d_badajoz,andalusian_arabic,,Balad al-Iawz,,,,,,,,,,,x
 d_badajoz,bedouin_arabic,,Balad al-Iawz,,,,,,,,,,,x
 d_badajoz,egyptian_arabic,,Balad al-Iawz,,,,,,,,,,,x
@@ -3954,10 +3954,10 @@ c_plasencia,c_plasencia_adj,,Plasencian,,,,,,,,,,,x
 c_plasencia,andalusian_arabic,,Blasinsiyya,,,,,,,,,,,x
 c_plasencia,basque,,Plasentzia,,,,,,,,,,,x
 c_plasencia,bedouin_arabic,,Blasinsiyya,,,,,,,,,,,x
-c_plasencia,catalan,,PlasËncia,,,,,,,,,,,x
+c_plasencia,catalan,,Plas√®ncia,,,,,,,,,,,x
 c_plasencia,egyptian_arabic,,Blasinsiyya,,,,,,,,,,,x
 c_plasencia,frankish,,Plasence,,,,,,,,,,,x
-c_plasencia,leonese,,PrasÈncia,,,,,,,,,,,x
+c_plasencia,leonese,,Pras√©ncia,,,,,,,,,,,x
 c_plasencia,levantine_arabic,,Blasinsiyya,,,,,,,,,,,x
 c_plasencia,maghreb_arabic,,Blasinsiyya,,,,,,,,,,,x
 c_plasencia,sicilian_arabic,,Blasinsiyya,,,,,,,,,,,x
@@ -3966,22 +3966,22 @@ b_plasencia,b_plasencia_adj,,,,,,,,,,,,,x
 b_plasencia,andalusian_arabic,,Blasinsiyya,,,,,,,,,,,x
 b_plasencia,basque,,Plasentzia,,,,,,,,,,,x
 b_plasencia,bedouin_arabic,,Blasinsiyya,,,,,,,,,,,x
-b_plasencia,catalan,,PlasËncia,,,,,,,,,,,x
+b_plasencia,catalan,,Plas√®ncia,,,,,,,,,,,x
 b_plasencia,egyptian_arabic,,Blasinsiyya,,,,,,,,,,,x
 b_plasencia,frankish,,Plasence,,,,,,,,,,,x
-b_plasencia,leonese,,PrasÈncia,,,,,,,,,,,x
+b_plasencia,leonese,,Pras√©ncia,,,,,,,,,,,x
 b_plasencia,levantine_arabic,,Blasinsiyya,,,,,,,,,,,x
 b_plasencia,maghreb_arabic,,Blasinsiyya,,,,,,,,,,,x
 b_plasencia,sicilian_arabic,,Blasinsiyya,,,,,,,,,,,x
 b_jaraizdelavera,b_jaraizdelavera,,Jaraiz de la Vera,,,,,,,,,,,x
 b_jaraizdelavera,b_jaraizdelavera_adj,,,,,,,,,,,,,x
 b_jaraizdelavera,andalusian_arabic,,Hara'ith,,,,,,,,,,,x
-b_jaraizdelavera,aragonese,,JaraÌz d'a Vera,,,,,,,,,,,x
+b_jaraizdelavera,aragonese,,Jara√≠z d'a Vera,,,,,,,,,,,x
 b_jaraizdelavera,basque,,Xaraitz Bera,,,,,,,,,,,x
 b_jaraizdelavera,bedouin_arabic,,Hara'ith,,,,,,,,,,,x
-b_jaraizdelavera,catalan,,XaraÔz de la Vera,,,,,,,,,,,x
+b_jaraizdelavera,catalan,,Xara√Øz de la Vera,,,,,,,,,,,x
 b_jaraizdelavera,egyptian_arabic,,Hara'ith,,,,,,,,,,,x
-b_jaraizdelavera,frankish,,JaraÔz de la VËre,,,,,,,,,,,x
+b_jaraizdelavera,frankish,,Jara√Øz de la V√®re,,,,,,,,,,,x
 b_jaraizdelavera,galician,,Xaraiz da Vera,,,,,,,,,,,x
 b_jaraizdelavera,leonese,,Xaraiz de la Vera,,,,,,,,,,,x
 b_jaraizdelavera,levantine_arabic,,Hara'ith,,,,,,,,,,,x
@@ -4021,53 +4021,53 @@ c_alcantara,c_alcantara_adj,,Alcantaran,,,,,,,,,,,x
 c_alcantara,andalusian_arabic,,al-Qantara,,,,,,,,,,,x
 c_alcantara,basque,,Alkantara,,,,,,,,,,,x
 c_alcantara,bedouin_arabic,,al-Qantara,,,,,,,,,,,x
-c_alcantara,catalan,,Alc‡ntara,,,,,,,,,,,x
+c_alcantara,catalan,,Alc√†ntara,,,,,,,,,,,x
 c_alcantara,egyptian_arabic,,al-Qantara,,,,,,,,,,,x
 c_alcantara,levantine_arabic,,al-Qantara,,,,,,,,,,,x
 c_alcantara,maghreb_arabic,,al-Qantara,,,,,,,,,,,x
-c_alcantara,portuguese,,Alc‚ntara,,,,,,,,,,,x
+c_alcantara,portuguese,,Alc√¢ntara,,,,,,,,,,,x
 c_alcantara,sicilian_arabic,,al-Qantara,,,,,,,,,,,x
 b_coria,b_coria,,Coria,,,,,,,,,,,x
 b_coria,b_coria_adj,,,,,,,,,,,,,x
-b_coria,andalusian_arabic,,Q¸riya,,,,,,,,,,,x
+b_coria,andalusian_arabic,,Q√ºriya,,,,,,,,,,,x
 b_coria,basque,,Koria,,,,,,,,,,,x
-b_coria,bedouin_arabic,,Q¸riya,,,,,,,,,,,x
-b_coria,egyptian_arabic,,Q¸riya,,,,,,,,,,,x
-b_coria,levantine_arabic,,Q¸riya,,,,,,,,,,,x
-b_coria,maghreb_arabic,,Q¸riya,,,,,,,,,,,x
-b_coria,sicilian_arabic,,Q¸riya,,,,,,,,,,,x
-b_caceres,b_caceres,,C·ceres,,,,,,,,,,,x
+b_coria,bedouin_arabic,,Q√ºriya,,,,,,,,,,,x
+b_coria,egyptian_arabic,,Q√ºriya,,,,,,,,,,,x
+b_coria,levantine_arabic,,Q√ºriya,,,,,,,,,,,x
+b_coria,maghreb_arabic,,Q√ºriya,,,,,,,,,,,x
+b_coria,sicilian_arabic,,Q√ºriya,,,,,,,,,,,x
+b_caceres,b_caceres,,C√°ceres,,,,,,,,,,,x
 b_caceres,b_caceres_adj,,,,,,,,,,,,,x
 b_caceres,andalusian_arabic,,Qazires,,,,,,,,,,,x
 b_caceres,basque,,Katzeres,,,,,,,,,,,x
 b_caceres,bedouin_arabic,,Qazires,,,,,,,,,,,x
-b_caceres,catalan,,C‡ceres,,,,,,,,,,,x
+b_caceres,catalan,,C√†ceres,,,,,,,,,,,x
 b_caceres,egyptian_arabic,,Qazires,,,,,,,,,,,x
 b_caceres,levantine_arabic,,Qazires,,,,,,,,,,,x
 b_caceres,maghreb_arabic,,Qazires,,,,,,,,,,,x
 b_caceres,sicilian_arabic,,Qazires,,,,,,,,,,,x
-b_alcantara,b_alcantara,,Alc·ntara,,,,,,,,,,,x
+b_alcantara,b_alcantara,,Alc√°ntara,,,,,,,,,,,x
 b_alcantara,b_alcantara_adj,,,,,,,,,,,,,x
 b_alcantara,andalusian_arabic,,al-Qantara,,,,,,,,,,,x
 b_alcantara,basque,,Alkantara,,,,,,,,,,,x
 b_alcantara,bedouin_arabic,,al-Qantara,,,,,,,,,,,x
-b_alcantara,catalan,,Alc‡ntara,,,,,,,,,,,x
+b_alcantara,catalan,,Alc√†ntara,,,,,,,,,,,x
 b_alcantara,egyptian_arabic,,al-Qantara,,,,,,,,,,,x
 b_alcantara,levantine_arabic,,al-Qantara,,,,,,,,,,,x
 b_alcantara,maghreb_arabic,,al-Qantara,,,,,,,,,,,x
-b_alcantara,portuguese,,Alc‚ntara,,,,,,,,,,,x
+b_alcantara,portuguese,,Alc√¢ntara,,,,,,,,,,,x
 b_alcantara,sicilian_arabic,,al-Qantara,,,,,,,,,,,x
-b_valenciadealcantara,b_valenciadealcantara,,Valencia de Alc·ntara,,,,,,,,,,,x
+b_valenciadealcantara,b_valenciadealcantara,,Valencia de Alc√°ntara,,,,,,,,,,,x
 b_valenciadealcantara,b_valenciadealcantara_adj,,,,,,,,,,,,,x
 b_valenciadealcantara,andalusian_arabic,,Balansiyya al-Qantara,,,,,,,,,,,x
 b_valenciadealcantara,basque,,Balentzia Alkantara,,,,,,,,,,,x
 b_valenciadealcantara,bedouin_arabic,,Balansiyya al-Qantara,,,,,,,,,,,x
-b_valenciadealcantara,catalan,,ValËncia d'Alc‡ntara,,,,,,,,,,,x
+b_valenciadealcantara,catalan,,Val√®ncia d'Alc√†ntara,,,,,,,,,,,x
 b_valenciadealcantara,egyptian_arabic,,Balansiyya al-Qantara,,,,,,,,,,,x
 b_valenciadealcantara,frankish,,Valence d'Alcantara,,,,,,,,,,,x
 b_valenciadealcantara,levantine_arabic,,Balansiyya al-Qantara,,,,,,,,,,,x
 b_valenciadealcantara,maghreb_arabic,,Balansiyya al-Qantara,,,,,,,,,,,x
-b_valenciadealcantara,portuguese,,ValÍncia de Alc‚ntara,,,,,,,,,,,x
+b_valenciadealcantara,portuguese,,Val√™ncia de Alc√¢ntara,,,,,,,,,,,x
 b_valenciadealcantara,sicilian_arabic,,Balansiyya al-Qantara,,,,,,,,,,,x
 c_badajoz,PROV184,,Badajoz,,,,,,,,,,,x
 c_badajoz,c_badajoz,,,,,,,,,,,,,x
@@ -4100,7 +4100,7 @@ b_jerezdeloscaballeros,basque,,Xerez Jaunak,,,,,,,,,,,x
 b_jerezdeloscaballeros,bedouin_arabic,,Xerixa,,,,,,,,,,,x
 b_jerezdeloscaballeros,catalan,,Xerez dels Cavallers,,,,,,,,,,,x
 b_jerezdeloscaballeros,egyptian_arabic,,Xerixa,,,,,,,,,,,x
-b_jerezdeloscaballeros,frankish,,XÈrËs des Chevaliers,,,,,,,,,,,x
+b_jerezdeloscaballeros,frankish,,X√©r√®s des Chevaliers,,,,,,,,,,,x
 b_jerezdeloscaballeros,galician,,Xerez dos Cabaleiros,,,,,,,,,,,x
 b_jerezdeloscaballeros,leonese,,Xerez de los Caballeros,,,,,,,,,,,x
 b_jerezdeloscaballeros,levantine_arabic,,Xerixa,,,,,,,,,,,x
@@ -4113,14 +4113,14 @@ b_olivenza,andalusian_arabic,,az-Zaytuna,,,,,,,,,,,x
 b_olivenza,aragonese,,Olivenza,,,,,,,,,,,x
 b_olivenza,basque,,Olibentza,,,,,,,,,,,x
 b_olivenza,bedouin_arabic,,az-Zaytuna,,,,,,,,,,,x
-b_olivenza,catalan,,OlivenÁa,,,,,,,,,,,x
+b_olivenza,catalan,,Oliven√ßa,,,,,,,,,,,x
 b_olivenza,egyptian_arabic,,az-Zaytuna,,,,,,,,,,,x
 b_olivenza,frankish,,Olivence,,,,,,,,,,,x
 b_olivenza,galician,,Olivenza,,,,,,,,,,,x
 b_olivenza,leonese,,Olivenza,,,,,,,,,,,x
 b_olivenza,levantine_arabic,,az-Zaytuna,,,,,,,,,,,x
 b_olivenza,maghreb_arabic,,az-Zaytuna,,,,,,,,,,,x
-b_olivenza,portuguese,,OlivenÁa,,,,,,,,,,,x
+b_olivenza,portuguese,,Oliven√ßa,,,,,,,,,,,x
 b_olivenza,sicilian_arabic,,az-Zaytuna,,,,,,,,,,,x
 b_zafra,b_zafra,,Zafra,,,,,,,,,,,x
 b_zafra,b_zafra_adj,,,,,,,,,,,,,x
@@ -4140,7 +4140,7 @@ b_alburquerque,egyptian_arabic,,Abu-al-Qurq,,,,,,,,,,,x
 b_alburquerque,levantine_arabic,,Abu-al-Qurq,,,,,,,,,,,x
 b_alburquerque,maghreb_arabic,,Abu-al-Qurq,,,,,,,,,,,x
 b_alburquerque,sicilian_arabic,,Abu-al-Qurq,,,,,,,,,,,x
-c_aracena,PROV183,,MÈrida,,,,,,,,,,,x
+c_aracena,PROV183,,M√©rida,,,,,,,,,,,x
 c_aracena,c_aracena,,,,,,,,,,,,,x
 c_aracena,c_aracena_adj,,Aracenan,,,,,,,,,,,x
 c_aracena,andalusian_arabic,,Marida,,,,,,,,,,,x
@@ -4152,7 +4152,7 @@ c_aracena,levantine_arabic,,Marida,,,,,,,,,,,x
 c_aracena,maghreb_arabic,,Marida,,,,,,,,,,,x
 c_aracena,roman,,Emerita Augusta,,,,,,,,,,,x
 c_aracena,sicilian_arabic,,Marida,,,,,,,,,,,x
-b_merida,b_merida,,MÈrida,,,,,,,,,,,x
+b_merida,b_merida,,M√©rida,,,,,,,,,,,x
 b_merida,b_merida_adj,,,,,,,,,,,,,x
 b_merida,andalusian_arabic,,Marida,,,,,,,,,,,x
 b_merida,basque,,Merida,,,,,,,,,,,x
@@ -4169,7 +4169,7 @@ b_llerena,andalusian_arabic,,Ellerina,,,,,,,,,,,x
 b_llerena,basque,,Ierena,,,,,,,,,,,x
 b_llerena,bedouin_arabic,,Ellerina,,,,,,,,,,,x
 b_llerena,egyptian_arabic,,Ellerina,,,,,,,,,,,x
-b_llerena,frankish,,LlÈrÈne,,,,,,,,,,,x
+b_llerena,frankish,,Ll√©r√©ne,,,,,,,,,,,x
 b_llerena,levantine_arabic,,Ellerina,,,,,,,,,,,x
 b_llerena,maghreb_arabic,,Ellerina,,,,,,,,,,,x
 b_llerena,portuguese,,Lherena,,,,,,,,,,,x
@@ -4183,12 +4183,12 @@ b_azuaga,frankish,,Azuague,,,,,,,,,,,x
 b_azuaga,levantine_arabic,,al-Zugawa,,,,,,,,,,,x
 b_azuaga,maghreb_arabic,,al-Zugawa,,,,,,,,,,,x
 b_azuaga,sicilian_arabic,,al-Zugawa,,,,,,,,,,,x
-b_medellin,b_medellin,,MedellÌn,,,,,,,,,,,x
+b_medellin,b_medellin,,Medell√≠n,,,,,,,,,,,x
 b_medellin,b_medellin_adj,,,,,,,,,,,,,x
 b_medellin,andalusian_arabic,,Med'lim,,,,,,,,,,,x
 b_medellin,basque,,Medellin,,,,,,,,,,,x
 b_medellin,bedouin_arabic,,Med'lim,,,,,,,,,,,x
-b_medellin,catalan,,MedellÌ,,,,,,,,,,,x
+b_medellin,catalan,,Medell√≠,,,,,,,,,,,x
 b_medellin,egyptian_arabic,,Med'lim,,,,,,,,,,,x
 b_medellin,frankish,,Medellin,,,,,,,,,,,x
 b_medellin,levantine_arabic,,Med'lim,,,,,,,,,,,x
@@ -4200,7 +4200,7 @@ d_toledo,d_toledo_adj,,Toledana,,,,,,,,,,,x
 d_toledo,andalusian_arabic,,Tulaytulah,,,,,,,,,,,x
 d_toledo,bedouin_arabic,,Tulaytulah,,,,,,,,,,,x
 d_toledo,egyptian_arabic,,Tulaytulah,,,,,,,,,,,x
-d_toledo,frankish,,TolËde,,,,,,,,,,,x
+d_toledo,frankish,,Tol√®de,,,,,,,,,,,x
 d_toledo,greek,,Toleton,,,,,,,,,,,x
 d_toledo,levantine_arabic,,Tulaytulah,,,,,,,,,,,x
 d_toledo,maghreb_arabic,,Tulaytulah,,,,,,,,,,,x
@@ -4235,11 +4235,11 @@ b_oropesa,andalusian_arabic,,Urpisha,,,,,,,,,,,x
 b_oropesa,bedouin_arabic,,Urpisha,,,,,,,,,,,x
 b_oropesa,catalan,,Orpesa,,,,,,,,,,,x
 b_oropesa,egyptian_arabic,,Urpisha,,,,,,,,,,,x
-b_oropesa,frankish,,OropËsse,,,,,,,,,,,x
+b_oropesa,frankish,,Orop√®sse,,,,,,,,,,,x
 b_oropesa,levantine_arabic,,Urpisha,,,,,,,,,,,x
 b_oropesa,maghreb_arabic,,Urpisha,,,,,,,,,,,x
 b_oropesa,sicilian_arabic,,Urpisha,,,,,,,,,,,x
-b_alia,b_alia,,AlÌa,,,,,,,,,,,x
+b_alia,b_alia,,Al√≠a,,,,,,,,,,,x
 b_alia,b_alia_adj,,,,,,,,,,,,,x
 b_alia,andalusian_arabic,,Aliyya,,,,,,,,,,,x
 b_alia,basque,,Alia,,,,,,,,,,,x
@@ -4255,7 +4255,7 @@ c_toledo,c_toledo_adj,,Toledan,,,,,,,,,,,x
 c_toledo,andalusian_arabic,,Tulaytulah,,,,,,,,,,,x
 c_toledo,bedouin_arabic,,Tulaytulah,,,,,,,,,,,x
 c_toledo,egyptian_arabic,,Tulaytulah,,,,,,,,,,,x
-c_toledo,frankish,,TolËde,,,,,,,,,,,x
+c_toledo,frankish,,Tol√®de,,,,,,,,,,,x
 c_toledo,greek,,Toleton,,,,,,,,,,,x
 c_toledo,levantine_arabic,,Tulaytulah,,,,,,,,,,,x
 c_toledo,maghreb_arabic,,Tulaytulah,,,,,,,,,,,x
@@ -4266,7 +4266,7 @@ b_toledo,b_toledo_adj,,,,,,,,,,,,,x
 b_toledo,andalusian_arabic,,Tulaytulah,,,,,,,,,,,x
 b_toledo,bedouin_arabic,,Tulaytulah,,,,,,,,,,,x
 b_toledo,egyptian_arabic,,Tulaytulah,,,,,,,,,,,x
-b_toledo,frankish,,TolËde,,,,,,,,,,,x
+b_toledo,frankish,,Tol√®de,,,,,,,,,,,x
 b_toledo,greek,,Toleton,,,,,,,,,,,x
 b_toledo,levantine_arabic,,Tulaytulah,,,,,,,,,,,x
 b_toledo,maghreb_arabic,,Tulaytulah,,,,,,,,,,,x
@@ -4308,7 +4308,7 @@ b_consuegra,andalusian_arabic,,Qunsabira,,,,,,,,,,,x
 b_consuegra,basque,,Konsuegra,,,,,,,,,,,x
 b_consuegra,bedouin_arabic,,Qunsabira,,,,,,,,,,,x
 b_consuegra,egyptian_arabic,,Qunsabira,,,,,,,,,,,x
-b_consuegra,frankish,,ConsuËgre,,,,,,,,,,,x
+b_consuegra,frankish,,Consu√®gre,,,,,,,,,,,x
 b_consuegra,levantine_arabic,,Qunsabira,,,,,,,,,,,x
 b_consuegra,maghreb_arabic,,Qunsabira,,,,,,,,,,,x
 b_consuegra,sicilian_arabic,,Qunsabira,,,,,,,,,,,x
@@ -4365,7 +4365,7 @@ b_quintanardelrey,portuguese,,Quintanar do Rei,,,,,,,,,,,x
 b_quintanardelrey,sicilian_arabic,,al-Qinarah,,,,,,,,,,,x
 c_guadalajara,PROV1201,,Guadalajara,,,,,,,,,,,x
 c_guadalajara,c_guadalajara,,,,,,,,,,,,,x
-c_guadalajara,c_guadalajara_adj,,GuadalajareÒa,,,,,,,,,,,x
+c_guadalajara,c_guadalajara_adj,,Guadalajare√±a,,,,,,,,,,,x
 c_guadalajara,andalusian_arabic,,Wad al-Hiyara,,,,,,,,,,,x
 c_guadalajara,aragonese,,Guadalachara,,,,,,,,,,,x
 c_guadalajara,basque,,Guadalaiara,,,,,,,,,,,x
@@ -4402,12 +4402,12 @@ b_madrid,egyptian_arabic,,al-Magrit,,,,,,,,,,,x
 b_madrid,levantine_arabic,,al-Magrit,,,,,,,,,,,x
 b_madrid,maghreb_arabic,,al-Magrit,,,,,,,,,,,x
 b_madrid,sicilian_arabic,,al-Magrit,,,,,,,,,,,x
-b_alcala,b_alcala,,Alcal·,,,,,,,,,,,x
+b_alcala,b_alcala,,Alcal√°,,,,,,,,,,,x
 b_alcala,b_alcala_adj,,,,,,,,,,,,,x
 b_alcala,andalusian_arabic,,al-Qal'at abd al-Salam,,,,,,,,,,,x
 b_alcala,basque,,Alkala,,,,,,,,,,,x
 b_alcala,bedouin_arabic,,al-Qal'at abd al-Salam,,,,,,,,,,,x
-b_alcala,catalan,,Alcal‡,,,,,,,,,,,x
+b_alcala,catalan,,Alcal√†,,,,,,,,,,,x
 b_alcala,egyptian_arabic,,al-Qal'at abd al-Salam,,,,,,,,,,,x
 b_alcala,levantine_arabic,,al-Qal'at abd al-Salam,,,,,,,,,,,x
 b_alcala,maghreb_arabic,,al-Qal'at abd al-Salam,,,,,,,,,,,x
@@ -4417,11 +4417,11 @@ b_manzanares,b_manzanares_adj,,,,,,,,,,,,,x
 b_manzanares,andalusian_arabic,,Wadi-ar-Raml,,,,,,,,,,,x
 b_manzanares,basque,,Mantzanares,,,,,,,,,,,x
 b_manzanares,bedouin_arabic,,Wadi-ar-Raml,,,,,,,,,,,x
-b_manzanares,catalan,,ManÁanares,,,,,,,,,,,x
+b_manzanares,catalan,,Man√ßanares,,,,,,,,,,,x
 b_manzanares,egyptian_arabic,,Wadi-ar-Raml,,,,,,,,,,,x
 b_manzanares,levantine_arabic,,Wadi-ar-Raml,,,,,,,,,,,x
 b_manzanares,maghreb_arabic,,Wadi-ar-Raml,,,,,,,,,,,x
-b_manzanares,portuguese,,ManÁanares,,,,,,,,,,,x
+b_manzanares,portuguese,,Man√ßanares,,,,,,,,,,,x
 b_manzanares,sicilian_arabic,,Wadi-ar-Raml,,,,,,,,,,,x
 c_molina,PROV176,,Molina,,,,,,,,,,,x
 c_molina,c_molina,,,,,,,,,,,,,x
@@ -4441,27 +4441,27 @@ b_molina,egyptian_arabic,,Mulina,,,,,,,,,,,x
 b_molina,levantine_arabic,,Mulina,,,,,,,,,,,x
 b_molina,maghreb_arabic,,Mulina,,,,,,,,,,,x
 b_molina,sicilian_arabic,,Mulina,,,,,,,,,,,x
-b_siguenza,b_siguenza,,Sig¸enza,,,,,,,,,,,x
+b_siguenza,b_siguenza,,Sig√ºenza,,,,,,,,,,,x
 b_siguenza,b_siguenza_adj,,,,,,,,,,,,,x
 b_siguenza,andalusian_arabic,,Sigguntiyya,,,,,,,,,,,x
 b_siguenza,bedouin_arabic,,Sigguntiyya,,,,,,,,,,,x
-b_siguenza,catalan,,Sig¸enÁa,,,,,,,,,,,x
+b_siguenza,catalan,,Sig√ºen√ßa,,,,,,,,,,,x
 b_siguenza,egyptian_arabic,,Sigguntiyya,,,,,,,,,,,x
 b_siguenza,frankish,,Sigouence,,,,,,,,,,,x
 b_siguenza,levantine_arabic,,Sigguntiyya,,,,,,,,,,,x
 b_siguenza,maghreb_arabic,,Sigguntiyya,,,,,,,,,,,x
-b_siguenza,portuguese,,Sig¸enÁa,,,,,,,,,,,x
+b_siguenza,portuguese,,Sig√ºen√ßa,,,,,,,,,,,x
 b_siguenza,sicilian_arabic,,Sigguntiyya,,,,,,,,,,,x
 b_atienza,b_atienza,,Aitenza,,,,,,,,,,,x
 b_atienza,b_atienza_adj,,,,,,,,,,,,,x
 b_atienza,andalusian_arabic,,at-Tyntha,,,,,,,,,,,x
 b_atienza,bedouin_arabic,,at-Tyntha,,,,,,,,,,,x
-b_atienza,catalan,,AtienÁa,,,,,,,,,,,x
+b_atienza,catalan,,Atien√ßa,,,,,,,,,,,x
 b_atienza,egyptian_arabic,,at-Tyntha,,,,,,,,,,,x
 b_atienza,frankish,,Atience,,,,,,,,,,,x
 b_atienza,levantine_arabic,,at-Tyntha,,,,,,,,,,,x
 b_atienza,maghreb_arabic,,at-Tyntha,,,,,,,,,,,x
-b_atienza,portuguese,,AtienÁa,,,,,,,,,,,x
+b_atienza,portuguese,,Atien√ßa,,,,,,,,,,,x
 b_atienza,sicilian_arabic,,at-Tyntha,,,,,,,,,,,x
 d_sevilla,d_sevilla,,Sevilla,,,,,,,,,,,x
 d_sevilla,d_sevilla_adj,,Sevillana,,,,,,,,,,,x
@@ -4469,7 +4469,7 @@ d_sevilla,andalusian_arabic,,Isbiliya,,,,,,,,,,,x
 d_sevilla,basque,,Sebilla,,,,,,,,,,,x
 d_sevilla,bedouin_arabic,,Isbiliya,,,,,,,,,,,x
 d_sevilla,egyptian_arabic,,Isbiliya,,,,,,,,,,,x
-d_sevilla,frankish,,SÈville,,,,,,,,,,,x
+d_sevilla,frankish,,S√©ville,,,,,,,,,,,x
 d_sevilla,greek,,Ispalis,,,,,,,,,,,x
 d_sevilla,levantine_arabic,,Isbiliya,,,,,,,,,,,x
 d_sevilla,maghreb_arabic,,Isbiliya,,,,,,,,,,,x
@@ -4484,7 +4484,7 @@ c_algeciras,aragonese,,Alchezira,,,,,,,,,,,x
 c_algeciras,bedouin_arabic,,al-Yazira al-Jadra,,,,,,,,,,,x
 c_algeciras,catalan,,Algesires,,,,,,,,,,,x
 c_algeciras,egyptian_arabic,,al-Yazira al-Jadra,,,,,,,,,,,x
-c_algeciras,frankish,,AlgÈsiras,,,,,,,,,,,x
+c_algeciras,frankish,,Alg√©siras,,,,,,,,,,,x
 c_algeciras,greek,,Gadeira,,,,,,,,,,,x
 c_algeciras,leonese,,Algecires,,,,,,,,,,,x
 c_algeciras,levantine_arabic,,al-Yazira al-Jadra,,,,,,,,,,,x
@@ -4518,7 +4518,7 @@ b_algeciras,aragonese,,Alchezira,,,,,,,,,,,x
 b_algeciras,bedouin_arabic,,al-Yazira al-Jadra,,,,,,,,,,,x
 b_algeciras,catalan,,Algesires,,,,,,,,,,,x
 b_algeciras,egyptian_arabic,,al-Yazira al-Jadra,,,,,,,,,,,x
-b_algeciras,frankish,,AlgÈsiras,,,,,,,,,,,x
+b_algeciras,frankish,,Alg√©siras,,,,,,,,,,,x
 b_algeciras,greek,,Ioulia Transdoukta,,,,,,,,,,,x
 b_algeciras,leonese,,Algecires,,,,,,,,,,,x
 b_algeciras,levantine_arabic,,al-Yazira al-Jadra,,,,,,,,,,,x
@@ -4534,7 +4534,7 @@ b_ronda,frankish,,Ronde,,,,,,,,,,,x
 b_ronda,levantine_arabic,,Izn-Rand Onda,,,,,,,,,,,x
 b_ronda,maghreb_arabic,,Izn-Rand Onda,,,,,,,,,,,x
 b_ronda,sicilian_arabic,,Izn-Rand Onda,,,,,,,,,,,x
-b_cadiz,b_cadiz,,C·diz,,,,,,,,,,,x
+b_cadiz,b_cadiz,,C√°diz,,,,,,,,,,,x
 b_cadiz,b_cadiz_adj,,,,,,,,,,,,,x
 b_cadiz,andalusian_arabic,,Qadis,,,,,,,,,,,x
 b_cadiz,basque,,Kadiz,,,,,,,,,,,x
@@ -4545,7 +4545,7 @@ b_cadiz,frankish,,Cadix,,,,,,,,,,,x
 b_cadiz,greek,,Gadeira,,,,,,,,,,,x
 b_cadiz,levantine_arabic,,Qadis,,,,,,,,,,,x
 b_cadiz,maghreb_arabic,,Qadis,,,,,,,,,,,x
-b_cadiz,portuguese,,C·dis,,,,,,,,,,,x
+b_cadiz,portuguese,,C√°dis,,,,,,,,,,,x
 b_cadiz,roman,,Gades,,,,,,,,,,,x
 b_cadiz,sicilian_arabic,,Qadis,,,,,,,,,,,x
 c_cadiz,PROV165,,Carmona,,,,,,,,,,,x
@@ -4569,14 +4569,14 @@ b_carmona,frankish,,Carmonne,,,,,,,,,,,x
 b_carmona,levantine_arabic,,Qarmuna,,,,,,,,,,,x
 b_carmona,maghreb_arabic,,Qarmuna,,,,,,,,,,,x
 b_carmona,sicilian_arabic,,Qarmuna,,,,,,,,,,,x
-b_ecija,b_ecija,,…cija,,,,,,,,,,,x
+b_ecija,b_ecija,,√âcija,,,,,,,,,,,x
 b_ecija,b_ecija_adj,,,,,,,,,,,,,x
 b_ecija,andalusian_arabic,,Istichcha,,,,,,,,,,,x
 b_ecija,basque,,Ezija,,,,,,,,,,,x
 b_ecija,bedouin_arabic,,Istichcha,,,,,,,,,,,x
-b_ecija,catalan,,»cixa,,,,,,,,,,,x
+b_ecija,catalan,,√àcixa,,,,,,,,,,,x
 b_ecija,egyptian_arabic,,Istichcha,,,,,,,,,,,x
-b_ecija,galician,,…cixa,,,,,,,,,,,x
+b_ecija,galician,,√âcixa,,,,,,,,,,,x
 b_ecija,levantine_arabic,,Istichcha,,,,,,,,,,,x
 b_ecija,maghreb_arabic,,Istichcha,,,,,,,,,,,x
 b_ecija,sicilian_arabic,,Istichcha,,,,,,,,,,,x
@@ -4589,17 +4589,17 @@ b_osuna,frankish,,Osunne,,,,,,,,,,,x
 b_osuna,levantine_arabic,,Oxona,,,,,,,,,,,x
 b_osuna,maghreb_arabic,,Oxona,,,,,,,,,,,x
 b_osuna,sicilian_arabic,,Oxona,,,,,,,,,,,x
-b_lora_del_rio,b_lora_del_rio,,Lora del RÌo,,,,,,,,,,,x
+b_lora_del_rio,b_lora_del_rio,,Lora del R√≠o,,,,,,,,,,,x
 b_lora_del_rio,b_lora_del_rio_adj,,,,,,,,,,,,,x
 b_lora_del_rio,andalusian_arabic,,Lawra,,,,,,,,,,,x
-b_lora_del_rio,aragonese,,Lora d'o RÌo,,,,,,,,,,,x
+b_lora_del_rio,aragonese,,Lora d'o R√≠o,,,,,,,,,,,x
 b_lora_del_rio,basque,,Ibaiko Lora,,,,,,,,,,,x
 b_lora_del_rio,bedouin_arabic,,Lawra,,,,,,,,,,,x
 b_lora_del_rio,catalan,,Lora del Riu,,,,,,,,,,,x
 b_lora_del_rio,egyptian_arabic,,Lawra,,,,,,,,,,,x
 b_lora_del_rio,frankish,,Lore-du-Fleuve,,,,,,,,,,,x
-b_lora_del_rio,galician,,Loura do RÌo,,,,,,,,,,,x
-b_lora_del_rio,leonese,,Lora'l RÌu,,,,,,,,,,,x
+b_lora_del_rio,galician,,Loura do R√≠o,,,,,,,,,,,x
+b_lora_del_rio,leonese,,Lora'l R√≠u,,,,,,,,,,,x
 b_lora_del_rio,levantine_arabic,,Lawra,,,,,,,,,,,x
 b_lora_del_rio,maghreb_arabic,,Lawra,,,,,,,,,,,x
 b_lora_del_rio,portuguese,,Loura do Rio,,,,,,,,,,,x
@@ -4633,7 +4633,7 @@ b_huelva,basque,,Huelba,,,,,,,,,,,x
 b_huelva,bedouin_arabic,,Welba,,,,,,,,,,,x
 b_huelva,egyptian_arabic,,Welba,,,,,,,,,,,x
 b_huelva,greek,,Onoba Aistouaria,,,,,,,,,,,x
-b_huelva,leonese,,G¸elva,,,,,,,,,,,x
+b_huelva,leonese,,G√ºelva,,,,,,,,,,,x
 b_huelva,levantine_arabic,,Welba,,,,,,,,,,,x
 b_huelva,maghreb_arabic,,Welba,,,,,,,,,,,x
 b_huelva,roman,,Onoba Aestuaria,,,,,,,,,,,x
@@ -4661,7 +4661,7 @@ c_sevilla,andalusian_arabic,,Isbiliya,,,,,,,,,,,x
 c_sevilla,basque,,Sebilla,,,,,,,,,,,x
 c_sevilla,bedouin_arabic,,Isbiliya,,,,,,,,,,,x
 c_sevilla,egyptian_arabic,,Isbiliya,,,,,,,,,,,x
-c_sevilla,frankish,,SÈville,,,,,,,,,,,x
+c_sevilla,frankish,,S√©ville,,,,,,,,,,,x
 c_sevilla,greek,,Ispalis,,,,,,,,,,,x
 c_sevilla,levantine_arabic,,Isbiliya,,,,,,,,,,,x
 c_sevilla,maghreb_arabic,,Isbiliya,,,,,,,,,,,x
@@ -4674,7 +4674,7 @@ b_sevilla,andalusian_arabic,,Isbiliya,,,,,,,,,,,x
 b_sevilla,basque,,Sebilla,,,,,,,,,,,x
 b_sevilla,bedouin_arabic,,Isbiliya,,,,,,,,,,,x
 b_sevilla,egyptian_arabic,,Isbiliya,,,,,,,,,,,x
-b_sevilla,frankish,,SÈville,,,,,,,,,,,x
+b_sevilla,frankish,,S√©ville,,,,,,,,,,,x
 b_sevilla,greek,,Ispalis,,,,,,,,,,,x
 b_sevilla,levantine_arabic,,Isbiliya,,,,,,,,,,,x
 b_sevilla,maghreb_arabic,,Isbiliya,,,,,,,,,,,x
@@ -4684,16 +4684,16 @@ b_sevilla,sicilian_arabic,,Isbiliya,,,,,,,,,,,x
 b_sanlucarlamayor,b_sanlucarlamayor,,Sanlucar la Mayor,,,,,,,,,,,x
 b_sanlucarlamayor,b_sanlucarlamayor_adj,,,,,,,,,,,,,x
 b_sanlucarlamayor,andalusian_arabic,,Shaluqa,,,,,,,,,,,x
-b_sanlucarlamayor,aragonese,,Sanl˙car a Mayor,,,,,,,,,,,x
+b_sanlucarlamayor,aragonese,,Sanl√∫car a Mayor,,,,,,,,,,,x
 b_sanlucarlamayor,basque,,Sanlukar Handiagoa,,,,,,,,,,,x
 b_sanlucarlamayor,bedouin_arabic,,Shaluqa,,,,,,,,,,,x
-b_sanlucarlamayor,catalan,,Sanl˙car la Major,,,,,,,,,,,x
+b_sanlucarlamayor,catalan,,Sanl√∫car la Major,,,,,,,,,,,x
 b_sanlucarlamayor,egyptian_arabic,,Shaluqa,,,,,,,,,,,x
 b_sanlucarlamayor,frankish,,Sainluque Lagrande,,,,,,,,,,,x
-b_sanlucarlamayor,galician,,Sanl˙car a Maior,,,,,,,,,,,x
+b_sanlucarlamayor,galician,,Sanl√∫car a Maior,,,,,,,,,,,x
 b_sanlucarlamayor,levantine_arabic,,Shaluqa,,,,,,,,,,,x
 b_sanlucarlamayor,maghreb_arabic,,Shaluqa,,,,,,,,,,,x
-b_sanlucarlamayor,portuguese,,Sal˙car a Maior,,,,,,,,,,,x
+b_sanlucarlamayor,portuguese,,Sal√∫car a Maior,,,,,,,,,,,x
 b_sanlucarlamayor,sicilian_arabic,,Shaluqa,,,,,,,,,,,x
 b_doshermanas,b_doshermanas,,Dos Hermanas,,,,,,,,,,,x
 b_doshermanas,b_doshermanas_adj,,,,,,,,,,,,,x
@@ -4704,29 +4704,29 @@ b_doshermanas,bedouin_arabic,,al-Mudain,,,,,,,,,,,x
 b_doshermanas,catalan,,Dos Germanes,,,,,,,,,,,x
 b_doshermanas,egyptian_arabic,,al-Mudain,,,,,,,,,,,x
 b_doshermanas,frankish,,Deux Soeurs,,,,,,,,,,,x
-b_doshermanas,galician,,Dous Irm·s,,,,,,,,,,,x
+b_doshermanas,galician,,Dous Irm√°s,,,,,,,,,,,x
 b_doshermanas,leonese,,Dos Hermanes,,,,,,,,,,,x
 b_doshermanas,levantine_arabic,,al-Mudain,,,,,,,,,,,x
 b_doshermanas,maghreb_arabic,,al-Mudain,,,,,,,,,,,x
-b_doshermanas,portuguese,,Dois Irm„s,,,,,,,,,,,x
+b_doshermanas,portuguese,,Dois Irm√£s,,,,,,,,,,,x
 b_doshermanas,sicilian_arabic,,al-Mudain,,,,,,,,,,,x
-b_alcaladeguadaira,b_alcaladeguadaira,,Alcal· de Guadaira,,,,,,,,,,,x
+b_alcaladeguadaira,b_alcaladeguadaira,,Alcal√° de Guadaira,,,,,,,,,,,x
 b_alcaladeguadaira,b_alcaladeguadaira_adj,,,,,,,,,,,,,x
-b_alcaladeguadaira,andalusian_arabic,,Qal'at Y‚bir,,,,,,,,,,,x
+b_alcaladeguadaira,andalusian_arabic,,Qal'at Y√¢bir,,,,,,,,,,,x
 b_alcaladeguadaira,basque,,Alkala Guadaira,,,,,,,,,,,x
-b_alcaladeguadaira,bedouin_arabic,,Qal'at Y‚bir,,,,,,,,,,,x
-b_alcaladeguadaira,catalan,,Alcal‡ de GuadaÔra,,,,,,,,,,,x
-b_alcaladeguadaira,egyptian_arabic,,Qal'at Y‚bir,,,,,,,,,,,x
-b_alcaladeguadaira,frankish,,Alcala de GuadaÔre,,,,,,,,,,,x
-b_alcaladeguadaira,levantine_arabic,,Qal'at Y‚bir,,,,,,,,,,,x
-b_alcaladeguadaira,maghreb_arabic,,Qal'at Y‚bir,,,,,,,,,,,x
-b_alcaladeguadaira,sicilian_arabic,,Qal'at Y‚bir,,,,,,,,,,,x
+b_alcaladeguadaira,bedouin_arabic,,Qal'at Y√¢bir,,,,,,,,,,,x
+b_alcaladeguadaira,catalan,,Alcal√† de Guada√Øra,,,,,,,,,,,x
+b_alcaladeguadaira,egyptian_arabic,,Qal'at Y√¢bir,,,,,,,,,,,x
+b_alcaladeguadaira,frankish,,Alcala de Guada√Øre,,,,,,,,,,,x
+b_alcaladeguadaira,levantine_arabic,,Qal'at Y√¢bir,,,,,,,,,,,x
+b_alcaladeguadaira,maghreb_arabic,,Qal'at Y√¢bir,,,,,,,,,,,x
+b_alcaladeguadaira,sicilian_arabic,,Qal'at Y√¢bir,,,,,,,,,,,x
 b_utrera,b_utrera,,Utrera,,,,,,,,,,,x
 b_utrera,b_utrera_adj,,,,,,,,,,,,,x
 b_utrera,andalusian_arabic,,Utiriyya,,,,,,,,,,,x
 b_utrera,bedouin_arabic,,Utiriyya,,,,,,,,,,,x
 b_utrera,egyptian_arabic,,Utiriyya,,,,,,,,,,,x
-b_utrera,frankish,,UtrËre,,,,,,,,,,,x
+b_utrera,frankish,,Utr√®re,,,,,,,,,,,x
 b_utrera,galician,,Utreira,,,,,,,,,,,x
 b_utrera,levantine_arabic,,Utiriyya,,,,,,,,,,,x
 b_utrera,maghreb_arabic,,Utiriyya,,,,,,,,,,,x
@@ -4738,7 +4738,7 @@ b_laalgaba,andalusian_arabic,,al-Gaba,,,,,,,,,,,x
 b_laalgaba,aragonese,,L'Algaba,,,,,,,,,,,x
 b_laalgaba,basque,,Algaba,,,,,,,,,,,x
 b_laalgaba,bedouin_arabic,,al-Gaba,,,,,,,,,,,x
-b_laalgaba,catalan,,L'Alg‡ba,,,,,,,,,,,x
+b_laalgaba,catalan,,L'Alg√†ba,,,,,,,,,,,x
 b_laalgaba,egyptian_arabic,,al-Gaba,,,,,,,,,,,x
 b_laalgaba,frankish,,L'Algabe,,,,,,,,,,,x
 b_laalgaba,galician,,A Algaba,,,,,,,,,,,x
@@ -4766,18 +4766,18 @@ c_almeria,andalusian_arabic,,al-Mariyyat,,,,,,,,,,,x
 c_almeria,basque,,Almeria,,,,,,,,,,,x
 c_almeria,bedouin_arabic,,al-Mariyyat,,,,,,,,,,,x
 c_almeria,egyptian_arabic,,al-Mariyyat,,,,,,,,,,,x
-c_almeria,frankish,,AlmÈrie,,,,,,,,,,,x
+c_almeria,frankish,,Alm√©rie,,,,,,,,,,,x
 c_almeria,levantine_arabic,,al-Mariyyat,,,,,,,,,,,x
 c_almeria,maghreb_arabic,,al-Mariyyat,,,,,,,,,,,x
 c_almeria,sanhaja,,al-Mariyyat,,,,,,,,,,,x
 c_almeria,sicilian_arabic,,al-Mariyyat,,,,,,,,,,,x
-b_almeria,b_almeria,,AlmerÌa,,,,,,,,,,,x
+b_almeria,b_almeria,,Almer√≠a,,,,,,,,,,,x
 b_almeria,b_almeria_adj,,,,,,,,,,,,,x
 b_almeria,andalusian_arabic,,al-Mariyyat,,,,,,,,,,,x
 b_almeria,basque,,Almeria,,,,,,,,,,,x
 b_almeria,bedouin_arabic,,al-Mariyyat,,,,,,,,,,,x
 b_almeria,egyptian_arabic,,al-Mariyyat,,,,,,,,,,,x
-b_almeria,frankish,,AlmÈrie,,,,,,,,,,,x
+b_almeria,frankish,,Alm√©rie,,,,,,,,,,,x
 b_almeria,levantine_arabic,,al-Mariyyat,,,,,,,,,,,x
 b_almeria,maghreb_arabic,,al-Mariyyat,,,,,,,,,,,x
 b_almeria,sanhaja,,al-Mariyyat,,,,,,,,,,,x
@@ -4797,8 +4797,8 @@ b_pechina,andalusian_arabic,,Bayyana,,,,,,,,,,,x
 b_pechina,basque,,Petxina,,,,,,,,,,,x
 b_pechina,bedouin_arabic,,Bayyana,,,,,,,,,,,x
 b_pechina,egyptian_arabic,,Bayyana,,,,,,,,,,,x
-b_pechina,frankish,,PÈchine,,,,,,,,,,,x
-b_pechina,galician,,PexiÒa,,,,,,,,,,,x
+b_pechina,frankish,,P√©chine,,,,,,,,,,,x
+b_pechina,galician,,Pexi√±a,,,,,,,,,,,x
 b_pechina,levantine_arabic,,Bayyana,,,,,,,,,,,x
 b_pechina,maghreb_arabic,,Bayyana,,,,,,,,,,,x
 b_pechina,portuguese,,Pechinha,,,,,,,,,,,x
@@ -4882,25 +4882,25 @@ b_guadix,maghreb_arabic,,Wadi Ash,,,,,,,,,,,x
 b_guadix,roman,,Acci,,,,,,,,,,,x
 b_guadix,sanhaja,,Wadi Ash,,,,,,,,,,,x
 b_guadix,sicilian_arabic,,Wadi Ash,,,,,,,,,,,x
-b_almunyecar,b_almunyecar,,AlmuÒÈcar,,,,,,,,,,,x
+b_almunyecar,b_almunyecar,,Almu√±√©car,,,,,,,,,,,x
 b_almunyecar,b_almunyecar_adj,,,,,,,,,,,,,x
 b_almunyecar,andalusian_arabic,,Hisn al-Monaqar,,,,,,,,,,,x
-b_almunyecar,aragonese,,AlmunyÈcar,,,,,,,,,,,x
-b_almunyecar,basque,,AlmuÒekar,,,,,,,,,,,x
+b_almunyecar,aragonese,,Almuny√©car,,,,,,,,,,,x
+b_almunyecar,basque,,Almu√±ekar,,,,,,,,,,,x
 b_almunyecar,bedouin_arabic,,Hisn al-Monaqar,,,,,,,,,,,x
-b_almunyecar,catalan,,AlmunyÈcar,,,,,,,,,,,x
+b_almunyecar,catalan,,Almuny√©car,,,,,,,,,,,x
 b_almunyecar,egyptian_arabic,,Hisn al-Monaqar,,,,,,,,,,,x
-b_almunyecar,frankish,,AlmugnÈcar,,,,,,,,,,,x
+b_almunyecar,frankish,,Almugn√©car,,,,,,,,,,,x
 b_almunyecar,levantine_arabic,,Hisn al-Monaqar,,,,,,,,,,,x
 b_almunyecar,maghreb_arabic,,Hisn al-Monaqar,,,,,,,,,,,x
-b_almunyecar,portuguese,,AlmunhÈcar,,,,,,,,,,,x
+b_almunyecar,portuguese,,Almunh√©car,,,,,,,,,,,x
 b_almunyecar,sanhaja,,Hisn al-Monaqar,,,,,,,,,,,x
 b_almunyecar,sicilian_arabic,,Hisn al-Monaqar,,,,,,,,,,,x
 b_loja,b_loja,,Loja,,,,,,,,,,,x
 b_loja,b_loja_adj,,,,,,,,,,,,,x
 b_loja,andalusian_arabic,,Madina Lauxa,,,,,,,,,,,x
 b_loja,bedouin_arabic,,Madina Lauxa,,,,,,,,,,,x
-b_loja,catalan,,LÚxa,,,,,,,,,,,x
+b_loja,catalan,,L√≤xa,,,,,,,,,,,x
 b_loja,egyptian_arabic,,Madina Lauxa,,,,,,,,,,,x
 b_loja,frankish,,Loxe,,,,,,,,,,,x
 b_loja,galician,,Loxa,,,,,,,,,,,x
@@ -4911,11 +4911,11 @@ b_loja,sanhaja,,Madina Lauxa,,,,,,,,,,,x
 b_loja,sicilian_arabic,,Madina Lauxa,,,,,,,,,,,x
 c_malaga,PROV167,,Malaga,,,,,,,,,,,x
 c_malaga,c_malaga,,,,,,,,,,,,,x
-c_malaga,c_malaga_adj,,M·lagan,,,,,,,,,,,x
+c_malaga,c_malaga_adj,,M√°lagan,,,,,,,,,,,x
 c_malaga,andalusian_arabic,,Malaqa,,,,,,,,,,,x
 c_malaga,basque,,Malaga,,,,,,,,,,,x
 c_malaga,bedouin_arabic,,Malaqa,,,,,,,,,,,x
-c_malaga,catalan,,M‡laga,,,,,,,,,,,x
+c_malaga,catalan,,M√†laga,,,,,,,,,,,x
 c_malaga,egyptian_arabic,,Malaqa,,,,,,,,,,,x
 c_malaga,greek,,Malaka,,,,,,,,,,,x
 c_malaga,levantine_arabic,,Malaqa,,,,,,,,,,,x
@@ -4923,12 +4923,12 @@ c_malaga,maghreb_arabic,,Malaqa,,,,,,,,,,,x
 c_malaga,roman,,Malaca,,,,,,,,,,,x
 c_malaga,sanhaja,,Malaqa,,,,,,,,,,,x
 c_malaga,sicilian_arabic,,Malaqa,,,,,,,,,,,x
-b_malaga,b_malaga,,M·laga,,,,,,,,,,,x
+b_malaga,b_malaga,,M√°laga,,,,,,,,,,,x
 b_malaga,b_malaga_adj,,,,,,,,,,,,,x
 b_malaga,andalusian_arabic,,Malaqa,,,,,,,,,,,x
 b_malaga,basque,,Malaga,,,,,,,,,,,x
 b_malaga,bedouin_arabic,,Malaqa,,,,,,,,,,,x
-b_malaga,catalan,,M‡laga,,,,,,,,,,,x
+b_malaga,catalan,,M√†laga,,,,,,,,,,,x
 b_malaga,egyptian_arabic,,Malaqa,,,,,,,,,,,x
 b_malaga,greek,,Malaka,,,,,,,,,,,x
 b_malaga,levantine_arabic,,Malaqa,,,,,,,,,,,x
@@ -4950,12 +4950,12 @@ b_antequera,portuguese,,Antequeira,,,,,,,,,,,x
 b_antequera,roman,,Anticaria,,,,,,,,,,,x
 b_antequera,sanhaja,,Madina Antakira,,,,,,,,,,,x
 b_antequera,sicilian_arabic,,Madina Antakira,,,,,,,,,,,x
-b_benalmadena,b_benalmadena,,Benalm·dena,,,,,,,,,,,x
+b_benalmadena,b_benalmadena,,Benalm√°dena,,,,,,,,,,,x
 b_benalmadena,b_benalmadena_adj,,,,,,,,,,,,,x
 b_benalmadena,andalusian_arabic,,Ibn al-Ma'din,,,,,,,,,,,x
 b_benalmadena,basque,,Benalmadena,,,,,,,,,,,x
 b_benalmadena,bedouin_arabic,,Ibn al-Ma'din,,,,,,,,,,,x
-b_benalmadena,catalan,,Benalm‡dena,,,,,,,,,,,x
+b_benalmadena,catalan,,Benalm√†dena,,,,,,,,,,,x
 b_benalmadena,egyptian_arabic,,Ibn al-Ma'din,,,,,,,,,,,x
 b_benalmadena,levantine_arabic,,Ibn al-Ma'din,,,,,,,,,,,x
 b_benalmadena,maghreb_arabic,,Ibn al-Ma'din,,,,,,,,,,,x
@@ -4971,31 +4971,31 @@ b_marbella,maghreb_arabic,,Marbil'la,,,,,,,,,,,x
 b_marbella,portuguese,,Marbelha,,,,,,,,,,,x
 b_marbella,sanhaja,,Marbil'la,,,,,,,,,,,x
 b_marbella,sicilian_arabic,,Marbil'la,,,,,,,,,,,x
-b_velezmalaga,b_velezmalaga,,VÈlez M·laga,,,,,,,,,,,x
+b_velezmalaga,b_velezmalaga,,V√©lez M√°laga,,,,,,,,,,,x
 b_velezmalaga,b_velezmalaga_adj,,,,,,,,,,,,,x
 b_velezmalaga,andalusian_arabic,,Ballix-Maliqa,,,,,,,,,,,x
 b_velezmalaga,basque,,Belez-Malaga,,,,,,,,,,,x
 b_velezmalaga,bedouin_arabic,,Ballix-Maliqa,,,,,,,,,,,x
-b_velezmalaga,catalan,,VÈlez-M‡laga,,,,,,,,,,,x
+b_velezmalaga,catalan,,V√©lez-M√†laga,,,,,,,,,,,x
 b_velezmalaga,egyptian_arabic,,Ballix-Maliqa,,,,,,,,,,,x
 b_velezmalaga,levantine_arabic,,Ballix-Maliqa,,,,,,,,,,,x
 b_velezmalaga,maghreb_arabic,,Ballix-Maliqa,,,,,,,,,,,x
 b_velezmalaga,sanhaja,,Ballix-Maliqa,,,,,,,,,,,x
 b_velezmalaga,sicilian_arabic,,Ballix-Maliqa,,,,,,,,,,,x
-d_cordoba,d_cordoba,,CÛrdoba,,,,,,,,,,,x
+d_cordoba,d_cordoba,,C√≥rdoba,,,,,,,,,,,x
 d_cordoba,d_cordoba_adj,,Cordobesa,,,,,,,,,,,x
 d_cordoba,andalusian_arabic,,Qurtubah,,,,,,,,,,,x
 d_cordoba,aragonese,,Cordoba,,,,,,,,,,,x
 d_cordoba,basque,,Kordoba,,,,,,,,,,,x
 d_cordoba,bedouin_arabic,,Qurtubah,,,,,,,,,,,x
-d_cordoba,catalan,,CÚrdova,,,,,,,,,,,x
+d_cordoba,catalan,,C√≤rdova,,,,,,,,,,,x
 d_cordoba,egyptian_arabic,,Qurtubah,,,,,,,,,,,x
 d_cordoba,frankish,,Cordoue,,,,,,,,,,,x
 d_cordoba,greek,,Kordyba,,,,,,,,,,,x
-d_cordoba,leonese,,CÛrduba,,,,,,,,,,,x
+d_cordoba,leonese,,C√≥rduba,,,,,,,,,,,x
 d_cordoba,levantine_arabic,,Qurtubah,,,,,,,,,,,x
 d_cordoba,maghreb_arabic,,Qurtubah,,,,,,,,,,,x
-d_cordoba,portuguese,,CÛrdova,,,,,,,,,,,x
+d_cordoba,portuguese,,C√≥rdova,,,,,,,,,,,x
 d_cordoba,roman,,Corduba,,,,,,,,,,,x
 d_cordoba,sicilian_arabic,,Qurtubah,,,,,,,,,,,x
 c_cordoba,PROV181,,Cordoba,,,,,,,,,,,x
@@ -5005,30 +5005,30 @@ c_cordoba,andalusian_arabic,,Qurtubah,,,,,,,,,,,x
 c_cordoba,aragonese,,Cordoba,,,,,,,,,,,x
 c_cordoba,basque,,Kordoba,,,,,,,,,,,x
 c_cordoba,bedouin_arabic,,Qurtubah,,,,,,,,,,,x
-c_cordoba,catalan,,CÚrdova,,,,,,,,,,,x
+c_cordoba,catalan,,C√≤rdova,,,,,,,,,,,x
 c_cordoba,egyptian_arabic,,Qurtubah,,,,,,,,,,,x
 c_cordoba,frankish,,Cordoue,,,,,,,,,,,x
 c_cordoba,greek,,Kordyba,,,,,,,,,,,x
-c_cordoba,leonese,,CÛrduba,,,,,,,,,,,x
+c_cordoba,leonese,,C√≥rduba,,,,,,,,,,,x
 c_cordoba,levantine_arabic,,Qurtubah,,,,,,,,,,,x
 c_cordoba,maghreb_arabic,,Qurtubah,,,,,,,,,,,x
-c_cordoba,portuguese,,CÛrdova,,,,,,,,,,,x
+c_cordoba,portuguese,,C√≥rdova,,,,,,,,,,,x
 c_cordoba,roman,,Corduba,,,,,,,,,,,x
 c_cordoba,sicilian_arabic,,Qurtubah,,,,,,,,,,,x
-b_cordoba,b_cordoba,,CÛrdoba,,,,,,,,,,,x
+b_cordoba,b_cordoba,,C√≥rdoba,,,,,,,,,,,x
 b_cordoba,b_cordoba_adj,,,,,,,,,,,,,x
 b_cordoba,andalusian_arabic,,Qurtubah,,,,,,,,,,,x
 b_cordoba,aragonese,,Cordoba,,,,,,,,,,,x
 b_cordoba,basque,,Kordoba,,,,,,,,,,,x
 b_cordoba,bedouin_arabic,,Qurtubah,,,,,,,,,,,x
-b_cordoba,catalan,,CÚrdova,,,,,,,,,,,x
+b_cordoba,catalan,,C√≤rdova,,,,,,,,,,,x
 b_cordoba,egyptian_arabic,,Qurtubah,,,,,,,,,,,x
 b_cordoba,frankish,,Cordoue,,,,,,,,,,,x
 b_cordoba,greek,,Kordyba,,,,,,,,,,,x
-b_cordoba,leonese,,CÛrduba,,,,,,,,,,,x
+b_cordoba,leonese,,C√≥rduba,,,,,,,,,,,x
 b_cordoba,levantine_arabic,,Qurtubah,,,,,,,,,,,x
 b_cordoba,maghreb_arabic,,Qurtubah,,,,,,,,,,,x
-b_cordoba,portuguese,,CÛrdova,,,,,,,,,,,x
+b_cordoba,portuguese,,C√≥rdova,,,,,,,,,,,x
 b_cordoba,roman,,Corduba,,,,,,,,,,,x
 b_cordoba,sicilian_arabic,,Qurtubah,,,,,,,,,,,x
 b_alcolea,b_alcolea,,Alcolea,,,,,,,,,,,x
@@ -5079,44 +5079,44 @@ b_montilla,levantine_arabic,,Montiyya,,,,,,,,,,,x
 b_montilla,maghreb_arabic,,Montiyya,,,,,,,,,,,x
 b_montilla,portuguese,,Montilha,,,,,,,,,,,x
 b_montilla,sicilian_arabic,,Montiyya,,,,,,,,,,,x
-b_iznajar,b_iznajar,,Izn·jar,,,,,,,,,,,x
+b_iznajar,b_iznajar,,Izn√°jar,,,,,,,,,,,x
 b_iznajar,b_iznajar_adj,,,,,,,,,,,,,x
 b_iznajar,andalusian_arabic,,Hisn-Ashar,,,,,,,,,,,x
-b_iznajar,aragonese,,Izn·char,,,,,,,,,,,x
+b_iznajar,aragonese,,Izn√°char,,,,,,,,,,,x
 b_iznajar,basque,,Iznaiar,,,,,,,,,,,x
 b_iznajar,bedouin_arabic,,Hisn-Ashar,,,,,,,,,,,x
-b_iznajar,catalan,,Izn·xar,,,,,,,,,,,x
+b_iznajar,catalan,,Izn√°xar,,,,,,,,,,,x
 b_iznajar,egyptian_arabic,,Hisn-Ashar,,,,,,,,,,,x
 b_iznajar,frankish,,Iznajar,,,,,,,,,,,x
-b_iznajar,galician,,Izn·xar,,,,,,,,,,,x
+b_iznajar,galician,,Izn√°xar,,,,,,,,,,,x
 b_iznajar,levantine_arabic,,Hisn-Ashar,,,,,,,,,,,x
 b_iznajar,maghreb_arabic,,Hisn-Ashar,,,,,,,,,,,x
 b_iznajar,sicilian_arabic,,Hisn-Ashar,,,,,,,,,,,x
-c_jaen,PROV1192,,JaÈn,,,,,,,,,,,x
+c_jaen,PROV1192,,Ja√©n,,,,,,,,,,,x
 c_jaen,c_jaen,,,,,,,,,,,,,x
 c_jaen,c_jaen_adj,,Jienense,,,,,,,,,,,x
 c_jaen,andalusian_arabic,,Yayyan,,,,,,,,,,,x
-c_jaen,aragonese,,ChaÈn,,,,,,,,,,,x
+c_jaen,aragonese,,Cha√©n,,,,,,,,,,,x
 c_jaen,basque,,Jaen,,,,,,,,,,,x
 c_jaen,bedouin_arabic,,Yayyan,,,,,,,,,,,x
 c_jaen,egyptian_arabic,,Yayyan,,,,,,,,,,,x
-c_jaen,galician,,XaÈn,,,,,,,,,,,x
+c_jaen,galician,,Xa√©n,,,,,,,,,,,x
 c_jaen,greek,,Aurgi,,,,,,,,,,,x
-c_jaen,leonese,,XaÈn,,,,,,,,,,,x
+c_jaen,leonese,,Xa√©n,,,,,,,,,,,x
 c_jaen,levantine_arabic,,Yayyan,,,,,,,,,,,x
 c_jaen,maghreb_arabic,,Yayyan,,,,,,,,,,,x
-c_jaen,portuguese,,XaÈm,,,,,,,,,,,x
+c_jaen,portuguese,,Xa√©m,,,,,,,,,,,x
 c_jaen,roman,,Aurgi,,,,,,,,,,,x
 c_jaen,sicilian_arabic,,Yayyan,,,,,,,,,,,x
-b_andujar,b_andujar,,And˙jar,,,,,,,,,,,x
+b_andujar,b_andujar,,And√∫jar,,,,,,,,,,,x
 b_andujar,b_andujar_adj,,,,,,,,,,,,,x
 b_andujar,andalusian_arabic,,Anduyar,,,,,,,,,,,x
-b_andujar,aragonese,,And˙char,,,,,,,,,,,x
+b_andujar,aragonese,,And√∫char,,,,,,,,,,,x
 b_andujar,basque,,Anduxar,,,,,,,,,,,x
 b_andujar,bedouin_arabic,,Anduyar,,,,,,,,,,,x
 b_andujar,egyptian_arabic,,Anduyar,,,,,,,,,,,x
-b_andujar,galician,,And˙xar,,,,,,,,,,,x
-b_andujar,leonese,,And˙xar,,,,,,,,,,,x
+b_andujar,galician,,And√∫xar,,,,,,,,,,,x
+b_andujar,leonese,,And√∫xar,,,,,,,,,,,x
 b_andujar,levantine_arabic,,Anduyar,,,,,,,,,,,x
 b_andujar,maghreb_arabic,,Anduyar,,,,,,,,,,,x
 b_andujar,sicilian_arabic,,Anduyar,,,,,,,,,,,x
@@ -5128,22 +5128,22 @@ b_baeza,egyptian_arabic,,Bayyasa,,,,,,,,,,,x
 b_baeza,levantine_arabic,,Bayyasa,,,,,,,,,,,x
 b_baeza,maghreb_arabic,,Bayyasa,,,,,,,,,,,x
 b_baeza,sicilian_arabic,,Bayyasa,,,,,,,,,,,x
-b_jaen,b_jaen,,JaÈn,,,,,,,,,,,x
+b_jaen,b_jaen,,Ja√©n,,,,,,,,,,,x
 b_jaen,b_jaen_adj,,,,,,,,,,,,,x
 b_jaen,andalusian_arabic,,Yayyan,,,,,,,,,,,x
-b_jaen,aragonese,,ChaÈn,,,,,,,,,,,x
+b_jaen,aragonese,,Cha√©n,,,,,,,,,,,x
 b_jaen,basque,,Jaen,,,,,,,,,,,x
 b_jaen,bedouin_arabic,,Yayyan,,,,,,,,,,,x
 b_jaen,egyptian_arabic,,Yayyan,,,,,,,,,,,x
-b_jaen,galician,,XaÈn,,,,,,,,,,,x
+b_jaen,galician,,Xa√©n,,,,,,,,,,,x
 b_jaen,greek,,Aurgi,,,,,,,,,,,x
-b_jaen,leonese,,XaÈn,,,,,,,,,,,x
+b_jaen,leonese,,Xa√©n,,,,,,,,,,,x
 b_jaen,levantine_arabic,,Yayyan,,,,,,,,,,,x
 b_jaen,maghreb_arabic,,Yayyan,,,,,,,,,,,x
-b_jaen,portuguese,,XaÈm,,,,,,,,,,,x
+b_jaen,portuguese,,Xa√©m,,,,,,,,,,,x
 b_jaen,roman,,Aurgi,,,,,,,,,,,x
 b_jaen,sicilian_arabic,,Yayyan,,,,,,,,,,,x
-b_ubeda,b_ubeda,,⁄beda,,,,,,,,,,,x
+b_ubeda,b_ubeda,,√öbeda,,,,,,,,,,,x
 b_ubeda,b_ubeda_adj,,,,,,,,,,,,,x
 b_ubeda,andalusian_arabic,,Ubbada,,,,,,,,,,,x
 b_ubeda,basque,,Ubeda,,,,,,,,,,,x
@@ -5163,45 +5163,45 @@ b_alcaudete,maghreb_arabic,,al-Qabdaq,,,,,,,,,,,x
 b_alcaudete,sicilian_arabic,,al-Qabdaq,,,,,,,,,,,x
 d_la_mancha,d_la_mancha,,La Mancha,,,,,,,,,,,x
 d_la_mancha,d_la_mancha_adj,,Manchega,,,,,,,,,,,x
-d_la_mancha,andalusian_arabic,,al-M·ny‡,,,,,,,,,,,x
+d_la_mancha,andalusian_arabic,,al-M√°ny√†,,,,,,,,,,,x
 d_la_mancha,basque,,Mantxa,,,,,,,,,,,x
-d_la_mancha,bedouin_arabic,,al-M·ny‡,,,,,,,,,,,x
+d_la_mancha,bedouin_arabic,,al-M√°ny√†,,,,,,,,,,,x
 d_la_mancha,catalan,,La Manxa,,,,,,,,,,,x
-d_la_mancha,egyptian_arabic,,al-M·ny‡,,,,,,,,,,,x
+d_la_mancha,egyptian_arabic,,al-M√°ny√†,,,,,,,,,,,x
 d_la_mancha,galician,,A Mancha,,,,,,,,,,,x
-d_la_mancha,levantine_arabic,,al-M·ny‡,,,,,,,,,,,x
-d_la_mancha,maghreb_arabic,,al-M·ny‡,,,,,,,,,,,x
+d_la_mancha,levantine_arabic,,al-M√°ny√†,,,,,,,,,,,x
+d_la_mancha,maghreb_arabic,,al-M√°ny√†,,,,,,,,,,,x
 d_la_mancha,portuguese,,Mancha,,,,,,,,,,,x
-d_la_mancha,sicilian_arabic,,al-M·ny‡,,,,,,,,,,,x
-c_la_mancha,PROV178,,AlarcÛn,,,,,,,,,,,x
+d_la_mancha,sicilian_arabic,,al-M√°ny√†,,,,,,,,,,,x
+c_la_mancha,PROV178,,Alarc√≥n,,,,,,,,,,,x
 c_la_mancha,c_la_mancha,,,,,,,,,,,,,x
 c_la_mancha,c_la_mancha_adj,,La Manchan,,,,,,,,,,,x
 c_la_mancha,andalusian_arabic,,al-Urqub,,,,,,,,,,,x
 c_la_mancha,basque,,Alarkon,,,,,,,,,,,x
 c_la_mancha,bedouin_arabic,,al-Urqub,,,,,,,,,,,x
-c_la_mancha,catalan,,AlarcÛ,,,,,,,,,,,x
+c_la_mancha,catalan,,Alarc√≥,,,,,,,,,,,x
 c_la_mancha,egyptian_arabic,,al-Urqub,,,,,,,,,,,x
 c_la_mancha,frankish,,Alarcon,,,,,,,,,,,x
 c_la_mancha,levantine_arabic,,al-Urqub,,,,,,,,,,,x
 c_la_mancha,maghreb_arabic,,al-Urqub,,,,,,,,,,,x
 c_la_mancha,sicilian_arabic,,al-Urqub,,,,,,,,,,,x
-b_alarcon,b_alarcon,,AlarcÛn,,,,,,,,,,,x
+b_alarcon,b_alarcon,,Alarc√≥n,,,,,,,,,,,x
 b_alarcon,b_alarcon_adj,,,,,,,,,,,,,x
 b_alarcon,andalusian_arabic,,al-Urqub,,,,,,,,,,,x
 b_alarcon,basque,,Alarkon,,,,,,,,,,,x
 b_alarcon,bedouin_arabic,,al-Urqub,,,,,,,,,,,x
-b_alarcon,catalan,,AlarcÛ,,,,,,,,,,,x
+b_alarcon,catalan,,Alarc√≥,,,,,,,,,,,x
 b_alarcon,egyptian_arabic,,al-Urqub,,,,,,,,,,,x
 b_alarcon,frankish,,Alarcon,,,,,,,,,,,x
 b_alarcon,levantine_arabic,,al-Urqub,,,,,,,,,,,x
 b_alarcon,maghreb_arabic,,al-Urqub,,,,,,,,,,,x
 b_alarcon,sicilian_arabic,,al-Urqub,,,,,,,,,,,x
-b_tarancon,b_tarancon,,TarancÛn,,,,,,,,,,,x
+b_tarancon,b_tarancon,,Taranc√≥n,,,,,,,,,,,x
 b_tarancon,b_tarancon_adj,,,,,,,,,,,,,x
 b_tarancon,andalusian_arabic,,Tarunq'un,,,,,,,,,,,x
 b_tarancon,basque,,Tarankon,,,,,,,,,,,x
 b_tarancon,bedouin_arabic,,Tarunq'un,,,,,,,,,,,x
-b_tarancon,catalan,,TarancÛ,,,,,,,,,,,x
+b_tarancon,catalan,,Taranc√≥,,,,,,,,,,,x
 b_tarancon,egyptian_arabic,,Tarunq'un,,,,,,,,,,,x
 b_tarancon,frankish,,Tarancon,,,,,,,,,,,x
 b_tarancon,levantine_arabic,,Tarunq'un,,,,,,,,,,,x
@@ -5215,10 +5215,10 @@ b_sanclemente,basque,,San Klemen,,,,,,,,,,,x
 b_sanclemente,bedouin_arabic,,Madina Qliment,,,,,,,,,,,x
 b_sanclemente,catalan,,Sant Climent,,,,,,,,,,,x
 b_sanclemente,egyptian_arabic,,Madina Qliment,,,,,,,,,,,x
-b_sanclemente,frankish,,Saint-ClÈment,,,,,,,,,,,x
+b_sanclemente,frankish,,Saint-Cl√©ment,,,,,,,,,,,x
 b_sanclemente,levantine_arabic,,Madina Qliment,,,,,,,,,,,x
 b_sanclemente,maghreb_arabic,,Madina Qliment,,,,,,,,,,,x
-b_sanclemente,portuguese,,S„o Clemente,,,,,,,,,,,x
+b_sanclemente,portuguese,,S√£o Clemente,,,,,,,,,,,x
 b_sanclemente,sicilian_arabic,,Madina Qliment,,,,,,,,,,,x
 b_ucles,b_ucles,,Ucles,,,,,,,,,,,x
 b_ucles,b_ucles_adj,,,,,,,,,,,,,x
@@ -5231,7 +5231,7 @@ b_ucles,maghreb_arabic,,Uqlish,,,,,,,,,,,x
 b_ucles,sicilian_arabic,,Uqlish,,,,,,,,,,,x
 c_alcaraz,PROV1216,,Alcaraz,,,,,,,,,,,x
 c_alcaraz,c_alcaraz,,,,,,,,,,,,,x
-c_alcaraz,c_alcaraz_adj,,AlcaraceÒa,,,,,,,,,,,x
+c_alcaraz,c_alcaraz_adj,,Alcarace√±a,,,,,,,,,,,x
 c_alcaraz,andalusian_arabic,,al-Karas,,,,,,,,,,,x
 c_alcaraz,basque,,Alkaraz,,,,,,,,,,,x
 c_alcaraz,bedouin_arabic,,al-Karas,,,,,,,,,,,x
@@ -5302,10 +5302,10 @@ b_tomelloso,b_tomelloso_adj,,,,,,,,,,,,,x
 b_tomelloso,andalusian_arabic,,Tummili,,,,,,,,,,,x
 b_tomelloso,basque,,Ezkaioa,,,,,,,,,,,x
 b_tomelloso,bedouin_arabic,,Tummili,,,,,,,,,,,x
-b_tomelloso,catalan,,TomellÛs,,,,,,,,,,,x
+b_tomelloso,catalan,,Tomell√≥s,,,,,,,,,,,x
 b_tomelloso,egyptian_arabic,,Tummili,,,,,,,,,,,x
 b_tomelloso,frankish,,Thymose,,,,,,,,,,,x
-b_tomelloso,galician,,TomiÒoso,,,,,,,,,,,x
+b_tomelloso,galician,,Tomi√±oso,,,,,,,,,,,x
 b_tomelloso,leonese,,Tomellosu,,,,,,,,,,,x
 b_tomelloso,levantine_arabic,,Tummili,,,,,,,,,,,x
 b_tomelloso,maghreb_arabic,,Tummili,,,,,,,,,,,x
@@ -5318,7 +5318,7 @@ b_puertollano,aragonese,,Puertoplano,,,,,,,,,,,x
 b_puertollano,basque,,Ordokiportu,,,,,,,,,,,x
 b_puertollano,bedouin_arabic,,Burtu al-Muz,,,,,,,,,,,x
 b_puertollano,castillan,,Puerto de Muelas,,,,,,,,,,,x
-b_puertollano,catalan,,Portpl·,,,,,,,,,,,x
+b_puertollano,catalan,,Portpl√°,,,,,,,,,,,x
 b_puertollano,egyptian_arabic,,Burtu al-Muz,,,,,,,,,,,x
 b_puertollano,frankish,,Portplaine,,,,,,,,,,,x
 b_puertollano,galician,,Portoxano,,,,,,,,,,,x
@@ -5332,13 +5332,13 @@ d_valencia,d_valencia_adj,,Valenciana,,,,,,,,,,,x
 d_valencia,andalusian_arabic,,Balansiyya,,,,,,,,,,,x
 d_valencia,basque,,Balentzia,,,,,,,,,,,x
 d_valencia,bedouin_arabic,,Balansiyya,,,,,,,,,,,x
-d_valencia,catalan,,ValËncia,,,,,,,,,,,x
+d_valencia,catalan,,Val√®ncia,,,,,,,,,,,x
 d_valencia,egyptian_arabic,,Balansiyya,,,,,,,,,,,x
 d_valencia,frankish,,Valence,,,,,,,,,,,x
 d_valencia,greek,,Oualentia,,,,,,,,,,,x
 d_valencia,levantine_arabic,,Balansiyya,,,,,,,,,,,x
 d_valencia,maghreb_arabic,,Balansiyya,,,,,,,,,,,x
-d_valencia,portuguese,,ValÍncia,,,,,,,,,,,x
+d_valencia,portuguese,,Val√™ncia,,,,,,,,,,,x
 d_valencia,roman,,Valentia,,,,,,,,,,,x
 d_valencia,sicilian_arabic,,Balansiyya,,,,,,,,,,,x
 c_castellon,PROV172,,Castellon,,,,,,,,,,,x
@@ -5347,22 +5347,22 @@ c_castellon,c_castellon_adj,,Castellonian,,,,,,,,,,,x
 c_castellon,andalusian_arabic,,Marmariya,,,,,,,,,,,x
 c_castellon,basque,,Gaztelu,,,,,,,,,,,x
 c_castellon,bedouin_arabic,,Marmariya,,,,,,,,,,,x
-c_castellon,catalan,,CastellÛ,,,,,,,,,,,x
+c_castellon,catalan,,Castell√≥,,,,,,,,,,,x
 c_castellon,egyptian_arabic,,Marmariya,,,,,,,,,,,x
 c_castellon,levantine_arabic,,Marmariya,,,,,,,,,,,x
 c_castellon,maghreb_arabic,,Marmariya,,,,,,,,,,,x
-c_castellon,portuguese,,Castelh„o,,,,,,,,,,,x
+c_castellon,portuguese,,Castelh√£o,,,,,,,,,,,x
 c_castellon,sicilian_arabic,,Marmariya,,,,,,,,,,,x
-b_castellon,b_castellon,,CastellÛn,,,,,,,,,,,x
+b_castellon,b_castellon,,Castell√≥n,,,,,,,,,,,x
 b_castellon,b_castellon_adj,,,,,,,,,,,,,x
 b_castellon,andalusian_arabic,,Marmariya,,,,,,,,,,,x
 b_castellon,basque,,Gaztelu,,,,,,,,,,,x
 b_castellon,bedouin_arabic,,Marmariya,,,,,,,,,,,x
-b_castellon,catalan,,CastellÛ,,,,,,,,,,,x
+b_castellon,catalan,,Castell√≥,,,,,,,,,,,x
 b_castellon,egyptian_arabic,,Marmariya,,,,,,,,,,,x
 b_castellon,levantine_arabic,,Marmariya,,,,,,,,,,,x
 b_castellon,maghreb_arabic,,Marmariya,,,,,,,,,,,x
-b_castellon,portuguese,,Castelh„o,,,,,,,,,,,x
+b_castellon,portuguese,,Castelh√£o,,,,,,,,,,,x
 b_castellon,sicilian_arabic,,Marmariya,,,,,,,,,,,x
 b_alpuente,b_alpuente,,Alpuente,,,,,,,,,,,x
 b_alpuente,b_alpuente_adj,,,,,,,,,,,,,x
@@ -5391,7 +5391,7 @@ b_vinaros,andalusian_arabic,,Beni al-Arus,,,,,,,,,,,x
 b_vinaros,basque,,Binaroz,,,,,,,,,,,x
 b_vinaros,bedouin_arabic,,Beni al-Arus,,,,,,,,,,,x
 b_vinaros,castillan,,Vinaroz,,,,,,,,,,,x
-b_vinaros,catalan,,VinarÚs,,,,,,,,,,,x
+b_vinaros,catalan,,Vinar√≤s,,,,,,,,,,,x
 b_vinaros,egyptian_arabic,,Beni al-Arus,,,,,,,,,,,x
 b_vinaros,levantine_arabic,,Beni al-Arus,,,,,,,,,,,x
 b_vinaros,maghreb_arabic,,Beni al-Arus,,,,,,,,,,,x
@@ -5399,11 +5399,11 @@ b_vinaros,portuguese,,Vinaroce,,,,,,,,,,,x
 b_vinaros,sicilian_arabic,,Beni al-Arus,,,,,,,,,,,x
 c_denia,PROV170,,Denia,,,,,,,,,,,x
 c_denia,c_denia,,,,,,,,,,,,,x
-c_denia,c_denia_adj,,DÈnian,,,,,,,,,,,x
+c_denia,c_denia_adj,,D√©nian,,,,,,,,,,,x
 c_denia,andalusian_arabic,,Deniyya,,,,,,,,,,,x
 c_denia,aragonese,,Denya,,,,,,,,,,,x
 c_denia,bedouin_arabic,,Deniyya,,,,,,,,,,,x
-c_denia,catalan,,DÈnia,,,,,,,,,,,x
+c_denia,catalan,,D√©nia,,,,,,,,,,,x
 c_denia,egyptian_arabic,,Deniyya,,,,,,,,,,,x
 c_denia,greek,,Dianion,,,,,,,,,,,x
 c_denia,levantine_arabic,,Deniyya,,,,,,,,,,,x
@@ -5415,7 +5415,7 @@ b_denia,b_denia_adj,,,,,,,,,,,,,x
 b_denia,andalusian_arabic,,Deniyya,,,,,,,,,,,x
 b_denia,aragonese,,Denya,,,,,,,,,,,x
 b_denia,bedouin_arabic,,Deniyya,,,,,,,,,,,x
-b_denia,catalan,,DÈnia,,,,,,,,,,,x
+b_denia,catalan,,D√©nia,,,,,,,,,,,x
 b_denia,egyptian_arabic,,Deniyya,,,,,,,,,,,x
 b_denia,greek,,Dianion,,,,,,,,,,,x
 b_denia,levantine_arabic,,Deniyya,,,,,,,,,,,x
@@ -5452,26 +5452,26 @@ b_benissa,aragonese,,Benissa,,,,,,,,,,,x
 b_benissa,bedouin_arabic,,Ben Isa,,,,,,,,,,,x
 b_benissa,catalan,,Benissa,,,,,,,,,,,x
 b_benissa,egyptian_arabic,,Ben Isa,,,,,,,,,,,x
-b_benissa,frankish,,BÈnisse,,,,,,,,,,,x
+b_benissa,frankish,,B√©nisse,,,,,,,,,,,x
 b_benissa,levantine_arabic,,Ben Isa,,,,,,,,,,,x
 b_benissa,maghreb_arabic,,Ben Isa,,,,,,,,,,,x
 b_benissa,sicilian_arabic,,Ben Isa,,,,,,,,,,,x
 c_valencia,PROV171,,Valencia,,,,,,,,,,,x
 c_valencia,c_valencia,,,,,,,,,,,,,x
-c_valencia,c_valencia_adj,,ValËncian,,,,,,,,,,,x
+c_valencia,c_valencia_adj,,Val√®ncian,,,,,,,,,,,x
 c_valencia,andalusian_arabic,,Balansiyya,,,,,,,,,,,x
 c_valencia,basque,,Balentzia,,,,,,,,,,,x
 c_valencia,bedouin_arabic,,Balansiyya,,,,,,,,,,,x
-c_valencia,catalan,,ValËncia,,,,,,,,,,,x
+c_valencia,catalan,,Val√®ncia,,,,,,,,,,,x
 c_valencia,egyptian_arabic,,Balansiyya,,,,,,,,,,,x
 c_valencia,frankish,,Valence,,,,,,,,,,,x
 c_valencia,greek,,Oualentia,,,,,,,,,,,x
 c_valencia,levantine_arabic,,Balansiyya,,,,,,,,,,,x
 c_valencia,maghreb_arabic,,Balansiyya,,,,,,,,,,,x
-c_valencia,portuguese,,ValÍncia,,,,,,,,,,,x
+c_valencia,portuguese,,Val√™ncia,,,,,,,,,,,x
 c_valencia,roman,,Valentia,,,,,,,,,,,x
 c_valencia,sicilian_arabic,,Balansiyya,,,,,,,,,,,x
-b_gandia,b_gandia,,GandÌa,,,,,,,,,,,x
+b_gandia,b_gandia,,Gand√≠a,,,,,,,,,,,x
 b_gandia,b_gandia_adj,,,,,,,,,,,,,x
 b_gandia,andalusian_arabic,,Qandiyya,,,,,,,,,,,x
 b_gandia,basque,,Gandia,,,,,,,,,,,x
@@ -5487,38 +5487,38 @@ b_valencia,b_valencia_adj,,,,,,,,,,,,,x
 b_valencia,andalusian_arabic,,Balansiyya,,,,,,,,,,,x
 b_valencia,basque,,Balentzia,,,,,,,,,,,x
 b_valencia,bedouin_arabic,,Balansiyya,,,,,,,,,,,x
-b_valencia,catalan,,ValËncia,,,,,,,,,,,x
+b_valencia,catalan,,Val√®ncia,,,,,,,,,,,x
 b_valencia,egyptian_arabic,,Balansiyya,,,,,,,,,,,x
 b_valencia,frankish,,Valence,,,,,,,,,,,x
 b_valencia,greek,,Oualentia,,,,,,,,,,,x
 b_valencia,levantine_arabic,,Balansiyya,,,,,,,,,,,x
 b_valencia,maghreb_arabic,,Balansiyya,,,,,,,,,,,x
-b_valencia,portuguese,,ValÍncia,,,,,,,,,,,x
+b_valencia,portuguese,,Val√™ncia,,,,,,,,,,,x
 b_valencia,roman,,Valentia,,,,,,,,,,,x
 b_valencia,sicilian_arabic,,Balansiyya,,,,,,,,,,,x
-b_jativa,b_jativa,,J·tiva,,,,,,,,,,,x
+b_jativa,b_jativa,,J√°tiva,,,,,,,,,,,x
 b_jativa,b_jativa_adj,,,,,,,,,,,,,x
 b_jativa,andalusian_arabic,,Madina Shatiba,,,,,,,,,,,x
 b_jativa,aragonese,,Exativa,,,,,,,,,,,x
 b_jativa,basque,,Xatiba,,,,,,,,,,,x
 b_jativa,bedouin_arabic,,Madina Shatiba,,,,,,,,,,,x
-b_jativa,catalan,,X‡tiva,,,,,,,,,,,x
+b_jativa,catalan,,X√†tiva,,,,,,,,,,,x
 b_jativa,egyptian_arabic,,Madina Shatiba,,,,,,,,,,,x
-b_jativa,frankish,,X‡tiva,,,,,,,,,,,x
-b_jativa,galician,,X·tiva,,,,,,,,,,,x
+b_jativa,frankish,,X√†tiva,,,,,,,,,,,x
+b_jativa,galician,,X√°tiva,,,,,,,,,,,x
 b_jativa,greek,,Saitabis,,,,,,,,,,,x
-b_jativa,leonese,,X·tiva,,,,,,,,,,,x
+b_jativa,leonese,,X√°tiva,,,,,,,,,,,x
 b_jativa,levantine_arabic,,Madina Shatiba,,,,,,,,,,,x
 b_jativa,maghreb_arabic,,Madina Shatiba,,,,,,,,,,,x
-b_jativa,portuguese,,X·tiva,,,,,,,,,,,x
+b_jativa,portuguese,,X√°tiva,,,,,,,,,,,x
 b_jativa,roman,,Saetabis,,,,,,,,,,,x
 b_jativa,sicilian_arabic,,Madina Shatiba,,,,,,,,,,,x
-b_alacuas,b_alacuas,,Alacu·s,,,,,,,,,,,x
+b_alacuas,b_alacuas,,Alacu√°s,,,,,,,,,,,x
 b_alacuas,b_alacuas_adj,,,,,,,,,,,,,x
 b_alacuas,andalusian_arabic,,al-Aquas,,,,,,,,,,,x
 b_alacuas,basque,,Alakuas,,,,,,,,,,,x
 b_alacuas,bedouin_arabic,,al-Aquas,,,,,,,,,,,x
-b_alacuas,catalan,,Alaqu‡s,,,,,,,,,,,x
+b_alacuas,catalan,,Alaqu√†s,,,,,,,,,,,x
 b_alacuas,egyptian_arabic,,al-Aquas,,,,,,,,,,,x
 b_alacuas,frankish,,Alacuas,,,,,,,,,,,x
 b_alacuas,levantine_arabic,,al-Aquas,,,,,,,,,,,x
@@ -5540,12 +5540,12 @@ d_murcia,d_murcia_adj,,Murciana,,,,,,,,,,,x
 d_murcia,andalusian_arabic,,Mursiya,,,,,,,,,,,x
 d_murcia,basque,,Murtzia,,,,,,,,,,,x
 d_murcia,bedouin_arabic,,Mursiya,,,,,,,,,,,x
-d_murcia,catalan,,M˙rcia,,,,,,,,,,,x
+d_murcia,catalan,,M√∫rcia,,,,,,,,,,,x
 d_murcia,egyptian_arabic,,Mursiya,,,,,,,,,,,x
 d_murcia,frankish,,Murcie,,,,,,,,,,,x
 d_murcia,levantine_arabic,,Mursiya,,,,,,,,,,,x
 d_murcia,maghreb_arabic,,Mursiya,,,,,,,,,,,x
-d_murcia,portuguese,,M˙rcia,,,,,,,,,,,x
+d_murcia,portuguese,,M√∫rcia,,,,,,,,,,,x
 d_murcia,sicilian_arabic,,Mursiya,,,,,,,,,,,x
 c_murcia,PROV169,,Murcia,,,,,,,,,,,x
 c_murcia,c_murcia,,,,,,,,,,,,,x
@@ -5553,24 +5553,24 @@ c_murcia,c_murcia_adj,,Murcian,,,,,,,,,,,x
 c_murcia,andalusian_arabic,,Mursiya,,,,,,,,,,,x
 c_murcia,basque,,Murtzia,,,,,,,,,,,x
 c_murcia,bedouin_arabic,,Mursiya,,,,,,,,,,,x
-c_murcia,catalan,,M˙rcia,,,,,,,,,,,x
+c_murcia,catalan,,M√∫rcia,,,,,,,,,,,x
 c_murcia,egyptian_arabic,,Mursiya,,,,,,,,,,,x
 c_murcia,frankish,,Murcie,,,,,,,,,,,x
 c_murcia,levantine_arabic,,Mursiya,,,,,,,,,,,x
 c_murcia,maghreb_arabic,,Mursiya,,,,,,,,,,,x
-c_murcia,portuguese,,M˙rcia,,,,,,,,,,,x
+c_murcia,portuguese,,M√∫rcia,,,,,,,,,,,x
 c_murcia,sicilian_arabic,,Mursiya,,,,,,,,,,,x
 b_murcia,b_murcia,,Murcia,,,,,,,,,,,x
 b_murcia,b_murcia_adj,,,,,,,,,,,,,x
 b_murcia,andalusian_arabic,,Mursiya,,,,,,,,,,,x
 b_murcia,basque,,Murtzia,,,,,,,,,,,x
 b_murcia,bedouin_arabic,,Mursiya,,,,,,,,,,,x
-b_murcia,catalan,,M˙rcia,,,,,,,,,,,x
+b_murcia,catalan,,M√∫rcia,,,,,,,,,,,x
 b_murcia,egyptian_arabic,,Mursiya,,,,,,,,,,,x
 b_murcia,frankish,,Murcie,,,,,,,,,,,x
 b_murcia,levantine_arabic,,Mursiya,,,,,,,,,,,x
 b_murcia,maghreb_arabic,,Mursiya,,,,,,,,,,,x
-b_murcia,portuguese,,M˙rcia,,,,,,,,,,,x
+b_murcia,portuguese,,M√∫rcia,,,,,,,,,,,x
 b_murcia,sicilian_arabic,,Mursiya,,,,,,,,,,,x
 b_cartagena,b_cartagena,,Cartagena,,,,,,,,,,,x
 b_cartagena,b_cartagena_adj,,,,,,,,,,,,,x
@@ -5579,7 +5579,7 @@ b_cartagena,aragonese,,Cartachena,,,,,,,,,,,x
 b_cartagena,basque,,Kartagena,,,,,,,,,,,x
 b_cartagena,bedouin_arabic,,Qartayannat al-Halfa,,,,,,,,,,,x
 b_cartagena,egyptian_arabic,,Qartayannat al-Halfa,,,,,,,,,,,x
-b_cartagena,frankish,,CarthagËne,,,,,,,,,,,x
+b_cartagena,frankish,,Carthag√®ne,,,,,,,,,,,x
 b_cartagena,greek,,Nea Karchedon,,,,,,,,,,,x
 b_cartagena,levantine_arabic,,Qartayannat al-Halfa,,,,,,,,,,,x
 b_cartagena,maghreb_arabic,,Qartayannat al-Halfa,,,,,,,,,,,x
@@ -5602,11 +5602,11 @@ b_alcantarilla,b_alcantarilla_adj,,,,,,,,,,,,,x
 b_alcantarilla,andalusian_arabic,,al-Qantariyya,,,,,,,,,,,x
 b_alcantarilla,basque,,Alkantarilla,,,,,,,,,,,x
 b_alcantarilla,bedouin_arabic,,al-Qantariyya,,,,,,,,,,,x
-b_alcantarilla,catalan,,Alc‡ntareta,,,,,,,,,,,x
+b_alcantarilla,catalan,,Alc√†ntareta,,,,,,,,,,,x
 b_alcantarilla,egyptian_arabic,,al-Qantariyya,,,,,,,,,,,x
 b_alcantarilla,levantine_arabic,,al-Qantariyya,,,,,,,,,,,x
 b_alcantarilla,maghreb_arabic,,al-Qantariyya,,,,,,,,,,,x
-b_alcantarilla,portuguese,,Alc‚ntarela,,,,,,,,,,,x
+b_alcantarilla,portuguese,,Alc√¢ntarela,,,,,,,,,,,x
 b_alcantarilla,sicilian_arabic,,al-Qantariyya,,,,,,,,,,,x
 c_almansa,PROV179,,Villena,,,,,,,,,,,x
 c_almansa,c_almansa,,,,,,,,,,,,,x
@@ -5615,7 +5615,7 @@ c_almansa,andalusian_arabic,,Bilyana,,,,,,,,,,,x
 c_almansa,basque,,Bilena,,,,,,,,,,,x
 c_almansa,bedouin_arabic,,Bilyana,,,,,,,,,,,x
 c_almansa,egyptian_arabic,,Bilyana,,,,,,,,,,,x
-c_almansa,frankish,,VillËne,,,,,,,,,,,x
+c_almansa,frankish,,Vill√®ne,,,,,,,,,,,x
 c_almansa,levantine_arabic,,Bilyana,,,,,,,,,,,x
 c_almansa,maghreb_arabic,,Bilyana,,,,,,,,,,,x
 c_almansa,portuguese,,Vilhena,,,,,,,,,,,x
@@ -5626,7 +5626,7 @@ b_villena,andalusian_arabic,,Bilyana,,,,,,,,,,,x
 b_villena,basque,,Bilena,,,,,,,,,,,x
 b_villena,bedouin_arabic,,Bilyana,,,,,,,,,,,x
 b_villena,egyptian_arabic,,Bilyana,,,,,,,,,,,x
-b_villena,frankish,,VillËne,,,,,,,,,,,x
+b_villena,frankish,,Vill√®ne,,,,,,,,,,,x
 b_villena,levantine_arabic,,Bilyana,,,,,,,,,,,x
 b_villena,maghreb_arabic,,Bilyana,,,,,,,,,,,x
 b_villena,portuguese,,Vilhena,,,,,,,,,,,x
@@ -5650,31 +5650,31 @@ b_albacete,egyptian_arabic,,al-Basit,,,,,,,,,,,x
 b_albacete,levantine_arabic,,al-Basit,,,,,,,,,,,x
 b_albacete,maghreb_arabic,,al-Basit,,,,,,,,,,,x
 b_albacete,sicilian_arabic,,al-Basit,,,,,,,,,,,x
-b_hellin,b_hellin,,HellÌn,,,,,,,,,,,x
+b_hellin,b_hellin,,Hell√≠n,,,,,,,,,,,x
 b_hellin,b_hellin_adj,,,,,,,,,,,,,x
 b_hellin,andalusian_arabic,,Iyyuh,,,,,,,,,,,x
 b_hellin,basque,,Hellin,,,,,,,,,,,x
 b_hellin,bedouin_arabic,,Iyyuh,,,,,,,,,,,x
-b_hellin,catalan,,HellÌ,,,,,,,,,,,x
+b_hellin,catalan,,Hell√≠,,,,,,,,,,,x
 b_hellin,egyptian_arabic,,Iyyuh,,,,,,,,,,,x
 b_hellin,frankish,,Hellin,,,,,,,,,,,x
 b_hellin,levantine_arabic,,Iyyuh,,,,,,,,,,,x
 b_hellin,maghreb_arabic,,Iyyuh,,,,,,,,,,,x
 b_hellin,sicilian_arabic,,Iyyuh,,,,,,,,,,,x
-b_alcaladeljucar,b_alcaladeljucar,,Alcal· del J˙car,,,,,,,,,,,x
+b_alcaladeljucar,b_alcaladeljucar,,Alcal√° del J√∫car,,,,,,,,,,,x
 b_alcaladeljucar,b_alcaladeljucar_adj,,,,,,,,,,,,,x
 b_alcaladeljucar,andalusian_arabic,,al-Qal'at as-Shuqr,,,,,,,,,,,x
-b_alcaladeljucar,aragonese,,Alcal· d'o X˙car,,,,,,,,,,,x
+b_alcaladeljucar,aragonese,,Alcal√° d'o X√∫car,,,,,,,,,,,x
 b_alcaladeljucar,basque,,Alkala Xukar,,,,,,,,,,,x
 b_alcaladeljucar,bedouin_arabic,,al-Qal'at as-Shuqr,,,,,,,,,,,x
-b_alcaladeljucar,catalan,,Alcal‡ del X˙quer,,,,,,,,,,,x
+b_alcaladeljucar,catalan,,Alcal√† del X√∫quer,,,,,,,,,,,x
 b_alcaladeljucar,egyptian_arabic,,al-Qal'at as-Shuqr,,,,,,,,,,,x
-b_alcaladeljucar,frankish,,Alcala-sur-X˙quer,,,,,,,,,,,x
-b_alcaladeljucar,galician,,Alcal· do X˙car,,,,,,,,,,,x
-b_alcaladeljucar,leonese,,Alcal· del X˙car,,,,,,,,,,,x
+b_alcaladeljucar,frankish,,Alcala-sur-X√∫quer,,,,,,,,,,,x
+b_alcaladeljucar,galician,,Alcal√° do X√∫car,,,,,,,,,,,x
+b_alcaladeljucar,leonese,,Alcal√° del X√∫car,,,,,,,,,,,x
 b_alcaladeljucar,levantine_arabic,,al-Qal'at as-Shuqr,,,,,,,,,,,x
 b_alcaladeljucar,maghreb_arabic,,al-Qal'at as-Shuqr,,,,,,,,,,,x
-b_alcaladeljucar,portuguese,,Alcal· do X˙car,,,,,,,,,,,x
+b_alcaladeljucar,portuguese,,Alcal√° do X√∫car,,,,,,,,,,,x
 b_alcaladeljucar,sicilian_arabic,,al-Qal'at as-Shuqr,,,,,,,,,,,x
 d_mallorca,d_mallorca,,Mallorca,,,,,,,,,,,x
 d_mallorca,d_mallorca_adj,,Mallorquina,,,,,,,,,,,x
@@ -5701,7 +5701,7 @@ c_eivissa,galician,,Ibiza,,,,,,,,,,,x
 c_eivissa,leonese,,Ibiza,,,,,,,,,,,x
 c_eivissa,levantine_arabic,,Yebisah,,,,,,,,,,,x
 c_eivissa,maghreb_arabic,,Yebisah,,,,,,,,,,,x
-c_eivissa,portuguese,,IbiÁa,,,,,,,,,,,x
+c_eivissa,portuguese,,Ibi√ßa,,,,,,,,,,,x
 c_eivissa,sicilian_arabic,,Yebisah,,,,,,,,,,,x
 b_eivissa,b_eivissa,,Ibiza,,,,,,,,,,,x
 b_eivissa,b_eivissa_adj,,,,,,,,,,,,,x
@@ -5716,16 +5716,16 @@ b_eivissa,galician,,Ibiza,,,,,,,,,,,x
 b_eivissa,leonese,,Ibiza,,,,,,,,,,,x
 b_eivissa,levantine_arabic,,Yebisah,,,,,,,,,,,x
 b_eivissa,maghreb_arabic,,Yebisah,,,,,,,,,,,x
-b_eivissa,portuguese,,IbiÁa,,,,,,,,,,,x
+b_eivissa,portuguese,,Ibi√ßa,,,,,,,,,,,x
 b_eivissa,sicilian_arabic,,Yebisah,,,,,,,,,,,x
 b_formentera,b_formentera,,Formentera,,,,,,,,,,,x
 b_formentera,b_formentera_adj,,,,,,,,,,,,,x
-b_formentera,andalusian_arabic,,FurmintÓra,,,,,,,,,,,x
-b_formentera,bedouin_arabic,,FurmintÓra,,,,,,,,,,,x
-b_formentera,egyptian_arabic,,FurmintÓra,,,,,,,,,,,x
-b_formentera,levantine_arabic,,FurmintÓra,,,,,,,,,,,x
-b_formentera,maghreb_arabic,,FurmintÓra,,,,,,,,,,,x
-b_formentera,sicilian_arabic,,FurmintÓra,,,,,,,,,,,x
+b_formentera,andalusian_arabic,,Furmint√Æra,,,,,,,,,,,x
+b_formentera,bedouin_arabic,,Furmint√Æra,,,,,,,,,,,x
+b_formentera,egyptian_arabic,,Furmint√Æra,,,,,,,,,,,x
+b_formentera,levantine_arabic,,Furmint√Æra,,,,,,,,,,,x
+b_formentera,maghreb_arabic,,Furmint√Æra,,,,,,,,,,,x
+b_formentera,sicilian_arabic,,Furmint√Æra,,,,,,,,,,,x
 c_mallorca,PROV827,,Mallorca,,,,,,,,,,,x
 c_mallorca,c_mallorca,,,,,,,,,,,,,x
 c_mallorca,c_mallorca_adj,,Mallorcan,,,,,,,,,,,x
@@ -5743,7 +5743,7 @@ b_alcudia,b_alcudia_adj,,,,,,,,,,,,,x
 b_alcudia,andalusian_arabic,,al-Kudia,,,,,,,,,,,x
 b_alcudia,basque,,Alkudia,,,,,,,,,,,x
 b_alcudia,bedouin_arabic,,al-Kudia,,,,,,,,,,,x
-b_alcudia,catalan,,Alc˙dia,,,,,,,,,,,x
+b_alcudia,catalan,,Alc√∫dia,,,,,,,,,,,x
 b_alcudia,egyptian_arabic,,al-Kudia,,,,,,,,,,,x
 b_alcudia,greek,,Pollentia,,,,,,,,,,,x
 b_alcudia,levantine_arabic,,al-Kudia,,,,,,,,,,,x
@@ -5763,7 +5763,7 @@ b_algaida,b_algaida_adj,,,,,,,,,,,,,x
 b_algaida,andalusian_arabic,,al-Gaydah,,,,,,,,,,,x
 b_algaida,bedouin_arabic,,al-Gaydah,,,,,,,,,,,x
 b_algaida,egyptian_arabic,,al-Gaydah,,,,,,,,,,,x
-b_algaida,frankish,,AlgaÔde,,,,,,,,,,,x
+b_algaida,frankish,,Alga√Øde,,,,,,,,,,,x
 b_algaida,levantine_arabic,,al-Gaydah,,,,,,,,,,,x
 b_algaida,maghreb_arabic,,al-Gaydah,,,,,,,,,,,x
 b_algaida,sicilian_arabic,,al-Gaydah,,,,,,,,,,,x
@@ -5771,7 +5771,7 @@ b_santaponsa,b_santaponsa,,Santa Ponsa,,,,,,,,,,,x
 b_santaponsa,b_santaponsa_adj,,,,,,,,,,,,,x
 b_santaponsa,andalusian_arabic,,Sanat Busa,,,,,,,,,,,x
 b_santaponsa,bedouin_arabic,,Sanat Busa,,,,,,,,,,,x
-b_santaponsa,catalan,,Santa PonÁa,,,,,,,,,,,x
+b_santaponsa,catalan,,Santa Pon√ßa,,,,,,,,,,,x
 b_santaponsa,egyptian_arabic,,Sanat Busa,,,,,,,,,,,x
 b_santaponsa,frankish,,Sainte Ponse,,,,,,,,,,,x
 b_santaponsa,levantine_arabic,,Sanat Busa,,,,,,,,,,,x
@@ -5802,20 +5802,20 @@ b_ciutadella,maghreb_arabic,,Madina Manurqa,,,,,,,,,,,x
 b_ciutadella,portuguese,,Ciutadela,,,,,,,,,,,x
 b_ciutadella,roman,,Iamo,,,,,,,,,,,x
 b_ciutadella,sicilian_arabic,,Madina Manurqa,,,,,,,,,,,x
-b_mahon,b_mahon,,MahÛn,,,,,,,,,,,x
+b_mahon,b_mahon,,Mah√≥n,,,,,,,,,,,x
 b_mahon,b_mahon_adj,,,,,,,,,,,,,x
 b_mahon,andalusian_arabic,,Magun,,,,,,,,,,,x
-b_mahon,aragonese,,MaÛ,,,,,,,,,,,x
+b_mahon,aragonese,,Ma√≥,,,,,,,,,,,x
 b_mahon,basque,,Mao,,,,,,,,,,,x
 b_mahon,bedouin_arabic,,Magun,,,,,,,,,,,x
-b_mahon,castillan,,MahÛn,,,,,,,,,,,x
-b_mahon,catalan,,MaÛ,,,,,,,,,,,x
+b_mahon,castillan,,Mah√≥n,,,,,,,,,,,x
+b_mahon,catalan,,Ma√≥,,,,,,,,,,,x
 b_mahon,egyptian_arabic,,Magun,,,,,,,,,,,x
 b_mahon,frankish,,Mahon,,,,,,,,,,,x
 b_mahon,greek,,Mago,,,,,,,,,,,x
 b_mahon,levantine_arabic,,Magun,,,,,,,,,,,x
 b_mahon,maghreb_arabic,,Magun,,,,,,,,,,,x
-b_mahon,portuguese,,Mah„o,,,,,,,,,,,x
+b_mahon,portuguese,,Mah√£o,,,,,,,,,,,x
 b_mahon,roman,,Mago,,,,,,,,,,,x
 b_mahon,sicilian_arabic,,Magun,,,,,,,,,,,x
 b_alaior,b_alaior,,Alaior,,,,,,,,,,,x

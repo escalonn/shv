@@ -29,7 +29,7 @@ b_qeshmi,b_qeshmi,,,,,,,,,,,,,x
 b_qeshmi,b_qeshmi_adj,,,,,,,,,,,,,x
 b_lafti,b_lafti,,,,,,,,,,,,,x
 b_lafti,b_lafti_adj,,,,,,,,,,,,,x
-b_aliraqi,b_aliraqi,,Al-Ir·qÌ,,,,,,,,,,,x
+b_aliraqi,b_aliraqi,,Al-Ir√°q√≠,,,,,,,,,,,x
 b_aliraqi,b_aliraqi_adj,,,,,,,,,,,,,x
 b_assadad,b_assadad,,,,,,,,,,,,,x
 b_assadad,b_assadad_adj,,,,,,,,,,,,,x
@@ -97,7 +97,7 @@ b_vorrade,b_vorrade,,Vorrade,,,,,,,,,,,x
 b_vorrade,b_vorrade_adj,,,,,,,,,,,,,x
 b_warendorp,b_warendorp,,Warendorp,,,,,,,,,,,x
 b_warendorp,b_warendorp_adj,,,,,,,,,,,,,x
-b_pat_luneburg,b_pat_luneburg,,L¸neburg,,,,,,,,,,,x
+b_pat_luneburg,b_pat_luneburg,,L√ºneburg,,,,,,,,,,,x
 b_pat_luneburg,b_pat_luneburg_adj,,,,,,,,,,,,,x
 b_wittenborg,b_wittenborg,,Wittenborg,,,,,,,,,,,x
 b_wittenborg,b_wittenborg_adj,,,,,,,,,,,,,x
@@ -323,28 +323,28 @@ d_band_of_the_brave,d_band_of_the_brave,,The brave band,,,,,,,,,,,x
 d_band_of_the_brave,d_band_of_the_brave_adj,,The brave band,,,,,,,,,,,x
 d_band_of_the_brave,foa,,CAPTAIN_FOA,,,,,,,,,,,x
 d_band_of_the_brave,title,,CAPTAIN,,,,,,,,,,,x
-d_band_of_the_red,d_band_of_the_red,,Floti hinn raui,,,,,,,,,,,x
-d_band_of_the_red,d_band_of_the_red_adj,,Floti hinn raui,,,,,,,,,,,x
+d_band_of_the_red,d_band_of_the_red,,Floti hinn rau√∞i,,,,,,,,,,,x
+d_band_of_the_red,d_band_of_the_red_adj,,Floti hinn rau√∞i,,,,,,,,,,,x
 d_band_of_the_red,foa,,CAPTAIN_FOA,,,,,,,,,,,x
 d_band_of_the_red,title,,DROTTINN,,,,,,,,,,,x
 d_black_gang,d_black_gang,,Arumer Zwarte Hoop,,,,,,,,,,,x
 d_black_gang,d_black_gang_adj,,Arumer Zwarte Hoop,,,,,,,,,,,x
 d_black_gang,foa,,CAPTAIN_FOA,,,,,,,,,,,x
 d_black_gang,title,,CAPTAIN,,,,,,,,,,,x
-d_ulfhedar,d_ulfhedar,,⁄lfhÈnar,,,,,,,,,,,x
-d_ulfhedar,d_ulfhedar_adj,,⁄lfhÈnar,,,,,,,,,,,x
+d_ulfhedar,d_ulfhedar,,√ölfh√©√∞nar,,,,,,,,,,,x
+d_ulfhedar,d_ulfhedar_adj,,√ölfh√©√∞nar,,,,,,,,,,,x
 d_ulfhedar,foa,,CAPTAIN_FOA,,,,,,,,,,,x
 d_ulfhedar,title,,DROTTINN,,,,,,,,,,,x
 d_valr,d_valr,,Valr,,,,,,,,,,,x
 d_valr,d_valr_adj,,Valr,,,,,,,,,,,x
 d_valr,foa,,CAPTAIN_FOA,,,,,,,,,,,x
 d_valr,title,,DROTTINN,,,,,,,,,,,x
-d_curonian,d_curonian,,Kuröi,,,,,,,,,,,x
-d_curonian,d_curonian_adj,,Kuröiu,,,,,,,,,,,x
+d_curonian,d_curonian,,Kur≈°i,,,,,,,,,,,x
+d_curonian,d_curonian_adj,,Kur≈°iu,,,,,,,,,,,x
 d_selonians,d_selonians,,Seli,,,,,,,,,,,x
 d_selonians,d_selonians_adj,,Selu,,,,,,,,,,,x
-d_talavians,d_talavians,,T„lavi,,,,,,,,,,,x
-d_talavians,d_talavians_adj,,T„lavu,,,,,,,,,,,x
+d_talavians,d_talavians,,T√£lavi,,,,,,,,,,,x
+d_talavians,d_talavians_adj,,T√£lavu,,,,,,,,,,,x
 d_lettigalians,d_lettigalians,,Latgali,,,,,,,,,,,x
 d_lettigalians,d_lettigalians_adj,,Latgali,,,,,,,,,,,x
 d_zemigalians,d_zemigalians,,Zemgali,,,,,,,,,,,x
@@ -353,7 +353,7 @@ d_deltuvians,d_deltuvians,,Deltuvai,,,,,,,,,,,x
 d_deltuvians,d_deltuvians_adj,,Deltuvos,,,,,,,,,,,x
 d_yatviags,d_yatviags,,Jotvingiai,,,,,,,,,,,x
 d_yatviags,d_yatviags_adj,,Jotvingiu,,,,,,,,,,,x
-d_pruthenians,d_pruthenians,,Pr˘s‡,,,,,,,,,,,x
+d_pruthenians,d_pruthenians,,Pr√πs√†,,,,,,,,,,,x
 d_pruthenians,d_pruthenians_adj,,Prusu,,,,,,,,,,,x
 d_goliadj,d_goliadj,,Goladi,,,,,,,,,,,x
 d_goliadj,d_goliadj_adj,,Goladi,,,,,,,,,,,x
@@ -392,8 +392,8 @@ d_sorbs,d_sorbs,,Sorbs,,,,,,,,,,,x
 d_sorbs,d_sorbs_adj,,Sorbian,,,,,,,,,,,x
 d_lendians,d_lendians,,Ledzianie,,,,,,,,,,,x
 d_lendians,d_lendians_adj,,Ledzianie,,,,,,,,,,,x
-d_bohemians,d_bohemians,,CzechowÈ,,,,,,,,,,,x
-d_bohemians,d_bohemians_adj,,Czesk˝,,,,,,,,,,,x
+d_bohemians,d_bohemians,,Czechow√©,,,,,,,,,,,x
+d_bohemians,d_bohemians_adj,,Czesk√Ω,,,,,,,,,,,x
 d_drevlyans,d_drevlyans,,Drevlyane,,,,,,,,,,,x
 d_drevlyans,d_drevlyans_adj,,Drevlyane,,,,,,,,,,,x
 d_ulichs,d_ulichs,,Ulichane,,,,,,,,,,,x
@@ -418,12 +418,12 @@ d_radimichi,d_radimichi,,Radimichi,,,,,,,,,,,x
 d_radimichi,d_radimichi_adj,,Radimichi,,,,,,,,,,,x
 d_yawdi_ertim,d_yawdi_ertim,,Yawdi Ertim,,,,,,,,,,,x
 d_yawdi_ertim,d_yawdi_ertim_adj,,Yawdi Ertimian,,,,,,,,,,,x
-d_kuerchi_chur,d_kuerchi_chur,,K¸erchi Ch¸r,,,,,,,,,,,x
-d_kuerchi_chur,d_kuerchi_chur_adj,,K¸erchi Ch¸rian,,,,,,,,,,,x
+d_kuerchi_chur,d_kuerchi_chur,,K√ºerchi Ch√ºr,,,,,,,,,,,x
+d_kuerchi_chur,d_kuerchi_chur_adj,,K√ºerchi Ch√ºrian,,,,,,,,,,,x
 d_qabuqsin_yula,d_qabuqsin_yula,,Qabuqsin Yula,,,,,,,,,,,x
 d_qabuqsin_yula,d_qabuqsin_yula_adj,,Qabuqsin Yulaian,,,,,,,,,,,x
-d_suru_kulbej,d_suru_kulbej,,Suru K¸lbej,,,,,,,,,,,x
-d_suru_kulbej,d_suru_kulbej_adj,,Suru K¸lbejian,,,,,,,,,,,x
+d_suru_kulbej,d_suru_kulbej,,Suru K√ºlbej,,,,,,,,,,,x
+d_suru_kulbej,d_suru_kulbej_adj,,Suru K√ºlbejian,,,,,,,,,,,x
 d_qara_bay,d_qara_bay,,Qara Bay,,,,,,,,,,,x
 d_qara_bay,d_qara_bay_adj,,Qara Bayian,,,,,,,,,,,x
 d_boru_tolmach,d_boru_tolmach,,Boru Tolmach,,,,,,,,,,,x
@@ -444,15 +444,15 @@ d_qirghiz,title,,Elteber,,,,,,,,,,,x
 d_qirghiz,title_prefix,,Elteberluq_OF,,,,,,,,,,,x
 d_salgur,d_salgur,,Salgur,,,,,,,,,,,x
 d_salgur,d_salgur_adj,,Salgurish,,,,,,,,,,,x
-d_tekule,d_tekule,,Tek¸le,,,,,,,,,,,x
-d_tekule,d_tekule_adj,,Tek¸lish,,,,,,,,,,,x
+d_tekule,d_tekule,,Tek√ºle,,,,,,,,,,,x
+d_tekule,d_tekule_adj,,Tek√ºlish,,,,,,,,,,,x
 d_oghuz,d_oghuz,,Oghuz,,,,,,,,,,,x
 d_oghuz,d_oghuz_adj,,Oghuz,,,,,,,,,,,x
 d_oghuz,foa,,Yabghu_FOA,,,,,,,,,,,x
 d_oghuz,title,,Yabghu,,,,,,,,,,,x
 d_oghuz,title_prefix,,Yabghuluq_OF,,,,,,,,,,,x
-d_iraqiya_oghuz,d_iraqiya_oghuz,,IraqÌya,,,,,,,,,,,x
-d_iraqiya_oghuz,d_iraqiya_oghuz_adj,,IraqÌ'Ì,,,,,,,,,,,x
+d_iraqiya_oghuz,d_iraqiya_oghuz,,Iraq√≠ya,,,,,,,,,,,x
+d_iraqiya_oghuz,d_iraqiya_oghuz_adj,,Iraq√≠'√≠,,,,,,,,,,,x
 d_qarluq,d_qarluq,,Qarluq,,,,,,,,,,,x
 d_qarluq,d_qarluq_adj,,Qarluq,,,,,,,,,,,x
 d_yaghma,d_yaghma,,Yaghma,,,,,,,,,,,x
@@ -482,30 +482,30 @@ d_qipchaq,title,,Opa,,,,,,,,,,,x
 d_qipchaq,title_prefix,,Kuren_OF,,,,,,,,,,,x
 d_ay_opa,d_ay_opa,,Ay-opa,,,,,,,,,,,x
 d_ay_opa,d_ay_opa_adj,,Ay-opan,,,,,,,,,,,x
-d_dorut,d_dorut,,Dˆr¸t,,,,,,,,,,,x
-d_dorut,d_dorut_adj,,Dˆr¸tish,,,,,,,,,,,x
+d_dorut,d_dorut,,D√∂r√ºt,,,,,,,,,,,x
+d_dorut,d_dorut_adj,,D√∂r√ºtish,,,,,,,,,,,x
 d_terteroba,d_terteroba,,Terteroba,,,,,,,,,,,x
 d_terteroba,d_terteroba_adj,,Terteroban,,,,,,,,,,,x
 d_toqsoba,d_toqsoba,,Toqsoba,,,,,,,,,,,x
 d_toqsoba,d_toqsoba_adj,,Toqsoban,,,,,,,,,,,x
 d_yimek,d_yimek,,Yimek,,,,,,,,,,,x
 d_yimek,d_yimek_adj,,Yimekish,,,,,,,,,,,x
-d_enchogli,d_enchogli,,EnÁogli,,,,,,,,,,,x
-d_enchogli,d_enchogli_adj,,EnÁoglian,,,,,,,,,,,x
-d_olberlig,d_olberlig,,÷lberli,,,,,,,,,,,x
-d_olberlig,d_olberlig_adj,,÷lberlish,,,,,,,,,,,x
+d_enchogli,d_enchogli,,En√ßogli,,,,,,,,,,,x
+d_enchogli,d_enchogli_adj,,En√ßoglian,,,,,,,,,,,x
+d_olberlig,d_olberlig,,√ñlberli,,,,,,,,,,,x
+d_olberlig,d_olberlig_adj,,√ñlberlish,,,,,,,,,,,x
 d_targil,d_targil,,Targil,,,,,,,,,,,x
 d_targil,d_targil_adj,,Targilan,,,,,,,,,,,x
 d_qongurogli,d_qongurogli,,Qongorogli,,,,,,,,,,,x
 d_qongurogli,d_qongurogli_adj,,Qongoroglish,,,,,,,,,,,x
-d_oren,d_oren,,÷ren,,,,,,,,,,,x
-d_oren,d_oren_adj,,÷renian,,,,,,,,,,,x
+d_oren,d_oren,,√ñren,,,,,,,,,,,x
+d_oren,d_oren_adj,,√ñrenian,,,,,,,,,,,x
 d_qor,d_qor,,Qor,,,,,,,,,,,x
 d_qor,d_qor_adj,,Qorish,,,,,,,,,,,x
-d_burchali,d_burchali,,BurÁali,,,,,,,,,,,x
-d_burchali,d_burchali_adj,,BurÁalian,,,,,,,,,,,x
-d_chortan,d_chortan,,«ortan,,,,,,,,,,,x
-d_chortan,d_chortan_adj,,«ortanish,,,,,,,,,,,x
+d_burchali,d_burchali,,Bur√ßali,,,,,,,,,,,x
+d_burchali,d_burchali_adj,,Bur√ßalian,,,,,,,,,,,x
+d_chortan,d_chortan,,√áortan,,,,,,,,,,,x
+d_chortan,d_chortan_adj,,√áortanish,,,,,,,,,,,x
 d_ulasgoli,d_ulasgoli,,Ulashogli,,,,,,,,,,,x
 d_ulasgoli,d_ulasgoli_adj,,Ulashoglish,,,,,,,,,,,x
 d_urusoba,d_urusoba,,Urus-oba,,,,,,,,,,,x
@@ -515,7 +515,7 @@ d_kabars,d_kabars_adj,,Qabarish,,,,,,,,,,,x
 d_zunbil,d_zunbil,,Zunbils,,,,,,,,,,,x
 d_zunbil,d_zunbil_adj,,Zunbil,,,,,,,,,,,x
 d_shabankara,d_shabankara,,Shabankara,,,,,,,,,,,x
-d_shabankara,d_shabankara_adj,,ShabankaraÌ,,,,,,,,,,,x
+d_shabankara,d_shabankara_adj,,Shabankara√≠,,,,,,,,,,,x
 d_brodniks,d_brodniks,,Brodnici,,,,,,,,,,,x
 d_brodniks,d_brodniks_adj,,Brodnician,,,,,,,,,,,x
 d_bolohoveni,d_bolohoveni,,Bolohoveni,,,,,,,,,,,x
@@ -530,8 +530,8 @@ d_zyriane,bulgarian,,Zyriane,,,,,,,,,,,x
 d_zyriane,d_zyriane_adj_bulgarian,,Zyrianian,,,,,,,,,,,x
 d_zyriane,croatian,,Zyriane,,,,,,,,,,,x
 d_zyriane,d_zyriane_adj_croatian,,Zyrianian,,,,,,,,,,,x
-d_zyriane,danish,,SyrjÊnger,,,,,,,,,,,x
-d_zyriane,d_zyriane_adj_danish,,SyrjÊnger,,,,,,,,,,,x
+d_zyriane,danish,,Syrj√¶nger,,,,,,,,,,,x
+d_zyriane,d_zyriane_adj_danish,,Syrj√¶nger,,,,,,,,,,,x
 d_zyriane,karantanci,,Zyriane,,,,,,,,,,,x
 d_zyriane,d_zyriane_adj_karantanci,,Zyrianian,,,,,,,,,,,x
 d_zyriane,moravian,,Zyriane,,,,,,,,,,,x
@@ -546,80 +546,80 @@ d_zyriane,serbian,,Zyriane,,,,,,,,,,,x
 d_zyriane,d_zyriane_adj_serbian,,Zyrianian,,,,,,,,,,,x
 d_maris,d_maris,,Vice Mari,,,,,,,,,,,x
 d_maris,d_maris_adj,,Vice Marian,,,,,,,,,,,x
-d_maris,avar,,Sarm‰slar,,,,,,,,,,,x
-d_maris,d_maris_adj_avar,,Sarm‰sl‰rian,,,,,,,,,,,x
-d_maris,bashkir,,«irmislar,,,,,,,,,,,x
-d_maris,d_maris_adj_bashkir,,«irmeslarian,,,,,,,,,,,x
+d_maris,avar,,Sarm√§slar,,,,,,,,,,,x
+d_maris,d_maris_adj_avar,,Sarm√§sl√§rian,,,,,,,,,,,x
+d_maris,bashkir,,√áirmislar,,,,,,,,,,,x
+d_maris,d_maris_adj_bashkir,,√áirmeslarian,,,,,,,,,,,x
 d_maris,d_maris_adj_bohemian,,Cheremis,,,,,,,,,,,x
-d_maris,bolghar,,Sarm‰slar,,,,,,,,,,,x
-d_maris,d_maris_adj_bolghar,,Sarm‰sl‰rian,,,,,,,,,,,x
+d_maris,bolghar,,Sarm√§slar,,,,,,,,,,,x
+d_maris,d_maris_adj_bolghar,,Sarm√§sl√§rian,,,,,,,,,,,x
 d_maris,d_maris_adj_bosnian,,Cheremis,,,,,,,,,,,x
 d_maris,d_maris_adj_bulgarian,,Cheremis,,,,,,,,,,,x
 d_maris,d_maris_adj_croatian,,Cheremis,,,,,,,,,,,x
-d_maris,cuman,,«irmesl‰r,,,,,,,,,,,x
-d_maris,d_maris_adj_cuman,,«irmesl‰rian,,,,,,,,,,,x
+d_maris,cuman,,√áirmesl√§r,,,,,,,,,,,x
+d_maris,d_maris_adj_cuman,,√áirmesl√§rian,,,,,,,,,,,x
 d_maris,d_maris_adj_karantanci,,Cheremis,,,,,,,,,,,x
-d_maris,karluk,,«irmesl‰r,,,,,,,,,,,x
-d_maris,d_maris_adj_karluk,,«irmesl‰rian,,,,,,,,,,,x
-d_maris,kasogi,,«irmislar,,,,,,,,,,,x
-d_maris,khazar,,Sarm‰slar,,,,,,,,,,,x
-d_maris,d_maris_adj_khazar,,Sarm‰sl‰rian,,,,,,,,,,,x
-d_maris,d_maris_adj_khitan,,«irmesl‰rian,,,,,,,,,,,x
-d_maris,kirghiz,,«irmesl‰r,,,,,,,,,,,x
-d_maris,d_maris_adj_kirghiz,,«irmesl‰rian,,,,,,,,,,,x
-d_maris,mongol,,«irmesl‰r,,,,,,,,,,,x
-d_maris,d_maris_adj_mongol,,«irmesl‰rian,,,,,,,,,,,x
+d_maris,karluk,,√áirmesl√§r,,,,,,,,,,,x
+d_maris,d_maris_adj_karluk,,√áirmesl√§rian,,,,,,,,,,,x
+d_maris,kasogi,,√áirmislar,,,,,,,,,,,x
+d_maris,khazar,,Sarm√§slar,,,,,,,,,,,x
+d_maris,d_maris_adj_khazar,,Sarm√§sl√§rian,,,,,,,,,,,x
+d_maris,d_maris_adj_khitan,,√áirmesl√§rian,,,,,,,,,,,x
+d_maris,kirghiz,,√áirmesl√§r,,,,,,,,,,,x
+d_maris,d_maris_adj_kirghiz,,√áirmesl√§rian,,,,,,,,,,,x
+d_maris,mongol,,√áirmesl√§r,,,,,,,,,,,x
+d_maris,d_maris_adj_mongol,,√áirmesl√§rian,,,,,,,,,,,x
 d_maris,d_maris_adj_moravian,,Cheremis,,,,,,,,,,,x
-d_maris,oghuz,,«irmislar,,,,,,,,,,,x
-d_maris,d_maris_adj_oghuz,,«irmislarian,,,,,,,,,,,x
-d_maris,pecheneg,,«irmislar,,,,,,,,,,,x
-d_maris,d_maris_adj_pecheneg,,«irmislarian,,,,,,,,,,,x
+d_maris,oghuz,,√áirmislar,,,,,,,,,,,x
+d_maris,d_maris_adj_oghuz,,√áirmislarian,,,,,,,,,,,x
+d_maris,pecheneg,,√áirmislar,,,,,,,,,,,x
+d_maris,d_maris_adj_pecheneg,,√áirmislarian,,,,,,,,,,,x
 d_maris,d_maris_adj_polish,,Cheremis,,,,,,,,,,,x
 d_maris,d_maris_adj_pommeranian,,Cheremis,,,,,,,,,,,x
 d_maris,d_maris_adj_russian,,Cheremis,,,,,,,,,,,x
 d_maris,d_maris_adj_serbian,,Cheremis,,,,,,,,,,,x
-d_maris,turkish,,«irmislar,,,,,,,,,,,x
-d_maris,d_maris_adj_turkish,,«irmislarian,,,,,,,,,,,x
-d_maris,turkmen,,«irmislar,,,,,,,,,,,x
-d_maris,d_maris_adj_turkmen,,«irmislarian,,,,,,,,,,,x
-d_maris,uyghur,,«irmesl‰r,,,,,,,,,,,x
-d_maris,d_maris_adj_uyghur,,«irmesl‰rian,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga,,V¸tla Mari,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj,,V¸tla Marian,,,,,,,,,,,x
-d_maris_vetluga,avar,,TuÁi Sarm‰slar,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_avar,,TuÁi Sarm‰sl‰rian,,,,,,,,,,,x
-d_maris_vetluga,bashkir,,Tepe «irmislar,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_bashkir,,Tepe «irmeslarian,,,,,,,,,,,x
+d_maris,turkish,,√áirmislar,,,,,,,,,,,x
+d_maris,d_maris_adj_turkish,,√áirmislarian,,,,,,,,,,,x
+d_maris,turkmen,,√áirmislar,,,,,,,,,,,x
+d_maris,d_maris_adj_turkmen,,√áirmislarian,,,,,,,,,,,x
+d_maris,uyghur,,√áirmesl√§r,,,,,,,,,,,x
+d_maris,d_maris_adj_uyghur,,√áirmesl√§rian,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga,,V√ºtla Mari,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj,,V√ºtla Marian,,,,,,,,,,,x
+d_maris_vetluga,avar,,Tu√ßi Sarm√§slar,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_avar,,Tu√ßi Sarm√§sl√§rian,,,,,,,,,,,x
+d_maris_vetluga,bashkir,,Tepe √áirmislar,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_bashkir,,Tepe √áirmeslarian,,,,,,,,,,,x
 d_maris_vetluga,bohemian,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_bohemian,,Gornyye Cheremisian,,,,,,,,,,,x
-d_maris_vetluga,bolghar,,TuÁi Sarm‰slar,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_bolghar,,TuÁi Sarm‰sl‰rian,,,,,,,,,,,x
+d_maris_vetluga,bolghar,,Tu√ßi Sarm√§slar,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_bolghar,,Tu√ßi Sarm√§sl√§rian,,,,,,,,,,,x
 d_maris_vetluga,bosnian,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_bosnian,,Gornyye Cheremisian,,,,,,,,,,,x
 d_maris_vetluga,bulgarian,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_bulgarian,,Gornyye Cheremisian,,,,,,,,,,,x
 d_maris_vetluga,croatian,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_croatian,,Gornyye Cheremisian,,,,,,,,,,,x
-d_maris_vetluga,cuman,,Tepe «irmesl‰r,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_cuman,,Tepe «irmesl‰rian,,,,,,,,,,,x
+d_maris_vetluga,cuman,,Tepe √áirmesl√§r,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_cuman,,Tepe √áirmesl√§rian,,,,,,,,,,,x
 d_maris_vetluga,karantanci,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_karantanci,,Gornyye Cheremisian,,,,,,,,,,,x
-d_maris_vetluga,karluk,,Tepe «irmesl‰r,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_karluk,,Tepe «irmesl‰rian,,,,,,,,,,,x
-d_maris_vetluga,kasogi,,Tepe «irmislar,,,,,,,,,,,x
-d_maris_vetluga,khazar,,TuÁi Sarm‰slar,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_khazar,,TuÁi Sarm‰sl‰rian,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_khitan,,Tepe «irmeslarian,,,,,,,,,,,x
-d_maris_vetluga,kirghiz,,Tepe «irmesl‰r,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_kirghiz,,Tepe «irmesl‰rian,,,,,,,,,,,x
-d_maris_vetluga,mongol,,Tepe «irmesl‰r,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_mongol,,Tepe «irmesl‰rian,,,,,,,,,,,x
+d_maris_vetluga,karluk,,Tepe √áirmesl√§r,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_karluk,,Tepe √áirmesl√§rian,,,,,,,,,,,x
+d_maris_vetluga,kasogi,,Tepe √áirmislar,,,,,,,,,,,x
+d_maris_vetluga,khazar,,Tu√ßi Sarm√§slar,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_khazar,,Tu√ßi Sarm√§sl√§rian,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_khitan,,Tepe √áirmeslarian,,,,,,,,,,,x
+d_maris_vetluga,kirghiz,,Tepe √áirmesl√§r,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_kirghiz,,Tepe √áirmesl√§rian,,,,,,,,,,,x
+d_maris_vetluga,mongol,,Tepe √áirmesl√§r,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_mongol,,Tepe √áirmesl√§rian,,,,,,,,,,,x
 d_maris_vetluga,moravian,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_moravian,,Gornyye Cheremisian,,,,,,,,,,,x
-d_maris_vetluga,oghuz,,Tepe «irmislar,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_oghuz,,Tepe «irmeslarian,,,,,,,,,,,x
-d_maris_vetluga,pecheneg,,Tepe «irmislar,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_pecheneg,,Tepe «irmeslarian,,,,,,,,,,,x
+d_maris_vetluga,oghuz,,Tepe √áirmislar,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_oghuz,,Tepe √áirmeslarian,,,,,,,,,,,x
+d_maris_vetluga,pecheneg,,Tepe √áirmislar,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_pecheneg,,Tepe √áirmeslarian,,,,,,,,,,,x
 d_maris_vetluga,polish,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_polish,,Gornyye Cheremisian,,,,,,,,,,,x
 d_maris_vetluga,pommeranian,,Gornyye Cheremis,,,,,,,,,,,x
@@ -628,45 +628,45 @@ d_maris_vetluga,russian,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_russian,,Gornyye Cheremisian,,,,,,,,,,,x
 d_maris_vetluga,serbian,,Gornyye Cheremis,,,,,,,,,,,x
 d_maris_vetluga,d_maris_vetluga_adj_serbian,,Gornyye Cheremisian,,,,,,,,,,,x
-d_maris_vetluga,turkish,,Tepe «irmislar,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_turkish,,Tepe «irmeslarian,,,,,,,,,,,x
-d_maris_vetluga,turkmen,,Tepe «irmislar,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_turkmen,,Tepe «irmeslarian,,,,,,,,,,,x
-d_maris_vetluga,uyghur,,Tepe «irmesl‰r,,,,,,,,,,,x
-d_maris_vetluga,d_maris_vetluga_adj_uyghur,,Tepe «irmesl‰rian,,,,,,,,,,,x
+d_maris_vetluga,turkish,,Tepe √áirmislar,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_turkish,,Tepe √áirmeslarian,,,,,,,,,,,x
+d_maris_vetluga,turkmen,,Tepe √áirmislar,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_turkmen,,Tepe √áirmeslarian,,,,,,,,,,,x
+d_maris_vetluga,uyghur,,Tepe √áirmesl√§r,,,,,,,,,,,x
+d_maris_vetluga,d_maris_vetluga_adj_uyghur,,Tepe √áirmesl√§rian,,,,,,,,,,,x
 d_meryas,d_meryas,,Meryas,,,,,,,,,,,x
 d_meryas,d_meryas_adj,,Meryan,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza,,Erzy‰t,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj,,Erzy‰tan,,,,,,,,,,,x
-d_mordvins_erza,avar,,IrÁÎlar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_avar,,IrÁÎian,,,,,,,,,,,x
-d_mordvins_erza,bashkir,,œrz‰lar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_bashkir,,œrz‰ian,,,,,,,,,,,x
-d_mordvins_erza,bolghar,,IrÁÎlar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_bolghar,,IrÁÎian,,,,,,,,,,,x
-d_mordvins_erza,cuman,,œrz‰l‰r,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_cuman,,œrz‰ian,,,,,,,,,,,x
-d_mordvins_erza,karluk,,œrz‰lar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_karluk,,œrz‰ian,,,,,,,,,,,x
-d_mordvins_erza,kasogi,,IrÁilar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_kasogi,,IrÁian,,,,,,,,,,,x
-d_mordvins_erza,khazar,,IrÁÎlar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_khazar,,IrÁÎian,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_khitan,,œrz‰ian,,,,,,,,,,,x
-d_mordvins_erza,kirghiz,,œrz‰l‰r,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_kirghiz,,œrz‰ian,,,,,,,,,,,x
-d_mordvins_erza,mongol,,œrz‰l‰r,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_mongol,,œrz‰ian,,,,,,,,,,,x
-d_mordvins_erza,oghuz,,IrÁilar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_oghuz,,IrÁian,,,,,,,,,,,x
-d_mordvins_erza,pecheneg,,IrÁilar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_pecheneg,,IrÁian,,,,,,,,,,,x
-d_mordvins_erza,turkish,,IrÁilar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_turkish,,IrÁian,,,,,,,,,,,x
-d_mordvins_erza,turkmen,,IrÁilar,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_turkmen,,IrÁian,,,,,,,,,,,x
-d_mordvins_erza,uyghur,,œrz‰l‰r,,,,,,,,,,,x
-d_mordvins_erza,d_mordvins_erza_adj_uyghur,,œrz‰ian,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza,,Erzy√§t,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj,,Erzy√§tan,,,,,,,,,,,x
+d_mordvins_erza,avar,,Ir√ß√´lar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_avar,,Ir√ß√´ian,,,,,,,,,,,x
+d_mordvins_erza,bashkir,,√èrz√§lar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_bashkir,,√èrz√§ian,,,,,,,,,,,x
+d_mordvins_erza,bolghar,,Ir√ß√´lar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_bolghar,,Ir√ß√´ian,,,,,,,,,,,x
+d_mordvins_erza,cuman,,√èrz√§l√§r,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_cuman,,√èrz√§ian,,,,,,,,,,,x
+d_mordvins_erza,karluk,,√èrz√§lar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_karluk,,√èrz√§ian,,,,,,,,,,,x
+d_mordvins_erza,kasogi,,Ir√ßilar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_kasogi,,Ir√ßian,,,,,,,,,,,x
+d_mordvins_erza,khazar,,Ir√ß√´lar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_khazar,,Ir√ß√´ian,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_khitan,,√èrz√§ian,,,,,,,,,,,x
+d_mordvins_erza,kirghiz,,√èrz√§l√§r,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_kirghiz,,√èrz√§ian,,,,,,,,,,,x
+d_mordvins_erza,mongol,,√èrz√§l√§r,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_mongol,,√èrz√§ian,,,,,,,,,,,x
+d_mordvins_erza,oghuz,,Ir√ßilar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_oghuz,,Ir√ßian,,,,,,,,,,,x
+d_mordvins_erza,pecheneg,,Ir√ßilar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_pecheneg,,Ir√ßian,,,,,,,,,,,x
+d_mordvins_erza,turkish,,Ir√ßilar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_turkish,,Ir√ßian,,,,,,,,,,,x
+d_mordvins_erza,turkmen,,Ir√ßilar,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_turkmen,,Ir√ßian,,,,,,,,,,,x
+d_mordvins_erza,uyghur,,√èrz√§l√§r,,,,,,,,,,,x
+d_mordvins_erza,d_mordvins_erza_adj_uyghur,,√èrz√§ian,,,,,,,,,,,x
 d_mordvins,d_mordvins,,Mokshet,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj,,Mokshetian,,,,,,,,,,,x
 d_mordvins,afghan,,Tuqshi,,,,,,,,,,,x
@@ -683,11 +683,11 @@ d_mordvins,armenian,,Mordia,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_armenian,,Mordian,,,,,,,,,,,x
 d_mordvins,arpitan,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_arpitan,,Mersdasian,,,,,,,,,,,x
-d_mordvins,avar,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,avar,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_avar,,Tuqshi,,,,,,,,,,,x
 d_mordvins,baloch,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_baloch,,Tuqshi,,,,,,,,,,,x
-d_mordvins,bashkir,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,bashkir,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_bashkir,,Tuqshi,,,,,,,,,,,x
 d_mordvins,basque,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_basque,,Mersdasian,,,,,,,,,,,x
@@ -697,7 +697,7 @@ d_mordvins,bedouin_arabic,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_bedouin_arabic,,Tuqshi,,,,,,,,,,,x
 d_mordvins,bohemian,,Mordva,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_bohemian,,Mordvan,,,,,,,,,,,x
-d_mordvins,bolghar,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,bolghar,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_bolghar,,Tuqshi,,,,,,,,,,,x
 d_mordvins,bosnian,,Mordva,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_bosnian,,Mordvan,,,,,,,,,,,x
@@ -712,7 +712,7 @@ d_mordvins,corsican,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_corsican,,Mersdasian,,,,,,,,,,,x
 d_mordvins,croatian,,Mordva,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_croatian,,Mordvan,,,,,,,,,,,x
-d_mordvins,cuman,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,cuman,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_cuman,,Tuqshi,,,,,,,,,,,x
 d_mordvins,dalmatian,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_dalmatian,,Mersdasian,,,,,,,,,,,x
@@ -744,17 +744,17 @@ d_mordvins,italian,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_italian,,Mersdasian,,,,,,,,,,,x
 d_mordvins,karantanci,,Mordva,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_karantanci,,Mordvan,,,,,,,,,,,x
-d_mordvins,karluk,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,karluk,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_karluk,,Tuqshi,,,,,,,,,,,x
-d_mordvins,kasogi,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,kasogi,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,khalaj,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_khalaj,,Tuqshi,,,,,,,,,,,x
-d_mordvins,khazar,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,khazar,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_khazar,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_khitan,,Tuqshi,,,,,,,,,,,x
 d_mordvins,khwarezmi,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_khwarezmi,,Tuqshi,,,,,,,,,,,x
-d_mordvins,kirghiz,,Tuqöil‰r,,,,,,,,,,,x
+d_mordvins,kirghiz,,Tuq≈°il√§r,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_kirghiz,,Tuqshi,,,,,,,,,,,x
 d_mordvins,kurdish,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_kurdish,,Tuqshi,,,,,,,,,,,x
@@ -775,7 +775,7 @@ d_mordvins,maghreb_arabic,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_maghreb_arabic,,Tuqshi,,,,,,,,,,,x
 d_mordvins,masmuda,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_masmuda,,Tuqshi,,,,,,,,,,,x
-d_mordvins,mongol,,Tuqöil‰r,,,,,,,,,,,x
+d_mordvins,mongol,,Tuq≈°il√§r,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_mongol,,Tuqshi,,,,,,,,,,,x
 d_mordvins,moravian,,Mordva,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_moravian,,Mordvan,,,,,,,,,,,x
@@ -786,11 +786,11 @@ d_mordvins,d_mordvins_adj_norman,,Mersdasian,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_norwegian,,Mersdasian,,,,,,,,,,,x
 d_mordvins,occitan,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_occitan,,Mersdasian,,,,,,,,,,,x
-d_mordvins,oghuz,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,oghuz,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_oghuz,,Tuqshi,,,,,,,,,,,x
 d_mordvins,pahlavi,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_pahlavi,,Tuqshi,,,,,,,,,,,x
-d_mordvins,pecheneg,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,pecheneg,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_pecheneg,,Tuqshi,,,,,,,,,,,x
 d_mordvins,persian,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_persian,,Tuqshi,,,,,,,,,,,x
@@ -830,13 +830,13 @@ d_mordvins,thuringian,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_thuringian,,Mersdasian,,,,,,,,,,,x
 d_mordvins,tuareg,,Tuqshi,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_tuareg,,Tuqshi,,,,,,,,,,,x
-d_mordvins,turkish,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,turkish,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_turkish,,Tuqshi,,,,,,,,,,,x
-d_mordvins,turkmen,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,turkmen,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_turkmen,,Tuqshi,,,,,,,,,,,x
 d_mordvins,tuscan,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_tuscan,,Mersdasian,,,,,,,,,,,x
-d_mordvins,uyghur,,Tuqöilar,,,,,,,,,,,x
+d_mordvins,uyghur,,Tuq≈°ilar,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_uyghur,,Tuqshi,,,,,,,,,,,x
 d_mordvins,venetian,,Merdas,,,,,,,,,,,x
 d_mordvins,d_mordvins_adj_venetian,,Mersdasian,,,,,,,,,,,x
@@ -866,7 +866,7 @@ d_burtas,bulgarian,,Burtasy,,,,,,,,,,,x
 d_burtas,d_burtas_adj_bulgarian,,Burtasy,,,,,,,,,,,x
 d_burtas,croatian,,Burtasy,,,,,,,,,,,x
 d_burtas,d_burtas_adj_croatian,,Burtasy,,,,,,,,,,,x
-d_burtas,cuman,,Bortasl‰r,,,,,,,,,,,x
+d_burtas,cuman,,Bortasl√§r,,,,,,,,,,,x
 d_burtas,d_burtas_adj_cuman,,Bortas,,,,,,,,,,,x
 d_burtas,daylamite,,Burdas,,,,,,,,,,,x
 d_burtas,d_burtas_adj_daylamite,,Burdas,,,,,,,,,,,x
@@ -885,7 +885,7 @@ d_burtas,d_burtas_adj_khazar,,Bortas,,,,,,,,,,,x
 d_burtas,d_burtas_adj_khitan,,Bortas,,,,,,,,,,,x
 d_burtas,khwarezmi,,Burdas,,,,,,,,,,,x
 d_burtas,d_burtas_adj_khwarezmi,,Burdas,,,,,,,,,,,x
-d_burtas,kirghiz,,Bortasl‰r,,,,,,,,,,,x
+d_burtas,kirghiz,,Bortasl√§r,,,,,,,,,,,x
 d_burtas,d_burtas_adj_kirghiz,,Bortas,,,,,,,,,,,x
 d_burtas,kurdish,,Burdas,,,,,,,,,,,x
 d_burtas,d_burtas_adj_kurdish,,Burdas,,,,,,,,,,,x
@@ -895,7 +895,7 @@ d_burtas,maghreb_arabic,,Burdas,,,,,,,,,,,x
 d_burtas,d_burtas_adj_maghreb_arabic,,Burdas,,,,,,,,,,,x
 d_burtas,masmuda,,Burdas,,,,,,,,,,,x
 d_burtas,d_burtas_adj_masmuda,,Burdas,,,,,,,,,,,x
-d_burtas,mongol,,Bortasl‰r,,,,,,,,,,,x
+d_burtas,mongol,,Bortasl√§r,,,,,,,,,,,x
 d_burtas,d_burtas_adj_mongol,,Bortas,,,,,,,,,,,x
 d_burtas,moravian,,Burtasy,,,,,,,,,,,x
 d_burtas,d_burtas_adj_moravian,,Burtasy,,,,,,,,,,,x
@@ -939,8 +939,8 @@ d_burtas,zanata,,Burdas,,,,,,,,,,,x
 d_burtas,d_burtas_adj_zanata,,Burdas,,,,,,,,,,,x
 d_muromians,d_muromians,,Muromians,,,,,,,,,,,x
 d_muromians,d_muromians_adj,,Muromian,,,,,,,,,,,x
-d_lyydians,d_lyydians,,L¸¸dil‰iûed,,,,,,,,,,,x
-d_lyydians,d_lyydians_adj,,L¸¸dil‰iûed,,,,,,,,,,,x
+d_lyydians,d_lyydians,,L√º√ºdil√§i≈æed,,,,,,,,,,,x
+d_lyydians,d_lyydians_adj,,L√º√ºdil√§i≈æed,,,,,,,,,,,x
 d_lyydians,bohemian,,Ljudiny,,,,,,,,,,,x
 d_lyydians,d_lyydians_adj_bohemian,,Ljudinyan,,,,,,,,,,,x
 d_lyydians,bosnian,,Ljudiny,,,,,,,,,,,x
@@ -961,8 +961,8 @@ d_lyydians,russian,,Ljudiny,,,,,,,,,,,x
 d_lyydians,d_lyydians_adj_russian,,Ljudinyan,,,,,,,,,,,x
 d_lyydians,serbian,,Ljudiny,,,,,,,,,,,x
 d_lyydians,d_lyydians_adj_serbian,,Ljudinyan,,,,,,,,,,,x
-d_chudes,d_chudes,,Vepsl‰iûed,,,,,,,,,,,x
-d_chudes,d_chudes_adj,,Vepsl‰iûedian,,,,,,,,,,,x
+d_chudes,d_chudes,,Vepsl√§i≈æed,,,,,,,,,,,x
+d_chudes,d_chudes_adj,,Vepsl√§i≈æedian,,,,,,,,,,,x
 d_chudes,bohemian,,Chud',,,,,,,,,,,x
 d_chudes,d_chudes_adj_bohemian,,Chud'ian,,,,,,,,,,,x
 d_chudes,bosnian,,Chud',,,,,,,,,,,x
@@ -973,8 +973,8 @@ d_chudes,croatian,,Chud',,,,,,,,,,,x
 d_chudes,d_chudes_adj_croatian,,Chud'ian,,,,,,,,,,,x
 d_chudes,karantanci,,Chud',,,,,,,,,,,x
 d_chudes,d_chudes_adj_karantanci,,Chud'ian,,,,,,,,,,,x
-d_chudes,lappish,,Etel‰töuudilaö,,,,,,,,,,,x
-d_chudes,d_chudes_adj_lappish,,Etel‰töuudilaö,,,,,,,,,,,x
+d_chudes,lappish,,Etel√§t≈°uudila≈°,,,,,,,,,,,x
+d_chudes,d_chudes_adj_lappish,,Etel√§t≈°uudila≈°,,,,,,,,,,,x
 d_chudes,moravian,,Chud',,,,,,,,,,,x
 d_chudes,d_chudes_adj_moravian,,Chud'ian,,,,,,,,,,,x
 d_chudes,polish,,Chud',,,,,,,,,,,x
@@ -985,8 +985,8 @@ d_chudes,russian,,Chud',,,,,,,,,,,x
 d_chudes,d_chudes_adj_russian,,Chud'ian,,,,,,,,,,,x
 d_chudes,serbian,,Chud',,,,,,,,,,,x
 d_chudes,d_chudes_adj_serbian,,Chud'ian,,,,,,,,,,,x
-d_toimians,d_toimians,,Toimil‰iûed,,,,,,,,,,,x
-d_toimians,d_toimians_adj,,Toimil‰iûed,,,,,,,,,,,x
+d_toimians,d_toimians,,Toimil√§i≈æed,,,,,,,,,,,x
+d_toimians,d_toimians_adj,,Toimil√§i≈æed,,,,,,,,,,,x
 d_toimians,d_toimians_adj_bohemian,,Toimitsian,,,,,,,,,,,x
 d_toimians,d_toimians_adj_bosnian,,Toimitsian,,,,,,,,,,,x
 d_toimians,d_toimians_adj_bulgarian,,Toimitsian,,,,,,,,,,,x
@@ -997,8 +997,8 @@ d_toimians,d_toimians_adj_polish,,Toimitsian,,,,,,,,,,,x
 d_toimians,d_toimians_adj_pommeranian,,Toimitsian,,,,,,,,,,,x
 d_toimians,d_toimians_adj_russian,,Toimitsian,,,,,,,,,,,x
 d_toimians,d_toimians_adj_serbian,,Toimitsian,,,,,,,,,,,x
-d_bjarmians,d_bjarmians,,Bjarmil‰iûed,,,,,,,,,,,x
-d_bjarmians,d_bjarmians_adj,,Bjarmil‰iûed,,,,,,,,,,,x
+d_bjarmians,d_bjarmians,,Bjarmil√§i≈æed,,,,,,,,,,,x
+d_bjarmians,d_bjarmians_adj,,Bjarmil√§i≈æed,,,,,,,,,,,x
 d_bjarmians,anglonorse,,Bjarmir,,,,,,,,,,,x
 d_bjarmians,d_bjarmians_adj_anglonorse,,Bjarmir,,,,,,,,,,,x
 d_bjarmians,bohemian,,Zavoloch'e Chud',,,,,,,,,,,x
@@ -1017,8 +1017,8 @@ d_bjarmians,icelandic,,Bjarmir,,,,,,,,,,,x
 d_bjarmians,d_bjarmians_adj_icelandic,,Bjarmir,,,,,,,,,,,x
 d_bjarmians,karantanci,,Zavoloch'e Chud',,,,,,,,,,,x
 d_bjarmians,d_bjarmians_adj_karantanci,,Zavoloch'e Chud'ian,,,,,,,,,,,x
-d_bjarmians,lappish,,Norjantöuudilaö,,,,,,,,,,,x
-d_bjarmians,d_bjarmians_adj_lappish,,Norjantöuudilaö,,,,,,,,,,,x
+d_bjarmians,lappish,,Norjant≈°uudila≈°,,,,,,,,,,,x
+d_bjarmians,d_bjarmians_adj_lappish,,Norjant≈°uudila≈°,,,,,,,,,,,x
 d_bjarmians,moravian,,Zavoloch'e Chud',,,,,,,,,,,x
 d_bjarmians,d_bjarmians_adj_moravian,,Zavoloch'e Chud'ian,,,,,,,,,,,x
 d_bjarmians,norse,,Bjarmir,,,,,,,,,,,x
@@ -1041,10 +1041,10 @@ d_bjarmians,serbian,,Zavoloch'e Chud',,,,,,,,,,,x
 d_bjarmians,d_bjarmians_adj_serbian,,Zavoloch'e Chud'ian,,,,,,,,,,,x
 d_bjarmians,swedish,,Bjarmir,,,,,,,,,,,x
 d_bjarmians,d_bjarmians_adj_swedish,,Bjarmir,,,,,,,,,,,x
-d_livgians,d_livgians,,Livgilaiûed,,,,,,,,,,,x
-d_livgians,d_livgians_adj,,Livgilaiûedan,,,,,,,,,,,x
-d_karelians,d_karelians,,Karjalaiûed,,,,,,,,,,,x
-d_karelians,d_karelians_adj,,Karjalaiûed,,,,,,,,,,,x
+d_livgians,d_livgians,,Livgilai≈æed,,,,,,,,,,,x
+d_livgians,d_livgians_adj,,Livgilai≈æedan,,,,,,,,,,,x
+d_karelians,d_karelians,,Karjalai≈æed,,,,,,,,,,,x
+d_karelians,d_karelians_adj,,Karjalai≈æed,,,,,,,,,,,x
 d_karelians,d_karelians_adj_bohemian,,Karely,,,,,,,,,,,x
 d_karelians,d_karelians_adj_bosnian,,Karely,,,,,,,,,,,x
 d_karelians,d_karelians_adj_bulgarian,,Karely,,,,,,,,,,,x
@@ -1054,8 +1054,8 @@ d_karelians,d_karelians_adj_moravian,,Karely,,,,,,,,,,,x
 d_karelians,d_karelians_adj_pommeranian,,Karely,,,,,,,,,,,x
 d_karelians,d_karelians_adj_russian,,Karely,,,,,,,,,,,x
 d_karelians,d_karelians_adj_serbian,,Karely,,,,,,,,,,,x
-d_horse_karelians,d_horse_karelians,,Tamma-Karjalaiûed,,,,,,,,,,,x
-d_horse_karelians,d_horse_karelians_adj,,Tamma-Karjalaiûed,,,,,,,,,,,x
+d_horse_karelians,d_horse_karelians,,Tamma-Karjalai≈æed,,,,,,,,,,,x
+d_horse_karelians,d_horse_karelians_adj,,Tamma-Karjalai≈æed,,,,,,,,,,,x
 d_horse_karelians,d_horse_karelians_adj_bohemian,,Kobylitskie Karely,,,,,,,,,,,x
 d_horse_karelians,d_horse_karelians_adj_bosnian,,Kobylitskie Karely,,,,,,,,,,,x
 d_horse_karelians,d_horse_karelians_adj_bulgarian,,Kobylitskie Karely,,,,,,,,,,,x
@@ -1071,8 +1071,8 @@ d_ugandians,d_ugandians,,Ugandilased,,,,,,,,,,,x
 d_ugandians,d_ugandians_adj,,Ugandian,,,,,,,,,,,x
 d_oseelians,d_oseelians,,Saarlased,,,,,,,,,,,x
 d_oseelians,d_oseelians_adj,,,,,,,,,,,,,x
-d_rotalians,d_rotalians,,L‰‰nelased,,,,,,,,,,,x
-d_rotalians,d_rotalians_adj,,L‰‰nemaaian,,,,,,,,,,,x
+d_rotalians,d_rotalians,,L√§√§nelased,,,,,,,,,,,x
+d_rotalians,d_rotalians_adj,,L√§√§nemaaian,,,,,,,,,,,x
 d_vironians,d_vironians,,Virulased,,,,,,,,,,,x
 d_vironians,d_vironians_adj,,Virulanian,,,,,,,,,,,x
 d_sakalians,d_sakalians,,Sakali,,,,,,,,,,,x
@@ -1103,8 +1103,8 @@ d_sami,serbian,,Lop',,,,,,,,,,,x
 d_sami,d_sami_adj_serbian,,Lop'ian,,,,,,,,,,,x
 d_satakunta,d_satakunta,,Satakuntans,,,,,,,,,,,x
 d_satakunta,d_satakunta_adj,,Satakuntan,,,,,,,,,,,x
-d_tavasts,d_tavasts,,H‰m‰l‰iset,,,,,,,,,,,x
-d_tavasts,d_tavasts_adj,,H‰m‰l‰iset,,,,,,,,,,,x
+d_tavasts,d_tavasts,,H√§m√§l√§iset,,,,,,,,,,,x
+d_tavasts,d_tavasts_adj,,H√§m√§l√§iset,,,,,,,,,,,x
 d_tavasts,bohemian,,Jem,,,,,,,,,,,x
 d_tavasts,d_tavasts_adj_bohemian,,Jemian,,,,,,,,,,,x
 d_tavasts,bosnian,,Jem,,,,,,,,,,,x
@@ -1208,32 +1208,32 @@ d_votes,swabian,,Woten,,,,,,,,,,,x
 d_votes,d_votes_adj_swabian,,Wotian,,,,,,,,,,,x
 d_votes,thuringian,,Woten,,,,,,,,,,,x
 d_votes,d_votes_adj_thuringian,,Wotian,,,,,,,,,,,x
-d_ingrians,d_ingrians,,Inkerilaiûed,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj,,Inkerilaiûed,,,,,,,,,,,x
-d_ingrians,bohemian,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_bohemian,,Iûoryian,,,,,,,,,,,x
-d_ingrians,bosnian,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_bosnian,,Iûoryian,,,,,,,,,,,x
-d_ingrians,bulgarian,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_bulgarian,,Iûoryian,,,,,,,,,,,x
-d_ingrians,croatian,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_croatian,,Iûoryian,,,,,,,,,,,x
-d_ingrians,karantanci,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_karantanci,,Iûoryian,,,,,,,,,,,x
-d_ingrians,lettigallish,,Iûorai,,,,,,,,,,,x
-d_ingrians,lithuanian,,Iûorai,,,,,,,,,,,x
-d_ingrians,moravian,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_moravian,,Iûoryian,,,,,,,,,,,x
-d_ingrians,polish,,Iûory,,,,,,,,,,,x
-d_ingrians,pommeranian,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_pommeranian,,Iûoryian,,,,,,,,,,,x
-d_ingrians,prussian,,Iûorai,,,,,,,,,,,x
-d_ingrians,russian,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_russian,,Iûoryian,,,,,,,,,,,x
-d_ingrians,serbian,,Iûory,,,,,,,,,,,x
-d_ingrians,d_ingrians_adj_serbian,,Iûoryian,,,,,,,,,,,x
-d_kylfings,d_kylfings,,Kylfingilaö,,,,,,,,,,,x
-d_kylfings,d_kylfings_adj,,Kylfingilaö,,,,,,,,,,,x
+d_ingrians,d_ingrians,,Inkerilai≈æed,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj,,Inkerilai≈æed,,,,,,,,,,,x
+d_ingrians,bohemian,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_bohemian,,I≈æoryian,,,,,,,,,,,x
+d_ingrians,bosnian,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_bosnian,,I≈æoryian,,,,,,,,,,,x
+d_ingrians,bulgarian,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_bulgarian,,I≈æoryian,,,,,,,,,,,x
+d_ingrians,croatian,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_croatian,,I≈æoryian,,,,,,,,,,,x
+d_ingrians,karantanci,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_karantanci,,I≈æoryian,,,,,,,,,,,x
+d_ingrians,lettigallish,,I≈æorai,,,,,,,,,,,x
+d_ingrians,lithuanian,,I≈æorai,,,,,,,,,,,x
+d_ingrians,moravian,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_moravian,,I≈æoryian,,,,,,,,,,,x
+d_ingrians,polish,,I≈æory,,,,,,,,,,,x
+d_ingrians,pommeranian,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_pommeranian,,I≈æoryian,,,,,,,,,,,x
+d_ingrians,prussian,,I≈æorai,,,,,,,,,,,x
+d_ingrians,russian,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_russian,,I≈æoryian,,,,,,,,,,,x
+d_ingrians,serbian,,I≈æory,,,,,,,,,,,x
+d_ingrians,d_ingrians_adj_serbian,,I≈æoryian,,,,,,,,,,,x
+d_kylfings,d_kylfings,,Kylfingila≈°,,,,,,,,,,,x
+d_kylfings,d_kylfings_adj,,Kylfingila≈°,,,,,,,,,,,x
 d_kylfings,alan,,Koulpingoi,,,,,,,,,,,x
 d_kylfings,anglonorse,,Kylfingar,,,,,,,,,,,x
 d_kylfings,d_kylfings_adj_anglonorse,,Kylfingarian,,,,,,,,,,,x
@@ -1282,17 +1282,17 @@ d_kylfings,sicilian_greek,,Koulpingoi,,,,,,,,,,,x
 d_kylfings,d_kylfings_adj_sicilian_greek,,Koulpingoian,,,,,,,,,,,x
 d_kylfings,swedish,,Kylfingar,,,,,,,,,,,x
 d_kylfings,d_kylfings_adj_swedish,,Kylfingarian,,,,,,,,,,,x
-d_kvens,d_kvens,,Kveanatlaö,,,,,,,,,,,x
-d_kvens,d_kvens_adj,,Kveanatlaö,,,,,,,,,,,x
-d_kvens,d_kvens_adj_anglonorse,,KvÊnir,,,,,,,,,,,x
-d_kvens,d_kvens_adj_danish,,KvÊnir,,,,,,,,,,,x
-d_kvens,d_kvens_adj_gothic,,KvÊnir,,,,,,,,,,,x
-d_kvens,d_kvens_adj_icelandic,,KvÊnir,,,,,,,,,,,x
-d_kvens,d_kvens_adj_norse,,KvÊnir,,,,,,,,,,,x
-d_kvens,d_kvens_adj_norsegaelic,,KvÊnir,,,,,,,,,,,x
-d_kvens,d_kvens_adj_norwegian,,KvÊnir,,,,,,,,,,,x
+d_kvens,d_kvens,,Kveanatla≈°,,,,,,,,,,,x
+d_kvens,d_kvens_adj,,Kveanatla≈°,,,,,,,,,,,x
+d_kvens,d_kvens_adj_anglonorse,,Kv√¶nir,,,,,,,,,,,x
+d_kvens,d_kvens_adj_danish,,Kv√¶nir,,,,,,,,,,,x
+d_kvens,d_kvens_adj_gothic,,Kv√¶nir,,,,,,,,,,,x
+d_kvens,d_kvens_adj_icelandic,,Kv√¶nir,,,,,,,,,,,x
+d_kvens,d_kvens_adj_norse,,Kv√¶nir,,,,,,,,,,,x
+d_kvens,d_kvens_adj_norsegaelic,,Kv√¶nir,,,,,,,,,,,x
+d_kvens,d_kvens_adj_norwegian,,Kv√¶nir,,,,,,,,,,,x
 d_kvens,d_kvens_adj_saxon,,Cwenas,,,,,,,,,,,x
-d_kvens,d_kvens_adj_swedish,,KvÊnir,,,,,,,,,,,x
+d_kvens,d_kvens_adj_swedish,,Kv√¶nir,,,,,,,,,,,x
 d_kvens_birkarls,d_kvens_birkarls,,Bircharlaboa,,,,,,,,,,,x
 d_kvens_birkarls,d_kvens_birkarls_adj,,Bircharlaboa,,,,,,,,,,,x
 d_samoyeds,d_samoyeds,,Sikhirti,,,,,,,,,,,x
@@ -1302,17 +1302,17 @@ d_baloch,d_baloch_adj,,Balochian,,,,,,,,,,,x
 k_hilal,k_hilal,,Hilal,,,,,,,,,,,x
 k_hilal,k_hilal_adj,,Hilalian,,,,,,,,,,,x
 k_saxonengland,k_saxonengland,,Englaland,,,,,,,,,,,x
-k_saxonengland,k_saxonengland_adj,,∆nglisc,,,,,,,,,,,x
+k_saxonengland,k_saxonengland_adj,,√Ünglisc,,,,,,,,,,,x
 d_swabia,d_swabia,,Schwaben,,,,,,,,,,,x
-d_swabia,d_swabia_adj,,Schw‰bische,,,,,,,,,,,x
+d_swabia,d_swabia_adj,,Schw√§bische,,,,,,,,,,,x
 d_lower_lorraine,d_lower_lorraine,,Niederlothringen,,,,,,,,,,,x
 d_lower_lorraine,d_lower_lorraine_adj,,Niederlothringische,,,,,,,,,,,x
 d_bavaria,d_bavaria,,Baiern,,,,,,,,,,,x
 d_bavaria,d_bavaria_adj,,Bairische,,,,,,,,,,,x
 d_saxony,d_saxony,,Sachsen,,,,,,,,,,,x
-d_saxony,d_saxony_adj,,S‰chsische,,,,,,,,,,,x
+d_saxony,d_saxony_adj,,S√§chsische,,,,,,,,,,,x
 d_franconia,d_franconia,,Franken,,,,,,,,,,,x
-d_franconia,d_franconia_adj,,Fr‰nkische,,,,,,,,,,,x
+d_franconia,d_franconia_adj,,Fr√§nkische,,,,,,,,,,,x
 d_knights_templar,d_knights_templar,,Knights Templar,,,,,,,,,,,x
 d_knights_templar,d_knights_templar_adj,,Templar,,,,,,,,,,,x
 d_knights_templar,foa,,GRANDMASTER_FOA,,,,,,,,,,,x
@@ -1321,8 +1321,8 @@ d_teutonic_order,d_teutonic_order,,Teutonic Order,,,,,,,,,,,x
 d_teutonic_order,d_teutonic_order_adj,,Teutonic,,,,,,,,,,,x
 d_teutonic_order,foa,,HOCHMEISTER_FOA,,,,,,,,,,,x
 d_teutonic_order,title,,HOCHMEISTER,,,,,,,,,,,x
-d_livonian_brothers_of_the_sword,d_livonian_brothers_of_the_sword,,Schwertbr¸derorden,,,,,,,,,,,x
-d_livonian_brothers_of_the_sword,d_livonian_brothers_of_the_sword_adj,,Schwertbr¸derische,,,,,,,,,,,x
+d_livonian_brothers_of_the_sword,d_livonian_brothers_of_the_sword,,Schwertbr√ºderorden,,,,,,,,,,,x
+d_livonian_brothers_of_the_sword,d_livonian_brothers_of_the_sword_adj,,Schwertbr√ºderische,,,,,,,,,,,x
 d_livonian_brothers_of_the_sword,foa,,HOCHMEISTER_FOA,,,,,,,,,,,x
 d_livonian_brothers_of_the_sword,title,,HOCHMEISTER,,,,,,,,,,,x
 d_knights_hospitaler,d_knights_hospitaler,,Knights Hospitaller,,,,,,,,,,,x
@@ -1624,27 +1624,27 @@ d_ghanan_band,foa,,CAPTAIN_FOA,,,,,,,,,,,x
 d_ghanan_band,title,,CAPTAIN,,,,,,,,,,,x
 e_roman_empire,e_roman_empire,,Roman Empire,,,,,,,,,,,x
 e_roman_empire,e_roman_empire_adj,,Roman,,,,,,,,,,,x
-e_roman_empire,anglonorse,,RÛmverska keisaradÊmi,,,,,,,,,,,x
+e_roman_empire,anglonorse,,R√≥mverska keisarad√¶mi√∞,,,,,,,,,,,x
 e_roman_empire,arberian,,Perandoria Romake,,,,,,,,,,,x
 e_roman_empire,armenian,,Hrromeakan Kaysrut'yun,,,,,,,,,,,x
-e_roman_empire,bohemian,,RzÌmsk· RzÌöe,,,,,,,,,,,x
+e_roman_empire,bohemian,,Rz√≠msk√° Rz√≠≈°e,,,,,,,,,,,x
 e_roman_empire,bosnian,,Rimsku Imperiju,,,,,,,,,,,x
 e_roman_empire,bulgarian,,Rimska Imperiya,,,,,,,,,,,x
 e_roman_empire,croatian,,Rimsko Carstvo,,,,,,,,,,,x
-e_roman_empire,danish,,RÛmverska keisaradÊmi,,,,,,,,,,,x
+e_roman_empire,danish,,R√≥mverska keisarad√¶mi√∞,,,,,,,,,,,x
 e_roman_empire,georgian,,Romis Imperia,,,,,,,,,,,x
-e_roman_empire,hungarian,,RÛmai Birodalom,,,,,,,,,,,x
-e_roman_empire,icelandic,,RÛmverska keisaradÊmi,,,,,,,,,,,x
-e_roman_empire,karantanci,,Rimsko Ces·rstvo,,,,,,,,,,,x
-e_roman_empire,norse,,RÛmverska keisaradÊmi,,,,,,,,,,,x
-e_roman_empire,norsegaelic,,RÛmverska keisaradÊmi,,,,,,,,,,,x
-e_roman_empire,norwegian,,RÛmverska keisaradÊmi,,,,,,,,,,,x
+e_roman_empire,hungarian,,R√≥mai Birodalom,,,,,,,,,,,x
+e_roman_empire,icelandic,,R√≥mverska keisarad√¶mi√∞,,,,,,,,,,,x
+e_roman_empire,karantanci,,Rimsko Ces√°rstvo,,,,,,,,,,,x
+e_roman_empire,norse,,R√≥mverska keisarad√¶mi√∞,,,,,,,,,,,x
+e_roman_empire,norsegaelic,,R√≥mverska keisarad√¶mi√∞,,,,,,,,,,,x
+e_roman_empire,norwegian,,R√≥mverska keisarad√¶mi√∞,,,,,,,,,,,x
 e_roman_empire,polish,,Cesarstwo Rzymski,,,,,,,,,,,x
 e_roman_empire,roman,,Imperium Romanum,,,,,,,,,,,x
 e_roman_empire,romanian,,Imperiul Roman,,,,,,,,,,,x
 e_roman_empire,russian,,Rimskaya Imperiya,,,,,,,,,,,x
 e_roman_empire,serbian,,Rimsko Carstvo,,,,,,,,,,,x
-e_roman_empire,swedish,,RÛmverska keisaradÊmi,,,,,,,,,,,x
+e_roman_empire,swedish,,R√≥mverska keisarad√¶mi√∞,,,,,,,,,,,x
 e_roman_empire,short_name,,yes,,,,,,,,,,,x
 d_the_isles,d_the_isles,,Man,,,,,,,,,,,x
 d_the_isles,d_the_isles_adj,,Manx,,,,,,,,,,,x
@@ -1664,46 +1664,46 @@ d_temes,d_temes,,Temes,,,,,,,,,,,x
 d_temes,d_temes_adj,,Temesite,,,,,,,,,,,x
 d_wielkopolska,d_wielkopolska,,Wielkopolska,,,,,,,,,,,x
 d_wielkopolska,d_wielkopolska_adj,,Wielkopolskan,,,,,,,,,,,x
-d_hilal,d_hilal,,Banu Hil·l,,,,,,,,,,,x
-d_hilal,d_hilal_adj,,Hil·lÌ,,,,,,,,,,,x
-d_massufa,d_massufa,,Mass˙fa,,,,,,,,,,,x
-d_massufa,d_massufa_adj,,Mass˙fÌ,,,,,,,,,,,x
+d_hilal,d_hilal,,Banu Hil√°l,,,,,,,,,,,x
+d_hilal,d_hilal_adj,,Hil√°l√≠,,,,,,,,,,,x
+d_massufa,d_massufa,,Mass√∫fa,,,,,,,,,,,x
+d_massufa,d_massufa_adj,,Mass√∫f√≠,,,,,,,,,,,x
 d_massufa,foa,,RAIS_FOA,,,,,,,,,,,x
 d_massufa,title,,RAIS,,,,,,,,,,,x
-d_lamtuna,d_lamtuna,,Lamt˙na,,,,,,,,,,,x
-d_lamtuna,d_lamtuna_adj,,Lamt˙nÌ,,,,,,,,,,,x
+d_lamtuna,d_lamtuna,,Lamt√∫na,,,,,,,,,,,x
+d_lamtuna,d_lamtuna_adj,,Lamt√∫n√≠,,,,,,,,,,,x
 d_lamtuna,foa,,RAIS_FOA,,,,,,,,,,,x
 d_lamtuna,title,,RAIS,,,,,,,,,,,x
 d_lamta,d_lamta,,Lamta,,,,,,,,,,,x
-d_lamta,d_lamta_adj,,LamtÌ,,,,,,,,,,,x
+d_lamta,d_lamta_adj,,Lamt√≠,,,,,,,,,,,x
 d_lamta,foa,,RAIS_FOA,,,,,,,,,,,x
 d_lamta,title,,RAIS,,,,,,,,,,,x
-d_guddala,d_guddala,,Gudd·la,,,,,,,,,,,x
-d_guddala,d_guddala_adj,,Gudd·lÌ,,,,,,,,,,,x
+d_guddala,d_guddala,,Gudd√°la,,,,,,,,,,,x
+d_guddala,d_guddala_adj,,Gudd√°l√≠,,,,,,,,,,,x
 d_guddala,foa,,RAIS_FOA,,,,,,,,,,,x
 d_guddala,title,,RAIS,,,,,,,,,,,x
-d_gazzula,d_gazzula,,Gazz˙la,,,,,,,,,,,x
-d_gazzula,d_gazzula_adj,,Gazz˙lÌ,,,,,,,,,,,x
+d_gazzula,d_gazzula,,Gazz√∫la,,,,,,,,,,,x
+d_gazzula,d_gazzula_adj,,Gazz√∫l√≠,,,,,,,,,,,x
 d_gazzula,foa,,RAIS_FOA,,,,,,,,,,,x
 d_gazzula,title,,RAIS,,,,,,,,,,,x
 d_targa,d_targa,,Targa,,,,,,,,,,,x
-d_targa,d_targa_adj,,TargÌ,,,,,,,,,,,x
+d_targa,d_targa_adj,,Targ√≠,,,,,,,,,,,x
 d_targa,foa,,RAIS_FOA,,,,,,,,,,,x
 d_targa,title,,RAIS,,,,,,,,,,,x
 d_lawata,d_lawata,,Lawata,,,,,,,,,,,x
-d_lawata,d_lawata_adj,,LawatÌ,,,,,,,,,,,x
+d_lawata,d_lawata_adj,,Lawat√≠,,,,,,,,,,,x
 d_lawata,foa,,RAIS_FOA,,,,,,,,,,,x
 d_lawata,title,,RAIS,,,,,,,,,,,x
 d_soninke,d_soninke,,Soninke,,,,,,,,,,,x
 d_soninke,d_soninke_adj,,Soninke,,,,,,,,,,,x
-d_zaghawa,d_zaghawa,,Zagh·wa,,,,,,,,,,,x
-d_zaghawa,d_zaghawa_adj,,Zagh·wÌ,,,,,,,,,,,x
+d_zaghawa,d_zaghawa,,Zagh√°wa,,,,,,,,,,,x
+d_zaghawa,d_zaghawa_adj,,Zagh√°w√≠,,,,,,,,,,,x
 d_zaghawa,foa,,RAIS_FOA,,,,,,,,,,,x
 d_zaghawa,title,,RAIS,,,,,,,,,,,x
 d_duguwa,d_duguwa,,Duguwa,,,,,,,,,,,x
-d_duguwa,d_duguwa_adj,,DuguwÌ,,,,,,,,,,,x
+d_duguwa,d_duguwa_adj,,Duguw√≠,,,,,,,,,,,x
 d_musab,d_musab,,Mus'ab,,,,,,,,,,,x
-d_musab,d_musab_adj,,Mus'abÌ,,,,,,,,,,,x
+d_musab,d_musab_adj,,Mus'ab√≠,,,,,,,,,,,x
 d_musab,foa,,RAIS_FOA,,,,,,,,,,,x
 d_musab,title,,RAIS,,,,,,,,,,,x
 d_tanmak,d_tanmak,,Tanmak,,,,,,,,,,,x
@@ -1711,11 +1711,11 @@ d_tanmak,d_tanmak_adj,,Tanmaki,,,,,,,,,,,x
 d_tanmak,foa,,RAIS_FOA,,,,,,,,,,,x
 d_tanmak,title,,RAIS,,,,,,,,,,,x
 d_azger,d_azger,,Azger,,,,,,,,,,,x
-d_azger,d_azger_adj,,AzgerÌ,,,,,,,,,,,x
+d_azger,d_azger_adj,,Azger√≠,,,,,,,,,,,x
 d_azger,foa,,RAIS_FOA,,,,,,,,,,,x
 d_azger,title,,RAIS,,,,,,,,,,,x
-d_mazata,d_mazata,,Maz·ta,,,,,,,,,,,x
-d_mazata,d_mazata_adj,,Maz·tÌ,,,,,,,,,,,x
+d_mazata,d_mazata,,Maz√°ta,,,,,,,,,,,x
+d_mazata,d_mazata_adj,,Maz√°t√≠,,,,,,,,,,,x
 d_mazata,foa,,RAIS_FOA,,,,,,,,,,,x
 d_mazata,title,,RAIS,,,,,,,,,,,x
 d_azben,d_azben,,Azben,,,,,,,,,,,x
@@ -1723,31 +1723,31 @@ d_azben,d_azben_adj,,Azben,,,,,,,,,,,x
 d_azben,foa,,RAIS_FOA,,,,,,,,,,,x
 d_azben,title,,RAIS,,,,,,,,,,,x
 d_takarkart,d_takarkart,,Takarkart,,,,,,,,,,,x
-d_takarkart,d_takarkart_adj,,TakarkartÌ,,,,,,,,,,,x
+d_takarkart,d_takarkart_adj,,Takarkart√≠,,,,,,,,,,,x
 d_takarkart,foa,,RAIS_FOA,,,,,,,,,,,x
 d_takarkart,title,,RAIS,,,,,,,,,,,x
-d_naqis,d_naqis,,NaqÌs,,,,,,,,,,,x
-d_naqis,d_naqis_adj,,NaqÌsÌ,,,,,,,,,,,x
+d_naqis,d_naqis,,Naq√≠s,,,,,,,,,,,x
+d_naqis,d_naqis_adj,,Naq√≠s√≠,,,,,,,,,,,x
 d_naqis,foa,,RAIS_FOA,,,,,,,,,,,x
 d_naqis,title,,RAIS,,,,,,,,,,,x
-d_baqlin,d_baqlin,,BaqlÌn,,,,,,,,,,,x
-d_baqlin,d_baqlin_adj,,BaqlÌnÌ,,,,,,,,,,,x
+d_baqlin,d_baqlin,,Baql√≠n,,,,,,,,,,,x
+d_baqlin,d_baqlin_adj,,Baql√≠n√≠,,,,,,,,,,,x
 d_baqlin,foa,,RAIS_FOA,,,,,,,,,,,x
 d_baqlin,title,,RAIS,,,,,,,,,,,x
-d_djarin,d_djarin,,DjarÌn,,,,,,,,,,,x
-d_djarin,d_djarin_adj,,DjarÌnÌ,,,,,,,,,,,x
+d_djarin,d_djarin,,Djar√≠n,,,,,,,,,,,x
+d_djarin,d_djarin_adj,,Djar√≠n√≠,,,,,,,,,,,x
 d_djarin,foa,,RAIS_FOA,,,,,,,,,,,x
 d_djarin,title,,RAIS,,,,,,,,,,,x
 d_qataa,d_qataa,,Qata'a,,,,,,,,,,,x
-d_qataa,d_qataa_adj,,Qata'Ì,,,,,,,,,,,x
+d_qataa,d_qataa_adj,,Qata'√≠,,,,,,,,,,,x
 d_qataa,foa,,RAIS_FOA,,,,,,,,,,,x
 d_qataa,title,,RAIS,,,,,,,,,,,x
-d_bazin,d_bazin,,BazÌn,,,,,,,,,,,x
-d_bazin,d_bazin_adj,,BazÌnÌ,,,,,,,,,,,x
+d_bazin,d_bazin,,Baz√≠n,,,,,,,,,,,x
+d_bazin,d_bazin_adj,,Baz√≠n√≠,,,,,,,,,,,x
 d_bazin,foa,,RAIS_FOA,,,,,,,,,,,x
 d_bazin,title,,RAIS,,,,,,,,,,,x
 d_danakil,d_danakil,,Danakil,,,,,,,,,,,x
-d_danakil,d_danakil_adj,,DanakilÌ,,,,,,,,,,,x
+d_danakil,d_danakil_adj,,Danakil√≠,,,,,,,,,,,x
 d_danakil,foa,,RAIS_FOA,,,,,,,,,,,x
 d_danakil,title,,RAIS,,,,,,,,,,,x
 d_silesians,d_silesians,,Slezanie,,,,,,,,,,,x
@@ -1758,8 +1758,8 @@ d_vistulans,d_vistulans,,Wislanie,,,,,,,,,,,x
 d_vistulans,d_vistulans_adj,,Vistulan,,,,,,,,,,,x
 d_mazovians,d_mazovians,,Mazowszanie,,,,,,,,,,,x
 d_mazovians,d_mazovians_adj,,Mazovian,,,,,,,,,,,x
-k_moravia,k_moravia,,Velk· Morava,,,,,,,,,,,x
-k_moravia,k_moravia_adj,,Velkomoravsk˝,,,,,,,,,,,x
+k_moravia,k_moravia,,Velk√° Morava,,,,,,,,,,,x
+k_moravia,k_moravia_adj,,Velkomoravsk√Ω,,,,,,,,,,,x
 k_almohad,k_almohad,,Almohad,,,,,,,,,,,x
 k_almohad,k_almohad_adj,,Almohad,,,,,,,,,,,x
 k_al-murabitids,k_al-murabitids,,Al-Murabitids,,,,,,,,,,,x
@@ -1788,7 +1788,7 @@ k_kafsid,k_kafsid_adj,,Kafsid,,,,,,,,,,,x
 d_karaman,d_karaman,,Qaraman,,,,,,,,,,,x
 d_karaman,d_karaman_adj,,Qaramani,,,,,,,,,,,x
 d_karaman,greek,,Lykaonia,,,,,,,,,,,x
-k_magyar,k_magyar,,HÈt Magyar,,,,,,,,,,,x
+k_magyar,k_magyar,,H√©t Magyar,,,,,,,,,,,x
 k_magyar,k_magyar_adj,,Magyar,,,,,,,,,,,x
 k_marinid,k_marinid,,Marinid,,,,,,,,,,,x
 k_marinid,k_marinid_adj,,,,,,,,,,,,,x
@@ -1804,8 +1804,8 @@ d_osmanli,d_osmanli,,Osmanli,,,,,,,,,,,x
 d_osmanli,d_osmanli_adj,,Osmanlian,,,,,,,,,,,x
 k_ottoman,k_ottoman,,Ottoman Turks,,,,,,,,,,,x
 k_ottoman,k_ottoman_adj,,Ottoman,,,,,,,,,,,x
-k_rum,k_rum,,R˚m,,,,,,,,,,,x
-k_rum,k_rum_adj,,R˚mian,,,,,,,,,,,x
+k_rum,k_rum,,R√ªm,,,,,,,,,,,x
+k_rum,k_rum_adj,,R√ªmian,,,,,,,,,,,x
 k_rum,dynasty_title_names,,no,,,,,,,,,,,x
 d_saruhan,d_saruhan,,Saruhan,,,,,,,,,,,x
 d_saruhan,d_saruhan_adj,,Saruhani,,,,,,,,,,,x
@@ -1816,8 +1816,8 @@ e_seljuk_turks,short_name,,yes,,,,,,,,,,,x
 d_ahi,d_ahi,,Ahiler,,,,,,,,,,,x
 d_ahi,d_ahi_adj,,Ahilerian,,,,,,,,,,,x
 d_ahi,greek,,Ankyra,,,,,,,,,,,x
-d_ahi,oghuz,,Eng¸r¸,,,,,,,,,,,x
-d_ahi,turkmen,,Eng¸r¸,,,,,,,,,,,x
+d_ahi,oghuz,,Eng√ºr√º,,,,,,,,,,,x
+d_ahi,turkmen,,Eng√ºr√º,,,,,,,,,,,x
 d_hamid,d_hamid,,Hamid,,,,,,,,,,,x
 d_hamid,d_hamid_adj,,Hamidian,,,,,,,,,,,x
 d_hamid,greek,,Pisidia,,,,,,,,,,,x
@@ -1843,8 +1843,8 @@ k_makuria,nubian,,Makouria,,,,,,,,,,,x
 k_makuria,sicilian_arabic,,Muqurra,,,,,,,,,,,x
 k_alodia,k_alodia,,Alodia,,,,,,,,,,,x
 k_alodia,k_alodia_adj,,Alodian,,,,,,,,,,,x
-k_tiaret,k_tiaret,,Ti·ret,,,,,,,,,,,x
-k_tiaret,k_tiaret_adj,,Ti·retÌ,,,,,,,,,,,x
+k_tiaret,k_tiaret,,Ti√°ret,,,,,,,,,,,x
+k_tiaret,k_tiaret_adj,,Ti√°ret√≠,,,,,,,,,,,x
 k_tiaret,foa,,IMAM_FOA,,,,,,,,,,,x
 k_tiaret,title,,IMAM,,,,,,,,,,,x
 k_tiaret,title_prefix,,IMAMATE_OF,,,,,,,,,,,x
@@ -1854,18 +1854,18 @@ k_israel,dynasty_title_names,,no,,,,,,,,,,,x
 k_israel,title,,KING,,,,,,,,,,,x
 k_israel,title_female,,QUEEN,,,,,,,,,,,x
 k_ifat,k_ifat,,Ifat,,,,,,,,,,,x
-k_ifat,k_ifat_adj,,IfatÌ,,,,,,,,,,,x
-k_blemmyes,k_blemmyes,,BÈja,,,,,,,,,,,x
-k_blemmyes,k_blemmyes_adj,,BÈjÌ,,,,,,,,,,,x
+k_ifat,k_ifat_adj,,Ifat√≠,,,,,,,,,,,x
+k_blemmyes,k_blemmyes,,B√©ja,,,,,,,,,,,x
+k_blemmyes,k_blemmyes_adj,,B√©j√≠,,,,,,,,,,,x
 k_khwarezmia,k_khwarezmia,,Khwarezm,,,,,,,,,,,x
-k_khwarezmia,k_khwarezmia_adj,,KhwarezmÌ,,,,,,,,,,,x
+k_khwarezmia,k_khwarezmia_adj,,Khwarezm√≠,,,,,,,,,,,x
 k_kimek,k_kimek,,Kimek,,,,,,,,,,,x
 k_kimek,k_kimek_adj,,Kimek,,,,,,,,,,,x
 k_kimek,foa,,Khan_FOA,,,,,,,,,,,x
 k_kimek,title,,Khan,,,,,,,,,,,x
 k_kimek,title_prefix,,Khanliq_of,,,,,,,,,,,x
-k_kerman,k_kerman,,Kerm·n,,,,,,,,,,,x
-k_kerman,k_kerman_adj,,Kerm·nÌ,,,,,,,,,,,x
+k_kerman,k_kerman,,Kerm√°n,,,,,,,,,,,x
+k_kerman,k_kerman_adj,,Kerm√°n√≠,,,,,,,,,,,x
 e_latin_empire,e_latin_empire,,Imperium Romaniae,,,,,,,,,,,x
 e_latin_empire,e_latin_empire_adj,,Latin,,,,,,,,,,,x
 e_latin_empire,short_name,,yes,,,,,,,,,,,x
@@ -1882,7 +1882,7 @@ d_gloucester,d_gloucester,,Hwicce,,,,,,,,,,,x
 d_gloucester,d_gloucester_adj,,Hwiccan,,,,,,,,,,,x
 d_gloucester,d_gloucester_adj_english,,Gloucesterian,,,,,,,,,,,x
 d_gloucester,d_gloucester_adj_norman,,Gloucesterian,,,,,,,,,,,x
-b_zussow,b_zussow,,Z¸ssow,,,,,,,,,,,x
+b_zussow,b_zussow,,Z√ºssow,,,,,,,,,,,x
 b_zussow,b_zussow_adj,,,,,,,,,,,,,x
 b_kolbatz,b_kolbatz,,Kolbatz,,,,,,,,,,,x
 b_kolbatz,b_kolbatz_adj,,,,,,,,,,,,,x
@@ -1903,16 +1903,16 @@ e_ulm,short_name,,yes,,,,,,,,,,,x
 e_ulm,title,,ULM,,,,,,,,,,,x
 e_khazaria,e_khazaria,,Qasarstan,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj,,Qazar,,,,,,,,,,,x
-e_khazaria,afghan,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_afghan,,XazarÌ,,,,,,,,,,,x
+e_khazaria,afghan,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_afghan,,Xazar√≠,,,,,,,,,,,x
 e_khazaria,alan,,Chazaria,,,,,,,,,,,x
 e_khazaria,andalusian_arabic,,Khazarstan,,,,,,,,,,,x
 e_khazaria,arberian,,Chazaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_arberian,,Chazaroi,,,,,,,,,,,x
 e_khazaria,armenian,,Chazaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_armenian,,Chazaroi,,,,,,,,,,,x
-e_khazaria,baloch,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_baloch,,XazarÌ,,,,,,,,,,,x
+e_khazaria,baloch,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_baloch,,Xazar√≠,,,,,,,,,,,x
 e_khazaria,bedouin_arabic,,Khazarstan,,,,,,,,,,,x
 e_khazaria,bohemian,,Kozaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_bohemian,,Kozaran,,,,,,,,,,,x
@@ -1928,8 +1928,8 @@ e_khazaria,croatian,,Kozaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_croatian,,Kozaran,,,,,,,,,,,x
 e_khazaria,dalmatian,,Cassaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_dalmatian,,Cassaro,,,,,,,,,,,x
-e_khazaria,daylamite,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_daylamite,,XazarÌ,,,,,,,,,,,x
+e_khazaria,daylamite,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_daylamite,,Xazar√≠,,,,,,,,,,,x
 e_khazaria,east_gothic,,Chazaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_east_gothic,,Chazaroi,,,,,,,,,,,x
 e_khazaria,egyptian_arabic,,Khazarstan,,,,,,,,,,,x
@@ -1941,38 +1941,38 @@ e_khazaria,italian,,Cassaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_italian,,Cassaro,,,,,,,,,,,x
 e_khazaria,karantanci,,Kozaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_karantanci,,Kozaran,,,,,,,,,,,x
-e_khazaria,khalaj,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_khalaj,,XazarÌ,,,,,,,,,,,x
-e_khazaria,khwarezmi,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_khwarezmi,,XazarÌ,,,,,,,,,,,x
-e_khazaria,kirghiz,,X‰z‰rstan,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_kirghiz,,X‰z‰r,,,,,,,,,,,x
-e_khazaria,kurdish,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_kurdish,,XazarÌ,,,,,,,,,,,x
+e_khazaria,khalaj,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_khalaj,,Xazar√≠,,,,,,,,,,,x
+e_khazaria,khwarezmi,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_khwarezmi,,Xazar√≠,,,,,,,,,,,x
+e_khazaria,kirghiz,,X√§z√§rstan,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_kirghiz,,X√§z√§r,,,,,,,,,,,x
+e_khazaria,kurdish,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_kurdish,,Xazar√≠,,,,,,,,,,,x
 e_khazaria,langobardisch,,Cassaria,,,,,,,,,,,x
 e_khazaria,levantine_arabic,,Khazarstan,,,,,,,,,,,x
 e_khazaria,ligurian,,Cassaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_ligurian,,Cassaro,,,,,,,,,,,x
 e_khazaria,maghreb_arabic,,Khazarstan,,,,,,,,,,,x
 e_khazaria,masmuda,,Khazarstan,,,,,,,,,,,x
-e_khazaria,mongol,,X‰z‰rstan,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_mongol,,X‰z‰r,,,,,,,,,,,x
+e_khazaria,mongol,,X√§z√§rstan,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_mongol,,X√§z√§r,,,,,,,,,,,x
 e_khazaria,moravian,,Kozaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_moravian,,Kozaran,,,,,,,,,,,x
 e_khazaria,neapolitan,,Cassaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_neapolitan,,Cassaro,,,,,,,,,,,x
 e_khazaria,oghuz,,Hazarstan,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_oghuz,,Hazar,,,,,,,,,,,x
-e_khazaria,pahlavi,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_pahlavi,,XazarÌ,,,,,,,,,,,x
-e_khazaria,persian,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_persian,,XazarÌ,,,,,,,,,,,x
+e_khazaria,pahlavi,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_pahlavi,,Xazar√≠,,,,,,,,,,,x
+e_khazaria,persian,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_persian,,Xazar√≠,,,,,,,,,,,x
 e_khazaria,polish,,Kozariaia,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_polish,,Kozaran,,,,,,,,,,,x
 e_khazaria,pommeranian,,Kozaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_pommeranian,,Kozaran,,,,,,,,,,,x
-e_khazaria,qufs,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_qufs,,XazarÌ,,,,,,,,,,,x
+e_khazaria,qufs,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_qufs,,Xazar√≠,,,,,,,,,,,x
 e_khazaria,russian,,Kozarye,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_russian,,Kozaran,,,,,,,,,,,x
 e_khazaria,sanhaja,,Khazarstan,,,,,,,,,,,x
@@ -1985,13 +1985,13 @@ e_khazaria,e_khazaria_adj_sicilian,,Cassaro,,,,,,,,,,,x
 e_khazaria,sicilian_arabic,,Khazarstan,,,,,,,,,,,x
 e_khazaria,sicilian_greek,,Chazaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_sicilian_greek,,Chazaroi,,,,,,,,,,,x
-e_khazaria,sogdian,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_sogdian,,XazarÌ,,,,,,,,,,,x
+e_khazaria,sogdian,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_sogdian,,Xazar√≠,,,,,,,,,,,x
 e_khazaria,southern_italian,,Cassaria,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_southern_italian,,Cassaro,,,,,,,,,,,x
 e_khazaria,tagelmust,,Khazarstan,,,,,,,,,,,x
-e_khazaria,tajik,,Xazarst·n,,,,,,,,,,,x
-e_khazaria,e_khazaria_adj_tajik,,XazarÌ,,,,,,,,,,,x
+e_khazaria,tajik,,Xazarst√°n,,,,,,,,,,,x
+e_khazaria,e_khazaria_adj_tajik,,Xazar√≠,,,,,,,,,,,x
 e_khazaria,tuareg,,Khazarstan,,,,,,,,,,,x
 e_khazaria,turkish,,Hazarstan,,,,,,,,,,,x
 e_khazaria,e_khazaria_adj_turkish,,Hazar,,,,,,,,,,,x
@@ -2011,8 +2011,8 @@ k_qipchaq,dynasty_title_names,,no,,,,,,,,,,,x
 k_cuman,k_cuman,,Kumanlar,,,,,,,,,,,x
 k_cuman,k_cuman_adj,,Kuman,,,,,,,,,,,x
 k_cuman,dynasty_title_names,,no,,,,,,,,,,,x
-k_pechenegs,k_pechenegs,,BeÁeneklar,,,,,,,,,,,x
-k_pechenegs,k_pechenegs_adj,,BeÁenek,,,,,,,,,,,x
+k_pechenegs,k_pechenegs,,Be√ßeneklar,,,,,,,,,,,x
+k_pechenegs,k_pechenegs_adj,,Be√ßenek,,,,,,,,,,,x
 k_pechenegs,dynasty_title_names,,no,,,,,,,,,,,x
 k_qangar,k_qangar,,Qangar,,,,,,,,,,,x
 k_qangar,k_qangar_adj,,Qangar,,,,,,,,,,,x
@@ -2028,7 +2028,7 @@ d_black_caps,d_black_caps_adj_russian,,Chyornye Klobuki,,,,,,,,,,,x
 d_black_caps,dynasty_title_names,,no,,,,,,,,,,,x
 e_kaleva,e_kaleva,,Kalevala,,,,,,,,,,,x
 e_kaleva,e_kaleva_adj,,Kalevalan,,,,,,,,,,,x
-k_geats,k_geats,,GautarÌki,,,,,,,,,,,x
+k_geats,k_geats,,Gautar√≠ki,,,,,,,,,,,x
 k_geats,k_geats_adj,,Gautr,,,,,,,,,,,x
 e_germany,e_germany,,Germania,,,,,,,,,,,x
 e_germany,e_germany_adj,,German,,,,,,,,,,,x
@@ -2037,7 +2037,7 @@ k_avaria,k_avaria_adj,,Avarian,,,,,,,,,,,x
 k_lombardy,k_lombardy,,Lombardy,,,,,,,,,,,x
 k_lombardy,k_lombardy_adj,,Lombard,,,,,,,,,,,x
 d_lauenburg,d_lauenburg,,Sachsen-Lauenburg,,,,,,,,,,,x
-d_lauenburg,d_lauenburg_adj,,S‰chsische,,,,,,,,,,,x
+d_lauenburg,d_lauenburg_adj,,S√§chsische,,,,,,,,,,,x
 d_sangermano,d_sangermano,,Terra Sancti Benedicti,,,,,,,,,,,x
 d_sangermano,d_sangermano_adj,,Bendicitian,,,,,,,,,,,x
 d_sangermano,short_name,,yes,,,,,,,,,,,x
@@ -2052,15 +2052,15 @@ d_tuscia,d_tuscia,,Tuscia,,,,,,,,,,,x
 d_tuscia,d_tuscia_adj,,Tuscian,,,,,,,,,,,x
 k_duklja,k_duklja,,Duklja,,,,,,,,,,,x
 k_duklja,k_duklja_adj,,Dukljan,,,,,,,,,,,x
-k_austria,k_austria,,÷sterreich,,,,,,,,,,,x
-k_austria,k_austria_adj,,÷sterreichische,,,,,,,,,,,x
+k_austria,k_austria,,√ñsterreich,,,,,,,,,,,x
+k_austria,k_austria_adj,,√ñsterreichische,,,,,,,,,,,x
 k_austria,foa,,ADA_FOA,,,,,,,,,,,x
 k_austria,title,,ADA,,,,,,,,,,,x
 k_austria,title_prefix,,ADA_OF,,,,,,,,,,,x
-d_smaland,d_smaland,,SmÂland,,,,,,,,,,,x
-d_smaland,d_smaland_adj,,SmÂlander,,,,,,,,,,,x
-d_smaland,norse,,Sm·land,,,,,,,,,,,x
-e_occitania,e_occitania,,Occit‡nia,,,,,,,,,,,x
+d_smaland,d_smaland,,Sm√•land,,,,,,,,,,,x
+d_smaland,d_smaland_adj,,Sm√•lander,,,,,,,,,,,x
+d_smaland,norse,,Sm√°land,,,,,,,,,,,x
+e_occitania,e_occitania,,Occit√†nia,,,,,,,,,,,x
 e_occitania,e_occitania_adj,,Occitan,,,,,,,,,,,x
 k_flanders,k_flanders,,Vlaanderen,,,,,,,,,,,x
 k_flanders,k_flanders_adj,,Vlaamse,,,,,,,,,,,x
@@ -2068,8 +2068,8 @@ d_narbonne,d_narbonne,,Narbona,,,,,,,,,,,x
 d_narbonne,d_narbonne_adj,,Narbonnais,,,,,,,,,,,x
 d_paulicians,d_paulicians,,Paulikianoi,,,,,,,,,,,x
 d_paulicians,d_paulicians_adj,,Paulikianoi,,,,,,,,,,,x
-k_armenia_minor,k_armenia_minor,,Mikr· Armenia,,,,,,,,,,,x
-k_armenia_minor,k_armenia_minor_adj,,Mikr· Armenian,,,,,,,,,,,x
+k_armenia_minor,k_armenia_minor,,Mikr√° Armenia,,,,,,,,,,,x
+k_armenia_minor,k_armenia_minor_adj,,Mikr√° Armenian,,,,,,,,,,,x
 d_pagania,d_pagania,,Neretljani,,,,,,,,,,,x
 d_pagania,d_pagania_adj,,Narentine,,,,,,,,,,,x
 d_rhodos,d_rhodos,,Rhodos,,,,,,,,,,,x
@@ -2117,34 +2117,34 @@ d_sharif_medina,d_sharif_medina,,Madinah,,,,,,,,,,,x
 d_sharif_medina,d_sharif_medina_adj,,Madinan,,,,,,,,,,,x
 d_sharif_mecca,d_sharif_mecca,,Makkah,,,,,,,,,,,x
 d_sharif_mecca,d_sharif_mecca_adj,,Makkan,,,,,,,,,,,x
-d_siraf,d_siraf,,Sir·f,,,,,,,,,,,x
-d_siraf,d_siraf_adj,,Sir·fÌ,,,,,,,,,,,x
+d_siraf,d_siraf,,Sir√°f,,,,,,,,,,,x
+d_siraf,d_siraf_adj,,Sir√°f√≠,,,,,,,,,,,x
 e_wendish_empire,e_wendish_empire,,Wendish Empire,,,,,,,,,,,x
 e_wendish_empire,e_wendish_empire_adj,,Wendish,,,,,,,,,,,x
-e_wendish_empire,bohemian,,VelkÈ Czechy,,,,,,,,,,,x
+e_wendish_empire,bohemian,,Velk√© Czechy,,,,,,,,,,,x
 e_wendish_empire,croatian,,Vendia,,,,,,,,,,,x
 e_wendish_empire,karantanci,,Vendia,,,,,,,,,,,x
-e_wendish_empire,moravian,,Velk· Morava,,,,,,,,,,,x
-e_wendish_empire,polish,,WiÍksza Polska,,,,,,,,,,,x
+e_wendish_empire,moravian,,Velk√° Morava,,,,,,,,,,,x
+e_wendish_empire,polish,,Wi√™ksza Polska,,,,,,,,,,,x
 e_wendish_empire,pommeranian,,Vendia,,,,,,,,,,,x
 e_wendish_empire,short_name,,yes,,,,,,,,,,,x
 d_breifne,d_breifne,,Breifne,,,,,,,,,,,x
 d_breifne,d_breifne_adj,,Breifnian,,,,,,,,,,,x
 d_breifne,anglonorse,,Breffny,,,,,,,,,,,x
-d_breifne,breton,,BrÈifne,,,,,,,,,,,x
-d_breifne,cornish,,BrÈifne,,,,,,,,,,,x
-d_breifne,cumbric,,BrÈifne,,,,,,,,,,,x
+d_breifne,breton,,Br√©ifne,,,,,,,,,,,x
+d_breifne,cornish,,Br√©ifne,,,,,,,,,,,x
+d_breifne,cumbric,,Br√©ifne,,,,,,,,,,,x
 d_breifne,danish,,Breffny,,,,,,,,,,,x
 d_breifne,gothic,,Breffny,,,,,,,,,,,x
 d_breifne,icelandic,,Breffny,,,,,,,,,,,x
-d_breifne,irish,,BrÈifne,,,,,,,,,,,x
+d_breifne,irish,,Br√©ifne,,,,,,,,,,,x
 d_breifne,norse,,Breffny,,,,,,,,,,,x
-d_breifne,norsegaelic,,BrÈifne,,,,,,,,,,,x
+d_breifne,norsegaelic,,Br√©ifne,,,,,,,,,,,x
 d_breifne,norwegian,,Breffny,,,,,,,,,,,x
 d_breifne,saxon,,Breffny,,,,,,,,,,,x
-d_breifne,scottish,,BrÈifne,,,,,,,,,,,x
+d_breifne,scottish,,Br√©ifne,,,,,,,,,,,x
 d_breifne,swedish,,Breffny,,,,,,,,,,,x
-d_breifne,welsh,,BrÈifne,,,,,,,,,,,x
+d_breifne,welsh,,Br√©ifne,,,,,,,,,,,x
 d_thomond,d_thomond,,Thomond,,,,,,,,,,,x
 d_thomond,d_thomond_adj,,Thomondian,,,,,,,,,,,x
 d_thomond,breton,,Tuadhmhumhain,,,,,,,,,,,x
@@ -2165,31 +2165,31 @@ d_ossory,scottish,,Osraige,,,,,,,,,,,x
 d_ossory,welsh,,Osraige,,,,,,,,,,,x
 d_oneill,d_oneill,,O'Neill,,,,,,,,,,,x
 d_oneill,d_oneill_adj,,O'Neill,,,,,,,,,,,x
-d_oneill,breton,,UÌ NÈill,,,,,,,,,,,x
-d_oneill,cornish,,UÌ NÈill,,,,,,,,,,,x
-d_oneill,cumbric,,UÌ NÈill,,,,,,,,,,,x
-d_oneill,irish,,UÌ NÈill,,,,,,,,,,,x
-d_oneill,norsegaelic,,UÌ NÈill,,,,,,,,,,,x
-d_oneill,scottish,,UÌ NÈill,,,,,,,,,,,x
-d_oneill,welsh,,UÌ NÈill,,,,,,,,,,,x
-d_airgialla,d_airgialla,,AirgÌalla,,,,,,,,,,,x
-d_airgialla,d_airgialla_adj,,AirgÌallan,,,,,,,,,,,x
+d_oneill,breton,,U√≠ N√©ill,,,,,,,,,,,x
+d_oneill,cornish,,U√≠ N√©ill,,,,,,,,,,,x
+d_oneill,cumbric,,U√≠ N√©ill,,,,,,,,,,,x
+d_oneill,irish,,U√≠ N√©ill,,,,,,,,,,,x
+d_oneill,norsegaelic,,U√≠ N√©ill,,,,,,,,,,,x
+d_oneill,scottish,,U√≠ N√©ill,,,,,,,,,,,x
+d_oneill,welsh,,U√≠ N√©ill,,,,,,,,,,,x
+d_airgialla,d_airgialla,,Airg√≠alla,,,,,,,,,,,x
+d_airgialla,d_airgialla_adj,,Airg√≠allan,,,,,,,,,,,x
 d_airgialla,anglonorse,,Oriel,,,,,,,,,,,x
-d_airgialla,breton,,AirgÌalla,,,,,,,,,,,x
-d_airgialla,cornish,,AirgÌalla,,,,,,,,,,,x
-d_airgialla,cumbric,,AirgÌalla,,,,,,,,,,,x
+d_airgialla,breton,,Airg√≠alla,,,,,,,,,,,x
+d_airgialla,cornish,,Airg√≠alla,,,,,,,,,,,x
+d_airgialla,cumbric,,Airg√≠alla,,,,,,,,,,,x
 d_airgialla,danish,,Oriel,,,,,,,,,,,x
 d_airgialla,english,,Oriel,,,,,,,,,,,x
 d_airgialla,gothic,,Oriel,,,,,,,,,,,x
 d_airgialla,icelandic,,Oriel,,,,,,,,,,,x
-d_airgialla,irish,,AirgÌalla,,,,,,,,,,,x
+d_airgialla,irish,,Airg√≠alla,,,,,,,,,,,x
 d_airgialla,norse,,Oriel,,,,,,,,,,,x
-d_airgialla,norsegaelic,,AirgÌalla,,,,,,,,,,,x
+d_airgialla,norsegaelic,,Airg√≠alla,,,,,,,,,,,x
 d_airgialla,norwegian,,Oriel,,,,,,,,,,,x
 d_airgialla,saxon,,Oriel,,,,,,,,,,,x
 d_airgialla,scottish,,Oirialla,,,,,,,,,,,x
 d_airgialla,swedish,,Oriel,,,,,,,,,,,x
-d_airgialla,welsh,,AirgÌalla,,,,,,,,,,,x
+d_airgialla,welsh,,Airg√≠alla,,,,,,,,,,,x
 e_mexikha,e_mexikha,,Aztec Empire,,,,,,,,,,,x
 e_mexikha,e_mexikha_adj,,Aztec,,,,,,,,,,,x
 e_mexikha,short_name,,yes,,,,,,,,,,,x

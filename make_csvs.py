@@ -128,7 +128,7 @@ def read_prev():
     prev_title_attrs = collections.defaultdict(dict)
     prev_other_locs = {}
     for path in ck2parser.files('*.csv', basedir=(rootpath / 'shv/templates')):
-        with path.open(encoding='cp1252', newline='') as csvfile:
+        with path.open(encoding='utf8', newline='') as csvfile:
             reader = csv.reader(csvfile)
             next(reader)
             if 'other_provinces' in path.name:
@@ -155,14 +155,14 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
         for region, out_rows in out_row_lists.items():
             region = region if region else 'titular'
             out_path = templates_t / 'zz~_SHV_titles_{}.csv'.format(region)
-            with out_path.open('w', encoding='cp1252', newline='') as csvfile:
+            with out_path.open('w', encoding='utf8', newline='') as csvfile:
                 csv.writer(csvfile).writerows(out_rows)
         out_path = templates_t / 'zz~_SHV_provinces_other.csv'
         out_rows = ['#KEY;VALUE;SWMH;;;;;;;;;;;;x'.split(';')]
         for key, value in other_locs:
             prev = prev_other_locs.get(key, '')
             out_rows.append([key, prev, value] + [''] * 11 + ['x'])
-        with out_path.open('w', encoding='cp1252', newline='') as csvfile:
+        with out_path.open('w', encoding='utf8', newline='') as csvfile:
             csv.writer(csvfile).writerows(out_rows)
         templates = rootpath / 'shv/templates'
         if templates.exists():

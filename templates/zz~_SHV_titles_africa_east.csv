@@ -131,12 +131,12 @@ b_qohaito,b_qohaito,,Qohaito,,,,,,,,,,,x
 b_qohaito,b_qohaito_adj,,,,,,,,,,,,,x
 b_yeha,b_yeha,,Yeha,,,,,,,,,,,x
 b_yeha,b_yeha_adj,,,,,,,,,,,,,x
-c_akordat,PROV876,,Sera'é,,,,,,,,,,,x
+c_akordat,PROV876,,Sera'Ã©,,,,,,,,,,,x
 c_akordat,c_akordat,,,,,,,,,,,,,x
 c_akordat,c_akordat_adj,,Akordatian,,,,,,,,,,,x
 b_akordat,b_akordat,,Akordat,,,,,,,,,,,x
 b_akordat,b_akordat_adj,,,,,,,,,,,,,x
-b_hamasen,b_hamasen,,Hamasén,,,,,,,,,,,x
+b_hamasen,b_hamasen,,HamasÃ©n,,,,,,,,,,,x
 b_hamasen,b_hamasen_adj,,,,,,,,,,,,,x
 b_cheren,b_cheren,,Cheren,,,,,,,,,,,x
 b_cheren,b_cheren_adj,,,,,,,,,,,,,x
@@ -368,13 +368,13 @@ d_nobatia,d_nobatia_adj,,Nobatian,,,,,,,,,,,x
 c_nubia,PROV792,,Nubia,,,,,,,,,,,x
 c_nubia,c_nubia,,,,,,,,,,,,,x
 c_nubia,c_nubia_adj,,Nubian,,,,,,,,,,,x
-c_nubia,greek,,Pakhôras,,,,,,,,,,,x
-c_nubia,c_nubia_adj_greek,,Pakhôran,,,,,,,,,,,x
+c_nubia,greek,,PakhÃ´ras,,,,,,,,,,,x
+c_nubia,c_nubia_adj_greek,,PakhÃ´ran,,,,,,,,,,,x
 c_nubia,nubian,,Para,,,,,,,,,,,x
 c_nubia,roman,,Pachoras,,,,,,,,,,,x
 b_faras,b_faras,,Faras,,,,,,,,,,,x
 b_faras,b_faras_adj,,,,,,,,,,,,,x
-b_faras,greek,,Pakhôras,,,,,,,,,,,x
+b_faras,greek,,PakhÃ´ras,,,,,,,,,,,x
 b_faras,nubian,,Para,,,,,,,,,,,x
 b_faras,roman,,Pachoras,,,,,,,,,,,x
 b_meinarti,b_meinarti,,Meinarti,,,,,,,,,,,x
@@ -427,7 +427,7 @@ b_sheikhdaud,b_sheikhdaud_adj,,,,,,,,,,,,,x
 b_mahareaka,b_mahareaka,,Mahareaka,,,,,,,,,,,x
 b_mahareaka,b_mahareaka_adj,,,,,,,,,,,,,x
 k_sennar,k_sennar,,Sennar,,,,,,,,,,,x
-k_sennar,k_sennar_adj,,Sennarí,,,,,,,,,,,x
+k_sennar,k_sennar_adj,,SennarÃ­,,,,,,,,,,,x
 d_sennar,d_sennar,,Sennar,,,,,,,,,,,x
 d_sennar,d_sennar_adj,,Sennar,,,,,,,,,,,x
 c_sennar,PROV880,,Sennar,,,,,,,,,,,x
@@ -453,7 +453,7 @@ b_genetemariam,b_genetemariam_adj,,,,,,,,,,,,,x
 b_mankush,b_mankush,,Mankush,,,,,,,,,,,x
 b_mankush,b_mankush_adj,,,,,,,,,,,,,x
 d_darfur,d_darfur,,Darfur,,,,,,,,,,,x
-d_darfur,d_darfur_adj,,Darfurí,,,,,,,,,,,x
+d_darfur,d_darfur_adj,,DarfurÃ­,,,,,,,,,,,x
 c_uri,PROV1229,,Uri,,,,,,,,,,,x
 c_uri,c_uri,,,,,,,,,,,,,x
 c_uri,c_uri_adj,,Uri,,,,,,,,,,,x
@@ -471,9 +471,9 @@ b_elobeid,b_elobeid_adj,,,,,,,,,,,,,x
 b_tagali,b_tagali,,Tagali,,,,,,,,,,,x
 b_tagali,b_tagali_adj,,,,,,,,,,,,,x
 k_maikelebahr,k_maikelebahr,,Maikele Bahr,,,,,,,,,,,x
-k_maikelebahr,k_maikelebahr_adj,,Maikele Bahrí,,,,,,,,,,,x
+k_maikelebahr,k_maikelebahr_adj,,Maikele BahrÃ­,,,,,,,,,,,x
 d_aydhab,d_aydhab,,Aydhab,,,,,,,,,,,x
-d_aydhab,d_aydhab_adj,,Aydhabí,,,,,,,,,,,x
+d_aydhab,d_aydhab_adj,,AydhabÃ­,,,,,,,,,,,x
 c_aydhab,PROV1501,,Aydhab,,,,,,,,,,,x
 c_aydhab,c_aydhab,,Aydhab,,,,,,,,,,,x
 c_aydhab,c_aydhab_adj,,Aydhaban,,,,,,,,,,,x
@@ -485,14 +485,14 @@ b_aydhab,b_aydhab,,Aydhab,,,,,,,,,,,x
 b_aydhab,b_aydhab_adj,,,,,,,,,,,,,x
 b_aydhab,greek,,Berenike,,,,,,,,,,,x
 b_aydhab,roman,,Berenice,,,,,,,,,,,x
-b_halaib,b_halaib,,Haláib,,,,,,,,,,,x
+b_halaib,b_halaib,,HalÃ¡ib,,,,,,,,,,,x
 b_halaib,b_halaib_adj,,,,,,,,,,,,,x
 b_birshalatayn,b_birshalatayn,,Bir Shalatayn,,,,,,,,,,,x
 b_birshalatayn,b_birshalatayn_adj,,,,,,,,,,,,,x
 c_naqis,PROV1593,,Naqis,,,,,,,,,,,x
 c_naqis,c_naqis,,,,,,,,,,,,,x
-c_naqis,c_naqis_adj,,Naqîsî,,,,,,,,,,,x
-b_naqis,b_naqis,,Naqís,,,,,,,,,,,x
+c_naqis,c_naqis_adj,,NaqÃ®sÃ®,,,,,,,,,,,x
+b_naqis,b_naqis,,NaqÃ­s,,,,,,,,,,,x
 b_naqis,b_naqis_adj,,,,,,,,,,,,,x
 b_hajar,b_hajar,,Hajar,,,,,,,,,,,x
 b_hajar,b_hajar_adj,,,,,,,,,,,,,x
@@ -505,7 +505,7 @@ c_suakin,roman,,Limen Evangelis,,,,,,,,,,,x
 c_suakin,c_suakin_adj_roman,,Limen Evangelian,,,,,,,,,,,x
 b_alkabli,b_alkabli,,Al-Kabli,,,,,,,,,,,x
 b_alkabli,b_alkabli_adj,,,,,,,,,,,,,x
-b_sawakin,b_sawakin,,Suwakín,,,,,,,,,,,x
+b_sawakin,b_sawakin,,SuwakÃ­n,,,,,,,,,,,x
 b_sawakin,b_sawakin_adj,,,,,,,,,,,,,x
 b_sawakin,greek,,Limen Evangelis,,,,,,,,,,,x
 b_sawakin,roman,,Limen Evangelis,,,,,,,,,,,x
@@ -518,10 +518,10 @@ b_sinkat,b_sinkat,,Sinkat,,,,,,,,,,,x
 b_sinkat,b_sinkat_adj,,,,,,,,,,,,,x
 d_badi,d_badi,,Badi,,,,,,,,,,,x
 d_badi,d_badi_adj,,Badian,,,,,,,,,,,x
-c_hayya,PROV878,,Bâdi,,,,,,,,,,,x
+c_hayya,PROV878,,BÃ¢di,,,,,,,,,,,x
 c_hayya,c_hayya,,,,,,,,,,,,,x
 c_hayya,c_hayya_adj,,Hayyan,,,,,,,,,,,x
-b_badi,b_badi,,Bádi,,,,,,,,,,,x
+b_badi,b_badi,,BÃ¡di,,,,,,,,,,,x
 b_badi,b_badi_adj,,,,,,,,,,,,,x
 b_ini,b_ini,,Ini,,,,,,,,,,,x
 b_ini,b_ini_adj,,,,,,,,,,,,,x
@@ -540,7 +540,7 @@ b_adulis,b_adulis_adj,,,,,,,,,,,,,x
 b_misiwwa,b_misiwwa,,Misiwwa,,,,,,,,,,,x
 b_misiwwa,b_misiwwa_adj,,,,,,,,,,,,,x
 d_kassala,d_kassala,,Kassala,,,,,,,,,,,x
-d_kassala,d_kassala_adj,,Kassalí,,,,,,,,,,,x
+d_kassala,d_kassala_adj,,KassalÃ­,,,,,,,,,,,x
 c_kassala,PROV877,,Kassala,,,,,,,,,,,x
 c_kassala,c_kassala,,,,,,,,,,,,,x
 c_kassala,c_kassala_adj,,Kassalan,,,,,,,,,,,x

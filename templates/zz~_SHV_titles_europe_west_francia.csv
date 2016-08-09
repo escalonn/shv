@@ -6,12 +6,12 @@ c_brabant,c_brabant,,,,,,,,,,,,,x
 c_brabant,c_brabant_adj,,Brabantian,,,,,,,,,,,x
 c_brabant,dutch,,Leuven,,,,,,,,,,,x
 c_brabant,frankish,,Louvain,,,,,,,,,,,x
-c_brabant,german,,Löwen,,,,,,,,,,,x
+c_brabant,german,,LÃ¶wen,,,,,,,,,,,x
 b_leuven,b_leuven,,Leuven,,,,,,,,,,,x
 b_leuven,b_leuven_adj,,,,,,,,,,,,,x
 b_leuven,dutch,,Leuven,,,,,,,,,,,x
 b_leuven,frankish,,Louvain,,,,,,,,,,,x
-b_leuven,german,,Löwen,,,,,,,,,,,x
+b_leuven,german,,LÃ¶wen,,,,,,,,,,,x
 b_tienen,b_tienen,,Tienen,,,,,,,,,,,x
 b_tienen,b_tienen_adj,,,,,,,,,,,,,x
 b_horstcastle,b_horstcastle,,Horst,,,,,,,,,,,x
@@ -28,7 +28,7 @@ c_brussel,c_brussel,,,,,,,,,,,,,x
 c_brussel,c_brussel_adj,,Brussel,,,,,,,,,,,x
 c_brussel,dutch,,Broekzele,,,,,,,,,,,x
 c_brussel,frankish,,Bruxelles,,,,,,,,,,,x
-c_brussel,german,,Brüssel,,,,,,,,,,,x
+c_brussel,german,,BrÃ¼ssel,,,,,,,,,,,x
 b_coudeberg,b_coudeberg,,Coudeberg,,,,,,,,,,,x
 b_coudeberg,b_coudeberg_adj,,,,,,,,,,,,,x
 b_coudeberg,dutch,,Coudenberg,,,,,,,,,,,x
@@ -48,7 +48,7 @@ b_brussel,b_brussel,,Brussel,,,,,,,,,,,x
 b_brussel,b_brussel_adj,,,,,,,,,,,,,x
 b_brussel,dutch,,Brussel,,,,,,,,,,,x
 b_brussel,frankish,,Bruxelles,,,,,,,,,,,x
-b_brussel,german,,Brüssel,,,,,,,,,,,x
+b_brussel,german,,BrÃ¼ssel,,,,,,,,,,,x
 c_breda,PROV92,,Antwerp,,,,,,,,,,,x
 c_breda,c_breda,,,,,,,,,,,,,x
 c_breda,c_breda_adj,,Bredian,,,,,,,,,,,x
@@ -57,7 +57,7 @@ c_breda,frankish,,Anvers,,,,,,,,,,,x
 c_breda,german,,Antorf,,,,,,,,,,,x
 b_breda,b_breda,,Breda,,,,,,,,,,,x
 b_breda,b_breda_adj,,,,,,,,,,,,,x
-b_breda,frankish,,Bréda,,,,,,,,,,,x
+b_breda,frankish,,BrÃ©da,,,,,,,,,,,x
 b_lier,b_lier,,Lier,,,,,,,,,,,x
 b_lier,b_lier_adj,,,,,,,,,,,,,x
 b_lier,frankish,,Lierre,,,,,,,,,,,x
@@ -80,11 +80,11 @@ c_namur,PROV1056,,Namur,,,,,,,,,,,x
 c_namur,c_namur,,,,,,,,,,,,,x
 c_namur,c_namur_adj,,Namurische,,,,,,,,,,,x
 c_namur,dutch,,Namen,,,,,,,,,,,x
-c_namur,german,,Namür,,,,,,,,,,,x
+c_namur,german,,NamÃ¼r,,,,,,,,,,,x
 b_namur,b_namur,,Namur,,,,,,,,,,,x
 b_namur,b_namur_adj,,,,,,,,,,,,,x
 b_namur,dutch,,Namen,,,,,,,,,,,x
-b_namur,german,,Namür,,,,,,,,,,,x
+b_namur,german,,NamÃ¼r,,,,,,,,,,,x
 b_andenne,b_andenne,,Andenne,,,,,,,,,,,x
 b_andenne,b_andenne_adj,,,,,,,,,,,,,x
 b_dinant,b_dinant,,Dinant,,,,,,,,,,,x
@@ -106,7 +106,7 @@ b_hallen,frankish,,Hal,,,,,,,,,,,x
 b_soignies,b_soignies,,Soignies,,,,,,,,,,,x
 b_soignies,b_soignies_adj,,,,,,,,,,,,,x
 b_soignies,dutch,,Zinnik,,,,,,,,,,,x
-b_soignies,german,,Söglingen,,,,,,,,,,,x
+b_soignies,german,,SÃ¶glingen,,,,,,,,,,,x
 b_lessines,b_lessines,,Lessines,,,,,,,,,,,x
 b_lessines,b_lessines_adj,,,,,,,,,,,,,x
 b_lessines,dutch,,Lessen,,,,,,,,,,,x
@@ -147,12 +147,12 @@ b_cambrai,german,,Kamerich,,,,,,,,,,,x
 b_saintspouplet,b_saintspouplet,,Saint-Souplet,,,,,,,,,,,x
 b_saintspouplet,b_saintspouplet_adj,,,,,,,,,,,,,x
 e_france,e_france,,France,,,,,,,,,,,x
-e_france,e_france_adj,,Français,,,,,,,,,,,x
+e_france,e_france_adj,,FranÃ§ais,,,,,,,,,,,x
 k_burgundy,k_burgundy,,Bourgogne,,,,,,,,,,,x
 k_burgundy,k_burgundy_adj,,Bourguignon,,,,,,,,,,,x
 k_burgundy,german,,Burgund,,,,,,,,,,,x
 d_arles,d_arles,,Arles,,,,,,,,,,,x
-d_arles,d_arles_adj,,Arlésien,,,,,,,,,,,x
+d_arles,d_arles_adj,,ArlÃ©sien,,,,,,,,,,,x
 d_arles,greek,,Arelate,,,,,,,,,,,x
 d_arles,roman,,Arelate,,,,,,,,,,,x
 c_arles,PROV1047,,Arle,,,,,,,,,,,x
@@ -164,12 +164,12 @@ b_arles,b_arles,,Arles,,,,,,,,,,,x
 b_arles,b_arles_adj,,,,,,,,,,,,,x
 b_arles,greek,,Arelate,,,,,,,,,,,x
 b_arles,roman,,Arelate,,,,,,,,,,,x
-b_chateaudelemperi,b_chateaudelemperi,,Castèu de l'Empèri,,,,,,,,,,,x
+b_chateaudelemperi,b_chateaudelemperi,,CastÃ¨u de l'EmpÃ¨ri,,,,,,,,,,,x
 b_chateaudelemperi,b_chateaudelemperi_adj,,,,,,,,,,,,,x
 b_salondeprovence,b_salondeprovence,,Selon,,,,,,,,,,,x
 b_salondeprovence,b_salondeprovence_adj,,,,,,,,,,,,,x
-d_provence,d_provence,,Provença,,,,,,,,,,,x
-d_provence,d_provence_adj,,Provençal,,,,,,,,,,,x
+d_provence,d_provence,,ProvenÃ§a,,,,,,,,,,,x
+d_provence,d_provence_adj,,ProvenÃ§al,,,,,,,,,,,x
 d_provence,name_tier,,count,,,,,,,,,,,x
 c_provence,PROV221,,Provence,,,,,,,,,,,x
 c_provence,c_provence,,,,,,,,,,,,,x
@@ -186,7 +186,7 @@ b_marseille,greek,,Massalia,,,,,,,,,,,x
 b_marseille,roman,,Massilia,,,,,,,,,,,x
 b_grimaud,b_grimaud,,Grimaud,,,,,,,,,,,x
 b_grimaud,b_grimaud_adj,,,,,,,,,,,,,x
-b_frejus,b_frejus,,Fréjus,,,,,,,,,,,x
+b_frejus,b_frejus,,FrÃ©jus,,,,,,,,,,,x
 b_frejus,b_frejus_adj,,,,,,,,,,,,,x
 b_frejus,greek,,Forum Iulii,,,,,,,,,,,x
 b_frejus,roman,,Forum Iulii,,,,,,,,,,,x
@@ -194,7 +194,7 @@ b_grasse,b_grasse,,Grasse,,,,,,,,,,,x
 b_grasse,b_grasse_adj,,,,,,,,,,,,,x
 b_castellane,b_castellane,,Castellane,,,,,,,,,,,x
 b_castellane,b_castellane_adj,,,,,,,,,,,,,x
-c_forcalquier,PROV229,,Auta Provença,,,,,,,,,,,x
+c_forcalquier,PROV229,,Auta ProvenÃ§a,,,,,,,,,,,x
 c_forcalquier,c_forcalquier,,,,,,,,,,,,,x
 c_forcalquier,c_forcalquier_adj,,Haute Provence,,,,,,,,,,,x
 b_forcalquier,b_forcalquier,,Forcalquier,,,,,,,,,,,x
@@ -209,7 +209,7 @@ b_digne,b_digne,,Dihna,,,,,,,,,,,x
 b_digne,b_digne_adj,,,,,,,,,,,,,x
 c_nice,PROV230,,Nissa,,,,,,,,,,,x
 c_nice,c_nice,,,,,,,,,,,,,x
-c_nice,c_nice_adj,,Niçois,,,,,,,,,,,x
+c_nice,c_nice_adj,,NiÃ§ois,,,,,,,,,,,x
 c_nice,greek,,Antipolis,,,,,,,,,,,x
 c_nice,roman,,Antipolis,,,,,,,,,,,x
 b_nizza,b_nizza,,Nissa,,,,,,,,,,,x
@@ -243,16 +243,16 @@ b_carpentras,b_carpentras,,Carpentras,,,,,,,,,,,x
 b_carpentras,b_carpentras_adj,,,,,,,,,,,,,x
 b_stpaul,b_stpaul,,St. Paul,,,,,,,,,,,x
 b_stpaul,b_stpaul_adj,,,,,,,,,,,,,x
-c_viviers,PROV223,,Vivarés,,,,,,,,,,,x
+c_viviers,PROV223,,VivarÃ©s,,,,,,,,,,,x
 c_viviers,c_viviers,,,,,,,,,,,,,x
 c_viviers,c_viviers_adj,,Vivieran,,,,,,,,,,,x
-b_aubenas,b_aubenas,,Aubenàs,,,,,,,,,,,x
+b_aubenas,b_aubenas,,AubenÃ s,,,,,,,,,,,x
 b_aubenas,b_aubenas_adj,,,,,,,,,,,,,x
 b_tournon,b_tournon,,Tornon,,,,,,,,,,,x
 b_tournon,b_tournon_adj,,,,,,,,,,,,,x
-b_viviers,b_viviers,,Vivièrs,,,,,,,,,,,x
+b_viviers,b_viviers,,ViviÃ¨rs,,,,,,,,,,,x
 b_viviers,b_viviers_adj,,,,,,,,,,,,,x
-b_largentiere,b_largentiere,,L'Argentièira,,,,,,,,,,,x
+b_largentiere,b_largentiere,,L'ArgentiÃ¨ira,,,,,,,,,,,x
 b_largentiere,b_largentiere_adj,,,,,,,,,,,,,x
 d_lyon,d_lyon,,Lyon,,,,,,,,,,,x
 d_lyon,d_lyon_adj,,Lyonnaise,,,,,,,,,,,x
@@ -275,7 +275,7 @@ b_anse,b_anse,,Anse,,,,,,,,,,,x
 b_anse,b_anse_adj,,,,,,,,,,,,,x
 b_pusignan,b_pusignan,,Pusignan,,,,,,,,,,,x
 b_pusignan,b_pusignan_adj,,,,,,,,,,,,,x
-d_dauphine,d_dauphine,,Dauphiné,,,,,,,,,,,x
+d_dauphine,d_dauphine,,DauphinÃ©,,,,,,,,,,,x
 d_dauphine,d_dauphine_adj,,Dauphinian,,,,,,,,,,,x
 c_dauphine_viennois,PROV228,,Viennois,,,,,,,,,,,x
 c_dauphine_viennois,c_dauphine_viennois,,,,,,,,,,,,,x
@@ -284,7 +284,7 @@ c_dauphine_viennois,greek,,Ouienna,,,,,,,,,,,x
 c_dauphine_viennois,roman,,Vienna,,,,,,,,,,,x
 b_albon,b_albon,,Albon,,,,,,,,,,,x
 b_albon,b_albon_adj,,,,,,,,,,,,,x
-b_vienne,b_vienne,,Vièna,,,,,,,,,,,x
+b_vienne,b_vienne,,ViÃ¨na,,,,,,,,,,,x
 b_vienne,b_vienne_adj,,,,,,,,,,,,,x
 b_vienne,greek,,Ouienna,,,,,,,,,,,x
 b_vienne,roman,,Vienna,,,,,,,,,,,x
@@ -299,7 +299,7 @@ c_valentinois,c_valentinois,,,,,,,,,,,,,x
 c_valentinois,c_valentinois_adj,,Valentinois,,,,,,,,,,,x
 c_valentinois,greek,,Oualentia,,,,,,,,,,,x
 c_valentinois,roman,,Valentia,,,,,,,,,,,x
-b_chateaudesadhemar,b_chateaudesadhemar,,Castèu de Adhémar,,,,,,,,,,,x
+b_chateaudesadhemar,b_chateaudesadhemar,,CastÃ¨u de AdhÃ©mar,,,,,,,,,,,x
 b_chateaudesadhemar,b_chateaudesadhemar_adj,,,,,,,,,,,,,x
 b_valence,b_valence,,Valence,,,,,,,,,,,x
 b_valence,b_valence_adj,,,,,,,,,,,,,x
@@ -307,11 +307,11 @@ b_valence,greek,,Oualentia,,,,,,,,,,,x
 b_valence,roman,,Valentia,,,,,,,,,,,x
 b_stantoine,b_stantoine,,Saint Antoine,,,,,,,,,,,x
 b_stantoine,b_stantoine_adj,,,,,,,,,,,,,x
-b_die,b_die,,Diá,,,,,,,,,,,x
+b_die,b_die,,DiÃ¡,,,,,,,,,,,x
 b_die,b_die_adj,,,,,,,,,,,,,x
-c_gapencais,PROV1049,,Gapençais,,,,,,,,,,,x
+c_gapencais,PROV1049,,GapenÃ§ais,,,,,,,,,,,x
 c_gapencais,c_gapencais,,,,,,,,,,,,,x
-c_gapencais,c_gapencais_adj,,Gapençais,,,,,,,,,,,x
+c_gapencais,c_gapencais_adj,,GapenÃ§ais,,,,,,,,,,,x
 c_gapencais,greek,,Vappincum,,,,,,,,,,,x
 c_gapencais,roman,,Vappincum,,,,,,,,,,,x
 b_embrun,b_embrun,,Embrun,,,,,,,,,,,x
@@ -320,7 +320,7 @@ b_gap,b_gap,,Gap,,,,,,,,,,,x
 b_gap,b_gap_adj,,,,,,,,,,,,,x
 b_gap,greek,,Vappincum,,,,,,,,,,,x
 b_gap,roman,,Vappincum,,,,,,,,,,,x
-b_briancon,b_briancon,,Briançon,,,,,,,,,,,x
+b_briancon,b_briancon,,BrianÃ§on,,,,,,,,,,,x
 b_briancon,b_briancon_adj,,,,,,,,,,,,,x
 b_stbonnet,b_stbonnet,,Saint Bonnet,,,,,,,,,,,x
 b_stbonnet,b_stbonnet_adj,,,,,,,,,,,,,x
@@ -356,7 +356,7 @@ b_vannes,greek,,Darioriton,,,,,,,,,,,x
 b_vannes,roman,,Darioritum,,,,,,,,,,,x
 b_josselin,b_josselin,,Josselin,,,,,,,,,,,x
 b_josselin,b_josselin_adj,,,,,,,,,,,,,x
-b_locmine,b_locmine,,Locminé,,,,,,,,,,,x
+b_locmine,b_locmine,,LocminÃ©,,,,,,,,,,,x
 b_locmine,b_locmine_adj,,,,,,,,,,,,,x
 b_hennebont,b_hennebont,,Hennebont,,,,,,,,,,,x
 b_hennebont,b_hennebont_adj,,,,,,,,,,,,,x
@@ -371,9 +371,9 @@ b_carhaix,b_carhaix,,Carhaix,,,,,,,,,,,x
 b_carhaix,b_carhaix_adj,,,,,,,,,,,,,x
 b_carhaix,greek,,Ouorgion,,,,,,,,,,,x
 b_carhaix,roman,,Vorgium,,,,,,,,,,,x
-b_quimperle,b_quimperle,,Quimperlé,,,,,,,,,,,x
+b_quimperle,b_quimperle,,QuimperlÃ©,,,,,,,,,,,x
 b_quimperle,b_quimperle_adj,,,,,,,,,,,,,x
-b_landevennec,b_landevennec,,Landévennec,,,,,,,,,,,x
+b_landevennec,b_landevennec,,LandÃ©vennec,,,,,,,,,,,x
 b_landevennec,b_landevennec_adj,,,,,,,,,,,,,x
 b_langonnet,b_langonnet,,Langonnet,,,,,,,,,,,x
 b_langonnet,b_langonnet_adj,,,,,,,,,,,,,x
@@ -384,13 +384,13 @@ c_french_leon,greek,,Gesocribate,,,,,,,,,,,x
 c_french_leon,roman,,Gesocribate,,,,,,,,,,,x
 b_brest,b_brest,,Brest,,,,,,,,,,,x
 b_brest,b_brest_adj,,,,,,,,,,,,,x
-b_st_pol_de_leon,b_st_pol_de_leon,,Saint-Pol-de-Léon,,,,,,,,,,,x
+b_st_pol_de_leon,b_st_pol_de_leon,,Saint-Pol-de-LÃ©on,,,,,,,,,,,x
 b_st_pol_de_leon,b_st_pol_de_leon_adj,,,,,,,,,,,,,x
 b_roscoff,b_roscoff,,Roscoff,,,,,,,,,,,x
 b_roscoff,b_roscoff_adj,,,,,,,,,,,,,x
 b_plougonven,b_plougonven,,Plougonven,,,,,,,,,,,x
 b_plougonven,b_plougonven_adj,,,,,,,,,,,,,x
-b_st_meen,b_st_meen,,Saint-Méen,,,,,,,,,,,x
+b_st_meen,b_st_meen,,Saint-MÃ©en,,,,,,,,,,,x
 b_st_meen,b_st_meen_adj,,,,,,,,,,,,,x
 c_nantes,PROV106,,Naoned,,,,,,,,,,,x
 c_nantes,c_nantes,,,,,,,,,,,,,x
@@ -401,11 +401,11 @@ b_nantes,b_nantes,,Nantes,,,,,,,,,,,x
 b_nantes,b_nantes_adj,,,,,,,,,,,,,x
 b_nantes,greek,,Portus Namnetum,,,,,,,,,,,x
 b_nantes,roman,,Portus Namnetum,,,,,,,,,,,x
-b_chateaubriant,b_chateaubriant,,Châteaubriant,,,,,,,,,,,x
+b_chateaubriant,b_chateaubriant,,ChÃ¢teaubriant,,,,,,,,,,,x
 b_chateaubriant,b_chateaubriant_adj,,,,,,,,,,,,,x
 b_redon,b_redon,,Redon,,,,,,,,,,,x
 b_redon,b_redon_adj,,,,,,,,,,,,,x
-b_guerande,b_guerande,,Guérande,,,,,,,,,,,x
+b_guerande,b_guerande,,GuÃ©rande,,,,,,,,,,,x
 b_guerande,b_guerande_adj,,,,,,,,,,,,,x
 b_clisson,b_clisson,,Clisson,,,,,,,,,,,x
 b_clisson,b_clisson_adj,,,,,,,,,,,,,x
@@ -413,7 +413,7 @@ b_donges,b_donges,,Donges,,,,,,,,,,,x
 b_donges,b_donges_adj,,,,,,,,,,,,,x
 c_penthievre,PROV102,,Turnagoued,,,,,,,,,,,x
 c_penthievre,c_penthievre,,,,,,,,,,,,,x
-c_penthievre,c_penthievre_adj,,Penthièvrian,,,,,,,,,,,x
+c_penthievre,c_penthievre_adj,,PenthiÃ¨vrian,,,,,,,,,,,x
 b_verdelet,b_verdelet,,Verdelet,,,,,,,,,,,x
 b_verdelet,b_verdelet_adj,,,,,,,,,,,,,x
 b_st_brieuc,b_st_brieuc,,Saint-Brieuc,,,,,,,,,,,x
@@ -422,16 +422,16 @@ b_monkontour,b_monkontour,,Moncontour,,,,,,,,,,,x
 b_monkontour,b_monkontour_adj,,,,,,,,,,,,,x
 b_paimpol,b_paimpol,,Paimpol,,,,,,,,,,,x
 b_paimpol,b_paimpol_adj,,,,,,,,,,,,,x
-c_tregor,PROV1248,,Trégor,,,,,,,,,,,x
+c_tregor,PROV1248,,TrÃ©gor,,,,,,,,,,,x
 c_tregor,c_tregor,,,,,,,,,,,,,x
-c_tregor,c_tregor_adj,,Trégorian,,,,,,,,,,,x
+c_tregor,c_tregor_adj,,TrÃ©gorian,,,,,,,,,,,x
 b_morlaix,b_morlaix,,Montroulez,,,,,,,,,,,x
 b_morlaix,b_morlaix_adj,,,,,,,,,,,,,x
-b_treguier,b_treguier,,Tréguier,,,,,,,,,,,x
+b_treguier,b_treguier,,TrÃ©guier,,,,,,,,,,,x
 b_treguier,b_treguier_adj,,,,,,,,,,,,,x
 b_guingamp,b_guingamp,,Guingamp,,,,,,,,,,,x
 b_guingamp,b_guingamp_adj,,,,,,,,,,,,,x
-b_chatelaudren,b_chatelaudren,,Châtelaudren,,,,,,,,,,,x
+b_chatelaudren,b_chatelaudren,,ChÃ¢telaudren,,,,,,,,,,,x
 b_chatelaudren,b_chatelaudren_adj,,,,,,,,,,,,,x
 c_rennes,PROV101,,Roazhon,,,,,,,,,,,x
 c_rennes,c_rennes,,,,,,,,,,,,,x
@@ -442,20 +442,20 @@ b_rennes,b_rennes,,Rennes,,,,,,,,,,,x
 b_rennes,b_rennes_adj,,,,,,,,,,,,,x
 b_rennes,greek,,Kondate,,,,,,,,,,,x
 b_rennes,roman,,Condate Redonum,,,,,,,,,,,x
-b_fougeres,b_fougeres,,Fougères,,,,,,,,,,,x
+b_fougeres,b_fougeres,,FougÃ¨res,,,,,,,,,,,x
 b_fougeres,b_fougeres_adj,,,,,,,,,,,,,x
 b_st_michel,b_st_michel,,Saint-Michel,,,,,,,,,,,x
 b_st_michel,b_st_michel_adj,,,,,,,,,,,,,x
 b_vitre,b_vitre,,Gwitreg,,,,,,,,,,,x
 b_vitre,b_vitre_adj,,,,,,,,,,,,,x
-c_porhoet,PROV1175,,Porhoët,,,,,,,,,,,x
+c_porhoet,PROV1175,,PorhoÃ«t,,,,,,,,,,,x
 c_porhoet,c_porhoet,,,,,,,,,,,,,x
-c_porhoet,c_porhoet_adj,,Porhoët,,,,,,,,,,,x
+c_porhoet,c_porhoet_adj,,PorhoÃ«t,,,,,,,,,,,x
 b_cancale,b_cancale,,Konkaven,,,,,,,,,,,x
 b_cancale,b_cancale_adj,,,,,,,,,,,,,x
 b_st_malo,b_st_malo,,Saint-Malo,,,,,,,,,,,x
 b_st_malo,b_st_malo_adj,,,,,,,,,,,,,x
-b_porhoet,b_porhoet,,Porhoët,,,,,,,,,,,x
+b_porhoet,b_porhoet,,PorhoÃ«t,,,,,,,,,,,x
 b_porhoet,b_porhoet_adj,,,,,,,,,,,,,x
 b_gael,b_gael,,Gwazel,,,,,,,,,,,x
 b_gael,b_gael_adj,,,,,,,,,,,,,x
@@ -466,9 +466,9 @@ k_france,k_france_adj,,French,,,,,,,,,,,x
 k_france,aragonese,,Franza,,,,,,,,,,,x
 k_france,basque,,Frantzia,,,,,,,,,,,x
 k_france,castillan,,Francia,,,,,,,,,,,x
-k_france,catalan,,França,,,,,,,,,,,x
+k_france,catalan,,FranÃ§a,,,,,,,,,,,x
 k_france,greek,,Gallia,,,,,,,,,,,x
-k_france,occitan,,França,,,,,,,,,,,x
+k_france,occitan,,FranÃ§a,,,,,,,,,,,x
 k_france,roman,,Galliae,,,,,,,,,,,x
 k_france,saxon,,Francland,,,,,,,,,,,x
 d_flanders,d_flanders,,Flanders,,,,,,,,,,,x
@@ -556,11 +556,11 @@ b_torhout,b_torhout,,Torhout,,,,,,,,,,,x
 b_torhout,b_torhout_adj,,,,,,,,,,,,,x
 d_artois,d_artois,,Artois,,,,,,,,,,,x
 d_artois,d_artois_adj,,Artoisien,,,,,,,,,,,x
-d_artois,dutch,,Artesië,,,,,,,,,,,x
+d_artois,dutch,,ArtesiÃ«,,,,,,,,,,,x
 c_artois,PROV77,,Artois,,,,,,,,,,,x
 c_artois,c_artois,,,,,,,,,,,,,x
 c_artois,c_artois_adj,,Artois,,,,,,,,,,,x
-c_artois,dutch,,Artesië,,,,,,,,,,,x
+c_artois,dutch,,ArtesiÃ«,,,,,,,,,,,x
 b_arras,b_arras,,Arras,,,,,,,,,,,x
 b_arras,b_arras_adj,,,,,,,,,,,,,x
 b_arras,dutch,,Atrecht,,,,,,,,,,,x
@@ -585,7 +585,7 @@ b_boulogne,dutch,,Bonen,,,,,,,,,,,x
 b_fauquembergues,b_fauquembergues,,Fauquembergues,,,,,,,,,,,x
 b_fauquembergues,b_fauquembergues_adj,,,,,,,,,,,,,x
 b_fauquembergues,dutch,,Falkenberge,,,,,,,,,,,x
-b_etaples,b_etaples,,Étaples,,,,,,,,,,,x
+b_etaples,b_etaples,,Ã‰taples,,,,,,,,,,,x
 b_etaples,b_etaples_adj,,,,,,,,,,,,,x
 b_etaples,dutch,,Stapel,,,,,,,,,,,x
 b_saintwulmer,b_saintwulmer,,Saint-Wulmer,,,,,,,,,,,x
@@ -603,7 +603,7 @@ b_saintpol,dutch,,Sint Pols,,,,,,,,,,,x
 b_hesdin,b_hesdin,,Hesdin,,,,,,,,,,,x
 b_hesdin,b_hesdin_adj,,,,,,,,,,,,,x
 b_hesdin,dutch,,Heusden,,,,,,,,,,,x
-b_auxilechateau,b_auxilechateau,,Auxi-le-Château,,,,,,,,,,,x
+b_auxilechateau,b_auxilechateau,,Auxi-le-ChÃ¢teau,,,,,,,,,,,x
 b_auxilechateau,b_auxilechateau_adj,,,,,,,,,,,,,x
 c_ponthieu,PROV1170,,Ponthieu,,,,,,,,,,,x
 c_ponthieu,c_ponthieu,,,,,,,,,,,,,x
@@ -616,7 +616,7 @@ b_abbeville,b_abbeville,,Abbeville,,,,,,,,,,,x
 b_abbeville,b_abbeville_adj,,,,,,,,,,,,,x
 b_saintriquier,b_saintriquier,,Saint-Riquier,,,,,,,,,,,x
 b_saintriquier,b_saintriquier_adj,,,,,,,,,,,,,x
-b_crecyenponthieu,b_crecyenponthieu,,Crécy,,,,,,,,,,,x
+b_crecyenponthieu,b_crecyenponthieu,,CrÃ©cy,,,,,,,,,,,x
 b_crecyenponthieu,b_crecyenponthieu_adj,,,,,,,,,,,,,x
 c_guines,PROV74,,Guines,,,,,,,,,,,x
 c_guines,c_guines,,,,,,,,,,,,,x
@@ -649,7 +649,7 @@ b_autun,greek,,Augustodunum,,,,,,,,,,,x
 b_autun,roman,,Augustodunum,,,,,,,,,,,x
 b_champagny,b_champagny,,Champagny,,,,,,,,,,,x
 b_champagny,b_champagny_adj,,,,,,,,,,,,,x
-b_citeaux,b_citeaux,,Cîteaux,,,,,,,,,,,x
+b_citeaux,b_citeaux,,CÃ®teaux,,,,,,,,,,,x
 b_citeaux,b_citeaux_adj,,,,,,,,,,,,,x
 b_beaune,b_beaune,,Beaune,,,,,,,,,,,x
 b_beaune,b_beaune_adj,,,,,,,,,,,,,x
@@ -664,12 +664,12 @@ b_arnay,b_arnay,,Arnay,,,,,,,,,,,x
 b_arnay,b_arnay_adj,,,,,,,,,,,,,x
 b_saulieu,b_saulieu,,Saulieu,,,,,,,,,,,x
 b_saulieu,b_saulieu_adj,,,,,,,,,,,,,x
-c_macon,PROV225,,Mâcon,,,,,,,,,,,x
+c_macon,PROV225,,MÃ¢con,,,,,,,,,,,x
 c_macon,c_macon,,,,,,,,,,,,,x
 c_macon,c_macon_adj,,Maconian,,,,,,,,,,,x
-b_fuisse,b_fuisse,,Fuissé,,,,,,,,,,,x
+b_fuisse,b_fuisse,,FuissÃ©,,,,,,,,,,,x
 b_fuisse,b_fuisse_adj,,,,,,,,,,,,,x
-b_macon,b_macon,,Mâcon,,,,,,,,,,,x
+b_macon,b_macon,,MÃ¢con,,,,,,,,,,,x
 b_macon,b_macon_adj,,,,,,,,,,,,,x
 b_cluny,b_cluny,,Cluny,,,,,,,,,,,x
 b_cluny,b_cluny_adj,,,,,,,,,,,,,x
@@ -710,7 +710,7 @@ b_moulins,b_moulins,,Moulins,,,,,,,,,,,x
 b_moulins,b_moulins_adj,,,,,,,,,,,,,x
 b_lancy,b_lancy,,Lancy,,,,,,,,,,,x
 b_lancy,b_lancy_adj,,,,,,,,,,,,,x
-b_montlucon,b_montlucon,,Montluçon,,,,,,,,,,,x
+b_montlucon,b_montlucon,,MontluÃ§on,,,,,,,,,,,x
 b_montlucon,b_montlucon_adj,,,,,,,,,,,,,x
 b_souvigny,b_souvigny,,Souvigny,,,,,,,,,,,x
 b_souvigny,b_souvigny_adj,,,,,,,,,,,,,x
@@ -774,31 +774,31 @@ b_beaulieu,b_beaulieu,,Beaulieu,,,,,,,,,,,x
 b_beaulieu,b_beaulieu_adj,,,,,,,,,,,,,x
 b_amboise,b_amboise,,Amboise,,,,,,,,,,,x
 b_amboise,b_amboise_adj,,,,,,,,,,,,,x
-c_vendome,PROV109,,Vendôme,,,,,,,,,,,x
+c_vendome,PROV109,,VendÃ´me,,,,,,,,,,,x
 c_vendome,c_vendome,,,,,,,,,,,,,x
 c_vendome,c_vendome_adj,,Vendomian,,,,,,,,,,,x
 b_lavardin,b_lavardin,,Lavardin,,,,,,,,,,,x
 b_lavardin,b_lavardin_adj,,,,,,,,,,,,,x
-b_vendome,b_vendome,,Vendôme,,,,,,,,,,,x
+b_vendome,b_vendome,,VendÃ´me,,,,,,,,,,,x
 b_vendome,b_vendome_adj,,,,,,,,,,,,,x
 b_cloyes,b_cloyes,,Cloyes,,,,,,,,,,,x
 b_cloyes,b_cloyes_adj,,,,,,,,,,,,,x
-b_freteval,b_freteval,,Fréteval,,,,,,,,,,,x
+b_freteval,b_freteval,,FrÃ©teval,,,,,,,,,,,x
 b_freteval,b_freteval_adj,,,,,,,,,,,,,x
-b_chateaurenault,b_chateaurenault,,Château-Renault,,,,,,,,,,,x
+b_chateaurenault,b_chateaurenault,,ChÃ¢teau-Renault,,,,,,,,,,,x
 b_chateaurenault,b_chateaurenault_adj,,,,,,,,,,,,,x
 d_normandy,d_normandy,,Normandy,,,,,,,,,,,x
 d_normandy,d_normandy_adj,,Norman,,,,,,,,,,,x
-d_normandy,castillan,,Normandía,,,,,,,,,,,x
+d_normandy,castillan,,NormandÃ­a,,,,,,,,,,,x
 d_normandy,catalan,,Normandia,,,,,,,,,,,x
 d_normandy,english,,Normandie,,,,,,,,,,,x
 d_normandy,frankish,,Normandie,,,,,,,,,,,x
 d_normandy,norman,,Nourmaundie,,,,,,,,,,,x
 d_normandy,saxon,,Normandig,,,,,,,,,,,x
-c_evreux,PROV99,,Évreux,,,,,,,,,,,x
+c_evreux,PROV99,,Ã‰vreux,,,,,,,,,,,x
 c_evreux,c_evreux,,,,,,,,,,,,,x
 c_evreux,c_evreux_adj,,Evreuxian,,,,,,,,,,,x
-b_evreux,b_evreux,,Évreux,,,,,,,,,,,x
+b_evreux,b_evreux,,Ã‰vreux,,,,,,,,,,,x
 b_evreux,b_evreux_adj,,,,,,,,,,,,,x
 b_lisieux,b_lisieux,,Lisieux,,,,,,,,,,,x
 b_lisieux,b_lisieux_adj,,,,,,,,,,,,,x
@@ -860,9 +860,9 @@ b_coutances,b_coutances,,Coutances,,,,,,,,,,,x
 b_coutances,b_coutances_adj,,,,,,,,,,,,,x
 b_coutances,greek,,Konstantia,,,,,,,,,,,x
 b_coutances,roman,,Constantia,,,,,,,,,,,x
-b_Regneville,b_Regneville,,Regnéville,,,,,,,,,,,x
+b_Regneville,b_Regneville,,RegnÃ©ville,,,,,,,,,,,x
 b_Regneville,b_Regneville_adj,,,,,,,,,,,,,x
-b_saintlo,b_saintlo,,Saint-Lô,,,,,,,,,,,x
+b_saintlo,b_saintlo,,Saint-LÃ´,,,,,,,,,,,x
 b_saintlo,b_saintlo_adj,,,,,,,,,,,,,x
 b_barfleur,b_barfleur,,Barfleur,,,,,,,,,,,x
 b_barfleur,b_barfleur_adj,,,,,,,,,,,,,x
@@ -907,12 +907,12 @@ b_aumale,b_aumale,,Aumale,,,,,,,,,,,x
 b_aumale,b_aumale_adj,,,,,,,,,,,,,x
 b_forges,b_forges,,Forges,,,,,,,,,,,x
 b_forges,b_forges_adj,,,,,,,,,,,,,x
-d_alencon,d_alencon,,Alençon,,,,,,,,,,,x
-d_alencon,d_alencon_adj,,Alençonne,,,,,,,,,,,x
-c_alencon,PROV1171,,Alençon,,,,,,,,,,,x
+d_alencon,d_alencon,,AlenÃ§on,,,,,,,,,,,x
+d_alencon,d_alencon_adj,,AlenÃ§onne,,,,,,,,,,,x
+c_alencon,PROV1171,,AlenÃ§on,,,,,,,,,,,x
 c_alencon,c_alencon,,,,,,,,,,,,,x
 c_alencon,c_alencon_adj,,Alenconan,,,,,,,,,,,x
-b_alencon,b_alencon,,Alençon,,,,,,,,,,,x
+b_alencon,b_alencon,,AlenÃ§on,,,,,,,,,,,x
 b_alencon,b_alencon_adj,,,,,,,,,,,,,x
 b_argentan,b_argentan,,Argentan,,,,,,,,,,,x
 b_argentan,b_argentan_adj,,,,,,,,,,,,,x
@@ -925,7 +925,7 @@ c_perche,c_perche,,,,,,,,,,,,,x
 c_perche,c_perche_adj,,Perche,,,,,,,,,,,x
 b_nogentlerotrou,b_nogentlerotrou,,Nogent-Le-Rotrou,,,,,,,,,,,x
 b_nogentlerotrou,b_nogentlerotrou_adj,,,,,,,,,,,,,x
-b_belleme,b_belleme,,Bellême,,,,,,,,,,,x
+b_belleme,b_belleme,,BellÃªme,,,,,,,,,,,x
 b_belleme,b_belleme_adj,,,,,,,,,,,,,x
 b_authon,b_authon,,Authon,,,,,,,,,,,x
 b_authon,b_authon_adj,,,,,,,,,,,,,x
@@ -938,18 +938,18 @@ b_montfortlamaury,b_montfortlamaury,,Montfort,,,,,,,,,,,x
 b_montfortlamaury,b_montfortlamaury_adj,,,,,,,,,,,,,x
 b_dreux,b_dreux,,Dreux,,,,,,,,,,,x
 b_dreux,b_dreux_adj,,,,,,,,,,,,,x
-b_epernon,b_epernon,,Épernon,,,,,,,,,,,x
+b_epernon,b_epernon,,Ã‰pernon,,,,,,,,,,,x
 b_epernon,b_epernon_adj,,,,,,,,,,,,,x
 b_brezolles,b_brezolles,,Brezolles,,,,,,,,,,,x
 b_brezolles,b_brezolles_adj,,,,,,,,,,,,,x
 d_orleans,d_orleans,,Orleans,,,,,,,,,,,x
 d_orleans,d_orleans_adj,,Orleanaise,,,,,,,,,,,x
-c_orleans,PROV138,,Orléans,,,,,,,,,,,x
+c_orleans,PROV138,,OrlÃ©ans,,,,,,,,,,,x
 c_orleans,c_orleans,,,,,,,,,,,,,x
 c_orleans,c_orleans_adj,,Orleanian,,,,,,,,,,,x
 c_orleans,greek,,Kenabon,,,,,,,,,,,x
 c_orleans,roman,,Cenabum,,,,,,,,,,,x
-b_orleans,b_orleans,,Orléans,,,,,,,,,,,x
+b_orleans,b_orleans,,OrlÃ©ans,,,,,,,,,,,x
 b_orleans,b_orleans_adj,,,,,,,,,,,,,x
 b_orleans,greek,,Kenabon,,,,,,,,,,,x
 b_orleans,roman,,Cenabum,,,,,,,,,,,x
@@ -961,19 +961,19 @@ b_sully,b_sully,,Sully,,,,,,,,,,,x
 b_sully,b_sully_adj,,,,,,,,,,,,,x
 b_jargeau,b_jargeau,,Jargeau,,,,,,,,,,,x
 b_jargeau,b_jargeau_adj,,,,,,,,,,,,,x
-c_gatinas,PROV1189,,Gâtinais,,,,,,,,,,,x
+c_gatinas,PROV1189,,GÃ¢tinais,,,,,,,,,,,x
 c_gatinas,c_gatinas,,,,,,,,,,,,,x
-c_gatinas,c_gatinas_adj,,Gâtinais,,,,,,,,,,,x
+c_gatinas,c_gatinas_adj,,GÃ¢tinais,,,,,,,,,,,x
 b_montargis,b_montargis,,Montargis,,,,,,,,,,,x
 b_montargis,b_montargis_adj,,,,,,,,,,,,,x
 b_courtenay,b_courtenay,,Courtenay,,,,,,,,,,,x
 b_courtenay,b_courtenay_adj,,,,,,,,,,,,,x
 b_nemours,b_nemours,,Nemours,,,,,,,,,,,x
 b_nemours,b_nemours_adj,,,,,,,,,,,,,x
-b_chateaulandon,b_chateaulandon,,Château-Landon,,,,,,,,,,,x
+b_chateaulandon,b_chateaulandon,,ChÃ¢teau-Landon,,,,,,,,,,,x
 b_chateaulandon,b_chateaulandon_adj,,,,,,,,,,,,,x
 d_blois,d_blois,,Blois,,,,,,,,,,,x
-d_blois,d_blois_adj,,Blésois,,,,,,,,,,,x
+d_blois,d_blois_adj,,BlÃ©sois,,,,,,,,,,,x
 d_blois,name_tier,,count,,,,,,,,,,,x
 c_chartres,PROV111,,Chartres,,,,,,,,,,,x
 c_chartres,c_chartres,,,,,,,,,,,,,x
@@ -1000,7 +1000,7 @@ b_romorantin,b_romorantin_adj,,,,,,,,,,,,,x
 c_chateaudun,PROV1186,,Chateaudun,,,,,,,,,,,x
 c_chateaudun,c_chateaudun,,,,,,,,,,,,,x
 c_chateaudun,c_chateaudun_adj,,Chateaudun,,,,,,,,,,,x
-b_chateaudun,b_chateaudun,,Châteaudun,,,,,,,,,,,x
+b_chateaudun,b_chateaudun,,ChÃ¢teaudun,,,,,,,,,,,x
 b_chateaudun,b_chateaudun_adj,,,,,,,,,,,,,x
 b_beaugency,b_beaugency,,Beaugency,,,,,,,,,,,x
 b_beaugency,b_beaugency_adj,,,,,,,,,,,,,x
@@ -1023,9 +1023,9 @@ b_bourges,foa,,VICOMTE_FOA,,,,,,,,,,,x
 b_bourges,title,,VICOMTE,,,,,,,,,,,x
 b_bourges,title_female,,VICOMTESSE,,,,,,,,,,,x
 b_bourges,title_prefix,,VICOMTE_OF,,,,,,,,,,,x
-b_chateauroux,b_chateauroux,,Châteauroux,,,,,,,,,,,x
+b_chateauroux,b_chateauroux,,ChÃ¢teauroux,,,,,,,,,,,x
 b_chateauroux,b_chateauroux_adj,,,,,,,,,,,,,x
-b_deols,b_deols,,Déols,,,,,,,,,,,x
+b_deols,b_deols,,DÃ©ols,,,,,,,,,,,x
 b_deols,b_deols_adj,,,,,,,,,,,,,x
 c_sancerre,PROV1160,,Sancerre,,,,,,,,,,,x
 c_sancerre,c_sancerre,,,,,,,,,,,,,x
@@ -1048,7 +1048,7 @@ b_nevers,b_nevers,,Nevers,,,,,,,,,,,x
 b_nevers,b_nevers_adj,,,,,,,,,,,,,x
 b_nevers,greek,,Nevirnum,,,,,,,,,,,x
 b_nevers,roman,,Nevirnum,,,,,,,,,,,x
-b_lacharite,b_lacharite,,La Charité,,,,,,,,,,,x
+b_lacharite,b_lacharite,,La CharitÃ©,,,,,,,,,,,x
 b_lacharite,b_lacharite_adj,,,,,,,,,,,,,x
 b_donzy,b_donzy,,Donzy,,,,,,,,,,,x
 b_donzy,b_donzy_adj,,,,,,,,,,,,,x
@@ -1095,7 +1095,7 @@ b_reims,greek,,Remos,,,,,,,,,,,x
 b_reims,roman,,Remos,,,,,,,,,,,x
 b_vitry,b_vitry,,Vitry,,,,,,,,,,,x
 b_vitry,b_vitry_adj,,,,,,,,,,,,,x
-b_chalons,b_chalons,,Châlons,,,,,,,,,,,x
+b_chalons,b_chalons,,ChÃ¢lons,,,,,,,,,,,x
 b_chalons,b_chalons_adj,,,,,,,,,,,,,x
 b_louvois,b_louvois,,Louvois,,,,,,,,,,,x
 b_louvois,b_louvois_adj,,,,,,,,,,,,,x
@@ -1130,12 +1130,12 @@ b_provins,b_provins,,Provins,,,,,,,,,,,x
 b_provins,b_provins_adj,,,,,,,,,,,,,x
 b_montmirail_brie,b_montmirail_brie,,Montmirail,,,,,,,,,,,x
 b_montmirail_brie,b_montmirail_brie_adj,,,,,,,,,,,,,x
-b_chateauthierry,b_chateauthierry,,Château-Thierry,,,,,,,,,,,x
+b_chateauthierry,b_chateauthierry,,ChÃ¢teau-Thierry,,,,,,,,,,,x
 b_chateauthierry,b_chateauthierry_adj,,,,,,,,,,,,,x
 c_vertus,PROV1185,,Vertus,,,,,,,,,,,x
 c_vertus,c_vertus,,,,,,,,,,,,,x
 c_vertus,c_vertus_adj,,Vertus,,,,,,,,,,,x
-b_chatillon,b_chatillon,,Châtillon,,,,,,,,,,,x
+b_chatillon,b_chatillon,,ChÃ¢tillon,,,,,,,,,,,x
 b_chatillon,b_chatillon_adj,,,,,,,,,,,,,x
 b_montmort,b_montmort,,Montmort,,,,,,,,,,,x
 b_montmort,b_montmort_adj,,,,,,,,,,,,,x
@@ -1164,14 +1164,14 @@ b_chaumont,b_chaumont_adj,,,,,,,,,,,,,x
 b_bourmont,b_bourmont,,Bourmont,,,,,,,,,,,x
 b_bourmont,b_bourmont_adj,,,,,,,,,,,,,x
 d_rethel,d_rethel,,Rethel,,,,,,,,,,,x
-d_rethel,d_rethel_adj,,Rethélois,,,,,,,,,,,x
+d_rethel,d_rethel_adj,,RethÃ©lois,,,,,,,,,,,x
 d_rethel,name_tier,,count,,,,,,,,,,,x
-c_rethel,PROV1162,,Réthel,,,,,,,,,,,x
+c_rethel,PROV1162,,RÃ©thel,,,,,,,,,,,x
 c_rethel,c_rethel,,,,,,,,,,,,,x
-c_rethel,c_rethel_adj,,Réthel,,,,,,,,,,,x
-b_rethel,b_rethel,,Réthel,,,,,,,,,,,x
+c_rethel,c_rethel_adj,,RÃ©thel,,,,,,,,,,,x
+b_rethel,b_rethel,,RÃ©thel,,,,,,,,,,,x
 b_rethel,b_rethel_adj,,,,,,,,,,,,,x
-b_grandpre,b_grandpre,,Grandpré,,,,,,,,,,,x
+b_grandpre,b_grandpre,,GrandprÃ©,,,,,,,,,,,x
 b_grandpre,b_grandpre_adj,,,,,,,,,,,,,x
 b_buzancy,b_buzancy,,Buzancy,,,,,,,,,,,x
 b_buzancy,b_buzancy_adj,,,,,,,,,,,,,x
@@ -1205,16 +1205,16 @@ b_stdenis,b_stdenis,,Saint-Denis,,,,,,,,,,,x
 b_stdenis,b_stdenis_adj,,,,,,,,,,,,,x
 b_rambouillet,b_rambouillet,,Rambouillet,,,,,,,,,,,x
 b_rambouillet,b_rambouillet_adj,,,,,,,,,,,,,x
-b_etampes,b_etampes,,Étampes,,,,,,,,,,,x
+b_etampes,b_etampes,,Ã‰tampes,,,,,,,,,,,x
 b_etampes,b_etampes_adj,,,,,,,,,,,,,x
-b_compiegne,b_compiegne,,Compiègne,,,,,,,,,,,x
+b_compiegne,b_compiegne,,CompiÃ¨gne,,,,,,,,,,,x
 b_compiegne,b_compiegne_adj,,,,,,,,,,,,,x
 c_valois,PROV1176,,Valois,,,,,,,,,,,x
 c_valois,c_valois,,,,,,,,,,,,,x
 c_valois,c_valois_adj,,Valoisan,,,,,,,,,,,x
 b_laon,b_laon,,Laon,,,,,,,,,,,x
 b_laon,b_laon_adj,,,,,,,,,,,,,x
-b_crepy,b_crepy,,Crépy,,,,,,,,,,,x
+b_crepy,b_crepy,,CrÃ©py,,,,,,,,,,,x
 b_crepy,b_crepy_adj,,,,,,,,,,,,,x
 b_soissons,b_soissons,,Soissons,,,,,,,,,,,x
 b_soissons,b_soissons_adj,,,,,,,,,,,,,x
@@ -1226,7 +1226,7 @@ b_senlis,b_senlis,,Senlis,,,,,,,,,,,x
 b_senlis,b_senlis_adj,,,,,,,,,,,,,x
 b_senlis,greek,,Augoustomagos,,,,,,,,,,,x
 b_senlis,roman,,Augustomagus,,,,,,,,,,,x
-c_southvexin,PROV1177,,Vexin Français,,,,,,,,,,,x
+c_southvexin,PROV1177,,Vexin FranÃ§ais,,,,,,,,,,,x
 c_southvexin,c_southvexin,,,,,,,,,,,,,x
 c_southvexin,c_southvexin_adj,,Sud Vexian,,,,,,,,,,,x
 b_larocheguyon,b_larocheguyon,,La Roche-Guyon,,,,,,,,,,,x
@@ -1253,7 +1253,7 @@ c_amiens,c_amiens,,,,,,,,,,,,,x
 c_amiens,c_amiens_adj,,Amienian,,,,,,,,,,,x
 c_amiens,greek,,Samarobriva,,,,,,,,,,,x
 c_amiens,roman,,Samarobriva,,,,,,,,,,,x
-b_peronne,b_peronne,,Péronne,,,,,,,,,,,x
+b_peronne,b_peronne,,PÃ©ronne,,,,,,,,,,,x
 b_peronne,b_peronne_adj,,,,,,,,,,,,,x
 b_nesle,b_nesle,,Nesle,,,,,,,,,,,x
 b_nesle,b_nesle_adj,,,,,,,,,,,,,x
@@ -1291,7 +1291,7 @@ c_toulouse,c_toulouse,,,,,,,,,,,,,x
 c_toulouse,c_toulouse_adj,,Toulousian,,,,,,,,,,,x
 c_toulouse,greek,,Tolosa,,,,,,,,,,,x
 c_toulouse,roman,,Tolosa,,,,,,,,,,,x
-b_castelnaudary,b_castelnaudary,,Castèlnòu d'Arri,,,,,,,,,,,x
+b_castelnaudary,b_castelnaudary,,CastÃ¨lnÃ²u d'Arri,,,,,,,,,,,x
 b_castelnaudary,b_castelnaudary_adj,,,,,,,,,,,,,x
 b_toulouse,b_toulouse,,Tolosoa,,,,,,,,,,,x
 b_toulouse,b_toulouse_adj,,,,,,,,,,,,,x
@@ -1301,7 +1301,7 @@ b_toulouse,foa,,CAPITOUL_FOA,,,,,,,,,,,x
 b_toulouse,title,,CAPITOUL,,,,,,,,,,,x
 b_montauban,b_montauban,,Montalban,,,,,,,,,,,x
 b_montauban,b_montauban_adj,,,,,,,,,,,,,x
-b_lombez,b_lombez,,Lombèrs,,,,,,,,,,,x
+b_lombez,b_lombez,,LombÃ¨rs,,,,,,,,,,,x
 b_lombez,b_lombez_adj,,,,,,,,,,,,,x
 b_hautpoul,b_hautpoul,,Hautpoul,,,,,,,,,,,x
 b_hautpoul,b_hautpoul_adj,,,,,,,,,,,,,x
@@ -1321,7 +1321,7 @@ b_saintantonin,b_saintantonin_adj,,,,,,,,,,,,,x
 c_rouergue,PROV218,,Roergue,,,,,,,,,,,x
 c_rouergue,c_rouergue,,,,,,,,,,,,,x
 c_rouergue,c_rouergue_adj,,Rouerguian,,,,,,,,,,,x
-b_rodez,b_rodez,,Rodés,,,,,,,,,,,x
+b_rodez,b_rodez,,RodÃ©s,,,,,,,,,,,x
 b_rodez,b_rodez_adj,,,,,,,,,,,,,x
 b_vabres,b_vabres,,Vabre,,,,,,,,,,,x
 b_vabres,b_vabres_adj,,,,,,,,,,,,,x
@@ -1340,12 +1340,12 @@ b_albioccitiania,b_albioccitiania,,Albi,,,,,,,,,,,x
 b_albioccitiania,b_albioccitiania_adj,,,,,,,,,,,,,x
 b_lavaur,b_lavaur,,La Vaur,,,,,,,,,,,x
 b_lavaur,b_lavaur_adj,,,,,,,,,,,,,x
-b_castres,b_castres,,Castrés,,,,,,,,,,,x
+b_castres,b_castres,,CastrÃ©s,,,,,,,,,,,x
 b_castres,b_castres_adj,,,,,,,,,,,,,x
-b_lombers,b_lombers,,Lombèrs,,,,,,,,,,,x
+b_lombers,b_lombers,,LombÃ¨rs,,,,,,,,,,,x
 b_lombers,b_lombers_adj,,,,,,,,,,,,,x
-d_gevaudan,d_gevaudan,,Gévaudan,,,,,,,,,,,x
-d_gevaudan,d_gevaudan_adj,,Gévaudan,,,,,,,,,,,x
+d_gevaudan,d_gevaudan,,GÃ©vaudan,,,,,,,,,,,x
+d_gevaudan,d_gevaudan_adj,,GÃ©vaudan,,,,,,,,,,,x
 d_gevaudan,name_tier,,count,,,,,,,,,,,x
 c_milau,PROV1250,,Milau,,,,,,,,,,,x
 c_milau,c_milau,,,,,,,,,,,,,x
@@ -1358,9 +1358,9 @@ b_nantmillau,b_nantmillau,,Nant,,,,,,,,,,,x
 b_nantmillau,b_nantmillau_adj,,,,,,,,,,,,,x
 b_millau,b_millau,,Milhau,,,,,,,,,,,x
 b_millau,b_millau_adj,,,,,,,,,,,,,x
-b_templarlacavalerie,b_templarlacavalerie,,La Cavalariá,,,,,,,,,,,x
+b_templarlacavalerie,b_templarlacavalerie,,La CavalariÃ¡,,,,,,,,,,,x
 b_templarlacavalerie,b_templarlacavalerie_adj,,,,,,,,,,,,,x
-b_rivieresurtarn,b_rivieresurtarn,,Castèl de Pèira Lada,,,,,,,,,,,x
+b_rivieresurtarn,b_rivieresurtarn,,CastÃ¨l de PÃ¨ira Lada,,,,,,,,,,,x
 b_rivieresurtarn,b_rivieresurtarn_adj,,,,,,,,,,,,,x
 c_gevaudan,PROV219,,Gavaudan,,,,,,,,,,,x
 c_gevaudan,c_gevaudan,,,,,,,,,,,,,x
@@ -1369,16 +1369,16 @@ c_gevaudan,foa,,VICOMTE_FOA,,,,,,,,,,,x
 c_gevaudan,title,,VICOMTE,,,,,,,,,,,x
 c_gevaudan,title_female,,VICOMTESSE,,,,,,,,,,,x
 c_gevaudan,title_prefix,,VICOMTE_OF,,,,,,,,,,,x
-b_grezes,b_grezes,,Grésas,,,,,,,,,,,x
+b_grezes,b_grezes,,GrÃ©sas,,,,,,,,,,,x
 b_grezes,b_grezes_adj,,,,,,,,,,,,,x
 b_mende,b_mende,,Mende,,,,,,,,,,,x
 b_mende,b_mende_adj,,,,,,,,,,,,,x
 b_apchier,b_apchier,,Apchier,,,,,,,,,,,x
 b_apchier,b_apchier_adj,,,,,,,,,,,,,x
-b_marvejols,b_marvejols,,Maruèjols,,,,,,,,,,,x
+b_marvejols,b_marvejols,,MaruÃ¨jols,,,,,,,,,,,x
 b_marvejols,b_marvejols_adj,,,,,,,,,,,,,x
-d_foix,d_foix,,Pirenèus,,,,,,,,,,,x
-d_foix,d_foix_adj,,Pirenèusen,,,,,,,,,,,x
+d_foix,d_foix,,PirenÃ¨us,,,,,,,,,,,x
+d_foix,d_foix_adj,,PirenÃ¨usen,,,,,,,,,,,x
 c_foix,PROV210,,Fois,,,,,,,,,,,x
 c_foix,c_foix,,,,,,,,,,,,,x
 c_foix,c_foix_adj,,Foixian,,,,,,,,,,,x
@@ -1388,22 +1388,22 @@ b_castagnac,b_castagnac,,Castanhac,,,,,,,,,,,x
 b_castagnac,b_castagnac_adj,,,,,,,,,,,,,x
 b_mirepoix,b_mirepoix,,Mirapeis,,,,,,,,,,,x
 b_mirepoix,b_mirepoix_adj,,,,,,,,,,,,,x
-b_roquefeuil,b_roquefeuil,,Ròcafuèlh,,,,,,,,,,,x
+b_roquefeuil,b_roquefeuil,,RÃ²cafuÃ¨lh,,,,,,,,,,,x
 b_roquefeuil,b_roquefeuil_adj,,,,,,,,,,,,,x
 c_comminges,PROV1157,,Comminges,,,,,,,,,,,x
 c_comminges,c_comminges,,,,,,,,,,,,,x
 c_comminges,c_comminges_adj,,Comenge,,,,,,,,,,,x
 b_stbertrand,b_stbertrand,,Sent Bertran,,,,,,,,,,,x
 b_stbertrand,b_stbertrand_adj,,,,,,,,,,,,,x
-b_stgaudens,b_stgaudens,,Sent Gaudenç,,,,,,,,,,,x
+b_stgaudens,b_stgaudens,,Sent GaudenÃ§,,,,,,,,,,,x
 b_stgaudens,b_stgaudens_adj,,,,,,,,,,,,,x
-b_aspet,b_aspet,,Aspèth,,,,,,,,,,,x
+b_aspet,b_aspet,,AspÃ¨th,,,,,,,,,,,x
 b_aspet,b_aspet_adj,,,,,,,,,,,,,x
-b_muret,b_muret,,Murèth,,,,,,,,,,,x
+b_muret,b_muret,,MurÃ¨th,,,,,,,,,,,x
 b_muret,b_muret_adj,,,,,,,,,,,,,x
-b_chateaumirabat,b_chateaumirabat,,Castèu de Mirabat,,,,,,,,,,,x
+b_chateaumirabat,b_chateaumirabat,,CastÃ¨u de Mirabat,,,,,,,,,,,x
 b_chateaumirabat,b_chateaumirabat_adj,,,,,,,,,,,,,x
-c_bearn,PROV208,,Béarn,,,,,,,,,,,x
+c_bearn,PROV208,,BÃ©arn,,,,,,,,,,,x
 c_bearn,c_bearn,,,,,,,,,,,,,x
 c_bearn,c_bearn_adj,,Bearnian,,,,,,,,,,,x
 c_bearn,foa,,VICOMTE_FOA,,,,,,,,,,,x
@@ -1412,7 +1412,7 @@ c_bearn,title_female,,VICOMTESSE,,,,,,,,,,,x
 c_bearn,title_prefix,,VICOMTE_OF,,,,,,,,,,,x
 b_pau,b_pau,,Pau,,,,,,,,,,,x
 b_pau,b_pau_adj,,,,,,,,,,,,,x
-b_morlaas,b_morlaas,,Morlaàs,,,,,,,,,,,x
+b_morlaas,b_morlaas,,MorlaÃ s,,,,,,,,,,,x
 b_morlaas,b_morlaas_adj,,,,,,,,,,,,,x
 b_lescar,b_lescar,,Lescar,,,,,,,,,,,x
 b_lescar,b_lescar_adj,,,,,,,,,,,,,x
@@ -1448,16 +1448,16 @@ b_durbancorbires,b_durbancorbires,,Durban,,,,,,,,,,,x
 b_durbancorbires,b_durbancorbires_adj,,,,,,,,,,,,,x
 b_fabrezan,b_fabrezan,,Fabresan,,,,,,,,,,,x
 b_fabrezan,b_fabrezan_adj,,,,,,,,,,,,,x
-c_montpellier,PROV220,,Melguèlh,,,,,,,,,,,x
+c_montpellier,PROV220,,MelguÃ¨lh,,,,,,,,,,,x
 c_montpellier,c_montpellier,,,,,,,,,,,,,x
 c_montpellier,c_montpellier_adj,,Montpellierian,,,,,,,,,,,x
-b_montpellier,b_montpellier,,Montpelhièr,,,,,,,,,,,x
+b_montpellier,b_montpellier,,MontpelhiÃ¨r,,,,,,,,,,,x
 b_montpellier,b_montpellier_adj,,,,,,,,,,,,,x
 b_maguelone,b_maguelone,,Magalona,,,,,,,,,,,x
 b_maguelone,b_maguelone_adj,,,,,,,,,,,,,x
-b_melgueil,b_melgueil,,Melguèlh,,,,,,,,,,,x
+b_melgueil,b_melgueil,,MelguÃ¨lh,,,,,,,,,,,x
 b_melgueil,b_melgueil_adj,,,,,,,,,,,,,x
-b_brissac,b_brissac,,Briçac,,,,,,,,,,,x
+b_brissac,b_brissac,,BriÃ§ac,,,,,,,,,,,x
 b_brissac,b_brissac_adj,,,,,,,,,,,,,x
 b_lodeve,b_lodeve,,Lodeva,,,,,,,,,,,x
 b_lodeve,b_lodeve_adj,,,,,,,,,,,,,x
@@ -1474,9 +1474,9 @@ b_nimes,b_nimes,,Nimes,,,,,,,,,,,x
 b_nimes,b_nimes_adj,,,,,,,,,,,,,x
 b_nimes,greek,,Nemausos,,,,,,,,,,,x
 b_nimes,roman,,Nemausus,,,,,,,,,,,x
-b_uzes,b_uzes,,Banhòus de Céser,,,,,,,,,,,x
+b_uzes,b_uzes,,BanhÃ²us de CÃ©ser,,,,,,,,,,,x
 b_uzes,b_uzes_adj,,,,,,,,,,,,,x
-b_chateaudebeucaire,b_chateaudebeucaire,,Bèucaire,,,,,,,,,,,x
+b_chateaudebeucaire,b_chateaudebeucaire,,BÃ¨ucaire,,,,,,,,,,,x
 b_chateaudebeucaire,b_chateaudebeucaire_adj,,,,,,,,,,,,,x
 b_saingilles,b_saingilles,,Sant Geli,,,,,,,,,,,x
 b_saingilles,b_saingilles_adj,,,,,,,,,,,,,x
@@ -1491,36 +1491,36 @@ b_saissac,b_saissac,,Saissac,,,,,,,,,,,x
 b_saissac,b_saissac_adj,,,,,,,,,,,,,x
 b_carcassonne_villebasse,b_carcassonne_villebasse,,Carcassonna,,,,,,,,,,,x
 b_carcassonne_villebasse,b_carcassonne_villebasse_adj,,,,,,,,,,,,,x
-b_rases,b_rases,,Rasès,,,,,,,,,,,x
+b_rases,b_rases,,RasÃ¨s,,,,,,,,,,,x
 b_rases,b_rases_adj,,,,,,,,,,,,,x
-b_limoux,b_limoux,,Limós,,,,,,,,,,,x
+b_limoux,b_limoux,,LimÃ³s,,,,,,,,,,,x
 b_limoux,b_limoux_adj,,,,,,,,,,,,,x
 b_lastours,b_lastours,,Las Tors,,,,,,,,,,,x
 b_lastours,b_lastours_adj,,,,,,,,,,,,,x
-b_chateaudetermes,b_chateaudetermes,,Tèrme,,,,,,,,,,,x
+b_chateaudetermes,b_chateaudetermes,,TÃ¨rme,,,,,,,,,,,x
 b_chateaudetermes,b_chateaudetermes_adj,,,,,,,,,,,,,x
-c_beziers,PROV1168,,Béziers,,,,,,,,,,,x
+c_beziers,PROV1168,,BÃ©ziers,,,,,,,,,,,x
 c_beziers,c_beziers,,,,,,,,,,,,,x
-c_beziers,c_beziers_adj,,Besièrs,,,,,,,,,,,x
+c_beziers,c_beziers_adj,,BesiÃ¨rs,,,,,,,,,,,x
 c_beziers,greek,,Baitarra,,,,,,,,,,,x
 c_beziers,roman,,Baeterrae,,,,,,,,,,,x
 c_beziers,foa,,VICOMTE_FOA,,,,,,,,,,,x
 c_beziers,title,,VICOMTE,,,,,,,,,,,x
 c_beziers,title_female,,VICOMTESSE,,,,,,,,,,,x
 c_beziers,title_prefix,,VICOMTE_OF,,,,,,,,,,,x
-b_beziers,b_beziers,,Besièrs,,,,,,,,,,,x
+b_beziers,b_beziers,,BesiÃ¨rs,,,,,,,,,,,x
 b_beziers,b_beziers_adj,,,,,,,,,,,,,x
 b_beziers,greek,,Baitarra,,,,,,,,,,,x
 b_beziers,roman,,Baeterrae,,,,,,,,,,,x
-b_minerve,b_minerve,,Menèrba,,,,,,,,,,,x
+b_minerve,b_minerve,,MenÃ¨rba,,,,,,,,,,,x
 b_minerve,b_minerve_adj,,,,,,,,,,,,,x
-b_pezenas,b_pezenas,,Pesenàs,,,,,,,,,,,x
+b_pezenas,b_pezenas,,PesenÃ s,,,,,,,,,,,x
 b_pezenas,b_pezenas_adj,,,,,,,,,,,,,x
 b_agde,b_agde,,Agde,,,,,,,,,,,x
 b_agde,b_agde_adj,,,,,,,,,,,,,x
 b_agde,greek,,Agathe Tyche,,,,,,,,,,,x
 b_agde,roman,,Agatha,,,,,,,,,,,x
-b_castelnaudeguers,b_castelnaudeguers,,Guèrs,,,,,,,,,,,x
+b_castelnaudeguers,b_castelnaudeguers,,GuÃ¨rs,,,,,,,,,,,x
 b_castelnaudeguers,b_castelnaudeguers_adj,,,,,,,,,,,,,x
 d_gascogne,d_gascogne,,Gascogne,,,,,,,,,,,x
 d_gascogne,d_gascogne_adj,,Gascognian,,,,,,,,,,,x
@@ -1559,7 +1559,7 @@ c_albret,c_albret,,,,,,,,,,,,,x
 c_albret,c_albret_adj,,Albretian,,,,,,,,,,,x
 b_labrit,b_labrit,,Labrit,,,,,,,,,,,x
 b_labrit,b_labrit_adj,,,,,,,,,,,,,x
-b_tartas,b_tartas,,Tartàs,,,,,,,,,,,x
+b_tartas,b_tartas,,TartÃ s,,,,,,,,,,,x
 b_tartas,b_tartas_adj,,,,,,,,,,,,,x
 b_bazas,b_bazas,,Vasats,,,,,,,,,,,x
 b_bazas,b_bazas_adj,,,,,,,,,,,,,x
@@ -1570,13 +1570,13 @@ c_marsan,c_marsan,,,,,,,,,,,,,x
 c_marsan,c_marsan_adj,,Marsan,,,,,,,,,,,x
 b_donjonlacataye,b_donjonlacataye,,Lacataye,,,,,,,,,,,x
 b_donjonlacataye,b_donjonlacataye_adj,,,,,,,,,,,,,x
-b_chateaunolibos,b_chateaunolibos,,Nolivòls,,,,,,,,,,,x
+b_chateaunolibos,b_chateaunolibos,,NolivÃ²ls,,,,,,,,,,,x
 b_chateaunolibos,b_chateaunolibos_adj,,,,,,,,,,,,,x
-b_roquefort,b_roquefort,,Ròcahòrt,,,,,,,,,,,x
+b_roquefort,b_roquefort,,RÃ²cahÃ²rt,,,,,,,,,,,x
 b_roquefort,b_roquefort_adj,,,,,,,,,,,,,x
 b_montdemarsan,b_montdemarsan,,Lo Mont de Marsan,,,,,,,,,,,x
 b_montdemarsan,b_montdemarsan_adj,,,,,,,,,,,,,x
-d_aquitaine,d_aquitaine,,Aquitània,,,,,,,,,,,x
+d_aquitaine,d_aquitaine,,AquitÃ nia,,,,,,,,,,,x
 d_aquitaine,d_aquitaine_adj,,Aquitain,,,,,,,,,,,x
 c_bordeaux,PROV149,,Bordeaux,,,,,,,,,,,x
 c_bordeaux,c_bordeaux,,,,,,,,,,,,,x
@@ -1608,12 +1608,12 @@ b_penne,b_penne,,Penne,,,,,,,,,,,x
 b_penne,b_penne_adj,,,,,,,,,,,,,x
 b_agen,b_agen,,Agen,,,,,,,,,,,x
 b_agen,b_agen_adj,,,,,,,,,,,,,x
-c_perigord,PROV216,,Périgord,,,,,,,,,,,x
+c_perigord,PROV216,,PÃ©rigord,,,,,,,,,,,x
 c_perigord,c_perigord,,,,,,,,,,,,,x
 c_perigord,c_perigord_adj,,Perigordian,,,,,,,,,,,x
 c_perigord,greek,,Ouesouna,,,,,,,,,,,x
 c_perigord,roman,,Vesunna,,,,,,,,,,,x
-b_perigueux,b_perigueux,,Périgueux,,,,,,,,,,,x
+b_perigueux,b_perigueux,,PÃ©rigueux,,,,,,,,,,,x
 b_perigueux,b_perigueux_adj,,,,,,,,,,,,,x
 b_perigueux,greek,,Ouesouna,,,,,,,,,,,x
 b_perigueux,roman,,Vesunna,,,,,,,,,,,x
@@ -1623,9 +1623,9 @@ b_bergerac,b_bergerac,,Bergerac,,,,,,,,,,,x
 b_bergerac,b_bergerac_adj,,,,,,,,,,,,,x
 b_chancelade,b_chancelade,,Chancelade,,,,,,,,,,,x
 b_chancelade,b_chancelade_adj,,,,,,,,,,,,,x
-d_auvergne,d_auvergne,,Auvèrnhe,,,,,,,,,,,x
-d_auvergne,d_auvergne_adj,,Auvèrnhenan,,,,,,,,,,,x
-c_auvergne,PROV217,,Auvèrnhe,,,,,,,,,,,x
+d_auvergne,d_auvergne,,AuvÃ¨rnhe,,,,,,,,,,,x
+d_auvergne,d_auvergne_adj,,AuvÃ¨rnhenan,,,,,,,,,,,x
+c_auvergne,PROV217,,AuvÃ¨rnhe,,,,,,,,,,,x
 c_auvergne,c_auvergne,,,,,,,,,,,,,x
 c_auvergne,c_auvergne_adj,,Auvergnian,,,,,,,,,,,x
 b_montferrand,b_montferrand,,Montferrand,,,,,,,,,,,x
@@ -1636,11 +1636,11 @@ b_clairmont,b_clairmont,,Clairmont,,,,,,,,,,,x
 b_clairmont,b_clairmont_adj,,,,,,,,,,,,,x
 b_riom,b_riom,,Riom,,,,,,,,,,,x
 b_riom,b_riom_adj,,,,,,,,,,,,,x
-b_chateaudopme,b_chateaudopme,,Castèu d'Opme,,,,,,,,,,,x
+b_chateaudopme,b_chateaudopme,,CastÃ¨u d'Opme,,,,,,,,,,,x
 b_chateaudopme,b_chateaudopme_adj,,,,,,,,,,,,,x
 c_dauphinedeauvergne,PROV1255,,Dauphin d'auvergne,,,,,,,,,,,x
 c_dauphinedeauvergne,c_dauphinedeauvergne,,,,,,,,,,,,,x
-c_dauphinedeauvergne,c_dauphinedeauvergne_adj,,Auvèrnhe,,,,,,,,,,,x
+c_dauphinedeauvergne,c_dauphinedeauvergne_adj,,AuvÃ¨rnhe,,,,,,,,,,,x
 c_dauphinedeauvergne,short_name,,yes,,,,,,,,,,,x
 b_vodable,b_vodable,,Vodable,,,,,,,,,,,x
 b_vodable,b_vodable_adj,,,,,,,,,,,,,x
@@ -1652,7 +1652,7 @@ b_murol,b_murol,,Murol,,,,,,,,,,,x
 b_murol,b_murol_adj,,,,,,,,,,,,,x
 c_carlades,PROV1251,,Carlat,,,,,,,,,,,x
 c_carlades,c_carlades,,,,,,,,,,,,,x
-c_carlades,c_carlades_adj,,Carladés,,,,,,,,,,,x
+c_carlades,c_carlades_adj,,CarladÃ©s,,,,,,,,,,,x
 c_carlades,foa,,VICOMTE_FOA,,,,,,,,,,,x
 c_carlades,title,,VICOMTE,,,,,,,,,,,x
 c_carlades,title_female,,VICOMTESSE,,,,,,,,,,,x
@@ -1700,7 +1700,7 @@ b_montguyon,b_montguyon,,Montguyon,,,,,,,,,,,x
 b_montguyon,b_montguyon_adj,,,,,,,,,,,,,x
 b_saintes,b_saintes,,Saintes,,,,,,,,,,,x
 b_saintes,b_saintes_adj,,,,,,,,,,,,,x
-b_stjeandangely,b_stjeandangely,,St Jean-d'Angély,,,,,,,,,,,x
+b_stjeandangely,b_stjeandangely,,St Jean-d'AngÃ©ly,,,,,,,,,,,x
 b_stjeandangely,b_stjeandangely_adj,,,,,,,,,,,,,x
 b_villeneuve,b_villeneuve,,Villeneuve,,,,,,,,,,,x
 b_villeneuve,b_villeneuve_adj,,,,,,,,,,,,,x
@@ -1721,14 +1721,14 @@ b_stsavin,b_stsavin,,St Savin,,,,,,,,,,,x
 b_stsavin,b_stsavin_adj,,,,,,,,,,,,,x
 b_moncontour,b_moncontour,,Montcontour,,,,,,,,,,,x
 b_moncontour,b_moncontour_adj,,,,,,,,,,,,,x
-b_chatellerault,b_chatellerault,,Châtellerault,,,,,,,,,,,x
+b_chatellerault,b_chatellerault,,ChÃ¢tellerault,,,,,,,,,,,x
 b_chatellerault,b_chatellerault_adj,,,,,,,,,,,,,x
 c_thouars,PROV142,,Thouars,,,,,,,,,,,x
 c_thouars,c_thouars,,,,,,,,,,,,,x
 c_thouars,c_thouars_adj,,Thouarian,,,,,,,,,,,x
 b_thouars,b_thouars,,Thouars,,,,,,,,,,,x
 b_thouars,b_thouars_adj,,,,,,,,,,,,,x
-b_lucon,b_lucon,,Luçon,,,,,,,,,,,x
+b_lucon,b_lucon,,LuÃ§on,,,,,,,,,,,x
 b_lucon,b_lucon_adj,,,,,,,,,,,,,x
 b_bressuire,b_bressuire,,Bressuire,,,,,,,,,,,x
 b_bressuire,b_bressuire_adj,,,,,,,,,,,,,x
@@ -1737,22 +1737,22 @@ b_olonne,b_olonne_adj,,,,,,,,,,,,,x
 c_aunis,PROV1246,,Aunis,,,,,,,,,,,x
 c_aunis,c_aunis,,,,,,,,,,,,,x
 c_aunis,c_aunis_adj,,Aunis,,,,,,,,,,,x
-b_surgeres,b_surgeres,,Surgères,,,,,,,,,,,x
+b_surgeres,b_surgeres,,SurgÃ¨res,,,,,,,,,,,x
 b_surgeres,b_surgeres_adj,,,,,,,,,,,,,x
 b_larochelle,b_larochelle,,La Rochelle,,,,,,,,,,,x
 b_larochelle,b_larochelle_adj,,,,,,,,,,,,,x
 b_chatelaillon,b_chatelaillon,,Castrym Allionis,,,,,,,,,,,x
 b_chatelaillon,b_chatelaillon_adj,,,,,,,,,,,,,x
-b_godsgrace,b_godsgrace,,Grâce-Dieu,,,,,,,,,,,x
+b_godsgrace,b_godsgrace,,GrÃ¢ce-Dieu,,,,,,,,,,,x
 b_godsgrace,b_godsgrace_adj,,,,,,,,,,,,,x
-c_angouleme,PROV148,,Angoulême,,,,,,,,,,,x
+c_angouleme,PROV148,,AngoulÃªme,,,,,,,,,,,x
 c_angouleme,c_angouleme,,,,,,,,,,,,,x
 c_angouleme,c_angouleme_adj,,Angoulemian,,,,,,,,,,,x
 c_angouleme,greek,,Iculisma,,,,,,,,,,,x
 c_angouleme,roman,,Iculisma,,,,,,,,,,,x
 b_jarnac,b_jarnac,,Jarnac,,,,,,,,,,,x
 b_jarnac,b_jarnac_adj,,,,,,,,,,,,,x
-b_angouleme,b_angouleme,,Angoulême,,,,,,,,,,,x
+b_angouleme,b_angouleme,,AngoulÃªme,,,,,,,,,,,x
 b_angouleme,b_angouleme_adj,,,,,,,,,,,,,x
 b_angouleme,greek,,Iculisma,,,,,,,,,,,x
 b_angouleme,roman,,Iculisma,,,,,,,,,,,x
@@ -1769,7 +1769,7 @@ c_la_marche,c_la_marche,,,,,,,,,,,,,x
 c_la_marche,c_la_marche_adj,,La Marchian,,,,,,,,,,,x
 b_bellac,b_bellac,,Bellac,,,,,,,,,,,x
 b_bellac,b_bellac_adj,,,,,,,,,,,,,x
-b_gueret,b_gueret,,Guéret,,,,,,,,,,,x
+b_gueret,b_gueret,,GuÃ©ret,,,,,,,,,,,x
 b_gueret,b_gueret_adj,,,,,,,,,,,,,x
 b_aubusson,b_aubusson,,Aubusson,,,,,,,,,,,x
 b_aubusson,b_aubusson_adj,,,,,,,,,,,,,x
@@ -1778,20 +1778,20 @@ c_limousin,c_limousin,,,,,,,,,,,,,x
 c_limousin,c_limousin_adj,,Limousinian,,,,,,,,,,,x
 c_limousin,greek,,Augoustoriton,,,,,,,,,,,x
 c_limousin,roman,,Augustoritum,,,,,,,,,,,x
-b_limotges,b_limotges,,Limòtges,,,,,,,,,,,x
+b_limotges,b_limotges,,LimÃ²tges,,,,,,,,,,,x
 b_limotges,b_limotges_adj,,,,,,,,,,,,,x
 b_limotges,greek,,Augoustoriton,,,,,,,,,,,x
 b_limotges,roman,,Augustoritum,,,,,,,,,,,x
 b_rochechouart,b_rochechouart,,Rechoard,,,,,,,,,,,x
 b_rochechouart,b_rochechouart_adj,,,,,,,,,,,,,x
-b_chalus,b_chalus,,Chasluç,,,,,,,,,,,x
+b_chalus,b_chalus,,ChasluÃ§,,,,,,,,,,,x
 b_chalus,b_chalus_adj,,,,,,,,,,,,,x
 b_stleonard,b_stleonard,,Sent Liunard,,,,,,,,,,,x
 b_stleonard,b_stleonard_adj,,,,,,,,,,,,,x
 c_ventadour,PROV1161,,Ventadour,,,,,,,,,,,x
 c_ventadour,c_ventadour,,,,,,,,,,,,,x
 c_ventadour,c_ventadour_adj,,Ventadour,,,,,,,,,,,x
-b_comborn,b_comborn,,Combòrn,,,,,,,,,,,x
+b_comborn,b_comborn,,CombÃ²rn,,,,,,,,,,,x
 b_comborn,b_comborn_adj,,,,,,,,,,,,,x
 b_ventadour,b_ventadour,,Ventadorn,,,,,,,,,,,x
 b_ventadour,b_ventadour_adj,,,,,,,,,,,,,x

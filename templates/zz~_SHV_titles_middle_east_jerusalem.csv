@@ -41,9 +41,9 @@ b_buzaa,frankish,,Puthaha,,,,,,,,,,,x
 b_buzaa,norman,,Puthaha,,,,,,,,,,,x
 b_aleppocastle,b_aleppocastle,,Qala'at al-Halab,,,,,,,,,,,x
 b_aleppocastle,b_aleppocastle_adj,,,,,,,,,,,,,x
-b_aleppocastle,frankish,,Château de Halapia,,,,,,,,,,,x
+b_aleppocastle,frankish,,ChÃ¢teau de Halapia,,,,,,,,,,,x
 b_aleppocastle,greek,,Kastro Berroia,,,,,,,,,,,x
-b_aleppocastle,norman,,Château de Halapia,,,,,,,,,,,x
+b_aleppocastle,norman,,ChÃ¢teau de Halapia,,,,,,,,,,,x
 b_aleppocastle,roman,,Castrum Beroea,,,,,,,,,,,x
 b_qinnasrin,b_qinnasrin,,Qinnasrin,,,,,,,,,,,x
 b_qinnasrin,b_qinnasrin_adj,,,,,,,,,,,,,x
@@ -166,9 +166,9 @@ b_monasteryofsaintmosestheabyssinian,b_monasteryofsaintmosestheabyssinian,,Deir 
 b_monasteryofsaintmosestheabyssinian,b_monasteryofsaintmosestheabyssinian_adj,,,,,,,,,,,,,x
 b_citadelofhoms,b_citadelofhoms,,Qala'at al-Hims,,,,,,,,,,,x
 b_citadelofhoms,b_citadelofhoms_adj,,,,,,,,,,,,,x
-b_citadelofhoms,frankish,,Château de La Chamelle,,,,,,,,,,,x
+b_citadelofhoms,frankish,,ChÃ¢teau de La Chamelle,,,,,,,,,,,x
 b_citadelofhoms,greek,,Kastro Emesa,,,,,,,,,,,x
-b_citadelofhoms,norman,,Château de La Chamelle,,,,,,,,,,,x
+b_citadelofhoms,norman,,ChÃ¢teau de La Chamelle,,,,,,,,,,,x
 b_citadelofhoms,roman,,Castrum Emesa,,,,,,,,,,,x
 c_palmyra,PROV730,,Palmyra,,,,,,,,,,,x
 c_palmyra,c_palmyra,,,,,,,,,,,,,x
@@ -210,7 +210,7 @@ d_damascus,title_prefix,,JUND_OF,,,,,,,,,,,x
 c_damascus,PROV728,,Ghutah,,,,,,,,,,,x
 c_damascus,c_damascus,,,,,,,,,,,,,x
 c_damascus,c_damascus_adj,,Damascan,,,,,,,,,,,x
-c_damascus,assyrian,,Darmsûq,,,,,,,,,,,x
+c_damascus,assyrian,,DarmsÃ»q,,,,,,,,,,,x
 c_damascus,frankish,,Damascus,,,,,,,,,,,x
 c_damascus,c_damascus_adj_frankish,,Damascian,,,,,,,,,,,x
 c_damascus,greek,,Damaskos,,,,,,,,,,,x
@@ -218,15 +218,15 @@ c_damascus,c_damascus_adj_greek,,Damaskian,,,,,,,,,,,x
 c_damascus,norman,,Damascus,,,,,,,,,,,x
 c_damascus,c_damascus_adj_norman,,Damascian,,,,,,,,,,,x
 c_damascus,roman,,Damascus,,,,,,,,,,,x
-b_citadelofdamascus,b_citadelofdamascus,,Qal'at Dimašq,,,,,,,,,,,x
+b_citadelofdamascus,b_citadelofdamascus,,Qal'at DimaÅ¡q,,,,,,,,,,,x
 b_citadelofdamascus,b_citadelofdamascus_adj,,,,,,,,,,,,,x
-b_citadelofdamascus,frankish,,Château de Damascus,,,,,,,,,,,x
+b_citadelofdamascus,frankish,,ChÃ¢teau de Damascus,,,,,,,,,,,x
 b_citadelofdamascus,greek,,Kastro Damaskos,,,,,,,,,,,x
-b_citadelofdamascus,norman,,Château de Damascus,,,,,,,,,,,x
+b_citadelofdamascus,norman,,ChÃ¢teau de Damascus,,,,,,,,,,,x
 b_citadelofdamascus,roman,,Castrum Damascus,,,,,,,,,,,x
-b_damascus,b_damascus,,Dimašq,,,,,,,,,,,x
+b_damascus,b_damascus,,DimaÅ¡q,,,,,,,,,,,x
 b_damascus,b_damascus_adj,,,,,,,,,,,,,x
-b_damascus,assyrian,,Darmsûq,,,,,,,,,,,x
+b_damascus,assyrian,,DarmsÃ»q,,,,,,,,,,,x
 b_damascus,frankish,,Damascus,,,,,,,,,,,x
 b_damascus,greek,,Damaskos,,,,,,,,,,,x
 b_damascus,norman,,Damascus,,,,,,,,,,,x
@@ -239,7 +239,7 @@ b_darayya,b_darayya,,Da'iyyah,,,,,,,,,,,x
 b_darayya,b_darayya_adj,,,,,,,,,,,,,x
 b_marsarkismoenstary,b_marsarkismoenstary,,Mar Sarkis,,,,,,,,,,,x
 b_marsarkismoenstary,b_marsarkismoenstary_adj,,,,,,,,,,,,,x
-b_marsarkismoenstary,greek,,Monì tìs Agios Sergios,,,,,,,,,,,x
+b_marsarkismoenstary,greek,,MonÃ¬ tÃ¬s Agios Sergios,,,,,,,,,,,x
 b_aldumay,b_aldumay,,Dumayr,,,,,,,,,,,x
 b_aldumay,b_aldumay_adj,,,,,,,,,,,,,x
 c_baalbek,PROV768,,Bekaa,,,,,,,,,,,x
@@ -430,7 +430,7 @@ d_jerusalem,sicilian_arabic,,Filastin,,,,,,,,,,,x
 d_jerusalem,tagelmust,,Filastin,,,,,,,,,,,x
 d_jerusalem,tuareg,,Filastin,,,,,,,,,,,x
 d_jerusalem,zanata,,Filastin,,,,,,,,,,,x
-c_jerusalem,PROV774,,Jérusalem,,,,,,,,,,,x
+c_jerusalem,PROV774,,JÃ©rusalem,,,,,,,,,,,x
 c_jerusalem,c_jerusalem,,,,,,,,,,,,,x
 c_jerusalem,c_jerusalem_adj,,Jerusalemite,,,,,,,,,,,x
 c_jerusalem,andalusian_arabic,,Al-Quds,,,,,,,,,,,x
@@ -447,8 +447,8 @@ c_jerusalem,maghreb_arabic,,Al-Quds,,,,,,,,,,,x
 c_jerusalem,c_jerusalem_adj_maghreb_arabic,,Qudsian,,,,,,,,,,,x
 c_jerusalem,masmuda,,Al-Quds,,,,,,,,,,,x
 c_jerusalem,c_jerusalem_adj_masmuda,,Qudsian,,,,,,,,,,,x
-c_jerusalem,oghuz,,Kudüs,,,,,,,,,,,x
-c_jerusalem,c_jerusalem_adj_oghuz,,Küdüsi,,,,,,,,,,,x
+c_jerusalem,oghuz,,KudÃ¼s,,,,,,,,,,,x
+c_jerusalem,c_jerusalem_adj_oghuz,,KÃ¼dÃ¼si,,,,,,,,,,,x
 c_jerusalem,roman,,Ierosolyma,,,,,,,,,,,x
 c_jerusalem,sanhaja,,Al-Quds,,,,,,,,,,,x
 c_jerusalem,c_jerusalem_adj_sanhaja,,Qudsian,,,,,,,,,,,x
@@ -458,10 +458,10 @@ c_jerusalem,tagelmust,,Al-Quds,,,,,,,,,,,x
 c_jerusalem,c_jerusalem_adj_tagelmust,,Qudsian,,,,,,,,,,,x
 c_jerusalem,tuareg,,Al-Quds,,,,,,,,,,,x
 c_jerusalem,c_jerusalem_adj_tuareg,,Qudsian,,,,,,,,,,,x
-c_jerusalem,turkish,,Kudüs,,,,,,,,,,,x
-c_jerusalem,c_jerusalem_adj_turkish,,Küdüsi,,,,,,,,,,,x
-c_jerusalem,turkmen,,Kudüs,,,,,,,,,,,x
-c_jerusalem,c_jerusalem_adj_turkmen,,Küdüsi,,,,,,,,,,,x
+c_jerusalem,turkish,,KudÃ¼s,,,,,,,,,,,x
+c_jerusalem,c_jerusalem_adj_turkish,,KÃ¼dÃ¼si,,,,,,,,,,,x
+c_jerusalem,turkmen,,KudÃ¼s,,,,,,,,,,,x
+c_jerusalem,c_jerusalem_adj_turkmen,,KÃ¼dÃ¼si,,,,,,,,,,,x
 c_jerusalem,zanata,,Al-Quds,,,,,,,,,,,x
 c_jerusalem,c_jerusalem_adj_zanata,,Qudsian,,,,,,,,,,,x
 b_towerofdavid,b_towerofdavid,,Tour de David,,,,,,,,,,,x
@@ -480,7 +480,7 @@ b_towerofdavid,tuareg,,Burj Daud,,,,,,,,,,,x
 b_towerofdavid,zanata,,Burj Daud,,,,,,,,,,,x
 b_bethlehem,b_bethlehem,,Bethleem,,,,,,,,,,,x
 b_bethlehem,b_bethlehem_adj,,,,,,,,,,,,,x
-b_jerusalem,b_jerusalem,,Jérusalem,,,,,,,,,,,x
+b_jerusalem,b_jerusalem,,JÃ©rusalem,,,,,,,,,,,x
 b_jerusalem,b_jerusalem_adj,,,,,,,,,,,,,x
 b_jerusalem,andalusian_arabic,,Al-Quds,,,,,,,,,,,x
 b_jerusalem,bedouin_arabic,,Al-Quds,,,,,,,,,,,x
@@ -488,24 +488,24 @@ b_jerusalem,egyptian_arabic,,Al-Quds,,,,,,,,,,,x
 b_jerusalem,levantine_arabic,,Al-Quds,,,,,,,,,,,x
 b_jerusalem,maghreb_arabic,,Al-Quds,,,,,,,,,,,x
 b_jerusalem,masmuda,,Al-Quds,,,,,,,,,,,x
-b_jerusalem,oghuz,,Kudüs,,,,,,,,,,,x
+b_jerusalem,oghuz,,KudÃ¼s,,,,,,,,,,,x
 b_jerusalem,sanhaja,,Al-Quds,,,,,,,,,,,x
 b_jerusalem,sicilian_arabic,,Al-Quds,,,,,,,,,,,x
 b_jerusalem,tagelmust,,Al-Quds,,,,,,,,,,,x
 b_jerusalem,tuareg,,Al-Quds,,,,,,,,,,,x
-b_jerusalem,turkish,,Kudüs,,,,,,,,,,,x
-b_jerusalem,turkmen,,Kudüs,,,,,,,,,,,x
+b_jerusalem,turkish,,KudÃ¼s,,,,,,,,,,,x
+b_jerusalem,turkmen,,KudÃ¼s,,,,,,,,,,,x
 b_jerusalem,zanata,,Al-Quds,,,,,,,,,,,x
 b_rammala,b_rammala,,Ramelie,,,,,,,,,,,x
 b_rammala,b_rammala_adj,,,,,,,,,,,,,x
-b_rammala,greek,,Rámla,,,,,,,,,,,x
-b_rammala,roman,,Rámla,,,,,,,,,,,x
+b_rammala,greek,,RÃ¡mla,,,,,,,,,,,x
+b_rammala,roman,,RÃ¡mla,,,,,,,,,,,x
 b_blanchegarde,b_blanchegarde,,Blanche Garde,,,,,,,,,,,x
 b_blanchegarde,b_blanchegarde_adj,,,,,,,,,,,,,x
 b_blanchegarde,greek,,Lefki Froura,,,,,,,,,,,x
 b_saintsamuel,b_saintsamuel,,St-Samuel,,,,,,,,,,,x
 b_saintsamuel,b_saintsamuel_adj,,,,,,,,,,,,,x
-b_saintsamuel,greek,,Monì tìs Agios Samuel,,,,,,,,,,,x
+b_saintsamuel,greek,,MonÃ¬ tÃ¬s Agios Samuel,,,,,,,,,,,x
 c_beersheb,PROV779,,Naples,,,,,,,,,,,x
 c_beersheb,c_beersheb,,,,,,,,,,,,,x
 c_beersheb,c_beersheb_adj,,Beershebian,,,,,,,,,,,x
@@ -544,8 +544,8 @@ b_nablus,greek,,Neapolis,,,,,,,,,,,x
 b_nablus,roman,,Neapolis,,,,,,,,,,,x
 b_jericho,b_jericho,,Jericho,,,,,,,,,,,x
 b_jericho,b_jericho_adj,,,,,,,,,,,,,x
-b_jericho,greek,,Ierichó,,,,,,,,,,,x
-b_jericho,roman,,Ierichó,,,,,,,,,,,x
+b_jericho,greek,,IerichÃ³,,,,,,,,,,,x
+b_jericho,roman,,IerichÃ³,,,,,,,,,,,x
 b_lafeve,b_lafeve,,La Feve,,,,,,,,,,,x
 b_lafeve,b_lafeve_adj,,,,,,,,,,,,,x
 c_hebron,PROV776,,St-Abraham,,,,,,,,,,,x
@@ -557,8 +557,8 @@ c_hebron,bedouin_arabic,,El-Khail,,,,,,,,,,,x
 c_hebron,c_hebron_adj_bedouin_arabic,,Khailan,,,,,,,,,,,x
 c_hebron,egyptian_arabic,,El-Khail,,,,,,,,,,,x
 c_hebron,c_hebron_adj_egyptian_arabic,,Khailan,,,,,,,,,,,x
-c_hebron,greek,,Hebrón,,,,,,,,,,,x
-c_hebron,c_hebron_adj_greek,,Hebrónan,,,,,,,,,,,x
+c_hebron,greek,,HebrÃ³n,,,,,,,,,,,x
+c_hebron,c_hebron_adj_greek,,HebrÃ³nan,,,,,,,,,,,x
 c_hebron,levantine_arabic,,El-Khail,,,,,,,,,,,x
 c_hebron,c_hebron_adj_levantine_arabic,,Khailan,,,,,,,,,,,x
 c_hebron,maghreb_arabic,,El-Khail,,,,,,,,,,,x
@@ -581,7 +581,7 @@ b_hebron,b_hebron_adj,,,,,,,,,,,,,x
 b_hebron,andalusian_arabic,,El-Khail,,,,,,,,,,,x
 b_hebron,bedouin_arabic,,El-Khail,,,,,,,,,,,x
 b_hebron,egyptian_arabic,,El-Khail,,,,,,,,,,,x
-b_hebron,greek,,Hebrón,,,,,,,,,,,x
+b_hebron,greek,,HebrÃ³n,,,,,,,,,,,x
 b_hebron,levantine_arabic,,El-Khail,,,,,,,,,,,x
 b_hebron,maghreb_arabic,,El-Khail,,,,,,,,,,,x
 b_hebron,masmuda,,El-Khail,,,,,,,,,,,x
@@ -767,8 +767,8 @@ b_schuf,sicilian_arabic,,Chouf,,,,,,,,,,,x
 c_caesarea,PROV1260,,Caesarea,,,,,,,,,,,x
 c_caesarea,c_caesarea,,,,,,,,,,,,,x
 c_caesarea,c_caesarea_adj,,Caesarean,,,,,,,,,,,x
-c_caesarea,greek,,Parálios Kaisáreia,,,,,,,,,,,x
-c_caesarea,c_caesarea_adj_greek,,Kaisáreian,,,,,,,,,,,x
+c_caesarea,greek,,ParÃ¡lios KaisÃ¡reia,,,,,,,,,,,x
+c_caesarea,c_caesarea_adj_greek,,KaisÃ¡reian,,,,,,,,,,,x
 c_caesarea,roman,,Caesarea,,,,,,,,,,,x
 b_caymont,b_caymont,,Caymont,,,,,,,,,,,x
 b_caymont,b_caymont_adj,,,,,,,,,,,,,x
@@ -780,7 +780,7 @@ b_arsuf,greek,,Apollonia,,,,,,,,,,,x
 b_arsuf,roman,,Apollonia,,,,,,,,,,,x
 b_syrcaesarea,b_syrcaesarea,,Caesarea,,,,,,,,,,,x
 b_syrcaesarea,b_syrcaesarea_adj,,,,,,,,,,,,,x
-b_syrcaesarea,greek,,Parálios Kaisáreia,,,,,,,,,,,x
+b_syrcaesarea,greek,,ParÃ¡lios KaisÃ¡reia,,,,,,,,,,,x
 b_syrcaesarea,roman,,Caesarea,,,,,,,,,,,x
 b_calansue,b_calansue,,Calansue,,,,,,,,,,,x
 b_calansue,b_calansue_adj,,,,,,,,,,,,,x
@@ -979,7 +979,7 @@ b_latrun,b_latrun,,Latrun,,,,,,,,,,,x
 b_latrun,b_latrun_adj,,,,,,,,,,,,,x
 b_montgisard,b_montgisard,,Montgisard,,,,,,,,,,,x
 b_montgisard,b_montgisard_adj,,,,,,,,,,,,,x
-d_galilee,d_galilee,,Principauté de Galilée,,,,,,,,,,,x
+d_galilee,d_galilee,,PrincipautÃ© de GalilÃ©e,,,,,,,,,,,x
 d_galilee,d_galilee_adj,,Palaestinian,,,,,,,,,,,x
 d_galilee,andalusian_arabic,,Al-Jalil,,,,,,,,,,,x
 d_galilee,d_galilee_adj_andalusian_arabic,,Jalilan,,,,,,,,,,,x
@@ -1123,7 +1123,7 @@ k_antioch,k_antioch_adj,,Antiochean,,,,,,,,,,,x
 k_antioch,andalusian_arabic,,Awasim,,,,,,,,,,,x
 k_antioch,bedouin_arabic,,Awasim,,,,,,,,,,,x
 k_antioch,egyptian_arabic,,Awasim,,,,,,,,,,,x
-k_antioch,greek,,Antiócheias,,,,,,,,,,,x
+k_antioch,greek,,AntiÃ³cheias,,,,,,,,,,,x
 k_antioch,levantine_arabic,,Awasim,,,,,,,,,,,x
 k_antioch,maghreb_arabic,,Awasim,,,,,,,,,,,x
 k_antioch,masmuda,,Awasim,,,,,,,,,,,x
@@ -1133,7 +1133,7 @@ k_antioch,sicilian_arabic,,Awasim,,,,,,,,,,,x
 k_antioch,tagelmust,,Awasim,,,,,,,,,,,x
 k_antioch,tuareg,,Awasim,,,,,,,,,,,x
 k_antioch,zanata,,Awasim,,,,,,,,,,,x
-d_antioch,d_antioch,,Principauté d'Antioche,,,,,,,,,,,x
+d_antioch,d_antioch,,PrincipautÃ© d'Antioche,,,,,,,,,,,x
 d_antioch,d_antioch_adj,,Antiochean,,,,,,,,,,,x
 d_antioch,alan,,Antiokeias,,,,,,,,,,,x
 d_antioch,andalusian_arabic,,Jund 'Awasim,,,,,,,,,,,x
@@ -1223,10 +1223,10 @@ b_stsymeon,egyptian_arabic,,as-Suwaydiyah,,,,,,,,,,,x
 b_stsymeon,greek,,Seleukeia Pieria,,,,,,,,,,,x
 b_stsymeon,levantine_arabic,,as-Suwaydiyah,,,,,,,,,,,x
 b_stsymeon,maghreb_arabic,,as-Suwaydiyah,,,,,,,,,,,x
-b_stsymeon,oghuz,,Süveydiye,,,,,,,,,,,x
+b_stsymeon,oghuz,,SÃ¼veydiye,,,,,,,,,,,x
 b_stsymeon,sicilian_arabic,,as-Suwaydiyah,,,,,,,,,,,x
-b_stsymeon,turkish,,Süveydiye,,,,,,,,,,,x
-b_stsymeon,turkmen,,Süveydiye,,,,,,,,,,,x
+b_stsymeon,turkish,,SÃ¼veydiye,,,,,,,,,,,x
+b_stsymeon,turkmen,,SÃ¼veydiye,,,,,,,,,,,x
 b_darbsak,b_darbsak,,Trapesac,,,,,,,,,,,x
 b_darbsak,b_darbsak_adj,,,,,,,,,,,,,x
 b_darbsak,andalusian_arabic,,ad-Darbasak,,,,,,,,,,,x
@@ -1318,7 +1318,7 @@ b_sarmada,frankish,,Samarta,,,,,,,,,,,x
 b_sarmada,norman,,Samarta,,,,,,,,,,,x
 c_saone,PROV968,,Saone,,,,,,,,,,,x
 c_saone,c_saone,,,,,,,,,,,,,x
-c_saone,c_saone_adj,,Saônan,,,,,,,,,,,x
+c_saone,c_saone_adj,,SaÃ´nan,,,,,,,,,,,x
 c_saone,andalusian_arabic,,al-Ladiqiya,,,,,,,,,,,x
 c_saone,c_saone_adj_andalusian_arabic,,Ladiqiyan,,,,,,,,,,,x
 c_saone,bedouin_arabic,,al-Ladiqiya,,,,,,,,,,,x
@@ -1338,17 +1338,17 @@ b_latakiah,b_latakiah_adj,,,,,,,,,,,,,x
 b_latakiah,andalusian_arabic,,al-Ladiqiya,,,,,,,,,,,x
 b_latakiah,bedouin_arabic,,al-Ladiqiya,,,,,,,,,,,x
 b_latakiah,egyptian_arabic,,al-Ladiqiya,,,,,,,,,,,x
-b_latakiah,frankish,,Laodicée,,,,,,,,,,,x
+b_latakiah,frankish,,LaodicÃ©e,,,,,,,,,,,x
 b_latakiah,greek,,Laodikeia,,,,,,,,,,,x
 b_latakiah,levantine_arabic,,al-Ladiqiya,,,,,,,,,,,x
 b_latakiah,maghreb_arabic,,al-Ladiqiya,,,,,,,,,,,x
-b_latakiah,norman,,Laodicée,,,,,,,,,,,x
+b_latakiah,norman,,LaodicÃ©e,,,,,,,,,,,x
 b_latakiah,sicilian_arabic,,al-Ladiqiya,,,,,,,,,,,x
 b_hisnaddair,b_hisnaddair,,Hisn ad-Dair,,,,,,,,,,,x
 b_hisnaddair,b_hisnaddair_adj,,,,,,,,,,,,,x
 b_stdanielsyria,b_stdanielsyria,,Breij,,,,,,,,,,,x
 b_stdanielsyria,b_stdanielsyria_adj,,,,,,,,,,,,,x
-b_saone,b_saone,,Saône,,,,,,,,,,,x
+b_saone,b_saone,,SaÃ´ne,,,,,,,,,,,x
 b_saone,b_saone_adj,,,,,,,,,,,,,x
 b_saone,andalusian_arabic,,Sahyun,,,,,,,,,,,x
 b_saone,bedouin_arabic,,Sahyun,,,,,,,,,,,x
@@ -1371,24 +1371,24 @@ b_jabala,sicilian_arabic,,Gabla,,,,,,,,,,,x
 c_archa,PROV765,,Berzieh,,,,,,,,,,,x
 c_archa,c_archa,,,,,,,,,,,,,x
 c_archa,c_archa_adj,,Archan,,,,,,,,,,,x
-c_archa,andalusian_arabic,,Fâmieh,,,,,,,,,,,x
-c_archa,c_archa_adj_andalusian_arabic,,Fâmiean,,,,,,,,,,,x
-c_archa,bedouin_arabic,,Fâmieh,,,,,,,,,,,x
-c_archa,c_archa_adj_bedouin_arabic,,Fâmiean,,,,,,,,,,,x
-c_archa,egyptian_arabic,,Fâmieh,,,,,,,,,,,x
-c_archa,c_archa_adj_egyptian_arabic,,Fâmiean,,,,,,,,,,,x
-c_archa,frankish,,Apamée,,,,,,,,,,,x
-c_archa,c_archa_adj_frankish,,Apaméan,,,,,,,,,,,x
+c_archa,andalusian_arabic,,FÃ¢mieh,,,,,,,,,,,x
+c_archa,c_archa_adj_andalusian_arabic,,FÃ¢miean,,,,,,,,,,,x
+c_archa,bedouin_arabic,,FÃ¢mieh,,,,,,,,,,,x
+c_archa,c_archa_adj_bedouin_arabic,,FÃ¢miean,,,,,,,,,,,x
+c_archa,egyptian_arabic,,FÃ¢mieh,,,,,,,,,,,x
+c_archa,c_archa_adj_egyptian_arabic,,FÃ¢miean,,,,,,,,,,,x
+c_archa,frankish,,ApamÃ©e,,,,,,,,,,,x
+c_archa,c_archa_adj_frankish,,ApamÃ©an,,,,,,,,,,,x
 c_archa,greek,,Apameia,,,,,,,,,,,x
 c_archa,c_archa_adj_greek,,Apameian,,,,,,,,,,,x
-c_archa,levantine_arabic,,Fâmieh,,,,,,,,,,,x
-c_archa,c_archa_adj_levantine_arabic,,Fâmiean,,,,,,,,,,,x
-c_archa,maghreb_arabic,,Fâmieh,,,,,,,,,,,x
-c_archa,c_archa_adj_maghreb_arabic,,Fâmiean,,,,,,,,,,,x
-c_archa,norman,,Apamée,,,,,,,,,,,x
-c_archa,c_archa_adj_norman,,Apaméan,,,,,,,,,,,x
-c_archa,sicilian_arabic,,Fâmieh,,,,,,,,,,,x
-c_archa,c_archa_adj_sicilian_arabic,,Fâmiean,,,,,,,,,,,x
+c_archa,levantine_arabic,,FÃ¢mieh,,,,,,,,,,,x
+c_archa,c_archa_adj_levantine_arabic,,FÃ¢miean,,,,,,,,,,,x
+c_archa,maghreb_arabic,,FÃ¢mieh,,,,,,,,,,,x
+c_archa,c_archa_adj_maghreb_arabic,,FÃ¢miean,,,,,,,,,,,x
+c_archa,norman,,ApamÃ©e,,,,,,,,,,,x
+c_archa,c_archa_adj_norman,,ApamÃ©an,,,,,,,,,,,x
+c_archa,sicilian_arabic,,FÃ¢mieh,,,,,,,,,,,x
+c_archa,c_archa_adj_sicilian_arabic,,FÃ¢miean,,,,,,,,,,,x
 b_sarmeniasyria,b_sarmeniasyria,,Sarmenia,,,,,,,,,,,x
 b_sarmeniasyria,b_sarmeniasyria_adj,,,,,,,,,,,,,x
 b_sarmeniasyria,andalusian_arabic,,Sarmin,,,,,,,,,,,x
@@ -1407,15 +1407,15 @@ b_albarasyria,maghreb_arabic,,al-Bara,,,,,,,,,,,x
 b_albarasyria,sicilian_arabic,,al-Bara,,,,,,,,,,,x
 b_famia,b_famia,,Apamea,,,,,,,,,,,x
 b_famia,b_famia_adj,,,,,,,,,,,,,x
-b_famia,andalusian_arabic,,Fâmieh,,,,,,,,,,,x
-b_famia,bedouin_arabic,,Fâmieh,,,,,,,,,,,x
-b_famia,egyptian_arabic,,Fâmieh,,,,,,,,,,,x
-b_famia,frankish,,Apamée,,,,,,,,,,,x
+b_famia,andalusian_arabic,,FÃ¢mieh,,,,,,,,,,,x
+b_famia,bedouin_arabic,,FÃ¢mieh,,,,,,,,,,,x
+b_famia,egyptian_arabic,,FÃ¢mieh,,,,,,,,,,,x
+b_famia,frankish,,ApamÃ©e,,,,,,,,,,,x
 b_famia,greek,,Apameia,,,,,,,,,,,x
-b_famia,levantine_arabic,,Fâmieh,,,,,,,,,,,x
-b_famia,maghreb_arabic,,Fâmieh,,,,,,,,,,,x
-b_famia,norman,,Apamée,,,,,,,,,,,x
-b_famia,sicilian_arabic,,Fâmieh,,,,,,,,,,,x
+b_famia,levantine_arabic,,FÃ¢mieh,,,,,,,,,,,x
+b_famia,maghreb_arabic,,FÃ¢mieh,,,,,,,,,,,x
+b_famia,norman,,ApamÃ©e,,,,,,,,,,,x
+b_famia,sicilian_arabic,,FÃ¢mieh,,,,,,,,,,,x
 b_bourzeycastle,b_bourzeycastle,,Berzieh,,,,,,,,,,,x
 b_bourzeycastle,b_bourzeycastle_adj,,,,,,,,,,,,,x
 b_bourzeycastle,andalusian_arabic,,Barzuya,,,,,,,,,,,x
@@ -1496,7 +1496,7 @@ b_tortosa,sicilian_arabic,,Antartus,,,,,,,,,,,x
 b_tortosa,tagelmust,,Antartus,,,,,,,,,,,x
 b_tortosa,tuareg,,Antartus,,,,,,,,,,,x
 b_tortosa,zanata,,Antartus,,,,,,,,,,,x
-b_maraclea,b_maraclea,,Maraclée,,,,,,,,,,,x
+b_maraclea,b_maraclea,,MaraclÃ©e,,,,,,,,,,,x
 b_maraclea,b_maraclea_adj,,,,,,,,,,,,,x
 b_maraclea,andalusian_arabic,,Maraqiya,,,,,,,,,,,x
 b_maraclea,bedouin_arabic,,Maraqiya,,,,,,,,,,,x
@@ -1651,7 +1651,7 @@ b_citadeloftripoli,sicilian_arabic,,Qalat Tarabulus,,,,,,,,,,,x
 b_citadeloftripoli,tagelmust,,Qalat Tarabulus,,,,,,,,,,,x
 b_citadeloftripoli,tuareg,,Qalat Tarabulus,,,,,,,,,,,x
 b_citadeloftripoli,zanata,,Qalat Tarabulus,,,,,,,,,,,x
-b_citdaelofsaintgilles,b_citdaelofsaintgilles,,Château de Saint-Gilles,,,,,,,,,,,x
+b_citdaelofsaintgilles,b_citdaelofsaintgilles,,ChÃ¢teau de Saint-Gilles,,,,,,,,,,,x
 b_citdaelofsaintgilles,b_citdaelofsaintgilles_adj,,,,,,,,,,,,,x
 b_citdaelofsaintgilles,andalusian_arabic,,Qalat Sanjil,,,,,,,,,,,x
 b_citdaelofsaintgilles,bedouin_arabic,,Qalat Sanjil,,,,,,,,,,,x
@@ -1706,7 +1706,7 @@ c_gibelet,c_gibelet_adj_tuareg,,Jebailan,,,,,,,,,,,x
 c_gibelet,zanata,,Jebail,,,,,,,,,,,x
 c_gibelet,c_gibelet_adj_zanata,,Jebailan,,,,,,,,,,,x
 c_gibelet,name_tier,,baron,,,,,,,,,,,x
-b_gibeletcastle,b_gibeletcastle,,Château de Gibelet,,,,,,,,,,,x
+b_gibeletcastle,b_gibeletcastle,,ChÃ¢teau de Gibelet,,,,,,,,,,,x
 b_gibeletcastle,b_gibeletcastle_adj,,,,,,,,,,,,,x
 b_gibeletcastle,andalusian_arabic,,Qalat Jebail,,,,,,,,,,,x
 b_gibeletcastle,bedouin_arabic,,Qalat Jebail,,,,,,,,,,,x

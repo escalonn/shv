@@ -1,14 +1,14 @@
 #TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
-k_turkestan_west,k_turkestan_west,,Aq Turkestán,,,,,,,,,,,x
-k_turkestan_west,k_turkestan_west_adj,,Aq Turkestání,,,,,,,,,,,x
+k_turkestan_west,k_turkestan_west,,Aq TurkestÃ¡n,,,,,,,,,,,x
+k_turkestan_west,k_turkestan_west_adj,,Aq TurkestÃ¡nÃ­,,,,,,,,,,,x
 d_yaik,d_yaik,,Yaik,,,,,,,,,,,x
 d_yaik,d_yaik_adj,,Yaiki,,,,,,,,,,,x
-c_guryev,PROV618,,Saray-Jük,,,,,,,,,,,x
+c_guryev,PROV618,,Saray-JÃ¼k,,,,,,,,,,,x
 c_guryev,c_guryev,,,,,,,,,,,,,x
 c_guryev,c_guryev_adj,,Atyrauer,,,,,,,,,,,x
-b_little_sarai,b_little_sarai,,Saray-Jük,,,,,,,,,,,x
+b_little_sarai,b_little_sarai,,Saray-JÃ¼k,,,,,,,,,,,x
 b_little_sarai,b_little_sarai_adj,,,,,,,,,,,,,x
-b_little_sarai_aqtobe,b_little_sarai_aqtobe,,Aqtöbe,,,,,,,,,,,x
+b_little_sarai_aqtobe,b_little_sarai_aqtobe,,AqtÃ¶be,,,,,,,,,,,x
 b_little_sarai_aqtobe,b_little_sarai_aqtobe_adj,,,,,,,,,,,,,x
 b_atyrau,b_atyrau,,Atyrau,,,,,,,,,,,x
 b_atyrau,b_atyrau_adj,,,,,,,,,,,,,x
@@ -53,7 +53,7 @@ c_karasu,c_karasu_adj,,,,,,,,,,,,,x
 b_karasu,b_karasu,,Karasu,,,,,,,,,,,x
 b_karasu,b_karasu_adj,,,,,,,,,,,,,x
 d_dasht-i-qipchaq,d_dasht-i-qipchaq,,Dasht-e-Qipchaq,,,,,,,,,,,x
-d_dasht-i-qipchaq,d_dasht-i-qipchaq_adj,,Dasht-e-Qipchaqí,,,,,,,,,,,x
+d_dasht-i-qipchaq,d_dasht-i-qipchaq_adj,,Dasht-e-QipchaqÃ­,,,,,,,,,,,x
 c_balkhash,PROV1579,,Balkhash,,,,,,,,,,,x
 c_balkhash,c_balkhash,,,,,,,,,,,,,x
 c_balkhash,c_balkhash_adj,,Balkhashi,,,,,,,,,,,x
@@ -98,7 +98,7 @@ b_isilkul,b_isilkul_adj,,,,,,,,,,,,,x
 b_kostanay,b_kostanay,,Kostanay,,,,,,,,,,,x
 b_kostanay,b_kostanay_adj,,,,,,,,,,,,,x
 d_jand,d_jand,,Jand,,,,,,,,,,,x
-d_jand,d_jand_adj,,Jandí,,,,,,,,,,,x
+d_jand,d_jand_adj,,JandÃ­,,,,,,,,,,,x
 c_jand,PROV900,,Jand,,,,,,,,,,,x
 c_jand,c_jand,,,,,,,,,,,,,x
 c_jand,c_jand_adj,,,,,,,,,,,,,x
@@ -108,20 +108,20 @@ b_yangikent,b_yangikent,,Yangikent,,,,,,,,,,,x
 b_yangikent,b_yangikent_adj,,,,,,,,,,,,,x
 b_syganak,b_syganak,,Syganak,,,,,,,,,,,x
 b_syganak,b_syganak_adj,,,,,,,,,,,,,x
-b_dihinaw,b_dihinaw,,Díh-e-Náw,,,,,,,,,,,x
+b_dihinaw,b_dihinaw,,DÃ­h-e-NÃ¡w,,,,,,,,,,,x
 b_dihinaw,b_dihinaw_adj,,,,,,,,,,,,,x
 b_kyzylorda,b_kyzylorda,,Kyzylorda,,,,,,,,,,,x
 b_kyzylorda,b_kyzylorda_adj,,,,,,,,,,,,,x
 c_sighnaq,PROV622,,Sighnaq,,,,,,,,,,,x
 c_sighnaq,c_sighnaq,,,,,,,,,,,,,x
 c_sighnaq,c_sighnaq_adj,,,,,,,,,,,,,x
-b_sighnaq,b_sighnaq,,Sighnáq,,,,,,,,,,,x
+b_sighnaq,b_sighnaq,,SighnÃ¡q,,,,,,,,,,,x
 b_sighnaq,b_sighnaq_adj,,,,,,,,,,,,,x
-b_uzgend-sighnaq,b_uzgend-sighnaq,,Üzgend,,,,,,,,,,,x
+b_uzgend-sighnaq,b_uzgend-sighnaq,,Ãœzgend,,,,,,,,,,,x
 b_uzgend-sighnaq,b_uzgend-sighnaq_adj,,,,,,,,,,,,,x
-b_sawran,b_sawran,,Sawrán,,,,,,,,,,,x
+b_sawran,b_sawran,,SawrÃ¡n,,,,,,,,,,,x
 b_sawran,b_sawran_adj,,,,,,,,,,,,,x
-b_shavgar,b_shavgar,,Shavgár,,,,,,,,,,,x
+b_shavgar,b_shavgar,,ShavgÃ¡r,,,,,,,,,,,x
 b_shavgar,b_shavgar_adj,,,,,,,,,,,,,x
 d_zhetysu,d_zhetysu,,Zhetisu,,,,,,,,,,,x
 d_zhetysu,d_zhetysu_adj,,Zhetisu,,,,,,,,,,,x
@@ -141,7 +141,7 @@ b_illi,b_illi,,Illi,,,,,,,,,,,x
 b_illi,b_illi_adj,,,,,,,,,,,,,x
 b_almaliq,b_almaliq,,Almaliq,,,,,,,,,,,x
 b_almaliq,b_almaliq_adj,,,,,,,,,,,,,x
-b_pulad,b_pulad,,Pulád,,,,,,,,,,,x
+b_pulad,b_pulad,,PulÃ¡d,,,,,,,,,,,x
 b_pulad,b_pulad_adj,,,,,,,,,,,,,x
 c_barskhan,PROV1577,,Barskhan,,,,,,,,,,,x
 c_barskhan,c_barskhan,,,,,,,,,,,,,x
@@ -175,7 +175,7 @@ b_shelji,b_shelji_adj,,,,,,,,,,,,,x
 b_chigil,b_chigil,,Chigil,,,,,,,,,,,x
 b_chigil,b_chigil_adj,,,,,,,,,,,,,x
 d_ayaguz,d_ayaguz,,Ayaguz,,,,,,,,,,,x
-d_ayaguz,d_ayaguz_adj,,Ayaguzí,,,,,,,,,,,x
+d_ayaguz,d_ayaguz_adj,,AyaguzÃ­,,,,,,,,,,,x
 c_ayaguz,PROV1576,,Ayaguz,,,,,,,,,,,x
 c_ayaguz,c_ayaguz,,,,,,,,,,,,,x
 c_ayaguz,c_ayaguz_adj,,,,,,,,,,,,,x

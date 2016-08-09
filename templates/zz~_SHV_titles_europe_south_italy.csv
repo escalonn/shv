@@ -1,9 +1,9 @@
 #TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
-k_carinthia,k_carinthia,,K‰rnten,,,,,,,,,,,x
-k_carinthia,k_carinthia_adj,,K‰rntenische,,,,,,,,,,,x
+k_carinthia,k_carinthia,,K√§rnten,,,,,,,,,,,x
+k_carinthia,k_carinthia_adj,,K√§rntenische,,,,,,,,,,,x
 k_carinthia,name_tier,,duke,,,,,,,,,,,x
-d_carinthia,d_carinthia,,K‰rnten,,,,,,,,,,,x
-d_carinthia,d_carinthia_adj,,K‰rntnische,,,,,,,,,,,x
+d_carinthia,d_carinthia,,K√§rnten,,,,,,,,,,,x
+d_carinthia,d_carinthia_adj,,K√§rntnische,,,,,,,,,,,x
 d_carinthia,greek,,Noricum Mediterraneum,,,,,,,,,,,x
 d_carinthia,roman,,Noricum Mediterraneum,,,,,,,,,,,x
 c_krain,PROV457,,Carniola,,,,,,,,,,,x
@@ -23,18 +23,18 @@ b_sittich,b_sittich,,Sittich,,,,,,,,,,,x
 b_sittich,b_sittich_adj,,,,,,,,,,,,,x
 b_bischoflack,b_bischoflack,,Bischoflack,,,,,,,,,,,x
 b_bischoflack,b_bischoflack_adj,,,,,,,,,,,,,x
-b_bischoflack,karantanci,,äkofja Loka,,,,,,,,,,,x
-c_gorz,PROV1247,,Gˆrz,,,,,,,,,,,x
+b_bischoflack,karantanci,,≈†kofja Loka,,,,,,,,,,,x
+c_gorz,PROV1247,,G√∂rz,,,,,,,,,,,x
 c_gorz,c_gorz,,,,,,,,,,,,,x
-c_gorz,c_gorz_adj,,Gˆrzische,,,,,,,,,,,x
-b_gorz,b_gorz,,Gˆrz,,,,,,,,,,,x
+c_gorz,c_gorz_adj,,G√∂rzische,,,,,,,,,,,x
+b_gorz,b_gorz,,G√∂rz,,,,,,,,,,,x
 b_gorz,b_gorz_adj,,,,,,,,,,,,,x
 b_gorz,karantanci,,Gorica,,,,,,,,,,,x
 b_grado,b_grado,,Grado,,,,,,,,,,,x
 b_grado,b_grado_adj,,,,,,,,,,,,,x
 b_vrtojba,b_vrtojba,,Vrtojba,,,,,,,,,,,x
 b_vrtojba,b_vrtojba_adj,,,,,,,,,,,,,x
-c_karnten,PROV456,,K‰rnten,,,,,,,,,,,x
+c_karnten,PROV456,,K√§rnten,,,,,,,,,,,x
 c_karnten,c_karnten,,,,,,,,,,,,,x
 c_karnten,c_karnten_adj,,Karntenian,,,,,,,,,,,x
 b_friesach,b_friesach,,Friesach,,,,,,,,,,,x
@@ -94,7 +94,7 @@ c_istria,dutch,,Meranien,,,,,,,,,,,x
 c_istria,franconian,,Meranien,,,,,,,,,,,x
 c_istria,german,,Meranien,,,,,,,,,,,x
 c_istria,greek,,Meraniae,,,,,,,,,,,x
-c_istria,hungarian,,Mer·nia,,,,,,,,,,,x
+c_istria,hungarian,,Mer√°nia,,,,,,,,,,,x
 c_istria,italian,,Merano,,,,,,,,,,,x
 c_istria,karantanci,,Meranije,,,,,,,,,,,x
 c_istria,ligurian,,Merano,,,,,,,,,,,x
@@ -112,23 +112,23 @@ c_istria,serbian,,Meranije,,,,,,,,,,,x
 c_istria,sicilian,,Merano,,,,,,,,,,,x
 c_istria,southern_italian,,Merano,,,,,,,,,,,x
 c_istria,swabian,,Meranien,,,,,,,,,,,x
-c_istria,szekely,,Mer·nia,,,,,,,,,,,x
+c_istria,szekely,,Mer√°nia,,,,,,,,,,,x
 c_istria,thuringian,,Meranien,,,,,,,,,,,x
 c_istria,tuscan,,Merano,,,,,,,,,,,x
 c_istria,venetian,,Merano,,,,,,,,,,,x
 b_mitterburg,b_mitterburg,,Pisino,,,,,,,,,,,x
 b_mitterburg,b_mitterburg_adj,,,,,,,,,,,,,x
-b_mitterburg,alan,,PisinÛn,,,,,,,,,,,x
-b_mitterburg,arberian,,PisinÛn,,,,,,,,,,,x
-b_mitterburg,armenian,,PisinÛn,,,,,,,,,,,x
+b_mitterburg,alan,,Pisin√≥n,,,,,,,,,,,x
+b_mitterburg,arberian,,Pisin√≥n,,,,,,,,,,,x
+b_mitterburg,armenian,,Pisin√≥n,,,,,,,,,,,x
 b_mitterburg,bohemian,,Pazin,,,,,,,,,,,x
 b_mitterburg,bosnian,,Pazin,,,,,,,,,,,x
 b_mitterburg,bulgarian,,Pazin,,,,,,,,,,,x
 b_mitterburg,croatian,,Pazin,,,,,,,,,,,x
-b_mitterburg,east_gothic,,PisinÛn,,,,,,,,,,,x
-b_mitterburg,georgian,,PisinÛn,,,,,,,,,,,x
+b_mitterburg,east_gothic,,Pisin√≥n,,,,,,,,,,,x
+b_mitterburg,georgian,,Pisin√≥n,,,,,,,,,,,x
 b_mitterburg,german,,Mitterburg,,,,,,,,,,,x
-b_mitterburg,greek,,PisinÛn,,,,,,,,,,,x
+b_mitterburg,greek,,Pisin√≥n,,,,,,,,,,,x
 b_mitterburg,karantanci,,Pazin,,,,,,,,,,,x
 b_mitterburg,moravian,,Pazin,,,,,,,,,,,x
 b_mitterburg,polish,,Pazin,,,,,,,,,,,x
@@ -204,7 +204,7 @@ b_triest,serbian,,Trst,,,,,,,,,,,x
 b_triest,swabian,,Triest,,,,,,,,,,,x
 b_triest,szekely,,Trieszt,,,,,,,,,,,x
 b_triest,thuringian,,Triest,,,,,,,,,,,x
-b_triest,venetian,,TriËst,,,,,,,,,,,x
+b_triest,venetian,,Tri√®st,,,,,,,,,,,x
 b_pula,b_pula,,Pula,,,,,,,,,,,x
 b_pula,b_pula_adj,,,,,,,,,,,,,x
 b_pula,bavarian,,Polei,,,,,,,,,,,x
@@ -217,7 +217,7 @@ b_pula,east_gothic,,Pola,,,,,,,,,,,x
 b_pula,franconian,,Polei,,,,,,,,,,,x
 b_pula,german,,Polei,,,,,,,,,,,x
 b_pula,greek,,Pola,,,,,,,,,,,x
-b_pula,hungarian,,PÛla,,,,,,,,,,,x
+b_pula,hungarian,,P√≥la,,,,,,,,,,,x
 b_pula,karantanci,,Pulj,,,,,,,,,,,x
 b_pula,low_frankish,,Polei,,,,,,,,,,,x
 b_pula,low_german,,Polei,,,,,,,,,,,x
@@ -229,7 +229,7 @@ b_pula,roman,,Pola,,,,,,,,,,,x
 b_pula,russian,,Pulj,,,,,,,,,,,x
 b_pula,serbian,,Pulj,,,,,,,,,,,x
 b_pula,swabian,,Polei,,,,,,,,,,,x
-b_pula,szekely,,PÛla,,,,,,,,,,,x
+b_pula,szekely,,P√≥la,,,,,,,,,,,x
 b_pula,thuringian,,Polei,,,,,,,,,,,x
 b_pirano,b_pirano,,Piran,,,,,,,,,,,x
 b_pirano,b_pirano_adj,,,,,,,,,,,,,x
@@ -239,10 +239,10 @@ b_pirano,bosnian,,Piran,,,,,,,,,,,x
 b_pirano,bulgarian,,Piran,,,,,,,,,,,x
 b_pirano,croatian,,Piran,,,,,,,,,,,x
 b_pirano,dutch,,Pirian,,,,,,,,,,,x
-b_pirano,east_gothic,,PiranÚn,,,,,,,,,,,x
+b_pirano,east_gothic,,Piran√≤n,,,,,,,,,,,x
 b_pirano,franconian,,Pirian,,,,,,,,,,,x
 b_pirano,german,,Pirian,,,,,,,,,,,x
-b_pirano,greek,,PiranÚn,,,,,,,,,,,x
+b_pirano,greek,,Piran√≤n,,,,,,,,,,,x
 b_pirano,karantanci,,Piran,,,,,,,,,,,x
 b_pirano,low_frankish,,Pirian,,,,,,,,,,,x
 b_pirano,low_german,,Pirian,,,,,,,,,,,x
@@ -281,29 +281,29 @@ b_koper,swabian,,Gafers,,,,,,,,,,,x
 b_koper,thuringian,,Gafers,,,,,,,,,,,x
 b_duino,b_duino,,Duino,,,,,,,,,,,x
 b_duino,b_duino_adj,,,,,,,,,,,,,x
-b_duino,bavarian,,Th¸bein,,,,,,,,,,,x
+b_duino,bavarian,,Th√ºbein,,,,,,,,,,,x
 b_duino,bohemian,,Devin,,,,,,,,,,,x
 b_duino,bosnian,,Devin,,,,,,,,,,,x
 b_duino,bulgarian,,Devin,,,,,,,,,,,x
 b_duino,croatian,,Devin,,,,,,,,,,,x
-b_duino,dutch,,Th¸bein,,,,,,,,,,,x
-b_duino,east_gothic,,DuinÛn,,,,,,,,,,,x
-b_duino,franconian,,Th¸bein,,,,,,,,,,,x
-b_duino,german,,Th¸bein,,,,,,,,,,,x
-b_duino,greek,,DuinÛn,,,,,,,,,,,x
+b_duino,dutch,,Th√ºbein,,,,,,,,,,,x
+b_duino,east_gothic,,Duin√≥n,,,,,,,,,,,x
+b_duino,franconian,,Th√ºbein,,,,,,,,,,,x
+b_duino,german,,Th√ºbein,,,,,,,,,,,x
+b_duino,greek,,Duin√≥n,,,,,,,,,,,x
 b_duino,karantanci,,Devin,,,,,,,,,,,x
-b_duino,low_frankish,,Th¸bein,,,,,,,,,,,x
-b_duino,low_german,,Th¸bein,,,,,,,,,,,x
-b_duino,low_saxon,,Th¸bein,,,,,,,,,,,x
+b_duino,low_frankish,,Th√ºbein,,,,,,,,,,,x
+b_duino,low_german,,Th√ºbein,,,,,,,,,,,x
+b_duino,low_saxon,,Th√ºbein,,,,,,,,,,,x
 b_duino,moravian,,Devin,,,,,,,,,,,x
 b_duino,polish,,Devin,,,,,,,,,,,x
 b_duino,pommeranian,,Devin,,,,,,,,,,,x
 b_duino,roman,,Duina,,,,,,,,,,,x
 b_duino,russian,,Devin,,,,,,,,,,,x
 b_duino,serbian,,Devin,,,,,,,,,,,x
-b_duino,swabian,,Th¸bein,,,,,,,,,,,x
-b_duino,thuringian,,Th¸bein,,,,,,,,,,,x
-d_aquileia,d_aquileia,,Fri˘li,,,,,,,,,,,x
+b_duino,swabian,,Th√ºbein,,,,,,,,,,,x
+b_duino,thuringian,,Th√ºbein,,,,,,,,,,,x
+d_aquileia,d_aquileia,,Fri√πli,,,,,,,,,,,x
 d_aquileia,d_aquileia_adj,,Friulano,,,,,,,,,,,x
 c_aquileia,PROV358,,Aquileia,,,,,,,,,,,x
 c_aquileia,c_aquileia,,,,,,,,,,,,,x
@@ -355,20 +355,20 @@ b_abbaziadichiaravalle,b_abbaziadichiaravalle,,Munasteri de Ceravall,,,,,,,,,,,x
 b_abbaziadichiaravalle,b_abbaziadichiaravalle_adj,,,,,,,,,,,,,x
 b_trezzosulladda,b_trezzosulladda,,Trezz,,,,,,,,,,,x
 b_trezzosulladda,b_trezzosulladda_adj,,,,,,,,,,,,,x
-b_rhomilano,b_rhomilano,,RÚ,,,,,,,,,,,x
+b_rhomilano,b_rhomilano,,R√≤,,,,,,,,,,,x
 b_rhomilano,b_rhomilano_adj,,,,,,,,,,,,,x
 c_brescia,PROV318,,Brescia,,,,,,,,,,,x
 c_brescia,c_brescia,,,,,,,,,,,,,x
 c_brescia,c_brescia_adj,,Brescian,,,,,,,,,,,x
 c_brescia,greek,,Brixia,,,,,,,,,,,x
 c_brescia,roman,,Brixia,,,,,,,,,,,x
-b_brescia,b_brescia,,BrËsa,,,,,,,,,,,x
+b_brescia,b_brescia,,Br√®sa,,,,,,,,,,,x
 b_brescia,b_brescia_adj,,,,,,,,,,,,,x
 b_brescia,greek,,Brixia,,,,,,,,,,,x
 b_brescia,roman,,Brixia,,,,,,,,,,,x
-b_saloitalia,b_saloitalia,,SalÚ,,,,,,,,,,,x
+b_saloitalia,b_saloitalia,,Sal√≤,,,,,,,,,,,x
 b_saloitalia,b_saloitalia_adj,,,,,,,,,,,,,x
-b_sirmione,b_sirmione,,Sirmi˘,,,,,,,,,,,x
+b_sirmione,b_sirmione,,Sirmi√π,,,,,,,,,,,x
 b_sirmione,b_sirmione_adj,,,,,,,,,,,,,x
 b_sirmione,greek,,Sirmio,,,,,,,,,,,x
 b_sirmione,roman,,Sirmio,,,,,,,,,,,x
@@ -379,17 +379,17 @@ c_bergamo,c_bergamo,,,,,,,,,,,,,x
 c_bergamo,c_bergamo_adj,,Bergamasco,,,,,,,,,,,x
 c_bergamo,greek,,Bergomon,,,,,,,,,,,x
 c_bergamo,roman,,Bergomum,,,,,,,,,,,x
-b_bergamo,b_bergamo,,BËrghem,,,,,,,,,,,x
+b_bergamo,b_bergamo,,B√®rghem,,,,,,,,,,,x
 b_bergamo,b_bergamo_adj,,,,,,,,,,,,,x
 b_bergamo,greek,,Bergomon,,,,,,,,,,,x
 b_bergamo,roman,,Bergomum,,,,,,,,,,,x
-b_treviglio,b_treviglio,,TrËÏ,,,,,,,,,,,x
+b_treviglio,b_treviglio,,Tr√®√¨,,,,,,,,,,,x
 b_treviglio,b_treviglio_adj,,,,,,,,,,,,,x
 b_castellodimalpaga,b_castellodimalpaga,,Castell de Malpaga,,,,,,,,,,,x
 b_castellodimalpaga,b_castellodimalpaga_adj,,,,,,,,,,,,,x
-b_albino,b_albino,,AlbÏ,,,,,,,,,,,x
+b_albino,b_albino,,Alb√¨,,,,,,,,,,,x
 b_albino,b_albino_adj,,,,,,,,,,,,,x
-b_monasterodiastino,b_monasterodiastino,,Munasteri de AstÏno,,,,,,,,,,,x
+b_monasterodiastino,b_monasterodiastino,,Munasteri de Ast√¨no,,,,,,,,,,,x
 b_monasterodiastino,b_monasterodiastino_adj,,,,,,,,,,,,,x
 c_pavia,PROV234,,Pavia,,,,,,,,,,,x
 c_pavia,c_pavia,,,,,,,,,,,,,x
@@ -402,20 +402,20 @@ b_pavia,greek,,Tikinon,,,,,,,,,,,x
 b_pavia,roman,,Ticinum,,,,,,,,,,,x
 b_voghera,b_voghera,,Vughera,,,,,,,,,,,x
 b_voghera,b_voghera_adj,,,,,,,,,,,,,x
-b_vigevano,b_vigevano,,VigÈvan,,,,,,,,,,,x
+b_vigevano,b_vigevano,,Vig√©van,,,,,,,,,,,x
 b_vigevano,b_vigevano_adj,,,,,,,,,,,,,x
 b_monasterodisanpietroincieldoro,b_monasterodisanpietroincieldoro,,Munasteri de San Peder in ciel d'or,,,,,,,,,,,x
 b_monasterodisanpietroincieldoro,b_monasterodisanpietroincieldoro_adj,,,,,,,,,,,,,x
-b_lomello,b_lomello,,L¸mÈ,,,,,,,,,,,x
+b_lomello,b_lomello,,L√ºm√©,,,,,,,,,,,x
 b_lomello,b_lomello_adj,,,,,,,,,,,,,x
 c_cremona,PROV320,,Cremona,,,,,,,,,,,x
 c_cremona,c_cremona,,,,,,,,,,,,,x
 c_cremona,c_cremona_adj,,Cremonian,,,,,,,,,,,x
 c_cremona,greek,,Kremone,,,,,,,,,,,x
-b_cremona,b_cremona,,Crem˘na,,,,,,,,,,,x
+b_cremona,b_cremona,,Crem√πna,,,,,,,,,,,x
 b_cremona,b_cremona_adj,,,,,,,,,,,,,x
 b_cremona,greek,,Kremone,,,,,,,,,,,x
-b_crema,b_crema,,CrËma,,,,,,,,,,,x
+b_crema,b_crema,,Cr√®ma,,,,,,,,,,,x
 b_crema,b_crema_adj,,,,,,,,,,,,,x
 b_sospiro,b_sospiro,,Suspir,,,,,,,,,,,x
 b_sospiro,b_sospiro_adj,,,,,,,,,,,,,x
@@ -438,7 +438,7 @@ b_legnano,b_legnano,,Legnan,,,,,,,,,,,x
 b_legnano,b_legnano_adj,,,,,,,,,,,,,x
 b_sondrio,b_sondrio,,Sundri,,,,,,,,,,,x
 b_sondrio,b_sondrio_adj,,,,,,,,,,,,,x
-b_lugano,b_lugano,,L¸g‡n,,,,,,,,,,,x
+b_lugano,b_lugano,,L√ºg√†n,,,,,,,,,,,x
 b_lugano,b_lugano_adj,,,,,,,,,,,,,x
 c_grisons,PROV246,,Ticino,,,,,,,,,,,x
 c_grisons,c_grisons,,,,,,,,,,,,,x
@@ -464,7 +464,7 @@ b_arona,b_arona,,Aruna,,,,,,,,,,,x
 b_arona,b_arona_adj,,,,,,,,,,,,,x
 b_turbigo,b_turbigo,,Turbigh,,,,,,,,,,,x
 b_turbigo,b_turbigo_adj,,,,,,,,,,,,,x
-b_varese,b_varese,,VarÈs,,,,,,,,,,,x
+b_varese,b_varese,,Var√©s,,,,,,,,,,,x
 b_varese,b_varese_adj,,,,,,,,,,,,,x
 b_varese,greek,,Baretion,,,,,,,,,,,x
 b_varese,roman,,Baretium,,,,,,,,,,,x
@@ -496,13 +496,13 @@ b_castellodimartellago,b_castellodimartellago_adj,,,,,,,,,,,,,x
 c_bassano,PROV1131,,Vicenza,,,,,,,,,,,x
 c_bassano,c_bassano,,,,,,,,,,,,,x
 c_bassano,c_bassano_adj,,Bassanese,,,,,,,,,,,x
-c_bassano,greek,,OuÔketÌa,,,,,,,,,,,x
+c_bassano,greek,,Ou√Øket√≠a,,,,,,,,,,,x
 c_bassano,roman,,Vicetia,,,,,,,,,,,x
 b_bassano,b_bassano,,Basan,,,,,,,,,,,x
 b_bassano,b_bassano_adj,,,,,,,,,,,,,x
 b_vicenza,b_vicenza,,Vicensa,,,,,,,,,,,x
 b_vicenza,b_vicenza_adj,,,,,,,,,,,,,x
-b_vicenza,greek,,OuÔketÌa,,,,,,,,,,,x
+b_vicenza,greek,,Ou√Øket√≠a,,,,,,,,,,,x
 b_vicenza,roman,,Vicetia,,,,,,,,,,,x
 b_castelfranco,b_castelfranco,,Castelfranco,,,,,,,,,,,x
 b_castelfranco,b_castelfranco_adj,,,,,,,,,,,,,x
@@ -530,7 +530,7 @@ c_padova,c_padova,,,,,,,,,,,,,x
 c_padova,c_padova_adj,,Padovian,,,,,,,,,,,x
 c_padova,greek,,Pataouion,,,,,,,,,,,x
 c_padova,roman,,Patavium,,,,,,,,,,,x
-b_padova,b_padova,,P‡doa,,,,,,,,,,,x
+b_padova,b_padova,,P√†doa,,,,,,,,,,,x
 b_padova,b_padova_adj,,,,,,,,,,,,,x
 b_padova,greek,,Pataouion,,,,,,,,,,,x
 b_padova,roman,,Patavium,,,,,,,,,,,x
@@ -547,32 +547,32 @@ d_parma,roman,,Aemilia,,,,,,,,,,,x
 c_parma,PROV321,,Parma,,,,,,,,,,,x
 c_parma,c_parma,,,,,,,,,,,,,x
 c_parma,c_parma_adj,,Parmian,,,,,,,,,,,x
-b_parma,b_parma,,P‰rma,,,,,,,,,,,x
+b_parma,b_parma,,P√§rma,,,,,,,,,,,x
 b_parma,b_parma_adj,,,,,,,,,,,,,x
-b_montechiarugolo,b_montechiarugolo,,Montcr¸ghel,,,,,,,,,,,x
+b_montechiarugolo,b_montechiarugolo,,Montcr√ºghel,,,,,,,,,,,x
 b_montechiarugolo,b_montechiarugolo_adj,,,,,,,,,,,,,x
-b_felino,b_felino,,FlÈn,,,,,,,,,,,x
+b_felino,b_felino,,Fl√©n,,,,,,,,,,,x
 b_felino,b_felino_adj,,,,,,,,,,,,,x
-b_berceto,b_berceto,,Bars‰i,,,,,,,,,,,x
+b_berceto,b_berceto,,Bars√§i,,,,,,,,,,,x
 b_berceto,b_berceto_adj,,,,,,,,,,,,,x
 c_piacenza,PROV1124,,Piacenza,,,,,,,,,,,x
 c_piacenza,c_piacenza,,,,,,,,,,,,,x
 c_piacenza,c_piacenza_adj,,Piacentino,,,,,,,,,,,x
 c_piacenza,greek,,Plakentia,,,,,,,,,,,x
 c_piacenza,roman,,Placentia,,,,,,,,,,,x
-b_fidenza,b_fidenza,,Bur‰gh San DunÈn,,,,,,,,,,,x
+b_fidenza,b_fidenza,,Bur√§gh San Dun√©n,,,,,,,,,,,x
 b_fidenza,b_fidenza_adj,,,,,,,,,,,,,x
 b_fidenza,greek,,Phidentia,,,,,,,,,,,x
 b_fidenza,roman,,Fidentia,,,,,,,,,,,x
-b_piacenza,b_piacenza,,PiasÎinsa,,,,,,,,,,,x
+b_piacenza,b_piacenza,,Pias√´insa,,,,,,,,,,,x
 b_piacenza,b_piacenza_adj,,,,,,,,,,,,,x
 b_piacenza,greek,,Plakentia,,,,,,,,,,,x
 b_piacenza,roman,,Placentia,,,,,,,,,,,x
-b_bardipiacenza,b_bardipiacenza,,B‡rdi,,,,,,,,,,,x
+b_bardipiacenza,b_bardipiacenza,,B√†rdi,,,,,,,,,,,x
 b_bardipiacenza,b_bardipiacenza_adj,,,,,,,,,,,,,x
-b_abbaziadisansavino,b_abbaziadisansavino,,BadÈia ed SavÎin,,,,,,,,,,,x
+b_abbaziadisansavino,b_abbaziadisansavino,,Bad√©ia ed Sav√´in,,,,,,,,,,,x
 b_abbaziadisansavino,b_abbaziadisansavino_adj,,,,,,,,,,,,,x
-b_roccadolgisio,b_roccadolgisio,,RÚca d Olgisio,,,,,,,,,,,x
+b_roccadolgisio,b_roccadolgisio,,R√≤ca d Olgisio,,,,,,,,,,,x
 b_roccadolgisio,b_roccadolgisio_adj,,,,,,,,,,,,,x
 d_susa,d_susa,,Piemonte,,,,,,,,,,,x
 d_susa,d_susa_adj,,Piemontese,,,,,,,,,,,x
@@ -591,7 +591,7 @@ b_cuneo,b_cuneo,,Coni,,,,,,,,,,,x
 b_cuneo,b_cuneo_adj,,,,,,,,,,,,,x
 b_racconigi,b_racconigi,,Racunis,,,,,,,,,,,x
 b_racconigi,b_racconigi_adj,,,,,,,,,,,,,x
-b_abbziadisandalmass,b_abbziadisandalmass,,AbassÏa Îd San Dalmassi,,,,,,,,,,,x
+b_abbziadisandalmass,b_abbziadisandalmass,,Abass√¨a √´d San Dalmassi,,,,,,,,,,,x
 b_abbziadisandalmass,b_abbziadisandalmass_adj,,,,,,,,,,,,,x
 c_novara,PROV1046,,Novara,,,,,,,,,,,x
 c_novara,c_novara,,,,,,,,,,,,,x
@@ -602,7 +602,7 @@ b_novara,b_novara,,Noara,,,,,,,,,,,x
 b_novara,b_novara_adj,,,,,,,,,,,,,x
 b_novara,greek,,Novaria,,,,,,,,,,,x
 b_novara,roman,,Novaria,,,,,,,,,,,x
-b_domodossola,b_domodossola,,Àl DÚm,,,,,,,,,,,x
+b_domodossola,b_domodossola,,√ãl D√≤m,,,,,,,,,,,x
 b_domodossola,b_domodossola_adj,,,,,,,,,,,,,x
 b_nibbiola,b_nibbiola,,Nibiola,,,,,,,,,,,x
 b_nibbiola,b_nibbiola_adj,,,,,,,,,,,,,x
@@ -621,26 +621,26 @@ b_ivrea,greek,,Eporedia,,,,,,,,,,,x
 b_ivrea,roman,,Eporedia,,,,,,,,,,,x
 b_biella,b_biella,,Biela,,,,,,,,,,,x
 b_biella,b_biella_adj,,,,,,,,,,,,,x
-b_vercelli,b_vercelli,,VÎrsËj,,,,,,,,,,,x
+b_vercelli,b_vercelli,,V√´rs√®j,,,,,,,,,,,x
 b_vercelli,b_vercelli_adj,,,,,,,,,,,,,x
 b_vercelli,greek,,Ouerkellai,,,,,,,,,,,x
 b_vercelli,roman,,Vercellae,,,,,,,,,,,x
-b_santhia,b_santhia,,Santi‡,,,,,,,,,,,x
+b_santhia,b_santhia,,Santi√†,,,,,,,,,,,x
 b_santhia,b_santhia_adj,,,,,,,,,,,,,x
 c_piemonte,PROV236,,Susa,,,,,,,,,,,x
 c_piemonte,c_piemonte,,,,,,,,,,,,,x
 c_piemonte,c_piemonte_adj,,Piemontian,,,,,,,,,,,x
 c_piemonte,greek,,Augousta Taurinon,,,,,,,,,,,x
 c_piemonte,roman,,Augusta Taurinorum,,,,,,,,,,,x
-b_torino,b_torino,,TurÈn,,,,,,,,,,,x
+b_torino,b_torino,,Tur√©n,,,,,,,,,,,x
 b_torino,b_torino_adj,,,,,,,,,,,,,x
 b_torino,greek,,Augousta Taurinon,,,,,,,,,,,x
 b_torino,roman,,Augusta Taurinorum,,,,,,,,,,,x
-b_settimo,b_settimo,,Àl Seto,,,,,,,,,,,x
+b_settimo,b_settimo,,√ãl Seto,,,,,,,,,,,x
 b_settimo,b_settimo_adj,,,,,,,,,,,,,x
-b_moncalieri,b_moncalieri,,MoncalÈ,,,,,,,,,,,x
+b_moncalieri,b_moncalieri,,Moncal√©,,,,,,,,,,,x
 b_moncalieri,b_moncalieri_adj,,,,,,,,,,,,,x
-b_abbadiaalpina,b_abbadiaalpina,,La BadÏa,,,,,,,,,,,x
+b_abbadiaalpina,b_abbadiaalpina,,La Bad√¨a,,,,,,,,,,,x
 b_abbadiaalpina,b_abbadiaalpina_adj,,,,,,,,,,,,,x
 b_susapiemonte,b_susapiemonte,,Susa,,,,,,,,,,,x
 b_susapiemonte,b_susapiemonte_adj,,,,,,,,,,,,,x
@@ -659,13 +659,13 @@ c_monferrato,title_female,,MARCHESA,,,,,,,,,,,x
 c_monferrato,title_prefix,,MARQUISATE_OF,,,,,,,,,,,x
 b_alessandria,b_alessandria,,Lissandria,,,,,,,,,,,x
 b_alessandria,b_alessandria_adj,,,,,,,,,,,,,x
-b_casale,b_casale,,Casal Monfr‡,,,,,,,,,,,x
+b_casale,b_casale,,Casal Monfr√†,,,,,,,,,,,x
 b_casale,b_casale_adj,,,,,,,,,,,,,x
 b_asti,b_asti,,Ast,,,,,,,,,,,x
 b_asti,b_asti_adj,,,,,,,,,,,,,x
 b_asti,greek,,Asta,,,,,,,,,,,x
 b_asti,roman,,Hasta,,,,,,,,,,,x
-b_acqui,b_acqui,,¿ich,,,,,,,,,,,x
+b_acqui,b_acqui,,√Äich,,,,,,,,,,,x
 b_acqui,b_acqui_adj,,,,,,,,,,,,,x
 b_acqui,greek,,Akouai Statiella,,,,,,,,,,,x
 b_acqui,roman,,Aquae Statiellae,,,,,,,,,,,x
@@ -678,17 +678,17 @@ c_bobbio,c_bobbio,,,,,,,,,,,,,x
 c_bobbio,c_bobbio_adj,,Bobbiese,,,,,,,,,,,x
 c_bobbio,greek,,Bobion,,,,,,,,,,,x
 c_bobbio,roman,,Bobium,,,,,,,,,,,x
-b_bobbio,b_bobbio,,BÚbi,,,,,,,,,,,x
+b_bobbio,b_bobbio,,B√≤bi,,,,,,,,,,,x
 b_bobbio,b_bobbio_adj,,,,,,,,,,,,,x
 b_bobbio,greek,,Bobion,,,,,,,,,,,x
 b_bobbio,roman,,Bobium,,,,,,,,,,,x
-b_tortona,b_tortona,,TortÚna,,,,,,,,,,,x
+b_tortona,b_tortona,,Tort√≤na,,,,,,,,,,,x
 b_tortona,b_tortona_adj,,,,,,,,,,,,,x
 b_tortona,greek,,Derthon,,,,,,,,,,,x
 b_tortona,roman,,Dertona,,,,,,,,,,,x
-b_fortunago,b_fortunago,,Fort¸nagh,,,,,,,,,,,x
+b_fortunago,b_fortunago,,Fort√ºnagh,,,,,,,,,,,x
 b_fortunago,b_fortunago_adj,,,,,,,,,,,,,x
-b_abizziadisancolombano,b_abizziadisancolombano,,BadÈia ed San Columban,,,,,,,,,,,x
+b_abizziadisancolombano,b_abizziadisancolombano,,Bad√©ia ed San Columban,,,,,,,,,,,x
 b_abizziadisancolombano,b_abizziadisancolombano_adj,,,,,,,,,,,,,x
 d_genoa,d_genoa,,Genova,,,,,,,,,,,x
 d_genoa,d_genoa_adj,,Genovesan,,,,,,,,,,,x
@@ -711,7 +711,7 @@ b_sestrilevanti,b_sestrilevanti,,Sestri Levante,,,,,,,,,,,x
 b_sestrilevanti,b_sestrilevanti_adj,,,,,,,,,,,,,x
 b_sestrilevanti,greek,,Segesta,,,,,,,,,,,x
 b_sestrilevanti,roman,,Segesta Tigulliorum,,,,,,,,,,,x
-b_chiavari,b_chiavari,,Ci‰vai,,,,,,,,,,,x
+b_chiavari,b_chiavari,,Ci√§vai,,,,,,,,,,,x
 b_chiavari,b_chiavari_adj,,,,,,,,,,,,,x
 d_savona,d_savona,,Savona,,,,,,,,,,,x
 d_savona,d_savona_adj,,Savonian,,,,,,,,,,,x
@@ -724,15 +724,15 @@ c_savona,c_savona,,,,,,,,,,,,,x
 c_savona,c_savona_adj,,Savonese,,,,,,,,,,,x
 c_savona,greek,,Savo,,,,,,,,,,,x
 c_savona,roman,,Savo,,,,,,,,,,,x
-b_savona,b_savona,,S‡nn-a,,,,,,,,,,,x
+b_savona,b_savona,,S√†nn-a,,,,,,,,,,,x
 b_savona,b_savona_adj,,,,,,,,,,,,,x
 b_savona,greek,,Savo,,,,,,,,,,,x
 b_savona,roman,,Savo,,,,,,,,,,,x
-b_albisolasuperiore,b_albisolasuperiore,,Dí‰to díArbisseua,,,,,,,,,,,x
+b_albisolasuperiore,b_albisolasuperiore,,D‚Äô√§to d‚ÄôArbisseua,,,,,,,,,,,x
 b_albisolasuperiore,b_albisolasuperiore_adj,,,,,,,,,,,,,x
 b_cairomontenotte,b_cairomontenotte,,Cairi,,,,,,,,,,,x
 b_cairomontenotte,b_cairomontenotte_adj,,,,,,,,,,,,,x
-b_noliligure,b_noliligure,,Nˆi,,,,,,,,,,,x
+b_noliligure,b_noliligure,,N√∂i,,,,,,,,,,,x
 b_noliligure,b_noliligure_adj,,,,,,,,,,,,,x
 b_castellodimonteursino,b_castellodimonteursino,,Castello di Monte Ursino,,,,,,,,,,,x
 b_castellodimonteursino,b_castellodimonteursino_adj,,,,,,,,,,,,,x
@@ -749,9 +749,9 @@ b_albenga,b_albenga,,Arbenga,,,,,,,,,,,x
 b_albenga,b_albenga_adj,,,,,,,,,,,,,x
 b_albenga,greek,,Albingaunon,,,,,,,,,,,x
 b_albenga,roman,,Album Ingaunum,,,,,,,,,,,x
-b_oneglia,b_oneglia,,InÈja,,,,,,,,,,,x
+b_oneglia,b_oneglia,,In√©ja,,,,,,,,,,,x
 b_oneglia,b_oneglia_adj,,,,,,,,,,,,,x
-b_finaleligure,b_finaleligure,,FinÙ,,,,,,,,,,,x
+b_finaleligure,b_finaleligure,,Fin√¥,,,,,,,,,,,x
 b_finaleligure,b_finaleligure_adj,,,,,,,,,,,,,x
 c_ventimiglia,PROV1141,,Ventimiglia,,,,,,,,,,,x
 c_ventimiglia,c_ventimiglia,,,,,,,,,,,,,x
@@ -777,37 +777,37 @@ c_modena,c_modena,,,,,,,,,,,,,x
 c_modena,c_modena_adj,,Modenian,,,,,,,,,,,x
 c_modena,greek,,Moutine,,,,,,,,,,,x
 c_modena,roman,,Mutina,,,,,,,,,,,x
-b_modena,b_modena,,MÚdna,,,,,,,,,,,x
+b_modena,b_modena,,M√≤dna,,,,,,,,,,,x
 b_modena,b_modena_adj,,,,,,,,,,,,,x
 b_modena,greek,,Moutine,,,,,,,,,,,x
 b_modena,roman,,Mutina,,,,,,,,,,,x
-b_carpi,b_carpi,,ChËrp,,,,,,,,,,,x
+b_carpi,b_carpi,,Ch√®rp,,,,,,,,,,,x
 b_carpi,b_carpi_adj,,,,,,,,,,,,,x
-b_abbaziadinonantola,b_abbaziadinonantola,,BadÈia ed Nun‡ntla,,,,,,,,,,,x
+b_abbaziadinonantola,b_abbaziadinonantola,,Bad√©ia ed Nun√†ntla,,,,,,,,,,,x
 b_abbaziadinonantola,b_abbaziadinonantola_adj,,,,,,,,,,,,,x
-b_vignola,b_vignola,,RÚca d VgnÛla,,,,,,,,,,,x
+b_vignola,b_vignola,,R√≤ca d Vgn√≥la,,,,,,,,,,,x
 b_vignola,b_vignola_adj,,,,,,,,,,,,,x
 c_reggionellemilia,PROV957,,Reggio nell Emilia,,,,,,,,,,,x
 c_reggionellemilia,c_reggionellemilia,,,,,,,,,,,,,x
 c_reggionellemilia,c_reggionellemilia_adj,,Reggiano,,,,,,,,,,,x
-c_reggionellemilia,greek,,RÈgion Lepidon,,,,,,,,,,,x
+c_reggionellemilia,greek,,R√©gion Lepidon,,,,,,,,,,,x
 c_reggionellemilia,roman,,Regium Lepidum,,,,,,,,,,,x
-b_reggionellemila,b_reggionellemila,,RËz,,,,,,,,,,,x
+b_reggionellemila,b_reggionellemila,,R√®z,,,,,,,,,,,x
 b_reggionellemila,b_reggionellemila_adj,,,,,,,,,,,,,x
-b_reggionellemila,greek,,RÈgion Lepidon,,,,,,,,,,,x
+b_reggionellemila,greek,,R√©gion Lepidon,,,,,,,,,,,x
 b_reggionellemila,roman,,Regium Lepidum,,,,,,,,,,,x
-b_roccadicanossa,b_roccadicanossa,,RÙca Canosi‚na,,,,,,,,,,,x
+b_roccadicanossa,b_roccadicanossa,,R√¥ca Canosi√¢na,,,,,,,,,,,x
 b_roccadicanossa,b_roccadicanossa_adj,,,,,,,,,,,,,x
-b_albinea,b_albinea,,la FÙla,,,,,,,,,,,x
+b_albinea,b_albinea,,la F√¥la,,,,,,,,,,,x
 b_albinea,b_albinea_adj,,,,,,,,,,,,,x
-b_pratofontana,b_pratofontana,,PrÍfuntana,,,,,,,,,,,x
+b_pratofontana,b_pratofontana,,Pr√™funtana,,,,,,,,,,,x
 b_pratofontana,b_pratofontana_adj,,,,,,,,,,,,,x
 c_frignano,PROV1122,,Frignano,,,,,,,,,,,x
 c_frignano,c_frignano,,,,,,,,,,,,,x
 c_frignano,c_frignano_adj,,Frignanese,,,,,,,,,,,x
-b_castelnovo,b_castelnovo,,CastelnÛv,,,,,,,,,,,x
+b_castelnovo,b_castelnovo,,Casteln√≥v,,,,,,,,,,,x
 b_castelnovo,b_castelnovo_adj,,,,,,,,,,,,,x
-b_frignanomodena,b_frignanomodena,,PavÛll,,,,,,,,,,,x
+b_frignanomodena,b_frignanomodena,,Pav√≥ll,,,,,,,,,,,x
 b_frignanomodena,b_frignanomodena_adj,,,,,,,,,,,,,x
 d_mantua,d_mantua,,Mantua,,,,,,,,,,,x
 d_mantua,d_mantua_adj,,Mantuian,,,,,,,,,,,x
@@ -821,18 +821,18 @@ b_mantua,b_mantua_adj,,,,,,,,,,,,,x
 b_mantua,greek,,Mantoua,,,,,,,,,,,x
 b_serravalle,b_serravalle,,Serravalle,,,,,,,,,,,x
 b_serravalle,b_serravalle_adj,,,,,,,,,,,,,x
-b_castellucchio,b_castellucchio,,Castl¸ch,,,,,,,,,,,x
+b_castellucchio,b_castellucchio,,Castl√ºch,,,,,,,,,,,x
 b_castellucchio,b_castellucchio_adj,,,,,,,,,,,,,x
-b_redondesco,b_redondesco,,RedundËsch,,,,,,,,,,,x
+b_redondesco,b_redondesco,,Redund√®sch,,,,,,,,,,,x
 b_redondesco,b_redondesco_adj,,,,,,,,,,,,,x
 c_novellara,PROV1139,,Novellara,,,,,,,,,,,x
 c_novellara,c_novellara,,,,,,,,,,,,,x
 c_novellara,c_novellara_adj,,Novellarese,,,,,,,,,,,x
-b_novellara,b_novellara,,NuvalÍra,,,,,,,,,,,x
+b_novellara,b_novellara,,Nuval√™ra,,,,,,,,,,,x
 b_novellara,b_novellara_adj,,,,,,,,,,,,,x
-b_guastalla,b_guastalla,,Guast‚la,,,,,,,,,,,x
+b_guastalla,b_guastalla,,Guast√¢la,,,,,,,,,,,x
 b_guastalla,b_guastalla_adj,,,,,,,,,,,,,x
-b_gonzaga,b_gonzaga,,Guns‡ga,,,,,,,,,,,x
+b_gonzaga,b_gonzaga,,Guns√†ga,,,,,,,,,,,x
 b_gonzaga,b_gonzaga_adj,,,,,,,,,,,,,x
 b_sabbioneta,b_sabbioneta,,Sabbioneta,,,,,,,,,,,x
 b_sabbioneta,b_sabbioneta_adj,,,,,,,,,,,,,x
@@ -870,7 +870,7 @@ b_lunibishop,greek,,Louna,,,,,,,,,,,x
 b_lunibishop,roman,,Luna,,,,,,,,,,,x
 b_carrara,b_carrara,,Carrara,,,,,,,,,,,x
 b_carrara,b_carrara_adj,,,,,,,,,,,,,x
-b_sarzana,b_sarzana,,Sarz‡na,,,,,,,,,,,x
+b_sarzana,b_sarzana,,Sarz√†na,,,,,,,,,,,x
 b_sarzana,b_sarzana_adj,,,,,,,,,,,,,x
 c_guidi,PROV1137,,Guidi,,,,,,,,,,,x
 c_guidi,c_guidi,,,,,,,,,,,,,x
@@ -932,7 +932,7 @@ c_arezzo,c_arezzo,,,,,,,,,,,,,x
 c_arezzo,c_arezzo_adj,,Aretino,,,,,,,,,,,x
 c_arezzo,greek,,Arretion,,,,,,,,,,,x
 c_arezzo,roman,,Arretium,,,,,,,,,,,x
-b_cittadicastello,b_cittadicastello,,Citt‡ di Castello,,,,,,,,,,,x
+b_cittadicastello,b_cittadicastello,,Citt√† di Castello,,,,,,,,,,,x
 b_cittadicastello,b_cittadicastello_adj,,,,,,,,,,,,,x
 b_montevarchi,b_montevarchi,,Castello di Monteguarco,,,,,,,,,,,x
 b_montevarchi,b_montevarchi_adj,,,,,,,,,,,,,x
@@ -1034,15 +1034,15 @@ c_ferrara,c_ferrara,,,,,,,,,,,,,x
 c_ferrara,c_ferrara_adj,,Ferrarian,,,,,,,,,,,x
 c_ferrara,greek,,Ferraria,,,,,,,,,,,x
 c_ferrara,roman,,Ferraria,,,,,,,,,,,x
-b_ferrara,b_ferrara,,FrÍra,,,,,,,,,,,x
+b_ferrara,b_ferrara,,Fr√™ra,,,,,,,,,,,x
 b_ferrara,b_ferrara_adj,,,,,,,,,,,,,x
 b_ferrara,greek,,Ferraria,,,,,,,,,,,x
 b_ferrara,roman,,Ferraria,,,,,,,,,,,x
-b_commacchio,b_commacchio,,Cm‚c,,,,,,,,,,,x
+b_commacchio,b_commacchio,,Cm√¢c,,,,,,,,,,,x
 b_commacchio,b_commacchio_adj,,,,,,,,,,,,,x
-b_codigoro,b_codigoro,,BadÈia ed Pomposa,,,,,,,,,,,x
+b_codigoro,b_codigoro,,Bad√©ia ed Pomposa,,,,,,,,,,,x
 b_codigoro,b_codigoro_adj,,,,,,,,,,,,,x
-b_finaleemilia,b_finaleemilia,,FinËl,,,,,,,,,,,x
+b_finaleemilia,b_finaleemilia,,Fin√®l,,,,,,,,,,,x
 b_finaleemilia,b_finaleemilia_adj,,,,,,,,,,,,,x
 c_rovigo,PROV1143,,Rovigo,,,,,,,,,,,x
 c_rovigo,c_rovigo,,,,,,,,,,,,,x
@@ -1053,7 +1053,7 @@ b_este,b_este,,Este,,,,,,,,,,,x
 b_este,b_este_adj,,,,,,,,,,,,,x
 b_este,greek,,Ateste,,,,,,,,,,,x
 b_este,roman,,Ateste,,,,,,,,,,,x
-b_occhiobello,b_occhiobello,,Ug BËl,,,,,,,,,,,x
+b_occhiobello,b_occhiobello,,Ug B√®l,,,,,,,,,,,x
 b_occhiobello,b_occhiobello_adj,,,,,,,,,,,,,x
 b_rovigo,b_rovigo,,Rovigo,,,,,,,,,,,x
 b_rovigo,b_rovigo_adj,,,,,,,,,,,,,x
@@ -1072,53 +1072,53 @@ c_ravenna,greek,,Rhaouenna,,,,,,,,,,,x
 b_ravenna,b_ravenna,,Ravenna,,,,,,,,,,,x
 b_ravenna,b_ravenna_adj,,,,,,,,,,,,,x
 b_ravenna,greek,,Rhaouenna,,,,,,,,,,,x
-b_bagnacavallo,b_bagnacavallo,,Bagnacav‡l,,,,,,,,,,,x
+b_bagnacavallo,b_bagnacavallo,,Bagnacav√†l,,,,,,,,,,,x
 b_bagnacavallo,b_bagnacavallo_adj,,,,,,,,,,,,,x
 b_cervia,b_cervia,,Zirvia,,,,,,,,,,,x
 b_cervia,b_cervia_adj,,,,,,,,,,,,,x
 b_cervia,greek,,Ficocle,,,,,,,,,,,x
 b_cervia,roman,,Ficocle,,,,,,,,,,,x
-b_russi,b_russi,,RÛs,,,,,,,,,,,x
+b_russi,b_russi,,R√≥s,,,,,,,,,,,x
 b_russi,b_russi_adj,,,,,,,,,,,,,x
-b_cunio,b_cunio,,CastËl d Cunio,,,,,,,,,,,x
+b_cunio,b_cunio,,Cast√®l d Cunio,,,,,,,,,,,x
 b_cunio,b_cunio_adj,,,,,,,,,,,,,x
 c_bologna,PROV352,,Bologna,,,,,,,,,,,x
 c_bologna,c_bologna,,,,,,,,,,,,,x
 c_bologna,c_bologna_adj,,Bolognian,,,,,,,,,,,x
 c_bologna,greek,,Bononia,,,,,,,,,,,x
 c_bologna,roman,,Bononia,,,,,,,,,,,x
-b_bologna,b_bologna,,BulÂggna,,,,,,,,,,,x
+b_bologna,b_bologna,,Bul√•ggna,,,,,,,,,,,x
 b_bologna,b_bologna_adj,,,,,,,,,,,,,x
 b_bologna,greek,,Bononia,,,,,,,,,,,x
 b_bologna,roman,,Bononia,,,,,,,,,,,x
-b_monterenzio,b_monterenzio,,MÂntr‡nz,,,,,,,,,,,x
+b_monterenzio,b_monterenzio,,M√•ntr√†nz,,,,,,,,,,,x
 b_monterenzio,b_monterenzio_adj,,,,,,,,,,,,,x
-b_monghidoro,b_monghidoro,,DscargalËsen,,,,,,,,,,,x
+b_monghidoro,b_monghidoro,,Dscargal√®sen,,,,,,,,,,,x
 b_monghidoro,b_monghidoro_adj,,,,,,,,,,,,,x
-b_budro,b_budro,,B˚dri,,,,,,,,,,,x
+b_budro,b_budro,,B√ªdri,,,,,,,,,,,x
 b_budro,b_budro_adj,,,,,,,,,,,,,x
-b_munzuno,b_munzuno,,MunzÛn,,,,,,,,,,,x
+b_munzuno,b_munzuno,,Munz√≥n,,,,,,,,,,,x
 b_munzuno,b_munzuno_adj,,,,,,,,,,,,,x
 c_forli,PROV1123,,Forli,,,,,,,,,,,x
 c_forli,c_forli,,,,,,,,,,,,,x
 c_forli,c_forli_adj,,Forlivese,,,,,,,,,,,x
 c_forli,greek,,Phoron Livii,,,,,,,,,,,x
 c_forli,roman,,Forum Livii,,,,,,,,,,,x
-b_faenza,b_faenza,,FÎnsa,,,,,,,,,,,x
+b_faenza,b_faenza,,F√´nsa,,,,,,,,,,,x
 b_faenza,b_faenza_adj,,,,,,,,,,,,,x
 b_faenza,greek,,Phaouentia,,,,,,,,,,,x
 b_faenza,roman,,Faventia,,,,,,,,,,,x
-b_forli,b_forli,,FurlË,,,,,,,,,,,x
+b_forli,b_forli,,Furl√®,,,,,,,,,,,x
 b_forli,b_forli_adj,,,,,,,,,,,,,x
 b_forli,greek,,Phoron Livii,,,,,,,,,,,x
 b_forli,roman,,Forum Livii,,,,,,,,,,,x
 b_imola,b_imola,,Iommla,,,,,,,,,,,x
 b_imola,b_imola_adj,,,,,,,,,,,,,x
-b_imola,greek,,Phoron KornÈlion,,,,,,,,,,,x
+b_imola,greek,,Phoron Korn√©lion,,,,,,,,,,,x
 b_imola,roman,,Forum Cornelii,,,,,,,,,,,x
-b_roccadellecaminate,b_roccadellecaminate,,RÚca ed Caminate,,,,,,,,,,,x
+b_roccadellecaminate,b_roccadellecaminate,,R√≤ca ed Caminate,,,,,,,,,,,x
 b_roccadellecaminate,b_roccadellecaminate_adj,,,,,,,,,,,,,x
-b_dovadola,b_dovadola,,DvËdla,,,,,,,,,,,x
+b_dovadola,b_dovadola,,Dv√®dla,,,,,,,,,,,x
 b_dovadola,b_dovadola_adj,,,,,,,,,,,,,x
 c_rimini,PROV1133,,Rimini,,,,,,,,,,,x
 c_rimini,c_rimini,,,,,,,,,,,,,x
@@ -1129,13 +1129,13 @@ b_rimini,b_rimini,,Remne,,,,,,,,,,,x
 b_rimini,b_rimini_adj,,,,,,,,,,,,,x
 b_rimini,greek,,Ariminon,,,,,,,,,,,x
 b_rimini,roman,,Ariminum,,,,,,,,,,,x
-b_sigismondo,b_sigismondo,,CastËl ed Sigismondo,,,,,,,,,,,x
+b_sigismondo,b_sigismondo,,Cast√®l ed Sigismondo,,,,,,,,,,,x
 b_sigismondo,b_sigismondo_adj,,,,,,,,,,,,,x
-b_cesena,b_cesena,,ZisËna,,,,,,,,,,,x
+b_cesena,b_cesena,,Zis√®na,,,,,,,,,,,x
 b_cesena,b_cesena_adj,,,,,,,,,,,,,x
 b_cesena,greek,,Kaisena,,,,,,,,,,,x
 b_cesena,roman,,Caesena,,,,,,,,,,,x
-b_gradara,b_gradara,,GradËra,,,,,,,,,,,x
+b_gradara,b_gradara,,Grad√®ra,,,,,,,,,,,x
 b_gradara,b_gradara_adj,,,,,,,,,,,,,x
 d_ancona,d_ancona,,Marche,,,,,,,,,,,x
 d_ancona,d_ancona_adj,,Marchian,,,,,,,,,,,x
@@ -1211,7 +1211,7 @@ c_montefeltro,c_montefeltro,,,,,,,,,,,,,x
 c_montefeltro,c_montefeltro_adj,,Sammarinese,,,,,,,,,,,x
 b_carpegna,b_carpegna,,Carpegna,,,,,,,,,,,x
 b_carpegna,b_carpegna_adj,,,,,,,,,,,,,x
-b_sanleo,b_sanleo,,San LÈ,,,,,,,,,,,x
+b_sanleo,b_sanleo,,San L√©,,,,,,,,,,,x
 b_sanleo,b_sanleo_adj,,,,,,,,,,,,,x
 b_sanleo,greek,,Monteferetra,,,,,,,,,,,x
 b_sanleo,roman,,Monteferetra,,,,,,,,,,,x
@@ -1224,7 +1224,7 @@ c_urbino,c_urbino,,,,,,,,,,,,,x
 c_urbino,c_urbino_adj,,Urbinian,,,,,,,,,,,x
 c_urbino,greek,,Ourbinon,,,,,,,,,,,x
 c_urbino,roman,,Urbinium,,,,,,,,,,,x
-b_urbino,b_urbino,,UrbÏn,,,,,,,,,,,x
+b_urbino,b_urbino,,Urb√¨n,,,,,,,,,,,x
 b_urbino,b_urbino_adj,,,,,,,,,,,,,x
 b_urbino,greek,,Ourbinon,,,,,,,,,,,x
 b_urbino,roman,,Urbinium,,,,,,,,,,,x
@@ -1232,13 +1232,13 @@ b_sanseverino,b_sanseverino,,San Severino,,,,,,,,,,,x
 b_sanseverino,b_sanseverino_adj,,,,,,,,,,,,,x
 b_sanseverino,greek,,Septempeda,,,,,,,,,,,x
 b_sanseverino,roman,,Septempeda,,,,,,,,,,,x
-b_fossombrone,b_fossombrone,,FossombrÛn,,,,,,,,,,,x
+b_fossombrone,b_fossombrone,,Fossombr√≥n,,,,,,,,,,,x
 b_fossombrone,b_fossombrone_adj,,,,,,,,,,,,,x
-b_fossombrone,greek,,PhÛron Sempronion,,,,,,,,,,,x
+b_fossombrone,greek,,Ph√≥ron Sempronion,,,,,,,,,,,x
 b_fossombrone,roman,,Forum Sempronii,,,,,,,,,,,x
 b_gubbio,b_gubbio,,Gubbio,,,,,,,,,,,x
 b_gubbio,b_gubbio_adj,,,,,,,,,,,,,x
-b_gubbio,greek,,Igo˙Ôon,,,,,,,,,,,x
+b_gubbio,greek,,Igo√∫√Øon,,,,,,,,,,,x
 b_gubbio,roman,,Iguvium,,,,,,,,,,,x
 b_roccatorrinone,b_roccatorrinone,,Rocca Torrione,,,,,,,,,,,x
 b_roccatorrinone,b_roccatorrinone_adj,,,,,,,,,,,,,x
@@ -1251,7 +1251,7 @@ c_spoleto,c_spoleto,,,,,,,,,,,,,x
 c_spoleto,c_spoleto_adj,,Spoletian,,,,,,,,,,,x
 c_spoleto,greek,,Spoletion,,,,,,,,,,,x
 c_spoleto,roman,,Spoletium,,,,,,,,,,,x
-b_spoleto,b_spoleto,,SpulÈti,,,,,,,,,,,x
+b_spoleto,b_spoleto,,Spul√©ti,,,,,,,,,,,x
 b_spoleto,b_spoleto_adj,,,,,,,,,,,,,x
 b_spoleto,greek,,Spoletion,,,,,,,,,,,x
 b_spoleto,roman,,Spoletium,,,,,,,,,,,x
@@ -1306,7 +1306,7 @@ c_roma,greek,,Rhome,,,,,,,,,,,x
 b_roma,b_roma,,Roma,,,,,,,,,,,x
 b_roma,b_roma_adj,,,,,,,,,,,,,x
 b_roma,greek,,Rhome,,,,,,,,,,,x
-b_roma,norse,,RÛmarborg,,,,,,,,,,,x
+b_roma,norse,,R√≥marborg,,,,,,,,,,,x
 b_castelsantangelo,b_castelsantangelo,,Castel Sant'Angelo,,,,,,,,,,,x
 b_castelsantangelo,b_castelsantangelo_adj,,,,,,,,,,,,,x
 b_castellodiLunghezza,b_castellodiLunghezza,,Castelo de Lunghezza,,,,,,,,,,,x
@@ -1334,11 +1334,11 @@ b_tusculum,b_tusculum_adj,,,,,,,,,,,,,x
 b_tusculum,greek,,Touskoulon,,,,,,,,,,,x
 b_anagni,b_anagni,,Anagni,,,,,,,,,,,x
 b_anagni,b_anagni_adj,,,,,,,,,,,,,x
-b_anagni,greek,,An·gneiai,,,,,,,,,,,x
+b_anagni,greek,,An√°gneiai,,,,,,,,,,,x
 b_anagni,roman,,Anagnia,,,,,,,,,,,x
 b_velletri,b_velletri,,Velletri,,,,,,,,,,,x
 b_velletri,b_velletri_adj,,,,,,,,,,,,,x
-b_velletri,greek,,OuÈlitrai,,,,,,,,,,,x
+b_velletri,greek,,Ou√©litrai,,,,,,,,,,,x
 b_velletri,roman,,Vellitrae,,,,,,,,,,,x
 c_viterbo,PROV1128,,Viterbo,,,,,,,,,,,x
 c_viterbo,c_viterbo,,,,,,,,,,,,,x
@@ -1385,7 +1385,7 @@ k_sardinia,k_sardinia,,Corsicae et Sardiniae,,,,,,,,,,,x
 k_sardinia,k_sardinia_adj,,Sardinian,,,,,,,,,,,x
 d_corsica,d_corsica,,Corsica,,,,,,,,,,,x
 d_corsica,d_corsica_adj,,Corsa,,,,,,,,,,,x
-d_corsica,greek,,KorsÌs,,,,,,,,,,,x
+d_corsica,greek,,Kors√≠s,,,,,,,,,,,x
 d_corsica,roman,,Corsicae,,,,,,,,,,,x
 c_terradicomune,PROV1101,,Terra di Comune,,,,,,,,,,,x
 c_terradicomune,c_terradicomune,,,,,,,,,,,,,x
@@ -1432,13 +1432,13 @@ c_logudoro,title_female,,GIUDICATO_F,,,,,,,,,,,x
 c_logudoro,title_prefix,,GIUDICATO_OF,,,,,,,,,,,x
 b_ardara,b_ardara,,Aldara,,,,,,,,,,,x
 b_ardara,b_ardara_adj,,,,,,,,,,,,,x
-b_sassari,b_sassari,,Th‡thari,,,,,,,,,,,x
+b_sassari,b_sassari,,Th√†thari,,,,,,,,,,,x
 b_sassari,b_sassari_adj,,,,,,,,,,,,,x
-b_portotorres,b_portotorres,,PÚlthu TÚrra,,,,,,,,,,,x
+b_portotorres,b_portotorres,,P√≤lthu T√≤rra,,,,,,,,,,,x
 b_portotorres,b_portotorres_adj,,,,,,,,,,,,,x
 b_portotorres,greek,,Pyrgos Libyssonos,,,,,,,,,,,x
 b_portotorres,roman,,Turris Libyssonis,,,,,,,,,,,x
-b_alghero,b_alghero,,S'AlighËra,,,,,,,,,,,x
+b_alghero,b_alghero,,S'Aligh√®ra,,,,,,,,,,,x
 b_alghero,b_alghero_adj,,,,,,,,,,,,,x
 c_gallura,PROV1103,,Gallura,,,,,,,,,,,x
 c_gallura,c_gallura,,,,,,,,,,,,,x
@@ -1464,14 +1464,14 @@ c_arborea,title_female,,GIUDICATO_F,,,,,,,,,,,x
 c_arborea,title_prefix,,GIUDICATO_OF,,,,,,,,,,,x
 b_oristano,b_oristano,,Oristanis,,,,,,,,,,,x
 b_oristano,b_oristano_adj,,,,,,,,,,,,,x
-b_oristano,greek,,Arist·nis,,,,,,,,,,,x
+b_oristano,greek,,Arist√°nis,,,,,,,,,,,x
 b_cabras,b_cabras,,Crabas,,,,,,,,,,,x
 b_cabras,b_cabras_adj,,,,,,,,,,,,,x
-b_barumele,b_barumele,,Casteddu de Bar˘mini,,,,,,,,,,,x
+b_barumele,b_barumele,,Casteddu de Bar√πmini,,,,,,,,,,,x
 b_barumele,b_barumele_adj,,,,,,,,,,,,,x
 b_tharros,b_tharros,,Tharros,,,,,,,,,,,x
 b_tharros,b_tharros_adj,,,,,,,,,,,,,x
-b_tharros,greek,,Th‡rras,,,,,,,,,,,x
+b_tharros,greek,,Th√†rras,,,,,,,,,,,x
 b_tharros,roman,,Tarrae,,,,,,,,,,,x
 c_cagliari,PROV326,,Cagliari,,,,,,,,,,,x
 c_cagliari,c_cagliari,,,,,,,,,,,,,x
@@ -1496,7 +1496,7 @@ b_sanluri,b_sanluri,,Seddori,,,,,,,,,,,x
 b_sanluri,b_sanluri_adj,,,,,,,,,,,,,x
 k_sicily,k_sicily,,Sicilia,,,,,,,,,,,x
 k_sicily,k_sicily_adj,,Siciliani,,,,,,,,,,,x
-k_sicily,greek,,ItalÌas,,,,,,,,,,,x
+k_sicily,greek,,Ital√≠as,,,,,,,,,,,x
 k_sicily,roman,,Suburbicaria,,,,,,,,,,,x
 d_amalfi,d_amalfi,,Amalfi,,,,,,,,,,,x
 d_amalfi,d_amalfi_adj,,Amalfitani,,,,,,,,,,,x
@@ -1509,13 +1509,13 @@ c_benevento,c_benevento,,,,,,,,,,,,,x
 c_benevento,c_benevento_adj,,Benevenetian,,,,,,,,,,,x
 c_benevento,greek,,Beneuenton,,,,,,,,,,,x
 c_benevento,roman,,Beneventum,,,,,,,,,,,x
-b_benevento,b_benevento,,Ben-viÈnt,,,,,,,,,,,x
+b_benevento,b_benevento,,Ben-vi√©nt,,,,,,,,,,,x
 b_benevento,b_benevento_adj,,,,,,,,,,,,,x
 b_benevento,greek,,Beneuenton,,,,,,,,,,,x
 b_benevento,roman,,Beneventum,,,,,,,,,,,x
 b_avellino,b_avellino,,Avellino,,,,,,,,,,,x
 b_avellino,b_avellino_adj,,,,,,,,,,,,,x
-b_ariano,b_ariano,,A'rjÊno,,,,,,,,,,,x
+b_ariano,b_ariano,,A'rj√¶no,,,,,,,,,,,x
 b_ariano,b_ariano_adj,,,,,,,,,,,,,x
 b_apice,b_apice,,Apice,,,,,,,,,,,x
 b_apice,b_apice_adj,,,,,,,,,,,,,x
@@ -1542,15 +1542,15 @@ c_napoli,greek,,Neapolis,,,,,,,,,,,x
 b_napoli,b_napoli,,Napule,,,,,,,,,,,x
 b_napoli,b_napoli_adj,,,,,,,,,,,,,x
 b_napoli,greek,,Neapolis,,,,,,,,,,,x
-b_casteldellovo,b_casteldellovo,,CastiËll dell'Ov,,,,,,,,,,,x
+b_casteldellovo,b_casteldellovo,,Casti√®ll dell'Ov,,,,,,,,,,,x
 b_casteldellovo,b_casteldellovo_adj,,,,,,,,,,,,,x
 b_castelnuovo,b_castelnuovo,,Maschio Angiuino,,,,,,,,,,,x
 b_castelnuovo,b_castelnuovo_adj,,,,,,,,,,,,,x
-b_santelmo,b_santelmo,,CastiËll 'e Sant'Elmo,,,,,,,,,,,x
+b_santelmo,b_santelmo,,Casti√®ll 'e Sant'Elmo,,,,,,,,,,,x
 b_santelmo,b_santelmo_adj,,,,,,,,,,,,,x
 b_castellamare,b_castellamare,,Castiellammare 'e Stabia,,,,,,,,,,,x
 b_castellamare,b_castellamare_adj,,,,,,,,,,,,,x
-b_castellamare,greek,,St·biai,,,,,,,,,,,x
+b_castellamare,greek,,St√°biai,,,,,,,,,,,x
 b_castellamare,roman,,Stabiae,,,,,,,,,,,x
 c_aversa,PROV1107,,Aversa,,,,,,,,,,,x
 c_aversa,c_aversa,,,,,,,,,,,,,x
@@ -1578,7 +1578,7 @@ b_capua,b_capua_adj,,,,,,,,,,,,,x
 b_capua,greek,,Kapue,,,,,,,,,,,x
 b_teano,b_teano,,Teano,,,,,,,,,,,x
 b_teano,b_teano_adj,,,,,,,,,,,,,x
-b_teano,greek,,TÈanon,,,,,,,,,,,x
+b_teano,greek,,T√©anon,,,,,,,,,,,x
 b_teano,roman,,Teanum Sidicinum,,,,,,,,,,,x
 b_caserta,b_caserta,,Caserta,,,,,,,,,,,x
 b_caserta,b_caserta_adj,,,,,,,,,,,,,x
@@ -1604,13 +1604,13 @@ b_gioiasannitica,b_gioiasannitica_adj,,,,,,,,,,,,,x
 c_sangermano,PROV1318,,Aquino,,,,,,,,,,,x
 c_sangermano,c_sangermano,,,,,,,,,,,,,x
 c_sangermano,c_sangermano_adj,,Aquinate,,,,,,,,,,,x
-c_sangermano,greek,,Ako˙inon,,,,,,,,,,,x
+c_sangermano,greek,,Ako√∫inon,,,,,,,,,,,x
 c_sangermano,roman,,Aquinum,,,,,,,,,,,x
 b_montecassino,b_montecassino,,Abbazia di Montecassino,,,,,,,,,,,x
 b_montecassino,b_montecassino_adj,,,,,,,,,,,,,x
 b_aquino,b_aquino,,Aquino,,,,,,,,,,,x
 b_aquino,b_aquino_adj,,,,,,,,,,,,,x
-b_aquino,greek,,Ako˙inon,,,,,,,,,,,x
+b_aquino,greek,,Ako√∫inon,,,,,,,,,,,x
 b_aquino,roman,,Aquinum,,,,,,,,,,,x
 b_pontecorvo,b_pontecorvo,,Pontecorvo,,,,,,,,,,,x
 b_pontecorvo,b_pontecorvo_adj,,,,,,,,,,,,,x
@@ -1651,7 +1651,7 @@ b_lagopesole,b_lagopesole_adj,,,,,,,,,,,,,x
 b_troia,b_troia,,Troia,,,,,,,,,,,x
 b_troia,b_troia_adj,,,,,,,,,,,,,x
 b_troia,greek,,Aikai,,,,,,,,,,,x
-b_potenza,b_potenza,,PutËnze,,,,,,,,,,,x
+b_potenza,b_potenza,,Put√®nze,,,,,,,,,,,x
 b_potenza,b_potenza_adj,,,,,,,,,,,,,x
 b_potenza,greek,,Potentia,,,,,,,,,,,x
 c_andria,PROV1111,,Andria,,,,,,,,,,,x
@@ -1663,9 +1663,9 @@ b_trani,b_trani,,Tran,,,,,,,,,,,x
 b_trani,b_trani_adj,,,,,,,,,,,,,x
 b_trani,greek,,Turenum,,,,,,,,,,,x
 b_trani,roman,,Turenum,,,,,,,,,,,x
-b_spinazzola,b_spinazzola,,SpenazzÚle,,,,,,,,,,,x
+b_spinazzola,b_spinazzola,,Spenazz√≤le,,,,,,,,,,,x
 b_spinazzola,b_spinazzola_adj,,,,,,,,,,,,,x
-b_barletta,b_barletta,,BarlÈtte,,,,,,,,,,,x
+b_barletta,b_barletta,,Barl√©tte,,,,,,,,,,,x
 b_barletta,b_barletta_adj,,,,,,,,,,,,,x
 b_barletta,greek,,Bardulos,,,,,,,,,,,x
 b_barletta,roman,,Barulum,,,,,,,,,,,x
@@ -1700,22 +1700,22 @@ b_giovinazzo,b_giovinazzo,,Giovinazzo,,,,,,,,,,,x
 b_giovinazzo,b_giovinazzo_adj,,,,,,,,,,,,,x
 b_giovinazzo,greek,,Natiolum,,,,,,,,,,,x
 b_giovinazzo,roman,,Natiolum,,,,,,,,,,,x
-b_terlizzi,b_terlizzi,,TerrËzze,,,,,,,,,,,x
+b_terlizzi,b_terlizzi,,Terr√®zze,,,,,,,,,,,x
 b_terlizzi,b_terlizzi_adj,,,,,,,,,,,,,x
 c_gravina,PROV1110,,Gravina,,,,,,,,,,,x
 c_gravina,c_gravina,,,,,,,,,,,,,x
 c_gravina,c_gravina_adj,,Gravinese,,,,,,,,,,,x
-c_gravina,greek,,SÏlbion,,,,,,,,,,,x
+c_gravina,greek,,S√¨lbion,,,,,,,,,,,x
 c_gravina,roman,,Silvium,,,,,,,,,,,x
-b_castellaneta,b_castellaneta,,Castel‡neet,,,,,,,,,,,x
+b_castellaneta,b_castellaneta,,Castel√†neet,,,,,,,,,,,x
 b_castellaneta,b_castellaneta_adj,,,,,,,,,,,,,x
-b_gravina,b_gravina,,GravËin,,,,,,,,,,,x
+b_gravina,b_gravina,,Grav√®in,,,,,,,,,,,x
 b_gravina,b_gravina_adj,,,,,,,,,,,,,x
-b_gravina,greek,,SÏlbion,,,,,,,,,,,x
+b_gravina,greek,,S√¨lbion,,,,,,,,,,,x
 b_gravina,roman,,Silvium,,,,,,,,,,,x
 b_castellotramontano,b_castellotramontano,,Castello Tramontano,,,,,,,,,,,x
 b_castellotramontano,b_castellotramontano_adj,,,,,,,,,,,,,x
-b_matera,b_matera,,Mat‡ÎrÎ,,,,,,,,,,,x
+b_matera,b_matera,,Mat√†√´r√´,,,,,,,,,,,x
 b_matera,b_matera_adj,,,,,,,,,,,,,x
 d_loritello,d_loritello,,Loritello,,,,,,,,,,,x
 d_loritello,d_loritello_adj,,Loritellan,,,,,,,,,,,x
@@ -1725,9 +1725,9 @@ c_larino,c_larino,,,,,,,,,,,,,x
 c_larino,c_larino_adj,,Larinese,,,,,,,,,,,x
 c_larino,greek,,Larinon,,,,,,,,,,,x
 c_larino,roman,,Larinum,,,,,,,,,,,x
-b_sannicandro,b_sannicandro,,Sant' L'c‡ndr,,,,,,,,,,,x
+b_sannicandro,b_sannicandro,,Sant' L'c√†ndr,,,,,,,,,,,x
 b_sannicandro,b_sannicandro_adj,,,,,,,,,,,,,x
-b_termoli,b_termoli,,TËrml,,,,,,,,,,,x
+b_termoli,b_termoli,,T√®rml,,,,,,,,,,,x
 b_termoli,b_termoli_adj,,,,,,,,,,,,,x
 b_termoli,greek,,Bouka,,,,,,,,,,,x
 b_termoli,roman,,Buca,,,,,,,,,,,x
@@ -1738,17 +1738,17 @@ b_larinoloritello,roman,,Larinum,,,,,,,,,,,x
 c_chieti,PROV1109,,Teate,,,,,,,,,,,x
 c_chieti,c_chieti,,,,,,,,,,,,,x
 c_chieti,c_chieti_adj,,Teatino,,,,,,,,,,,x
-c_chieti,greek,,Thege‡te,,,,,,,,,,,x
+c_chieti,greek,,Thege√†te,,,,,,,,,,,x
 c_chieti,roman,,Aternum,,,,,,,,,,,x
 b_crecchio,b_crecchio,,Crecchio,,,,,,,,,,,x
 b_crecchio,b_crecchio_adj,,,,,,,,,,,,,x
-b_pescara,b_pescara,,Pesc‡re,,,,,,,,,,,x
+b_pescara,b_pescara,,Pesc√†re,,,,,,,,,,,x
 b_pescara,b_pescara_adj,,,,,,,,,,,,,x
-b_pescara,greek,,¡ternon,,,,,,,,,,,x
+b_pescara,greek,,√Åternon,,,,,,,,,,,x
 b_pescara,roman,,Aternum,,,,,,,,,,,x
 b_chieti,b_chieti,,Teate,,,,,,,,,,,x
 b_chieti,b_chieti_adj,,,,,,,,,,,,,x
-b_chieti,greek,,Thege‡te,,,,,,,,,,,x
+b_chieti,greek,,Thege√†te,,,,,,,,,,,x
 b_atri,b_atri,,Atri,,,,,,,,,,,x
 b_atri,b_atri_adj,,,,,,,,,,,,,x
 b_atri,greek,,Adria,,,,,,,,,,,x
@@ -1760,7 +1760,7 @@ c_taranto,c_taranto,,,,,,,,,,,,,x
 c_taranto,c_taranto_adj,,Tarantian,,,,,,,,,,,x
 c_taranto,greek,,Taras,,,,,,,,,,,x
 c_taranto,roman,,Tarentum,,,,,,,,,,,x
-b_taranto,b_taranto,,T‡rde,,,,,,,,,,,x
+b_taranto,b_taranto,,T√†rde,,,,,,,,,,,x
 b_taranto,b_taranto_adj,,,,,,,,,,,,,x
 b_taranto,greek,,Taras,,,,,,,,,,,x
 b_taranto,roman,,Tarentum,,,,,,,,,,,x
@@ -1768,9 +1768,9 @@ b_mottola,b_mottola,,Motele,,,,,,,,,,,x
 b_mottola,b_mottola_adj,,,,,,,,,,,,,x
 b_palagiano,b_palagiano,,Pala'scen,,,,,,,,,,,x
 b_palagiano,b_palagiano_adj,,,,,,,,,,,,,x
-b_nardotarent,b_nardotarent,,NardÛ,,,,,,,,,,,x
+b_nardotarent,b_nardotarent,,Nard√≥,,,,,,,,,,,x
 b_nardotarent,b_nardotarent_adj,,,,,,,,,,,,,x
-b_nardotarent,greek,,NaretÚn,,,,,,,,,,,x
+b_nardotarent,greek,,Naret√≤n,,,,,,,,,,,x
 b_nardotarent,roman,,Neretum,,,,,,,,,,,x
 c_lecce,PROV345,,Lecce,,,,,,,,,,,x
 c_lecce,c_lecce,,,,,,,,,,,,,x
@@ -1779,33 +1779,33 @@ c_lecce,greek,,Hydrunton,,,,,,,,,,,x
 c_lecce,roman,,Hydruntum,,,,,,,,,,,x
 b_lecce,b_lecce,,Lecce,,,,,,,,,,,x
 b_lecce,b_lecce_adj,,,,,,,,,,,,,x
-b_lecce,greek,,LoupÌai,,,,,,,,,,,x
+b_lecce,greek,,Loup√≠ai,,,,,,,,,,,x
 b_lecce,roman,,Lupiae,,,,,,,,,,,x
-b_otranto,b_otranto,,Utr‡ntu,,,,,,,,,,,x
+b_otranto,b_otranto,,Utr√†ntu,,,,,,,,,,,x
 b_otranto,b_otranto_adj,,,,,,,,,,,,,x
 b_otranto,greek,,Hydrunton,,,,,,,,,,,x
 b_otranto,roman,,Hydruntum,,,,,,,,,,,x
-b_brindisi,b_brindisi,,BrÏnnese,,,,,,,,,,,x
+b_brindisi,b_brindisi,,Br√¨nnese,,,,,,,,,,,x
 b_brindisi,b_brindisi_adj,,,,,,,,,,,,,x
 b_brindisi,greek,,Brendesion,,,,,,,,,,,x
-b_leuca,b_leuca,,LËviche,,,,,,,,,,,x
+b_leuca,b_leuca,,L√®viche,,,,,,,,,,,x
 b_leuca,b_leuca_adj,,,,,,,,,,,,,x
-b_soleto,b_soleto,,SulÌtu,,,,,,,,,,,x
+b_soleto,b_soleto,,Sul√≠tu,,,,,,,,,,,x
 b_soleto,b_soleto_adj,,,,,,,,,,,,,x
 c_conversano,PROV1135,,Conversano,,,,,,,,,,,x
 c_conversano,c_conversano,,,,,,,,,,,,,x
 c_conversano,c_conversano_adj,,Conversanese,,,,,,,,,,,x
 c_conversano,greek,,Hyria,,,,,,,,,,,x
-b_conversano,b_conversano,,CunversÈne,,,,,,,,,,,x
+b_conversano,b_conversano,,Cunvers√©ne,,,,,,,,,,,x
 b_conversano,b_conversano_adj,,,,,,,,,,,,,x
 b_conversano,greek,,Norba,,,,,,,,,,,x
 b_oria,b_oria,,Oria,,,,,,,,,,,x
 b_oria,b_oria_adj,,,,,,,,,,,,,x
 b_oria,greek,,Hyria,,,,,,,,,,,x
-b_monopoli,b_monopoli,,MenÚple,,,,,,,,,,,x
+b_monopoli,b_monopoli,,Men√≤ple,,,,,,,,,,,x
 b_monopoli,b_monopoli_adj,,,,,,,,,,,,,x
-b_monopoli,greek,,MonÚpolis,,,,,,,,,,,x
-b_santostefano,b_santostefano,,Utr‡ntu,,,,,,,,,,,x
+b_monopoli,greek,,Mon√≤polis,,,,,,,,,,,x
+b_santostefano,b_santostefano,,Utr√†ntu,,,,,,,,,,,x
 b_santostefano,b_santostefano_adj,,,,,,,,,,,,,x
 d_salerno,d_salerno,,Salerno,,,,,,,,,,,x
 d_salerno,d_salerno_adj,,Salernian,,,,,,,,,,,x
@@ -1814,14 +1814,14 @@ c_salerno,PROV336,,Salerno,,,,,,,,,,,x
 c_salerno,c_salerno,,,,,,,,,,,,,x
 c_salerno,c_salerno_adj,,Salernian,,,,,,,,,,,x
 c_salerno,greek,,Salernon,,,,,,,,,,,x
-b_salerno,b_salerno,,SaliÈrno,,,,,,,,,,,x
+b_salerno,b_salerno,,Sali√©rno,,,,,,,,,,,x
 b_salerno,b_salerno_adj,,,,,,,,,,,,,x
 b_salerno,greek,,Salernon,,,,,,,,,,,x
 b_acenzera,b_acenzera,,Acerenza,,,,,,,,,,,x
 b_acenzera,b_acenzera_adj,,,,,,,,,,,,,x
 b_acerno,b_acerno,,Acierno,,,,,,,,,,,x
 b_acerno,b_acerno_adj,,,,,,,,,,,,,x
-b_castellodiarechi,b_castellodiarechi,,CastiËll 'e Arechi,,,,,,,,,,,x
+b_castellodiarechi,b_castellodiarechi,,Casti√®ll 'e Arechi,,,,,,,,,,,x
 b_castellodiarechi,b_castellodiarechi_adj,,,,,,,,,,,,,x
 b_campagna,b_campagna,,Campagn,,,,,,,,,,,x
 b_campagna,b_campagna_adj,,,,,,,,,,,,,x
@@ -1845,7 +1845,7 @@ b_positano,b_positano,,Pusitano,,,,,,,,,,,x
 b_positano,b_positano_adj,,,,,,,,,,,,,x
 b_sorrento,b_sorrento,,Surriento,,,,,,,,,,,x
 b_sorrento,b_sorrento_adj,,,,,,,,,,,,,x
-b_sorrento,greek,,So˙renton,,,,,,,,,,,x
+b_sorrento,greek,,So√∫renton,,,,,,,,,,,x
 b_sorrento,roman,,Surrentum,,,,,,,,,,,x
 d_alvito,d_alvito,,Alvito,,,,,,,,,,,x
 d_alvito,d_alvito_adj,,Alvitian,,,,,,,,,,,x
@@ -1856,7 +1856,7 @@ c_alvito,c_alvito,,,,,,,,,,,,,x
 c_alvito,c_alvito_adj,,Alvitano,,,,,,,,,,,x
 b_alvitoabruzzo,b_alvitoabruzzo,,Alvito,,,,,,,,,,,x
 b_alvitoabruzzo,b_alvitoabruzzo_adj,,,,,,,,,,,,,x
-b_balsorano,b_balsorano,,BalzÎrana,,,,,,,,,,,x
+b_balsorano,b_balsorano,,Balz√´rana,,,,,,,,,,,x
 b_balsorano,b_balsorano_adj,,,,,,,,,,,,,x
 b_sora,b_sora,,Sora,,,,,,,,,,,x
 b_sora,b_sora_adj,,,,,,,,,,,,,x
@@ -1919,7 +1919,7 @@ b_caccuri,b_caccuri,,Caccuri,,,,,,,,,,,x
 b_caccuri,b_caccuri_adj,,,,,,,,,,,,,x
 b_rossano,b_rossano,,Russanu,,,,,,,,,,,x
 b_rossano,b_rossano_adj,,,,,,,,,,,,,x
-b_rossano,greek,,Rusi‡non,,,,,,,,,,,x
+b_rossano,greek,,Rusi√†non,,,,,,,,,,,x
 b_squillace,b_squillace,,Schidaci,,,,,,,,,,,x
 b_squillace,b_squillace_adj,,,,,,,,,,,,,x
 b_squillace,greek,,Skyllition,,,,,,,,,,,x
@@ -1937,7 +1937,7 @@ b_reggio,b_reggio,,Riggiu,,,,,,,,,,,x
 b_reggio,b_reggio_adj,,,,,,,,,,,,,x
 b_reggio,greek,,Rhegion,,,,,,,,,,,x
 b_reggio,roman,,Rhegium,,,,,,,,,,,x
-b_mileto,b_mileto,,MilÏtu,,,,,,,,,,,x
+b_mileto,b_mileto,,Mil√¨tu,,,,,,,,,,,x
 b_mileto,b_mileto_adj,,,,,,,,,,,,,x
 b_mileto,greek,,Miletos,,,,,,,,,,,x
 b_mileto,roman,,Miletus,,,,,,,,,,,x
@@ -1977,9 +1977,9 @@ b_palermo,greek,,Panormos,,,,,,,,,,,x
 b_palermo,levantine_arabic,,Balharm,,,,,,,,,,,x
 b_palermo,maghreb_arabic,,Balharm,,,,,,,,,,,x
 b_palermo,sicilian_arabic,,Balharm,,,,,,,,,,,x
-b_cefalu,b_cefalu,,Cifal˘,,,,,,,,,,,x
+b_cefalu,b_cefalu,,Cifal√π,,,,,,,,,,,x
 b_cefalu,b_cefalu_adj,,,,,,,,,,,,,x
-b_cefalu,greek,,KefaloÌdion,,,,,,,,,,,x
+b_cefalu,greek,,Kefalo√≠dion,,,,,,,,,,,x
 b_cefalu,roman,,Cephaloedium,,,,,,,,,,,x
 b_monreale,b_monreale,,Murriali,,,,,,,,,,,x
 b_monreale,b_monreale_adj,,,,,,,,,,,,,x
@@ -1991,7 +1991,7 @@ b_mistretta,b_mistretta,,Mistritta,,,,,,,,,,,x
 b_mistretta,b_mistretta_adj,,,,,,,,,,,,,x
 b_mistretta,greek,,Amestratos,,,,,,,,,,,x
 b_mistretta,roman,,Amestratus,,,,,,,,,,,x
-b_campofelicedifitalia,b_campofelicedifitalia,,Cifal‡ Diana,,,,,,,,,,,x
+b_campofelicedifitalia,b_campofelicedifitalia,,Cifal√† Diana,,,,,,,,,,,x
 b_campofelicedifitalia,b_campofelicedifitalia_adj,,,,,,,,,,,,,x
 c_messina,PROV339,,Messina,,,,,,,,,,,x
 c_messina,c_messina,,,,,,,,,,,,,x
@@ -2012,7 +2012,7 @@ b_messina,greek,,Messene,,,,,,,,,,,x
 b_messina,levantine_arabic,,Massinah,,,,,,,,,,,x
 b_messina,maghreb_arabic,,Massinah,,,,,,,,,,,x
 b_messina,sicilian_arabic,,Massinah,,,,,,,,,,,x
-b_lipari,b_lipari,,LÏpari,,,,,,,,,,,x
+b_lipari,b_lipari,,L√¨pari,,,,,,,,,,,x
 b_lipari,b_lipari_adj,,,,,,,,,,,,,x
 b_lipari,andalusian_arabic,,Libar,,,,,,,,,,,x
 b_lipari,bedouin_arabic,,Libar,,,,,,,,,,,x
@@ -2073,13 +2073,13 @@ b_catania,sicilian_arabic,,Qataniyah,,,,,,,,,,,x
 b_lentini,b_lentini,,Lentini,,,,,,,,,,,x
 b_lentini,b_lentini_adj,,,,,,,,,,,,,x
 b_lentini,greek,,Leontinoi,,,,,,,,,,,x
-b_paterno,b_paterno,,PatennÚ,,,,,,,,,,,x
+b_paterno,b_paterno,,Patenn√≤,,,,,,,,,,,x
 b_paterno,b_paterno_adj,,,,,,,,,,,,,x
 b_centuripe,b_centuripe,,Centuorbi,,,,,,,,,,,x
 b_centuripe,b_centuripe_adj,,,,,,,,,,,,,x
-b_manicace,b_manicace,,Mani‡ci,,,,,,,,,,,x
+b_manicace,b_manicace,,Mani√†ci,,,,,,,,,,,x
 b_manicace,b_manicace_adj,,,,,,,,,,,,,x
-c_modica,PROV1126,,MuÚrica,,,,,,,,,,,x
+c_modica,PROV1126,,Mu√≤rica,,,,,,,,,,,x
 c_modica,c_modica,,,,,,,,,,,,,x
 c_modica,c_modica_adj,,Modicano,,,,,,,,,,,x
 b_noto,b_noto,,Notu,,,,,,,,,,,x
@@ -2089,11 +2089,11 @@ b_chiramontesicily,b_chiramontesicily,,Muntichiaru,,,,,,,,,,,x
 b_chiramontesicily,b_chiramontesicily_adj,,,,,,,,,,,,,x
 b_caltagirone,b_caltagirone,,Caltaggiruni,,,,,,,,,,,x
 b_caltagirone,b_caltagirone_adj,,,,,,,,,,,,,x
-b_modica,b_modica,,MuÚrica,,,,,,,,,,,x
+b_modica,b_modica,,Mu√≤rica,,,,,,,,,,,x
 b_modica,b_modica_adj,,,,,,,,,,,,,x
 b_modica,greek,,Mutyce,,,,,,,,,,,x
 b_modica,roman,,Mutyce,,,,,,,,,,,x
-b_ragusasicily,b_ragusasicily,,Ra˘sa,,,,,,,,,,,x
+b_ragusasicily,b_ragusasicily,,Ra√πsa,,,,,,,,,,,x
 b_ragusasicily,b_ragusasicily_adj,,,,,,,,,,,,,x
 b_ragusasicily,greek,,Hybla Heraia,,,,,,,,,,,x
 b_ragusasicily,roman,,Hybla Heraea,,,,,,,,,,,x
@@ -2116,7 +2116,7 @@ b_agricento,egyptian_arabic,,Kerkent,,,,,,,,,,,x
 b_agricento,greek,,Akragas,,,,,,,,,,,x
 b_agricento,levantine_arabic,,Kerkent,,,,,,,,,,,x
 b_agricento,maghreb_arabic,,Kerkent,,,,,,,,,,,x
-b_canicatti,b_canicatti,,CaniattÏ,,,,,,,,,,,x
+b_canicatti,b_canicatti,,Caniatt√¨,,,,,,,,,,,x
 b_canicatti,b_canicatti_adj,,,,,,,,,,,,,x
 b_castellodiluna,b_castellodiluna,,Casteddu Luna,,,,,,,,,,,x
 b_castellodiluna,b_castellodiluna_adj,,,,,,,,,,,,,x
@@ -2124,7 +2124,7 @@ b_sciacca,b_sciacca,,Sciacca,,,,,,,,,,,x
 b_sciacca,b_sciacca_adj,,,,,,,,,,,,,x
 b_sciacca,greek,,Thermai,,,,,,,,,,,x
 b_sciacca,roman,,Thermae Selinuntinae,,,,,,,,,,,x
-c_trapani,PROV341,,Tr‡pani,,,,,,,,,,,x
+c_trapani,PROV341,,Tr√†pani,,,,,,,,,,,x
 c_trapani,c_trapani,,,,,,,,,,,,,x
 c_trapani,c_trapani_adj,,Trapanian,,,,,,,,,,,x
 c_trapani,andalusian_arabic,,Mazar,,,,,,,,,,,x
@@ -2133,7 +2133,7 @@ c_trapani,egyptian_arabic,,Mazar,,,,,,,,,,,x
 c_trapani,greek,,Drepanon,,,,,,,,,,,x
 c_trapani,levantine_arabic,,Mazar,,,,,,,,,,,x
 c_trapani,maghreb_arabic,,Mazar,,,,,,,,,,,x
-b_trapani,b_trapani,,Tr‡pani,,,,,,,,,,,x
+b_trapani,b_trapani,,Tr√†pani,,,,,,,,,,,x
 b_trapani,b_trapani_adj,,,,,,,,,,,,,x
 b_trapani,greek,,Drepanon,,,,,,,,,,,x
 b_trapani,roman,,Drepanum,,,,,,,,,,,x
@@ -2144,7 +2144,7 @@ b_mazara,bedouin_arabic,,Mazar,,,,,,,,,,,x
 b_mazara,egyptian_arabic,,Mazar,,,,,,,,,,,x
 b_mazara,levantine_arabic,,Mazar,,,,,,,,,,,x
 b_mazara,maghreb_arabic,,Mazar,,,,,,,,,,,x
-b_erice,b_erice,,»rici,,,,,,,,,,,x
+b_erice,b_erice,,√àrici,,,,,,,,,,,x
 b_erice,b_erice_adj,,,,,,,,,,,,,x
 b_erice,greek,,Eryx,,,,,,,,,,,x
 b_marsala,b_marsala,,Maissala,,,,,,,,,,,x
@@ -2186,9 +2186,9 @@ b_rialto,b_rialto,,Rialto,,,,,,,,,,,x
 b_rialto,b_rialto_adj,,,,,,,,,,,,,x
 b_pallestrina,b_pallestrina,,Pallestrina,,,,,,,,,,,x
 b_pallestrina,b_pallestrina_adj,,,,,,,,,,,,,x
-b_chioggia,b_chioggia,,CiÛxa,,,,,,,,,,,x
+b_chioggia,b_chioggia,,Ci√≥xa,,,,,,,,,,,x
 b_chioggia,b_chioggia_adj,,,,,,,,,,,,,x
-b_jesolo,b_jesolo,,GËxolo,,,,,,,,,,,x
+b_jesolo,b_jesolo,,G√®xolo,,,,,,,,,,,x
 b_jesolo,b_jesolo_adj,,,,,,,,,,,,,x
 b_murano,b_murano,,Muran,,,,,,,,,,,x
 b_murano,b_murano_adj,,,,,,,,,,,,,x

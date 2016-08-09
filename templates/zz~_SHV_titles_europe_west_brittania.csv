@@ -47,28 +47,28 @@ k_england,cornish,,Lloegyr,,,,,,,,,,,x
 k_england,k_england_adj_cornish,,Lloegyran,,,,,,,,,,,x
 k_england,cumbric,,Lloegyr,,,,,,,,,,,x
 k_england,k_england_adj_cumbric,,Lloegyran,,,,,,,,,,,x
-k_england,danish,,∆nglandi,,,,,,,,,,,x
-k_england,k_england_adj_danish,,∆nglandr,,,,,,,,,,,x
+k_england,danish,,√Ünglandi,,,,,,,,,,,x
+k_england,k_england_adj_danish,,√Ünglandr,,,,,,,,,,,x
 k_england,english,,Engelond,,,,,,,,,,,x
 k_england,frankish,,Angleterre,,,,,,,,,,,x
-k_england,gothic,,∆nglandi,,,,,,,,,,,x
-k_england,k_england_adj_gothic,,∆nglandr,,,,,,,,,,,x
+k_england,gothic,,√Ünglandi,,,,,,,,,,,x
+k_england,k_england_adj_gothic,,√Ünglandr,,,,,,,,,,,x
 k_england,greek,,Brittannia,,,,,,,,,,,x
-k_england,k_england_adj_icelandic,,∆nglandr,,,,,,,,,,,x
+k_england,k_england_adj_icelandic,,√Ünglandr,,,,,,,,,,,x
 k_england,irish,,Lloegyr,,,,,,,,,,,x
 k_england,k_england_adj_irish,,Lloegyran,,,,,,,,,,,x
-k_england,norman,,AngliÈtËrre,,,,,,,,,,,x
-k_england,norse,,∆nglandi,,,,,,,,,,,x
-k_england,norsegaelic,,∆nglandi,,,,,,,,,,,x
-k_england,k_england_adj_norsegaelic,,∆nglandr,,,,,,,,,,,x
-k_england,norwegian,,∆nglandi,,,,,,,,,,,x
-k_england,k_england_adj_norwegian,,∆nglandr,,,,,,,,,,,x
+k_england,norman,,Angli√©t√®rre,,,,,,,,,,,x
+k_england,norse,,√Ünglandi,,,,,,,,,,,x
+k_england,norsegaelic,,√Ünglandi,,,,,,,,,,,x
+k_england,k_england_adj_norsegaelic,,√Ünglandr,,,,,,,,,,,x
+k_england,norwegian,,√Ünglandi,,,,,,,,,,,x
+k_england,k_england_adj_norwegian,,√Ünglandr,,,,,,,,,,,x
 k_england,roman,,Britanniae,,,,,,,,,,,x
 k_england,saxon,,Englaland,,,,,,,,,,,x
 k_england,k_england_adj_saxon,,Engelisc,,,,,,,,,,,x
 k_england,scottish,,Lloegyr,,,,,,,,,,,x
 k_england,k_england_adj_scottish,,Lloegyran,,,,,,,,,,,x
-k_england,swedish,,∆nglandi,,,,,,,,,,,x
+k_england,swedish,,√Ünglandi,,,,,,,,,,,x
 k_england,welsh,,Lloegyr,,,,,,,,,,,x
 k_england,k_england_adj_welsh,,Lloegyran,,,,,,,,,,,x
 d_somerset,d_somerset,,Wessex,,,,,,,,,,,x
@@ -126,8 +126,8 @@ c_winchester,icelandic,,Hamtun,,,,,,,,,,,x
 c_winchester,c_winchester_adj_icelandic,,Hamtunr,,,,,,,,,,,x
 c_winchester,irish,,Caer Gwynntguic,,,,,,,,,,,x
 c_winchester,c_winchester_adj_irish,,Gwynntguican,,,,,,,,,,,x
-c_winchester,norman,,OuÓnchÍtre,,,,,,,,,,,x
-c_winchester,c_winchester_adj_norman,,OuÓnchÍtre,,,,,,,,,,,x
+c_winchester,norman,,Ou√Ænch√™tre,,,,,,,,,,,x
+c_winchester,c_winchester_adj_norman,,Ou√Ænch√™tre,,,,,,,,,,,x
 c_winchester,norse,,Hamtun,,,,,,,,,,,x
 c_winchester,c_winchester_adj_norse,,Hamtunr,,,,,,,,,,,x
 c_winchester,norsegaelic,,Hamtun,,,,,,,,,,,x
@@ -166,7 +166,7 @@ b_winchester,gothic,,Wintanceaster,,,,,,,,,,,x
 b_winchester,greek,,Ouenta,,,,,,,,,,,x
 b_winchester,icelandic,,Wintanceaster,,,,,,,,,,,x
 b_winchester,irish,,Caerwynt,,,,,,,,,,,x
-b_winchester,norman,,OuÓnchÍtre,,,,,,,,,,,x
+b_winchester,norman,,Ou√Ænch√™tre,,,,,,,,,,,x
 b_winchester,norse,,Wintanceaster,,,,,,,,,,,x
 b_winchester,norsegaelic,,Wintanceaster,,,,,,,,,,,x
 b_winchester,norwegian,,Wintanceaster,,,,,,,,,,,x
@@ -305,35 +305,35 @@ b_carisbrooke,saxon,,Adrintun,,,,,,,,,,,x
 c_dorset,PROV27,,Dorset,,,,,,,,,,,x
 c_dorset,c_dorset,,,,,,,,,,,,,x
 c_dorset,c_dorset_adj,,Dorsetian,,,,,,,,,,,x
-c_dorset,anglonorse,,DornsÊte,,,,,,,,,,,x
+c_dorset,anglonorse,,Dorns√¶te,,,,,,,,,,,x
 c_dorset,breton,,Caer Durnac,,,,,,,,,,,x
 c_dorset,c_dorset_adj_breton,,Durnacan,,,,,,,,,,,x
 c_dorset,cornish,,Caer Durnac,,,,,,,,,,,x
 c_dorset,c_dorset_adj_cornish,,Durnacan,,,,,,,,,,,x
 c_dorset,cumbric,,Caer Durnac,,,,,,,,,,,x
 c_dorset,c_dorset_adj_cumbric,,Durnacan,,,,,,,,,,,x
-c_dorset,danish,,DornsÊte,,,,,,,,,,,x
-c_dorset,c_dorset_adj_danish,,DornsÊtr,,,,,,,,,,,x
-c_dorset,gothic,,DornsÊte,,,,,,,,,,,x
-c_dorset,c_dorset_adj_gothic,,DornsÊtr,,,,,,,,,,,x
+c_dorset,danish,,Dorns√¶te,,,,,,,,,,,x
+c_dorset,c_dorset_adj_danish,,Dorns√¶tr,,,,,,,,,,,x
+c_dorset,gothic,,Dorns√¶te,,,,,,,,,,,x
+c_dorset,c_dorset_adj_gothic,,Dorns√¶tr,,,,,,,,,,,x
 c_dorset,greek,,Durnovaria,,,,,,,,,,,x
-c_dorset,icelandic,,DornsÊte,,,,,,,,,,,x
-c_dorset,c_dorset_adj_icelandic,,DornsÊtr,,,,,,,,,,,x
+c_dorset,icelandic,,Dorns√¶te,,,,,,,,,,,x
+c_dorset,c_dorset_adj_icelandic,,Dorns√¶tr,,,,,,,,,,,x
 c_dorset,irish,,Caer Durnac,,,,,,,,,,,x
 c_dorset,c_dorset_adj_irish,,Durnacan,,,,,,,,,,,x
-c_dorset,norse,,DornsÊte,,,,,,,,,,,x
-c_dorset,c_dorset_adj_norse,,DornsÊtr,,,,,,,,,,,x
-c_dorset,norsegaelic,,DornsÊte,,,,,,,,,,,x
-c_dorset,c_dorset_adj_norsegaelic,,DornsÊtr,,,,,,,,,,,x
-c_dorset,norwegian,,DornsÊte,,,,,,,,,,,x
-c_dorset,c_dorset_adj_norwegian,,DornsÊtr,,,,,,,,,,,x
+c_dorset,norse,,Dorns√¶te,,,,,,,,,,,x
+c_dorset,c_dorset_adj_norse,,Dorns√¶tr,,,,,,,,,,,x
+c_dorset,norsegaelic,,Dorns√¶te,,,,,,,,,,,x
+c_dorset,c_dorset_adj_norsegaelic,,Dorns√¶tr,,,,,,,,,,,x
+c_dorset,norwegian,,Dorns√¶te,,,,,,,,,,,x
+c_dorset,c_dorset_adj_norwegian,,Dorns√¶tr,,,,,,,,,,,x
 c_dorset,roman,,Durnovaria,,,,,,,,,,,x
-c_dorset,saxon,,DornsÊte,,,,,,,,,,,x
-c_dorset,c_dorset_adj_saxon,,DornsÊtisc,,,,,,,,,,,x
+c_dorset,saxon,,Dorns√¶te,,,,,,,,,,,x
+c_dorset,c_dorset_adj_saxon,,Dorns√¶tisc,,,,,,,,,,,x
 c_dorset,scottish,,Caer Durnac,,,,,,,,,,,x
 c_dorset,c_dorset_adj_scottish,,Durnacan,,,,,,,,,,,x
-c_dorset,swedish,,DornsÊte,,,,,,,,,,,x
-c_dorset,c_dorset_adj_swedish,,DornsÊtr,,,,,,,,,,,x
+c_dorset,swedish,,Dorns√¶te,,,,,,,,,,,x
+c_dorset,c_dorset_adj_swedish,,Dorns√¶tr,,,,,,,,,,,x
 c_dorset,welsh,,Caer Durnac,,,,,,,,,,,x
 c_dorset,c_dorset_adj_welsh,,Durnacan,,,,,,,,,,,x
 b_wareham,b_wareham,,Wareham,,,,,,,,,,,x
@@ -400,64 +400,64 @@ b_sherborne,swedish,,Scirburna,,,,,,,,,,,x
 c_somerset,PROV28,,Somerset,,,,,,,,,,,x
 c_somerset,c_somerset,,,,,,,,,,,,,x
 c_somerset,c_somerset_adj,,Somersetian,,,,,,,,,,,x
-c_somerset,anglonorse,,SumorsÊte,,,,,,,,,,,x
+c_somerset,anglonorse,,Sumors√¶te,,,,,,,,,,,x
 c_somerset,breton,,Glastenning,,,,,,,,,,,x
 c_somerset,c_somerset_adj_breton,,Glastenningian,,,,,,,,,,,x
 c_somerset,cornish,,Glastenning,,,,,,,,,,,x
 c_somerset,c_somerset_adj_cornish,,Glastenningian,,,,,,,,,,,x
 c_somerset,cumbric,,Glastenning,,,,,,,,,,,x
 c_somerset,c_somerset_adj_cumbric,,Glastenningian,,,,,,,,,,,x
-c_somerset,danish,,SumorsÊte,,,,,,,,,,,x
-c_somerset,c_somerset_adj_danish,,SumorsÊtr,,,,,,,,,,,x
-c_somerset,gothic,,SumorsÊte,,,,,,,,,,,x
-c_somerset,c_somerset_adj_gothic,,SumorsÊtr,,,,,,,,,,,x
-c_somerset,icelandic,,SumorsÊte,,,,,,,,,,,x
-c_somerset,c_somerset_adj_icelandic,,SumorsÊtr,,,,,,,,,,,x
+c_somerset,danish,,Sumors√¶te,,,,,,,,,,,x
+c_somerset,c_somerset_adj_danish,,Sumors√¶tr,,,,,,,,,,,x
+c_somerset,gothic,,Sumors√¶te,,,,,,,,,,,x
+c_somerset,c_somerset_adj_gothic,,Sumors√¶tr,,,,,,,,,,,x
+c_somerset,icelandic,,Sumors√¶te,,,,,,,,,,,x
+c_somerset,c_somerset_adj_icelandic,,Sumors√¶tr,,,,,,,,,,,x
 c_somerset,irish,,Glastenning,,,,,,,,,,,x
 c_somerset,c_somerset_adj_irish,,Glastenningian,,,,,,,,,,,x
-c_somerset,norse,,SumorsÊte,,,,,,,,,,,x
-c_somerset,c_somerset_adj_norse,,SumorsÊtr,,,,,,,,,,,x
-c_somerset,norsegaelic,,SumorsÊte,,,,,,,,,,,x
-c_somerset,c_somerset_adj_norsegaelic,,SumorsÊtr,,,,,,,,,,,x
-c_somerset,norwegian,,SumorsÊte,,,,,,,,,,,x
-c_somerset,c_somerset_adj_norwegian,,SumorsÊtr,,,,,,,,,,,x
-c_somerset,saxon,,SumorsÊte,,,,,,,,,,,x
-c_somerset,c_somerset_adj_saxon,,SumorsÊtisc,,,,,,,,,,,x
+c_somerset,norse,,Sumors√¶te,,,,,,,,,,,x
+c_somerset,c_somerset_adj_norse,,Sumors√¶tr,,,,,,,,,,,x
+c_somerset,norsegaelic,,Sumors√¶te,,,,,,,,,,,x
+c_somerset,c_somerset_adj_norsegaelic,,Sumors√¶tr,,,,,,,,,,,x
+c_somerset,norwegian,,Sumors√¶te,,,,,,,,,,,x
+c_somerset,c_somerset_adj_norwegian,,Sumors√¶tr,,,,,,,,,,,x
+c_somerset,saxon,,Sumors√¶te,,,,,,,,,,,x
+c_somerset,c_somerset_adj_saxon,,Sumors√¶tisc,,,,,,,,,,,x
 c_somerset,scottish,,Glastenning,,,,,,,,,,,x
 c_somerset,c_somerset_adj_scottish,,Glastenningian,,,,,,,,,,,x
-c_somerset,swedish,,SumorsÊte,,,,,,,,,,,x
-c_somerset,c_somerset_adj_swedish,,SumorsÊtr,,,,,,,,,,,x
+c_somerset,swedish,,Sumors√¶te,,,,,,,,,,,x
+c_somerset,c_somerset_adj_swedish,,Sumors√¶tr,,,,,,,,,,,x
 c_somerset,welsh,,Glastenning,,,,,,,,,,,x
 c_somerset,c_somerset_adj_welsh,,Glastenningian,,,,,,,,,,,x
 b_somerton,b_somerton,,Somerton,,,,,,,,,,,x
 b_somerton,b_somerton_adj,,,,,,,,,,,,,x
 b_somerton,anglonorse,,Sumortun,,,,,,,,,,,x
-b_somerton,danish,,Sumort¸n,,,,,,,,,,,x
-b_somerton,gothic,,Sumort¸n,,,,,,,,,,,x
-b_somerton,icelandic,,Sumort¸n,,,,,,,,,,,x
+b_somerton,danish,,Sumort√ºn,,,,,,,,,,,x
+b_somerton,gothic,,Sumort√ºn,,,,,,,,,,,x
+b_somerton,icelandic,,Sumort√ºn,,,,,,,,,,,x
 b_somerton,norman,,Sumertone,,,,,,,,,,,x
-b_somerton,norse,,Sumort¸n,,,,,,,,,,,x
-b_somerton,norsegaelic,,Sumort¸n,,,,,,,,,,,x
-b_somerton,norwegian,,Sumort¸n,,,,,,,,,,,x
+b_somerton,norse,,Sumort√ºn,,,,,,,,,,,x
+b_somerton,norsegaelic,,Sumort√ºn,,,,,,,,,,,x
+b_somerton,norwegian,,Sumort√ºn,,,,,,,,,,,x
 b_somerton,saxon,,Sumortun,,,,,,,,,,,x
-b_somerton,swedish,,Sumort¸n,,,,,,,,,,,x
+b_somerton,swedish,,Sumort√ºn,,,,,,,,,,,x
 b_bath,b_bath,,Bath,,,,,,,,,,,x
 b_bath,b_bath_adj,,,,,,,,,,,,,x
-b_bath,anglonorse,,Baum,,,,,,,,,,,x
+b_bath,anglonorse,,Ba√∞um,,,,,,,,,,,x
 b_bath,breton,,Caer Faddon,,,,,,,,,,,x
 b_bath,cornish,,Caer Faddon,,,,,,,,,,,x
 b_bath,cumbric,,Caer Faddon,,,,,,,,,,,x
-b_bath,danish,,Baum,,,,,,,,,,,x
-b_bath,gothic,,Baum,,,,,,,,,,,x
-b_bath,icelandic,,Baum,,,,,,,,,,,x
+b_bath,danish,,Ba√∞um,,,,,,,,,,,x
+b_bath,gothic,,Ba√∞um,,,,,,,,,,,x
+b_bath,icelandic,,Ba√∞um,,,,,,,,,,,x
 b_bath,irish,,Caer Faddon,,,,,,,,,,,x
 b_bath,norman,,Ba,,,,,,,,,,,x
-b_bath,norse,,Baum,,,,,,,,,,,x
-b_bath,norsegaelic,,Baum,,,,,,,,,,,x
-b_bath,norwegian,,Baum,,,,,,,,,,,x
+b_bath,norse,,Ba√∞um,,,,,,,,,,,x
+b_bath,norsegaelic,,Ba√∞um,,,,,,,,,,,x
+b_bath,norwegian,,Ba√∞um,,,,,,,,,,,x
 b_bath,saxon,,Bathum,,,,,,,,,,,x
 b_bath,scottish,,Caer Faddon,,,,,,,,,,,x
-b_bath,swedish,,Baum,,,,,,,,,,,x
+b_bath,swedish,,Ba√∞um,,,,,,,,,,,x
 b_bath,welsh,,Caer Faddon,,,,,,,,,,,x
 b_wells,b_wells,,Wells,,,,,,,,,,,x
 b_wells,b_wells_adj,,,,,,,,,,,,,x
@@ -498,15 +498,15 @@ c_berks,c_berks,,,,,,,,,,,,,x
 c_berks,c_berks_adj,,Berkshireish,,,,,,,,,,,x
 b_abingdon,b_abingdon,,Abingdon,,,,,,,,,,,x
 b_abingdon,b_abingdon_adj,,,,,,,,,,,,,x
-b_abingdon,anglonorse,,∆bbandun,,,,,,,,,,,x
-b_abingdon,danish,,∆bband¸n,,,,,,,,,,,x
-b_abingdon,gothic,,∆bband¸n,,,,,,,,,,,x
-b_abingdon,icelandic,,∆bband¸n,,,,,,,,,,,x
-b_abingdon,norse,,∆bband¸n,,,,,,,,,,,x
-b_abingdon,norsegaelic,,∆bband¸n,,,,,,,,,,,x
-b_abingdon,norwegian,,∆bband¸n,,,,,,,,,,,x
-b_abingdon,saxon,,∆bbandun,,,,,,,,,,,x
-b_abingdon,swedish,,∆bband¸n,,,,,,,,,,,x
+b_abingdon,anglonorse,,√Übbandun,,,,,,,,,,,x
+b_abingdon,danish,,√Übband√ºn,,,,,,,,,,,x
+b_abingdon,gothic,,√Übband√ºn,,,,,,,,,,,x
+b_abingdon,icelandic,,√Übband√ºn,,,,,,,,,,,x
+b_abingdon,norse,,√Übband√ºn,,,,,,,,,,,x
+b_abingdon,norsegaelic,,√Übband√ºn,,,,,,,,,,,x
+b_abingdon,norwegian,,√Übband√ºn,,,,,,,,,,,x
+b_abingdon,saxon,,√Übbandun,,,,,,,,,,,x
+b_abingdon,swedish,,√Übband√ºn,,,,,,,,,,,x
 b_wallingford,b_wallingford,,Wallingford,,,,,,,,,,,x
 b_wallingford,b_wallingford_adj,,,,,,,,,,,,,x
 b_wallingford,anglonorse,,Wallingaforda,,,,,,,,,,,x
@@ -610,7 +610,7 @@ b_canterbury,danish,,Cantawaraburgh,,,,,,,,,,,x
 b_canterbury,gothic,,Cantawaraborg,,,,,,,,,,,x
 b_canterbury,icelandic,,Cantawaraborg,,,,,,,,,,,x
 b_canterbury,irish,,Caergaint,,,,,,,,,,,x
-b_canterbury,norman,,CantorbiÈthe,,,,,,,,,,,x
+b_canterbury,norman,,Cantorbi√©the,,,,,,,,,,,x
 b_canterbury,norse,,Cantawaraborg,,,,,,,,,,,x
 b_canterbury,norsegaelic,,Cantawaraborg,,,,,,,,,,,x
 b_canterbury,norwegian,,Cantawaraborg,,,,,,,,,,,x
@@ -644,36 +644,36 @@ b_rochester,swedish,,Hrofescester,,,,,,,,,,,x
 b_sandwich,b_sandwich,,Sandwich,,,,,,,,,,,x
 b_sandwich,b_sandwich_adj,,,,,,,,,,,,,x
 b_sandwich,anglonorse,,Sandwic,,,,,,,,,,,x
-b_sandwich,danish,,SandwÔc,,,,,,,,,,,x
-b_sandwich,gothic,,SandwÔc,,,,,,,,,,,x
-b_sandwich,icelandic,,SandwÔc,,,,,,,,,,,x
-b_sandwich,norse,,SandwÔc,,,,,,,,,,,x
-b_sandwich,norsegaelic,,SandwÔc,,,,,,,,,,,x
-b_sandwich,norwegian,,SandwÔc,,,,,,,,,,,x
+b_sandwich,danish,,Sandw√Øc,,,,,,,,,,,x
+b_sandwich,gothic,,Sandw√Øc,,,,,,,,,,,x
+b_sandwich,icelandic,,Sandw√Øc,,,,,,,,,,,x
+b_sandwich,norse,,Sandw√Øc,,,,,,,,,,,x
+b_sandwich,norsegaelic,,Sandw√Øc,,,,,,,,,,,x
+b_sandwich,norwegian,,Sandw√Øc,,,,,,,,,,,x
 b_sandwich,saxon,,Sandwic,,,,,,,,,,,x
-b_sandwich,swedish,,SandwÔc,,,,,,,,,,,x
+b_sandwich,swedish,,Sandw√Øc,,,,,,,,,,,x
 b_saltwood,b_saltwood,,Saltwood,,,,,,,,,,,x
 b_saltwood,b_saltwood_adj,,,,,,,,,,,,,x
 c_surrey,PROV24,,Surrey,,,,,,,,,,,x
 c_surrey,c_surrey,,,,,,,,,,,,,x
 c_surrey,c_surrey_adj,,Surreyian,,,,,,,,,,,x
 c_surrey,anglonorse,,Suthrige,,,,,,,,,,,x
-c_surrey,danish,,SurÌki,,,,,,,,,,,x
-c_surrey,c_surrey_adj_danish,,SurÌkir,,,,,,,,,,,x
-c_surrey,gothic,,SurÌki,,,,,,,,,,,x
-c_surrey,c_surrey_adj_gothic,,SurÌkir,,,,,,,,,,,x
-c_surrey,icelandic,,SurÌki,,,,,,,,,,,x
-c_surrey,c_surrey_adj_icelandic,,SurÌkir,,,,,,,,,,,x
-c_surrey,norse,,SurÌki,,,,,,,,,,,x
-c_surrey,c_surrey_adj_norse,,SurÓkir,,,,,,,,,,,x
-c_surrey,norsegaelic,,SurÌki,,,,,,,,,,,x
-c_surrey,c_surrey_adj_norsegaelic,,SurÌkir,,,,,,,,,,,x
-c_surrey,norwegian,,SurÌki,,,,,,,,,,,x
-c_surrey,c_surrey_adj_norwegian,,SurÌkir,,,,,,,,,,,x
+c_surrey,danish,,Su√∞r√≠ki,,,,,,,,,,,x
+c_surrey,c_surrey_adj_danish,,Su√∞r√≠kir,,,,,,,,,,,x
+c_surrey,gothic,,Su√∞r√≠ki,,,,,,,,,,,x
+c_surrey,c_surrey_adj_gothic,,Su√∞r√≠kir,,,,,,,,,,,x
+c_surrey,icelandic,,Su√∞r√≠ki,,,,,,,,,,,x
+c_surrey,c_surrey_adj_icelandic,,Su√∞r√≠kir,,,,,,,,,,,x
+c_surrey,norse,,Su√∞r√≠ki,,,,,,,,,,,x
+c_surrey,c_surrey_adj_norse,,Su√∞r√Ækir,,,,,,,,,,,x
+c_surrey,norsegaelic,,Su√∞r√≠ki,,,,,,,,,,,x
+c_surrey,c_surrey_adj_norsegaelic,,Su√∞r√≠kir,,,,,,,,,,,x
+c_surrey,norwegian,,Su√∞r√≠ki,,,,,,,,,,,x
+c_surrey,c_surrey_adj_norwegian,,Su√∞r√≠kir,,,,,,,,,,,x
 c_surrey,saxon,,Suthrige,,,,,,,,,,,x
-c_surrey,c_surrey_adj_saxon,,S¸˛rÔgisc,,,,,,,,,,,x
-c_surrey,swedish,,SurÌki,,,,,,,,,,,x
-c_surrey,c_surrey_adj_swedish,,SurÌkir,,,,,,,,,,,x
+c_surrey,c_surrey_adj_saxon,,S√º√ær√Øgisc,,,,,,,,,,,x
+c_surrey,swedish,,Su√∞r√≠ki,,,,,,,,,,,x
+c_surrey,c_surrey_adj_swedish,,Su√∞r√≠kir,,,,,,,,,,,x
 b_southwark,b_southwark,,Southwark,,,,,,,,,,,x
 b_southwark,b_southwark_adj,,,,,,,,,,,,,x
 b_southwark,anglonorse,,Suthriganaweorc,,,,,,,,,,,x
@@ -730,26 +730,26 @@ c_sussex,c_sussex_adj_breton,,Rheginan,,,,,,,,,,,x
 c_sussex,cornish,,Rhegin,,,,,,,,,,,x
 c_sussex,c_sussex_adj_cornish,,Rheginan,,,,,,,,,,,x
 c_sussex,c_sussex_adj_cumbric,,Rheginan,,,,,,,,,,,x
-c_sussex,danish,,Suseaxe,,,,,,,,,,,x
-c_sussex,c_sussex_adj_danish,,Suseaxr,,,,,,,,,,,x
-c_sussex,gothic,,Suseaxe,,,,,,,,,,,x
-c_sussex,c_sussex_adj_gothic,,Suseaxr,,,,,,,,,,,x
-c_sussex,icelandic,,Suseaxe,,,,,,,,,,,x
-c_sussex,c_sussex_adj_icelandic,,Suseaxr,,,,,,,,,,,x
+c_sussex,danish,,Su√∞seaxe,,,,,,,,,,,x
+c_sussex,c_sussex_adj_danish,,Su√∞seaxr,,,,,,,,,,,x
+c_sussex,gothic,,Su√∞seaxe,,,,,,,,,,,x
+c_sussex,c_sussex_adj_gothic,,Su√∞seaxr,,,,,,,,,,,x
+c_sussex,icelandic,,Su√∞seaxe,,,,,,,,,,,x
+c_sussex,c_sussex_adj_icelandic,,Su√∞seaxr,,,,,,,,,,,x
 c_sussex,irish,,Rhegin,,,,,,,,,,,x
-c_sussex,c_sussex_adj_irish,,Suseaxr,,,,,,,,,,,x
-c_sussex,norse,,Suseaxe,,,,,,,,,,,x
-c_sussex,c_sussex_adj_norse,,Suseaxr,,,,,,,,,,,x
-c_sussex,norsegaelic,,Suseaxe,,,,,,,,,,,x
-c_sussex,c_sussex_adj_norsegaelic,,Suseaxr,,,,,,,,,,,x
-c_sussex,norwegian,,Suseaxe,,,,,,,,,,,x
-c_sussex,c_sussex_adj_norwegian,,Suseaxr,,,,,,,,,,,x
+c_sussex,c_sussex_adj_irish,,Su√∞seaxr,,,,,,,,,,,x
+c_sussex,norse,,Su√∞seaxe,,,,,,,,,,,x
+c_sussex,c_sussex_adj_norse,,Su√∞seaxr,,,,,,,,,,,x
+c_sussex,norsegaelic,,Su√∞seaxe,,,,,,,,,,,x
+c_sussex,c_sussex_adj_norsegaelic,,Su√∞seaxr,,,,,,,,,,,x
+c_sussex,norwegian,,Su√∞seaxe,,,,,,,,,,,x
+c_sussex,c_sussex_adj_norwegian,,Su√∞seaxr,,,,,,,,,,,x
 c_sussex,saxon,,Suthseaxe,,,,,,,,,,,x
-c_sussex,c_sussex_adj_saxon,,S¸˛seaxna,,,,,,,,,,,x
+c_sussex,c_sussex_adj_saxon,,S√º√æseaxna,,,,,,,,,,,x
 c_sussex,scottish,,Rhegin,,,,,,,,,,,x
-c_sussex,c_sussex_adj_scottish,,Suseaxr,,,,,,,,,,,x
-c_sussex,swedish,,Suseaxe,,,,,,,,,,,x
-c_sussex,c_sussex_adj_swedish,,Suseaxr,,,,,,,,,,,x
+c_sussex,c_sussex_adj_scottish,,Su√∞seaxr,,,,,,,,,,,x
+c_sussex,swedish,,Su√∞seaxe,,,,,,,,,,,x
+c_sussex,c_sussex_adj_swedish,,Su√∞seaxr,,,,,,,,,,,x
 c_sussex,welsh,,Rhegin,,,,,,,,,,,x
 c_sussex,c_sussex_adj_welsh,,Rheginan,,,,,,,,,,,x
 b_pevensey,b_pevensey,,Pevensey,,,,,,,,,,,x
@@ -762,8 +762,8 @@ b_lewes,anglonorse,,Hlaewas,,,,,,,,,,,x
 b_lewes,saxon,,Hlaewas,,,,,,,,,,,x
 b_arundel,b_arundel,,Arundel,,,,,,,,,,,x
 b_arundel,b_arundel_adj,,,,,,,,,,,,,x
-b_arundel,anglonorse,,EarndÊl,,,,,,,,,,,x
-b_arundel,saxon,,EarndÊl,,,,,,,,,,,x
+b_arundel,anglonorse,,Earnd√¶l,,,,,,,,,,,x
+b_arundel,saxon,,Earnd√¶l,,,,,,,,,,,x
 b_chichester,b_chichester,,Chichester,,,,,,,,,,,x
 b_chichester,b_chichester_adj,,,,,,,,,,,,,x
 b_chichester,anglonorse,,Cissaceaster,,,,,,,,,,,x
@@ -874,16 +874,16 @@ b_launceston,anglonorse,,Dunhaefod,,,,,,,,,,,x
 b_launceston,breton,,Lannstevan,,,,,,,,,,,x
 b_launceston,cornish,,Lannstevan,,,,,,,,,,,x
 b_launceston,cumbric,,Lannstevan,,,,,,,,,,,x
-b_launceston,danish,,D¸nhaefod,,,,,,,,,,,x
-b_launceston,gothic,,D¸nhaefod,,,,,,,,,,,x
-b_launceston,icelandic,,D¸nhaefod,,,,,,,,,,,x
+b_launceston,danish,,D√ºnhaefod,,,,,,,,,,,x
+b_launceston,gothic,,D√ºnhaefod,,,,,,,,,,,x
+b_launceston,icelandic,,D√ºnhaefod,,,,,,,,,,,x
 b_launceston,irish,,Lannstevan,,,,,,,,,,,x
-b_launceston,norse,,D¸nhaefod,,,,,,,,,,,x
-b_launceston,norsegaelic,,D¸nhaefod,,,,,,,,,,,x
-b_launceston,norwegian,,D¸nhaefod,,,,,,,,,,,x
+b_launceston,norse,,D√ºnhaefod,,,,,,,,,,,x
+b_launceston,norsegaelic,,D√ºnhaefod,,,,,,,,,,,x
+b_launceston,norwegian,,D√ºnhaefod,,,,,,,,,,,x
 b_launceston,saxon,,Dunhaefod,,,,,,,,,,,x
 b_launceston,scottish,,Lannstevan,,,,,,,,,,,x
-b_launceston,swedish,,D¸nhaefod,,,,,,,,,,,x
+b_launceston,swedish,,D√ºnhaefod,,,,,,,,,,,x
 b_launceston,welsh,,Lannstevan,,,,,,,,,,,x
 b_restormel,b_restormel,,Restormel,,,,,,,,,,,x
 b_restormel,b_restormel_adj,,,,,,,,,,,,,x
@@ -1319,34 +1319,34 @@ b_ludlow,welsh,,Llwydlo,,,,,,,,,,,x
 c_warwick,PROV67,,Warwick,,,,,,,,,,,x
 c_warwick,c_warwick,,,,,,,,,,,,,x
 c_warwick,c_warwick_adj,,Warwickshirean,,,,,,,,,,,x
-c_warwick,anglonorse,,WÊring,,,,,,,,,,,x
-c_warwick,danish,,WÊring,,,,,,,,,,,x
-c_warwick,c_warwick_adj_danish,,WÊringr,,,,,,,,,,,x
-c_warwick,gothic,,WÊring,,,,,,,,,,,x
-c_warwick,c_warwick_adj_gothic,,WÊringr,,,,,,,,,,,x
-c_warwick,icelandic,,WÊring,,,,,,,,,,,x
-c_warwick,c_warwick_adj_icelandic,,WÊringr,,,,,,,,,,,x
-c_warwick,norse,,WÊring,,,,,,,,,,,x
-c_warwick,c_warwick_adj_norse,,WÊringr,,,,,,,,,,,x
-c_warwick,norsegaelic,,WÊring,,,,,,,,,,,x
-c_warwick,c_warwick_adj_norsegaelic,,WÊringr,,,,,,,,,,,x
-c_warwick,norwegian,,WÊring,,,,,,,,,,,x
-c_warwick,c_warwick_adj_norwegian,,WÊringr,,,,,,,,,,,x
-c_warwick,saxon,,WÊring,,,,,,,,,,,x
-c_warwick,c_warwick_adj_saxon,,WÊringisc,,,,,,,,,,,x
-c_warwick,swedish,,WÊring,,,,,,,,,,,x
-c_warwick,c_warwick_adj_swedish,,WÊringr,,,,,,,,,,,x
+c_warwick,anglonorse,,W√¶ring,,,,,,,,,,,x
+c_warwick,danish,,W√¶ring,,,,,,,,,,,x
+c_warwick,c_warwick_adj_danish,,W√¶ringr,,,,,,,,,,,x
+c_warwick,gothic,,W√¶ring,,,,,,,,,,,x
+c_warwick,c_warwick_adj_gothic,,W√¶ringr,,,,,,,,,,,x
+c_warwick,icelandic,,W√¶ring,,,,,,,,,,,x
+c_warwick,c_warwick_adj_icelandic,,W√¶ringr,,,,,,,,,,,x
+c_warwick,norse,,W√¶ring,,,,,,,,,,,x
+c_warwick,c_warwick_adj_norse,,W√¶ringr,,,,,,,,,,,x
+c_warwick,norsegaelic,,W√¶ring,,,,,,,,,,,x
+c_warwick,c_warwick_adj_norsegaelic,,W√¶ringr,,,,,,,,,,,x
+c_warwick,norwegian,,W√¶ring,,,,,,,,,,,x
+c_warwick,c_warwick_adj_norwegian,,W√¶ringr,,,,,,,,,,,x
+c_warwick,saxon,,W√¶ring,,,,,,,,,,,x
+c_warwick,c_warwick_adj_saxon,,W√¶ringisc,,,,,,,,,,,x
+c_warwick,swedish,,W√¶ring,,,,,,,,,,,x
+c_warwick,c_warwick_adj_swedish,,W√¶ringr,,,,,,,,,,,x
 b_warwick,b_warwick,,Warwick,,,,,,,,,,,x
 b_warwick,b_warwick_adj,,,,,,,,,,,,,x
-b_warwick,anglonorse,,WÊring,,,,,,,,,,,x
-b_warwick,danish,,WÊring,,,,,,,,,,,x
-b_warwick,gothic,,WÊring,,,,,,,,,,,x
-b_warwick,icelandic,,WÊring,,,,,,,,,,,x
-b_warwick,norse,,WÊring,,,,,,,,,,,x
-b_warwick,norsegaelic,,WÊring,,,,,,,,,,,x
-b_warwick,norwegian,,WÊring,,,,,,,,,,,x
-b_warwick,saxon,,WÊringwic,,,,,,,,,,,x
-b_warwick,swedish,,WÊring,,,,,,,,,,,x
+b_warwick,anglonorse,,W√¶ring,,,,,,,,,,,x
+b_warwick,danish,,W√¶ring,,,,,,,,,,,x
+b_warwick,gothic,,W√¶ring,,,,,,,,,,,x
+b_warwick,icelandic,,W√¶ring,,,,,,,,,,,x
+b_warwick,norse,,W√¶ring,,,,,,,,,,,x
+b_warwick,norsegaelic,,W√¶ring,,,,,,,,,,,x
+b_warwick,norwegian,,W√¶ring,,,,,,,,,,,x
+b_warwick,saxon,,W√¶ringwic,,,,,,,,,,,x
+b_warwick,swedish,,W√¶ring,,,,,,,,,,,x
 b_coventry,b_coventry,,Coventry,,,,,,,,,,,x
 b_coventry,b_coventry_adj,,,,,,,,,,,,,x
 b_coventry,anglonorse,,Cofestre,,,,,,,,,,,x
@@ -1368,29 +1368,29 @@ b_kenilworth,saxon,,Cynehildesweorc,,,,,,,,,,,x
 c_stafford,PROV1409,,Stafford,,,,,,,,,,,x
 c_stafford,c_stafford,,,,,,,,,,,,,x
 c_stafford,c_stafford_adj,,Staffordshirean,,,,,,,,,,,x
-c_stafford,anglonorse,,TomsÊte,,,,,,,,,,,x
+c_stafford,anglonorse,,Toms√¶te,,,,,,,,,,,x
 c_stafford,breton,,Swydd Stafford,,,,,,,,,,,x
 c_stafford,cornish,,Swydd Stafford,,,,,,,,,,,x
-c_stafford,danish,,StÊffordscir,,,,,,,,,,,x
-c_stafford,gothic,,StÊffordscir,,,,,,,,,,,x
-c_stafford,icelandic,,StÊffordscir,,,,,,,,,,,x
-c_stafford,norse,,StÊffordscir,,,,,,,,,,,x
-c_stafford,norsegaelic,,StÊffordscir,,,,,,,,,,,x
-c_stafford,norwegian,,StÊffordscir,,,,,,,,,,,x
-c_stafford,saxon,,TomsÊte,,,,,,,,,,,x
-c_stafford,swedish,,StÊffordscir,,,,,,,,,,,x
+c_stafford,danish,,St√¶ffordscir,,,,,,,,,,,x
+c_stafford,gothic,,St√¶ffordscir,,,,,,,,,,,x
+c_stafford,icelandic,,St√¶ffordscir,,,,,,,,,,,x
+c_stafford,norse,,St√¶ffordscir,,,,,,,,,,,x
+c_stafford,norsegaelic,,St√¶ffordscir,,,,,,,,,,,x
+c_stafford,norwegian,,St√¶ffordscir,,,,,,,,,,,x
+c_stafford,saxon,,Toms√¶te,,,,,,,,,,,x
+c_stafford,swedish,,St√¶ffordscir,,,,,,,,,,,x
 c_stafford,welsh,,Swydd Stafford,,,,,,,,,,,x
 b_stafford,b_stafford,,Stafford,,,,,,,,,,,x
 b_stafford,b_stafford_adj,,,,,,,,,,,,,x
-b_stafford,anglonorse,,StÊfford,,,,,,,,,,,x
-b_stafford,danish,,StÊfford,,,,,,,,,,,x
-b_stafford,gothic,,StÊfford,,,,,,,,,,,x
-b_stafford,icelandic,,StÊfford,,,,,,,,,,,x
-b_stafford,norse,,StÊfford,,,,,,,,,,,x
-b_stafford,norsegaelic,,StÊfford,,,,,,,,,,,x
-b_stafford,norwegian,,StÊfford,,,,,,,,,,,x
-b_stafford,saxon,,StÊfford,,,,,,,,,,,x
-b_stafford,swedish,,StÊfford,,,,,,,,,,,x
+b_stafford,anglonorse,,St√¶fford,,,,,,,,,,,x
+b_stafford,danish,,St√¶fford,,,,,,,,,,,x
+b_stafford,gothic,,St√¶fford,,,,,,,,,,,x
+b_stafford,icelandic,,St√¶fford,,,,,,,,,,,x
+b_stafford,norse,,St√¶fford,,,,,,,,,,,x
+b_stafford,norsegaelic,,St√¶fford,,,,,,,,,,,x
+b_stafford,norwegian,,St√¶fford,,,,,,,,,,,x
+b_stafford,saxon,,St√¶fford,,,,,,,,,,,x
+b_stafford,swedish,,St√¶fford,,,,,,,,,,,x
 b_leichfield,b_leichfield,,Lichfield,,,,,,,,,,,x
 b_leichfield,b_leichfield_adj,,,,,,,,,,,,,x
 b_leichfield,anglonorse,,Liccidfeld,,,,,,,,,,,x
@@ -1434,29 +1434,29 @@ d_bedford,cornish,,Cynwidion,,,,,,,,,,,x
 d_bedford,d_bedford_adj_cornish,,Cynwidionian,,,,,,,,,,,x
 d_bedford,cumbric,,Calchwynedd,,,,,,,,,,,x
 d_bedford,d_bedford_adj_cumbric,,Calchwyneddian,,,,,,,,,,,x
-d_bedford,danish,,MiÊngle,,,,,,,,,,,x
-d_bedford,d_bedford_adj_danish,,MiÊnglr,,,,,,,,,,,x
+d_bedford,danish,,Mi√∞√¶ngle,,,,,,,,,,,x
+d_bedford,d_bedford_adj_danish,,Mi√∞√¶nglr,,,,,,,,,,,x
 d_bedford,english,,Bedford,,,,,,,,,,,x
 d_bedford,d_bedford_adj_english,,Bedford,,,,,,,,,,,x
-d_bedford,gothic,,MiÊngle,,,,,,,,,,,x
-d_bedford,d_bedford_adj_gothic,,MiÊnglr,,,,,,,,,,,x
-d_bedford,icelandic,,MiÊngle,,,,,,,,,,,x
-d_bedford,d_bedford_adj_icelandic,,MiÊnglr,,,,,,,,,,,x
+d_bedford,gothic,,Mi√∞√¶ngle,,,,,,,,,,,x
+d_bedford,d_bedford_adj_gothic,,Mi√∞√¶nglr,,,,,,,,,,,x
+d_bedford,icelandic,,Mi√∞√¶ngle,,,,,,,,,,,x
+d_bedford,d_bedford_adj_icelandic,,Mi√∞√¶nglr,,,,,,,,,,,x
 d_bedford,irish,,Cynwidion,,,,,,,,,,,x
 d_bedford,d_bedford_adj_irish,,Cynwidionian,,,,,,,,,,,x
 d_bedford,d_bedford_adj_norman,,Bedforder,,,,,,,,,,,x
-d_bedford,norse,,MiÊngle,,,,,,,,,,,x
-d_bedford,d_bedford_adj_norse,,MiÊnglr,,,,,,,,,,,x
-d_bedford,norsegaelic,,MiÊngle,,,,,,,,,,,x
-d_bedford,d_bedford_adj_norsegaelic,,MiÊnglr,,,,,,,,,,,x
-d_bedford,norwegian,,MiÊngle,,,,,,,,,,,x
-d_bedford,d_bedford_adj_norwegian,,MiÊnglr,,,,,,,,,,,x
+d_bedford,norse,,Mi√∞√¶ngle,,,,,,,,,,,x
+d_bedford,d_bedford_adj_norse,,Mi√∞√¶nglr,,,,,,,,,,,x
+d_bedford,norsegaelic,,Mi√∞√¶ngle,,,,,,,,,,,x
+d_bedford,d_bedford_adj_norsegaelic,,Mi√∞√¶nglr,,,,,,,,,,,x
+d_bedford,norwegian,,Mi√∞√¶ngle,,,,,,,,,,,x
+d_bedford,d_bedford_adj_norwegian,,Mi√∞√¶nglr,,,,,,,,,,,x
 d_bedford,saxon,,Middelengle,,,,,,,,,,,x
 d_bedford,d_bedford_adj_saxon,,Middelenglisc,,,,,,,,,,,x
 d_bedford,scottish,,Cynwidion,,,,,,,,,,,x
 d_bedford,d_bedford_adj_scottish,,Cynwidionian,,,,,,,,,,,x
-d_bedford,swedish,,MiÊngle,,,,,,,,,,,x
-d_bedford,d_bedford_adj_swedish,,MiÊnglr,,,,,,,,,,,x
+d_bedford,swedish,,Mi√∞√¶ngle,,,,,,,,,,,x
+d_bedford,d_bedford_adj_swedish,,Mi√∞√¶nglr,,,,,,,,,,,x
 d_bedford,welsh,,Calchwynedd,,,,,,,,,,,x
 d_bedford,d_bedford_adj_welsh,,Calchwyneddian,,,,,,,,,,,x
 c_northampton,PROV68,,Northampton,,,,,,,,,,,x
@@ -1469,41 +1469,41 @@ c_northampton,cornish,,Cynwidion,,,,,,,,,,,x
 c_northampton,c_northampton_adj_cornish,,Cynwidionian,,,,,,,,,,,x
 c_northampton,cumbric,,Calchwynedd,,,,,,,,,,,x
 c_northampton,c_northampton_adj_cumbric,,Calchwyneddian,,,,,,,,,,,x
-c_northampton,danish,,Norhamtun,,,,,,,,,,,x
-c_northampton,c_northampton_adj_danish,,Norhamtunr,,,,,,,,,,,x
-c_northampton,gothic,,Norhamtun,,,,,,,,,,,x
-c_northampton,c_northampton_adj_gothic,,Norhamtunr,,,,,,,,,,,x
-c_northampton,icelandic,,Norhamtun,,,,,,,,,,,x
-c_northampton,c_northampton_adj_icelandic,,Norhamtunr,,,,,,,,,,,x
+c_northampton,danish,,Nor√∞hamtun,,,,,,,,,,,x
+c_northampton,c_northampton_adj_danish,,Nor√∞hamtunr,,,,,,,,,,,x
+c_northampton,gothic,,Nor√∞hamtun,,,,,,,,,,,x
+c_northampton,c_northampton_adj_gothic,,Nor√∞hamtunr,,,,,,,,,,,x
+c_northampton,icelandic,,Nor√∞hamtun,,,,,,,,,,,x
+c_northampton,c_northampton_adj_icelandic,,Nor√∞hamtunr,,,,,,,,,,,x
 c_northampton,irish,,Cynwidion,,,,,,,,,,,x
 c_northampton,c_northampton_adj_irish,,Cynwidionian,,,,,,,,,,,x
 c_northampton,norman,,Hante,,,,,,,,,,,x
 c_northampton,c_northampton_adj_norman,,Hante,,,,,,,,,,,x
-c_northampton,norse,,Norhamtun,,,,,,,,,,,x
-c_northampton,c_northampton_adj_norse,,Norhamtunr,,,,,,,,,,,x
-c_northampton,norsegaelic,,Norhamtun,,,,,,,,,,,x
-c_northampton,c_northampton_adj_norsegaelic,,Norhamtunr,,,,,,,,,,,x
-c_northampton,norwegian,,Norhamtun,,,,,,,,,,,x
-c_northampton,c_northampton_adj_norwegian,,Norhamtunr,,,,,,,,,,,x
+c_northampton,norse,,Nor√∞hamtun,,,,,,,,,,,x
+c_northampton,c_northampton_adj_norse,,Nor√∞hamtunr,,,,,,,,,,,x
+c_northampton,norsegaelic,,Nor√∞hamtun,,,,,,,,,,,x
+c_northampton,c_northampton_adj_norsegaelic,,Nor√∞hamtunr,,,,,,,,,,,x
+c_northampton,norwegian,,Nor√∞hamtun,,,,,,,,,,,x
+c_northampton,c_northampton_adj_norwegian,,Nor√∞hamtunr,,,,,,,,,,,x
 c_northampton,saxon,,Hamtun,,,,,,,,,,,x
-c_northampton,c_northampton_adj_saxon,,Nor˛hamtunisc,,,,,,,,,,,x
+c_northampton,c_northampton_adj_saxon,,Nor√æhamtunisc,,,,,,,,,,,x
 c_northampton,scottish,,Cynwidion,,,,,,,,,,,x
 c_northampton,c_northampton_adj_scottish,,Cynwidionian,,,,,,,,,,,x
-c_northampton,swedish,,Norhamtun,,,,,,,,,,,x
-c_northampton,c_northampton_adj_swedish,,Norhamtunr,,,,,,,,,,,x
+c_northampton,swedish,,Nor√∞hamtun,,,,,,,,,,,x
+c_northampton,c_northampton_adj_swedish,,Nor√∞hamtunr,,,,,,,,,,,x
 c_northampton,welsh,,Calchwynedd,,,,,,,,,,,x
 c_northampton,c_northampton_adj_welsh,,Calchwyneddian,,,,,,,,,,,x
 b_northampton,b_northampton,,Northhampton,,,,,,,,,,,x
 b_northampton,b_northampton_adj,,,,,,,,,,,,,x
 b_northampton,anglonorse,,Hamtun,,,,,,,,,,,x
-b_northampton,danish,,Norhamtun,,,,,,,,,,,x
-b_northampton,gothic,,Norhamtun,,,,,,,,,,,x
-b_northampton,icelandic,,Norhamtun,,,,,,,,,,,x
-b_northampton,norse,,Norhamtun,,,,,,,,,,,x
-b_northampton,norsegaelic,,Norhamtun,,,,,,,,,,,x
-b_northampton,norwegian,,Norhamtun,,,,,,,,,,,x
+b_northampton,danish,,Nor√∞hamtun,,,,,,,,,,,x
+b_northampton,gothic,,Nor√∞hamtun,,,,,,,,,,,x
+b_northampton,icelandic,,Nor√∞hamtun,,,,,,,,,,,x
+b_northampton,norse,,Nor√∞hamtun,,,,,,,,,,,x
+b_northampton,norsegaelic,,Nor√∞hamtun,,,,,,,,,,,x
+b_northampton,norwegian,,Nor√∞hamtun,,,,,,,,,,,x
 b_northampton,saxon,,Hamtun,,,,,,,,,,,x
-b_northampton,swedish,,Norhamtun,,,,,,,,,,,x
+b_northampton,swedish,,Nor√∞hamtun,,,,,,,,,,,x
 b_peterborough,b_peterborough,,Peterborough,,,,,,,,,,,x
 b_peterborough,b_peterborough_adj,,,,,,,,,,,,,x
 b_peterborough,anglonorse,,Medelhamstede,,,,,,,,,,,x
@@ -1640,27 +1640,27 @@ b_buckingham,saxon,,Buccingaham,,,,,,,,,,,x
 b_buckingham,swedish,,Buccingaham,,,,,,,,,,,x
 b_aylesbury,b_aylesbury,,Aylesbury,,,,,,,,,,,x
 b_aylesbury,b_aylesbury_adj,,,,,,,,,,,,,x
-b_aylesbury,anglonorse,,∆glesburh,,,,,,,,,,,x
-b_aylesbury,danish,,∆glesburgh,,,,,,,,,,,x
-b_aylesbury,gothic,,∆glesborg,,,,,,,,,,,x
-b_aylesbury,icelandic,,∆glesborg,,,,,,,,,,,x
-b_aylesbury,norse,,∆glesborg,,,,,,,,,,,x
-b_aylesbury,norsegaelic,,∆glesborg,,,,,,,,,,,x
-b_aylesbury,norwegian,,∆glesborg,,,,,,,,,,,x
-b_aylesbury,saxon,,∆glesburh,,,,,,,,,,,x
-b_aylesbury,swedish,,∆glesborg,,,,,,,,,,,x
+b_aylesbury,anglonorse,,√Üglesburh,,,,,,,,,,,x
+b_aylesbury,danish,,√Üglesburgh,,,,,,,,,,,x
+b_aylesbury,gothic,,√Üglesborg,,,,,,,,,,,x
+b_aylesbury,icelandic,,√Üglesborg,,,,,,,,,,,x
+b_aylesbury,norse,,√Üglesborg,,,,,,,,,,,x
+b_aylesbury,norsegaelic,,√Üglesborg,,,,,,,,,,,x
+b_aylesbury,norwegian,,√Üglesborg,,,,,,,,,,,x
+b_aylesbury,saxon,,√Üglesburh,,,,,,,,,,,x
+b_aylesbury,swedish,,√Üglesborg,,,,,,,,,,,x
 b_bradwell,b_bradwell,,Bradwell,,,,,,,,,,,x
 b_bradwell,b_bradwell_adj,,,,,,,,,,,,,x
 b_bradwell,anglonorse,,Bradwelle,,,,,,,,,,,x
-b_bradwell,danish,,Br·dwelle,,,,,,,,,,,x
-b_bradwell,gothic,,Br·dwelle,,,,,,,,,,,x
-b_bradwell,icelandic,,Br·dwelle,,,,,,,,,,,x
+b_bradwell,danish,,Br√°dwelle,,,,,,,,,,,x
+b_bradwell,gothic,,Br√°dwelle,,,,,,,,,,,x
+b_bradwell,icelandic,,Br√°dwelle,,,,,,,,,,,x
 b_bradwell,norman,,Bradewelle,,,,,,,,,,,x
-b_bradwell,norse,,Br·dwelle,,,,,,,,,,,x
-b_bradwell,norsegaelic,,Br·dwelle,,,,,,,,,,,x
-b_bradwell,norwegian,,Br·dwelle,,,,,,,,,,,x
+b_bradwell,norse,,Br√°dwelle,,,,,,,,,,,x
+b_bradwell,norsegaelic,,Br√°dwelle,,,,,,,,,,,x
+b_bradwell,norwegian,,Br√°dwelle,,,,,,,,,,,x
 b_bradwell,saxon,,Bradwelle,,,,,,,,,,,x
-b_bradwell,swedish,,Br·dwelle,,,,,,,,,,,x
+b_bradwell,swedish,,Br√°dwelle,,,,,,,,,,,x
 b_wycombe,b_wycombe,,Wycombe,,,,,,,,,,,x
 b_wycombe,b_wycombe_adj,,,,,,,,,,,,,x
 b_wycombe,anglonorse,,Wicumun,,,,,,,,,,,x
@@ -1801,76 +1801,76 @@ c_middlesex,cornish,,Caer Lundein,,,,,,,,,,,x
 c_middlesex,c_middlesex_adj_cornish,,Lundeinian,,,,,,,,,,,x
 c_middlesex,cumbric,,Caer Llundain,,,,,,,,,,,x
 c_middlesex,c_middlesex_adj_cumbric,,Llundainian,,,,,,,,,,,x
-c_middlesex,danish,,Miseaxe,,,,,,,,,,,x
-c_middlesex,c_middlesex_adj_danish,,Miseaxr,,,,,,,,,,,x
-c_middlesex,gothic,,Miseaxe,,,,,,,,,,,x
-c_middlesex,c_middlesex_adj_gothic,,Miseaxr,,,,,,,,,,,x
+c_middlesex,danish,,Mi√∞seaxe,,,,,,,,,,,x
+c_middlesex,c_middlesex_adj_danish,,Mi√∞seaxr,,,,,,,,,,,x
+c_middlesex,gothic,,Mi√∞seaxe,,,,,,,,,,,x
+c_middlesex,c_middlesex_adj_gothic,,Mi√∞seaxr,,,,,,,,,,,x
 c_middlesex,greek,,Londinion,,,,,,,,,,,x
-c_middlesex,icelandic,,Miseaxe,,,,,,,,,,,x
-c_middlesex,c_middlesex_adj_icelandic,,Miseaxr,,,,,,,,,,,x
+c_middlesex,icelandic,,Mi√∞seaxe,,,,,,,,,,,x
+c_middlesex,c_middlesex_adj_icelandic,,Mi√∞seaxr,,,,,,,,,,,x
 c_middlesex,irish,,Caer Lundein,,,,,,,,,,,x
 c_middlesex,c_middlesex_adj_irish,,Lundeinian,,,,,,,,,,,x
-c_middlesex,norse,,Miseaxe,,,,,,,,,,,x
-c_middlesex,c_middlesex_adj_norse,,Miseaxr,,,,,,,,,,,x
-c_middlesex,norsegaelic,,Miseaxe,,,,,,,,,,,x
-c_middlesex,c_middlesex_adj_norsegaelic,,Miseaxr,,,,,,,,,,,x
-c_middlesex,norwegian,,Miseaxe,,,,,,,,,,,x
-c_middlesex,c_middlesex_adj_norwegian,,Miseaxr,,,,,,,,,,,x
+c_middlesex,norse,,Mi√∞seaxe,,,,,,,,,,,x
+c_middlesex,c_middlesex_adj_norse,,Mi√∞seaxr,,,,,,,,,,,x
+c_middlesex,norsegaelic,,Mi√∞seaxe,,,,,,,,,,,x
+c_middlesex,c_middlesex_adj_norsegaelic,,Mi√∞seaxr,,,,,,,,,,,x
+c_middlesex,norwegian,,Mi√∞seaxe,,,,,,,,,,,x
+c_middlesex,c_middlesex_adj_norwegian,,Mi√∞seaxr,,,,,,,,,,,x
 c_middlesex,roman,,Londinium,,,,,,,,,,,x
 c_middlesex,saxon,,Middelseaxe,,,,,,,,,,,x
 c_middlesex,c_middlesex_adj_saxon,,Middleseaxna,,,,,,,,,,,x
 c_middlesex,scottish,,Caer Lundein,,,,,,,,,,,x
 c_middlesex,c_middlesex_adj_scottish,,Lundeinian,,,,,,,,,,,x
-c_middlesex,swedish,,Miseaxe,,,,,,,,,,,x
-c_middlesex,c_middlesex_adj_swedish,,Miseaxr,,,,,,,,,,,x
+c_middlesex,swedish,,Mi√∞seaxe,,,,,,,,,,,x
+c_middlesex,c_middlesex_adj_swedish,,Mi√∞seaxr,,,,,,,,,,,x
 c_middlesex,welsh,,Caer Llundain,,,,,,,,,,,x
 c_middlesex,c_middlesex_adj_welsh,,Llundainian,,,,,,,,,,,x
 b_westminster,b_westminster,,Westminster,,,,,,,,,,,x
 b_westminster,b_westminster_adj,,,,,,,,,,,,,x
 b_westminster,anglonorse,,Thornigeoth,,,,,,,,,,,x
-b_westminster,danish,,˛orney,,,,,,,,,,,x
-b_westminster,gothic,,˛orney,,,,,,,,,,,x
-b_westminster,icelandic,,˛orney,,,,,,,,,,,x
+b_westminster,danish,,√æorney,,,,,,,,,,,x
+b_westminster,gothic,,√æorney,,,,,,,,,,,x
+b_westminster,icelandic,,√æorney,,,,,,,,,,,x
 b_westminster,norman,,Westmoutiers,,,,,,,,,,,x
-b_westminster,norse,,˛orney,,,,,,,,,,,x
-b_westminster,norsegaelic,,˛orney,,,,,,,,,,,x
-b_westminster,norwegian,,˛orney,,,,,,,,,,,x
+b_westminster,norse,,√æorney,,,,,,,,,,,x
+b_westminster,norsegaelic,,√æorney,,,,,,,,,,,x
+b_westminster,norwegian,,√æorney,,,,,,,,,,,x
 b_westminster,saxon,,Thornigeoth,,,,,,,,,,,x
-b_westminster,swedish,,˛orney,,,,,,,,,,,x
+b_westminster,swedish,,√æorney,,,,,,,,,,,x
 b_london,b_london,,London,,,,,,,,,,,x
 b_london,b_london_adj,,,,,,,,,,,,,x
 b_london,anglonorse,,Lundunwic,,,,,,,,,,,x
 b_london,breton,,Lundein,,,,,,,,,,,x
 b_london,cornish,,Lundein,,,,,,,,,,,x
 b_london,cumbric,,Llundain,,,,,,,,,,,x
-b_london,danish,,Lund˙nir,,,,,,,,,,,x
+b_london,danish,,Lund√∫nir,,,,,,,,,,,x
 b_london,gothic,,Lundene,,,,,,,,,,,x
 b_london,greek,,Londinion,,,,,,,,,,,x
 b_london,icelandic,,Lundene,,,,,,,,,,,x
 b_london,irish,,Lundein,,,,,,,,,,,x
 b_london,norman,,Londres,,,,,,,,,,,x
-b_london,norse,,Lund˙nir,,,,,,,,,,,x
-b_london,norsegaelic,,Lund˙nir,,,,,,,,,,,x
-b_london,norwegian,,Lund˙nir,,,,,,,,,,,x
+b_london,norse,,Lund√∫nir,,,,,,,,,,,x
+b_london,norsegaelic,,Lund√∫nir,,,,,,,,,,,x
+b_london,norwegian,,Lund√∫nir,,,,,,,,,,,x
 b_london,roman,,Londinium,,,,,,,,,,,x
 b_london,saxon,,Lundunwic,,,,,,,,,,,x
 b_london,scottish,,Lundein,,,,,,,,,,,x
-b_london,swedish,,Lund˙nir,,,,,,,,,,,x
+b_london,swedish,,Lund√∫nir,,,,,,,,,,,x
 b_london,welsh,,Llundain,,,,,,,,,,,x
 b_st_pauls,b_st_pauls,,St-Pauls,,,,,,,,,,,x
 b_st_pauls,b_st_pauls_adj,,,,,,,,,,,,,x
 b_tower_of_london,b_tower_of_london,,White Tower,,,,,,,,,,,x
 b_tower_of_london,b_tower_of_london_adj,,,,,,,,,,,,,x
 b_tower_of_london,anglonorse,,Lundenburh,,,,,,,,,,,x
-b_tower_of_london,danish,,HvÌtrgnÊfa,,,,,,,,,,,x
-b_tower_of_london,gothic,,HvÌtrgnÊfa,,,,,,,,,,,x
-b_tower_of_london,icelandic,,HvÌtrgnÊfa,,,,,,,,,,,x
+b_tower_of_london,danish,,Hv√≠trgn√¶fa,,,,,,,,,,,x
+b_tower_of_london,gothic,,Hv√≠trgn√¶fa,,,,,,,,,,,x
+b_tower_of_london,icelandic,,Hv√≠trgn√¶fa,,,,,,,,,,,x
 b_tower_of_london,norman,,Tour Blanche,,,,,,,,,,,x
-b_tower_of_london,norse,,HvÌtrgnÊfa,,,,,,,,,,,x
-b_tower_of_london,norsegaelic,,HvÌtrgnÊfa,,,,,,,,,,,x
-b_tower_of_london,norwegian,,HvÌtrgnÊfa,,,,,,,,,,,x
+b_tower_of_london,norse,,Hv√≠trgn√¶fa,,,,,,,,,,,x
+b_tower_of_london,norsegaelic,,Hv√≠trgn√¶fa,,,,,,,,,,,x
+b_tower_of_london,norwegian,,Hv√≠trgn√¶fa,,,,,,,,,,,x
 b_tower_of_london,saxon,,Lundenburh,,,,,,,,,,,x
-b_tower_of_london,swedish,,HvÌtrgnÊfa,,,,,,,,,,,x
+b_tower_of_london,swedish,,Hv√≠trgn√¶fa,,,,,,,,,,,x
 b_isleworth,b_isleworth,,Isleoworth,,,,,,,,,,,x
 b_isleworth,b_isleworth_adj,,,,,,,,,,,,,x
 b_isleworth,anglonorse,,Gislhere,,,,,,,,,,,x
@@ -1993,7 +1993,7 @@ b_hertford,saxon,,Heortforda,,,,,,,,,,,x
 b_hertford,swedish,,Heortford,,,,,,,,,,,x
 b_berkhamsted,b_berkhamsted,,Berkhamsted,,,,,,,,,,,x
 b_berkhamsted,b_berkhamsted_adj,,,,,,,,,,,,,x
-b_berkhamsted,anglonorse,,BeorchamstÊd,,,,,,,,,,,x
+b_berkhamsted,anglonorse,,Beorchamst√¶d,,,,,,,,,,,x
 b_berkhamsted,danish,,Beorhoanstadde,,,,,,,,,,,x
 b_berkhamsted,gothic,,Beorhoanstadde,,,,,,,,,,,x
 b_berkhamsted,icelandic,,Beorhoanstadde,,,,,,,,,,,x
@@ -2001,7 +2001,7 @@ b_berkhamsted,norman,,Berkhampsede,,,,,,,,,,,x
 b_berkhamsted,norse,,Beorhoanstadde,,,,,,,,,,,x
 b_berkhamsted,norsegaelic,,Beorhoanstadde,,,,,,,,,,,x
 b_berkhamsted,norwegian,,Beorhoanstadde,,,,,,,,,,,x
-b_berkhamsted,saxon,,BeorchamstÊd,,,,,,,,,,,x
+b_berkhamsted,saxon,,Beorchamst√¶d,,,,,,,,,,,x
 b_berkhamsted,swedish,,Beorhoanstadde,,,,,,,,,,,x
 b_tring,b_tring,,Tring,,,,,,,,,,,x
 b_tring,b_tring_adj,,,,,,,,,,,,,x
@@ -2016,22 +2016,22 @@ b_tring,saxon,,Trehangr,,,,,,,,,,,x
 b_tring,swedish,,Trehangr,,,,,,,,,,,x
 b_st_albans,b_st_albans,,St Albans,,,,,,,,,,,x
 b_st_albans,b_st_albans_adj,,,,,,,,,,,,,x
-b_st_albans,anglonorse,,WÊclingacaester,,,,,,,,,,,x
+b_st_albans,anglonorse,,W√¶clingacaester,,,,,,,,,,,x
 b_st_albans,breton,,Verlamion,,,,,,,,,,,x
 b_st_albans,cornish,,Verlamion,,,,,,,,,,,x
 b_st_albans,cumbric,,Verlamion,,,,,,,,,,,x
-b_st_albans,danish,,WÊclingacaester,,,,,,,,,,,x
-b_st_albans,gothic,,WÊclingacaester,,,,,,,,,,,x
+b_st_albans,danish,,W√¶clingacaester,,,,,,,,,,,x
+b_st_albans,gothic,,W√¶clingacaester,,,,,,,,,,,x
 b_st_albans,greek,,Ourolanion,,,,,,,,,,,x
-b_st_albans,icelandic,,WÊclingacaester,,,,,,,,,,,x
+b_st_albans,icelandic,,W√¶clingacaester,,,,,,,,,,,x
 b_st_albans,irish,,Verlamion,,,,,,,,,,,x
-b_st_albans,norse,,WÊclingacaester,,,,,,,,,,,x
-b_st_albans,norsegaelic,,WÊclingacaester,,,,,,,,,,,x
-b_st_albans,norwegian,,WÊclingacaester,,,,,,,,,,,x
+b_st_albans,norse,,W√¶clingacaester,,,,,,,,,,,x
+b_st_albans,norsegaelic,,W√¶clingacaester,,,,,,,,,,,x
+b_st_albans,norwegian,,W√¶clingacaester,,,,,,,,,,,x
 b_st_albans,roman,,Verulamium,,,,,,,,,,,x
-b_st_albans,saxon,,WÊclingacaester,,,,,,,,,,,x
+b_st_albans,saxon,,W√¶clingacaester,,,,,,,,,,,x
 b_st_albans,scottish,,Verlamion,,,,,,,,,,,x
-b_st_albans,swedish,,WÊclingacaester,,,,,,,,,,,x
+b_st_albans,swedish,,W√¶clingacaester,,,,,,,,,,,x
 b_st_albans,welsh,,Verlamion,,,,,,,,,,,x
 d_norfolk,d_norfolk,,East Anglia,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj,,East Anglian,,,,,,,,,,,x
@@ -2043,29 +2043,29 @@ d_norfolk,cornish,,Caer Went,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj_cornish,,Wentan,,,,,,,,,,,x
 d_norfolk,cumbric,,Caer Went,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj_cumbric,,Wentan,,,,,,,,,,,x
-d_norfolk,danish,,AustÊngle,,,,,,,,,,,x
-d_norfolk,d_norfolk_adj_danish,,AustÊnglr,,,,,,,,,,,x
+d_norfolk,danish,,Aust√¶ngle,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_danish,,Aust√¶nglr,,,,,,,,,,,x
 d_norfolk,english,,Norfolk,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj_english,,Norfolk,,,,,,,,,,,x
-d_norfolk,gothic,,AustÊngle,,,,,,,,,,,x
-d_norfolk,d_norfolk_adj_gothic,,AustÊnglr,,,,,,,,,,,x
-d_norfolk,icelandic,,AustÊngle,,,,,,,,,,,x
-d_norfolk,d_norfolk_adj_icelandic,,AustÊnglr,,,,,,,,,,,x
+d_norfolk,gothic,,Aust√¶ngle,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_gothic,,Aust√¶nglr,,,,,,,,,,,x
+d_norfolk,icelandic,,Aust√¶ngle,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_icelandic,,Aust√¶nglr,,,,,,,,,,,x
 d_norfolk,irish,,Caer Went,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj_irish,,Wentan,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj_norman,,Norfolkian,,,,,,,,,,,x
-d_norfolk,norse,,AustÊngle,,,,,,,,,,,x
-d_norfolk,d_norfolk_adj_norse,,AustÊnglr,,,,,,,,,,,x
-d_norfolk,norsegaelic,,AustÊngle,,,,,,,,,,,x
-d_norfolk,d_norfolk_adj_norsegaelic,,AustÊnglr,,,,,,,,,,,x
-d_norfolk,norwegian,,AustÊngle,,,,,,,,,,,x
-d_norfolk,d_norfolk_adj_norwegian,,AustÊnglr,,,,,,,,,,,x
+d_norfolk,norse,,Aust√¶ngle,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_norse,,Aust√¶nglr,,,,,,,,,,,x
+d_norfolk,norsegaelic,,Aust√¶ngle,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_norsegaelic,,Aust√¶nglr,,,,,,,,,,,x
+d_norfolk,norwegian,,Aust√¶ngle,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_norwegian,,Aust√¶nglr,,,,,,,,,,,x
 d_norfolk,saxon,,Eastengle,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj_saxon,,Eastenglisc,,,,,,,,,,,x
 d_norfolk,scottish,,Caer Went,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj_scottish,,Wentan,,,,,,,,,,,x
-d_norfolk,swedish,,AustÊngle,,,,,,,,,,,x
-d_norfolk,d_norfolk_adj_swedish,,AustÊnglr,,,,,,,,,,,x
+d_norfolk,swedish,,Aust√¶ngle,,,,,,,,,,,x
+d_norfolk,d_norfolk_adj_swedish,,Aust√¶nglr,,,,,,,,,,,x
 d_norfolk,welsh,,Caer Went,,,,,,,,,,,x
 d_norfolk,d_norfolk_adj_welsh,,Wentan,,,,,,,,,,,x
 c_norfolk,PROV70,,Norfolk,,,,,,,,,,,x
@@ -2078,26 +2078,26 @@ c_norfolk,cornish,,Caer Went,,,,,,,,,,,x
 c_norfolk,c_norfolk_adj_cornish,,Wentian,,,,,,,,,,,x
 c_norfolk,cumbric,,Caer went,,,,,,,,,,,x
 c_norfolk,c_norfolk_adj_cumbric,,Wentian,,,,,,,,,,,x
-c_norfolk,danish,,Norfolc,,,,,,,,,,,x
-c_norfolk,c_norfolk_adj_danish,,Norfolcr,,,,,,,,,,,x
-c_norfolk,gothic,,Norfolc,,,,,,,,,,,x
-c_norfolk,c_norfolk_adj_gothic,,Norfolcr,,,,,,,,,,,x
-c_norfolk,icelandic,,Norfolc,,,,,,,,,,,x
-c_norfolk,c_norfolk_adj_icelandic,,Norfolcr,,,,,,,,,,,x
+c_norfolk,danish,,Nor√∞folc,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj_danish,,Nor√∞folcr,,,,,,,,,,,x
+c_norfolk,gothic,,Nor√∞folc,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj_gothic,,Nor√∞folcr,,,,,,,,,,,x
+c_norfolk,icelandic,,Nor√∞folc,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj_icelandic,,Nor√∞folcr,,,,,,,,,,,x
 c_norfolk,irish,,Caer Went,,,,,,,,,,,x
 c_norfolk,c_norfolk_adj_irish,,Wentian,,,,,,,,,,,x
-c_norfolk,norse,,Norfolc,,,,,,,,,,,x
-c_norfolk,c_norfolk_adj_norse,,Norfolcr,,,,,,,,,,,x
-c_norfolk,norsegaelic,,Norfolc,,,,,,,,,,,x
-c_norfolk,c_norfolk_adj_norsegaelic,,Norfolcr,,,,,,,,,,,x
-c_norfolk,norwegian,,Norfolc,,,,,,,,,,,x
-c_norfolk,c_norfolk_adj_norwegian,,Norfolcr,,,,,,,,,,,x
+c_norfolk,norse,,Nor√∞folc,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj_norse,,Nor√∞folcr,,,,,,,,,,,x
+c_norfolk,norsegaelic,,Nor√∞folc,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj_norsegaelic,,Nor√∞folcr,,,,,,,,,,,x
+c_norfolk,norwegian,,Nor√∞folc,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj_norwegian,,Nor√∞folcr,,,,,,,,,,,x
 c_norfolk,saxon,,Northfolc,,,,,,,,,,,x
-c_norfolk,c_norfolk_adj_saxon,,Nor˛folcisc,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj_saxon,,Nor√æfolcisc,,,,,,,,,,,x
 c_norfolk,scottish,,Caer Went,,,,,,,,,,,x
 c_norfolk,c_norfolk_adj_scottish,,Wentian,,,,,,,,,,,x
-c_norfolk,swedish,,Norfolc,,,,,,,,,,,x
-c_norfolk,c_norfolk_adj_swedish,,Norfolcr,,,,,,,,,,,x
+c_norfolk,swedish,,Nor√∞folc,,,,,,,,,,,x
+c_norfolk,c_norfolk_adj_swedish,,Nor√∞folcr,,,,,,,,,,,x
 c_norfolk,welsh,,Caer went,,,,,,,,,,,x
 c_norfolk,c_norfolk_adj_welsh,,Wentian,,,,,,,,,,,x
 b_thetford,b_thetford,,Thetford,,,,,,,,,,,x
@@ -2126,22 +2126,22 @@ c_suffolk,PROV71,,Suffolk,,,,,,,,,,,x
 c_suffolk,c_suffolk,,,,,,,,,,,,,x
 c_suffolk,c_suffolk_adj,,Suffolkish,,,,,,,,,,,x
 c_suffolk,anglonorse,,Suthfolc,,,,,,,,,,,x
-c_suffolk,danish,,Sufolc,,,,,,,,,,,x
-c_suffolk,c_suffolk_adj_danish,,Sufolcr,,,,,,,,,,,x
-c_suffolk,gothic,,Sufolc,,,,,,,,,,,x
-c_suffolk,c_suffolk_adj_gothic,,Sufolcr,,,,,,,,,,,x
-c_suffolk,icelandic,,Sufolc,,,,,,,,,,,x
-c_suffolk,c_suffolk_adj_icelandic,,Sufolcr,,,,,,,,,,,x
-c_suffolk,norse,,Sufolc,,,,,,,,,,,x
-c_suffolk,c_suffolk_adj_norse,,Sufolcr,,,,,,,,,,,x
-c_suffolk,norsegaelic,,Sufolc,,,,,,,,,,,x
-c_suffolk,c_suffolk_adj_norsegaelic,,Sufolcr,,,,,,,,,,,x
-c_suffolk,norwegian,,Sufolc,,,,,,,,,,,x
-c_suffolk,c_suffolk_adj_norwegian,,Sufolcr,,,,,,,,,,,x
+c_suffolk,danish,,Su√∞folc,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj_danish,,Su√∞folcr,,,,,,,,,,,x
+c_suffolk,gothic,,Su√∞folc,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj_gothic,,Su√∞folcr,,,,,,,,,,,x
+c_suffolk,icelandic,,Su√∞folc,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj_icelandic,,Su√∞folcr,,,,,,,,,,,x
+c_suffolk,norse,,Su√∞folc,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj_norse,,Su√∞folcr,,,,,,,,,,,x
+c_suffolk,norsegaelic,,Su√∞folc,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj_norsegaelic,,Su√∞folcr,,,,,,,,,,,x
+c_suffolk,norwegian,,Su√∞folc,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj_norwegian,,Su√∞folcr,,,,,,,,,,,x
 c_suffolk,saxon,,Suthfolc,,,,,,,,,,,x
-c_suffolk,c_suffolk_adj_saxon,,Su˛folcisc,,,,,,,,,,,x
-c_suffolk,swedish,,Sufolc,,,,,,,,,,,x
-c_suffolk,c_suffolk_adj_swedish,,Sufolcr,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj_saxon,,Su√æfolcisc,,,,,,,,,,,x
+c_suffolk,swedish,,Su√∞folc,,,,,,,,,,,x
+c_suffolk,c_suffolk_adj_swedish,,Su√∞folcr,,,,,,,,,,,x
 b_ipswich,b_ipswich,,Ipswich,,,,,,,,,,,x
 b_ipswich,b_ipswich_adj,,,,,,,,,,,,,x
 b_ipswich,anglonorse,,Gipeswic,,,,,,,,,,,x
@@ -2190,25 +2190,25 @@ c_ely,PROV983,,Isle of Ely,,,,,,,,,,,x
 c_ely,c_ely,,,,,,,,,,,,,x
 c_ely,c_ely_adj,,Elyian,,,,,,,,,,,x
 c_ely,anglonorse,,Elig,,,,,,,,,,,x
-c_ely,danish,,…lig,,,,,,,,,,,x
-c_ely,gothic,,…lig,,,,,,,,,,,x
-c_ely,icelandic,,…lig,,,,,,,,,,,x
-c_ely,norse,,…lig,,,,,,,,,,,x
-c_ely,norsegaelic,,…lig,,,,,,,,,,,x
-c_ely,norwegian,,…lig,,,,,,,,,,,x
+c_ely,danish,,√âlig,,,,,,,,,,,x
+c_ely,gothic,,√âlig,,,,,,,,,,,x
+c_ely,icelandic,,√âlig,,,,,,,,,,,x
+c_ely,norse,,√âlig,,,,,,,,,,,x
+c_ely,norsegaelic,,√âlig,,,,,,,,,,,x
+c_ely,norwegian,,√âlig,,,,,,,,,,,x
 c_ely,saxon,,Elig,,,,,,,,,,,x
-c_ely,swedish,,…lig,,,,,,,,,,,x
+c_ely,swedish,,√âlig,,,,,,,,,,,x
 b_ely,b_ely,,Ely,,,,,,,,,,,x
 b_ely,b_ely_adj,,,,,,,,,,,,,x
 b_ely,anglonorse,,Elig,,,,,,,,,,,x
-b_ely,danish,,…lig,,,,,,,,,,,x
-b_ely,gothic,,…lig,,,,,,,,,,,x
-b_ely,icelandic,,…lig,,,,,,,,,,,x
-b_ely,norse,,…lig,,,,,,,,,,,x
-b_ely,norsegaelic,,…lig,,,,,,,,,,,x
-b_ely,norwegian,,…lig,,,,,,,,,,,x
+b_ely,danish,,√âlig,,,,,,,,,,,x
+b_ely,gothic,,√âlig,,,,,,,,,,,x
+b_ely,icelandic,,√âlig,,,,,,,,,,,x
+b_ely,norse,,√âlig,,,,,,,,,,,x
+b_ely,norsegaelic,,√âlig,,,,,,,,,,,x
+b_ely,norwegian,,√âlig,,,,,,,,,,,x
 b_ely,saxon,,Elig,,,,,,,,,,,x
-b_ely,swedish,,…lig,,,,,,,,,,,x
+b_ely,swedish,,√âlig,,,,,,,,,,,x
 b_wisbech,b_wisbech,,Wisbech,,,,,,,,,,,x
 b_wisbech,b_wisbech_adj,,,,,,,,,,,,,x
 b_littleport,b_littleport,,Littelport,,,,,,,,,,,x
@@ -2259,14 +2259,14 @@ b_cambridge,welsh,,Caergrawnt,,,,,,,,,,,x
 b_aldreth,b_aldreth,,Aldreth,,,,,,,,,,,x
 b_aldreth,b_aldreth_adj,,,,,,,,,,,,,x
 b_aldreth,anglonorse,,Ealdrehetha,,,,,,,,,,,x
-b_aldreth,danish,,Alrehea,,,,,,,,,,,x
-b_aldreth,gothic,,Alrehea,,,,,,,,,,,x
-b_aldreth,icelandic,,Alrehea,,,,,,,,,,,x
-b_aldreth,norse,,Alrehea,,,,,,,,,,,x
-b_aldreth,norsegaelic,,Alrehea,,,,,,,,,,,x
-b_aldreth,norwegian,,Alrehea,,,,,,,,,,,x
+b_aldreth,danish,,Alrehe√∞a,,,,,,,,,,,x
+b_aldreth,gothic,,Alrehe√∞a,,,,,,,,,,,x
+b_aldreth,icelandic,,Alrehe√∞a,,,,,,,,,,,x
+b_aldreth,norse,,Alrehe√∞a,,,,,,,,,,,x
+b_aldreth,norsegaelic,,Alrehe√∞a,,,,,,,,,,,x
+b_aldreth,norwegian,,Alrehe√∞a,,,,,,,,,,,x
 b_aldreth,saxon,,Ealdrehetha,,,,,,,,,,,x
-b_aldreth,swedish,,Alrehea,,,,,,,,,,,x
+b_aldreth,swedish,,Alrehe√∞a,,,,,,,,,,,x
 b_camps,b_camps,,Camps,,,,,,,,,,,x
 b_camps,b_camps_adj,,,,,,,,,,,,,x
 b_camps,norman,,Canpas,,,,,,,,,,,x
@@ -2465,45 +2465,45 @@ c_derby,PROV63,,Derby,,,,,,,,,,,x
 c_derby,c_derby,,,,,,,,,,,,,x
 c_derby,c_derby_adj,,Derbyish,,,,,,,,,,,x
 c_derby,anglonorse,,Deoraby,,,,,,,,,,,x
-c_derby,danish,,Dj˙rab˝,,,,,,,,,,,x
-c_derby,c_derby_adj_danish,,Dj˙rab˝r,,,,,,,,,,,x
-c_derby,gothic,,Dj˙rab˝,,,,,,,,,,,x
-c_derby,c_derby_adj_gothic,,Dj˙rab˝r,,,,,,,,,,,x
-c_derby,icelandic,,Dj˙rab˝,,,,,,,,,,,x
-c_derby,c_derby_adj_icelandic,,Dj˙rab˝r,,,,,,,,,,,x
-c_derby,norse,,Dj˙rab˝,,,,,,,,,,,x
-c_derby,c_derby_adj_norse,,Dj˙rab˝r,,,,,,,,,,,x
-c_derby,norsegaelic,,Dj˙rab˝,,,,,,,,,,,x
-c_derby,c_derby_adj_norsegaelic,,Dj˙rab˝r,,,,,,,,,,,x
-c_derby,norwegian,,Dj˙rab˝,,,,,,,,,,,x
-c_derby,c_derby_adj_norwegian,,Dj˙rab˝r,,,,,,,,,,,x
+c_derby,danish,,Dj√∫rab√Ω,,,,,,,,,,,x
+c_derby,c_derby_adj_danish,,Dj√∫rab√Ωr,,,,,,,,,,,x
+c_derby,gothic,,Dj√∫rab√Ω,,,,,,,,,,,x
+c_derby,c_derby_adj_gothic,,Dj√∫rab√Ωr,,,,,,,,,,,x
+c_derby,icelandic,,Dj√∫rab√Ω,,,,,,,,,,,x
+c_derby,c_derby_adj_icelandic,,Dj√∫rab√Ωr,,,,,,,,,,,x
+c_derby,norse,,Dj√∫rab√Ω,,,,,,,,,,,x
+c_derby,c_derby_adj_norse,,Dj√∫rab√Ωr,,,,,,,,,,,x
+c_derby,norsegaelic,,Dj√∫rab√Ω,,,,,,,,,,,x
+c_derby,c_derby_adj_norsegaelic,,Dj√∫rab√Ωr,,,,,,,,,,,x
+c_derby,norwegian,,Dj√∫rab√Ω,,,,,,,,,,,x
+c_derby,c_derby_adj_norwegian,,Dj√∫rab√Ωr,,,,,,,,,,,x
 c_derby,saxon,,Northworthig,,,,,,,,,,,x
 c_derby,c_derby_adj_saxon,,Deorbyisc,,,,,,,,,,,x
-c_derby,swedish,,Dj˙rab˝,,,,,,,,,,,x
-c_derby,c_derby_adj_swedish,,Dj˙rab˝r,,,,,,,,,,,x
+c_derby,swedish,,Dj√∫rab√Ω,,,,,,,,,,,x
+c_derby,c_derby_adj_swedish,,Dj√∫rab√Ωr,,,,,,,,,,,x
 b_castleton,b_castleton,,Castleton,,,,,,,,,,,x
 b_castleton,b_castleton_adj,,,,,,,,,,,,,x
-b_castleton,anglonorse,,PÈacland,,,,,,,,,,,x
-b_castleton,danish,,PÈacland,,,,,,,,,,,x
-b_castleton,gothic,,PÈacland,,,,,,,,,,,x
-b_castleton,icelandic,,PÈacland,,,,,,,,,,,x
+b_castleton,anglonorse,,P√©acland,,,,,,,,,,,x
+b_castleton,danish,,P√©acland,,,,,,,,,,,x
+b_castleton,gothic,,P√©acland,,,,,,,,,,,x
+b_castleton,icelandic,,P√©acland,,,,,,,,,,,x
 b_castleton,norman,,Pechesers,,,,,,,,,,,x
-b_castleton,norse,,PÈacland,,,,,,,,,,,x
-b_castleton,norsegaelic,,PÈacland,,,,,,,,,,,x
-b_castleton,norwegian,,PÈacland,,,,,,,,,,,x
+b_castleton,norse,,P√©acland,,,,,,,,,,,x
+b_castleton,norsegaelic,,P√©acland,,,,,,,,,,,x
+b_castleton,norwegian,,P√©acland,,,,,,,,,,,x
 b_castleton,saxon,,Peacland,,,,,,,,,,,x
-b_castleton,swedish,,PÈacland,,,,,,,,,,,x
+b_castleton,swedish,,P√©acland,,,,,,,,,,,x
 b_derby,b_derby,,Derby,,,,,,,,,,,x
 b_derby,b_derby_adj,,,,,,,,,,,,,x
 b_derby,anglonorse,,Deoraby,,,,,,,,,,,x
-b_derby,danish,,Dj˙rab˝,,,,,,,,,,,x
-b_derby,gothic,,Dj˙rab˝,,,,,,,,,,,x
-b_derby,icelandic,,Dj˙rab˝,,,,,,,,,,,x
-b_derby,norse,,Dj˙rab˝,,,,,,,,,,,x
-b_derby,norsegaelic,,Dj˙rab˝,,,,,,,,,,,x
-b_derby,norwegian,,Dj˙rab˝,,,,,,,,,,,x
+b_derby,danish,,Dj√∫rab√Ω,,,,,,,,,,,x
+b_derby,gothic,,Dj√∫rab√Ω,,,,,,,,,,,x
+b_derby,icelandic,,Dj√∫rab√Ω,,,,,,,,,,,x
+b_derby,norse,,Dj√∫rab√Ω,,,,,,,,,,,x
+b_derby,norsegaelic,,Dj√∫rab√Ω,,,,,,,,,,,x
+b_derby,norwegian,,Dj√∫rab√Ω,,,,,,,,,,,x
 b_derby,saxon,,Northworthig,,,,,,,,,,,x
-b_derby,swedish,,Dj˙rab˝,,,,,,,,,,,x
+b_derby,swedish,,Dj√∫rab√Ω,,,,,,,,,,,x
 b_chesterfield,b_chesterfield,,Chesterfield,,,,,,,,,,,x
 b_chesterfield,b_chesterfield_adj,,,,,,,,,,,,,x
 b_duffield,b_duffield,,Duffield,,,,,,,,,,,x
@@ -2586,29 +2586,29 @@ d_york,cornish,,Deifr,,,,,,,,,,,x
 d_york,d_york_adj_cornish,,Deifran,,,,,,,,,,,x
 d_york,cumbric,,Deifr,,,,,,,,,,,x
 d_york,d_york_adj_cumbric,,Deifran,,,,,,,,,,,x
-d_york,danish,,JorvÌk,,,,,,,,,,,x
-d_york,d_york_adj_danish,,JorvÌkr,,,,,,,,,,,x
-d_york,gothic,,JorvÌk,,,,,,,,,,,x
-d_york,d_york_adj_gothic,,JorvÌkr,,,,,,,,,,,x
+d_york,danish,,Jorv√≠k,,,,,,,,,,,x
+d_york,d_york_adj_danish,,Jorv√≠kr,,,,,,,,,,,x
+d_york,gothic,,Jorv√≠k,,,,,,,,,,,x
+d_york,d_york_adj_gothic,,Jorv√≠kr,,,,,,,,,,,x
 d_york,greek,,Eborakon,,,,,,,,,,,x
-d_york,icelandic,,JorvÌk,,,,,,,,,,,x
-d_york,d_york_adj_icelandic,,JorvÌkr,,,,,,,,,,,x
+d_york,icelandic,,Jorv√≠k,,,,,,,,,,,x
+d_york,d_york_adj_icelandic,,Jorv√≠kr,,,,,,,,,,,x
 d_york,irish,,Deifr,,,,,,,,,,,x
 d_york,d_york_adj_irish,,Deifran,,,,,,,,,,,x
-d_york,norman,,…verwyck,,,,,,,,,,,x
-d_york,norse,,JorvÌk,,,,,,,,,,,x
-d_york,d_york_adj_norse,,JorvÌkr,,,,,,,,,,,x
-d_york,norsegaelic,,JorvÌk,,,,,,,,,,,x
-d_york,d_york_adj_norsegaelic,,JorvÌkr,,,,,,,,,,,x
-d_york,norwegian,,JorvÌk,,,,,,,,,,,x
-d_york,d_york_adj_norwegian,,JorvÌkr,,,,,,,,,,,x
+d_york,norman,,√âverwyck,,,,,,,,,,,x
+d_york,norse,,Jorv√≠k,,,,,,,,,,,x
+d_york,d_york_adj_norse,,Jorv√≠kr,,,,,,,,,,,x
+d_york,norsegaelic,,Jorv√≠k,,,,,,,,,,,x
+d_york,d_york_adj_norsegaelic,,Jorv√≠kr,,,,,,,,,,,x
+d_york,norwegian,,Jorv√≠k,,,,,,,,,,,x
+d_york,d_york_adj_norwegian,,Jorv√≠kr,,,,,,,,,,,x
 d_york,roman,,Eboracum,,,,,,,,,,,x
 d_york,saxon,,Dere,,,,,,,,,,,x
 d_york,d_york_adj_saxon,,Derisc,,,,,,,,,,,x
 d_york,scottish,,Deifr,,,,,,,,,,,x
 d_york,d_york_adj_scottish,,Deifran,,,,,,,,,,,x
-d_york,swedish,,JorvÌk,,,,,,,,,,,x
-d_york,d_york_adj_swedish,,JorvÌkr,,,,,,,,,,,x
+d_york,swedish,,Jorv√≠k,,,,,,,,,,,x
+d_york,d_york_adj_swedish,,Jorv√≠kr,,,,,,,,,,,x
 d_york,welsh,,Deifr,,,,,,,,,,,x
 d_york,d_york_adj_welsh,,Deifran,,,,,,,,,,,x
 c_york,PROV57,,The West Riding,,,,,,,,,,,x
@@ -2621,29 +2621,29 @@ c_york,cornish,,Ebrauc,,,,,,,,,,,x
 c_york,c_york_adj_cornish,,Ebraucian,,,,,,,,,,,x
 c_york,cumbric,,Efrog,,,,,,,,,,,x
 c_york,c_york_adj_cumbric,,Efrogian,,,,,,,,,,,x
-c_york,danish,,JorvÌk,,,,,,,,,,,x
-c_york,c_york_adj_danish,,JorvÌkr,,,,,,,,,,,x
-c_york,gothic,,JorvÌk,,,,,,,,,,,x
-c_york,c_york_adj_gothic,,JorvÌkr,,,,,,,,,,,x
+c_york,danish,,Jorv√≠k,,,,,,,,,,,x
+c_york,c_york_adj_danish,,Jorv√≠kr,,,,,,,,,,,x
+c_york,gothic,,Jorv√≠k,,,,,,,,,,,x
+c_york,c_york_adj_gothic,,Jorv√≠kr,,,,,,,,,,,x
 c_york,greek,,Eborakon,,,,,,,,,,,x
-c_york,icelandic,,JorvÌk,,,,,,,,,,,x
-c_york,c_york_adj_icelandic,,JorvÌkr,,,,,,,,,,,x
+c_york,icelandic,,Jorv√≠k,,,,,,,,,,,x
+c_york,c_york_adj_icelandic,,Jorv√≠kr,,,,,,,,,,,x
 c_york,irish,,Ebrauc,,,,,,,,,,,x
 c_york,c_york_adj_irish,,Ebraucian,,,,,,,,,,,x
-c_york,norman,,…verwyck,,,,,,,,,,,x
-c_york,norse,,JorvÌk,,,,,,,,,,,x
-c_york,c_york_adj_norse,,JorvÌkr,,,,,,,,,,,x
-c_york,norsegaelic,,JorvÌk,,,,,,,,,,,x
-c_york,c_york_adj_norsegaelic,,JorvÌkr,,,,,,,,,,,x
-c_york,norwegian,,JorvÌk,,,,,,,,,,,x
-c_york,c_york_adj_norwegian,,JorvÌkr,,,,,,,,,,,x
+c_york,norman,,√âverwyck,,,,,,,,,,,x
+c_york,norse,,Jorv√≠k,,,,,,,,,,,x
+c_york,c_york_adj_norse,,Jorv√≠kr,,,,,,,,,,,x
+c_york,norsegaelic,,Jorv√≠k,,,,,,,,,,,x
+c_york,c_york_adj_norsegaelic,,Jorv√≠kr,,,,,,,,,,,x
+c_york,norwegian,,Jorv√≠k,,,,,,,,,,,x
+c_york,c_york_adj_norwegian,,Jorv√≠kr,,,,,,,,,,,x
 c_york,roman,,Eboracum,,,,,,,,,,,x
 c_york,saxon,,Eoforwic,,,,,,,,,,,x
 c_york,c_york_adj_saxon,,Eoforwicisc,,,,,,,,,,,x
 c_york,scottish,,Ebrauc,,,,,,,,,,,x
 c_york,c_york_adj_scottish,,Ebraucian,,,,,,,,,,,x
-c_york,swedish,,JorvÌk,,,,,,,,,,,x
-c_york,c_york_adj_swedish,,JorvÌkr,,,,,,,,,,,x
+c_york,swedish,,Jorv√≠k,,,,,,,,,,,x
+c_york,c_york_adj_swedish,,Jorv√≠kr,,,,,,,,,,,x
 c_york,welsh,,Efrog,,,,,,,,,,,x
 c_york,c_york_adj_welsh,,Efrogian,,,,,,,,,,,x
 b_york,b_york,,York,,,,,,,,,,,x
@@ -2657,7 +2657,7 @@ b_york,gothic,,Jorvik,,,,,,,,,,,x
 b_york,greek,,Eborakon,,,,,,,,,,,x
 b_york,icelandic,,Jorvik,,,,,,,,,,,x
 b_york,irish,,Ebrauc,,,,,,,,,,,x
-b_york,norman,,…verwyck,,,,,,,,,,,x
+b_york,norman,,√âverwyck,,,,,,,,,,,x
 b_york,norse,,Jorvik,,,,,,,,,,,x
 b_york,norsegaelic,,Jorvik,,,,,,,,,,,x
 b_york,norwegian,,Jorvik,,,,,,,,,,,x
@@ -2717,19 +2717,19 @@ c_york_moors,PROV1415,,The North Riding,,,,,,,,,,,x
 c_york_moors,c_york_moors,,,,,,,,,,,,,x
 c_york_moors,c_york_moors_adj,,North Yorkish,,,,,,,,,,,x
 c_york_moors,anglonorse,,se North Thriding,,,,,,,,,,,x
-c_york_moors,norse,,Skaraborg,,,,,,,,,,,x
+c_york_moors,norse,,Skar√∞aborg,,,,,,,,,,,x
 c_york_moors,saxon,,North Dere,,,,,,,,,,,x
 b_scarborough,b_scarborough,,Scarborough,,,,,,,,,,,x
 b_scarborough,b_scarborough_adj,,,,,,,,,,,,,x
 b_scarborough,anglonorse,,Skarthaburh,,,,,,,,,,,x
 b_scarborough,danish,,Skardaburgh,,,,,,,,,,,x
-b_scarborough,gothic,,Skaraborg,,,,,,,,,,,x
-b_scarborough,icelandic,,Skaraborg,,,,,,,,,,,x
-b_scarborough,norse,,Skaraborg,,,,,,,,,,,x
-b_scarborough,norsegaelic,,Skaraborg,,,,,,,,,,,x
-b_scarborough,norwegian,,Skaraborg,,,,,,,,,,,x
+b_scarborough,gothic,,Skar√∞aborg,,,,,,,,,,,x
+b_scarborough,icelandic,,Skar√∞aborg,,,,,,,,,,,x
+b_scarborough,norse,,Skar√∞aborg,,,,,,,,,,,x
+b_scarborough,norsegaelic,,Skar√∞aborg,,,,,,,,,,,x
+b_scarborough,norwegian,,Skar√∞aborg,,,,,,,,,,,x
 b_scarborough,saxon,,Sceardesburh,,,,,,,,,,,x
-b_scarborough,swedish,,Skaraborg,,,,,,,,,,,x
+b_scarborough,swedish,,Skar√∞aborg,,,,,,,,,,,x
 b_bedale,b_bedale,,Bedale,,,,,,,,,,,x
 b_bedale,b_bedale_adj,,,,,,,,,,,,,x
 b_malton,b_malton,,Malton,,,,,,,,,,,x
@@ -2937,14 +2937,14 @@ b_lancaster,welsh,,Gaerhirfryn,,,,,,,,,,,x
 b_furness,b_furness,,Furness,,,,,,,,,,,x
 b_furness,b_furness_adj,,,,,,,,,,,,,x
 b_furness,anglonorse,,Futhernessa,,,,,,,,,,,x
-b_furness,danish,,Fu˛˛ernessa,,,,,,,,,,,x
-b_furness,gothic,,Fu˛˛ernessa,,,,,,,,,,,x
-b_furness,icelandic,,Fu˛˛ernessa,,,,,,,,,,,x
-b_furness,norse,,Fu˛˛ernessa,,,,,,,,,,,x
-b_furness,norsegaelic,,Fu˛˛ernessa,,,,,,,,,,,x
-b_furness,norwegian,,Fu˛˛ernessa,,,,,,,,,,,x
-b_furness,saxon,,FuthernÊssa,,,,,,,,,,,x
-b_furness,swedish,,Fu˛˛ernessa,,,,,,,,,,,x
+b_furness,danish,,Fu√æ√æernessa,,,,,,,,,,,x
+b_furness,gothic,,Fu√æ√æernessa,,,,,,,,,,,x
+b_furness,icelandic,,Fu√æ√æernessa,,,,,,,,,,,x
+b_furness,norse,,Fu√æ√æernessa,,,,,,,,,,,x
+b_furness,norsegaelic,,Fu√æ√æernessa,,,,,,,,,,,x
+b_furness,norwegian,,Fu√æ√æernessa,,,,,,,,,,,x
+b_furness,saxon,,Futhern√¶ssa,,,,,,,,,,,x
+b_furness,swedish,,Fu√æ√æernessa,,,,,,,,,,,x
 b_piel_island,b_piel_island,,Fowdray,,,,,,,,,,,x
 b_piel_island,b_piel_island_adj,,,,,,,,,,,,,x
 b_piel_island,anglonorse,,Fodderelig,,,,,,,,,,,x
@@ -3077,15 +3077,15 @@ b_appleby,b_appleby_adj,,,,,,,,,,,,,x
 b_kendal,b_kendal,,Kirkby,,,,,,,,,,,x
 b_kendal,b_kendal_adj,,,,,,,,,,,,,x
 b_kendal,anglonorse,,Kirkby,,,,,,,,,,,x
-b_kendal,danish,,Kirkjub˝r,,,,,,,,,,,x
-b_kendal,gothic,,Kirkjub˝r,,,,,,,,,,,x
-b_kendal,icelandic,,Kirkjub˝r,,,,,,,,,,,x
+b_kendal,danish,,Kirkjub√Ωr,,,,,,,,,,,x
+b_kendal,gothic,,Kirkjub√Ωr,,,,,,,,,,,x
+b_kendal,icelandic,,Kirkjub√Ωr,,,,,,,,,,,x
 b_kendal,norman,,Cherchbi,,,,,,,,,,,x
-b_kendal,norse,,Kirkjub˝r,,,,,,,,,,,x
-b_kendal,norsegaelic,,Kirkjub˝r,,,,,,,,,,,x
-b_kendal,norwegian,,Kirkjub˝r,,,,,,,,,,,x
+b_kendal,norse,,Kirkjub√Ωr,,,,,,,,,,,x
+b_kendal,norsegaelic,,Kirkjub√Ωr,,,,,,,,,,,x
+b_kendal,norwegian,,Kirkjub√Ωr,,,,,,,,,,,x
 b_kendal,saxon,,Ciricby,,,,,,,,,,,x
-b_kendal,swedish,,Kirkjub˝r,,,,,,,,,,,x
+b_kendal,swedish,,Kirkjub√Ωr,,,,,,,,,,,x
 b_brough,b_brough,,Brough,,,,,,,,,,,x
 b_brough,b_brough_adj,,,,,,,,,,,,,x
 d_northumberland,d_northumberland,,Northumberland,,,,,,,,,,,x
@@ -3098,26 +3098,26 @@ d_northumberland,cornish,,Brynaich,,,,,,,,,,,x
 d_northumberland,d_northumberland_adj_cornish,,Brynaichan,,,,,,,,,,,x
 d_northumberland,cumbric,,Brynaich,,,,,,,,,,,x
 d_northumberland,d_northumberland_adj_cumbric,,Brynaichan,,,,,,,,,,,x
-d_northumberland,danish,,Norhymbraland,,,,,,,,,,,x
-d_northumberland,d_northumberland_adj_danish,,Norhymbrir,,,,,,,,,,,x
-d_northumberland,gothic,,Norhymbraland,,,,,,,,,,,x
-d_northumberland,d_northumberland_adj_gothic,,Norhymbrir,,,,,,,,,,,x
-d_northumberland,icelandic,,Norhymbraland,,,,,,,,,,,x
-d_northumberland,d_northumberland_adj_icelandic,,Norhymbrir,,,,,,,,,,,x
+d_northumberland,danish,,Nor√∞hymbraland,,,,,,,,,,,x
+d_northumberland,d_northumberland_adj_danish,,Nor√∞hymbrir,,,,,,,,,,,x
+d_northumberland,gothic,,Nor√∞hymbraland,,,,,,,,,,,x
+d_northumberland,d_northumberland_adj_gothic,,Nor√∞hymbrir,,,,,,,,,,,x
+d_northumberland,icelandic,,Nor√∞hymbraland,,,,,,,,,,,x
+d_northumberland,d_northumberland_adj_icelandic,,Nor√∞hymbrir,,,,,,,,,,,x
 d_northumberland,irish,,Brynaich,,,,,,,,,,,x
 d_northumberland,d_northumberland_adj_irish,,Brynaichan,,,,,,,,,,,x
-d_northumberland,norse,,Norhymbraland,,,,,,,,,,,x
-d_northumberland,d_northumberland_adj_norse,,Norhymbrir,,,,,,,,,,,x
-d_northumberland,norsegaelic,,Norhymbraland,,,,,,,,,,,x
-d_northumberland,d_northumberland_adj_norsegaelic,,Norhymbrir,,,,,,,,,,,x
-d_northumberland,norwegian,,Norhymbraland,,,,,,,,,,,x
-d_northumberland,d_northumberland_adj_norwegian,,Norhymbrir,,,,,,,,,,,x
+d_northumberland,norse,,Nor√∞hymbraland,,,,,,,,,,,x
+d_northumberland,d_northumberland_adj_norse,,Nor√∞hymbrir,,,,,,,,,,,x
+d_northumberland,norsegaelic,,Nor√∞hymbraland,,,,,,,,,,,x
+d_northumberland,d_northumberland_adj_norsegaelic,,Nor√∞hymbrir,,,,,,,,,,,x
+d_northumberland,norwegian,,Nor√∞hymbraland,,,,,,,,,,,x
+d_northumberland,d_northumberland_adj_norwegian,,Nor√∞hymbrir,,,,,,,,,,,x
 d_northumberland,saxon,,Northymbraland,,,,,,,,,,,x
 d_northumberland,d_northumberland_adj_saxon,,Northymbrisc,,,,,,,,,,,x
 d_northumberland,scottish,,Brynaich,,,,,,,,,,,x
 d_northumberland,d_northumberland_adj_scottish,,Brynaichan,,,,,,,,,,,x
-d_northumberland,swedish,,Norhymbraland,,,,,,,,,,,x
-d_northumberland,d_northumberland_adj_swedish,,Norhymbrir,,,,,,,,,,,x
+d_northumberland,swedish,,Nor√∞hymbraland,,,,,,,,,,,x
+d_northumberland,d_northumberland_adj_swedish,,Nor√∞hymbrir,,,,,,,,,,,x
 d_northumberland,welsh,,Brynaich,,,,,,,,,,,x
 d_northumberland,d_northumberland_adj_welsh,,Brynaichan,,,,,,,,,,,x
 c_northumberland,PROV52,,Northumberland,,,,,,,,,,,x
@@ -3130,26 +3130,26 @@ c_northumberland,cornish,,Brynaich,,,,,,,,,,,x
 c_northumberland,c_northumberland_adj_cornish,,Brynaichian,,,,,,,,,,,x
 c_northumberland,cumbric,,Brynaich,,,,,,,,,,,x
 c_northumberland,c_northumberland_adj_cumbric,,Brynaichian,,,,,,,,,,,x
-c_northumberland,danish,,Norhymbraland,,,,,,,,,,,x
-c_northumberland,c_northumberland_adj_danish,,Norhymbrir,,,,,,,,,,,x
-c_northumberland,gothic,,Norhymbraland,,,,,,,,,,,x
-c_northumberland,c_northumberland_adj_gothic,,Norhymbrir,,,,,,,,,,,x
-c_northumberland,icelandic,,Norhymbraland,,,,,,,,,,,x
-c_northumberland,c_northumberland_adj_icelandic,,Norhymbrir,,,,,,,,,,,x
+c_northumberland,danish,,Nor√∞hymbraland,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj_danish,,Nor√∞hymbrir,,,,,,,,,,,x
+c_northumberland,gothic,,Nor√∞hymbraland,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj_gothic,,Nor√∞hymbrir,,,,,,,,,,,x
+c_northumberland,icelandic,,Nor√∞hymbraland,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj_icelandic,,Nor√∞hymbrir,,,,,,,,,,,x
 c_northumberland,irish,,Brynaich,,,,,,,,,,,x
 c_northumberland,c_northumberland_adj_irish,,Brynaichian,,,,,,,,,,,x
-c_northumberland,norse,,Norhymbraland,,,,,,,,,,,x
-c_northumberland,c_northumberland_adj_norse,,Norhymbrir,,,,,,,,,,,x
-c_northumberland,norsegaelic,,Norhymbraland,,,,,,,,,,,x
-c_northumberland,c_northumberland_adj_norsegaelic,,Norhymbrir,,,,,,,,,,,x
-c_northumberland,norwegian,,Norhymbraland,,,,,,,,,,,x
-c_northumberland,c_northumberland_adj_norwegian,,Norhymbrir,,,,,,,,,,,x
+c_northumberland,norse,,Nor√∞hymbraland,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj_norse,,Nor√∞hymbrir,,,,,,,,,,,x
+c_northumberland,norsegaelic,,Nor√∞hymbraland,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj_norsegaelic,,Nor√∞hymbrir,,,,,,,,,,,x
+c_northumberland,norwegian,,Nor√∞hymbraland,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj_norwegian,,Nor√∞hymbrir,,,,,,,,,,,x
 c_northumberland,saxon,,Beornice,,,,,,,,,,,x
-c_northumberland,c_northumberland_adj_saxon,,Nor˛hymbrisc,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj_saxon,,Nor√æhymbrisc,,,,,,,,,,,x
 c_northumberland,scottish,,Brynaich,,,,,,,,,,,x
 c_northumberland,c_northumberland_adj_scottish,,Brynaichian,,,,,,,,,,,x
-c_northumberland,swedish,,Norhymbraland,,,,,,,,,,,x
-c_northumberland,c_northumberland_adj_swedish,,Norhymbrir,,,,,,,,,,,x
+c_northumberland,swedish,,Nor√∞hymbraland,,,,,,,,,,,x
+c_northumberland,c_northumberland_adj_swedish,,Nor√∞hymbrir,,,,,,,,,,,x
 c_northumberland,welsh,,Brynaich,,,,,,,,,,,x
 c_northumberland,c_northumberland_adj_welsh,,Brynaichian,,,,,,,,,,,x
 b_bamburgh,b_bamburgh,,Bamburgh,,,,,,,,,,,x
@@ -3314,53 +3314,53 @@ b_penrith,cumbric,,Penryth,,,,,,,,,,,x
 b_penrith,irish,,Penryth,,,,,,,,,,,x
 b_penrith,scottish,,Penryth,,,,,,,,,,,x
 b_penrith,welsh,,Penryth,,,,,,,,,,,x
-d_channel_islands,d_channel_islands,,Œles d'la Manche,,,,,,,,,,,x
-d_channel_islands,d_channel_islands_adj,,Œles d'la Manche,,,,,,,,,,,x
-d_channel_islands,arpitan,,Œles d'la Manche,,,,,,,,,,,x
+d_channel_islands,d_channel_islands,,√éles d'la Manche,,,,,,,,,,,x
+d_channel_islands,d_channel_islands_adj,,√éles d'la Manche,,,,,,,,,,,x
+d_channel_islands,arpitan,,√éles d'la Manche,,,,,,,,,,,x
 d_channel_islands,breton,,Inizi Mor Breizh,,,,,,,,,,,x
 d_channel_islands,d_channel_islands_adj_breton,,Inizi Mor Breizh,,,,,,,,,,,x
 d_channel_islands,cornish,,Inizi Mor Breizh,,,,,,,,,,,x
 d_channel_islands,d_channel_islands_adj_cornish,,Inizi Mor Breizh,,,,,,,,,,,x
 d_channel_islands,cumbric,,Ynysoedd y Sianel,,,,,,,,,,,x
 d_channel_islands,d_channel_islands_adj_cumbric,,Ynysoedd y Sianel,,,,,,,,,,,x
-d_channel_islands,frankish,,Œles d'la Manche,,,,,,,,,,,x
-d_channel_islands,irish,,Oile·in na Bhriot·in,,,,,,,,,,,x
-d_channel_islands,d_channel_islands_adj_irish,,Oile·in na Bhriot·in,,,,,,,,,,,x
-d_channel_islands,norman,,Œles d'la Manche,,,,,,,,,,,x
-d_channel_islands,scottish,,Oile·in na Bhriot·in,,,,,,,,,,,x
-d_channel_islands,d_channel_islands_adj_scottish,,Oile·in na Bhriot·in,,,,,,,,,,,x
+d_channel_islands,frankish,,√éles d'la Manche,,,,,,,,,,,x
+d_channel_islands,irish,,Oile√°in na Bhriot√°in,,,,,,,,,,,x
+d_channel_islands,d_channel_islands_adj_irish,,Oile√°in na Bhriot√°in,,,,,,,,,,,x
+d_channel_islands,norman,,√éles d'la Manche,,,,,,,,,,,x
+d_channel_islands,scottish,,Oile√°in na Bhriot√°in,,,,,,,,,,,x
+d_channel_islands,d_channel_islands_adj_scottish,,Oile√°in na Bhriot√°in,,,,,,,,,,,x
 d_channel_islands,welsh,,Ynysoedd y Sianel,,,,,,,,,,,x
 d_channel_islands,d_channel_islands_adj_welsh,,Ynysoedd y Sianel,,,,,,,,,,,x
 c_jersey,PROV1418,,Channel Isles,,,,,,,,,,,x
 c_jersey,c_jersey,,,,,,,,,,,,,x
-c_jersey,c_jersey_adj,,Œles d'la Manche,,,,,,,,,,,x
-c_jersey,anglonorse,,Jarey,,,,,,,,,,,x
+c_jersey,c_jersey_adj,,√éles d'la Manche,,,,,,,,,,,x
+c_jersey,anglonorse,,Jar√∞ey,,,,,,,,,,,x
 c_jersey,breton,,Jerzenez,,,,,,,,,,,x
 c_jersey,central_italian,,Circea,,,,,,,,,,,x
 c_jersey,cornish,,Jerzenez,,,,,,,,,,,x
 c_jersey,corsican,,Circea,,,,,,,,,,,x
 c_jersey,dalmatian,,Circea,,,,,,,,,,,x
-c_jersey,danish,,Jarey,,,,,,,,,,,x
-c_jersey,gothic,,Jarey,,,,,,,,,,,x
-c_jersey,icelandic,,Jarey,,,,,,,,,,,x
+c_jersey,danish,,Jar√∞ey,,,,,,,,,,,x
+c_jersey,gothic,,Jar√∞ey,,,,,,,,,,,x
+c_jersey,icelandic,,Jar√∞ey,,,,,,,,,,,x
 c_jersey,italian,,Circea,,,,,,,,,,,x
 c_jersey,ligurian,,Circea,,,,,,,,,,,x
 c_jersey,neapolitan,,Circea,,,,,,,,,,,x
-c_jersey,norman,,JËrri,,,,,,,,,,,x
-c_jersey,norse,,Jarey,,,,,,,,,,,x
-c_jersey,norsegaelic,,Jarey,,,,,,,,,,,x
-c_jersey,norwegian,,Jarey,,,,,,,,,,,x
+c_jersey,norman,,J√®rri,,,,,,,,,,,x
+c_jersey,norse,,Jar√∞ey,,,,,,,,,,,x
+c_jersey,norsegaelic,,Jar√∞ey,,,,,,,,,,,x
+c_jersey,norwegian,,Jar√∞ey,,,,,,,,,,,x
 c_jersey,roman,,Caesarea,,,,,,,,,,,x
 c_jersey,sardinian,,Circea,,,,,,,,,,,x
 c_jersey,sicilian,,Circea,,,,,,,,,,,x
 c_jersey,southern_italian,,Circea,,,,,,,,,,,x
-c_jersey,swedish,,Jarey,,,,,,,,,,,x
+c_jersey,swedish,,Jar√∞ey,,,,,,,,,,,x
 c_jersey,tuscan,,Circea,,,,,,,,,,,x
 c_jersey,venetian,,Circea,,,,,,,,,,,x
 c_jersey,welsh,,Jerzenez,,,,,,,,,,,x
 b_st_helier,b_st_helier,,St Helier,,,,,,,,,,,x
 b_st_helier,b_st_helier_adj,,,,,,,,,,,,,x
-b_st_helier,norman,,St HÈlyi,,,,,,,,,,,x
+b_st_helier,norman,,St H√©lyi,,,,,,,,,,,x
 b_gorey,b_gorey,,Gorey,,,,,,,,,,,x
 b_gorey,b_gorey_adj,,,,,,,,,,,,,x
 b_gorey,norman,,Mont Orgueil,,,,,,,,,,,x
@@ -3472,7 +3472,7 @@ b_aberdaron,norsegaelic,,Aberdaron,,,,,,,,,,,x
 b_aberdaron,saxon,,Aberdaron,,,,,,,,,,,x
 b_aberdaron,scottish,,Aberdaron,,,,,,,,,,,x
 b_aberdaron,welsh,,Aberdaron,,,,,,,,,,,x
-c_anglesey,PROV1183,,Ynys MÙn,,,,,,,,,,,x
+c_anglesey,PROV1183,,Ynys M√¥n,,,,,,,,,,,x
 c_anglesey,c_anglesey,,,,,,,,,,,,,x
 c_anglesey,c_anglesey_adj,,Ynys Moneg,,,,,,,,,,,x
 c_anglesey,anglonorse,,Anglesea,,,,,,,,,,,x
@@ -4117,23 +4117,23 @@ b_margam,scottish,,Margam,,,,,,,,,,,x
 b_margam,welsh,,Margam,,,,,,,,,,,x
 k_ireland_titular,k_ireland_titular,,Tara,,,,,,,,,,,x
 k_ireland_titular,k_ireland_titular_adj,,Tara,,,,,,,,,,,x
-k_ireland,k_ireland,,…ire,,,,,,,,,,,x
-k_ireland,k_ireland_adj,,h…ireann,,,,,,,,,,,x
-k_ireland,anglonorse,,Õraland,,,,,,,,,,,x
+k_ireland,k_ireland,,√âire,,,,,,,,,,,x
+k_ireland,k_ireland_adj,,h√âireann,,,,,,,,,,,x
+k_ireland,anglonorse,,√çraland,,,,,,,,,,,x
 k_ireland,breton,,Iwerddon,,,,,,,,,,,x
 k_ireland,cornish,,Iwerddon,,,,,,,,,,,x
 k_ireland,cumbric,,Iwerddon,,,,,,,,,,,x
-k_ireland,danish,,Õraland,,,,,,,,,,,x
+k_ireland,danish,,√çraland,,,,,,,,,,,x
 k_ireland,english,,Ireland,,,,,,,,,,,x
-k_ireland,gothic,,Õraland,,,,,,,,,,,x
-k_ireland,icelandic,,Õraland,,,,,,,,,,,x
-k_ireland,irish,,…ire,,,,,,,,,,,x
-k_ireland,norse,,Õraland,,,,,,,,,,,x
+k_ireland,gothic,,√çraland,,,,,,,,,,,x
+k_ireland,icelandic,,√çraland,,,,,,,,,,,x
+k_ireland,irish,,√âire,,,,,,,,,,,x
+k_ireland,norse,,√çraland,,,,,,,,,,,x
 k_ireland,norsegaelic,,Nerin,,,,,,,,,,,x
-k_ireland,norwegian,,Õraland,,,,,,,,,,,x
-k_ireland,saxon,,Õraland,,,,,,,,,,,x
-k_ireland,scottish,,»irinn,,,,,,,,,,,x
-k_ireland,swedish,,Õraland,,,,,,,,,,,x
+k_ireland,norwegian,,√çraland,,,,,,,,,,,x
+k_ireland,saxon,,√çraland,,,,,,,,,,,x
+k_ireland,scottish,,√àirinn,,,,,,,,,,,x
+k_ireland,swedish,,√çraland,,,,,,,,,,,x
 k_ireland,welsh,,Iwerddon,,,,,,,,,,,x
 d_ulster,d_ulster,,Ulster,,,,,,,,,,,x
 d_ulster,d_ulster_adj,,Ulsterian,,,,,,,,,,,x
@@ -4170,7 +4170,7 @@ b_dunseverick,b_dunseverick_adj,,,,,,,,,,,,,x
 b_dunseverick,breton,,Feigh,,,,,,,,,,,x
 b_dunseverick,cornish,,Feigh,,,,,,,,,,,x
 b_dunseverick,cumbric,,Feigh,,,,,,,,,,,x
-b_dunseverick,irish,,D˙n Sobhairce,,,,,,,,,,,x
+b_dunseverick,irish,,D√∫n Sobhairce,,,,,,,,,,,x
 b_dunseverick,norsegaelic,,Feigh,,,,,,,,,,,x
 b_dunseverick,scottish,,Feigh,,,,,,,,,,,x
 b_dunseverick,welsh,,Feigh,,,,,,,,,,,x
@@ -4202,76 +4202,76 @@ b_larne,swedish,,Ulfreksfjord,,,,,,,,,,,x
 b_larne,welsh,,Latharna,,,,,,,,,,,x
 b_downpatrick,b_downpatrick,,Downpatrick,,,,,,,,,,,x
 b_downpatrick,b_downpatrick_adj,,,,,,,,,,,,,x
-b_downpatrick,breton,,D˙n P·draig,,,,,,,,,,,x
-b_downpatrick,cornish,,D˙n P·draig,,,,,,,,,,,x
-b_downpatrick,cumbric,,D˙n P·draig,,,,,,,,,,,x
-b_downpatrick,irish,,D˙n P·draig,,,,,,,,,,,x
-b_downpatrick,norsegaelic,,D˙n P·draig,,,,,,,,,,,x
-b_downpatrick,scottish,,D˙n P·draig,,,,,,,,,,,x
-b_downpatrick,welsh,,D˙n P·draig,,,,,,,,,,,x
+b_downpatrick,breton,,D√∫n P√°draig,,,,,,,,,,,x
+b_downpatrick,cornish,,D√∫n P√°draig,,,,,,,,,,,x
+b_downpatrick,cumbric,,D√∫n P√°draig,,,,,,,,,,,x
+b_downpatrick,irish,,D√∫n P√°draig,,,,,,,,,,,x
+b_downpatrick,norsegaelic,,D√∫n P√°draig,,,,,,,,,,,x
+b_downpatrick,scottish,,D√∫n P√°draig,,,,,,,,,,,x
+b_downpatrick,welsh,,D√∫n P√°draig,,,,,,,,,,,x
 b_dromore,b_dromore,,Dromore,,,,,,,,,,,x
 b_dromore,b_dromore_adj,,,,,,,,,,,,,x
 b_dromore,anglonorse,,Drummor,,,,,,,,,,,x
-b_dromore,breton,,Druim MÛr,,,,,,,,,,,x
-b_dromore,cornish,,Druim MÛr,,,,,,,,,,,x
-b_dromore,cumbric,,Druim MÛr,,,,,,,,,,,x
-b_dromore,irish,,Druim MÛr,,,,,,,,,,,x
-b_dromore,norsegaelic,,Druim MÛr,,,,,,,,,,,x
+b_dromore,breton,,Druim M√≥r,,,,,,,,,,,x
+b_dromore,cornish,,Druim M√≥r,,,,,,,,,,,x
+b_dromore,cumbric,,Druim M√≥r,,,,,,,,,,,x
+b_dromore,irish,,Druim M√≥r,,,,,,,,,,,x
+b_dromore,norsegaelic,,Druim M√≥r,,,,,,,,,,,x
 b_dromore,saxon,,Drummor,,,,,,,,,,,x
-b_dromore,scottish,,Druim MÛr,,,,,,,,,,,x
-b_dromore,welsh,,Druim MÛr,,,,,,,,,,,x
+b_dromore,scottish,,Druim M√≥r,,,,,,,,,,,x
+b_dromore,welsh,,Druim M√≥r,,,,,,,,,,,x
 c_tyrone,PROV4,,Tyrone,,,,,,,,,,,x
 c_tyrone,c_tyrone,,,,,,,,,,,,,x
 c_tyrone,c_tyrone_adj,,Tir Eoghainian,,,,,,,,,,,x
 c_tyrone,anglonorse,,Tyrowen,,,,,,,,,,,x
-c_tyrone,breton,,TÌr Eogain,,,,,,,,,,,x
-c_tyrone,cornish,,TÌr Eogain,,,,,,,,,,,x
-c_tyrone,cumbric,,TÌr Eogain,,,,,,,,,,,x
+c_tyrone,breton,,T√≠r Eogain,,,,,,,,,,,x
+c_tyrone,cornish,,T√≠r Eogain,,,,,,,,,,,x
+c_tyrone,cumbric,,T√≠r Eogain,,,,,,,,,,,x
 c_tyrone,danish,,Heer Eoin,,,,,,,,,,,x
 c_tyrone,english,,Tyrone,,,,,,,,,,,x
 c_tyrone,gothic,,Heer Eoin,,,,,,,,,,,x
 c_tyrone,icelandic,,Heer Eoin,,,,,,,,,,,x
-c_tyrone,irish,,TÌr Eogain,,,,,,,,,,,x
+c_tyrone,irish,,T√≠r Eogain,,,,,,,,,,,x
 c_tyrone,norse,,Heer Eoin,,,,,,,,,,,x
 c_tyrone,norsegaelic,,Heer Eoin,,,,,,,,,,,x
 c_tyrone,norwegian,,Heer Eoin,,,,,,,,,,,x
 c_tyrone,saxon,,Tyrowen,,,,,,,,,,,x
-c_tyrone,scottish,,TÌr Eogain,,,,,,,,,,,x
+c_tyrone,scottish,,T√≠r Eogain,,,,,,,,,,,x
 c_tyrone,swedish,,Heer Eoin,,,,,,,,,,,x
-c_tyrone,welsh,,TÌr Eogain,,,,,,,,,,,x
+c_tyrone,welsh,,T√≠r Eogain,,,,,,,,,,,x
 b_dungannon,b_dungannon,,Dungannon,,,,,,,,,,,x
 b_dungannon,b_dungannon_adj,,,,,,,,,,,,,x
-b_dungannon,breton,,D˙n Geanainn,,,,,,,,,,,x
-b_dungannon,cornish,,D˙n Geanainn,,,,,,,,,,,x
-b_dungannon,cumbric,,D˙n Geanainn,,,,,,,,,,,x
+b_dungannon,breton,,D√∫n Geanainn,,,,,,,,,,,x
+b_dungannon,cornish,,D√∫n Geanainn,,,,,,,,,,,x
+b_dungannon,cumbric,,D√∫n Geanainn,,,,,,,,,,,x
 b_dungannon,danish,,Heer Eoin,,,,,,,,,,,x
 b_dungannon,gothic,,Heer Eoin,,,,,,,,,,,x
 b_dungannon,icelandic,,Heer Eoin,,,,,,,,,,,x
-b_dungannon,irish,,D˙n Geanainn,,,,,,,,,,,x
+b_dungannon,irish,,D√∫n Geanainn,,,,,,,,,,,x
 b_dungannon,norse,,Rathgannon,,,,,,,,,,,x
 b_dungannon,norsegaelic,,Rathgannon,,,,,,,,,,,x
 b_dungannon,norwegian,,Rathgannon,,,,,,,,,,,x
-b_dungannon,scottish,,D˙n Geanainn,,,,,,,,,,,x
+b_dungannon,scottish,,D√∫n Geanainn,,,,,,,,,,,x
 b_dungannon,swedish,,Heer Eoin,,,,,,,,,,,x
-b_dungannon,welsh,,D˙n Geanainn,,,,,,,,,,,x
+b_dungannon,welsh,,D√∫n Geanainn,,,,,,,,,,,x
 b_omagh,b_omagh,,Omagh,,,,,,,,,,,x
 b_omagh,b_omagh_adj,,,,,,,,,,,,,x
-b_omagh,breton,,an ”maigh,,,,,,,,,,,x
-b_omagh,cornish,,an ”maigh,,,,,,,,,,,x
-b_omagh,cumbric,,an ”maigh,,,,,,,,,,,x
-b_omagh,irish,,an ”maigh,,,,,,,,,,,x
-b_omagh,norsegaelic,,an ”maigh,,,,,,,,,,,x
-b_omagh,scottish,,an ”maigh,,,,,,,,,,,x
-b_omagh,welsh,,an ”maigh,,,,,,,,,,,x
+b_omagh,breton,,an √ìmaigh,,,,,,,,,,,x
+b_omagh,cornish,,an √ìmaigh,,,,,,,,,,,x
+b_omagh,cumbric,,an √ìmaigh,,,,,,,,,,,x
+b_omagh,irish,,an √ìmaigh,,,,,,,,,,,x
+b_omagh,norsegaelic,,an √ìmaigh,,,,,,,,,,,x
+b_omagh,scottish,,an √ìmaigh,,,,,,,,,,,x
+b_omagh,welsh,,an √ìmaigh,,,,,,,,,,,x
 b_tullyhogue,b_tullyhogue,,Tullyhogue,,,,,,,,,,,x
 b_tullyhogue,b_tullyhogue_adj,,,,,,,,,,,,,x
-b_tullyhogue,breton,,Tulaigh ”g,,,,,,,,,,,x
-b_tullyhogue,cornish,,Tulaigh ”g,,,,,,,,,,,x
-b_tullyhogue,cumbric,,Tulaigh ”g,,,,,,,,,,,x
-b_tullyhogue,irish,,Tulaigh ”g,,,,,,,,,,,x
-b_tullyhogue,norsegaelic,,Tulaigh ”g,,,,,,,,,,,x
-b_tullyhogue,scottish,,Tulaigh ”g,,,,,,,,,,,x
-b_tullyhogue,welsh,,Tulaigh ”g,,,,,,,,,,,x
+b_tullyhogue,breton,,Tulaigh √ìg,,,,,,,,,,,x
+b_tullyhogue,cornish,,Tulaigh √ìg,,,,,,,,,,,x
+b_tullyhogue,cumbric,,Tulaigh √ìg,,,,,,,,,,,x
+b_tullyhogue,irish,,Tulaigh √ìg,,,,,,,,,,,x
+b_tullyhogue,norsegaelic,,Tulaigh √ìg,,,,,,,,,,,x
+b_tullyhogue,scottish,,Tulaigh √ìg,,,,,,,,,,,x
+b_tullyhogue,welsh,,Tulaigh √ìg,,,,,,,,,,,x
 b_derry,b_derry,,Derry,,,,,,,,,,,x
 b_derry,b_derry_adj,,,,,,,,,,,,,x
 b_derry,breton,,Doire,,,,,,,,,,,x
@@ -4293,40 +4293,40 @@ b_aileach,welsh,,Ailigh,,,,,,,,,,,x
 c_tyrconnell,PROV3,,Tyrconnell,,,,,,,,,,,x
 c_tyrconnell,c_tyrconnell,,,,,,,,,,,,,x
 c_tyrconnell,c_tyrconnell_adj,,Tyrconnellian,,,,,,,,,,,x
-c_tyrconnell,breton,,TÌr Chonaill,,,,,,,,,,,x
-c_tyrconnell,cornish,,TÌr Chonaill,,,,,,,,,,,x
-c_tyrconnell,cumbric,,TÌr Chonaill,,,,,,,,,,,x
-c_tyrconnell,irish,,TÌr Chonaill,,,,,,,,,,,x
-c_tyrconnell,norsegaelic,,«heer Chonnal,,,,,,,,,,,x
-c_tyrconnell,scottish,,TÌr Chonaill,,,,,,,,,,,x
-c_tyrconnell,welsh,,TÌr Chonaill,,,,,,,,,,,x
+c_tyrconnell,breton,,T√≠r Chonaill,,,,,,,,,,,x
+c_tyrconnell,cornish,,T√≠r Chonaill,,,,,,,,,,,x
+c_tyrconnell,cumbric,,T√≠r Chonaill,,,,,,,,,,,x
+c_tyrconnell,irish,,T√≠r Chonaill,,,,,,,,,,,x
+c_tyrconnell,norsegaelic,,√áheer Chonnal,,,,,,,,,,,x
+c_tyrconnell,scottish,,T√≠r Chonaill,,,,,,,,,,,x
+c_tyrconnell,welsh,,T√≠r Chonaill,,,,,,,,,,,x
 b_gartan,b_gartan,,Gartan,,,,,,,,,,,x
 b_gartan,b_gartan_adj,,,,,,,,,,,,,x
-b_gartan,breton,,Gart·n,,,,,,,,,,,x
-b_gartan,cornish,,Gart·n,,,,,,,,,,,x
-b_gartan,cumbric,,Gart·n,,,,,,,,,,,x
-b_gartan,irish,,Gart·n,,,,,,,,,,,x
-b_gartan,norsegaelic,,Gart·n,,,,,,,,,,,x
-b_gartan,scottish,,Gart·n,,,,,,,,,,,x
-b_gartan,welsh,,Gart·n,,,,,,,,,,,x
+b_gartan,breton,,Gart√°n,,,,,,,,,,,x
+b_gartan,cornish,,Gart√°n,,,,,,,,,,,x
+b_gartan,cumbric,,Gart√°n,,,,,,,,,,,x
+b_gartan,irish,,Gart√°n,,,,,,,,,,,x
+b_gartan,norsegaelic,,Gart√°n,,,,,,,,,,,x
+b_gartan,scottish,,Gart√°n,,,,,,,,,,,x
+b_gartan,welsh,,Gart√°n,,,,,,,,,,,x
 b_raphoe,b_raphoe,,Raphoe,,,,,,,,,,,x
 b_raphoe,b_raphoe_adj,,,,,,,,,,,,,x
-b_raphoe,breton,,R·th Bhoth,,,,,,,,,,,x
-b_raphoe,cornish,,R·th Bhoth,,,,,,,,,,,x
-b_raphoe,cumbric,,R·th Bhoth,,,,,,,,,,,x
-b_raphoe,irish,,R·th Bhoth,,,,,,,,,,,x
-b_raphoe,norsegaelic,,R·th Bhoth,,,,,,,,,,,x
-b_raphoe,scottish,,R·th Bhoth,,,,,,,,,,,x
-b_raphoe,welsh,,R·th Bhoth,,,,,,,,,,,x
+b_raphoe,breton,,R√°th Bhoth,,,,,,,,,,,x
+b_raphoe,cornish,,R√°th Bhoth,,,,,,,,,,,x
+b_raphoe,cumbric,,R√°th Bhoth,,,,,,,,,,,x
+b_raphoe,irish,,R√°th Bhoth,,,,,,,,,,,x
+b_raphoe,norsegaelic,,R√°th Bhoth,,,,,,,,,,,x
+b_raphoe,scottish,,R√°th Bhoth,,,,,,,,,,,x
+b_raphoe,welsh,,R√°th Bhoth,,,,,,,,,,,x
 b_donegal,b_donegal,,Donegal,,,,,,,,,,,x
 b_donegal,b_donegal_adj,,,,,,,,,,,,,x
-b_donegal,breton,,D˙n na nGall,,,,,,,,,,,x
-b_donegal,cornish,,D˙n na nGall,,,,,,,,,,,x
-b_donegal,cumbric,,D˙n na nGall,,,,,,,,,,,x
-b_donegal,irish,,D˙n na nGall,,,,,,,,,,,x
-b_donegal,norsegaelic,,D˙n na nGall,,,,,,,,,,,x
-b_donegal,scottish,,D˙n na nGall,,,,,,,,,,,x
-b_donegal,welsh,,D˙n na nGall,,,,,,,,,,,x
+b_donegal,breton,,D√∫n na nGall,,,,,,,,,,,x
+b_donegal,cornish,,D√∫n na nGall,,,,,,,,,,,x
+b_donegal,cumbric,,D√∫n na nGall,,,,,,,,,,,x
+b_donegal,irish,,D√∫n na nGall,,,,,,,,,,,x
+b_donegal,norsegaelic,,D√∫n na nGall,,,,,,,,,,,x
+b_donegal,scottish,,D√∫n na nGall,,,,,,,,,,,x
+b_donegal,welsh,,D√∫n na nGall,,,,,,,,,,,x
 b_devenish,b_devenish,,Devenish,,,,,,,,,,,x
 b_devenish,b_devenish_adj,,,,,,,,,,,,,x
 b_devenish,breton,,Daimhinis,,,,,,,,,,,x
@@ -4340,43 +4340,43 @@ c_oriel,PROV7,,Oriel,,,,,,,,,,,x
 c_oriel,c_oriel,,,,,,,,,,,,,x
 c_oriel,c_oriel_adj,,Orielian,,,,,,,,,,,x
 c_oriel,anglonorse,,Oriel,,,,,,,,,,,x
-c_oriel,breton,,AirgÌalla,,,,,,,,,,,x
-c_oriel,cornish,,AirgÌalla,,,,,,,,,,,x
-c_oriel,cumbric,,AirgÌalla,,,,,,,,,,,x
+c_oriel,breton,,Airg√≠alla,,,,,,,,,,,x
+c_oriel,cornish,,Airg√≠alla,,,,,,,,,,,x
+c_oriel,cumbric,,Airg√≠alla,,,,,,,,,,,x
 c_oriel,danish,,Oriel,,,,,,,,,,,x
 c_oriel,english,,Oriel,,,,,,,,,,,x
 c_oriel,gothic,,Oriel,,,,,,,,,,,x
 c_oriel,icelandic,,Oriel,,,,,,,,,,,x
-c_oriel,irish,,AirgÌalla,,,,,,,,,,,x
+c_oriel,irish,,Airg√≠alla,,,,,,,,,,,x
 c_oriel,norse,,Oriel,,,,,,,,,,,x
-c_oriel,norsegaelic,,AirgÌalla,,,,,,,,,,,x
+c_oriel,norsegaelic,,Airg√≠alla,,,,,,,,,,,x
 c_oriel,norwegian,,Oriel,,,,,,,,,,,x
 c_oriel,saxon,,Oriel,,,,,,,,,,,x
 c_oriel,scottish,,Oirialla,,,,,,,,,,,x
 c_oriel,swedish,,Oriel,,,,,,,,,,,x
-c_oriel,welsh,,AirgÌalla,,,,,,,,,,,x
+c_oriel,welsh,,Airg√≠alla,,,,,,,,,,,x
 b_dundalk,b_dundalk,,Dundalk,,,,,,,,,,,x
 b_dundalk,b_dundalk_adj,,,,,,,,,,,,,x
 b_dundalk,anglonorse,,Doon Jialgan,,,,,,,,,,,x
-b_dundalk,breton,,D˙n Dealgan,,,,,,,,,,,x
-b_dundalk,cornish,,D˙n Dealgan,,,,,,,,,,,x
-b_dundalk,cumbric,,D˙n Dealgan,,,,,,,,,,,x
-b_dundalk,irish,,D˙n Dealgan,,,,,,,,,,,x
-b_dundalk,norsegaelic,,D˙n Dealgan,,,,,,,,,,,x
+b_dundalk,breton,,D√∫n Dealgan,,,,,,,,,,,x
+b_dundalk,cornish,,D√∫n Dealgan,,,,,,,,,,,x
+b_dundalk,cumbric,,D√∫n Dealgan,,,,,,,,,,,x
+b_dundalk,irish,,D√∫n Dealgan,,,,,,,,,,,x
+b_dundalk,norsegaelic,,D√∫n Dealgan,,,,,,,,,,,x
 b_dundalk,saxon,,Dundalgan,,,,,,,,,,,x
-b_dundalk,scottish,,D˙n Dealgan,,,,,,,,,,,x
-b_dundalk,welsh,,D˙n Dealgan,,,,,,,,,,,x
+b_dundalk,scottish,,D√∫n Dealgan,,,,,,,,,,,x
+b_dundalk,welsh,,D√∫n Dealgan,,,,,,,,,,,x
 b_ardee,b_ardee,,Ardee,,,,,,,,,,,x
 b_ardee,b_ardee_adj,,,,,,,,,,,,,x
 b_ardee,anglonorse,,Atherdee,,,,,,,,,,,x
-b_ardee,breton,,Baile ¡tha Fhirdhia,,,,,,,,,,,x
-b_ardee,cornish,,Baile ¡tha Fhirdhia,,,,,,,,,,,x
-b_ardee,cumbric,,Baile ¡tha Fhirdhia,,,,,,,,,,,x
-b_ardee,irish,,Baile ¡tha Fhirdhia,,,,,,,,,,,x
-b_ardee,norsegaelic,,Baile ¡tha Fhirdhia,,,,,,,,,,,x
+b_ardee,breton,,Baile √Åtha Fhirdhia,,,,,,,,,,,x
+b_ardee,cornish,,Baile √Åtha Fhirdhia,,,,,,,,,,,x
+b_ardee,cumbric,,Baile √Åtha Fhirdhia,,,,,,,,,,,x
+b_ardee,irish,,Baile √Åtha Fhirdhia,,,,,,,,,,,x
+b_ardee,norsegaelic,,Baile √Åtha Fhirdhia,,,,,,,,,,,x
 b_ardee,saxon,,Atherdee,,,,,,,,,,,x
-b_ardee,scottish,,Baile ¡tha Fhirdhia,,,,,,,,,,,x
-b_ardee,welsh,,Baile ¡tha Fhirdhia,,,,,,,,,,,x
+b_ardee,scottish,,Baile √Åtha Fhirdhia,,,,,,,,,,,x
+b_ardee,welsh,,Baile √Åtha Fhirdhia,,,,,,,,,,,x
 b_armagh,b_armagh,,Armagh,,,,,,,,,,,x
 b_armagh,b_armagh_adj,,,,,,,,,,,,,x
 b_armagh,anglonorse,,Ard Maghey,,,,,,,,,,,x
@@ -4462,16 +4462,16 @@ b_galway,anglonorse,,Galliv,,,,,,,,,,,x
 b_galway,breton,,Gailimh,,,,,,,,,,,x
 b_galway,cornish,,Gailimh,,,,,,,,,,,x
 b_galway,cumbric,,Gailimh,,,,,,,,,,,x
-b_galway,danish,,GalwÊg,,,,,,,,,,,x
-b_galway,gothic,,GalwÊg,,,,,,,,,,,x
-b_galway,icelandic,,GalwÊg,,,,,,,,,,,x
+b_galway,danish,,Galw√¶g,,,,,,,,,,,x
+b_galway,gothic,,Galw√¶g,,,,,,,,,,,x
+b_galway,icelandic,,Galw√¶g,,,,,,,,,,,x
 b_galway,irish,,Gailimh,,,,,,,,,,,x
-b_galway,norse,,GalwÊg,,,,,,,,,,,x
+b_galway,norse,,Galw√¶g,,,,,,,,,,,x
 b_galway,norsegaelic,,Galliu,,,,,,,,,,,x
-b_galway,norwegian,,GalwÊg,,,,,,,,,,,x
-b_galway,saxon,,GalwÊg,,,,,,,,,,,x
+b_galway,norwegian,,Galw√¶g,,,,,,,,,,,x
+b_galway,saxon,,Galw√¶g,,,,,,,,,,,x
 b_galway,scottish,,Gailimh,,,,,,,,,,,x
-b_galway,swedish,,GalwÊg,,,,,,,,,,,x
+b_galway,swedish,,Galw√¶g,,,,,,,,,,,x
 b_galway,welsh,,Gailimh,,,,,,,,,,,x
 b_tuam,b_tuam,,Tuam,,,,,,,,,,,x
 b_tuam,b_tuam_adj,,,,,,,,,,,,,x
@@ -4545,50 +4545,50 @@ b_sligo,swedish,,Slich,,,,,,,,,,,x
 b_sligo,welsh,,Sligeach,,,,,,,,,,,x
 b_boyle,b_boyle,,Boyle,,,,,,,,,,,x
 b_boyle,b_boyle_adj,,,,,,,,,,,,,x
-b_boyle,breton,,B˙ille,,,,,,,,,,,x
-b_boyle,cornish,,B˙ille,,,,,,,,,,,x
-b_boyle,cumbric,,B˙ille,,,,,,,,,,,x
-b_boyle,irish,,B˙ille,,,,,,,,,,,x
-b_boyle,norsegaelic,,B˙ille,,,,,,,,,,,x
-b_boyle,scottish,,B˙ille,,,,,,,,,,,x
-b_boyle,welsh,,B˙ille,,,,,,,,,,,x
+b_boyle,breton,,B√∫ille,,,,,,,,,,,x
+b_boyle,cornish,,B√∫ille,,,,,,,,,,,x
+b_boyle,cumbric,,B√∫ille,,,,,,,,,,,x
+b_boyle,irish,,B√∫ille,,,,,,,,,,,x
+b_boyle,norsegaelic,,B√∫ille,,,,,,,,,,,x
+b_boyle,scottish,,B√∫ille,,,,,,,,,,,x
+b_boyle,welsh,,B√∫ille,,,,,,,,,,,x
 c_hy_many,PROV1435,,Hy Many,,,,,,,,,,,x
 c_hy_many,c_hy_many,,,,,,,,,,,,,x
 c_hy_many,c_hy_many_adj,,Hy Many,,,,,,,,,,,x
-c_hy_many,breton,,UÌ Maine,,,,,,,,,,,x
-c_hy_many,cornish,,UÌ Maine,,,,,,,,,,,x
-c_hy_many,cumbric,,UÌ Maine,,,,,,,,,,,x
-c_hy_many,irish,,UÌ Maine,,,,,,,,,,,x
-c_hy_many,norsegaelic,,UÌ Maine,,,,,,,,,,,x
-c_hy_many,scottish,,UÌ Maine,,,,,,,,,,,x
-c_hy_many,welsh,,UÌ Maine,,,,,,,,,,,x
+c_hy_many,breton,,U√≠ Maine,,,,,,,,,,,x
+c_hy_many,cornish,,U√≠ Maine,,,,,,,,,,,x
+c_hy_many,cumbric,,U√≠ Maine,,,,,,,,,,,x
+c_hy_many,irish,,U√≠ Maine,,,,,,,,,,,x
+c_hy_many,norsegaelic,,U√≠ Maine,,,,,,,,,,,x
+c_hy_many,scottish,,U√≠ Maine,,,,,,,,,,,x
+c_hy_many,welsh,,U√≠ Maine,,,,,,,,,,,x
 b_roscommon,b_roscommon,,Roscommon,,,,,,,,,,,x
 b_roscommon,b_roscommon_adj,,,,,,,,,,,,,x
-b_roscommon,breton,,Ros Com·in,,,,,,,,,,,x
-b_roscommon,cornish,,Ros Com·in,,,,,,,,,,,x
-b_roscommon,cumbric,,Ros Com·in,,,,,,,,,,,x
-b_roscommon,irish,,Ros Com·in,,,,,,,,,,,x
-b_roscommon,norsegaelic,,Ros Com·in,,,,,,,,,,,x
-b_roscommon,scottish,,Ros Com·in,,,,,,,,,,,x
-b_roscommon,welsh,,Ros Com·in,,,,,,,,,,,x
+b_roscommon,breton,,Ros Com√°in,,,,,,,,,,,x
+b_roscommon,cornish,,Ros Com√°in,,,,,,,,,,,x
+b_roscommon,cumbric,,Ros Com√°in,,,,,,,,,,,x
+b_roscommon,irish,,Ros Com√°in,,,,,,,,,,,x
+b_roscommon,norsegaelic,,Ros Com√°in,,,,,,,,,,,x
+b_roscommon,scottish,,Ros Com√°in,,,,,,,,,,,x
+b_roscommon,welsh,,Ros Com√°in,,,,,,,,,,,x
 b_athenry,b_athenry,,Athenry,,,,,,,,,,,x
 b_athenry,b_athenry_adj,,,,,,,,,,,,,x
-b_athenry,breton,,Baile ¡tha an RÌ,,,,,,,,,,,x
-b_athenry,cornish,,Baile ¡tha an RÌ,,,,,,,,,,,x
-b_athenry,cumbric,,Baile ¡tha an RÌ,,,,,,,,,,,x
-b_athenry,irish,,Baile ¡tha an RÌ,,,,,,,,,,,x
-b_athenry,norsegaelic,,Baile ¡tha an RÌ,,,,,,,,,,,x
-b_athenry,scottish,,Baile ¡tha an RÌ,,,,,,,,,,,x
-b_athenry,welsh,,Baile ¡tha an RÌ,,,,,,,,,,,x
+b_athenry,breton,,Baile √Åtha an R√≠,,,,,,,,,,,x
+b_athenry,cornish,,Baile √Åtha an R√≠,,,,,,,,,,,x
+b_athenry,cumbric,,Baile √Åtha an R√≠,,,,,,,,,,,x
+b_athenry,irish,,Baile √Åtha an R√≠,,,,,,,,,,,x
+b_athenry,norsegaelic,,Baile √Åtha an R√≠,,,,,,,,,,,x
+b_athenry,scottish,,Baile √Åtha an R√≠,,,,,,,,,,,x
+b_athenry,welsh,,Baile √Åtha an R√≠,,,,,,,,,,,x
 b_dunmore,b_dunmore,,Dunmore,,,,,,,,,,,x
 b_dunmore,b_dunmore_adj,,,,,,,,,,,,,x
-b_dunmore,breton,,D˙n MÛr,,,,,,,,,,,x
-b_dunmore,cornish,,D˙n MÛr,,,,,,,,,,,x
-b_dunmore,cumbric,,D˙n MÛr,,,,,,,,,,,x
-b_dunmore,irish,,D˙n MÛr,,,,,,,,,,,x
-b_dunmore,norsegaelic,,D˙n MÛr,,,,,,,,,,,x
-b_dunmore,scottish,,D˘n MÚr,,,,,,,,,,,x
-b_dunmore,welsh,,D˙n MÛr,,,,,,,,,,,x
+b_dunmore,breton,,D√∫n M√≥r,,,,,,,,,,,x
+b_dunmore,cornish,,D√∫n M√≥r,,,,,,,,,,,x
+b_dunmore,cumbric,,D√∫n M√≥r,,,,,,,,,,,x
+b_dunmore,irish,,D√∫n M√≥r,,,,,,,,,,,x
+b_dunmore,norsegaelic,,D√∫n M√≥r,,,,,,,,,,,x
+b_dunmore,scottish,,D√πn M√≤r,,,,,,,,,,,x
+b_dunmore,welsh,,D√∫n M√≥r,,,,,,,,,,,x
 c_breifne,PROV8,,Leitrim,,,,,,,,,,,x
 c_breifne,c_breifne,,,,,,,,,,,,,x
 c_breifne,c_breifne_adj,,Leitrimian,,,,,,,,,,,x
@@ -4608,13 +4608,13 @@ c_breifne,swedish,,Leitrim,,,,,,,,,,,x
 c_breifne,welsh,,Liatroim,,,,,,,,,,,x
 b_dromahair,b_dromahair,,Dromahair,,,,,,,,,,,x
 b_dromahair,b_dromahair_adj,,,,,,,,,,,,,x
-b_dromahair,breton,,Droim Dh· Thiar,,,,,,,,,,,x
-b_dromahair,cornish,,Droim Dh· Thiar,,,,,,,,,,,x
-b_dromahair,cumbric,,Droim Dh· Thiar,,,,,,,,,,,x
-b_dromahair,irish,,Droim Dh· Thiar,,,,,,,,,,,x
-b_dromahair,norsegaelic,,Droim Dh· Thiar,,,,,,,,,,,x
-b_dromahair,scottish,,Droim Dh· Thiar,,,,,,,,,,,x
-b_dromahair,welsh,,Droim Dh· Thiar,,,,,,,,,,,x
+b_dromahair,breton,,Droim Dh√° Thiar,,,,,,,,,,,x
+b_dromahair,cornish,,Droim Dh√° Thiar,,,,,,,,,,,x
+b_dromahair,cumbric,,Droim Dh√° Thiar,,,,,,,,,,,x
+b_dromahair,irish,,Droim Dh√° Thiar,,,,,,,,,,,x
+b_dromahair,norsegaelic,,Droim Dh√° Thiar,,,,,,,,,,,x
+b_dromahair,scottish,,Droim Dh√° Thiar,,,,,,,,,,,x
+b_dromahair,welsh,,Droim Dh√° Thiar,,,,,,,,,,,x
 b_leitrim,b_leitrim,,Leitrim,,,,,,,,,,,x
 b_leitrim,b_leitrim_adj,,,,,,,,,,,,,x
 b_leitrim,breton,,Liatroim,,,,,,,,,,,x
@@ -4626,32 +4626,32 @@ b_leitrim,scottish,,Liatroim,,,,,,,,,,,x
 b_leitrim,welsh,,Liatroim,,,,,,,,,,,x
 b_carrickonshannon,b_carrickonshannon,,Carrick-on-Shannon,,,,,,,,,,,x
 b_carrickonshannon,b_carrickonshannon_adj,,,,,,,,,,,,,x
-b_carrickonshannon,breton,,Cora Droma R˙isc,,,,,,,,,,,x
-b_carrickonshannon,cornish,,Cora Droma R˙isc,,,,,,,,,,,x
-b_carrickonshannon,cumbric,,Cora Droma R˙isc,,,,,,,,,,,x
-b_carrickonshannon,irish,,Cora Droma R˙isc,,,,,,,,,,,x
-b_carrickonshannon,norsegaelic,,Cora Droma R˙isc,,,,,,,,,,,x
-b_carrickonshannon,scottish,,Cora Droma R˙isc,,,,,,,,,,,x
-b_carrickonshannon,welsh,,Cora Droma R˙isc,,,,,,,,,,,x
+b_carrickonshannon,breton,,Cora Droma R√∫isc,,,,,,,,,,,x
+b_carrickonshannon,cornish,,Cora Droma R√∫isc,,,,,,,,,,,x
+b_carrickonshannon,cumbric,,Cora Droma R√∫isc,,,,,,,,,,,x
+b_carrickonshannon,irish,,Cora Droma R√∫isc,,,,,,,,,,,x
+b_carrickonshannon,norsegaelic,,Cora Droma R√∫isc,,,,,,,,,,,x
+b_carrickonshannon,scottish,,Cora Droma R√∫isc,,,,,,,,,,,x
+b_carrickonshannon,welsh,,Cora Droma R√∫isc,,,,,,,,,,,x
 c_cavan,PROV1436,,Chabhain,,,,,,,,,,,x
 c_cavan,c_cavan,,,,,,,,,,,,,x
 c_cavan,c_cavan_adj,,Cavanan,,,,,,,,,,,x
-c_cavan,breton,,An Cabh·n,,,,,,,,,,,x
-c_cavan,cornish,,An Cabh·n,,,,,,,,,,,x
-c_cavan,cumbric,,An Cabh·n,,,,,,,,,,,x
-c_cavan,irish,,An Cabh·n,,,,,,,,,,,x
+c_cavan,breton,,An Cabh√°n,,,,,,,,,,,x
+c_cavan,cornish,,An Cabh√°n,,,,,,,,,,,x
+c_cavan,cumbric,,An Cabh√°n,,,,,,,,,,,x
+c_cavan,irish,,An Cabh√°n,,,,,,,,,,,x
 c_cavan,norsegaelic,,Chavan,,,,,,,,,,,x
-c_cavan,scottish,,An Cabh·n,,,,,,,,,,,x
-c_cavan,welsh,,An Cabh·n,,,,,,,,,,,x
+c_cavan,scottish,,An Cabh√°n,,,,,,,,,,,x
+c_cavan,welsh,,An Cabh√°n,,,,,,,,,,,x
 b_cavan,b_cavan,,Cavan,,,,,,,,,,,x
 b_cavan,b_cavan_adj,,,,,,,,,,,,,x
-b_cavan,breton,,An Cabh·n,,,,,,,,,,,x
-b_cavan,cornish,,An Cabh·n,,,,,,,,,,,x
-b_cavan,cumbric,,An Cabh·n,,,,,,,,,,,x
-b_cavan,irish,,An Cabh·n,,,,,,,,,,,x
+b_cavan,breton,,An Cabh√°n,,,,,,,,,,,x
+b_cavan,cornish,,An Cabh√°n,,,,,,,,,,,x
+b_cavan,cumbric,,An Cabh√°n,,,,,,,,,,,x
+b_cavan,irish,,An Cabh√°n,,,,,,,,,,,x
 b_cavan,norsegaelic,,Chavan,,,,,,,,,,,x
-b_cavan,scottish,,An Cabh·n,,,,,,,,,,,x
-b_cavan,welsh,,An Cabh·n,,,,,,,,,,,x
+b_cavan,scottish,,An Cabh√°n,,,,,,,,,,,x
+b_cavan,welsh,,An Cabh√°n,,,,,,,,,,,x
 b_cloughoughter,b_cloughoughter,,Cloughoughter,,,,,,,,,,,x
 b_cloughoughter,b_cloughoughter_adj,,,,,,,,,,,,,x
 b_cloughoughter,breton,,Clogh Uachtair,,,,,,,,,,,x
@@ -4676,17 +4676,17 @@ d_meath,anglonorse,,Mee,,,,,,,,,,,x
 d_meath,breton,,Mide,,,,,,,,,,,x
 d_meath,cornish,,Mide,,,,,,,,,,,x
 d_meath,cumbric,,Mide,,,,,,,,,,,x
-d_meath,danish,,Mir,,,,,,,,,,,x
-d_meath,gothic,,Mir,,,,,,,,,,,x
-d_meath,icelandic,,Mir,,,,,,,,,,,x
+d_meath,danish,,Mi√∞r,,,,,,,,,,,x
+d_meath,gothic,,Mi√∞r,,,,,,,,,,,x
+d_meath,icelandic,,Mi√∞r,,,,,,,,,,,x
 d_meath,irish,,Mide,,,,,,,,,,,x
 d_meath,d_meath_adj_irish,,Taran,,,,,,,,,,,x
-d_meath,norse,,Mir,,,,,,,,,,,x
-d_meath,norsegaelic,,Mir,,,,,,,,,,,x
+d_meath,norse,,Mi√∞r,,,,,,,,,,,x
+d_meath,norsegaelic,,Mi√∞r,,,,,,,,,,,x
 d_meath,d_meath_adj_north_germanic,,Dubliner,,,,,,,,,,,x
-d_meath,norwegian,,Mir,,,,,,,,,,,x
+d_meath,norwegian,,Mi√∞r,,,,,,,,,,,x
 d_meath,scottish,,Mide,,,,,,,,,,,x
-d_meath,swedish,,Mir,,,,,,,,,,,x
+d_meath,swedish,,Mi√∞r,,,,,,,,,,,x
 d_meath,welsh,,Mide,,,,,,,,,,,x
 c_tethbae,PROV1433,,Tethbae,,,,,,,,,,,x
 c_tethbae,c_tethbae,,,,,,,,,,,,,x
@@ -4700,57 +4700,57 @@ c_tethbae,scottish,,Teabhtha,,,,,,,,,,,x
 c_tethbae,welsh,,Teabhtha,,,,,,,,,,,x
 b_athlone,b_athlone,,Athlone,,,,,,,,,,,x
 b_athlone,b_athlone_adj,,,,,,,,,,,,,x
-b_athlone,breton,,Baile ¡tha Luain,,,,,,,,,,,x
-b_athlone,cornish,,Baile ¡tha Luain,,,,,,,,,,,x
-b_athlone,cumbric,,Baile ¡tha Luain,,,,,,,,,,,x
-b_athlone,irish,,Baile ¡tha Luain,,,,,,,,,,,x
+b_athlone,breton,,Baile √Åtha Luain,,,,,,,,,,,x
+b_athlone,cornish,,Baile √Åtha Luain,,,,,,,,,,,x
+b_athlone,cumbric,,Baile √Åtha Luain,,,,,,,,,,,x
+b_athlone,irish,,Baile √Åtha Luain,,,,,,,,,,,x
 b_athlone,norsegaelic,,Baley Aah Luain,,,,,,,,,,,x
-b_athlone,scottish,,Baile ¡tha Luain,,,,,,,,,,,x
-b_athlone,welsh,,Baile ¡tha Luain,,,,,,,,,,,x
+b_athlone,scottish,,Baile √Åtha Luain,,,,,,,,,,,x
+b_athlone,welsh,,Baile √Åtha Luain,,,,,,,,,,,x
 b_longford,b_longford,,Longford,,,,,,,,,,,x
 b_longford,b_longford_adj,,,,,,,,,,,,,x
 b_longford,anglonorse,,Longphort,,,,,,,,,,,x
 b_longford,breton,,An Longfort,,,,,,,,,,,x
 b_longford,cornish,,An Longfort,,,,,,,,,,,x
 b_longford,cumbric,,An Longfort,,,,,,,,,,,x
-b_longford,danish,,GalwÊg,,,,,,,,,,,x
-b_longford,gothic,,GalwÊg,,,,,,,,,,,x
-b_longford,icelandic,,GalwÊg,,,,,,,,,,,x
+b_longford,danish,,Galw√¶g,,,,,,,,,,,x
+b_longford,gothic,,Galw√¶g,,,,,,,,,,,x
+b_longford,icelandic,,Galw√¶g,,,,,,,,,,,x
 b_longford,irish,,An Longfort,,,,,,,,,,,x
 b_longford,norse,,Longphort,,,,,,,,,,,x
 b_longford,norsegaelic,,Lhongphort,,,,,,,,,,,x
-b_longford,norwegian,,GalwÊg,,,,,,,,,,,x
+b_longford,norwegian,,Galw√¶g,,,,,,,,,,,x
 b_longford,saxon,,Longphort,,,,,,,,,,,x
 b_longford,scottish,,An Longfort,,,,,,,,,,,x
-b_longford,swedish,,GalwÊg,,,,,,,,,,,x
+b_longford,swedish,,Galw√¶g,,,,,,,,,,,x
 b_longford,welsh,,An Longfort,,,,,,,,,,,x
 b_durrow,b_durrow,,Durrow,,,,,,,,,,,x
 b_durrow,b_durrow_adj,,,,,,,,,,,,,x
-b_durrow,breton,,Dar˙,,,,,,,,,,,x
-b_durrow,cornish,,Dar˙,,,,,,,,,,,x
-b_durrow,cumbric,,Dar˙,,,,,,,,,,,x
-b_durrow,irish,,Dar˙,,,,,,,,,,,x
-b_durrow,norsegaelic,,Dar˙,,,,,,,,,,,x
-b_durrow,scottish,,Dar˙,,,,,,,,,,,x
-b_durrow,welsh,,Dar˙,,,,,,,,,,,x
+b_durrow,breton,,Dar√∫,,,,,,,,,,,x
+b_durrow,cornish,,Dar√∫,,,,,,,,,,,x
+b_durrow,cumbric,,Dar√∫,,,,,,,,,,,x
+b_durrow,irish,,Dar√∫,,,,,,,,,,,x
+b_durrow,norsegaelic,,Dar√∫,,,,,,,,,,,x
+b_durrow,scottish,,Dar√∫,,,,,,,,,,,x
+b_durrow,welsh,,Dar√∫,,,,,,,,,,,x
 b_granard,b_granard,,Granard,,,,,,,,,,,x
 b_granard,b_granard_adj,,,,,,,,,,,,,x
-b_granard,breton,,Gr·nard,,,,,,,,,,,x
-b_granard,cornish,,Gr·nard,,,,,,,,,,,x
-b_granard,cumbric,,Gr·nard,,,,,,,,,,,x
-b_granard,irish,,Gr·nard,,,,,,,,,,,x
-b_granard,norsegaelic,,Gr·nard,,,,,,,,,,,x
-b_granard,scottish,,Gr·nard,,,,,,,,,,,x
-b_granard,welsh,,Gr·nard,,,,,,,,,,,x
+b_granard,breton,,Gr√°nard,,,,,,,,,,,x
+b_granard,cornish,,Gr√°nard,,,,,,,,,,,x
+b_granard,cumbric,,Gr√°nard,,,,,,,,,,,x
+b_granard,irish,,Gr√°nard,,,,,,,,,,,x
+b_granard,norsegaelic,,Gr√°nard,,,,,,,,,,,x
+b_granard,scottish,,Gr√°nard,,,,,,,,,,,x
+b_granard,welsh,,Gr√°nard,,,,,,,,,,,x
 c_brega,PROV975,,Brega,,,,,,,,,,,x
 c_brega,c_brega,,,,,,,,,,,,,x
 c_brega,c_brega_adj,,Brega,,,,,,,,,,,x
 b_louth,b_louth,,Louth,,,,,,,,,,,x
 b_louth,b_louth_adj,,,,,,,,,,,,,x
 b_louth,anglonorse,,Loth,,,,,,,,,,,x
-b_louth,breton,,L˙,,,,,,,,,,,x
-b_louth,cornish,,L˙,,,,,,,,,,,x
-b_louth,cumbric,,L˙,,,,,,,,,,,x
+b_louth,breton,,L√∫,,,,,,,,,,,x
+b_louth,cornish,,L√∫,,,,,,,,,,,x
+b_louth,cumbric,,L√∫,,,,,,,,,,,x
 b_louth,danish,,Loth,,,,,,,,,,,x
 b_louth,gothic,,Loth,,,,,,,,,,,x
 b_louth,icelandic,,Loth,,,,,,,,,,,x
@@ -4758,29 +4758,29 @@ b_louth,irish,,Lughbhaidh,,,,,,,,,,,x
 b_louth,norse,,Loth,,,,,,,,,,,x
 b_louth,norsegaelic,,Lhoo,,,,,,,,,,,x
 b_louth,norwegian,,Loth,,,,,,,,,,,x
-b_louth,scottish,,L˙,,,,,,,,,,,x
+b_louth,scottish,,L√∫,,,,,,,,,,,x
 b_louth,swedish,,Loth,,,,,,,,,,,x
-b_louth,welsh,,L˙,,,,,,,,,,,x
+b_louth,welsh,,L√∫,,,,,,,,,,,x
 b_tara_meath,b_tara_meath,,Tara,,,,,,,,,,,x
 b_tara_meath,b_tara_meath_adj,,,,,,,,,,,,,x
 b_mellifont,b_mellifont,,Mellifont,,,,,,,,,,,x
 b_mellifont,b_mellifont_adj,,,,,,,,,,,,,x
-b_mellifont,breton,,An Mhainistir MhÛr,,,,,,,,,,,x
-b_mellifont,cornish,,An Mhainistir MhÛr,,,,,,,,,,,x
-b_mellifont,cumbric,,An Mhainistir MhÛr,,,,,,,,,,,x
-b_mellifont,irish,,An Mhainistir MhÛr,,,,,,,,,,,x
-b_mellifont,norsegaelic,,An Mhainistir MhÛr,,,,,,,,,,,x
-b_mellifont,scottish,,An Mhainistir MhÛr,,,,,,,,,,,x
-b_mellifont,welsh,,An Mhainistir MhÛr,,,,,,,,,,,x
+b_mellifont,breton,,An Mhainistir Mh√≥r,,,,,,,,,,,x
+b_mellifont,cornish,,An Mhainistir Mh√≥r,,,,,,,,,,,x
+b_mellifont,cumbric,,An Mhainistir Mh√≥r,,,,,,,,,,,x
+b_mellifont,irish,,An Mhainistir Mh√≥r,,,,,,,,,,,x
+b_mellifont,norsegaelic,,An Mhainistir Mh√≥r,,,,,,,,,,,x
+b_mellifont,scottish,,An Mhainistir Mh√≥r,,,,,,,,,,,x
+b_mellifont,welsh,,An Mhainistir Mh√≥r,,,,,,,,,,,x
 b_trim,b_trim,,Trim,,,,,,,,,,,x
 b_trim,b_trim_adj,,,,,,,,,,,,,x
-b_trim,breton,,Baile ¡tha Troim,,,,,,,,,,,x
-b_trim,cornish,,Baile ¡tha Troim,,,,,,,,,,,x
-b_trim,cumbric,,Baile ¡tha Troim,,,,,,,,,,,x
-b_trim,irish,,Baile ¡tha Troim,,,,,,,,,,,x
-b_trim,norsegaelic,,Baile ¡tha Troim,,,,,,,,,,,x
-b_trim,scottish,,Baile ¡tha Troim,,,,,,,,,,,x
-b_trim,welsh,,Baile ¡tha Troim,,,,,,,,,,,x
+b_trim,breton,,Baile √Åtha Troim,,,,,,,,,,,x
+b_trim,cornish,,Baile √Åtha Troim,,,,,,,,,,,x
+b_trim,cumbric,,Baile √Åtha Troim,,,,,,,,,,,x
+b_trim,irish,,Baile √Åtha Troim,,,,,,,,,,,x
+b_trim,norsegaelic,,Baile √Åtha Troim,,,,,,,,,,,x
+b_trim,scottish,,Baile √Åtha Troim,,,,,,,,,,,x
+b_trim,welsh,,Baile √Åtha Troim,,,,,,,,,,,x
 b_morgallion,b_morgallion,,Morgallion,,,,,,,,,,,x
 b_morgallion,b_morgallion_adj,,,,,,,,,,,,,x
 b_morgallion,breton,,Machaire Gailenga,,,,,,,,,,,x
@@ -4819,22 +4819,22 @@ b_knowth,welsh,,Cnoghbha,,,,,,,,,,,x
 c_offaly,PROV1434,,Uibh Fhaili,,,,,,,,,,,x
 c_offaly,c_offaly,,,,,,,,,,,,,x
 c_offaly,c_offaly_adj,,Offalyan,,,,,,,,,,,x
-c_offaly,breton,,UÌbh FhailÌ,,,,,,,,,,,x
-c_offaly,cornish,,UÌbh FhailÌ,,,,,,,,,,,x
-c_offaly,cumbric,,UÌbh FhailÌ,,,,,,,,,,,x
-c_offaly,irish,,UÌbh FhailÌ,,,,,,,,,,,x
-c_offaly,norsegaelic,,UÌbh FhailÌ,,,,,,,,,,,x
-c_offaly,scottish,,UÌbh FhailÌ,,,,,,,,,,,x
-c_offaly,welsh,,UÌbh FhailÌ,,,,,,,,,,,x
+c_offaly,breton,,U√≠bh Fhail√≠,,,,,,,,,,,x
+c_offaly,cornish,,U√≠bh Fhail√≠,,,,,,,,,,,x
+c_offaly,cumbric,,U√≠bh Fhail√≠,,,,,,,,,,,x
+c_offaly,irish,,U√≠bh Fhail√≠,,,,,,,,,,,x
+c_offaly,norsegaelic,,U√≠bh Fhail√≠,,,,,,,,,,,x
+c_offaly,scottish,,U√≠bh Fhail√≠,,,,,,,,,,,x
+c_offaly,welsh,,U√≠bh Fhail√≠,,,,,,,,,,,x
 b_clonmacnoise,b_clonmacnoise,,Clonmacnoise,,,,,,,,,,,x
 b_clonmacnoise,b_clonmacnoise_adj,,,,,,,,,,,,,x
-b_clonmacnoise,breton,,Cluain Mhic NÛis,,,,,,,,,,,x
-b_clonmacnoise,cornish,,Cluain Mhic NÛis,,,,,,,,,,,x
-b_clonmacnoise,cumbric,,Cluain Mhic NÛis,,,,,,,,,,,x
-b_clonmacnoise,irish,,Cluain Mhic NÛis,,,,,,,,,,,x
-b_clonmacnoise,norsegaelic,,Cluain Mhic NÛis,,,,,,,,,,,x
-b_clonmacnoise,scottish,,Cluain Mhic NÛis,,,,,,,,,,,x
-b_clonmacnoise,welsh,,Cluain Mhic NÛis,,,,,,,,,,,x
+b_clonmacnoise,breton,,Cluain Mhic N√≥is,,,,,,,,,,,x
+b_clonmacnoise,cornish,,Cluain Mhic N√≥is,,,,,,,,,,,x
+b_clonmacnoise,cumbric,,Cluain Mhic N√≥is,,,,,,,,,,,x
+b_clonmacnoise,irish,,Cluain Mhic N√≥is,,,,,,,,,,,x
+b_clonmacnoise,norsegaelic,,Cluain Mhic N√≥is,,,,,,,,,,,x
+b_clonmacnoise,scottish,,Cluain Mhic N√≥is,,,,,,,,,,,x
+b_clonmacnoise,welsh,,Cluain Mhic N√≥is,,,,,,,,,,,x
 b_danigean,b_danigean,,Danigean,,,,,,,,,,,x
 b_danigean,b_danigean_adj,,,,,,,,,,,,,x
 b_danigean,breton,,An Daingean,,,,,,,,,,,x
@@ -4846,13 +4846,13 @@ b_danigean,scottish,,An Daingean,,,,,,,,,,,x
 b_danigean,welsh,,An Daingean,,,,,,,,,,,x
 b_rathangan,b_rathangan,,Rathangan,,,,,,,,,,,x
 b_rathangan,b_rathangan_adj,,,,,,,,,,,,,x
-b_rathangan,breton,,R·th Iomgh·in,,,,,,,,,,,x
-b_rathangan,cornish,,R·th Iomgh·in,,,,,,,,,,,x
-b_rathangan,cumbric,,R·th Iomgh·in,,,,,,,,,,,x
-b_rathangan,irish,,R·th Iomgh·in,,,,,,,,,,,x
-b_rathangan,norsegaelic,,R·th Iomgh·in,,,,,,,,,,,x
-b_rathangan,scottish,,R·th Iomgh·in,,,,,,,,,,,x
-b_rathangan,welsh,,R·th Iomgh·in,,,,,,,,,,,x
+b_rathangan,breton,,R√°th Iomgh√°in,,,,,,,,,,,x
+b_rathangan,cornish,,R√°th Iomgh√°in,,,,,,,,,,,x
+b_rathangan,cumbric,,R√°th Iomgh√°in,,,,,,,,,,,x
+b_rathangan,irish,,R√°th Iomgh√°in,,,,,,,,,,,x
+b_rathangan,norsegaelic,,R√°th Iomgh√°in,,,,,,,,,,,x
+b_rathangan,scottish,,R√°th Iomgh√°in,,,,,,,,,,,x
+b_rathangan,welsh,,R√°th Iomgh√°in,,,,,,,,,,,x
 c_dublin,PROV11,,Dublin,,,,,,,,,,,x
 c_dublin,c_dublin,,,,,,,,,,,,,x
 c_dublin,c_dublin_adj,,Dubliner,,,,,,,,,,,x
@@ -4880,117 +4880,117 @@ b_dublin,cumbric,,Dulyn,,,,,,,,,,,x
 b_dublin,danish,,Divlyn,,,,,,,,,,,x
 b_dublin,gothic,,Divlyn,,,,,,,,,,,x
 b_dublin,icelandic,,Divlyn,,,,,,,,,,,x
-b_dublin,irish,,Baile ¡tha Cliath,,,,,,,,,,,x
+b_dublin,irish,,Baile √Åtha Cliath,,,,,,,,,,,x
 b_dublin,norse,,Divlyn,,,,,,,,,,,x
 b_dublin,norsegaelic,,Divlyn,,,,,,,,,,,x
 b_dublin,norwegian,,Divlyn,,,,,,,,,,,x
 b_dublin,saxon,,Difelin,,,,,,,,,,,x
-b_dublin,scottish,,Baile ¡tha Cliath,,,,,,,,,,,x
+b_dublin,scottish,,Baile √Åtha Cliath,,,,,,,,,,,x
 b_dublin,swedish,,Divlyn,,,,,,,,,,,x
 b_dublin,welsh,,Dulyn,,,,,,,,,,,x
 b_christ_church,b_christ_church,,Christ Church,,,,,,,,,,,x
 b_christ_church,b_christ_church_adj,,,,,,,,,,,,,x
 b_christ_church,anglonorse,,Krist Kirkju,,,,,,,,,,,x
-b_christ_church,breton,,Cill CrhÌost,,,,,,,,,,,x
-b_christ_church,cornish,,Cill CrhÌost,,,,,,,,,,,x
-b_christ_church,cumbric,,Cill CrhÌost,,,,,,,,,,,x
+b_christ_church,breton,,Cill Crh√≠ost,,,,,,,,,,,x
+b_christ_church,cornish,,Cill Crh√≠ost,,,,,,,,,,,x
+b_christ_church,cumbric,,Cill Crh√≠ost,,,,,,,,,,,x
 b_christ_church,danish,,Krist Kirkju,,,,,,,,,,,x
 b_christ_church,gothic,,Krist Kirkju,,,,,,,,,,,x
 b_christ_church,icelandic,,Krist Kirkju,,,,,,,,,,,x
-b_christ_church,irish,,Cill ChrÌost,,,,,,,,,,,x
+b_christ_church,irish,,Cill Chr√≠ost,,,,,,,,,,,x
 b_christ_church,norsegaelic,,Krist Kirkju,,,,,,,,,,,x
 b_christ_church,norwegian,,Krist Kirkju,,,,,,,,,,,x
 b_christ_church,saxon,,Crist Cirice,,,,,,,,,,,x
-b_christ_church,scottish,,Cill CrhÌost,,,,,,,,,,,x
+b_christ_church,scottish,,Cill Crh√≠ost,,,,,,,,,,,x
 b_christ_church,swedish,,Krist Kirkju,,,,,,,,,,,x
-b_christ_church,welsh,,Cill CrhÌost,,,,,,,,,,,x
+b_christ_church,welsh,,Cill Crh√≠ost,,,,,,,,,,,x
 b_dublin_castle,b_dublin_castle,,Dublin Castle,,,,,,,,,,,x
 b_dublin_castle,b_dublin_castle_adj,,,,,,,,,,,,,x
 b_dublin_castle,anglonorse,,Dyflinborg,,,,,,,,,,,x
-b_dublin_castle,breton,,Caisle·n Dulyn,,,,,,,,,,,x
-b_dublin_castle,cornish,,Caisle·n Dulyn,,,,,,,,,,,x
-b_dublin_castle,cumbric,,Caisle·n Dulyn,,,,,,,,,,,x
+b_dublin_castle,breton,,Caisle√°n Dulyn,,,,,,,,,,,x
+b_dublin_castle,cornish,,Caisle√°n Dulyn,,,,,,,,,,,x
+b_dublin_castle,cumbric,,Caisle√°n Dulyn,,,,,,,,,,,x
 b_dublin_castle,danish,,Dyflinburgh,,,,,,,,,,,x
 b_dublin_castle,gothic,,Dyflinborg,,,,,,,,,,,x
 b_dublin_castle,icelandic,,Dyflinborg,,,,,,,,,,,x
-b_dublin_castle,irish,,Caisle·n Dunbhlinn,,,,,,,,,,,x
+b_dublin_castle,irish,,Caisle√°n Dunbhlinn,,,,,,,,,,,x
 b_dublin_castle,norse,,Dyflinborg,,,,,,,,,,,x
 b_dublin_castle,norsegaelic,,Dyflinborg,,,,,,,,,,,x
 b_dublin_castle,norwegian,,Dyflinborg,,,,,,,,,,,x
 b_dublin_castle,saxon,,Difelin Casel,,,,,,,,,,,x
-b_dublin_castle,scottish,,Caisle·n Dunbhlinn,,,,,,,,,,,x
+b_dublin_castle,scottish,,Caisle√°n Dunbhlinn,,,,,,,,,,,x
 b_dublin_castle,swedish,,Dyflinborg,,,,,,,,,,,x
-b_dublin_castle,welsh,,Caisle·n Dulyn,,,,,,,,,,,x
+b_dublin_castle,welsh,,Caisle√°n Dulyn,,,,,,,,,,,x
 b_clondalkin,b_clondalkin,,Clondalkin,,,,,,,,,,,x
 b_clondalkin,b_clondalkin_adj,,,,,,,,,,,,,x
-b_clondalkin,breton,,Cluain Dolc·in,,,,,,,,,,,x
-b_clondalkin,cornish,,Cluain Dolc·in,,,,,,,,,,,x
-b_clondalkin,cumbric,,Cluain Dolc·in,,,,,,,,,,,x
-b_clondalkin,irish,,Cluain Dolc·in,,,,,,,,,,,x
-b_clondalkin,norsegaelic,,Cluain Dolc·in,,,,,,,,,,,x
-b_clondalkin,scottish,,Cluain Dolc·in,,,,,,,,,,,x
-b_clondalkin,welsh,,Cluain Dolc·in,,,,,,,,,,,x
+b_clondalkin,breton,,Cluain Dolc√°in,,,,,,,,,,,x
+b_clondalkin,cornish,,Cluain Dolc√°in,,,,,,,,,,,x
+b_clondalkin,cumbric,,Cluain Dolc√°in,,,,,,,,,,,x
+b_clondalkin,irish,,Cluain Dolc√°in,,,,,,,,,,,x
+b_clondalkin,norsegaelic,,Cluain Dolc√°in,,,,,,,,,,,x
+b_clondalkin,scottish,,Cluain Dolc√°in,,,,,,,,,,,x
+b_clondalkin,welsh,,Cluain Dolc√°in,,,,,,,,,,,x
 b_dunleary,b_dunleary,,Dunleary,,,,,,,,,,,x
 b_dunleary,b_dunleary_adj,,,,,,,,,,,,,x
-b_dunleary,breton,,D˙n Laoghaire,,,,,,,,,,,x
-b_dunleary,cornish,,D˙n Laoghaire,,,,,,,,,,,x
-b_dunleary,cumbric,,D˙n Laoghaire,,,,,,,,,,,x
-b_dunleary,irish,,D˙n Laoghaire,,,,,,,,,,,x
-b_dunleary,norsegaelic,,D˙n Laoghaire,,,,,,,,,,,x
-b_dunleary,scottish,,D˙n Laoghaire,,,,,,,,,,,x
-b_dunleary,welsh,,D˙n Laoghaire,,,,,,,,,,,x
+b_dunleary,breton,,D√∫n Laoghaire,,,,,,,,,,,x
+b_dunleary,cornish,,D√∫n Laoghaire,,,,,,,,,,,x
+b_dunleary,cumbric,,D√∫n Laoghaire,,,,,,,,,,,x
+b_dunleary,irish,,D√∫n Laoghaire,,,,,,,,,,,x
+b_dunleary,norsegaelic,,D√∫n Laoghaire,,,,,,,,,,,x
+b_dunleary,scottish,,D√∫n Laoghaire,,,,,,,,,,,x
+b_dunleary,welsh,,D√∫n Laoghaire,,,,,,,,,,,x
 d_leinster,d_leinster,,Leinster,,,,,,,,,,,x
 d_leinster,d_leinster_adj,,Leinsterian,,,,,,,,,,,x
-d_leinster,anglonorse,,Laistar,,,,,,,,,,,x
+d_leinster,anglonorse,,Laista√∞r,,,,,,,,,,,x
 d_leinster,breton,,Laigin,,,,,,,,,,,x
 d_leinster,cornish,,Laigin,,,,,,,,,,,x
 d_leinster,cumbric,,Laigin,,,,,,,,,,,x
-d_leinster,danish,,Laistar,,,,,,,,,,,x
-d_leinster,gothic,,Laistar,,,,,,,,,,,x
-d_leinster,icelandic,,Laistar,,,,,,,,,,,x
+d_leinster,danish,,Laista√∞r,,,,,,,,,,,x
+d_leinster,gothic,,Laista√∞r,,,,,,,,,,,x
+d_leinster,icelandic,,Laista√∞r,,,,,,,,,,,x
 d_leinster,irish,,Laigin,,,,,,,,,,,x
-d_leinster,norse,,Laistar,,,,,,,,,,,x
+d_leinster,norse,,Laista√∞r,,,,,,,,,,,x
 d_leinster,norsegaelic,,Lion,,,,,,,,,,,x
 d_leinster,d_leinster_adj_north_germanic,,Veisafjorder,,,,,,,,,,,x
-d_leinster,norwegian,,Laistar,,,,,,,,,,,x
+d_leinster,norwegian,,Laista√∞r,,,,,,,,,,,x
 d_leinster,scottish,,Laigin,,,,,,,,,,,x
-d_leinster,swedish,,Laistar,,,,,,,,,,,x
+d_leinster,swedish,,Laista√∞r,,,,,,,,,,,x
 d_leinster,welsh,,Laigin,,,,,,,,,,,x
 c_leinster,PROV16,,Wexford,,,,,,,,,,,x
 c_leinster,c_leinster,,,,,,,,,,,,,x
 c_leinster,c_leinster_adj,,Wexfordian,,,,,,,,,,,x
-c_leinster,anglonorse,,Veisafjor,,,,,,,,,,,x
+c_leinster,anglonorse,,Veisafjor√∞,,,,,,,,,,,x
 c_leinster,breton,,Loch Garman,,,,,,,,,,,x
 c_leinster,cornish,,Loch Garman,,,,,,,,,,,x
 c_leinster,cumbric,,Loch Garman,,,,,,,,,,,x
-c_leinster,danish,,Veisafjor,,,,,,,,,,,x
-c_leinster,gothic,,Veisafjor,,,,,,,,,,,x
-c_leinster,icelandic,,Veisafjor,,,,,,,,,,,x
+c_leinster,danish,,Veisafjor√∞,,,,,,,,,,,x
+c_leinster,gothic,,Veisafjor√∞,,,,,,,,,,,x
+c_leinster,icelandic,,Veisafjor√∞,,,,,,,,,,,x
 c_leinster,irish,,Loch Garman,,,,,,,,,,,x
-c_leinster,norse,,Veisafjor,,,,,,,,,,,x
-c_leinster,norsegaelic,,Veisafjor,,,,,,,,,,,x
+c_leinster,norse,,Veisafjor√∞,,,,,,,,,,,x
+c_leinster,norsegaelic,,Veisafjor√∞,,,,,,,,,,,x
 c_leinster,c_leinster_adj_north_germanic,,Veisafjorder,,,,,,,,,,,x
-c_leinster,norwegian,,Veisafjor,,,,,,,,,,,x
+c_leinster,norwegian,,Veisafjor√∞,,,,,,,,,,,x
 c_leinster,saxon,,Waesfjord,,,,,,,,,,,x
 c_leinster,scottish,,Loch Garman,,,,,,,,,,,x
-c_leinster,swedish,,Veisafjor,,,,,,,,,,,x
+c_leinster,swedish,,Veisafjor√∞,,,,,,,,,,,x
 c_leinster,welsh,,Loch Garman,,,,,,,,,,,x
 b_wexford,b_wexford,,Wexford,,,,,,,,,,,x
 b_wexford,b_wexford_adj,,,,,,,,,,,,,x
-b_wexford,anglonorse,,Veisafjor,,,,,,,,,,,x
+b_wexford,anglonorse,,Veisafjor√∞,,,,,,,,,,,x
 b_wexford,breton,,Loch Garman,,,,,,,,,,,x
 b_wexford,cornish,,Loch Garman,,,,,,,,,,,x
 b_wexford,cumbric,,Loch Garman,,,,,,,,,,,x
-b_wexford,danish,,Veisafjor,,,,,,,,,,,x
-b_wexford,gothic,,Veisafjor,,,,,,,,,,,x
-b_wexford,icelandic,,Veisafjor,,,,,,,,,,,x
+b_wexford,danish,,Veisafjor√∞,,,,,,,,,,,x
+b_wexford,gothic,,Veisafjor√∞,,,,,,,,,,,x
+b_wexford,icelandic,,Veisafjor√∞,,,,,,,,,,,x
 b_wexford,irish,,Loch Garman,,,,,,,,,,,x
-b_wexford,norse,,Veisafjor,,,,,,,,,,,x
-b_wexford,norsegaelic,,Veisafjor,,,,,,,,,,,x
-b_wexford,norwegian,,Veisafjor,,,,,,,,,,,x
+b_wexford,norse,,Veisafjor√∞,,,,,,,,,,,x
+b_wexford,norsegaelic,,Veisafjor√∞,,,,,,,,,,,x
+b_wexford,norwegian,,Veisafjor√∞,,,,,,,,,,,x
 b_wexford,saxon,,Waesfjord,,,,,,,,,,,x
 b_wexford,scottish,,Loch Garman,,,,,,,,,,,x
-b_wexford,swedish,,Veisafjor,,,,,,,,,,,x
+b_wexford,swedish,,Veisafjor√∞,,,,,,,,,,,x
 b_wexford,welsh,,Loch Garman,,,,,,,,,,,x
 b_ferns,b_ferns,,Ferns,,,,,,,,,,,x
 b_ferns,b_ferns_adj,,,,,,,,,,,,,x
@@ -5003,13 +5003,13 @@ b_ferns,scottish,,Fearna,,,,,,,,,,,x
 b_ferns,welsh,,Fearna,,,,,,,,,,,x
 b_enniscorthy,b_enniscorthy,,Enniscorthy,,,,,,,,,,,x
 b_enniscorthy,b_enniscorthy_adj,,,,,,,,,,,,,x
-b_enniscorthy,breton,,Inis CÛrthaidh,,,,,,,,,,,x
-b_enniscorthy,cornish,,Inis CÛrthaidh,,,,,,,,,,,x
-b_enniscorthy,cumbric,,Inis CÛrthaidh,,,,,,,,,,,x
-b_enniscorthy,irish,,Inis CÛrthaidh,,,,,,,,,,,x
-b_enniscorthy,norsegaelic,,Inis CÛrthaidh,,,,,,,,,,,x
-b_enniscorthy,scottish,,Inis CÛrthaidh,,,,,,,,,,,x
-b_enniscorthy,welsh,,Inis CÛrthaidh,,,,,,,,,,,x
+b_enniscorthy,breton,,Inis C√≥rthaidh,,,,,,,,,,,x
+b_enniscorthy,cornish,,Inis C√≥rthaidh,,,,,,,,,,,x
+b_enniscorthy,cumbric,,Inis C√≥rthaidh,,,,,,,,,,,x
+b_enniscorthy,irish,,Inis C√≥rthaidh,,,,,,,,,,,x
+b_enniscorthy,norsegaelic,,Inis C√≥rthaidh,,,,,,,,,,,x
+b_enniscorthy,scottish,,Inis C√≥rthaidh,,,,,,,,,,,x
+b_enniscorthy,welsh,,Inis C√≥rthaidh,,,,,,,,,,,x
 b_bargy,b_bargy,,Bargy,,,,,,,,,,,x
 b_bargy,b_bargy_adj,,,,,,,,,,,,,x
 b_bargy,breton,,Ui Bhairrche,,,,,,,,,,,x
@@ -5046,24 +5046,24 @@ b_maynooth,cornish,,Maigh Nuad,,,,,,,,,,,x
 b_maynooth,cumbric,,Maigh Nuad,,,,,,,,,,,x
 b_maynooth,danish,,Mainodd,,,,,,,,,,,x
 b_maynooth,gothic,,Mainodd,,,,,,,,,,,x
-b_maynooth,icelandic,,Mainoﬁ,,,,,,,,,,,x
+b_maynooth,icelandic,,Maino√û,,,,,,,,,,,x
 b_maynooth,irish,,Maigh Nuad,,,,,,,,,,,x
-b_maynooth,norse,,Mainoﬁ,,,,,,,,,,,x
+b_maynooth,norse,,Maino√û,,,,,,,,,,,x
 b_maynooth,norsegaelic,,Maigh Nuad,,,,,,,,,,,x
-b_maynooth,norwegian,,Mainoﬁ,,,,,,,,,,,x
-b_maynooth,saxon,,May Noﬁ,,,,,,,,,,,x
+b_maynooth,norwegian,,Maino√û,,,,,,,,,,,x
+b_maynooth,saxon,,May No√û,,,,,,,,,,,x
 b_maynooth,scottish,,Maigh Nuad,,,,,,,,,,,x
 b_maynooth,swedish,,Mainodd,,,,,,,,,,,x
 b_maynooth,welsh,,Maigh Nuad,,,,,,,,,,,x
 b_naas,b_naas,,Naas,,,,,,,,,,,x
 b_naas,b_naas_adj,,,,,,,,,,,,,x
-b_naas,breton,,N·s na RÌogh,,,,,,,,,,,x
-b_naas,cornish,,N·s na RÌogh,,,,,,,,,,,x
-b_naas,cumbric,,N·s na RÌogh,,,,,,,,,,,x
-b_naas,irish,,N·s na RÌogh,,,,,,,,,,,x
-b_naas,norsegaelic,,N·s na RÌogh,,,,,,,,,,,x
-b_naas,scottish,,N·s na RÌogh,,,,,,,,,,,x
-b_naas,welsh,,N·s na RÌogh,,,,,,,,,,,x
+b_naas,breton,,N√°s na R√≠ogh,,,,,,,,,,,x
+b_naas,cornish,,N√°s na R√≠ogh,,,,,,,,,,,x
+b_naas,cumbric,,N√°s na R√≠ogh,,,,,,,,,,,x
+b_naas,irish,,N√°s na R√≠ogh,,,,,,,,,,,x
+b_naas,norsegaelic,,N√°s na R√≠ogh,,,,,,,,,,,x
+b_naas,scottish,,N√°s na R√≠ogh,,,,,,,,,,,x
+b_naas,welsh,,N√°s na R√≠ogh,,,,,,,,,,,x
 b_old_leighlin,b_old_leighlin,,Old Leighlin,,,,,,,,,,,x
 b_old_leighlin,b_old_leighlin_adj,,,,,,,,,,,,,x
 b_old_leighlin,anglonorse,,Ealdleiglin,,,,,,,,,,,x
@@ -5084,70 +5084,70 @@ c_wicklow,PROV1432,,Chill Mhantain,,,,,,,,,,,x
 c_wicklow,c_wicklow,,,,,,,,,,,,,x
 c_wicklow,c_wicklow_adj,,Wicklowan,,,,,,,,,,,x
 c_wicklow,anglonorse,,Wykynlo,,,,,,,,,,,x
-c_wicklow,breton,,Cill Mhant·in,,,,,,,,,,,x
-c_wicklow,cornish,,Cill Mhant·in,,,,,,,,,,,x
-c_wicklow,cumbric,,Cill Mhant·in,,,,,,,,,,,x
+c_wicklow,breton,,Cill Mhant√°in,,,,,,,,,,,x
+c_wicklow,cornish,,Cill Mhant√°in,,,,,,,,,,,x
+c_wicklow,cumbric,,Cill Mhant√°in,,,,,,,,,,,x
 c_wicklow,danish,,Wykynlo,,,,,,,,,,,x
 c_wicklow,gothic,,Wykynlo,,,,,,,,,,,x
 c_wicklow,icelandic,,Wykynlo,,,,,,,,,,,x
-c_wicklow,irish,,Cill Mhant·in,,,,,,,,,,,x
+c_wicklow,irish,,Cill Mhant√°in,,,,,,,,,,,x
 c_wicklow,norse,,Wykynlo,,,,,,,,,,,x
 c_wicklow,norsegaelic,,Wykynlo,,,,,,,,,,,x
 c_wicklow,norwegian,,Wykynlo,,,,,,,,,,,x
 c_wicklow,saxon,,Wygingelow,,,,,,,,,,,x
-c_wicklow,scottish,,Cill Mhant·in,,,,,,,,,,,x
+c_wicklow,scottish,,Cill Mhant√°in,,,,,,,,,,,x
 c_wicklow,swedish,,Wykynlo,,,,,,,,,,,x
-c_wicklow,welsh,,Cill Mhant·in,,,,,,,,,,,x
+c_wicklow,welsh,,Cill Mhant√°in,,,,,,,,,,,x
 b_wicklow,b_wicklow,,Wicklow,,,,,,,,,,,x
 b_wicklow,b_wicklow_adj,,,,,,,,,,,,,x
 b_wicklow,anglonorse,,Wykynlo,,,,,,,,,,,x
-b_wicklow,breton,,Cill Mhant·in,,,,,,,,,,,x
-b_wicklow,cornish,,Cill Mhant·in,,,,,,,,,,,x
-b_wicklow,cumbric,,Cill Mhant·in,,,,,,,,,,,x
+b_wicklow,breton,,Cill Mhant√°in,,,,,,,,,,,x
+b_wicklow,cornish,,Cill Mhant√°in,,,,,,,,,,,x
+b_wicklow,cumbric,,Cill Mhant√°in,,,,,,,,,,,x
 b_wicklow,danish,,Wykynlo,,,,,,,,,,,x
 b_wicklow,gothic,,Wykynlo,,,,,,,,,,,x
 b_wicklow,icelandic,,Wykynlo,,,,,,,,,,,x
-b_wicklow,irish,,Cill Mhant·in,,,,,,,,,,,x
+b_wicklow,irish,,Cill Mhant√°in,,,,,,,,,,,x
 b_wicklow,norse,,Wykynlo,,,,,,,,,,,x
 b_wicklow,norsegaelic,,Wykynlo,,,,,,,,,,,x
 b_wicklow,norwegian,,Wykynlo,,,,,,,,,,,x
 b_wicklow,saxon,,Wygingelow,,,,,,,,,,,x
-b_wicklow,scottish,,Cill Mhant·in,,,,,,,,,,,x
+b_wicklow,scottish,,Cill Mhant√°in,,,,,,,,,,,x
 b_wicklow,swedish,,Wykynlo,,,,,,,,,,,x
-b_wicklow,welsh,,Cill Mhant·in,,,,,,,,,,,x
+b_wicklow,welsh,,Cill Mhant√°in,,,,,,,,,,,x
 b_arklow,b_arklow,,Arklow,,,,,,,,,,,x
 b_arklow,b_arklow_adj,,,,,,,,,,,,,x
 b_arklow,anglonorse,,Inver Mooar,,,,,,,,,,,x
-b_arklow,breton,,Inbhear MÛr,,,,,,,,,,,x
-b_arklow,cornish,,Inbhear MÛr,,,,,,,,,,,x
-b_arklow,cumbric,,Inbhear MÛr,,,,,,,,,,,x
+b_arklow,breton,,Inbhear M√≥r,,,,,,,,,,,x
+b_arklow,cornish,,Inbhear M√≥r,,,,,,,,,,,x
+b_arklow,cumbric,,Inbhear M√≥r,,,,,,,,,,,x
 b_arklow,danish,,Inver Mooar,,,,,,,,,,,x
 b_arklow,gothic,,Inver Mooar,,,,,,,,,,,x
 b_arklow,icelandic,,Inver Mooar,,,,,,,,,,,x
-b_arklow,irish,,Inbhear MÛr,,,,,,,,,,,x
+b_arklow,irish,,Inbhear M√≥r,,,,,,,,,,,x
 b_arklow,norse,,Inver Mooar,,,,,,,,,,,x
-b_arklow,norsegaelic,,Arnkell-l·g,,,,,,,,,,,x
+b_arklow,norsegaelic,,Arnkell-l√°g,,,,,,,,,,,x
 b_arklow,norwegian,,Inver Mooar,,,,,,,,,,,x
-b_arklow,scottish,,Inbhear MÛr,,,,,,,,,,,x
+b_arklow,scottish,,Inbhear M√≥r,,,,,,,,,,,x
 b_arklow,swedish,,Inver Mooar,,,,,,,,,,,x
-b_arklow,welsh,,Inbhear MÛr,,,,,,,,,,,x
+b_arklow,welsh,,Inbhear M√≥r,,,,,,,,,,,x
 b_glendalough,b_glendalough,,Glendalough,,,,,,,,,,,x
 b_glendalough,b_glendalough_adj,,,,,,,,,,,,,x
-b_glendalough,anglonorse,,Glanda-l·g,,,,,,,,,,,x
-b_glendalough,breton,,Gleann D· Loch,,,,,,,,,,,x
-b_glendalough,cornish,,Gleann D· Loch,,,,,,,,,,,x
-b_glendalough,cumbric,,Gleann D· Loch,,,,,,,,,,,x
-b_glendalough,danish,,Glanda-l·g,,,,,,,,,,,x
-b_glendalough,gothic,,Glanda-l·g,,,,,,,,,,,x
-b_glendalough,icelandic,,Glanda-l·g,,,,,,,,,,,x
-b_glendalough,irish,,Gleann D· Loch,,,,,,,,,,,x
-b_glendalough,norse,,Glanda-l·g,,,,,,,,,,,x
-b_glendalough,norsegaelic,,Glanda-l·g,,,,,,,,,,,x
-b_glendalough,norwegian,,Glanda-l·g,,,,,,,,,,,x
+b_glendalough,anglonorse,,Glanda-l√°g,,,,,,,,,,,x
+b_glendalough,breton,,Gleann D√° Loch,,,,,,,,,,,x
+b_glendalough,cornish,,Gleann D√° Loch,,,,,,,,,,,x
+b_glendalough,cumbric,,Gleann D√° Loch,,,,,,,,,,,x
+b_glendalough,danish,,Glanda-l√°g,,,,,,,,,,,x
+b_glendalough,gothic,,Glanda-l√°g,,,,,,,,,,,x
+b_glendalough,icelandic,,Glanda-l√°g,,,,,,,,,,,x
+b_glendalough,irish,,Gleann D√° Loch,,,,,,,,,,,x
+b_glendalough,norse,,Glanda-l√°g,,,,,,,,,,,x
+b_glendalough,norsegaelic,,Glanda-l√°g,,,,,,,,,,,x
+b_glendalough,norwegian,,Glanda-l√°g,,,,,,,,,,,x
 b_glendalough,saxon,,Glandalag,,,,,,,,,,,x
-b_glendalough,scottish,,Gleann D· Loch,,,,,,,,,,,x
-b_glendalough,swedish,,Glanda-l·g,,,,,,,,,,,x
-b_glendalough,welsh,,Gleann D· Loch,,,,,,,,,,,x
+b_glendalough,scottish,,Gleann D√° Loch,,,,,,,,,,,x
+b_glendalough,swedish,,Glanda-l√°g,,,,,,,,,,,x
+b_glendalough,welsh,,Gleann D√° Loch,,,,,,,,,,,x
 c_ossory,PROV12,,Ossory,,,,,,,,,,,x
 c_ossory,c_ossory,,,,,,,,,,,,,x
 c_ossory,c_ossory_adj,,Ossoryan,,,,,,,,,,,x
@@ -5160,13 +5160,13 @@ c_ossory,scottish,,Osraige,,,,,,,,,,,x
 c_ossory,welsh,,Osraige,,,,,,,,,,,x
 b_gowran,b_gowran,,Gowran,,,,,,,,,,,x
 b_gowran,b_gowran_adj,,,,,,,,,,,,,x
-b_gowran,breton,,Gabhr·n,,,,,,,,,,,x
-b_gowran,cornish,,Gabhr·n,,,,,,,,,,,x
-b_gowran,cumbric,,Gabhr·n,,,,,,,,,,,x
-b_gowran,irish,,Gabhr·n,,,,,,,,,,,x
-b_gowran,norsegaelic,,Gabhr·n,,,,,,,,,,,x
-b_gowran,scottish,,Gabhr·n,,,,,,,,,,,x
-b_gowran,welsh,,Gabhr·n,,,,,,,,,,,x
+b_gowran,breton,,Gabhr√°n,,,,,,,,,,,x
+b_gowran,cornish,,Gabhr√°n,,,,,,,,,,,x
+b_gowran,cumbric,,Gabhr√°n,,,,,,,,,,,x
+b_gowran,irish,,Gabhr√°n,,,,,,,,,,,x
+b_gowran,norsegaelic,,Gabhr√°n,,,,,,,,,,,x
+b_gowran,scottish,,Gabhr√°n,,,,,,,,,,,x
+b_gowran,welsh,,Gabhr√°n,,,,,,,,,,,x
 b_kilkenny,b_kilkenny,,Kilkenny,,,,,,,,,,,x
 b_kilkenny,b_kilkenny_adj,,,,,,,,,,,,,x
 b_kilkenny,anglonorse,,Kilkanice,,,,,,,,,,,x
@@ -5186,31 +5186,31 @@ b_kilkenny,swedish,,Kilkanice,,,,,,,,,,,x
 b_kilkenny,welsh,,Cill Chainnigh,,,,,,,,,,,x
 b_aghaboe,b_aghaboe,,Aghaboe,,,,,,,,,,,x
 b_aghaboe,b_aghaboe_adj,,,,,,,,,,,,,x
-b_aghaboe,breton,,Achadh BhÛ,,,,,,,,,,,x
-b_aghaboe,cornish,,Achadh BhÛ,,,,,,,,,,,x
-b_aghaboe,cumbric,,Achadh BhÛ,,,,,,,,,,,x
-b_aghaboe,irish,,Achadh BhÛ,,,,,,,,,,,x
-b_aghaboe,norsegaelic,,Achadh BhÛ,,,,,,,,,,,x
-b_aghaboe,scottish,,Achadh BhÛ,,,,,,,,,,,x
-b_aghaboe,welsh,,Achadh BhÛ,,,,,,,,,,,x
+b_aghaboe,breton,,Achadh Bh√≥,,,,,,,,,,,x
+b_aghaboe,cornish,,Achadh Bh√≥,,,,,,,,,,,x
+b_aghaboe,cumbric,,Achadh Bh√≥,,,,,,,,,,,x
+b_aghaboe,irish,,Achadh Bh√≥,,,,,,,,,,,x
+b_aghaboe,norsegaelic,,Achadh Bh√≥,,,,,,,,,,,x
+b_aghaboe,scottish,,Achadh Bh√≥,,,,,,,,,,,x
+b_aghaboe,welsh,,Achadh Bh√≥,,,,,,,,,,,x
 b_dunamase,b_dunamase,,Dunamase,,,,,,,,,,,x
 b_dunamase,b_dunamase_adj,,,,,,,,,,,,,x
-b_dunamase,breton,,D˙n M·sc,,,,,,,,,,,x
-b_dunamase,cornish,,D˙n M·sc,,,,,,,,,,,x
-b_dunamase,cumbric,,D˙n M·sc,,,,,,,,,,,x
-b_dunamase,irish,,D˙n M·sc,,,,,,,,,,,x
-b_dunamase,norsegaelic,,D˙n M·sc,,,,,,,,,,,x
-b_dunamase,scottish,,D˙n M·sc,,,,,,,,,,,x
-b_dunamase,welsh,,D˙n M·sc,,,,,,,,,,,x
+b_dunamase,breton,,D√∫n M√°sc,,,,,,,,,,,x
+b_dunamase,cornish,,D√∫n M√°sc,,,,,,,,,,,x
+b_dunamase,cumbric,,D√∫n M√°sc,,,,,,,,,,,x
+b_dunamase,irish,,D√∫n M√°sc,,,,,,,,,,,x
+b_dunamase,norsegaelic,,D√∫n M√°sc,,,,,,,,,,,x
+b_dunamase,scottish,,D√∫n M√°sc,,,,,,,,,,,x
+b_dunamase,welsh,,D√∫n M√°sc,,,,,,,,,,,x
 b_jerpoint,b_jerpoint,,Jerpoint,,,,,,,,,,,x
 b_jerpoint,b_jerpoint_adj,,,,,,,,,,,,,x
-b_jerpoint,breton,,Mainistir Sheireap˙in,,,,,,,,,,,x
-b_jerpoint,cornish,,Mainistir Sheireap˙in,,,,,,,,,,,x
-b_jerpoint,cumbric,,Mainistir Sheireap˙in,,,,,,,,,,,x
-b_jerpoint,irish,,Mainistir Sheireap˙in,,,,,,,,,,,x
-b_jerpoint,norsegaelic,,Mainistir Sheireap˙in,,,,,,,,,,,x
-b_jerpoint,scottish,,Mainistir Sheireap˙in,,,,,,,,,,,x
-b_jerpoint,welsh,,Mainistir Sheireap˙in,,,,,,,,,,,x
+b_jerpoint,breton,,Mainistir Sheireap√∫in,,,,,,,,,,,x
+b_jerpoint,cornish,,Mainistir Sheireap√∫in,,,,,,,,,,,x
+b_jerpoint,cumbric,,Mainistir Sheireap√∫in,,,,,,,,,,,x
+b_jerpoint,irish,,Mainistir Sheireap√∫in,,,,,,,,,,,x
+b_jerpoint,norsegaelic,,Mainistir Sheireap√∫in,,,,,,,,,,,x
+b_jerpoint,scottish,,Mainistir Sheireap√∫in,,,,,,,,,,,x
+b_jerpoint,welsh,,Mainistir Sheireap√∫in,,,,,,,,,,,x
 d_munster,d_munster,,Munster,,,,,,,,,,,x
 d_munster,d_munster_adj,,Munsterian,,,,,,,,,,,x
 d_munster,breton,,Deas-Mhumhain,,,,,,,,,,,x
@@ -5235,18 +5235,18 @@ c_desmond,irish,,Ciarraighe,,,,,,,,,,,x
 c_desmond,norse,,Cheree,,,,,,,,,,,x
 c_desmond,norsegaelic,,Ciarraighe,,,,,,,,,,,x
 c_desmond,norwegian,,Cheree,,,,,,,,,,,x
-c_desmond,scottish,,ChiarraÌ,,,,,,,,,,,x
+c_desmond,scottish,,Chiarra√≠,,,,,,,,,,,x
 c_desmond,swedish,,Cheree,,,,,,,,,,,x
 c_desmond,welsh,,Ciarraighe,,,,,,,,,,,x
 b_tralee,b_tralee,,Tralee,,,,,,,,,,,x
 b_tralee,b_tralee_adj,,,,,,,,,,,,,x
-b_tralee,breton,,Tra LÌ,,,,,,,,,,,x
-b_tralee,cornish,,Tra LÌ,,,,,,,,,,,x
-b_tralee,cumbric,,Tra LÌ,,,,,,,,,,,x
-b_tralee,irish,,Tra LÌ,,,,,,,,,,,x
-b_tralee,norsegaelic,,Tra LÌ,,,,,,,,,,,x
-b_tralee,scottish,,Tra LÌ,,,,,,,,,,,x
-b_tralee,welsh,,Tra LÌ,,,,,,,,,,,x
+b_tralee,breton,,Tra L√≠,,,,,,,,,,,x
+b_tralee,cornish,,Tra L√≠,,,,,,,,,,,x
+b_tralee,cumbric,,Tra L√≠,,,,,,,,,,,x
+b_tralee,irish,,Tra L√≠,,,,,,,,,,,x
+b_tralee,norsegaelic,,Tra L√≠,,,,,,,,,,,x
+b_tralee,scottish,,Tra L√≠,,,,,,,,,,,x
+b_tralee,welsh,,Tra L√≠,,,,,,,,,,,x
 b_innisfallen,b_innisfallen,,Inisfallen,,,,,,,,,,,x
 b_innisfallen,b_innisfallen_adj,,,,,,,,,,,,,x
 b_innisfallen,breton,,Inis Faithlinn,,,,,,,,,,,x
@@ -5301,36 +5301,36 @@ b_limerick,welsh,,Luimnigh,,,,,,,,,,,x
 b_limerick_castle,b_limerick_castle,,Limerick,,,,,,,,,,,x
 b_limerick_castle,b_limerick_castle_adj,,,,,,,,,,,,,x
 b_limerick_castle,anglonorse,,Sibhtonn,,,,,,,,,,,x
-b_limerick_castle,breton,,Caisle·n Luimnigh,,,,,,,,,,,x
-b_limerick_castle,cornish,,Caisle·n Luimnigh,,,,,,,,,,,x
-b_limerick_castle,cumbric,,Caisle·n Luimnigh,,,,,,,,,,,x
+b_limerick_castle,breton,,Caisle√°n Luimnigh,,,,,,,,,,,x
+b_limerick_castle,cornish,,Caisle√°n Luimnigh,,,,,,,,,,,x
+b_limerick_castle,cumbric,,Caisle√°n Luimnigh,,,,,,,,,,,x
 b_limerick_castle,danish,,Sibhtonn,,,,,,,,,,,x
 b_limerick_castle,gothic,,Sibhtonn,,,,,,,,,,,x
 b_limerick_castle,icelandic,,Sibhtonn,,,,,,,,,,,x
-b_limerick_castle,irish,,Caisle·n Luimnigh,,,,,,,,,,,x
+b_limerick_castle,irish,,Caisle√°n Luimnigh,,,,,,,,,,,x
 b_limerick_castle,norse,,Sibhtonn,,,,,,,,,,,x
 b_limerick_castle,norsegaelic,,Sibhtonn,,,,,,,,,,,x
 b_limerick_castle,norwegian,,Sibhtonn,,,,,,,,,,,x
 b_limerick_castle,saxon,,Sibhtonn,,,,,,,,,,,x
-b_limerick_castle,scottish,,Caisle·n Luimnigh,,,,,,,,,,,x
+b_limerick_castle,scottish,,Caisle√°n Luimnigh,,,,,,,,,,,x
 b_limerick_castle,swedish,,Sibhtonn,,,,,,,,,,,x
-b_limerick_castle,welsh,,Caisle·n Luimnigh,,,,,,,,,,,x
+b_limerick_castle,welsh,,Caisle√°n Luimnigh,,,,,,,,,,,x
 b_askeaton,b_askeaton,,Askeaton,,,,,,,,,,,x
 b_askeaton,b_askeaton_adj,,,,,,,,,,,,,x
 b_askeaton,anglonorse,,Askettin,,,,,,,,,,,x
-b_askeaton,breton,,Eas GÈitine,,,,,,,,,,,x
-b_askeaton,cornish,,Eas GÈitine,,,,,,,,,,,x
-b_askeaton,cumbric,,Eas GÈitine,,,,,,,,,,,x
+b_askeaton,breton,,Eas G√©itine,,,,,,,,,,,x
+b_askeaton,cornish,,Eas G√©itine,,,,,,,,,,,x
+b_askeaton,cumbric,,Eas G√©itine,,,,,,,,,,,x
 b_askeaton,danish,,Askettin,,,,,,,,,,,x
 b_askeaton,gothic,,Askettin,,,,,,,,,,,x
 b_askeaton,icelandic,,Askettin,,,,,,,,,,,x
-b_askeaton,irish,,Eas GÈitine,,,,,,,,,,,x
-b_askeaton,norsegaelic,,Eas GÈitine,,,,,,,,,,,x
+b_askeaton,irish,,Eas G√©itine,,,,,,,,,,,x
+b_askeaton,norsegaelic,,Eas G√©itine,,,,,,,,,,,x
 b_askeaton,norwegian,,Askettin,,,,,,,,,,,x
 b_askeaton,saxon,,Askettin,,,,,,,,,,,x
-b_askeaton,scottish,,Eas GÈitine,,,,,,,,,,,x
+b_askeaton,scottish,,Eas G√©itine,,,,,,,,,,,x
 b_askeaton,swedish,,Askettin,,,,,,,,,,,x
-b_askeaton,welsh,,Eas GÈitine,,,,,,,,,,,x
+b_askeaton,welsh,,Eas G√©itine,,,,,,,,,,,x
 c_cork,PROV1430,,Corcaigh,,,,,,,,,,,x
 c_cork,c_cork,,,,,,,,,,,,,x
 c_cork,c_cork_adj,,Corkish,,,,,,,,,,,x
@@ -5366,13 +5366,13 @@ b_cork,swedish,,Chorkee,,,,,,,,,,,x
 b_cork,welsh,,Corc,,,,,,,,,,,x
 b_dunasead,b_dunasead,,Dunasead,,,,,,,,,,,x
 b_dunasead,b_dunasead_adj,,,,,,,,,,,,,x
-b_dunasead,breton,,D˙n na SÈad,,,,,,,,,,,x
-b_dunasead,cornish,,D˙n na SÈad,,,,,,,,,,,x
-b_dunasead,cumbric,,D˙n na SÈad,,,,,,,,,,,x
-b_dunasead,irish,,D˙n na SÈad,,,,,,,,,,,x
-b_dunasead,norsegaelic,,D˙n na SÈad,,,,,,,,,,,x
-b_dunasead,scottish,,D˙n na SÈad,,,,,,,,,,,x
-b_dunasead,welsh,,D˙n na SÈad,,,,,,,,,,,x
+b_dunasead,breton,,D√∫n na S√©ad,,,,,,,,,,,x
+b_dunasead,cornish,,D√∫n na S√©ad,,,,,,,,,,,x
+b_dunasead,cumbric,,D√∫n na S√©ad,,,,,,,,,,,x
+b_dunasead,irish,,D√∫n na S√©ad,,,,,,,,,,,x
+b_dunasead,norsegaelic,,D√∫n na S√©ad,,,,,,,,,,,x
+b_dunasead,scottish,,D√∫n na S√©ad,,,,,,,,,,,x
+b_dunasead,welsh,,D√∫n na S√©ad,,,,,,,,,,,x
 b_cloyne,b_cloyne,,Cloyne,,,,,,,,,,,x
 b_cloyne,b_cloyne_adj,,,,,,,,,,,,,x
 b_cloyne,breton,,Cluain,,,,,,,,,,,x
@@ -5384,49 +5384,49 @@ b_cloyne,scottish,,Cluain,,,,,,,,,,,x
 b_cloyne,welsh,,Cluain,,,,,,,,,,,x
 b_dunboy,b_dunboy,,Dunboy,,,,,,,,,,,x
 b_dunboy,b_dunboy_adj,,,,,,,,,,,,,x
-b_dunboy,breton,,D˙n Baoi,,,,,,,,,,,x
-b_dunboy,cornish,,D˙n Baoi,,,,,,,,,,,x
-b_dunboy,cumbric,,D˙n Baoi,,,,,,,,,,,x
-b_dunboy,irish,,D˙n Baoi,,,,,,,,,,,x
-b_dunboy,norsegaelic,,D˙n Baoi,,,,,,,,,,,x
-b_dunboy,scottish,,D˙n Baoi,,,,,,,,,,,x
-b_dunboy,welsh,,D˙n Baoi,,,,,,,,,,,x
+b_dunboy,breton,,D√∫n Baoi,,,,,,,,,,,x
+b_dunboy,cornish,,D√∫n Baoi,,,,,,,,,,,x
+b_dunboy,cumbric,,D√∫n Baoi,,,,,,,,,,,x
+b_dunboy,irish,,D√∫n Baoi,,,,,,,,,,,x
+b_dunboy,norsegaelic,,D√∫n Baoi,,,,,,,,,,,x
+b_dunboy,scottish,,D√∫n Baoi,,,,,,,,,,,x
+b_dunboy,welsh,,D√∫n Baoi,,,,,,,,,,,x
 c_ormond,PROV15,,Waterford,,,,,,,,,,,x
 c_ormond,c_ormond,,,,,,,,,,,,,x
 c_ormond,c_ormond_adj,,Waterfordian,,,,,,,,,,,x
-c_ormond,anglonorse,,Verafjorr,,,,,,,,,,,x
-c_ormond,breton,,An DÈise,,,,,,,,,,,x
-c_ormond,cornish,,An DÈise,,,,,,,,,,,x
-c_ormond,cumbric,,An DÈise,,,,,,,,,,,x
-c_ormond,danish,,Verafjorr,,,,,,,,,,,x
-c_ormond,gothic,,Verafjorr,,,,,,,,,,,x
-c_ormond,icelandic,,Verafjorr,,,,,,,,,,,x
-c_ormond,irish,,An DÈise,,,,,,,,,,,x
-c_ormond,norse,,Verafjorr,,,,,,,,,,,x
-c_ormond,norsegaelic,,Verafjorr,,,,,,,,,,,x
+c_ormond,anglonorse,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+c_ormond,breton,,An D√©ise,,,,,,,,,,,x
+c_ormond,cornish,,An D√©ise,,,,,,,,,,,x
+c_ormond,cumbric,,An D√©ise,,,,,,,,,,,x
+c_ormond,danish,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+c_ormond,gothic,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+c_ormond,icelandic,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+c_ormond,irish,,An D√©ise,,,,,,,,,,,x
+c_ormond,norse,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+c_ormond,norsegaelic,,Ve√∞rafjor√∞r,,,,,,,,,,,x
 c_ormond,c_ormond_adj_north_germanic,,Vedrafjorder,,,,,,,,,,,x
-c_ormond,norwegian,,Verafjorr,,,,,,,,,,,x
-c_ormond,saxon,,WÊterford,,,,,,,,,,,x
-c_ormond,scottish,,An DÈise,,,,,,,,,,,x
-c_ormond,swedish,,Verafjorr,,,,,,,,,,,x
-c_ormond,welsh,,An DÈise,,,,,,,,,,,x
+c_ormond,norwegian,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+c_ormond,saxon,,W√¶terford,,,,,,,,,,,x
+c_ormond,scottish,,An D√©ise,,,,,,,,,,,x
+c_ormond,swedish,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+c_ormond,welsh,,An D√©ise,,,,,,,,,,,x
 b_waterford,b_waterford,,Waterford,,,,,,,,,,,x
 b_waterford,b_waterford_adj,,,,,,,,,,,,,x
-b_waterford,anglonorse,,Verafjorr,,,,,,,,,,,x
-b_waterford,breton,,Port L·irge,,,,,,,,,,,x
-b_waterford,cornish,,Port L·irge,,,,,,,,,,,x
-b_waterford,cumbric,,Port L·irge,,,,,,,,,,,x
-b_waterford,danish,,Verafjorr,,,,,,,,,,,x
-b_waterford,gothic,,Verafjorr,,,,,,,,,,,x
-b_waterford,icelandic,,Verafjorr,,,,,,,,,,,x
-b_waterford,irish,,Port L·irge,,,,,,,,,,,x
-b_waterford,norse,,Verafjorr,,,,,,,,,,,x
-b_waterford,norsegaelic,,Verafjorr,,,,,,,,,,,x
-b_waterford,norwegian,,Verafjorr,,,,,,,,,,,x
-b_waterford,saxon,,WÊterford,,,,,,,,,,,x
-b_waterford,scottish,,Port L·irge,,,,,,,,,,,x
-b_waterford,swedish,,Verafjorr,,,,,,,,,,,x
-b_waterford,welsh,,Port L·irge,,,,,,,,,,,x
+b_waterford,anglonorse,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+b_waterford,breton,,Port L√°irge,,,,,,,,,,,x
+b_waterford,cornish,,Port L√°irge,,,,,,,,,,,x
+b_waterford,cumbric,,Port L√°irge,,,,,,,,,,,x
+b_waterford,danish,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+b_waterford,gothic,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+b_waterford,icelandic,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+b_waterford,irish,,Port L√°irge,,,,,,,,,,,x
+b_waterford,norse,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+b_waterford,norsegaelic,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+b_waterford,norwegian,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+b_waterford,saxon,,W√¶terford,,,,,,,,,,,x
+b_waterford,scottish,,Port L√°irge,,,,,,,,,,,x
+b_waterford,swedish,,Ve√∞rafjor√∞r,,,,,,,,,,,x
+b_waterford,welsh,,Port L√°irge,,,,,,,,,,,x
 b_clonmel,b_clonmel,,Clonmel,,,,,,,,,,,x
 b_clonmel,b_clonmel_adj,,,,,,,,,,,,,x
 b_clonmel,breton,,Cluain Meala,,,,,,,,,,,x
@@ -5438,24 +5438,24 @@ b_clonmel,scottish,,Cluain Meala,,,,,,,,,,,x
 b_clonmel,welsh,,Cluain Meala,,,,,,,,,,,x
 b_lismore,b_lismore,,Lismore,,,,,,,,,,,x
 b_lismore,b_lismore_adj,,,,,,,,,,,,,x
-b_lismore,breton,,Lios MÛr,,,,,,,,,,,x
-b_lismore,cornish,,Lios MÛr,,,,,,,,,,,x
-b_lismore,cumbric,,Lios MÛr,,,,,,,,,,,x
-b_lismore,irish,,Lios MÛr,,,,,,,,,,,x
-b_lismore,norsegaelic,,Lios MÛr,,,,,,,,,,,x
-b_lismore,scottish,,Lios MÛr,,,,,,,,,,,x
-b_lismore,welsh,,Lios MÛr,,,,,,,,,,,x
+b_lismore,breton,,Lios M√≥r,,,,,,,,,,,x
+b_lismore,cornish,,Lios M√≥r,,,,,,,,,,,x
+b_lismore,cumbric,,Lios M√≥r,,,,,,,,,,,x
+b_lismore,irish,,Lios M√≥r,,,,,,,,,,,x
+b_lismore,norsegaelic,,Lios M√≥r,,,,,,,,,,,x
+b_lismore,scottish,,Lios M√≥r,,,,,,,,,,,x
+b_lismore,welsh,,Lios M√≥r,,,,,,,,,,,x
 c_thomond,PROV13,,Clare,,,,,,,,,,,x
 c_thomond,c_thomond,,,,,,,,,,,,,x
 c_thomond,c_thomond_adj,,Clarish,,,,,,,,,,,x
-c_thomond,breton,,An Cl·r,,,,,,,,,,,x
-c_thomond,cornish,,An Cl·r,,,,,,,,,,,x
-c_thomond,cumbric,,An Cl·r,,,,,,,,,,,x
-c_thomond,irish,,An Cl·r,,,,,,,,,,,x
+c_thomond,breton,,An Cl√°r,,,,,,,,,,,x
+c_thomond,cornish,,An Cl√°r,,,,,,,,,,,x
+c_thomond,cumbric,,An Cl√°r,,,,,,,,,,,x
+c_thomond,irish,,An Cl√°r,,,,,,,,,,,x
 c_thomond,norsegaelic,,Yn Claair,,,,,,,,,,,x
 c_thomond,c_thomond_adj_north_germanic,,Hlymrekian,,,,,,,,,,,x
-c_thomond,scottish,,An Cl·r,,,,,,,,,,,x
-c_thomond,welsh,,An Cl·ir,,,,,,,,,,,x
+c_thomond,scottish,,An Cl√°r,,,,,,,,,,,x
+c_thomond,welsh,,An Cl√°ir,,,,,,,,,,,x
 b_ennis,b_ennis,,Ennis,,,,,,,,,,,x
 b_ennis,b_ennis_adj,,,,,,,,,,,,,x
 b_ennis,breton,,Inis,,,,,,,,,,,x
@@ -5468,78 +5468,78 @@ b_ennis,welsh,,Inis,,,,,,,,,,,x
 b_clarecastle,b_clarecastle,,Clarecaslte,,,,,,,,,,,x
 b_clarecastle,b_clarecastle_adj,,,,,,,,,,,,,x
 b_clarecastle,anglonorse,,Klareborg,,,,,,,,,,,x
-b_clarecastle,breton,,An Cl·r,,,,,,,,,,,x
-b_clarecastle,cornish,,An Cl·r,,,,,,,,,,,x
-b_clarecastle,cumbric,,An Cl·r,,,,,,,,,,,x
+b_clarecastle,breton,,An Cl√°r,,,,,,,,,,,x
+b_clarecastle,cornish,,An Cl√°r,,,,,,,,,,,x
+b_clarecastle,cumbric,,An Cl√°r,,,,,,,,,,,x
 b_clarecastle,danish,,Klareburgh,,,,,,,,,,,x
 b_clarecastle,gothic,,Klareborg,,,,,,,,,,,x
 b_clarecastle,icelandic,,Klareborg,,,,,,,,,,,x
-b_clarecastle,irish,,An Cl·r,,,,,,,,,,,x
+b_clarecastle,irish,,An Cl√°r,,,,,,,,,,,x
 b_clarecastle,norse,,Klareborg,,,,,,,,,,,x
 b_clarecastle,norsegaelic,,Yn Claair,,,,,,,,,,,x
 b_clarecastle,norwegian,,Klareborg,,,,,,,,,,,x
 b_clarecastle,saxon,,Clares Castel,,,,,,,,,,,x
-b_clarecastle,scottish,,An Cl·r,,,,,,,,,,,x
+b_clarecastle,scottish,,An Cl√°r,,,,,,,,,,,x
 b_clarecastle,swedish,,Klareborg,,,,,,,,,,,x
-b_clarecastle,welsh,,An Cl·r,,,,,,,,,,,x
+b_clarecastle,welsh,,An Cl√°r,,,,,,,,,,,x
 b_iniscealtra,b_iniscealtra,,Inis Cealtra,,,,,,,,,,,x
 b_iniscealtra,b_iniscealtra_adj,,,,,,,,,,,,,x
 b_iniscealtra,anglonorse,,Helligland,,,,,,,,,,,x
 b_iniscealtra,breton,,Inis Cealtra,,,,,,,,,,,x
 b_iniscealtra,cornish,,Inis Cealtra,,,,,,,,,,,x
 b_iniscealtra,cumbric,,Inis Cealtra,,,,,,,,,,,x
-b_iniscealtra,danish,,HaligÈaland,,,,,,,,,,,x
-b_iniscealtra,gothic,,HaligÈaland,,,,,,,,,,,x
-b_iniscealtra,icelandic,,HaligÈaland,,,,,,,,,,,x
+b_iniscealtra,danish,,Halig√©aland,,,,,,,,,,,x
+b_iniscealtra,gothic,,Halig√©aland,,,,,,,,,,,x
+b_iniscealtra,icelandic,,Halig√©aland,,,,,,,,,,,x
 b_iniscealtra,irish,,Inis Cealtra,,,,,,,,,,,x
-b_iniscealtra,norse,,HaligÈaland,,,,,,,,,,,x
+b_iniscealtra,norse,,Halig√©aland,,,,,,,,,,,x
 b_iniscealtra,norsegaelic,,Inis Cealtra,,,,,,,,,,,x
-b_iniscealtra,norwegian,,HaligÈaland,,,,,,,,,,,x
-b_iniscealtra,saxon,,HaligÈaland,,,,,,,,,,,x
+b_iniscealtra,norwegian,,Halig√©aland,,,,,,,,,,,x
+b_iniscealtra,saxon,,Halig√©aland,,,,,,,,,,,x
 b_iniscealtra,scottish,,Inis Cealtra,,,,,,,,,,,x
-b_iniscealtra,swedish,,HaligÈaland,,,,,,,,,,,x
+b_iniscealtra,swedish,,Halig√©aland,,,,,,,,,,,x
 b_iniscealtra,welsh,,Inis Cealtra,,,,,,,,,,,x
 c_tipperary,PROV1428,,Thiobraid Arann,,,,,,,,,,,x
 c_tipperary,c_tipperary,,,,,,,,,,,,,x
 c_tipperary,c_tipperary_adj,,Tipperaryan,,,,,,,,,,,x
-c_tipperary,irish,,Tiobraid ¡rann,,,,,,,,,,,x
+c_tipperary,irish,,Tiobraid √Årann,,,,,,,,,,,x
 c_tipperary,norsegaelic,,Hybbyrt Aarey,,,,,,,,,,,x
-c_tipperary,scottish,,Tiobraid ¡rann,,,,,,,,,,,x
-c_tipperary,welsh,,Tiobraid ¡rann,,,,,,,,,,,x
+c_tipperary,scottish,,Tiobraid √Årann,,,,,,,,,,,x
+c_tipperary,welsh,,Tiobraid √Årann,,,,,,,,,,,x
 b_cashel,b_cashel,,Cashel,,,,,,,,,,,x
 b_cashel,b_cashel_adj,,,,,,,,,,,,,x
 b_cashel,anglonorse,,Kashelsten,,,,,,,,,,,x
-b_cashel,breton,,Carraig Ph·draig,,,,,,,,,,,x
-b_cashel,cornish,,Carraig Ph·draig,,,,,,,,,,,x
-b_cashel,cumbric,,Carraig Ph·draig,,,,,,,,,,,x
+b_cashel,breton,,Carraig Ph√°draig,,,,,,,,,,,x
+b_cashel,cornish,,Carraig Ph√°draig,,,,,,,,,,,x
+b_cashel,cumbric,,Carraig Ph√°draig,,,,,,,,,,,x
 b_cashel,danish,,Kashelsten,,,,,,,,,,,x
 b_cashel,gothic,,Kashelsten,,,,,,,,,,,x
 b_cashel,icelandic,,Kashelsten,,,,,,,,,,,x
-b_cashel,irish,,Carraig Ph·draig,,,,,,,,,,,x
+b_cashel,irish,,Carraig Ph√°draig,,,,,,,,,,,x
 b_cashel,norse,,Kashelsten,,,,,,,,,,,x
 b_cashel,norsegaelic,,Kashelsten,,,,,,,,,,,x
 b_cashel,norwegian,,Kashelsten,,,,,,,,,,,x
 b_cashel,saxon,,Carrcashel,,,,,,,,,,,x
-b_cashel,scottish,,Carraig Ph·draig,,,,,,,,,,,x
+b_cashel,scottish,,Carraig Ph√°draig,,,,,,,,,,,x
 b_cashel,swedish,,Kashelsten,,,,,,,,,,,x
-b_cashel,welsh,,Carraig Ph·draig,,,,,,,,,,,x
+b_cashel,welsh,,Carraig Ph√°draig,,,,,,,,,,,x
 b_cahir,b_cahir,,Cahir,,,,,,,,,,,x
 b_cahir,b_cahir_adj,,,,,,,,,,,,,x
 b_cahir,anglonorse,,Cahirsborg,,,,,,,,,,,x
-b_cahir,breton,,Caisle·n na Cathrach,,,,,,,,,,,x
-b_cahir,cornish,,Caisle·n na Cathrach,,,,,,,,,,,x
-b_cahir,cumbric,,Caisle·n na Cathrach,,,,,,,,,,,x
+b_cahir,breton,,Caisle√°n na Cathrach,,,,,,,,,,,x
+b_cahir,cornish,,Caisle√°n na Cathrach,,,,,,,,,,,x
+b_cahir,cumbric,,Caisle√°n na Cathrach,,,,,,,,,,,x
 b_cahir,danish,,Cahirsburgh,,,,,,,,,,,x
 b_cahir,gothic,,Cahirsborg,,,,,,,,,,,x
 b_cahir,icelandic,,Cahirsborg,,,,,,,,,,,x
-b_cahir,irish,,Caisle·n na Cathrach,,,,,,,,,,,x
+b_cahir,irish,,Caisle√°n na Cathrach,,,,,,,,,,,x
 b_cahir,norse,,Cahirsborg,,,,,,,,,,,x
 b_cahir,norsegaelic,,Cahirsborg,,,,,,,,,,,x
 b_cahir,norwegian,,Cahirsborg,,,,,,,,,,,x
 b_cahir,saxon,,Cahir Ceaster,,,,,,,,,,,x
-b_cahir,scottish,,Caisle·n na Cathrach,,,,,,,,,,,x
+b_cahir,scottish,,Caisle√°n na Cathrach,,,,,,,,,,,x
 b_cahir,swedish,,Cahirsborg,,,,,,,,,,,x
-b_cahir,welsh,,Caisle·n na Cathrach,,,,,,,,,,,x
+b_cahir,welsh,,Caisle√°n na Cathrach,,,,,,,,,,,x
 b_emly,b_emly,,Emly,,,,,,,,,,,x
 b_emly,b_emly_adj,,,,,,,,,,,,,x
 b_emly,breton,,Imleach Iubhair,,,,,,,,,,,x
@@ -5637,34 +5637,34 @@ b_kirkcudbright,swedish,,kirkjucudbright,,,,,,,,,,,x
 b_kirkcudbright,welsh,,Cille Chuithbeirt,,,,,,,,,,,x
 b_whithorn,b_whithorn,,Whithorn,,,,,,,,,,,x
 b_whithorn,b_whithorn_adj,,,,,,,,,,,,,x
-b_whithorn,anglonorse,,HvÌt˛orn,,,,,,,,,,,x
-b_whithorn,breton,,Taigh Mh‡rtainn,,,,,,,,,,,x
-b_whithorn,cornish,,Taigh Mh‡rtainn,,,,,,,,,,,x
-b_whithorn,cumbric,,Taigh Mh‡rtainn,,,,,,,,,,,x
-b_whithorn,danish,,HvÌt˛orn,,,,,,,,,,,x
+b_whithorn,anglonorse,,Hv√≠t√æorn,,,,,,,,,,,x
+b_whithorn,breton,,Taigh Mh√†rtainn,,,,,,,,,,,x
+b_whithorn,cornish,,Taigh Mh√†rtainn,,,,,,,,,,,x
+b_whithorn,cumbric,,Taigh Mh√†rtainn,,,,,,,,,,,x
+b_whithorn,danish,,Hv√≠t√æorn,,,,,,,,,,,x
 b_whithorn,english,,Whithorn,,,,,,,,,,,x
-b_whithorn,gothic,,HvÌt˛orn,,,,,,,,,,,x
-b_whithorn,icelandic,,HvÌt˛orn,,,,,,,,,,,x
-b_whithorn,irish,,Taigh Mh‡rtainn,,,,,,,,,,,x
-b_whithorn,norse,,HvÌt˛orn,,,,,,,,,,,x
-b_whithorn,norsegaelic,,Taigh Mh‡rtainn,,,,,,,,,,,x
-b_whithorn,norwegian,,HvÌt˛orn,,,,,,,,,,,x
-b_whithorn,saxon,,HwÌt˛orn,,,,,,,,,,,x
-b_whithorn,scottish,,Taigh Mh‡rtainn,,,,,,,,,,,x
-b_whithorn,swedish,,HvÌt˛orn,,,,,,,,,,,x
-b_whithorn,welsh,,Taigh Mh‡rtainn,,,,,,,,,,,x
+b_whithorn,gothic,,Hv√≠t√æorn,,,,,,,,,,,x
+b_whithorn,icelandic,,Hv√≠t√æorn,,,,,,,,,,,x
+b_whithorn,irish,,Taigh Mh√†rtainn,,,,,,,,,,,x
+b_whithorn,norse,,Hv√≠t√æorn,,,,,,,,,,,x
+b_whithorn,norsegaelic,,Taigh Mh√†rtainn,,,,,,,,,,,x
+b_whithorn,norwegian,,Hv√≠t√æorn,,,,,,,,,,,x
+b_whithorn,saxon,,Hw√≠t√æorn,,,,,,,,,,,x
+b_whithorn,scottish,,Taigh Mh√†rtainn,,,,,,,,,,,x
+b_whithorn,swedish,,Hv√≠t√æorn,,,,,,,,,,,x
+b_whithorn,welsh,,Taigh Mh√†rtainn,,,,,,,,,,,x
 b_dunragit,b_dunragit,,Dunragit,,,,,,,,,,,x
 b_dunragit,b_dunragit_adj,,,,,,,,,,,,,x
 b_dunragit,anglonorse,,Dunragit,,,,,,,,,,,x
-b_dunragit,breton,,D˘n Reicheit,,,,,,,,,,,x
-b_dunragit,cornish,,D˘n Reicheit,,,,,,,,,,,x
-b_dunragit,cumbric,,D˘n Reicheit,,,,,,,,,,,x
+b_dunragit,breton,,D√πn Reicheit,,,,,,,,,,,x
+b_dunragit,cornish,,D√πn Reicheit,,,,,,,,,,,x
+b_dunragit,cumbric,,D√πn Reicheit,,,,,,,,,,,x
 b_dunragit,english,,Dunragit,,,,,,,,,,,x
-b_dunragit,irish,,D˘n Reicheit,,,,,,,,,,,x
-b_dunragit,norsegaelic,,D˘n Reicheit,,,,,,,,,,,x
+b_dunragit,irish,,D√πn Reicheit,,,,,,,,,,,x
+b_dunragit,norsegaelic,,D√πn Reicheit,,,,,,,,,,,x
 b_dunragit,saxon,,Dunragit,,,,,,,,,,,x
-b_dunragit,scottish,,D˘n Reicheit,,,,,,,,,,,x
-b_dunragit,welsh,,D˘n Reicheit,,,,,,,,,,,x
+b_dunragit,scottish,,D√πn Reicheit,,,,,,,,,,,x
+b_dunragit,welsh,,D√πn Reicheit,,,,,,,,,,,x
 c_carrick,PROV49,,Carrick,,,,,,,,,,,x
 c_carrick,c_carrick,,,,,,,,,,,,,x
 c_carrick,c_carrick_adj,,Carrickeach,,,,,,,,,,,x
@@ -5742,15 +5742,15 @@ c_lothian,welsh,,Lleuddiniawn,,,,,,,,,,,x
 b_dunbar,b_dunbar,,Dunbar,,,,,,,,,,,x
 b_dunbar,b_dunbar_adj,,,,,,,,,,,,,x
 b_dunbar,anglonorse,,Dunbar,,,,,,,,,,,x
-b_dunbar,breton,,D˘n B‡rr,,,,,,,,,,,x
-b_dunbar,cornish,,D˘n B‡rr,,,,,,,,,,,x
-b_dunbar,cumbric,,D˘n B‡rr,,,,,,,,,,,x
+b_dunbar,breton,,D√πn B√†rr,,,,,,,,,,,x
+b_dunbar,cornish,,D√πn B√†rr,,,,,,,,,,,x
+b_dunbar,cumbric,,D√πn B√†rr,,,,,,,,,,,x
 b_dunbar,english,,Dunbar,,,,,,,,,,,x
-b_dunbar,irish,,D˘n B‡rr,,,,,,,,,,,x
-b_dunbar,norsegaelic,,D˘n B‡rr,,,,,,,,,,,x
+b_dunbar,irish,,D√πn B√†rr,,,,,,,,,,,x
+b_dunbar,norsegaelic,,D√πn B√†rr,,,,,,,,,,,x
 b_dunbar,saxon,,Dynbaer,,,,,,,,,,,x
-b_dunbar,scottish,,D˘n B‡rr,,,,,,,,,,,x
-b_dunbar,welsh,,D˘n B‡rr,,,,,,,,,,,x
+b_dunbar,scottish,,D√πn B√†rr,,,,,,,,,,,x
+b_dunbar,welsh,,D√πn B√†rr,,,,,,,,,,,x
 b_edinburgh,b_edinburgh,,Edinburgh,,,,,,,,,,,x
 b_edinburgh,b_edinburgh_adj,,,,,,,,,,,,,x
 b_edinburgh,anglonorse,,Edinburgh,,,,,,,,,,,x
@@ -5761,46 +5761,46 @@ b_edinburgh,danish,,Edinburgh,,,,,,,,,,,x
 b_edinburgh,english,,Edinburgh,,,,,,,,,,,x
 b_edinburgh,gothic,,Edinborg,,,,,,,,,,,x
 b_edinburgh,icelandic,,Edinborg,,,,,,,,,,,x
-b_edinburgh,irish,,D˘n »ideann,,,,,,,,,,,x
+b_edinburgh,irish,,D√πn √àideann,,,,,,,,,,,x
 b_edinburgh,norse,,Edinborg,,,,,,,,,,,x
-b_edinburgh,norsegaelic,,D˘n »ideann,,,,,,,,,,,x
+b_edinburgh,norsegaelic,,D√πn √àideann,,,,,,,,,,,x
 b_edinburgh,norwegian,,Edinborg,,,,,,,,,,,x
 b_edinburgh,saxon,,Eidynburh,,,,,,,,,,,x
-b_edinburgh,scottish,,D˘n »ideann,,,,,,,,,,,x
+b_edinburgh,scottish,,D√πn √àideann,,,,,,,,,,,x
 b_edinburgh,swedish,,Edinborg,,,,,,,,,,,x
 b_edinburgh,welsh,,Din Eidyn,,,,,,,,,,,x
 b_abercorn,b_abercorn,,Abercorn,,,,,,,,,,,x
 b_abercorn,b_abercorn_adj,,,,,,,,,,,,,x
-b_abercorn,anglonorse,,∆burcurnig,,,,,,,,,,,x
-b_abercorn,breton,,Obar Ch˘irnidh,,,,,,,,,,,x
-b_abercorn,cornish,,Obar Ch˘irnidh,,,,,,,,,,,x
-b_abercorn,cumbric,,Obar Ch˘irnidh,,,,,,,,,,,x
-b_abercorn,danish,,∆burcurnig,,,,,,,,,,,x
+b_abercorn,anglonorse,,√Üburcurnig,,,,,,,,,,,x
+b_abercorn,breton,,Obar Ch√πirnidh,,,,,,,,,,,x
+b_abercorn,cornish,,Obar Ch√πirnidh,,,,,,,,,,,x
+b_abercorn,cumbric,,Obar Ch√πirnidh,,,,,,,,,,,x
+b_abercorn,danish,,√Üburcurnig,,,,,,,,,,,x
 b_abercorn,english,,Abercorn,,,,,,,,,,,x
-b_abercorn,gothic,,∆burcurnig,,,,,,,,,,,x
-b_abercorn,icelandic,,∆burcurnig,,,,,,,,,,,x
-b_abercorn,irish,,Obar Ch˘irnidh,,,,,,,,,,,x
-b_abercorn,norse,,∆burcurnig,,,,,,,,,,,x
-b_abercorn,norsegaelic,,Obar Ch˘irnidh,,,,,,,,,,,x
-b_abercorn,norwegian,,∆burcurnig,,,,,,,,,,,x
-b_abercorn,saxon,,∆burcurnig,,,,,,,,,,,x
-b_abercorn,scottish,,Obar Ch˘irnidh,,,,,,,,,,,x
-b_abercorn,swedish,,∆burcurnig,,,,,,,,,,,x
-b_abercorn,welsh,,Obar Ch˘irnidh,,,,,,,,,,,x
+b_abercorn,gothic,,√Üburcurnig,,,,,,,,,,,x
+b_abercorn,icelandic,,√Üburcurnig,,,,,,,,,,,x
+b_abercorn,irish,,Obar Ch√πirnidh,,,,,,,,,,,x
+b_abercorn,norse,,√Üburcurnig,,,,,,,,,,,x
+b_abercorn,norsegaelic,,Obar Ch√πirnidh,,,,,,,,,,,x
+b_abercorn,norwegian,,√Üburcurnig,,,,,,,,,,,x
+b_abercorn,saxon,,√Üburcurnig,,,,,,,,,,,x
+b_abercorn,scottish,,Obar Ch√πirnidh,,,,,,,,,,,x
+b_abercorn,swedish,,√Üburcurnig,,,,,,,,,,,x
+b_abercorn,welsh,,Obar Ch√πirnidh,,,,,,,,,,,x
 b_whitekirk,b_whitekirk,,Whitekirk,,,,,,,,,,,x
 b_whitekirk,b_whitekirk_adj,,,,,,,,,,,,,x
-b_whitekirk,anglonorse,,HvÌtrkirkju,,,,,,,,,,,x
-b_whitekirk,danish,,HvÌtrkirkju,,,,,,,,,,,x
+b_whitekirk,anglonorse,,Hv√≠trkirkju,,,,,,,,,,,x
+b_whitekirk,danish,,Hv√≠trkirkju,,,,,,,,,,,x
 b_whitekirk,english,,Whitekirk,,,,,,,,,,,x
-b_whitekirk,gothic,,HvÌtrkirkju,,,,,,,,,,,x
-b_whitekirk,icelandic,,HvÌtrkirkju,,,,,,,,,,,x
+b_whitekirk,gothic,,Hv√≠trkirkju,,,,,,,,,,,x
+b_whitekirk,icelandic,,Hv√≠trkirkju,,,,,,,,,,,x
 b_whitekirk,irish,,Whitekirk,,,,,,,,,,,x
-b_whitekirk,norse,,HvÌtrkirkju,,,,,,,,,,,x
+b_whitekirk,norse,,Hv√≠trkirkju,,,,,,,,,,,x
 b_whitekirk,norsegaelic,,Whitekirk,,,,,,,,,,,x
-b_whitekirk,norwegian,,HvÌtrkirkju,,,,,,,,,,,x
+b_whitekirk,norwegian,,Hv√≠trkirkju,,,,,,,,,,,x
 b_whitekirk,saxon,,Hwit Cirice,,,,,,,,,,,x
 b_whitekirk,scottish,,Whitekirk,,,,,,,,,,,x
-b_whitekirk,swedish,,HvÌtrkirkju,,,,,,,,,,,x
+b_whitekirk,swedish,,Hv√≠trkirkju,,,,,,,,,,,x
 b_whitekirk,welsh,,Whitekirk,,,,,,,,,,,x
 b_thilerstane,b_thilerstane,,Thilerstane,,,,,,,,,,,x
 b_thilerstane,b_thilerstane_adj,,,,,,,,,,,,,x
@@ -5814,15 +5814,15 @@ b_thilerstane,welsh,,Thilerstane,,,,,,,,,,,x
 b_leith,b_leith,,Leith,,,,,,,,,,,x
 b_leith,b_leith_adj,,,,,,,,,,,,,x
 b_leith,anglonorse,,Leith,,,,,,,,,,,x
-b_leith,breton,,LÏte,,,,,,,,,,,x
-b_leith,cornish,,LÏte,,,,,,,,,,,x
-b_leith,cumbric,,LÏte,,,,,,,,,,,x
+b_leith,breton,,L√¨te,,,,,,,,,,,x
+b_leith,cornish,,L√¨te,,,,,,,,,,,x
+b_leith,cumbric,,L√¨te,,,,,,,,,,,x
 b_leith,english,,Leith,,,,,,,,,,,x
-b_leith,irish,,LÏte,,,,,,,,,,,x
-b_leith,norsegaelic,,LÏte,,,,,,,,,,,x
+b_leith,irish,,L√¨te,,,,,,,,,,,x
+b_leith,norsegaelic,,L√¨te,,,,,,,,,,,x
 b_leith,saxon,,Leith,,,,,,,,,,,x
-b_leith,scottish,,LÏte,,,,,,,,,,,x
-b_leith,welsh,,LÏte,,,,,,,,,,,x
+b_leith,scottish,,L√¨te,,,,,,,,,,,x
+b_leith,welsh,,L√¨te,,,,,,,,,,,x
 c_dunbar,PROV51,,Dunbar,,,,,,,,,,,x
 c_dunbar,c_dunbar,,,,,,,,,,,,,x
 c_dunbar,c_dunbar_adj,,Berwickeach,,,,,,,,,,,x
@@ -5997,11 +5997,11 @@ b_peebles,b_peebles,,Peebles,,,,,,,,,,,x
 b_peebles,b_peebles_adj,,,,,,,,,,,,,x
 b_peebles,anglonorse,,Peebles,,,,,,,,,,,x
 b_peebles,english,,Peebles,,,,,,,,,,,x
-b_peebles,irish,,Na P˘ballan,,,,,,,,,,,x
-b_peebles,norsegaelic,,Na P˘ballan,,,,,,,,,,,x
+b_peebles,irish,,Na P√πballan,,,,,,,,,,,x
+b_peebles,norsegaelic,,Na P√πballan,,,,,,,,,,,x
 b_peebles,saxon,,Peebles,,,,,,,,,,,x
-b_peebles,scottish,,Na P˘ballan,,,,,,,,,,,x
-b_peebles,welsh,,Na P˘ballan,,,,,,,,,,,x
+b_peebles,scottish,,Na P√πballan,,,,,,,,,,,x
+b_peebles,welsh,,Na P√πballan,,,,,,,,,,,x
 b_stobo,b_stobo,,Stobo,,,,,,,,,,,x
 b_stobo,b_stobo_adj,,,,,,,,,,,,,x
 b_stobo,anglonorse,,Stobo,,,,,,,,,,,x
@@ -6057,15 +6057,15 @@ b_scone,welsh,,Scoine,,,,,,,,,,,x
 b_dunkeld,b_dunkeld,,Dunkeld,,,,,,,,,,,x
 b_dunkeld,b_dunkeld_adj,,,,,,,,,,,,,x
 b_dunkeld,anglonorse,,Dunkeld,,,,,,,,,,,x
-b_dunkeld,breton,,D˘n Chailleann,,,,,,,,,,,x
-b_dunkeld,cornish,,D˘n Chailleann,,,,,,,,,,,x
-b_dunkeld,cumbric,,D˘n Chailleann,,,,,,,,,,,x
+b_dunkeld,breton,,D√πn Chailleann,,,,,,,,,,,x
+b_dunkeld,cornish,,D√πn Chailleann,,,,,,,,,,,x
+b_dunkeld,cumbric,,D√πn Chailleann,,,,,,,,,,,x
 b_dunkeld,english,,Dunkeld,,,,,,,,,,,x
-b_dunkeld,irish,,D˘n Chailleann,,,,,,,,,,,x
-b_dunkeld,norsegaelic,,D˘n Chailleann,,,,,,,,,,,x
+b_dunkeld,irish,,D√πn Chailleann,,,,,,,,,,,x
+b_dunkeld,norsegaelic,,D√πn Chailleann,,,,,,,,,,,x
 b_dunkeld,saxon,,Dunkeld,,,,,,,,,,,x
-b_dunkeld,scottish,,D˘n Chailleann,,,,,,,,,,,x
-b_dunkeld,welsh,,D˘n Chailleann,,,,,,,,,,,x
+b_dunkeld,scottish,,D√πn Chailleann,,,,,,,,,,,x
+b_dunkeld,welsh,,D√πn Chailleann,,,,,,,,,,,x
 b_perth,b_perth,,Perth,,,,,,,,,,,x
 b_perth,b_perth_adj,,,,,,,,,,,,,x
 b_perth,anglonorse,,Perth,,,,,,,,,,,x
@@ -6081,15 +6081,15 @@ b_perth,welsh,,Peairt,,,,,,,,,,,x
 b_dundee,b_dundee,,Dundee,,,,,,,,,,,x
 b_dundee,b_dundee_adj,,,,,,,,,,,,,x
 b_dundee,anglonorse,,Dundee,,,,,,,,,,,x
-b_dundee,breton,,D˘n DË,,,,,,,,,,,x
-b_dundee,cornish,,D˘n DË,,,,,,,,,,,x
-b_dundee,cumbric,,D˘n DË,,,,,,,,,,,x
+b_dundee,breton,,D√πn D√®,,,,,,,,,,,x
+b_dundee,cornish,,D√πn D√®,,,,,,,,,,,x
+b_dundee,cumbric,,D√πn D√®,,,,,,,,,,,x
 b_dundee,english,,Dundee,,,,,,,,,,,x
-b_dundee,irish,,D˘n DË,,,,,,,,,,,x
-b_dundee,norsegaelic,,D˘n DË,,,,,,,,,,,x
+b_dundee,irish,,D√πn D√®,,,,,,,,,,,x
+b_dundee,norsegaelic,,D√πn D√®,,,,,,,,,,,x
 b_dundee,saxon,,Dundee,,,,,,,,,,,x
-b_dundee,scottish,,D˘n DË,,,,,,,,,,,x
-b_dundee,welsh,,D˘n DË,,,,,,,,,,,x
+b_dundee,scottish,,D√πn D√®,,,,,,,,,,,x
+b_dundee,welsh,,D√πn D√®,,,,,,,,,,,x
 b_forteviot,b_forteviot,,Forteviot,,,,,,,,,,,x
 b_forteviot,b_forteviot_adj,,,,,,,,,,,,,x
 b_forteviot,anglonorse,,Forteviot,,,,,,,,,,,x
@@ -6111,50 +6111,50 @@ b_clunie,welsh,,Clunie,,,,,,,,,,,x
 c_fife,PROV46,,Fife,,,,,,,,,,,x
 c_fife,c_fife,,,,,,,,,,,,,x
 c_fife,c_fife_adj,,Fifeach,,,,,,,,,,,x
-c_fife,breton,,FÏobha,,,,,,,,,,,x
-c_fife,cornish,,FÏobha,,,,,,,,,,,x
-c_fife,cumbric,,FÏobha,,,,,,,,,,,x
-c_fife,irish,,FÏobha,,,,,,,,,,,x
-c_fife,norsegaelic,,FÏobha,,,,,,,,,,,x
+c_fife,breton,,F√¨obha,,,,,,,,,,,x
+c_fife,cornish,,F√¨obha,,,,,,,,,,,x
+c_fife,cumbric,,F√¨obha,,,,,,,,,,,x
+c_fife,irish,,F√¨obha,,,,,,,,,,,x
+c_fife,norsegaelic,,F√¨obha,,,,,,,,,,,x
 c_fife,saxon,,Fife,,,,,,,,,,,x
-c_fife,scottish,,FÏobha,,,,,,,,,,,x
-c_fife,welsh,,FÏobha,,,,,,,,,,,x
+c_fife,scottish,,F√¨obha,,,,,,,,,,,x
+c_fife,welsh,,F√¨obha,,,,,,,,,,,x
 b_cupar,b_cupar,,Cupar,,,,,,,,,,,x
 b_cupar,b_cupar_adj,,,,,,,,,,,,,x
 b_cupar,anglonorse,,Cupar,,,,,,,,,,,x
-b_cupar,breton,,C˘bar,,,,,,,,,,,x
-b_cupar,cornish,,C˘bar,,,,,,,,,,,x
-b_cupar,cumbric,,C˘bar,,,,,,,,,,,x
+b_cupar,breton,,C√πbar,,,,,,,,,,,x
+b_cupar,cornish,,C√πbar,,,,,,,,,,,x
+b_cupar,cumbric,,C√πbar,,,,,,,,,,,x
 b_cupar,english,,Cupar,,,,,,,,,,,x
-b_cupar,irish,,C˘bar,,,,,,,,,,,x
-b_cupar,norsegaelic,,C˘bar,,,,,,,,,,,x
+b_cupar,irish,,C√πbar,,,,,,,,,,,x
+b_cupar,norsegaelic,,C√πbar,,,,,,,,,,,x
 b_cupar,saxon,,Cupar,,,,,,,,,,,x
-b_cupar,scottish,,C˘bar,,,,,,,,,,,x
-b_cupar,welsh,,C˘bar,,,,,,,,,,,x
+b_cupar,scottish,,C√πbar,,,,,,,,,,,x
+b_cupar,welsh,,C√πbar,,,,,,,,,,,x
 b_st_andrews,b_st_andrews,,St Andrews,,,,,,,,,,,x
 b_st_andrews,b_st_andrews_adj,,,,,,,,,,,,,x
 b_st_andrews,anglonorse,,St. Andrews,,,,,,,,,,,x
-b_st_andrews,breton,,Cill RÏmhinn,,,,,,,,,,,x
-b_st_andrews,cornish,,Cill RÏmhinn,,,,,,,,,,,x
-b_st_andrews,cumbric,,Cill RÏmhinn,,,,,,,,,,,x
+b_st_andrews,breton,,Cill R√¨mhinn,,,,,,,,,,,x
+b_st_andrews,cornish,,Cill R√¨mhinn,,,,,,,,,,,x
+b_st_andrews,cumbric,,Cill R√¨mhinn,,,,,,,,,,,x
 b_st_andrews,english,,St. Andrews,,,,,,,,,,,x
-b_st_andrews,irish,,Cill RÏmhinn,,,,,,,,,,,x
-b_st_andrews,norsegaelic,,Cill RÏmhinn,,,,,,,,,,,x
+b_st_andrews,irish,,Cill R√¨mhinn,,,,,,,,,,,x
+b_st_andrews,norsegaelic,,Cill R√¨mhinn,,,,,,,,,,,x
 b_st_andrews,saxon,,St. Andrews,,,,,,,,,,,x
-b_st_andrews,scottish,,Cill RÏmhinn,,,,,,,,,,,x
-b_st_andrews,welsh,,Cill RÏmhinn,,,,,,,,,,,x
+b_st_andrews,scottish,,Cill R√¨mhinn,,,,,,,,,,,x
+b_st_andrews,welsh,,Cill R√¨mhinn,,,,,,,,,,,x
 b_dunfermline,b_dunfermline,,Dunfermline,,,,,,,,,,,x
 b_dunfermline,b_dunfermline_adj,,,,,,,,,,,,,x
 b_dunfermline,anglonorse,,Dunfermline,,,,,,,,,,,x
-b_dunfermline,breton,,D˘n Ph‡rlain,,,,,,,,,,,x
-b_dunfermline,cornish,,D˘n Ph‡rlain,,,,,,,,,,,x
-b_dunfermline,cumbric,,D˘n Ph‡rlain,,,,,,,,,,,x
+b_dunfermline,breton,,D√πn Ph√†rlain,,,,,,,,,,,x
+b_dunfermline,cornish,,D√πn Ph√†rlain,,,,,,,,,,,x
+b_dunfermline,cumbric,,D√πn Ph√†rlain,,,,,,,,,,,x
 b_dunfermline,english,,Dunfermline,,,,,,,,,,,x
-b_dunfermline,irish,,D˘n Ph‡rlain,,,,,,,,,,,x
-b_dunfermline,norsegaelic,,D˘n Ph‡rlain,,,,,,,,,,,x
+b_dunfermline,irish,,D√πn Ph√†rlain,,,,,,,,,,,x
+b_dunfermline,norsegaelic,,D√πn Ph√†rlain,,,,,,,,,,,x
 b_dunfermline,saxon,,Dunfermline,,,,,,,,,,,x
-b_dunfermline,scottish,,D˘n Ph‡rlain,,,,,,,,,,,x
-b_dunfermline,welsh,,D˘n Ph‡rlain,,,,,,,,,,,x
+b_dunfermline,scottish,,D√πn Ph√†rlain,,,,,,,,,,,x
+b_dunfermline,welsh,,D√πn Ph√†rlain,,,,,,,,,,,x
 b_kinross,b_kinross,,Kinross,,,,,,,,,,,x
 b_kinross,b_kinross_adj,,,,,,,,,,,,,x
 b_kinross,anglonorse,,Kinross,,,,,,,,,,,x
@@ -6183,15 +6183,15 @@ c_strathearn,PROV42,,Strathearn,,,,,,,,,,,x
 c_strathearn,c_strathearn,,,,,,,,,,,,,x
 c_strathearn,c_strathearn_adj,,Strathearneach,,,,,,,,,,,x
 c_strathearn,anglonorse,,Strathearn,,,,,,,,,,,x
-c_strathearn,breton,,Srath »ireann,,,,,,,,,,,x
-c_strathearn,cornish,,Srath »ireann,,,,,,,,,,,x
-c_strathearn,cumbric,,Srath »ireann,,,,,,,,,,,x
+c_strathearn,breton,,Srath √àireann,,,,,,,,,,,x
+c_strathearn,cornish,,Srath √àireann,,,,,,,,,,,x
+c_strathearn,cumbric,,Srath √àireann,,,,,,,,,,,x
 c_strathearn,english,,Strathearn,,,,,,,,,,,x
-c_strathearn,irish,,Srath »ireann,,,,,,,,,,,x
-c_strathearn,norsegaelic,,Srath »ireann,,,,,,,,,,,x
+c_strathearn,irish,,Srath √àireann,,,,,,,,,,,x
+c_strathearn,norsegaelic,,Srath √àireann,,,,,,,,,,,x
 c_strathearn,saxon,,Strathearn,,,,,,,,,,,x
-c_strathearn,scottish,,Srath »ireann,,,,,,,,,,,x
-c_strathearn,welsh,,Srath »ireann,,,,,,,,,,,x
+c_strathearn,scottish,,Srath √àireann,,,,,,,,,,,x
+c_strathearn,welsh,,Srath √àireann,,,,,,,,,,,x
 b_crieff,b_crieff,,Crieff,,,,,,,,,,,x
 b_crieff,b_crieff_adj,,,,,,,,,,,,,x
 b_crieff,anglonorse,,Crieff,,,,,,,,,,,x
@@ -6207,27 +6207,27 @@ b_crieff,welsh,,Craoibh,,,,,,,,,,,x
 b_dunblane,b_dunblane,,Dunblane,,,,,,,,,,,x
 b_dunblane,b_dunblane_adj,,,,,,,,,,,,,x
 b_dunblane,anglonorse,,Dunblane,,,,,,,,,,,x
-b_dunblane,breton,,D˘n Bhl‡thain,,,,,,,,,,,x
-b_dunblane,cornish,,D˘n Bhl‡thain,,,,,,,,,,,x
-b_dunblane,cumbric,,D˘n Bhl‡thain,,,,,,,,,,,x
+b_dunblane,breton,,D√πn Bhl√†thain,,,,,,,,,,,x
+b_dunblane,cornish,,D√πn Bhl√†thain,,,,,,,,,,,x
+b_dunblane,cumbric,,D√πn Bhl√†thain,,,,,,,,,,,x
 b_dunblane,english,,Dunblane,,,,,,,,,,,x
-b_dunblane,irish,,D˘n Bhl‡thain,,,,,,,,,,,x
-b_dunblane,norsegaelic,,D˘n Bhl‡thain,,,,,,,,,,,x
+b_dunblane,irish,,D√πn Bhl√†thain,,,,,,,,,,,x
+b_dunblane,norsegaelic,,D√πn Bhl√†thain,,,,,,,,,,,x
 b_dunblane,saxon,,Dunblane,,,,,,,,,,,x
-b_dunblane,scottish,,D˘n Bhl‡thain,,,,,,,,,,,x
-b_dunblane,welsh,,D˘n Bhl‡thain,,,,,,,,,,,x
+b_dunblane,scottish,,D√πn Bhl√†thain,,,,,,,,,,,x
+b_dunblane,welsh,,D√πn Bhl√†thain,,,,,,,,,,,x
 b_auchterarder,b_auchterarder,,Auchterarder,,,,,,,,,,,x
 b_auchterarder,b_auchterarder_adj,,,,,,,,,,,,,x
 b_auchterarder,anglonorse,,Auchterarder,,,,,,,,,,,x
-b_auchterarder,breton,,Uachdar ¿rdair,,,,,,,,,,,x
-b_auchterarder,cornish,,Uachdar ¿rdair,,,,,,,,,,,x
-b_auchterarder,cumbric,,Uachdar ¿rdair,,,,,,,,,,,x
+b_auchterarder,breton,,Uachdar √Ärdair,,,,,,,,,,,x
+b_auchterarder,cornish,,Uachdar √Ärdair,,,,,,,,,,,x
+b_auchterarder,cumbric,,Uachdar √Ärdair,,,,,,,,,,,x
 b_auchterarder,english,,Auchterarder,,,,,,,,,,,x
-b_auchterarder,irish,,Uachdar ¿rdair,,,,,,,,,,,x
-b_auchterarder,norsegaelic,,Uachdar ¿rdair,,,,,,,,,,,x
+b_auchterarder,irish,,Uachdar √Ärdair,,,,,,,,,,,x
+b_auchterarder,norsegaelic,,Uachdar √Ärdair,,,,,,,,,,,x
 b_auchterarder,saxon,,Auchterarder,,,,,,,,,,,x
-b_auchterarder,scottish,,Uachdar ¿rdair,,,,,,,,,,,x
-b_auchterarder,welsh,,Uachdar ¿rdair,,,,,,,,,,,x
+b_auchterarder,scottish,,Uachdar √Ärdair,,,,,,,,,,,x
+b_auchterarder,welsh,,Uachdar √Ärdair,,,,,,,,,,,x
 b_madderty,b_madderty,,Madderty,,,,,,,,,,,x
 b_madderty,b_madderty_adj,,,,,,,,,,,,,x
 b_madderty,anglonorse,,Madderty,,,,,,,,,,,x
@@ -6253,15 +6253,15 @@ c_atholl,welsh,,Athall,,,,,,,,,,,x
 b_blair_atholl,b_blair_atholl,,Blair Atholl,,,,,,,,,,,x
 b_blair_atholl,b_blair_atholl_adj,,,,,,,,,,,,,x
 b_blair_atholl,anglonorse,,Blair Atholl,,,,,,,,,,,x
-b_blair_atholl,breton,,Bl‡r Athall,,,,,,,,,,,x
-b_blair_atholl,cornish,,Bl‡r Athall,,,,,,,,,,,x
-b_blair_atholl,cumbric,,Bl‡r Athall,,,,,,,,,,,x
+b_blair_atholl,breton,,Bl√†r Athall,,,,,,,,,,,x
+b_blair_atholl,cornish,,Bl√†r Athall,,,,,,,,,,,x
+b_blair_atholl,cumbric,,Bl√†r Athall,,,,,,,,,,,x
 b_blair_atholl,english,,Blair Atholl,,,,,,,,,,,x
-b_blair_atholl,irish,,Bl‡r Athall,,,,,,,,,,,x
-b_blair_atholl,norsegaelic,,Bl‡r Athall,,,,,,,,,,,x
+b_blair_atholl,irish,,Bl√†r Athall,,,,,,,,,,,x
+b_blair_atholl,norsegaelic,,Bl√†r Athall,,,,,,,,,,,x
 b_blair_atholl,saxon,,Blair Atholl,,,,,,,,,,,x
-b_blair_atholl,scottish,,Bl‡r Athall,,,,,,,,,,,x
-b_blair_atholl,welsh,,Bl‡r Athall,,,,,,,,,,,x
+b_blair_atholl,scottish,,Bl√†r Athall,,,,,,,,,,,x
+b_blair_atholl,welsh,,Bl√†r Athall,,,,,,,,,,,x
 b_pitlochry,b_pitlochry,,Pitlochry,,,,,,,,,,,x
 b_pitlochry,b_pitlochry_adj,,,,,,,,,,,,,x
 b_pitlochry,anglonorse,,Pitlochry,,,,,,,,,,,x
@@ -6562,15 +6562,15 @@ b_gamrie,welsh,,Gameryn,,,,,,,,,,,x
 b_keith,b_keith,,Keith,,,,,,,,,,,x
 b_keith,b_keith_adj,,,,,,,,,,,,,x
 b_keith,anglonorse,,Keith,,,,,,,,,,,x
-b_keith,breton,,Baile ChËith,,,,,,,,,,,x
-b_keith,cornish,,Baile ChËith,,,,,,,,,,,x
-b_keith,cumbric,,Baile ChËith,,,,,,,,,,,x
+b_keith,breton,,Baile Ch√®ith,,,,,,,,,,,x
+b_keith,cornish,,Baile Ch√®ith,,,,,,,,,,,x
+b_keith,cumbric,,Baile Ch√®ith,,,,,,,,,,,x
 b_keith,english,,Keith,,,,,,,,,,,x
-b_keith,irish,,Baile ChËith,,,,,,,,,,,x
-b_keith,norsegaelic,,Baile ChËith,,,,,,,,,,,x
+b_keith,irish,,Baile Ch√®ith,,,,,,,,,,,x
+b_keith,norsegaelic,,Baile Ch√®ith,,,,,,,,,,,x
 b_keith,saxon,,Keith,,,,,,,,,,,x
-b_keith,scottish,,Baile ChËith,,,,,,,,,,,x
-b_keith,welsh,,Baile ChËith,,,,,,,,,,,x
+b_keith,scottish,,Baile Ch√®ith,,,,,,,,,,,x
+b_keith,welsh,,Baile Ch√®ith,,,,,,,,,,,x
 c_obardheathain,PROV1423,,Obar Dheathain,,,,,,,,,,,x
 c_obardheathain,c_obardheathain,,,,,,,,,,,,,x
 c_obardheathain,c_obardheathain_adj,,Obar Dheathaineach,,,,,,,,,,,x
@@ -6641,33 +6641,33 @@ c_cinnchardainn,PROV1424,,Cinn Chardainn,,,,,,,,,,,x
 c_cinnchardainn,c_cinnchardainn,,,,,,,,,,,,,x
 c_cinnchardainn,c_cinnchardainn_adj,,Cinn Chardainneach,,,,,,,,,,,x
 c_cinnchardainn,anglonorse,,Kincardine,,,,,,,,,,,x
-c_cinnchardainn,breton,,Cinn Ch‡rdainn,,,,,,,,,,,x
-c_cinnchardainn,cornish,,Cinn Ch‡rdainn,,,,,,,,,,,x
-c_cinnchardainn,cumbric,,Cinn Ch‡rdainn,,,,,,,,,,,x
+c_cinnchardainn,breton,,Cinn Ch√†rdainn,,,,,,,,,,,x
+c_cinnchardainn,cornish,,Cinn Ch√†rdainn,,,,,,,,,,,x
+c_cinnchardainn,cumbric,,Cinn Ch√†rdainn,,,,,,,,,,,x
 c_cinnchardainn,danish,,Kincardine,,,,,,,,,,,x
 c_cinnchardainn,english,,Kincardine,,,,,,,,,,,x
 c_cinnchardainn,gothic,,Kincardine,,,,,,,,,,,x
 c_cinnchardainn,icelandic,,Kincardine,,,,,,,,,,,x
-c_cinnchardainn,irish,,Cinn Ch‡rdainn,,,,,,,,,,,x
+c_cinnchardainn,irish,,Cinn Ch√†rdainn,,,,,,,,,,,x
 c_cinnchardainn,norse,,Kincardine,,,,,,,,,,,x
-c_cinnchardainn,norsegaelic,,Cinn Ch‡rdainn,,,,,,,,,,,x
+c_cinnchardainn,norsegaelic,,Cinn Ch√†rdainn,,,,,,,,,,,x
 c_cinnchardainn,norwegian,,Kincardine,,,,,,,,,,,x
 c_cinnchardainn,saxon,,Kincardine,,,,,,,,,,,x
-c_cinnchardainn,scottish,,Cinn Ch‡rdainn,,,,,,,,,,,x
+c_cinnchardainn,scottish,,Cinn Ch√†rdainn,,,,,,,,,,,x
 c_cinnchardainn,swedish,,Kincardine,,,,,,,,,,,x
-c_cinnchardainn,welsh,,Cinn Ch‡rdainn,,,,,,,,,,,x
+c_cinnchardainn,welsh,,Cinn Ch√†rdainn,,,,,,,,,,,x
 b_dunnottar,b_dunnottar,,Dunnottar,,,,,,,,,,,x
 b_dunnottar,b_dunnottar_adj,,,,,,,,,,,,,x
 b_dunnottar,anglonorse,,Dunnottar,,,,,,,,,,,x
-b_dunnottar,breton,,D˘n Fhoithear,,,,,,,,,,,x
-b_dunnottar,cornish,,D˘n Fhoithear,,,,,,,,,,,x
-b_dunnottar,cumbric,,D˘n Fhoithear,,,,,,,,,,,x
+b_dunnottar,breton,,D√πn Fhoithear,,,,,,,,,,,x
+b_dunnottar,cornish,,D√πn Fhoithear,,,,,,,,,,,x
+b_dunnottar,cumbric,,D√πn Fhoithear,,,,,,,,,,,x
 b_dunnottar,english,,Dunnottar,,,,,,,,,,,x
-b_dunnottar,irish,,D˘n Fhoithear,,,,,,,,,,,x
-b_dunnottar,norsegaelic,,D˘n Fhoithear,,,,,,,,,,,x
+b_dunnottar,irish,,D√πn Fhoithear,,,,,,,,,,,x
+b_dunnottar,norsegaelic,,D√πn Fhoithear,,,,,,,,,,,x
 b_dunnottar,saxon,,Dunnottar,,,,,,,,,,,x
-b_dunnottar,scottish,,D˘n Fhoithear,,,,,,,,,,,x
-b_dunnottar,welsh,,D˘n Fhoithear,,,,,,,,,,,x
+b_dunnottar,scottish,,D√πn Fhoithear,,,,,,,,,,,x
+b_dunnottar,welsh,,D√πn Fhoithear,,,,,,,,,,,x
 b_stonehaven,b_stonehaven,,Stonehaven,,,,,,,,,,,x
 b_stonehaven,b_stonehaven_adj,,,,,,,,,,,,,x
 b_stonehaven,anglonorse,,Stonehaven,,,,,,,,,,,x
@@ -6706,79 +6706,79 @@ b_inverbervie,scottish,,Inbhir Biorbhaidh,,,,,,,,,,,x
 b_inverbervie,welsh,,Inbhir Biorbhaidh,,,,,,,,,,,x
 d_sutherland,d_sutherland,,Sutherland,,,,,,,,,,,x
 d_sutherland,d_sutherland_adj,,Sutherland,,,,,,,,,,,x
-d_sutherland,anglonorse,,Surland,,,,,,,,,,,x
+d_sutherland,anglonorse,,Su√∞rland,,,,,,,,,,,x
 d_sutherland,breton,,Cataibh,,,,,,,,,,,x
 d_sutherland,d_sutherland_adj_breton,,Cataibh,,,,,,,,,,,x
 d_sutherland,cornish,,Cataibh,,,,,,,,,,,x
 d_sutherland,d_sutherland_adj_cornish,,Cataibh,,,,,,,,,,,x
 d_sutherland,cumbric,,Cataibh,,,,,,,,,,,x
 d_sutherland,d_sutherland_adj_cumbric,,Cataibh,,,,,,,,,,,x
-d_sutherland,danish,,SyndrÊland,,,,,,,,,,,x
-d_sutherland,d_sutherland_adj_danish,,SyndrÊland,,,,,,,,,,,x
+d_sutherland,danish,,Syndr√¶land,,,,,,,,,,,x
+d_sutherland,d_sutherland_adj_danish,,Syndr√¶land,,,,,,,,,,,x
 d_sutherland,english,,Sutherland,,,,,,,,,,,x
-d_sutherland,gothic,,Surland,,,,,,,,,,,x
-d_sutherland,d_sutherland_adj_gothic,,Surland,,,,,,,,,,,x
-d_sutherland,icelandic,,Surland,,,,,,,,,,,x
-d_sutherland,d_sutherland_adj_icelandic,,Surland,,,,,,,,,,,x
+d_sutherland,gothic,,Su√∞rland,,,,,,,,,,,x
+d_sutherland,d_sutherland_adj_gothic,,Su√∞rland,,,,,,,,,,,x
+d_sutherland,icelandic,,Su√∞rland,,,,,,,,,,,x
+d_sutherland,d_sutherland_adj_icelandic,,Su√∞rland,,,,,,,,,,,x
 d_sutherland,irish,,Cataibh,,,,,,,,,,,x
 d_sutherland,d_sutherland_adj_irish,,Cataibh,,,,,,,,,,,x
-d_sutherland,norse,,Surland,,,,,,,,,,,x
-d_sutherland,d_sutherland_adj_norse,,Surland,,,,,,,,,,,x
+d_sutherland,norse,,Su√∞rland,,,,,,,,,,,x
+d_sutherland,d_sutherland_adj_norse,,Su√∞rland,,,,,,,,,,,x
 d_sutherland,norsegaelic,,Cataibh,,,,,,,,,,,x
-d_sutherland,d_sutherland_adj_norsegaelic,,Surland,,,,,,,,,,,x
-d_sutherland,norwegian,,Surland,,,,,,,,,,,x
-d_sutherland,d_sutherland_adj_norwegian,,Surland,,,,,,,,,,,x
-d_sutherland,saxon,,Su˛land,,,,,,,,,,,x
+d_sutherland,d_sutherland_adj_norsegaelic,,Su√∞rland,,,,,,,,,,,x
+d_sutherland,norwegian,,Su√∞rland,,,,,,,,,,,x
+d_sutherland,d_sutherland_adj_norwegian,,Su√∞rland,,,,,,,,,,,x
+d_sutherland,saxon,,Su√æland,,,,,,,,,,,x
 d_sutherland,d_sutherland_adj_saxon,,Suthland,,,,,,,,,,,x
 d_sutherland,scottish,,Cataibh,,,,,,,,,,,x
 d_sutherland,d_sutherland_adj_scottish,,Cataibh,,,,,,,,,,,x
-d_sutherland,swedish,,Surland,,,,,,,,,,,x
-d_sutherland,d_sutherland_adj_swedish,,Surland,,,,,,,,,,,x
+d_sutherland,swedish,,Su√∞rland,,,,,,,,,,,x
+d_sutherland,d_sutherland_adj_swedish,,Su√∞rland,,,,,,,,,,,x
 d_sutherland,welsh,,Cataibh,,,,,,,,,,,x
 d_sutherland,d_sutherland_adj_welsh,,Cataibh,,,,,,,,,,,x
 c_sutherland,PROV1431,,Cataibh,,,,,,,,,,,x
 c_sutherland,c_sutherland,,,,,,,,,,,,,x
 c_sutherland,c_sutherland_adj,,,,,,,,,,,,,x
-c_sutherland,anglonorse,,Surland,,,,,,,,,,,x
+c_sutherland,anglonorse,,Su√∞rland,,,,,,,,,,,x
 c_sutherland,breton,,Cataibh,,,,,,,,,,,x
 c_sutherland,cornish,,Cataibh,,,,,,,,,,,x
 c_sutherland,cumbric,,Cataibh,,,,,,,,,,,x
-c_sutherland,danish,,Surland,,,,,,,,,,,x
+c_sutherland,danish,,Su√∞rland,,,,,,,,,,,x
 c_sutherland,english,,Sutherland,,,,,,,,,,,x
-c_sutherland,gothic,,Surland,,,,,,,,,,,x
-c_sutherland,icelandic,,Surland,,,,,,,,,,,x
+c_sutherland,gothic,,Su√∞rland,,,,,,,,,,,x
+c_sutherland,icelandic,,Su√∞rland,,,,,,,,,,,x
 c_sutherland,irish,,Cataibh,,,,,,,,,,,x
-c_sutherland,norse,,Surland,,,,,,,,,,,x
+c_sutherland,norse,,Su√∞rland,,,,,,,,,,,x
 c_sutherland,norsegaelic,,Cataibh,,,,,,,,,,,x
-c_sutherland,norwegian,,Surland,,,,,,,,,,,x
-c_sutherland,saxon,,Su˛land,,,,,,,,,,,x
+c_sutherland,norwegian,,Su√∞rland,,,,,,,,,,,x
+c_sutherland,saxon,,Su√æland,,,,,,,,,,,x
 c_sutherland,scottish,,Cataibh,,,,,,,,,,,x
-c_sutherland,swedish,,Surland,,,,,,,,,,,x
+c_sutherland,swedish,,Su√∞rland,,,,,,,,,,,x
 c_sutherland,welsh,,Cataibh,,,,,,,,,,,x
 b_dornoch,b_dornoch,,Dornoch,,,,,,,,,,,x
 b_dornoch,b_dornoch_adj,,,,,,,,,,,,,x
 b_dornoch,anglonorse,,Dornoch,,,,,,,,,,,x
-b_dornoch,breton,,DÚrnach,,,,,,,,,,,x
-b_dornoch,cornish,,DÚrnach,,,,,,,,,,,x
-b_dornoch,cumbric,,DÚrnach,,,,,,,,,,,x
+b_dornoch,breton,,D√≤rnach,,,,,,,,,,,x
+b_dornoch,cornish,,D√≤rnach,,,,,,,,,,,x
+b_dornoch,cumbric,,D√≤rnach,,,,,,,,,,,x
 b_dornoch,english,,Dornoch,,,,,,,,,,,x
-b_dornoch,irish,,DÚrnach,,,,,,,,,,,x
-b_dornoch,norsegaelic,,DÚrnach,,,,,,,,,,,x
+b_dornoch,irish,,D√≤rnach,,,,,,,,,,,x
+b_dornoch,norsegaelic,,D√≤rnach,,,,,,,,,,,x
 b_dornoch,saxon,,Dornoch,,,,,,,,,,,x
-b_dornoch,scottish,,DÚrnach,,,,,,,,,,,x
-b_dornoch,welsh,,DÚrnach,,,,,,,,,,,x
+b_dornoch,scottish,,D√≤rnach,,,,,,,,,,,x
+b_dornoch,welsh,,D√≤rnach,,,,,,,,,,,x
 b_durness,b_durness,,Durness,,,,,,,,,,,x
 b_durness,b_durness_adj,,,,,,,,,,,,,x
 b_durness,anglonorse,,Durness,,,,,,,,,,,x
-b_durness,breton,,Di˘ranais,,,,,,,,,,,x
-b_durness,cornish,,Di˘ranais,,,,,,,,,,,x
-b_durness,cumbric,,Di˘ranais,,,,,,,,,,,x
+b_durness,breton,,Di√πranais,,,,,,,,,,,x
+b_durness,cornish,,Di√πranais,,,,,,,,,,,x
+b_durness,cumbric,,Di√πranais,,,,,,,,,,,x
 b_durness,english,,Durness,,,,,,,,,,,x
-b_durness,irish,,Di˘ranais,,,,,,,,,,,x
-b_durness,norsegaelic,,Di˘ranais,,,,,,,,,,,x
+b_durness,irish,,Di√πranais,,,,,,,,,,,x
+b_durness,norsegaelic,,Di√πranais,,,,,,,,,,,x
 b_durness,saxon,,Durness,,,,,,,,,,,x
-b_durness,scottish,,Di˘ranais,,,,,,,,,,,x
-b_durness,welsh,,Di˘ranais,,,,,,,,,,,x
+b_durness,scottish,,Di√πranais,,,,,,,,,,,x
+b_durness,welsh,,Di√πranais,,,,,,,,,,,x
 b_dunrobin,b_dunrobin,,Dunrobin,,,,,,,,,,,x
 b_dunrobin,b_dunrobin_adj,,,,,,,,,,,,,x
 b_dunrobin,anglonorse,,Dunrobin,,,,,,,,,,,x
@@ -6816,39 +6816,39 @@ c_caithness,welsh,,Gallaibh,,,,,,,,,,,x
 b_thurso,b_thurso,,Thurso,,,,,,,,,,,x
 b_thurso,b_thurso_adj,,,,,,,,,,,,,x
 b_thurso,anglonorse,,Thurso,,,,,,,,,,,x
-b_thurso,breton,,Inbhir TheÚrsa,,,,,,,,,,,x
-b_thurso,cornish,,Inbhir TheÚrsa,,,,,,,,,,,x
-b_thurso,cumbric,,Inbhir TheÚrsa,,,,,,,,,,,x
+b_thurso,breton,,Inbhir The√≤rsa,,,,,,,,,,,x
+b_thurso,cornish,,Inbhir The√≤rsa,,,,,,,,,,,x
+b_thurso,cumbric,,Inbhir The√≤rsa,,,,,,,,,,,x
 b_thurso,english,,Thurso,,,,,,,,,,,x
-b_thurso,irish,,Inbhir TheÚrsa,,,,,,,,,,,x
-b_thurso,norsegaelic,,Inbhir TheÚrsa,,,,,,,,,,,x
+b_thurso,irish,,Inbhir The√≤rsa,,,,,,,,,,,x
+b_thurso,norsegaelic,,Inbhir The√≤rsa,,,,,,,,,,,x
 b_thurso,saxon,,Thurso,,,,,,,,,,,x
-b_thurso,scottish,,Inbhir TheÚrsa,,,,,,,,,,,x
-b_thurso,welsh,,Inbhir TheÚrsa,,,,,,,,,,,x
+b_thurso,scottish,,Inbhir The√≤rsa,,,,,,,,,,,x
+b_thurso,welsh,,Inbhir The√≤rsa,,,,,,,,,,,x
 b_wick,b_wick,,Wick,,,,,,,,,,,x
 b_wick,b_wick_adj,,,,,,,,,,,,,x
 b_wick,anglonorse,,Wick,,,,,,,,,,,x
-b_wick,breton,,Inbhir Ÿige,,,,,,,,,,,x
-b_wick,cornish,,Inbhir Ÿige,,,,,,,,,,,x
-b_wick,cumbric,,Inbhir Ÿige,,,,,,,,,,,x
+b_wick,breton,,Inbhir √ôige,,,,,,,,,,,x
+b_wick,cornish,,Inbhir √ôige,,,,,,,,,,,x
+b_wick,cumbric,,Inbhir √ôige,,,,,,,,,,,x
 b_wick,english,,Wick,,,,,,,,,,,x
-b_wick,irish,,Inbhir Ÿige,,,,,,,,,,,x
-b_wick,norsegaelic,,Inbhir Ÿige,,,,,,,,,,,x
+b_wick,irish,,Inbhir √ôige,,,,,,,,,,,x
+b_wick,norsegaelic,,Inbhir √ôige,,,,,,,,,,,x
 b_wick,saxon,,Wick,,,,,,,,,,,x
-b_wick,scottish,,Inbhir Ÿige,,,,,,,,,,,x
-b_wick,welsh,,Inbhir Ÿige,,,,,,,,,,,x
+b_wick,scottish,,Inbhir √ôige,,,,,,,,,,,x
+b_wick,welsh,,Inbhir √ôige,,,,,,,,,,,x
 b_dunbeath,b_dunbeath,,Dunbeath,,,,,,,,,,,x
 b_dunbeath,b_dunbeath_adj,,,,,,,,,,,,,x
 b_dunbeath,anglonorse,,Dunbeath,,,,,,,,,,,x
-b_dunbeath,breton,,D˘n Beithe,,,,,,,,,,,x
-b_dunbeath,cornish,,D˘n Beithe,,,,,,,,,,,x
-b_dunbeath,cumbric,,D˘n Beithe,,,,,,,,,,,x
+b_dunbeath,breton,,D√πn Beithe,,,,,,,,,,,x
+b_dunbeath,cornish,,D√πn Beithe,,,,,,,,,,,x
+b_dunbeath,cumbric,,D√πn Beithe,,,,,,,,,,,x
 b_dunbeath,english,,Dunbeath,,,,,,,,,,,x
-b_dunbeath,irish,,D˘n Beithe,,,,,,,,,,,x
-b_dunbeath,norsegaelic,,D˘n Beithe,,,,,,,,,,,x
+b_dunbeath,irish,,D√πn Beithe,,,,,,,,,,,x
+b_dunbeath,norsegaelic,,D√πn Beithe,,,,,,,,,,,x
 b_dunbeath,saxon,,Dunbeath,,,,,,,,,,,x
-b_dunbeath,scottish,,D˘n Beithe,,,,,,,,,,,x
-b_dunbeath,welsh,,D˘n Beithe,,,,,,,,,,,x
+b_dunbeath,scottish,,D√πn Beithe,,,,,,,,,,,x
+b_dunbeath,welsh,,D√πn Beithe,,,,,,,,,,,x
 d_strathclyde,d_strathclyde,,Strathclyde,,,,,,,,,,,x
 d_strathclyde,d_strathclyde_adj,,Strathclydeish,,,,,,,,,,,x
 d_strathclyde,anglonorse,,Strathclyde,,,,,,,,,,,x
@@ -6874,7 +6874,7 @@ c_dunbreatainn,breton,,Alt Clut,,,,,,,,,,,x
 c_dunbreatainn,cornish,,Alt Clut,,,,,,,,,,,x
 c_dunbreatainn,cumbric,,Alt Clut,,,,,,,,,,,x
 c_dunbreatainn,english,,Lennox,,,,,,,,,,,x
-c_dunbreatainn,irish,,D˘n Breatainn,,,,,,,,,,,x
+c_dunbreatainn,irish,,D√πn Breatainn,,,,,,,,,,,x
 c_dunbreatainn,norsegaelic,,Lennox,,,,,,,,,,,x
 c_dunbreatainn,saxon,,Lennox,,,,,,,,,,,x
 c_dunbreatainn,scottish,,Lennox,,,,,,,,,,,x
@@ -6886,35 +6886,35 @@ b_dumbarton,breton,,Alt Clut,,,,,,,,,,,x
 b_dumbarton,cornish,,Alt Clut,,,,,,,,,,,x
 b_dumbarton,cumbric,,Alt Clut,,,,,,,,,,,x
 b_dumbarton,english,,Dumbarton,,,,,,,,,,,x
-b_dumbarton,irish,,D˘n Breatainn,,,,,,,,,,,x
-b_dumbarton,norsegaelic,,D˘n Breatainn,,,,,,,,,,,x
+b_dumbarton,irish,,D√πn Breatainn,,,,,,,,,,,x
+b_dumbarton,norsegaelic,,D√πn Breatainn,,,,,,,,,,,x
 b_dumbarton,saxon,,Dumbarton,,,,,,,,,,,x
-b_dumbarton,scottish,,D˘n Breatainn,,,,,,,,,,,x
+b_dumbarton,scottish,,D√πn Breatainn,,,,,,,,,,,x
 b_dumbarton,welsh,,Alt Clut,,,,,,,,,,,x
 b_old_kilpatrick,b_old_kilpatrick,,Kilpatrick,,,,,,,,,,,x
 b_old_kilpatrick,b_old_kilpatrick_adj,,,,,,,,,,,,,x
 b_old_kilpatrick,anglonorse,,Kilpatrick,,,,,,,,,,,x
-b_old_kilpatrick,breton,,Cille Ph‡draig,,,,,,,,,,,x
-b_old_kilpatrick,cornish,,Cille Ph‡draig,,,,,,,,,,,x
-b_old_kilpatrick,cumbric,,Cille Ph‡draig,,,,,,,,,,,x
+b_old_kilpatrick,breton,,Cille Ph√†draig,,,,,,,,,,,x
+b_old_kilpatrick,cornish,,Cille Ph√†draig,,,,,,,,,,,x
+b_old_kilpatrick,cumbric,,Cille Ph√†draig,,,,,,,,,,,x
 b_old_kilpatrick,english,,Kilpatrick,,,,,,,,,,,x
-b_old_kilpatrick,irish,,Cille Ph‡draig,,,,,,,,,,,x
-b_old_kilpatrick,norsegaelic,,Cille Ph‡draig,,,,,,,,,,,x
+b_old_kilpatrick,irish,,Cille Ph√†draig,,,,,,,,,,,x
+b_old_kilpatrick,norsegaelic,,Cille Ph√†draig,,,,,,,,,,,x
 b_old_kilpatrick,saxon,,Kilpatrick,,,,,,,,,,,x
-b_old_kilpatrick,scottish,,Cille Ph‡draig,,,,,,,,,,,x
-b_old_kilpatrick,welsh,,Cille Ph‡draig,,,,,,,,,,,x
+b_old_kilpatrick,scottish,,Cille Ph√†draig,,,,,,,,,,,x
+b_old_kilpatrick,welsh,,Cille Ph√†draig,,,,,,,,,,,x
 b_arrochar,b_arrochar,,Arrochar,,,,,,,,,,,x
 b_arrochar,b_arrochar_adj,,,,,,,,,,,,,x
 b_arrochar,anglonorse,,Arrochar,,,,,,,,,,,x
-b_arrochar,breton,,An t-¿rchar,,,,,,,,,,,x
-b_arrochar,cornish,,An t-¿rchar,,,,,,,,,,,x
-b_arrochar,cumbric,,An t-¿rchar,,,,,,,,,,,x
+b_arrochar,breton,,An t-√Ärchar,,,,,,,,,,,x
+b_arrochar,cornish,,An t-√Ärchar,,,,,,,,,,,x
+b_arrochar,cumbric,,An t-√Ärchar,,,,,,,,,,,x
 b_arrochar,english,,Arrochar,,,,,,,,,,,x
-b_arrochar,irish,,An t-¿rchar,,,,,,,,,,,x
-b_arrochar,norsegaelic,,An t-¿rchar,,,,,,,,,,,x
+b_arrochar,irish,,An t-√Ärchar,,,,,,,,,,,x
+b_arrochar,norsegaelic,,An t-√Ärchar,,,,,,,,,,,x
 b_arrochar,saxon,,Arrochar,,,,,,,,,,,x
-b_arrochar,scottish,,An t-¿rchar,,,,,,,,,,,x
-b_arrochar,welsh,,An t-¿rchar,,,,,,,,,,,x
+b_arrochar,scottish,,An t-√Ärchar,,,,,,,,,,,x
+b_arrochar,welsh,,An t-√Ärchar,,,,,,,,,,,x
 c_rinnfriu,PROV1484,,Rinn Friu,,,,,,,,,,,x
 c_rinnfriu,c_rinnfriu,,,,,,,,,,,,,x
 c_rinnfriu,c_rinnfriu_adj,,Strathclydeach,,,,,,,,,,,x
@@ -6993,11 +6993,11 @@ b_kilmaurs,b_kilmaurs,,Kilmaurs,,,,,,,,,,,x
 b_kilmaurs,b_kilmaurs_adj,,,,,,,,,,,,,x
 b_kilmaurs,anglonorse,,Kilmaurs,,,,,,,,,,,x
 b_kilmaurs,english,,Kilmaurs,,,,,,,,,,,x
-b_kilmaurs,irish,,Cille Mh‡ra,,,,,,,,,,,x
-b_kilmaurs,norsegaelic,,Cille Mh‡ra,,,,,,,,,,,x
+b_kilmaurs,irish,,Cille Mh√†ra,,,,,,,,,,,x
+b_kilmaurs,norsegaelic,,Cille Mh√†ra,,,,,,,,,,,x
 b_kilmaurs,saxon,,Kilmaurs,,,,,,,,,,,x
-b_kilmaurs,scottish,,Cille Mh‡ra,,,,,,,,,,,x
-b_kilmaurs,welsh,,Cille Mh‡ra,,,,,,,,,,,x
+b_kilmaurs,scottish,,Cille Mh√†ra,,,,,,,,,,,x
+b_kilmaurs,welsh,,Cille Mh√†ra,,,,,,,,,,,x
 b_paisley,b_paisley,,Paisley,,,,,,,,,,,x
 b_paisley,b_paisley_adj,,,,,,,,,,,,,x
 b_paisley,anglonorse,,Paisley,,,,,,,,,,,x
@@ -7010,27 +7010,27 @@ b_paisley,welsh,,Paisley,,,,,,,,,,,x
 b_renfrew,b_renfrew,,Renfrew,,,,,,,,,,,x
 b_renfrew,b_renfrew_adj,,,,,,,,,,,,,x
 b_renfrew,anglonorse,,Renfrew,,,,,,,,,,,x
-b_renfrew,breton,,Rinn Fri˘,,,,,,,,,,,x
-b_renfrew,cornish,,Rinn Fri˘,,,,,,,,,,,x
-b_renfrew,cumbric,,Rinn Fri˘,,,,,,,,,,,x
+b_renfrew,breton,,Rinn Fri√π,,,,,,,,,,,x
+b_renfrew,cornish,,Rinn Fri√π,,,,,,,,,,,x
+b_renfrew,cumbric,,Rinn Fri√π,,,,,,,,,,,x
 b_renfrew,english,,Renfrew,,,,,,,,,,,x
-b_renfrew,irish,,Rinn Fri˘,,,,,,,,,,,x
-b_renfrew,norsegaelic,,Rinn Fri˘,,,,,,,,,,,x
+b_renfrew,irish,,Rinn Fri√π,,,,,,,,,,,x
+b_renfrew,norsegaelic,,Rinn Fri√π,,,,,,,,,,,x
 b_renfrew,saxon,,Renfrew,,,,,,,,,,,x
-b_renfrew,scottish,,Rinn Fri˘,,,,,,,,,,,x
-b_renfrew,welsh,,Rinn Fri˘,,,,,,,,,,,x
+b_renfrew,scottish,,Rinn Fri√π,,,,,,,,,,,x
+b_renfrew,welsh,,Rinn Fri√π,,,,,,,,,,,x
 b_dunure,b_dunure,,Dunure,,,,,,,,,,,x
 b_dunure,b_dunure_adj,,,,,,,,,,,,,x
 b_dunure,anglonorse,,Dunure,,,,,,,,,,,x
-b_dunure,breton,,D˘n I˘bhair,,,,,,,,,,,x
-b_dunure,cornish,,D˘n I˘bhair,,,,,,,,,,,x
-b_dunure,cumbric,,D˘n I˘bhair,,,,,,,,,,,x
+b_dunure,breton,,D√πn I√πbhair,,,,,,,,,,,x
+b_dunure,cornish,,D√πn I√πbhair,,,,,,,,,,,x
+b_dunure,cumbric,,D√πn I√πbhair,,,,,,,,,,,x
 b_dunure,english,,Dunure,,,,,,,,,,,x
-b_dunure,irish,,D˘n I˘bhair,,,,,,,,,,,x
-b_dunure,norsegaelic,,D˘n I˘bhair,,,,,,,,,,,x
+b_dunure,irish,,D√πn I√πbhair,,,,,,,,,,,x
+b_dunure,norsegaelic,,D√πn I√πbhair,,,,,,,,,,,x
 b_dunure,saxon,,Dunure,,,,,,,,,,,x
-b_dunure,scottish,,D˘n I˘bhair,,,,,,,,,,,x
-b_dunure,welsh,,D˘n I˘bhair,,,,,,,,,,,x
+b_dunure,scottish,,D√πn I√πbhair,,,,,,,,,,,x
+b_dunure,welsh,,D√πn I√πbhair,,,,,,,,,,,x
 c_dunphris,PROV1470,,Srath Anann,,,,,,,,,,,x
 c_dunphris,c_dunphris,,,,,,,,,,,,,x
 c_dunphris,c_dunphris_adj,,Srath Anann,,,,,,,,,,,x
@@ -7068,15 +7068,15 @@ b_lochmaben,welsh,,Lochmaben,,,,,,,,,,,x
 b_dumfries,b_dumfries,,Dumfries,,,,,,,,,,,x
 b_dumfries,b_dumfries_adj,,,,,,,,,,,,,x
 b_dumfries,anglonorse,,Dumfries,,,,,,,,,,,x
-b_dumfries,breton,,D˘n Phris,,,,,,,,,,,x
-b_dumfries,cornish,,D˘n Phris,,,,,,,,,,,x
-b_dumfries,cumbric,,D˘n Phris,,,,,,,,,,,x
+b_dumfries,breton,,D√πn Phris,,,,,,,,,,,x
+b_dumfries,cornish,,D√πn Phris,,,,,,,,,,,x
+b_dumfries,cumbric,,D√πn Phris,,,,,,,,,,,x
 b_dumfries,english,,Dumfries,,,,,,,,,,,x
-b_dumfries,irish,,D˘n Phris,,,,,,,,,,,x
-b_dumfries,norsegaelic,,D˘n Phris,,,,,,,,,,,x
+b_dumfries,irish,,D√πn Phris,,,,,,,,,,,x
+b_dumfries,norsegaelic,,D√πn Phris,,,,,,,,,,,x
 b_dumfries,saxon,,Dumfries,,,,,,,,,,,x
-b_dumfries,scottish,,D˘n Phris,,,,,,,,,,,x
-b_dumfries,welsh,,D˘n Phris,,,,,,,,,,,x
+b_dumfries,scottish,,D√πn Phris,,,,,,,,,,,x
+b_dumfries,welsh,,D√πn Phris,,,,,,,,,,,x
 b_caerlaverock,b_caerlaverock,,Caerlaverock,,,,,,,,,,,x
 b_caerlaverock,b_caerlaverock_adj,,,,,,,,,,,,,x
 b_caerlaverock,anglonorse,,Caerlaverock,,,,,,,,,,,x
@@ -7088,80 +7088,80 @@ b_caerlaverock,scottish,,Caerlaverock,,,,,,,,,,,x
 b_caerlaverock,welsh,,Caerlaverock,,,,,,,,,,,x
 k_ellan_vannin,k_ellan_vannin,,Man,,,,,,,,,,,x
 k_ellan_vannin,k_ellan_vannin_adj,,Manx,,,,,,,,,,,x
-k_ellan_vannin,anglonorse,,Mˆn,,,,,,,,,,,x
+k_ellan_vannin,anglonorse,,M√∂n,,,,,,,,,,,x
 k_ellan_vannin,breton,,Manav,,,,,,,,,,,x
 k_ellan_vannin,k_ellan_vannin_adj_breton,,Manav,,,,,,,,,,,x
 k_ellan_vannin,cornish,,Manav,,,,,,,,,,,x
 k_ellan_vannin,k_ellan_vannin_adj_cornish,,Manav,,,,,,,,,,,x
 k_ellan_vannin,cumbric,,Manau,,,,,,,,,,,x
 k_ellan_vannin,k_ellan_vannin_adj_cumbric,,Manau,,,,,,,,,,,x
-k_ellan_vannin,danish,,Mˆn,,,,,,,,,,,x
-k_ellan_vannin,k_ellan_vannin_adj_danish,,Mˆnr,,,,,,,,,,,x
+k_ellan_vannin,danish,,M√∂n,,,,,,,,,,,x
+k_ellan_vannin,k_ellan_vannin_adj_danish,,M√∂nr,,,,,,,,,,,x
 k_ellan_vannin,english,,Mann,,,,,,,,,,,x
-k_ellan_vannin,gothic,,Mˆn,,,,,,,,,,,x
-k_ellan_vannin,k_ellan_vannin_adj_gothic,,Mˆnr,,,,,,,,,,,x
-k_ellan_vannin,icelandic,,Mˆn,,,,,,,,,,,x
-k_ellan_vannin,k_ellan_vannin_adj_icelandic,,Mˆnr,,,,,,,,,,,x
-k_ellan_vannin,irish,,D·l Riata,,,,,,,,,,,x
-k_ellan_vannin,k_ellan_vannin_adj_irish,,D·l Riataan,,,,,,,,,,,x
-k_ellan_vannin,norse,,Mˆn,,,,,,,,,,,x
-k_ellan_vannin,k_ellan_vannin_adj_norse,,Mˆnr,,,,,,,,,,,x
+k_ellan_vannin,gothic,,M√∂n,,,,,,,,,,,x
+k_ellan_vannin,k_ellan_vannin_adj_gothic,,M√∂nr,,,,,,,,,,,x
+k_ellan_vannin,icelandic,,M√∂n,,,,,,,,,,,x
+k_ellan_vannin,k_ellan_vannin_adj_icelandic,,M√∂nr,,,,,,,,,,,x
+k_ellan_vannin,irish,,D√°l Riata,,,,,,,,,,,x
+k_ellan_vannin,k_ellan_vannin_adj_irish,,D√°l Riataan,,,,,,,,,,,x
+k_ellan_vannin,norse,,M√∂n,,,,,,,,,,,x
+k_ellan_vannin,k_ellan_vannin_adj_norse,,M√∂nr,,,,,,,,,,,x
 k_ellan_vannin,norsegaelic,,Vannin,,,,,,,,,,,x
 k_ellan_vannin,k_ellan_vannin_adj_norsegaelic,,Vannin,,,,,,,,,,,x
-k_ellan_vannin,norwegian,,Mˆn,,,,,,,,,,,x
-k_ellan_vannin,k_ellan_vannin_adj_norwegian,,Mˆnr,,,,,,,,,,,x
+k_ellan_vannin,norwegian,,M√∂n,,,,,,,,,,,x
+k_ellan_vannin,k_ellan_vannin_adj_norwegian,,M√∂nr,,,,,,,,,,,x
 k_ellan_vannin,saxon,,Mann,,,,,,,,,,,x
 k_ellan_vannin,scottish,,Vannin,,,,,,,,,,,x
 k_ellan_vannin,k_ellan_vannin_adj_scottish,,Vannin,,,,,,,,,,,x
-k_ellan_vannin,swedish,,Mˆn,,,,,,,,,,,x
-k_ellan_vannin,k_ellan_vannin_adj_swedish,,Mˆnr,,,,,,,,,,,x
+k_ellan_vannin,swedish,,M√∂n,,,,,,,,,,,x
+k_ellan_vannin,k_ellan_vannin_adj_swedish,,M√∂nr,,,,,,,,,,,x
 k_ellan_vannin,welsh,,Manau,,,,,,,,,,,x
 k_ellan_vannin,k_ellan_vannin_adj_welsh,,Manau,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin,,Man,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin_adj,,Manx,,,,,,,,,,,x
-d_ellan_vannin,anglonorse,,Mˆn,,,,,,,,,,,x
+d_ellan_vannin,anglonorse,,M√∂n,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin_adj_breton,,Manav,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin_adj_cornish,,Manav,,,,,,,,,,,x
 d_ellan_vannin,cumbric,,Manau,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin_adj_cumbric,,Manau,,,,,,,,,,,x
-d_ellan_vannin,danish,,Mˆn,,,,,,,,,,,x
-d_ellan_vannin,d_ellan_vannin_adj_danish,,Mˆnr,,,,,,,,,,,x
+d_ellan_vannin,danish,,M√∂n,,,,,,,,,,,x
+d_ellan_vannin,d_ellan_vannin_adj_danish,,M√∂nr,,,,,,,,,,,x
 d_ellan_vannin,english,,Mann,,,,,,,,,,,x
-d_ellan_vannin,gothic,,Mˆn,,,,,,,,,,,x
-d_ellan_vannin,d_ellan_vannin_adj_gothic,,Mˆnr,,,,,,,,,,,x
-d_ellan_vannin,icelandic,,Mˆn,,,,,,,,,,,x
-d_ellan_vannin,d_ellan_vannin_adj_icelandic,,Mˆnr,,,,,,,,,,,x
+d_ellan_vannin,gothic,,M√∂n,,,,,,,,,,,x
+d_ellan_vannin,d_ellan_vannin_adj_gothic,,M√∂nr,,,,,,,,,,,x
+d_ellan_vannin,icelandic,,M√∂n,,,,,,,,,,,x
+d_ellan_vannin,d_ellan_vannin_adj_icelandic,,M√∂nr,,,,,,,,,,,x
 d_ellan_vannin,irish,,Mano,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin_adj_irish,,Mano,,,,,,,,,,,x
-d_ellan_vannin,norse,,Mˆn,,,,,,,,,,,x
-d_ellan_vannin,d_ellan_vannin_adj_norse,,Mˆnr,,,,,,,,,,,x
+d_ellan_vannin,norse,,M√∂n,,,,,,,,,,,x
+d_ellan_vannin,d_ellan_vannin_adj_norse,,M√∂nr,,,,,,,,,,,x
 d_ellan_vannin,norsegaelic,,Vannin,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin_adj_norsegaelic,,Vannin,,,,,,,,,,,x
-d_ellan_vannin,norwegian,,Mˆn,,,,,,,,,,,x
-d_ellan_vannin,d_ellan_vannin_adj_norwegian,,Mˆnr,,,,,,,,,,,x
+d_ellan_vannin,norwegian,,M√∂n,,,,,,,,,,,x
+d_ellan_vannin,d_ellan_vannin_adj_norwegian,,M√∂nr,,,,,,,,,,,x
 d_ellan_vannin,saxon,,Mann,,,,,,,,,,,x
 d_ellan_vannin,scottish,,Vannin,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin_adj_scottish,,Vannin,,,,,,,,,,,x
-d_ellan_vannin,swedish,,Mˆn,,,,,,,,,,,x
-d_ellan_vannin,d_ellan_vannin_adj_swedish,,Mˆnr,,,,,,,,,,,x
+d_ellan_vannin,swedish,,M√∂n,,,,,,,,,,,x
+d_ellan_vannin,d_ellan_vannin_adj_swedish,,M√∂nr,,,,,,,,,,,x
 d_ellan_vannin,welsh,,Manau,,,,,,,,,,,x
 d_ellan_vannin,d_ellan_vannin_adj_welsh,,Manau,,,,,,,,,,,x
 c_isle_of_man,PROV54,,Isle of Man,,,,,,,,,,,x
 c_isle_of_man,c_isle_of_man,,,,,,,,,,,,,x
 c_isle_of_man,c_isle_of_man_adj,,Manneach,,,,,,,,,,,x
-c_isle_of_man,anglonorse,,Mˆn,,,,,,,,,,,x
+c_isle_of_man,anglonorse,,M√∂n,,,,,,,,,,,x
 c_isle_of_man,cumbric,,Manau,,,,,,,,,,,x
-c_isle_of_man,danish,,Mˆn,,,,,,,,,,,x
+c_isle_of_man,danish,,M√∂n,,,,,,,,,,,x
 c_isle_of_man,english,,Mann,,,,,,,,,,,x
-c_isle_of_man,gothic,,Mˆn,,,,,,,,,,,x
-c_isle_of_man,icelandic,,Mˆn,,,,,,,,,,,x
+c_isle_of_man,gothic,,M√∂n,,,,,,,,,,,x
+c_isle_of_man,icelandic,,M√∂n,,,,,,,,,,,x
 c_isle_of_man,irish,,Mano,,,,,,,,,,,x
-c_isle_of_man,norse,,Mˆn,,,,,,,,,,,x
+c_isle_of_man,norse,,M√∂n,,,,,,,,,,,x
 c_isle_of_man,norsegaelic,,Vannin,,,,,,,,,,,x
-c_isle_of_man,norwegian,,Mˆn,,,,,,,,,,,x
+c_isle_of_man,norwegian,,M√∂n,,,,,,,,,,,x
 c_isle_of_man,saxon,,Mann,,,,,,,,,,,x
 c_isle_of_man,scottish,,Vannin,,,,,,,,,,,x
-c_isle_of_man,swedish,,Mˆn,,,,,,,,,,,x
+c_isle_of_man,swedish,,M√∂n,,,,,,,,,,,x
 c_isle_of_man,welsh,,Manau,,,,,,,,,,,x
 b_rushen,b_rushen,,Rushen,,,,,,,,,,,x
 b_rushen,b_rushen_adj,,,,,,,,,,,,,x
@@ -7250,11 +7250,11 @@ b_oban,b_oban,,Oban,,,,,,,,,,,x
 b_oban,b_oban_adj,,,,,,,,,,,,,x
 b_oban,anglonorse,,Oban,,,,,,,,,,,x
 b_oban,english,,Oban,,,,,,,,,,,x
-b_oban,irish,,An t-“ban,,,,,,,,,,,x
-b_oban,norsegaelic,,An t-“ban,,,,,,,,,,,x
+b_oban,irish,,An t-√íban,,,,,,,,,,,x
+b_oban,norsegaelic,,An t-√íban,,,,,,,,,,,x
 b_oban,saxon,,Oban,,,,,,,,,,,x
-b_oban,scottish,,An t-“ban,,,,,,,,,,,x
-b_oban,welsh,,An t-“ban,,,,,,,,,,,x
+b_oban,scottish,,An t-√íban,,,,,,,,,,,x
+b_oban,welsh,,An t-√íban,,,,,,,,,,,x
 b_ardchattan,b_ardchattan,,Ardchattan,,,,,,,,,,,x
 b_ardchattan,b_ardchattan_adj,,,,,,,,,,,,,x
 b_ardchattan,anglonorse,,St. Cathan,,,,,,,,,,,x
@@ -7293,36 +7293,36 @@ b_iona,b_iona,,Iona,,,,,,,,,,,x
 b_iona,b_iona_adj,,,,,,,,,,,,,x
 b_iona,anglonorse,,Iona,,,,,,,,,,,x
 b_iona,english,,Iona,,,,,,,,,,,x
-b_iona,irish,,Ã Chaluim Chille,,,,,,,,,,,x
-b_iona,norsegaelic,,Ã Chaluim Chille,,,,,,,,,,,x
+b_iona,irish,,√å Chaluim Chille,,,,,,,,,,,x
+b_iona,norsegaelic,,√å Chaluim Chille,,,,,,,,,,,x
 b_iona,saxon,,Iona,,,,,,,,,,,x
-b_iona,scottish,,Ã Chaluim Chille,,,,,,,,,,,x
-b_iona,welsh,,Ã Chaluim Chille,,,,,,,,,,,x
+b_iona,scottish,,√å Chaluim Chille,,,,,,,,,,,x
+b_iona,welsh,,√å Chaluim Chille,,,,,,,,,,,x
 b_salen,b_salen,,Salen,,,,,,,,,,,x
 b_salen,b_salen_adj,,,,,,,,,,,,,x
 b_salen,anglonorse,,Salen,,,,,,,,,,,x
 b_salen,english,,Salen,,,,,,,,,,,x
-b_salen,irish,,An t-S‡ilean,,,,,,,,,,,x
-b_salen,norsegaelic,,An t-S‡ilean,,,,,,,,,,,x
+b_salen,irish,,An t-S√†ilean,,,,,,,,,,,x
+b_salen,norsegaelic,,An t-S√†ilean,,,,,,,,,,,x
 b_salen,saxon,,Salen,,,,,,,,,,,x
-b_salen,scottish,,An t-S‡ilean,,,,,,,,,,,x
-b_salen,welsh,,An t-S‡ilean,,,,,,,,,,,x
+b_salen,scottish,,An t-S√†ilean,,,,,,,,,,,x
+b_salen,welsh,,An t-S√†ilean,,,,,,,,,,,x
 c_ile,PROV1420,,Ile,,,,,,,,,,,x
 c_ile,c_ile,,,,,,,,,,,,,x
 c_ile,c_ile_adj,,Ileach,,,,,,,,,,,x
-c_ile,anglonorse,,Õl,,,,,,,,,,,x
-c_ile,danish,,Õl,,,,,,,,,,,x
+c_ile,anglonorse,,√çl,,,,,,,,,,,x
+c_ile,danish,,√çl,,,,,,,,,,,x
 c_ile,english,,Islay,,,,,,,,,,,x
-c_ile,gothic,,Õl,,,,,,,,,,,x
-c_ile,icelandic,,Õl,,,,,,,,,,,x
-c_ile,irish,,Ãle,,,,,,,,,,,x
-c_ile,norse,,Õl,,,,,,,,,,,x
-c_ile,norsegaelic,,Ãle,,,,,,,,,,,x
-c_ile,norwegian,,Õl,,,,,,,,,,,x
+c_ile,gothic,,√çl,,,,,,,,,,,x
+c_ile,icelandic,,√çl,,,,,,,,,,,x
+c_ile,irish,,√åle,,,,,,,,,,,x
+c_ile,norse,,√çl,,,,,,,,,,,x
+c_ile,norsegaelic,,√åle,,,,,,,,,,,x
+c_ile,norwegian,,√çl,,,,,,,,,,,x
 c_ile,saxon,,Islay,,,,,,,,,,,x
-c_ile,scottish,,Ãle,,,,,,,,,,,x
-c_ile,swedish,,Õl,,,,,,,,,,,x
-c_ile,welsh,,Ãle,,,,,,,,,,,x
+c_ile,scottish,,√åle,,,,,,,,,,,x
+c_ile,swedish,,√çl,,,,,,,,,,,x
+c_ile,welsh,,√åle,,,,,,,,,,,x
 b_finlaggan,b_finlaggan,,Finlaggan,,,,,,,,,,,x
 b_finlaggan,b_finlaggan_adj,,,,,,,,,,,,,x
 b_finlaggan,anglonorse,,Finlaggan,,,,,,,,,,,x
@@ -7355,11 +7355,11 @@ c_kintyre,c_kintyre,,,,,,,,,,,,,x
 c_kintyre,c_kintyre_adj,,Kintyreach,,,,,,,,,,,x
 c_kintyre,anglonorse,,Kintyre,,,,,,,,,,,x
 c_kintyre,english,,Kintyre,,,,,,,,,,,x
-c_kintyre,irish,,Cinn TÏre,,,,,,,,,,,x
-c_kintyre,norsegaelic,,Cinn TÏre,,,,,,,,,,,x
+c_kintyre,irish,,Cinn T√¨re,,,,,,,,,,,x
+c_kintyre,norsegaelic,,Cinn T√¨re,,,,,,,,,,,x
 c_kintyre,saxon,,Kintyre,,,,,,,,,,,x
-c_kintyre,scottish,,Cinn TÏre,,,,,,,,,,,x
-c_kintyre,welsh,,Cinn TÏre,,,,,,,,,,,x
+c_kintyre,scottish,,Cinn T√¨re,,,,,,,,,,,x
+c_kintyre,welsh,,Cinn T√¨re,,,,,,,,,,,x
 b_kinlochkilkerran,b_kinlochkilkerran,,Kinlochkilkerran,,,,,,,,,,,x
 b_kinlochkilkerran,b_kinlochkilkerran_adj,,,,,,,,,,,,,x
 b_kinlochkilkerran,anglonorse,,Kinlochkilkerran,,,,,,,,,,,x
@@ -7381,19 +7381,19 @@ b_saddell,welsh,,Saghadal,,,,,,,,,,,x
 c_bod,PROV1422,,Bod,,,,,,,,,,,x
 c_bod,c_bod,,,,,,,,,,,,,x
 c_bod,c_bod_adj,,Bodeach,,,,,,,,,,,x
-c_bod,anglonorse,,BÛt,,,,,,,,,,,x
-c_bod,danish,,BÛt,,,,,,,,,,,x
+c_bod,anglonorse,,B√≥t,,,,,,,,,,,x
+c_bod,danish,,B√≥t,,,,,,,,,,,x
 c_bod,english,,Bute,,,,,,,,,,,x
-c_bod,gothic,,BÛt,,,,,,,,,,,x
-c_bod,icelandic,,BÛt,,,,,,,,,,,x
-c_bod,irish,,Eilean BhÚid,,,,,,,,,,,x
-c_bod,norse,,BÛt,,,,,,,,,,,x
-c_bod,norsegaelic,,Eilean BhÚid,,,,,,,,,,,x
-c_bod,norwegian,,BÛt,,,,,,,,,,,x
+c_bod,gothic,,B√≥t,,,,,,,,,,,x
+c_bod,icelandic,,B√≥t,,,,,,,,,,,x
+c_bod,irish,,Eilean Bh√≤id,,,,,,,,,,,x
+c_bod,norse,,B√≥t,,,,,,,,,,,x
+c_bod,norsegaelic,,Eilean Bh√≤id,,,,,,,,,,,x
+c_bod,norwegian,,B√≥t,,,,,,,,,,,x
 c_bod,saxon,,Bute,,,,,,,,,,,x
-c_bod,scottish,,Eilean BhÚid,,,,,,,,,,,x
-c_bod,swedish,,BÛt,,,,,,,,,,,x
-c_bod,welsh,,Eilean BhÚid,,,,,,,,,,,x
+c_bod,scottish,,Eilean Bh√≤id,,,,,,,,,,,x
+c_bod,swedish,,B√≥t,,,,,,,,,,,x
+c_bod,welsh,,Eilean Bh√≤id,,,,,,,,,,,x
 b_kingarth,b_kingarth,,Kingarth,,,,,,,,,,,x
 b_kingarth,b_kingarth_adj,,,,,,,,,,,,,x
 b_kingarth,anglonorse,,Kingarth,,,,,,,,,,,x
@@ -7414,30 +7414,30 @@ b_aileach_bod,scottish,,Aileach,,,,,,,,,,,x
 b_aileach_bod,welsh,,Aileach,,,,,,,,,,,x
 d_orkney,d_orkney,,Orkney,,,,,,,,,,,x
 d_orkney,d_orkney_adj,,Orkneyan,,,,,,,,,,,x
-d_orkney,anglonorse,,Norreyjar,,,,,,,,,,,x
+d_orkney,anglonorse,,Nor√∞reyjar,,,,,,,,,,,x
 d_orkney,breton,,Arcaibh,,,,,,,,,,,x
 d_orkney,d_orkney_adj_breton,,Arcaibhish,,,,,,,,,,,x
 d_orkney,cornish,,Arcaibh,,,,,,,,,,,x
 d_orkney,d_orkney_adj_cornish,,Arcaibhish,,,,,,,,,,,x
 d_orkney,d_orkney_adj_cumbric,,Arcaibhish,,,,,,,,,,,x
-d_orkney,danish,,Norreyjar,,,,,,,,,,,x
-d_orkney,d_orkney_adj_danish,,Norreyjarir,,,,,,,,,,,x
-d_orkney,gothic,,Norreyjar,,,,,,,,,,,x
-d_orkney,d_orkney_adj_gothic,,Norreyjarir,,,,,,,,,,,x
-d_orkney,icelandic,,Norreyjar,,,,,,,,,,,x
-d_orkney,d_orkney_adj_icelandic,,Norreyjarir,,,,,,,,,,,x
+d_orkney,danish,,Nor√∞reyjar,,,,,,,,,,,x
+d_orkney,d_orkney_adj_danish,,Nor√∞reyjarir,,,,,,,,,,,x
+d_orkney,gothic,,Nor√∞reyjar,,,,,,,,,,,x
+d_orkney,d_orkney_adj_gothic,,Nor√∞reyjarir,,,,,,,,,,,x
+d_orkney,icelandic,,Nor√∞reyjar,,,,,,,,,,,x
+d_orkney,d_orkney_adj_icelandic,,Nor√∞reyjarir,,,,,,,,,,,x
 d_orkney,irish,,Arcaibh,,,,,,,,,,,x
 d_orkney,d_orkney_adj_irish,,Arcaibhish,,,,,,,,,,,x
-d_orkney,norse,,Norreyjar,,,,,,,,,,,x
-d_orkney,d_orkney_adj_norse,,Norreyjarir,,,,,,,,,,,x
-d_orkney,norsegaelic,,Norreyjar,,,,,,,,,,,x
-d_orkney,d_orkney_adj_norsegaelic,,Norreyjarir,,,,,,,,,,,x
-d_orkney,norwegian,,Norreyjar,,,,,,,,,,,x
-d_orkney,d_orkney_adj_norwegian,,Norreyjarir,,,,,,,,,,,x
+d_orkney,norse,,Nor√∞reyjar,,,,,,,,,,,x
+d_orkney,d_orkney_adj_norse,,Nor√∞reyjarir,,,,,,,,,,,x
+d_orkney,norsegaelic,,Nor√∞reyjar,,,,,,,,,,,x
+d_orkney,d_orkney_adj_norsegaelic,,Nor√∞reyjarir,,,,,,,,,,,x
+d_orkney,norwegian,,Nor√∞reyjar,,,,,,,,,,,x
+d_orkney,d_orkney_adj_norwegian,,Nor√∞reyjarir,,,,,,,,,,,x
 d_orkney,scottish,,Arcaibh,,,,,,,,,,,x
 d_orkney,d_orkney_adj_scottish,,Arcaibhish,,,,,,,,,,,x
-d_orkney,swedish,,Norreyjar,,,,,,,,,,,x
-d_orkney,d_orkney_adj_swedish,,Norreyjarir,,,,,,,,,,,x
+d_orkney,swedish,,Nor√∞reyjar,,,,,,,,,,,x
+d_orkney,d_orkney_adj_swedish,,Nor√∞reyjarir,,,,,,,,,,,x
 d_orkney,welsh,,Arcaibh,,,,,,,,,,,x
 d_orkney,d_orkney_adj_welsh,,Arcaibhish,,,,,,,,,,,x
 c_shetland,PROV34,,Hjaltland,,,,,,,,,,,x
@@ -7468,47 +7468,47 @@ b_orphir,b_orphir,,Orphir,,,,,,,,,,,x
 b_orphir,b_orphir_adj,,,,,,,,,,,,,x
 d_western_isles,d_western_isles,,Outer Hebrides,,,,,,,,,,,x
 d_western_isles,d_western_isles_adj,,Outer Hebridan,,,,,,,,,,,x
-d_western_isles,anglonorse,,Sureyjar,,,,,,,,,,,x
+d_western_isles,anglonorse,,Su√∞reyjar,,,,,,,,,,,x
 d_western_isles,d_western_isles_adj_breton,,Innse Gallish,,,,,,,,,,,x
 d_western_isles,d_western_isles_adj_cornish,,Innse Gallish,,,,,,,,,,,x
 d_western_isles,d_western_isles_adj_cumbric,,Innse Gallish,,,,,,,,,,,x
-d_western_isles,danish,,Sureyjar,,,,,,,,,,,x
-d_western_isles,d_western_isles_adj_danish,,Sureyjarir,,,,,,,,,,,x
+d_western_isles,danish,,Su√∞reyjar,,,,,,,,,,,x
+d_western_isles,d_western_isles_adj_danish,,Su√∞reyjarir,,,,,,,,,,,x
 d_western_isles,english,,Outer Hebrides,,,,,,,,,,,x
-d_western_isles,gothic,,Sureyjar,,,,,,,,,,,x
-d_western_isles,d_western_isles_adj_gothic,,Sureyjarir,,,,,,,,,,,x
-d_western_isles,icelandic,,Sureyjar,,,,,,,,,,,x
-d_western_isles,d_western_isles_adj_icelandic,,Sureyjarir,,,,,,,,,,,x
+d_western_isles,gothic,,Su√∞reyjar,,,,,,,,,,,x
+d_western_isles,d_western_isles_adj_gothic,,Su√∞reyjarir,,,,,,,,,,,x
+d_western_isles,icelandic,,Su√∞reyjar,,,,,,,,,,,x
+d_western_isles,d_western_isles_adj_icelandic,,Su√∞reyjarir,,,,,,,,,,,x
 d_western_isles,irish,,Innse Gall,,,,,,,,,,,x
 d_western_isles,d_western_isles_adj_irish,,Innse Gallish,,,,,,,,,,,x
-d_western_isles,norse,,Sureyjar,,,,,,,,,,,x
-d_western_isles,d_western_isles_adj_norse,,Sureyjarir,,,,,,,,,,,x
+d_western_isles,norse,,Su√∞reyjar,,,,,,,,,,,x
+d_western_isles,d_western_isles_adj_norse,,Su√∞reyjarir,,,,,,,,,,,x
 d_western_isles,norsegaelic,,Innse Gall,,,,,,,,,,,x
-d_western_isles,d_western_isles_adj_norsegaelic,,Sureyjarir,,,,,,,,,,,x
-d_western_isles,norwegian,,Sureyjar,,,,,,,,,,,x
-d_western_isles,d_western_isles_adj_norwegian,,Sureyjarir,,,,,,,,,,,x
+d_western_isles,d_western_isles_adj_norsegaelic,,Su√∞reyjarir,,,,,,,,,,,x
+d_western_isles,norwegian,,Su√∞reyjar,,,,,,,,,,,x
+d_western_isles,d_western_isles_adj_norwegian,,Su√∞reyjarir,,,,,,,,,,,x
 d_western_isles,saxon,,Outer Hebrides,,,,,,,,,,,x
 d_western_isles,scottish,,Innse Gall,,,,,,,,,,,x
 d_western_isles,d_western_isles_adj_scottish,,Innse Gallish,,,,,,,,,,,x
-d_western_isles,swedish,,Sureyjar,,,,,,,,,,,x
-d_western_isles,d_western_isles_adj_swedish,,Sureyjarir,,,,,,,,,,,x
+d_western_isles,swedish,,Su√∞reyjar,,,,,,,,,,,x
+d_western_isles,d_western_isles_adj_swedish,,Su√∞reyjarir,,,,,,,,,,,x
 d_western_isles,welsh,,Innse Gall,,,,,,,,,,,x
 d_western_isles,d_western_isles_adj_welsh,,Innse Gallish,,,,,,,,,,,x
-c_innse_gall,PROV35,,Sureyar,,,,,,,,,,,x
+c_innse_gall,PROV35,,Su√∞reyar,,,,,,,,,,,x
 c_innse_gall,c_innse_gall,,,,,,,,,,,,,x
 c_innse_gall,c_innse_gall_adj,,Sgitheanach,,,,,,,,,,,x
-c_innse_gall,anglonorse,,SkÌ,,,,,,,,,,,x
-c_innse_gall,danish,,SkÌ,,,,,,,,,,,x
+c_innse_gall,anglonorse,,Sk√≠√∞,,,,,,,,,,,x
+c_innse_gall,danish,,Sk√≠√∞,,,,,,,,,,,x
 c_innse_gall,english,,Skye,,,,,,,,,,,x
-c_innse_gall,gothic,,SkÌ,,,,,,,,,,,x
-c_innse_gall,icelandic,,SkÌ,,,,,,,,,,,x
+c_innse_gall,gothic,,Sk√≠√∞,,,,,,,,,,,x
+c_innse_gall,icelandic,,Sk√≠√∞,,,,,,,,,,,x
 c_innse_gall,irish,,Sgitheanach,,,,,,,,,,,x
-c_innse_gall,norse,,SkÌ,,,,,,,,,,,x
+c_innse_gall,norse,,Sk√≠√∞,,,,,,,,,,,x
 c_innse_gall,norsegaelic,,Sgitheanach,,,,,,,,,,,x
-c_innse_gall,norwegian,,SkÌ,,,,,,,,,,,x
+c_innse_gall,norwegian,,Sk√≠√∞,,,,,,,,,,,x
 c_innse_gall,saxon,,Skye,,,,,,,,,,,x
 c_innse_gall,scottish,,Sgitheanach,,,,,,,,,,,x
-c_innse_gall,swedish,,SkÌ,,,,,,,,,,,x
+c_innse_gall,swedish,,Sk√≠√∞,,,,,,,,,,,x
 c_innse_gall,welsh,,Sgitheanach,,,,,,,,,,,x
 b_dunvegan,b_dunvegan,,Dunvegan,,,,,,,,,,,x
 b_dunvegan,b_dunvegan_adj,,,,,,,,,,,,,x
@@ -7522,26 +7522,26 @@ b_dunvegan,welsh,,Dunvegan,,,,,,,,,,,x
 b_trotternish,b_trotternish,,Trotternish,,,,,,,,,,,x
 b_trotternish,b_trotternish_adj,,,,,,,,,,,,,x
 b_trotternish,english,,Trotternish,,,,,,,,,,,x
-b_trotternish,irish,,TrÚndairnis,,,,,,,,,,,x
-b_trotternish,norsegaelic,,TrÚndairnis,,,,,,,,,,,x
+b_trotternish,irish,,Tr√≤ndairnis,,,,,,,,,,,x
+b_trotternish,norsegaelic,,Tr√≤ndairnis,,,,,,,,,,,x
 b_trotternish,saxon,,Trotternish,,,,,,,,,,,x
-b_trotternish,scottish,,TrÚndairnis,,,,,,,,,,,x
-b_trotternish,welsh,,TrÚndairnis,,,,,,,,,,,x
+b_trotternish,scottish,,Tr√≤ndairnis,,,,,,,,,,,x
+b_trotternish,welsh,,Tr√≤ndairnis,,,,,,,,,,,x
 b_baghnahuamh,b_baghnahuamh,,Rum,,,,,,,,,,,x
 b_baghnahuamh,b_baghnahuamh_adj,,,,,,,,,,,,,x
-b_baghnahuamh,anglonorse,,Rımey,,,,,,,,,,,x
-b_baghnahuamh,danish,,Rımey,,,,,,,,,,,x
+b_baghnahuamh,anglonorse,,R√µmey,,,,,,,,,,,x
+b_baghnahuamh,danish,,R√µmey,,,,,,,,,,,x
 b_baghnahuamh,english,,Rum,,,,,,,,,,,x
-b_baghnahuamh,gothic,,Rımey,,,,,,,,,,,x
-b_baghnahuamh,icelandic,,Rımey,,,,,,,,,,,x
-b_baghnahuamh,irish,,R˘m,,,,,,,,,,,x
-b_baghnahuamh,norse,,Rımey,,,,,,,,,,,x
-b_baghnahuamh,norsegaelic,,R˘m,,,,,,,,,,,x
-b_baghnahuamh,norwegian,,Rımey,,,,,,,,,,,x
+b_baghnahuamh,gothic,,R√µmey,,,,,,,,,,,x
+b_baghnahuamh,icelandic,,R√µmey,,,,,,,,,,,x
+b_baghnahuamh,irish,,R√πm,,,,,,,,,,,x
+b_baghnahuamh,norse,,R√µmey,,,,,,,,,,,x
+b_baghnahuamh,norsegaelic,,R√πm,,,,,,,,,,,x
+b_baghnahuamh,norwegian,,R√µmey,,,,,,,,,,,x
 b_baghnahuamh,saxon,,Rum,,,,,,,,,,,x
-b_baghnahuamh,scottish,,R˘m,,,,,,,,,,,x
-b_baghnahuamh,swedish,,Rımey,,,,,,,,,,,x
-b_baghnahuamh,welsh,,R˘m,,,,,,,,,,,x
+b_baghnahuamh,scottish,,R√πm,,,,,,,,,,,x
+b_baghnahuamh,swedish,,R√µmey,,,,,,,,,,,x
+b_baghnahuamh,welsh,,R√πm,,,,,,,,,,,x
 c_leodhas,PROV1426,,Leodhas,,,,,,,,,,,x
 c_leodhas,c_leodhas,,,,,,,,,,,,,x
 c_leodhas,c_leodhas_adj,,Leodhaseach,,,,,,,,,,,x
@@ -7556,11 +7556,11 @@ b_dun_carloway,b_dun_carloway,,Dun,,,,,,,,,,,x
 b_dun_carloway,b_dun_carloway_adj,,,,,,,,,,,,,x
 b_dun_carloway,anglonorse,,Dun Carloway,,,,,,,,,,,x
 b_dun_carloway,english,,Dun Carloway,,,,,,,,,,,x
-b_dun_carloway,irish,,D˘n Ch‡rlabhaigh,,,,,,,,,,,x
-b_dun_carloway,norsegaelic,,D˘n Ch‡rlabhaigh,,,,,,,,,,,x
+b_dun_carloway,irish,,D√πn Ch√†rlabhaigh,,,,,,,,,,,x
+b_dun_carloway,norsegaelic,,D√πn Ch√†rlabhaigh,,,,,,,,,,,x
 b_dun_carloway,saxon,,Dun Carloway,,,,,,,,,,,x
-b_dun_carloway,scottish,,D˘n Ch‡rlabhaigh,,,,,,,,,,,x
-b_dun_carloway,welsh,,D˘n Ch‡rlabhaigh,,,,,,,,,,,x
+b_dun_carloway,scottish,,D√πn Ch√†rlabhaigh,,,,,,,,,,,x
+b_dun_carloway,welsh,,D√πn Ch√†rlabhaigh,,,,,,,,,,,x
 b_stornoway,b_stornoway,,Stornoway,,,,,,,,,,,x
 b_stornoway,b_stornoway_adj,,,,,,,,,,,,,x
 b_stornoway,anglonorse,,Sjornavagr,,,,,,,,,,,x
@@ -7568,14 +7568,14 @@ b_stornoway,danish,,Sjornavagr,,,,,,,,,,,x
 b_stornoway,english,,Stornoway,,,,,,,,,,,x
 b_stornoway,gothic,,Sjornavagr,,,,,,,,,,,x
 b_stornoway,icelandic,,Sjornavagr,,,,,,,,,,,x
-b_stornoway,irish,,SteÚrnabhagh,,,,,,,,,,,x
+b_stornoway,irish,,Ste√≤rnabhagh,,,,,,,,,,,x
 b_stornoway,norse,,Sjornavagr,,,,,,,,,,,x
-b_stornoway,norsegaelic,,SteÚrnabhagh,,,,,,,,,,,x
+b_stornoway,norsegaelic,,Ste√≤rnabhagh,,,,,,,,,,,x
 b_stornoway,norwegian,,Sjornavagr,,,,,,,,,,,x
 b_stornoway,saxon,,Stornoway,,,,,,,,,,,x
-b_stornoway,scottish,,SteÚrnabhagh,,,,,,,,,,,x
+b_stornoway,scottish,,Ste√≤rnabhagh,,,,,,,,,,,x
 b_stornoway,swedish,,Sjornavagr,,,,,,,,,,,x
-b_stornoway,welsh,,SteÚrnabhagh,,,,,,,,,,,x
+b_stornoway,welsh,,Ste√≤rnabhagh,,,,,,,,,,,x
 b_st_moluag,b_st_moluag,,St Molaug,,,,,,,,,,,x
 b_st_moluag,b_st_moluag_adj,,,,,,,,,,,,,x
 b_st_moluag,anglonorse,,St. Moluag,,,,,,,,,,,x

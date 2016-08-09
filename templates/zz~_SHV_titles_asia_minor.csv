@@ -1,6 +1,6 @@
 #TITLE,KEY,VALUE,SWMH,,,,,,,,,,,x
-d_aegean_islands,d_aegean_islands,,Aigaiou Pelàgous,,,,,,,,,,,x
-d_aegean_islands,d_aegean_islands_adj,,Aigaían,,,,,,,,,,,x
+d_aegean_islands,d_aegean_islands,,Aigaiou PelÃ gous,,,,,,,,,,,x
+d_aegean_islands,d_aegean_islands_adj,,AigaÃ­an,,,,,,,,,,,x
 d_aegean_islands,central_italian,,dell'arcipelago,,,,,,,,,,,x
 d_aegean_islands,d_aegean_islands_adj_central_italian,,Arcipelagan,,,,,,,,,,,x
 d_aegean_islands,corsican,,dell'arcipelago,,,,,,,,,,,x
@@ -57,7 +57,7 @@ b_panormos,oghuz,,Bandirma,,,,,,,,,,,x
 b_panormos,pecheneg,,Bandirma,,,,,,,,,,,x
 b_panormos,turkish,,Bandirma,,,,,,,,,,,x
 b_panormos,turkmen,,Bandirma,,,,,,,,,,,x
-c_abydos,PROV744,,Troád,,,,,,,,,,,x
+c_abydos,PROV744,,TroÃ¡d,,,,,,,,,,,x
 c_abydos,c_abydos,,,,,,,,,,,,,x
 c_abydos,c_abydos_adj,,Abydosian,,,,,,,,,,,x
 c_abydos,oghuz,,Canakkale,,,,,,,,,,,x
@@ -85,7 +85,7 @@ b_lampsakos,oghuz,,Lapseki,,,,,,,,,,,x
 b_lampsakos,pecheneg,,Lapseki,,,,,,,,,,,x
 b_lampsakos,turkish,,Lapseki,,,,,,,,,,,x
 b_lampsakos,turkmen,,Lapseki,,,,,,,,,,,x
-c_naxos,PROV484,,Kykládes,,,,,,,,,,,x
+c_naxos,PROV484,,KyklÃ¡des,,,,,,,,,,,x
 c_naxos,c_naxos,,,,,,,,,,,,,x
 c_naxos,c_naxos_adj,,Kykladian,,,,,,,,,,,x
 c_naxos,central_italian,,Nasso,,,,,,,,,,,x
@@ -170,7 +170,7 @@ b_andros,b_andros_adj,,,,,,,,,,,,,x
 b_andros,central_italian,,Andria,,,,,,,,,,,x
 b_andros,corsican,,Andria,,,,,,,,,,,x
 b_andros,dalmatian,,Andria,,,,,,,,,,,x
-b_andros,frankish,,André,,,,,,,,,,,x
+b_andros,frankish,,AndrÃ©,,,,,,,,,,,x
 b_andros,italian,,Andria,,,,,,,,,,,x
 b_andros,ligurian,,Andria,,,,,,,,,,,x
 b_andros,neapolitan,,Andria,,,,,,,,,,,x
@@ -269,14 +269,14 @@ d_paphlagonia,ligurian,,Paphlagonia,,,,,,,,,,,x
 d_paphlagonia,neapolitan,,Paphlagonia,,,,,,,,,,,x
 d_paphlagonia,norman,,Paphlagonie,,,,,,,,,,,x
 d_paphlagonia,oghuz,,Kastamoni,,,,,,,,,,,x
-d_paphlagonia,d_paphlagonia_adj_oghuz,,Kastamûniyyan,,,,,,,,,,,x
+d_paphlagonia,d_paphlagonia_adj_oghuz,,KastamÃ»niyyan,,,,,,,,,,,x
 d_paphlagonia,sardinian,,Paphlagonia,,,,,,,,,,,x
 d_paphlagonia,sicilian,,Paphlagonia,,,,,,,,,,,x
 d_paphlagonia,southern_italian,,Paphlagonia,,,,,,,,,,,x
 d_paphlagonia,turkish,,Kastamoni,,,,,,,,,,,x
-d_paphlagonia,d_paphlagonia_adj_turkish,,Kastamûniyyan,,,,,,,,,,,x
+d_paphlagonia,d_paphlagonia_adj_turkish,,KastamÃ»niyyan,,,,,,,,,,,x
 d_paphlagonia,turkmen,,Kastamoni,,,,,,,,,,,x
-d_paphlagonia,d_paphlagonia_adj_turkmen,,Kastamûniyyan,,,,,,,,,,,x
+d_paphlagonia,d_paphlagonia_adj_turkmen,,KastamÃ»niyyan,,,,,,,,,,,x
 d_paphlagonia,tuscan,,Paphlagonia,,,,,,,,,,,x
 d_paphlagonia,venetian,,Paphlagonia,,,,,,,,,,,x
 c_paphlagonia,PROV751,,Paphlagonia,,,,,,,,,,,x
@@ -299,7 +299,7 @@ c_paphlagonia,c_paphlagonia_adj_neapolitan,,Paphlagonian,,,,,,,,,,,x
 c_paphlagonia,norman,,Paphlagonie,,,,,,,,,,,x
 c_paphlagonia,c_paphlagonia_adj_norman,,Paphlagonian,,,,,,,,,,,x
 c_paphlagonia,oghuz,,Kastamoni,,,,,,,,,,,x
-c_paphlagonia,c_paphlagonia_adj_oghuz,,Kastamûniyyan,,,,,,,,,,,x
+c_paphlagonia,c_paphlagonia_adj_oghuz,,KastamÃ»niyyan,,,,,,,,,,,x
 c_paphlagonia,sardinian,,Paphlagonia,,,,,,,,,,,x
 c_paphlagonia,c_paphlagonia_adj_sardinian,,Paphlagonian,,,,,,,,,,,x
 c_paphlagonia,sicilian,,Paphlagonia,,,,,,,,,,,x
@@ -307,9 +307,9 @@ c_paphlagonia,c_paphlagonia_adj_sicilian,,Paphlagonian,,,,,,,,,,,x
 c_paphlagonia,southern_italian,,Paphlagonia,,,,,,,,,,,x
 c_paphlagonia,c_paphlagonia_adj_southern_italian,,Paphlagonian,,,,,,,,,,,x
 c_paphlagonia,turkish,,Kastamoni,,,,,,,,,,,x
-c_paphlagonia,c_paphlagonia_adj_turkish,,Kastamûniyyan,,,,,,,,,,,x
+c_paphlagonia,c_paphlagonia_adj_turkish,,KastamÃ»niyyan,,,,,,,,,,,x
 c_paphlagonia,turkmen,,Kastamoni,,,,,,,,,,,x
-c_paphlagonia,c_paphlagonia_adj_turkmen,,Kastamûniyyan,,,,,,,,,,,x
+c_paphlagonia,c_paphlagonia_adj_turkmen,,KastamÃ»niyyan,,,,,,,,,,,x
 c_paphlagonia,tuscan,,Paphlagonia,,,,,,,,,,,x
 c_paphlagonia,c_paphlagonia_adj_tuscan,,Paphlagonian,,,,,,,,,,,x
 c_paphlagonia,venetian,,Paphlagonia,,,,,,,,,,,x
@@ -334,14 +334,14 @@ b_kastamonu,tuscan,,Castra Comneni,,,,,,,,,,,x
 b_kastamonu,venetian,,Castra Comneni,,,,,,,,,,,x
 b_dadybra,b_dadybra,,Dadybra,,,,,,,,,,,x
 b_dadybra,b_dadybra_adj,,,,,,,,,,,,,x
-b_dadybra,oghuz,,Borlî,,,,,,,,,,,x
-b_dadybra,turkish,,Borlî,,,,,,,,,,,x
-b_dadybra,turkmen,,Borlî,,,,,,,,,,,x
+b_dadybra,oghuz,,BorlÃ®,,,,,,,,,,,x
+b_dadybra,turkish,,BorlÃ®,,,,,,,,,,,x
+b_dadybra,turkmen,,BorlÃ®,,,,,,,,,,,x
 b_pompeiopolis,b_pompeiopolis,,Pompeioupolis,,,,,,,,,,,x
 b_pompeiopolis,b_pompeiopolis_adj,,,,,,,,,,,,,x
-b_pompeiopolis,oghuz,,Tasköprü,,,,,,,,,,,x
-b_pompeiopolis,turkish,,Tasköprü,,,,,,,,,,,x
-b_pompeiopolis,turkmen,,Tasköprü,,,,,,,,,,,x
+b_pompeiopolis,oghuz,,TaskÃ¶prÃ¼,,,,,,,,,,,x
+b_pompeiopolis,turkish,,TaskÃ¶prÃ¼,,,,,,,,,,,x
+b_pompeiopolis,turkmen,,TaskÃ¶prÃ¼,,,,,,,,,,,x
 c_amastris,PROV1327,,Amastris,,,,,,,,,,,x
 c_amastris,c_amastris,,,,,,,,,,,,,x
 c_amastris,c_amastris_adj,,Amastrian,,,,,,,,,,,x
@@ -363,23 +363,23 @@ b_ionopolis,turkish,,Inebolu,,,,,,,,,,,x
 b_ionopolis,turkmen,,Inebolu,,,,,,,,,,,x
 b_parthenios,b_parthenios,,Parthenios,,,,,,,,,,,x
 b_parthenios,b_parthenios_adj,,,,,,,,,,,,,x
-b_parthenios,oghuz,,Bartûnî,,,,,,,,,,,x
-b_parthenios,turkish,,Bartûnî,,,,,,,,,,,x
-b_parthenios,turkmen,,Bartûnî,,,,,,,,,,,x
+b_parthenios,oghuz,,BartÃ»nÃ®,,,,,,,,,,,x
+b_parthenios,turkish,,BartÃ»nÃ®,,,,,,,,,,,x
+b_parthenios,turkmen,,BartÃ»nÃ®,,,,,,,,,,,x
 c_gangra,PROV1234,,Gangra,,,,,,,,,,,x
 c_gangra,c_gangra,,,,,,,,,,,,,x
 c_gangra,c_gangra_adj,,Gangrian,,,,,,,,,,,x
-c_gangra,oghuz,,Çankiri,,,,,,,,,,,x
-c_gangra,c_gangra_adj_oghuz,,Çankiran,,,,,,,,,,,x
-c_gangra,turkish,,Çankiri,,,,,,,,,,,x
-c_gangra,c_gangra_adj_turkish,,Çankiran,,,,,,,,,,,x
-c_gangra,turkmen,,Çankiri,,,,,,,,,,,x
-c_gangra,c_gangra_adj_turkmen,,Çankiran,,,,,,,,,,,x
+c_gangra,oghuz,,Ã‡ankiri,,,,,,,,,,,x
+c_gangra,c_gangra_adj_oghuz,,Ã‡ankiran,,,,,,,,,,,x
+c_gangra,turkish,,Ã‡ankiri,,,,,,,,,,,x
+c_gangra,c_gangra_adj_turkish,,Ã‡ankiran,,,,,,,,,,,x
+c_gangra,turkmen,,Ã‡ankiri,,,,,,,,,,,x
+c_gangra,c_gangra_adj_turkmen,,Ã‡ankiran,,,,,,,,,,,x
 b_gangra,b_gangra,,Gangra,,,,,,,,,,,x
 b_gangra,b_gangra_adj,,,,,,,,,,,,,x
-b_gangra,oghuz,,Çankiri,,,,,,,,,,,x
-b_gangra,turkish,,Çankiri,,,,,,,,,,,x
-b_gangra,turkmen,,Çankiri,,,,,,,,,,,x
+b_gangra,oghuz,,Ã‡ankiri,,,,,,,,,,,x
+b_gangra,turkish,,Ã‡ankiri,,,,,,,,,,,x
+b_gangra,turkmen,,Ã‡ankiri,,,,,,,,,,,x
 b_dokeia,b_dokeia,,Dokeia,,,,,,,,,,,x
 b_dokeia,b_dokeia_adj,,,,,,,,,,,,,x
 b_dokeia,oghuz,,Tosya,,,,,,,,,,,x
@@ -391,12 +391,12 @@ d_boukellarion,frankish,,Bucellaires,,,,,,,,,,,x
 d_boukellarion,d_boukellarion_adj_frankish,,Bucellairan,,,,,,,,,,,x
 d_boukellarion,norman,,Bucellaires,,,,,,,,,,,x
 d_boukellarion,d_boukellarion_adj_norman,,Bucellairan,,,,,,,,,,,x
-d_boukellarion,oghuz,,Engürü,,,,,,,,,,,x
-d_boukellarion,d_boukellarion_adj_oghuz,,Engüran,,,,,,,,,,,x
-d_boukellarion,turkish,,Engürü,,,,,,,,,,,x
-d_boukellarion,d_boukellarion_adj_turkish,,Engüran,,,,,,,,,,,x
-d_boukellarion,turkmen,,Engürü,,,,,,,,,,,x
-d_boukellarion,d_boukellarion_adj_turkmen,,Engüran,,,,,,,,,,,x
+d_boukellarion,oghuz,,EngÃ¼rÃ¼,,,,,,,,,,,x
+d_boukellarion,d_boukellarion_adj_oghuz,,EngÃ¼ran,,,,,,,,,,,x
+d_boukellarion,turkish,,EngÃ¼rÃ¼,,,,,,,,,,,x
+d_boukellarion,d_boukellarion_adj_turkish,,EngÃ¼ran,,,,,,,,,,,x
+d_boukellarion,turkmen,,EngÃ¼rÃ¼,,,,,,,,,,,x
+d_boukellarion,d_boukellarion_adj_turkmen,,EngÃ¼ran,,,,,,,,,,,x
 c_herakleia,PROV740,,Herakleia,,,,,,,,,,,x
 c_herakleia,c_herakleia,,,,,,,,,,,,,x
 c_herakleia,c_herakleia_adj,,Herakleian,,,,,,,,,,,x
@@ -406,16 +406,16 @@ c_herakleia,corsican,,Heraclea,,,,,,,,,,,x
 c_herakleia,c_herakleia_adj_corsican,,Heraclean,,,,,,,,,,,x
 c_herakleia,dalmatian,,Heraclea,,,,,,,,,,,x
 c_herakleia,c_herakleia_adj_dalmatian,,Heraclean,,,,,,,,,,,x
-c_herakleia,frankish,,Héraclée,,,,,,,,,,,x
-c_herakleia,c_herakleia_adj_frankish,,Héracléan,,,,,,,,,,,x
+c_herakleia,frankish,,HÃ©raclÃ©e,,,,,,,,,,,x
+c_herakleia,c_herakleia_adj_frankish,,HÃ©raclÃ©an,,,,,,,,,,,x
 c_herakleia,italian,,Heraclea,,,,,,,,,,,x
 c_herakleia,c_herakleia_adj_italian,,Heraclean,,,,,,,,,,,x
 c_herakleia,ligurian,,Heraclea,,,,,,,,,,,x
 c_herakleia,c_herakleia_adj_ligurian,,Heraclean,,,,,,,,,,,x
 c_herakleia,neapolitan,,Heraclea,,,,,,,,,,,x
 c_herakleia,c_herakleia_adj_neapolitan,,Heraclean,,,,,,,,,,,x
-c_herakleia,norman,,Héraclée,,,,,,,,,,,x
-c_herakleia,c_herakleia_adj_norman,,Héracléan,,,,,,,,,,,x
+c_herakleia,norman,,HÃ©raclÃ©e,,,,,,,,,,,x
+c_herakleia,c_herakleia_adj_norman,,HÃ©raclÃ©an,,,,,,,,,,,x
 c_herakleia,oghuz,,Eregli,,,,,,,,,,,x
 c_herakleia,c_herakleia_adj_oghuz,,Ereglian,,,,,,,,,,,x
 c_herakleia,sardinian,,Heraclea,,,,,,,,,,,x
@@ -437,11 +437,11 @@ b_herakleia,b_herakleia_adj,,,,,,,,,,,,,x
 b_herakleia,central_italian,,Heraclea,,,,,,,,,,,x
 b_herakleia,corsican,,Heraclea,,,,,,,,,,,x
 b_herakleia,dalmatian,,Heraclea,,,,,,,,,,,x
-b_herakleia,frankish,,Héraclée,,,,,,,,,,,x
+b_herakleia,frankish,,HÃ©raclÃ©e,,,,,,,,,,,x
 b_herakleia,italian,,Heraclea,,,,,,,,,,,x
 b_herakleia,ligurian,,Heraclea,,,,,,,,,,,x
 b_herakleia,neapolitan,,Heraclea,,,,,,,,,,,x
-b_herakleia,norman,,Héraclée,,,,,,,,,,,x
+b_herakleia,norman,,HÃ©raclÃ©e,,,,,,,,,,,x
 b_herakleia,oghuz,,Eregli,,,,,,,,,,,x
 b_herakleia,sardinian,,Heraclea,,,,,,,,,,,x
 b_herakleia,sicilian,,Heraclea,,,,,,,,,,,x
@@ -457,9 +457,9 @@ b_tion,turkish,,Filyos,,,,,,,,,,,x
 b_tion,turkmen,,Filyos,,,,,,,,,,,x
 b_prousias,b_prousias,,Prousias,,,,,,,,,,,x
 b_prousias,b_prousias_adj,,,,,,,,,,,,,x
-b_prousias,oghuz,,Düzce,,,,,,,,,,,x
-b_prousias,turkish,,Düzce,,,,,,,,,,,x
-b_prousias,turkmen,,Düzce,,,,,,,,,,,x
+b_prousias,oghuz,,DÃ¼zce,,,,,,,,,,,x
+b_prousias,turkish,,DÃ¼zce,,,,,,,,,,,x
+b_prousias,turkmen,,DÃ¼zce,,,,,,,,,,,x
 c_vithynion,PROV1070,,Vithynion,,,,,,,,,,,x
 c_vithynion,c_vithynion,,,,,,,,,,,,,x
 c_vithynion,c_vithynion_adj,,Bithynian,,,,,,,,,,,x
@@ -479,18 +479,18 @@ c_vithynion,neapolitan,,Claudiopolis,,,,,,,,,,,x
 c_vithynion,c_vithynion_adj_neapolitan,,Claudiopolitan,,,,,,,,,,,x
 c_vithynion,norman,,Claudiopolis,,,,,,,,,,,x
 c_vithynion,c_vithynion_adj_norman,,Claudiopolitan,,,,,,,,,,,x
-c_vithynion,oghuz,,Bôlî,,,,,,,,,,,x
-c_vithynion,c_vithynion_adj_oghuz,,Bôlîan,,,,,,,,,,,x
+c_vithynion,oghuz,,BÃ´lÃ®,,,,,,,,,,,x
+c_vithynion,c_vithynion_adj_oghuz,,BÃ´lÃ®an,,,,,,,,,,,x
 c_vithynion,sardinian,,Claudiopolis,,,,,,,,,,,x
 c_vithynion,c_vithynion_adj_sardinian,,Claudiopolitan,,,,,,,,,,,x
 c_vithynion,sicilian,,Claudiopolis,,,,,,,,,,,x
 c_vithynion,c_vithynion_adj_sicilian,,Claudiopolitan,,,,,,,,,,,x
 c_vithynion,southern_italian,,Claudiopolis,,,,,,,,,,,x
 c_vithynion,c_vithynion_adj_southern_italian,,Claudiopolitan,,,,,,,,,,,x
-c_vithynion,turkish,,Bôlî,,,,,,,,,,,x
-c_vithynion,c_vithynion_adj_turkish,,Bôlîan,,,,,,,,,,,x
-c_vithynion,turkmen,,Bôlî,,,,,,,,,,,x
-c_vithynion,c_vithynion_adj_turkmen,,Bôlîan,,,,,,,,,,,x
+c_vithynion,turkish,,BÃ´lÃ®,,,,,,,,,,,x
+c_vithynion,c_vithynion_adj_turkish,,BÃ´lÃ®an,,,,,,,,,,,x
+c_vithynion,turkmen,,BÃ´lÃ®,,,,,,,,,,,x
+c_vithynion,c_vithynion_adj_turkmen,,BÃ´lÃ®an,,,,,,,,,,,x
 c_vithynion,tuscan,,Claudiopolis,,,,,,,,,,,x
 c_vithynion,c_vithynion_adj_tuscan,,Claudiopolitan,,,,,,,,,,,x
 c_vithynion,venetian,,Claudiopolis,,,,,,,,,,,x
@@ -502,9 +502,9 @@ b_modrene,turkish,,Muturnu,,,,,,,,,,,x
 b_modrene,turkmen,,Muturnu,,,,,,,,,,,x
 b_flaviopolis,b_flaviopolis,,Flavioupolis,,,,,,,,,,,x
 b_flaviopolis,b_flaviopolis_adj,,,,,,,,,,,,,x
-b_flaviopolis,oghuz,,Geredei Bolî,,,,,,,,,,,x
-b_flaviopolis,turkish,,Geredei Bolî,,,,,,,,,,,x
-b_flaviopolis,turkmen,,Geredei Bolî,,,,,,,,,,,x
+b_flaviopolis,oghuz,,Geredei BolÃ®,,,,,,,,,,,x
+b_flaviopolis,turkish,,Geredei BolÃ®,,,,,,,,,,,x
+b_flaviopolis,turkmen,,Geredei BolÃ®,,,,,,,,,,,x
 b_klaudiopolis,b_klaudiopolis,,Klaudioupolis,,,,,,,,,,,x
 b_klaudiopolis,b_klaudiopolis_adj,,,,,,,,,,,,,x
 b_klaudiopolis,central_italian,,Claudiopolis,,,,,,,,,,,x
@@ -515,28 +515,28 @@ b_klaudiopolis,italian,,Claudiopolis,,,,,,,,,,,x
 b_klaudiopolis,ligurian,,Claudiopolis,,,,,,,,,,,x
 b_klaudiopolis,neapolitan,,Claudiopolis,,,,,,,,,,,x
 b_klaudiopolis,norman,,Claudiopolis,,,,,,,,,,,x
-b_klaudiopolis,oghuz,,Bôlî,,,,,,,,,,,x
+b_klaudiopolis,oghuz,,BÃ´lÃ®,,,,,,,,,,,x
 b_klaudiopolis,sardinian,,Claudiopolis,,,,,,,,,,,x
 b_klaudiopolis,sicilian,,Claudiopolis,,,,,,,,,,,x
 b_klaudiopolis,southern_italian,,Claudiopolis,,,,,,,,,,,x
-b_klaudiopolis,turkish,,Bôlî,,,,,,,,,,,x
-b_klaudiopolis,turkmen,,Bôlî,,,,,,,,,,,x
+b_klaudiopolis,turkish,,BÃ´lÃ®,,,,,,,,,,,x
+b_klaudiopolis,turkmen,,BÃ´lÃ®,,,,,,,,,,,x
 b_klaudiopolis,tuscan,,Claudiopolis,,,,,,,,,,,x
 b_klaudiopolis,venetian,,Claudiopolis,,,,,,,,,,,x
 c_ankyra,PROV753,,Ankyra,,,,,,,,,,,x
 c_ankyra,c_ankyra,,,,,,,,,,,,,x
 c_ankyra,c_ankyra_adj,,Ancyran,,,,,,,,,,,x
-c_ankyra,oghuz,,Engürü,,,,,,,,,,,x
-c_ankyra,c_ankyra_adj_oghuz,,Engüriyyan,,,,,,,,,,,x
-c_ankyra,turkish,,Engürü,,,,,,,,,,,x
-c_ankyra,c_ankyra_adj_turkish,,Engüriyyan,,,,,,,,,,,x
-c_ankyra,turkmen,,Engürü,,,,,,,,,,,x
-c_ankyra,c_ankyra_adj_turkmen,,Engüriyyan,,,,,,,,,,,x
+c_ankyra,oghuz,,EngÃ¼rÃ¼,,,,,,,,,,,x
+c_ankyra,c_ankyra_adj_oghuz,,EngÃ¼riyyan,,,,,,,,,,,x
+c_ankyra,turkish,,EngÃ¼rÃ¼,,,,,,,,,,,x
+c_ankyra,c_ankyra_adj_turkish,,EngÃ¼riyyan,,,,,,,,,,,x
+c_ankyra,turkmen,,EngÃ¼rÃ¼,,,,,,,,,,,x
+c_ankyra,c_ankyra_adj_turkmen,,EngÃ¼riyyan,,,,,,,,,,,x
 b_ankyra,b_ankyra,,Ankyra,,,,,,,,,,,x
 b_ankyra,b_ankyra_adj,,,,,,,,,,,,,x
-b_ankyra,oghuz,,Engürü,,,,,,,,,,,x
-b_ankyra,turkish,,Engürü,,,,,,,,,,,x
-b_ankyra,turkmen,,Engürü,,,,,,,,,,,x
+b_ankyra,oghuz,,EngÃ¼rÃ¼,,,,,,,,,,,x
+b_ankyra,turkish,,EngÃ¼rÃ¼,,,,,,,,,,,x
+b_ankyra,turkmen,,EngÃ¼rÃ¼,,,,,,,,,,,x
 b_anastasiopolis,b_anastasiopolis,,Lagania,,,,,,,,,,,x
 b_anastasiopolis,b_anastasiopolis_adj,,,,,,,,,,,,,x
 b_anastasiopolis,central_italian,,Anastasiopolis,,,,,,,,,,,x
@@ -586,16 +586,16 @@ d_samos,turkish,,Aydin,,,,,,,,,,,x
 d_samos,d_samos_adj_turkish,,Aydinan,,,,,,,,,,,x
 d_samos,turkmen,,Izmir,,,,,,,,,,,x
 d_samos,d_samos_adj_turkmen,,Izmiran,,,,,,,,,,,x
-c_adramyttion,PROV1344,,Aiolía,,,,,,,,,,,x
+c_adramyttion,PROV1344,,AiolÃ­a,,,,,,,,,,,x
 c_adramyttion,c_adramyttion,,,,,,,,,,,,,x
-c_adramyttion,c_adramyttion_adj,,Aiolían,,,,,,,,,,,x
+c_adramyttion,c_adramyttion_adj,,AiolÃ­an,,,,,,,,,,,x
 c_adramyttion,oghuz,,Edremit,,,,,,,,,,,x
 c_adramyttion,c_adramyttion_adj_oghuz,,Edremitan,,,,,,,,,,,x
 c_adramyttion,turkish,,Edremit,,,,,,,,,,,x
 c_adramyttion,c_adramyttion_adj_turkish,,Edremitan,,,,,,,,,,,x
 c_adramyttion,turkmen,,Edremit,,,,,,,,,,,x
 c_adramyttion,c_adramyttion_adj_turkmen,,Edremitan,,,,,,,,,,,x
-b_adramyttion,b_adramyttion,,Adramýttion,,,,,,,,,,,x
+b_adramyttion,b_adramyttion,,AdramÃ½ttion,,,,,,,,,,,x
 b_adramyttion,b_adramyttion_adj,,,,,,,,,,,,,x
 b_adramyttion,oghuz,,Edremit,,,,,,,,,,,x
 b_adramyttion,turkish,,Edremit,,,,,,,,,,,x
@@ -617,9 +617,9 @@ b_pitane,b_pitane_adj,,,,,,,,,,,,,x
 b_pitane,oghuz,,Candarli,,,,,,,,,,,x
 b_pitane,turkish,,Candarli,,,,,,,,,,,x
 b_pitane,turkmen,,Candarli,,,,,,,,,,,x
-c_ephesos,PROV746,,Ionía,,,,,,,,,,,x
+c_ephesos,PROV746,,IonÃ­a,,,,,,,,,,,x
 c_ephesos,c_ephesos,,,,,,,,,,,,,x
-c_ephesos,c_ephesos_adj,,Ionían,,,,,,,,,,,x
+c_ephesos,c_ephesos_adj,,IonÃ­an,,,,,,,,,,,x
 c_ephesos,oghuz,,Aydin,,,,,,,,,,,x
 c_ephesos,c_ephesos_adj_oghuz,,Aydinian,,,,,,,,,,,x
 c_ephesos,turkish,,Aydin,,,,,,,,,,,x
@@ -674,29 +674,29 @@ b_phokaia,b_phokaia_adj,,,,,,,,,,,,,x
 b_phokaia,central_italian,,Focea,,,,,,,,,,,x
 b_phokaia,corsican,,Focea,,,,,,,,,,,x
 b_phokaia,dalmatian,,Focea,,,,,,,,,,,x
-b_phokaia,frankish,,Focée,,,,,,,,,,,x
+b_phokaia,frankish,,FocÃ©e,,,,,,,,,,,x
 b_phokaia,italian,,Focea,,,,,,,,,,,x
 b_phokaia,ligurian,,Focea,,,,,,,,,,,x
 b_phokaia,neapolitan,,Focea,,,,,,,,,,,x
-b_phokaia,norman,,Focée,,,,,,,,,,,x
-b_phokaia,oghuz,,Foça,,,,,,,,,,,x
+b_phokaia,norman,,FocÃ©e,,,,,,,,,,,x
+b_phokaia,oghuz,,FoÃ§a,,,,,,,,,,,x
 b_phokaia,sardinian,,Focea,,,,,,,,,,,x
 b_phokaia,sicilian,,Focea,,,,,,,,,,,x
 b_phokaia,southern_italian,,Focea,,,,,,,,,,,x
-b_phokaia,turkish,,Foça,,,,,,,,,,,x
-b_phokaia,turkmen,,Foça,,,,,,,,,,,x
+b_phokaia,turkish,,FoÃ§a,,,,,,,,,,,x
+b_phokaia,turkmen,,FoÃ§a,,,,,,,,,,,x
 b_phokaia,tuscan,,Focea,,,,,,,,,,,x
 b_phokaia,venetian,,Focea,,,,,,,,,,,x
 b_magnesia,b_magnesia,,Magnesia,,,,,,,,,,,x
 b_magnesia,b_magnesia_adj,,,,,,,,,,,,,x
-b_magnesia,oghuz,,Magnîsa,,,,,,,,,,,x
+b_magnesia,oghuz,,MagnÃ®sa,,,,,,,,,,,x
 b_magnesia,turkish,,Magnisa,,,,,,,,,,,x
-b_magnesia,turkmen,,Magnîsa,,,,,,,,,,,x
+b_magnesia,turkmen,,MagnÃ®sa,,,,,,,,,,,x
 b_erythrai,b_erythrai,,Erythrai,,,,,,,,,,,x
 b_erythrai,b_erythrai_adj,,,,,,,,,,,,,x
-b_erythrai,oghuz,,Çesme,,,,,,,,,,,x
-b_erythrai,turkish,,Çesme,,,,,,,,,,,x
-b_erythrai,turkmen,,Çesme,,,,,,,,,,,x
+b_erythrai,oghuz,,Ã‡esme,,,,,,,,,,,x
+b_erythrai,turkish,,Ã‡esme,,,,,,,,,,,x
+b_erythrai,turkmen,,Ã‡esme,,,,,,,,,,,x
 b_klazomeanai,b_klazomeanai,,Klazomenai,,,,,,,,,,,x
 b_klazomeanai,b_klazomeanai_adj,,,,,,,,,,,,,x
 b_klazomeanai,oghuz,,Urla,,,,,,,,,,,x
@@ -704,13 +704,13 @@ b_klazomeanai,turkish,,Urla,,,,,,,,,,,x
 b_klazomeanai,turkmen,,Urla,,,,,,,,,,,x
 d_thracesia,d_thracesia,,Thrakesion,,,,,,,,,,,x
 d_thracesia,d_thracesia_adj,,Thrakesian,,,,,,,,,,,x
-d_thracesia,oghuz,,Ala Šehir,,,,,,,,,,,x
-d_thracesia,d_thracesia_adj_oghuz,,Ala Šehiran,,,,,,,,,,,x
-d_thracesia,turkish,,Ala Šehir,,,,,,,,,,,x
-d_thracesia,d_thracesia_adj_turkish,,Ala Šehiran,,,,,,,,,,,x
-d_thracesia,turkmen,,Ala Šehir,,,,,,,,,,,x
-d_thracesia,d_thracesia_adj_turkmen,,Ala Šehiran,,,,,,,,,,,x
-c_laodikeia,PROV748,,Karía,,,,,,,,,,,x
+d_thracesia,oghuz,,Ala Å ehir,,,,,,,,,,,x
+d_thracesia,d_thracesia_adj_oghuz,,Ala Å ehiran,,,,,,,,,,,x
+d_thracesia,turkish,,Ala Å ehir,,,,,,,,,,,x
+d_thracesia,d_thracesia_adj_turkish,,Ala Å ehiran,,,,,,,,,,,x
+d_thracesia,turkmen,,Ala Å ehir,,,,,,,,,,,x
+d_thracesia,d_thracesia_adj_turkmen,,Ala Å ehiran,,,,,,,,,,,x
+c_laodikeia,PROV748,,KarÃ­a,,,,,,,,,,,x
 c_laodikeia,c_laodikeia,,,,,,,,,,,,,x
 c_laodikeia,c_laodikeia_adj,,Karian,,,,,,,,,,,x
 c_laodikeia,central_italian,,Laodicea,,,,,,,,,,,x
@@ -719,16 +719,16 @@ c_laodikeia,corsican,,Laodicea,,,,,,,,,,,x
 c_laodikeia,c_laodikeia_adj_corsican,,Laodicean,,,,,,,,,,,x
 c_laodikeia,dalmatian,,Laodicea,,,,,,,,,,,x
 c_laodikeia,c_laodikeia_adj_dalmatian,,Laodicean,,,,,,,,,,,x
-c_laodikeia,frankish,,Laodicée,,,,,,,,,,,x
-c_laodikeia,c_laodikeia_adj_frankish,,Laodicéan,,,,,,,,,,,x
+c_laodikeia,frankish,,LaodicÃ©e,,,,,,,,,,,x
+c_laodikeia,c_laodikeia_adj_frankish,,LaodicÃ©an,,,,,,,,,,,x
 c_laodikeia,italian,,Laodicea,,,,,,,,,,,x
 c_laodikeia,c_laodikeia_adj_italian,,Laodicean,,,,,,,,,,,x
 c_laodikeia,ligurian,,Laodicea,,,,,,,,,,,x
 c_laodikeia,c_laodikeia_adj_ligurian,,Laodicean,,,,,,,,,,,x
 c_laodikeia,neapolitan,,Laodicea,,,,,,,,,,,x
 c_laodikeia,c_laodikeia_adj_neapolitan,,Laodicean,,,,,,,,,,,x
-c_laodikeia,norman,,Laodicée,,,,,,,,,,,x
-c_laodikeia,c_laodikeia_adj_norman,,Laodicéan,,,,,,,,,,,x
+c_laodikeia,norman,,LaodicÃ©e,,,,,,,,,,,x
+c_laodikeia,c_laodikeia_adj_norman,,LaodicÃ©an,,,,,,,,,,,x
 c_laodikeia,oghuz,,Ladik,,,,,,,,,,,x
 c_laodikeia,c_laodikeia_adj_oghuz,,Ladikian,,,,,,,,,,,x
 c_laodikeia,sardinian,,Laodicea,,,,,,,,,,,x
@@ -755,11 +755,11 @@ b_laodikeia,b_laodikeia_adj,,,,,,,,,,,,,x
 b_laodikeia,central_italian,,Laodicea,,,,,,,,,,,x
 b_laodikeia,corsican,,Laodicea,,,,,,,,,,,x
 b_laodikeia,dalmatian,,Laodicea,,,,,,,,,,,x
-b_laodikeia,frankish,,Laodicée,,,,,,,,,,,x
+b_laodikeia,frankish,,LaodicÃ©e,,,,,,,,,,,x
 b_laodikeia,italian,,Laodicea,,,,,,,,,,,x
 b_laodikeia,ligurian,,Laodicea,,,,,,,,,,,x
 b_laodikeia,neapolitan,,Laodicea,,,,,,,,,,,x
-b_laodikeia,norman,,Laodicée,,,,,,,,,,,x
+b_laodikeia,norman,,LaodicÃ©e,,,,,,,,,,,x
 b_laodikeia,oghuz,,Ladik,,,,,,,,,,,x
 b_laodikeia,sardinian,,Laodicea,,,,,,,,,,,x
 b_laodikeia,sicilian,,Laodicea,,,,,,,,,,,x
@@ -775,9 +775,9 @@ b_harpasa,turkish,,Arpaz,,,,,,,,,,,x
 b_harpasa,turkmen,,Arpaz,,,,,,,,,,,x
 b_kibyra,b_kibyra,,Kibyra,,,,,,,,,,,x
 b_kibyra,b_kibyra_adj,,,,,,,,,,,,,x
-b_kibyra,oghuz,,Gölhisar,,,,,,,,,,,x
-b_kibyra,turkish,,Gölhisar,,,,,,,,,,,x
-b_kibyra,turkmen,,Gölhisar,,,,,,,,,,,x
+b_kibyra,oghuz,,GÃ¶lhisar,,,,,,,,,,,x
+b_kibyra,turkish,,GÃ¶lhisar,,,,,,,,,,,x
+b_kibyra,turkmen,,GÃ¶lhisar,,,,,,,,,,,x
 c_philadelphia,PROV971,,Philadelpheia,,,,,,,,,,,x
 c_philadelphia,c_philadelphia,,,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj,,Philadelpheian,,,,,,,,,,,x
@@ -787,27 +787,27 @@ c_philadelphia,corsican,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj_corsican,,Philadelphean,,,,,,,,,,,x
 c_philadelphia,dalmatian,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj_dalmatian,,Philadelphean,,,,,,,,,,,x
-c_philadelphia,frankish,,Philadelphée,,,,,,,,,,,x
-c_philadelphia,c_philadelphia_adj_frankish,,Philadelphéan,,,,,,,,,,,x
+c_philadelphia,frankish,,PhiladelphÃ©e,,,,,,,,,,,x
+c_philadelphia,c_philadelphia_adj_frankish,,PhiladelphÃ©an,,,,,,,,,,,x
 c_philadelphia,italian,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj_italian,,Philadelphean,,,,,,,,,,,x
 c_philadelphia,ligurian,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj_ligurian,,Philadelphean,,,,,,,,,,,x
 c_philadelphia,neapolitan,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj_neapolitan,,Philadelphean,,,,,,,,,,,x
-c_philadelphia,norman,,Philadelphée,,,,,,,,,,,x
-c_philadelphia,c_philadelphia_adj_norman,,Philadelphéan,,,,,,,,,,,x
-c_philadelphia,oghuz,,Ala Šehir,,,,,,,,,,,x
-c_philadelphia,c_philadelphia_adj_oghuz,,Ala Šehiran,,,,,,,,,,,x
+c_philadelphia,norman,,PhiladelphÃ©e,,,,,,,,,,,x
+c_philadelphia,c_philadelphia_adj_norman,,PhiladelphÃ©an,,,,,,,,,,,x
+c_philadelphia,oghuz,,Ala Å ehir,,,,,,,,,,,x
+c_philadelphia,c_philadelphia_adj_oghuz,,Ala Å ehiran,,,,,,,,,,,x
 c_philadelphia,sardinian,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,sicilian,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj_sicilian,,Philadelphean,,,,,,,,,,,x
 c_philadelphia,southern_italian,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj_southern_italian,,Philadelphean,,,,,,,,,,,x
-c_philadelphia,turkish,,Ala Šehir,,,,,,,,,,,x
-c_philadelphia,c_philadelphia_adj_turkish,,Ala Šehiran,,,,,,,,,,,x
-c_philadelphia,turkmen,,Ala Šehir,,,,,,,,,,,x
-c_philadelphia,c_philadelphia_adj_turkmen,,Ala Šehiran,,,,,,,,,,,x
+c_philadelphia,turkish,,Ala Å ehir,,,,,,,,,,,x
+c_philadelphia,c_philadelphia_adj_turkish,,Ala Å ehiran,,,,,,,,,,,x
+c_philadelphia,turkmen,,Ala Å ehir,,,,,,,,,,,x
+c_philadelphia,c_philadelphia_adj_turkmen,,Ala Å ehiran,,,,,,,,,,,x
 c_philadelphia,tuscan,,Philadelphea,,,,,,,,,,,x
 c_philadelphia,c_philadelphia_adj_tuscan,,Philadelphean,,,,,,,,,,,x
 c_philadelphia,venetian,,Philadelphea,,,,,,,,,,,x
@@ -824,17 +824,17 @@ b_philadelpheia,b_philadelpheia_adj,,,,,,,,,,,,,x
 b_philadelpheia,central_italian,,Philadelphea,,,,,,,,,,,x
 b_philadelpheia,corsican,,Philadelphea,,,,,,,,,,,x
 b_philadelpheia,dalmatian,,Philadelphea,,,,,,,,,,,x
-b_philadelpheia,frankish,,Philadelphée,,,,,,,,,,,x
+b_philadelpheia,frankish,,PhiladelphÃ©e,,,,,,,,,,,x
 b_philadelpheia,italian,,Philadelphea,,,,,,,,,,,x
 b_philadelpheia,ligurian,,Philadelphea,,,,,,,,,,,x
 b_philadelpheia,neapolitan,,Philadelphea,,,,,,,,,,,x
-b_philadelpheia,norman,,Philadelphée,,,,,,,,,,,x
-b_philadelpheia,oghuz,,Ala Šehir,,,,,,,,,,,x
+b_philadelpheia,norman,,PhiladelphÃ©e,,,,,,,,,,,x
+b_philadelpheia,oghuz,,Ala Å ehir,,,,,,,,,,,x
 b_philadelpheia,sardinian,,Philadelphea,,,,,,,,,,,x
 b_philadelpheia,sicilian,,Philadelphea,,,,,,,,,,,x
 b_philadelpheia,southern_italian,,Philadelphea,,,,,,,,,,,x
-b_philadelpheia,turkish,,Ala Šehir,,,,,,,,,,,x
-b_philadelpheia,turkmen,,Ala Šehir,,,,,,,,,,,x
+b_philadelpheia,turkish,,Ala Å ehir,,,,,,,,,,,x
+b_philadelpheia,turkmen,,Ala Å ehir,,,,,,,,,,,x
 b_philadelpheia,tuscan,,Philadelphea,,,,,,,,,,,x
 b_philadelpheia,venetian,,Philadelphea,,,,,,,,,,,x
 b_pyrgion,b_pyrgion,,Pyrgion,,,,,,,,,,,x
@@ -844,15 +844,15 @@ b_pyrgion,turkish,,Birgi,,,,,,,,,,,x
 b_pyrgion,turkmen,,Birgi,,,,,,,,,,,x
 b_thyraia,b_thyraia,,Thyraia,,,,,,,,,,,x
 b_thyraia,b_thyraia_adj,,,,,,,,,,,,,x
-b_thyraia,oghuz,,Tîra,,,,,,,,,,,x
-b_thyraia,turkish,,Tîra,,,,,,,,,,,x
-b_thyraia,turkmen,,Tîra,,,,,,,,,,,x
+b_thyraia,oghuz,,TÃ®ra,,,,,,,,,,,x
+b_thyraia,turkish,,TÃ®ra,,,,,,,,,,,x
+b_thyraia,turkmen,,TÃ®ra,,,,,,,,,,,x
 b_nysa,b_nysa,,Nysa,,,,,,,,,,,x
 b_nysa,b_nysa_adj,,,,,,,,,,,,,x
 b_nysa,oghuz,,Sultan Hisar,,,,,,,,,,,x
 b_nysa,turkish,,Sultan Hisar,,,,,,,,,,,x
 b_nysa,turkmen,,Sultan Hisar,,,,,,,,,,,x
-c_thyateira,PROV725,,Lydía,,,,,,,,,,,x
+c_thyateira,PROV725,,LydÃ­a,,,,,,,,,,,x
 c_thyateira,c_thyateira,,,,,,,,,,,,,x
 c_thyateira,c_thyateira_adj,,Lydian,,,,,,,,,,,x
 c_thyateira,oghuz,,Ak Hisar,,,,,,,,,,,x
@@ -878,44 +878,44 @@ b_kalamos,turkish,,Gelembe,,,,,,,,,,,x
 b_kalamos,turkmen,,Gelembe,,,,,,,,,,,x
 d_opsikon,d_opsikon,,Opsikion,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj,,Opsikian,,,,,,,,,,,x
-d_opsikon,andalusian_arabic,,Nîqîyah,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_andalusian_arabic,,Nîqîyan,,,,,,,,,,,x
-d_opsikon,bedouin_arabic,,Nîqîyah,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_bedouin_arabic,,Nîqîyan,,,,,,,,,,,x
+d_opsikon,andalusian_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_andalusian_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
+d_opsikon,bedouin_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_bedouin_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
 d_opsikon,central_italian,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_central_italian,,Nicean,,,,,,,,,,,x
 d_opsikon,corsican,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_corsican,,Nicean,,,,,,,,,,,x
 d_opsikon,dalmatian,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_dalmatian,,Nicean,,,,,,,,,,,x
-d_opsikon,egyptian_arabic,,Nîqîyah,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_egyptian_arabic,,Nîqîyan,,,,,,,,,,,x
-d_opsikon,frankish,,Nicée,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_frankish,,Nicéan,,,,,,,,,,,x
+d_opsikon,egyptian_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_egyptian_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
+d_opsikon,frankish,,NicÃ©e,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_frankish,,NicÃ©an,,,,,,,,,,,x
 d_opsikon,italian,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_italian,,Nicean,,,,,,,,,,,x
-d_opsikon,levantine_arabic,,Nîqîyah,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_levantine_arabic,,Nîqîyan,,,,,,,,,,,x
+d_opsikon,levantine_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_levantine_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
 d_opsikon,ligurian,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_ligurian,,Nicean,,,,,,,,,,,x
-d_opsikon,maghreb_arabic,,Nîqîyah,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_maghreb_arabic,,Nîqîyan,,,,,,,,,,,x
+d_opsikon,maghreb_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_maghreb_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
 d_opsikon,neapolitan,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_neapolitan,,Nicean,,,,,,,,,,,x
-d_opsikon,norman,,Nicée,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_norman,,Nicéan,,,,,,,,,,,x
-d_opsikon,oghuz,,Hüdavendigâr,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_oghuz,,Hüdavendigâran,,,,,,,,,,,x
+d_opsikon,norman,,NicÃ©e,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_norman,,NicÃ©an,,,,,,,,,,,x
+d_opsikon,oghuz,,HÃ¼davendigÃ¢r,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_oghuz,,HÃ¼davendigÃ¢ran,,,,,,,,,,,x
 d_opsikon,sardinian,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_sardinian,,Nicean,,,,,,,,,,,x
 d_opsikon,sicilian,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_sicilian,,Nicean,,,,,,,,,,,x
 d_opsikon,southern_italian,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_southern_italian,,Nicean,,,,,,,,,,,x
-d_opsikon,turkish,,Hüdavendigâr,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_turkish,,Hüdavendigâran,,,,,,,,,,,x
-d_opsikon,turkmen,,Hüdavendigâr,,,,,,,,,,,x
-d_opsikon,d_opsikon_adj_turkmen,,Hüdavendigâran,,,,,,,,,,,x
+d_opsikon,turkish,,HÃ¼davendigÃ¢r,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_turkish,,HÃ¼davendigÃ¢ran,,,,,,,,,,,x
+d_opsikon,turkmen,,HÃ¼davendigÃ¢r,,,,,,,,,,,x
+d_opsikon,d_opsikon_adj_turkmen,,HÃ¼davendigÃ¢ran,,,,,,,,,,,x
 d_opsikon,tuscan,,Nicea,,,,,,,,,,,x
 d_opsikon,d_opsikon_adj_tuscan,,Nicean,,,,,,,,,,,x
 d_opsikon,venetian,,Nicea,,,,,,,,,,,x
@@ -923,32 +923,32 @@ d_opsikon,d_opsikon_adj_venetian,,Nicean,,,,,,,,,,,x
 c_nikaea,PROV750,,Nikaia,,,,,,,,,,,x
 c_nikaea,c_nikaea,,,,,,,,,,,,,x
 c_nikaea,c_nikaea_adj,,Nikaean,,,,,,,,,,,x
-c_nikaea,andalusian_arabic,,Nîqîyah,,,,,,,,,,,x
-c_nikaea,c_nikaea_adj_andalusian_arabic,,Nîqîyan,,,,,,,,,,,x
-c_nikaea,bedouin_arabic,,Nîqîyah,,,,,,,,,,,x
-c_nikaea,c_nikaea_adj_bedouin_arabic,,Nîqîyan,,,,,,,,,,,x
+c_nikaea,andalusian_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+c_nikaea,c_nikaea_adj_andalusian_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
+c_nikaea,bedouin_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+c_nikaea,c_nikaea_adj_bedouin_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
 c_nikaea,central_italian,,Nicea,,,,,,,,,,,x
 c_nikaea,c_nikaea_adj_central_italian,,Nicean,,,,,,,,,,,x
 c_nikaea,corsican,,Nicea,,,,,,,,,,,x
 c_nikaea,c_nikaea_adj_corsican,,Nicean,,,,,,,,,,,x
 c_nikaea,dalmatian,,Nicea,,,,,,,,,,,x
 c_nikaea,c_nikaea_adj_dalmatian,,Nicean,,,,,,,,,,,x
-c_nikaea,egyptian_arabic,,Nîqîyah,,,,,,,,,,,x
-c_nikaea,c_nikaea_adj_egyptian_arabic,,Nîqîyan,,,,,,,,,,,x
-c_nikaea,frankish,,Nicée,,,,,,,,,,,x
-c_nikaea,c_nikaea_adj_frankish,,Nicéan,,,,,,,,,,,x
+c_nikaea,egyptian_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+c_nikaea,c_nikaea_adj_egyptian_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
+c_nikaea,frankish,,NicÃ©e,,,,,,,,,,,x
+c_nikaea,c_nikaea_adj_frankish,,NicÃ©an,,,,,,,,,,,x
 c_nikaea,italian,,Nicea,,,,,,,,,,,x
 c_nikaea,c_nikaea_adj_italian,,Nicean,,,,,,,,,,,x
-c_nikaea,levantine_arabic,,Nîqîyah,,,,,,,,,,,x
-c_nikaea,c_nikaea_adj_levantine_arabic,,Nîqîyan,,,,,,,,,,,x
+c_nikaea,levantine_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+c_nikaea,c_nikaea_adj_levantine_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
 c_nikaea,ligurian,,Nicea,,,,,,,,,,,x
 c_nikaea,c_nikaea_adj_ligurian,,Nicean,,,,,,,,,,,x
-c_nikaea,maghreb_arabic,,Nîqîyah,,,,,,,,,,,x
-c_nikaea,c_nikaea_adj_maghreb_arabic,,Nîqîyan,,,,,,,,,,,x
+c_nikaea,maghreb_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+c_nikaea,c_nikaea_adj_maghreb_arabic,,NÃ®qÃ®yan,,,,,,,,,,,x
 c_nikaea,neapolitan,,Nicea,,,,,,,,,,,x
 c_nikaea,c_nikaea_adj_neapolitan,,Nicean,,,,,,,,,,,x
-c_nikaea,norman,,Nicée,,,,,,,,,,,x
-c_nikaea,c_nikaea_adj_norman,,Nicéan,,,,,,,,,,,x
+c_nikaea,norman,,NicÃ©e,,,,,,,,,,,x
+c_nikaea,c_nikaea_adj_norman,,NicÃ©an,,,,,,,,,,,x
 c_nikaea,oghuz,,Iznik,,,,,,,,,,,x
 c_nikaea,c_nikaea_adj_oghuz,,Iznikian,,,,,,,,,,,x
 c_nikaea,sardinian,,Nicea,,,,,,,,,,,x
@@ -972,19 +972,19 @@ b_malagina,turkish,,Akhisar-i Geviye,,,,,,,,,,,x
 b_malagina,turkmen,,Akhisar-i Geviye,,,,,,,,,,,x
 b_nikaia,b_nikaia,,Nikaia,,,,,,,,,,,x
 b_nikaia,b_nikaia_adj,,,,,,,,,,,,,x
-b_nikaia,andalusian_arabic,,Nîqîyah,,,,,,,,,,,x
-b_nikaia,bedouin_arabic,,Nîqîyah,,,,,,,,,,,x
+b_nikaia,andalusian_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+b_nikaia,bedouin_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
 b_nikaia,central_italian,,Nicea,,,,,,,,,,,x
 b_nikaia,corsican,,Nicea,,,,,,,,,,,x
 b_nikaia,dalmatian,,Nicea,,,,,,,,,,,x
-b_nikaia,egyptian_arabic,,Nîqîyah,,,,,,,,,,,x
-b_nikaia,frankish,,Nicée,,,,,,,,,,,x
+b_nikaia,egyptian_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
+b_nikaia,frankish,,NicÃ©e,,,,,,,,,,,x
 b_nikaia,italian,,Nicea,,,,,,,,,,,x
-b_nikaia,levantine_arabic,,Nîqîyah,,,,,,,,,,,x
+b_nikaia,levantine_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
 b_nikaia,ligurian,,Nicea,,,,,,,,,,,x
-b_nikaia,maghreb_arabic,,Nîqîyah,,,,,,,,,,,x
+b_nikaia,maghreb_arabic,,NÃ®qÃ®yah,,,,,,,,,,,x
 b_nikaia,neapolitan,,Nicea,,,,,,,,,,,x
-b_nikaia,norman,,Nicée,,,,,,,,,,,x
+b_nikaia,norman,,NicÃ©e,,,,,,,,,,,x
 b_nikaia,oghuz,,Iznik,,,,,,,,,,,x
 b_nikaia,sardinian,,Nicea,,,,,,,,,,,x
 b_nikaia,sicilian,,Nicea,,,,,,,,,,,x
@@ -1015,9 +1015,9 @@ b_leukai,turkish,,Lefke,,,,,,,,,,,x
 b_leukai,turkmen,,Lefke,,,,,,,,,,,x
 b_angelokomis,b_angelokomis,,Angelokomis,,,,,,,,,,,x
 b_angelokomis,b_angelokomis_adj,,,,,,,,,,,,,x
-b_angelokomis,oghuz,,Eyinegöl,,,,,,,,,,,x
-b_angelokomis,turkish,,Eyinegöl,,,,,,,,,,,x
-b_angelokomis,turkmen,,Eyinegöl,,,,,,,,,,,x
+b_angelokomis,oghuz,,EyinegÃ¶l,,,,,,,,,,,x
+b_angelokomis,turkish,,EyinegÃ¶l,,,,,,,,,,,x
+b_angelokomis,turkmen,,EyinegÃ¶l,,,,,,,,,,,x
 c_prusa,PROV742,,Prousa,,,,,,,,,,,x
 c_prusa,c_prusa,,,,,,,,,,,,,x
 c_prusa,c_prusa_adj,,Prousan,,,,,,,,,,,x
@@ -1078,19 +1078,19 @@ b_prusa,tuscan,,Prusa,,,,,,,,,,,x
 b_prusa,venetian,,Prusa,,,,,,,,,,,x
 b_miletopolis,b_miletopolis,,Miletoupolis,,,,,,,,,,,x
 b_miletopolis,b_miletopolis_adj,,,,,,,,,,,,,x
-b_miletopolis,oghuz,,Mihaliç,,,,,,,,,,,x
-b_miletopolis,turkish,,Mihaliç,,,,,,,,,,,x
-b_miletopolis,turkmen,,Mihaliç,,,,,,,,,,,x
+b_miletopolis,oghuz,,MihaliÃ§,,,,,,,,,,,x
+b_miletopolis,turkish,,MihaliÃ§,,,,,,,,,,,x
+b_miletopolis,turkmen,,MihaliÃ§,,,,,,,,,,,x
 b_apamea,b_apamea,,Apameia,,,,,,,,,,,x
 b_apamea,b_apamea_adj,,,,,,,,,,,,,x
 b_apamea,central_italian,,Apamea,,,,,,,,,,,x
 b_apamea,corsican,,Apamea,,,,,,,,,,,x
 b_apamea,dalmatian,,Apamea,,,,,,,,,,,x
-b_apamea,frankish,,Apamée,,,,,,,,,,,x
+b_apamea,frankish,,ApamÃ©e,,,,,,,,,,,x
 b_apamea,italian,,Apamea,,,,,,,,,,,x
 b_apamea,ligurian,,Apamea,,,,,,,,,,,x
 b_apamea,neapolitan,,Apamea,,,,,,,,,,,x
-b_apamea,norman,,Apamée,,,,,,,,,,,x
+b_apamea,norman,,ApamÃ©e,,,,,,,,,,,x
 b_apamea,oghuz,,Mundanya,,,,,,,,,,,x
 b_apamea,sardinian,,Apamea,,,,,,,,,,,x
 b_apamea,sicilian,,Apamea,,,,,,,,,,,x
@@ -1109,7 +1109,7 @@ b_adrianoi,b_adrianoi_adj,,,,,,,,,,,,,x
 b_adrianoi,oghuz,,Adirnas,,,,,,,,,,,x
 b_adrianoi,turkish,,Adirnas,,,,,,,,,,,x
 b_adrianoi,turkmen,,Adirnas,,,,,,,,,,,x
-c_akhyraous,PROV1332,,Mysía,,,,,,,,,,,x
+c_akhyraous,PROV1332,,MysÃ­a,,,,,,,,,,,x
 c_akhyraous,c_akhyraous,,,,,,,,,,,,,x
 c_akhyraous,c_akhyraous_adj,,Mysian,,,,,,,,,,,x
 c_akhyraous,frankish,,Mysie,,,,,,,,,,,x
@@ -1124,9 +1124,9 @@ c_akhyraous,turkmen,,Karasi,,,,,,,,,,,x
 c_akhyraous,c_akhyraous_adj_turkmen,,Karasian,,,,,,,,,,,x
 b_poimanenos,b_poimanenos,,Poimanenos,,,,,,,,,,,x
 b_poimanenos,b_poimanenos_adj,,,,,,,,,,,,,x
-b_poimanenos,oghuz,,Tatarköy,,,,,,,,,,,x
-b_poimanenos,turkish,,Tatarköy,,,,,,,,,,,x
-b_poimanenos,turkmen,,Tatarköy,,,,,,,,,,,x
+b_poimanenos,oghuz,,TatarkÃ¶y,,,,,,,,,,,x
+b_poimanenos,turkish,,TatarkÃ¶y,,,,,,,,,,,x
+b_poimanenos,turkmen,,TatarkÃ¶y,,,,,,,,,,,x
 b_akhyraous,b_akhyraous,,Akhyraous,,,,,,,,,,,x
 b_akhyraous,b_akhyraous_adj,,,,,,,,,,,,,x
 b_akhyraous,oghuz,,Balikasri,,,,,,,,,,,x
@@ -1147,23 +1147,23 @@ b_pegadia,italian,,Pegadea,,,,,,,,,,,x
 b_pegadia,ligurian,,Pegadea,,,,,,,,,,,x
 b_pegadia,neapolitan,,Pegadea,,,,,,,,,,,x
 b_pegadia,norman,,Pegadie,,,,,,,,,,,x
-b_pegadia,oghuz,,Bigadiç,,,,,,,,,,,x
+b_pegadia,oghuz,,BigadiÃ§,,,,,,,,,,,x
 b_pegadia,sardinian,,Pegadea,,,,,,,,,,,x
 b_pegadia,sicilian,,Pegadea,,,,,,,,,,,x
 b_pegadia,southern_italian,,Pegadea,,,,,,,,,,,x
-b_pegadia,turkish,,Bigadiç,,,,,,,,,,,x
-b_pegadia,turkmen,,Bigadiç,,,,,,,,,,,x
+b_pegadia,turkish,,BigadiÃ§,,,,,,,,,,,x
+b_pegadia,turkmen,,BigadiÃ§,,,,,,,,,,,x
 b_pegadia,tuscan,,Pegadea,,,,,,,,,,,x
 b_pegadia,venetian,,Pegadea,,,,,,,,,,,x
-c_sangarios,PROV956,,Sangários,,,,,,,,,,,x
+c_sangarios,PROV956,,SangÃ¡rios,,,,,,,,,,,x
 c_sangarios,c_sangarios,,,,,,,,,,,,,x
 c_sangarios,c_sangarios_adj,,Sangarian,,,,,,,,,,,x
-c_sangarios,oghuz,,Sögüt,,,,,,,,,,,x
-c_sangarios,c_sangarios_adj_oghuz,,Sögütian,,,,,,,,,,,x
-c_sangarios,turkish,,Sögüt,,,,,,,,,,,x
-c_sangarios,c_sangarios_adj_turkish,,Sögütian,,,,,,,,,,,x
-c_sangarios,turkmen,,Sögüt,,,,,,,,,,,x
-c_sangarios,c_sangarios_adj_turkmen,,Sögütian,,,,,,,,,,,x
+c_sangarios,oghuz,,SÃ¶gÃ¼t,,,,,,,,,,,x
+c_sangarios,c_sangarios_adj_oghuz,,SÃ¶gÃ¼tian,,,,,,,,,,,x
+c_sangarios,turkish,,SÃ¶gÃ¼t,,,,,,,,,,,x
+c_sangarios,c_sangarios_adj_turkish,,SÃ¶gÃ¼tian,,,,,,,,,,,x
+c_sangarios,turkmen,,SÃ¶gÃ¼t,,,,,,,,,,,x
+c_sangarios,c_sangarios_adj_turkmen,,SÃ¶gÃ¼tian,,,,,,,,,,,x
 b_kibaia,b_kibaia,,Kibaia,,,,,,,,,,,x
 b_kibaia,b_kibaia_adj,,,,,,,,,,,,,x
 b_kibaia,oghuz,,Geviye,,,,,,,,,,,x
@@ -1171,9 +1171,9 @@ b_kibaia,turkish,,Geviye,,,,,,,,,,,x
 b_kibaia,turkmen,,Geviye,,,,,,,,,,,x
 b_thebasion,b_thebasion,,Thebasion,,,,,,,,,,,x
 b_thebasion,b_thebasion_adj,,,,,,,,,,,,,x
-b_thebasion,oghuz,,Sögüt,,,,,,,,,,,x
-b_thebasion,turkish,,Sögüt,,,,,,,,,,,x
-b_thebasion,turkmen,,Sögüt,,,,,,,,,,,x
+b_thebasion,oghuz,,SÃ¶gÃ¼t,,,,,,,,,,,x
+b_thebasion,turkish,,SÃ¶gÃ¼t,,,,,,,,,,,x
+b_thebasion,turkmen,,SÃ¶gÃ¼t,,,,,,,,,,,x
 b_bilekomis,b_bilekomis,,Bilekomis,,,,,,,,,,,x
 b_bilekomis,b_bilekomis_adj,,,,,,,,,,,,,x
 b_bilekomis,oghuz,,Bilecik,,,,,,,,,,,x
@@ -1194,8 +1194,8 @@ c_dorylaion,dalmatian,,Dorylaeum,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_dalmatian,,Dorylean,,,,,,,,,,,x
 c_dorylaion,egyptian_arabic,,Daruliyyah,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_egyptian_arabic,,Daruliyyan,,,,,,,,,,,x
-c_dorylaion,frankish,,Dorylée,,,,,,,,,,,x
-c_dorylaion,c_dorylaion_adj_frankish,,Doryléan,,,,,,,,,,,x
+c_dorylaion,frankish,,DorylÃ©e,,,,,,,,,,,x
+c_dorylaion,c_dorylaion_adj_frankish,,DorylÃ©an,,,,,,,,,,,x
 c_dorylaion,italian,,Dorylaeum,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_italian,,Dorylean,,,,,,,,,,,x
 c_dorylaion,levantine_arabic,,Daruliyyah,,,,,,,,,,,x
@@ -1206,20 +1206,20 @@ c_dorylaion,maghreb_arabic,,Daruliyyah,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_maghreb_arabic,,Daruliyyan,,,,,,,,,,,x
 c_dorylaion,neapolitan,,Dorylaeum,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_neapolitan,,Dorylean,,,,,,,,,,,x
-c_dorylaion,norman,,Dorylée,,,,,,,,,,,x
-c_dorylaion,c_dorylaion_adj_norman,,Doryléan,,,,,,,,,,,x
-c_dorylaion,oghuz,,Kütahya,,,,,,,,,,,x
-c_dorylaion,c_dorylaion_adj_oghuz,,Kütahiyan,,,,,,,,,,,x
+c_dorylaion,norman,,DorylÃ©e,,,,,,,,,,,x
+c_dorylaion,c_dorylaion_adj_norman,,DorylÃ©an,,,,,,,,,,,x
+c_dorylaion,oghuz,,KÃ¼tahya,,,,,,,,,,,x
+c_dorylaion,c_dorylaion_adj_oghuz,,KÃ¼tahiyan,,,,,,,,,,,x
 c_dorylaion,sardinian,,Dorylaeum,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_sardinian,,Dorylean,,,,,,,,,,,x
 c_dorylaion,sicilian,,Dorylaeum,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_sicilian,,Dorylean,,,,,,,,,,,x
 c_dorylaion,southern_italian,,Dorylaeum,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_southern_italian,,Dorylean,,,,,,,,,,,x
-c_dorylaion,turkish,,Kütahya,,,,,,,,,,,x
-c_dorylaion,c_dorylaion_adj_turkish,,Kütahiyan,,,,,,,,,,,x
-c_dorylaion,turkmen,,Kütahya,,,,,,,,,,,x
-c_dorylaion,c_dorylaion_adj_turkmen,,Kütahiyan,,,,,,,,,,,x
+c_dorylaion,turkish,,KÃ¼tahya,,,,,,,,,,,x
+c_dorylaion,c_dorylaion_adj_turkish,,KÃ¼tahiyan,,,,,,,,,,,x
+c_dorylaion,turkmen,,KÃ¼tahya,,,,,,,,,,,x
+c_dorylaion,c_dorylaion_adj_turkmen,,KÃ¼tahiyan,,,,,,,,,,,x
 c_dorylaion,tuscan,,Dorylaeum,,,,,,,,,,,x
 c_dorylaion,c_dorylaion_adj_tuscan,,Dorylean,,,,,,,,,,,x
 c_dorylaion,venetian,,Dorylaeum,,,,,,,,,,,x
@@ -1232,36 +1232,36 @@ b_dorylaion,central_italian,,Dorylaeum,,,,,,,,,,,x
 b_dorylaion,corsican,,Dorylaeum,,,,,,,,,,,x
 b_dorylaion,dalmatian,,Dorylaeum,,,,,,,,,,,x
 b_dorylaion,egyptian_arabic,,Daruliyyah,,,,,,,,,,,x
-b_dorylaion,frankish,,Dorylée,,,,,,,,,,,x
+b_dorylaion,frankish,,DorylÃ©e,,,,,,,,,,,x
 b_dorylaion,italian,,Dorylaeum,,,,,,,,,,,x
 b_dorylaion,levantine_arabic,,Daruliyyah,,,,,,,,,,,x
 b_dorylaion,ligurian,,Dorylaeum,,,,,,,,,,,x
 b_dorylaion,maghreb_arabic,,Daruliyyah,,,,,,,,,,,x
 b_dorylaion,neapolitan,,Dorylaeum,,,,,,,,,,,x
-b_dorylaion,norman,,Dorylée,,,,,,,,,,,x
-b_dorylaion,oghuz,,Eski Šehir,,,,,,,,,,,x
+b_dorylaion,norman,,DorylÃ©e,,,,,,,,,,,x
+b_dorylaion,oghuz,,Eski Å ehir,,,,,,,,,,,x
 b_dorylaion,sardinian,,Dorylaeum,,,,,,,,,,,x
 b_dorylaion,sicilian,,Dorylaeum,,,,,,,,,,,x
 b_dorylaion,southern_italian,,Dorylaeum,,,,,,,,,,,x
-b_dorylaion,turkish,,Eski Šehir,,,,,,,,,,,x
-b_dorylaion,turkmen,,Eski Šehir,,,,,,,,,,,x
+b_dorylaion,turkish,,Eski Å ehir,,,,,,,,,,,x
+b_dorylaion,turkmen,,Eski Å ehir,,,,,,,,,,,x
 b_dorylaion,tuscan,,Dorylaeum,,,,,,,,,,,x
 b_dorylaion,venetian,,Dorylaeum,,,,,,,,,,,x
 b_kotyaion,b_kotyaion,,Kotyaion,,,,,,,,,,,x
 b_kotyaion,b_kotyaion_adj,,,,,,,,,,,,,x
-b_kotyaion,oghuz,,Kütahya,,,,,,,,,,,x
-b_kotyaion,turkish,,Kütahya,,,,,,,,,,,x
-b_kotyaion,turkmen,,Kütahya,,,,,,,,,,,x
+b_kotyaion,oghuz,,KÃ¼tahya,,,,,,,,,,,x
+b_kotyaion,turkish,,KÃ¼tahya,,,,,,,,,,,x
+b_kotyaion,turkmen,,KÃ¼tahya,,,,,,,,,,,x
 b_nakoleia,b_nakoleia,,Nakoleia,,,,,,,,,,,x
 b_nakoleia,b_nakoleia_adj,,,,,,,,,,,,,x
 b_nakoleia,central_italian,,Nacolea,,,,,,,,,,,x
 b_nakoleia,corsican,,Nacolea,,,,,,,,,,,x
 b_nakoleia,dalmatian,,Nacolea,,,,,,,,,,,x
-b_nakoleia,frankish,,Nacolée,,,,,,,,,,,x
+b_nakoleia,frankish,,NacolÃ©e,,,,,,,,,,,x
 b_nakoleia,italian,,Nacolea,,,,,,,,,,,x
 b_nakoleia,ligurian,,Nacolea,,,,,,,,,,,x
 b_nakoleia,neapolitan,,Nacolea,,,,,,,,,,,x
-b_nakoleia,norman,,Nacolée,,,,,,,,,,,x
+b_nakoleia,norman,,NacolÃ©e,,,,,,,,,,,x
 b_nakoleia,oghuz,,Seyyid Gazi,,,,,,,,,,,x
 b_nakoleia,sardinian,,Nacolea,,,,,,,,,,,x
 b_nakoleia,sicilian,,Nacolea,,,,,,,,,,,x
@@ -1272,34 +1272,34 @@ b_nakoleia,tuscan,,Nacolea,,,,,,,,,,,x
 b_nakoleia,venetian,,Nacolea,,,,,,,,,,,x
 b_midaion,b_midaion,,Midaion,,,,,,,,,,,x
 b_midaion,b_midaion_adj,,,,,,,,,,,,,x
-d_optimatoi,d_optimatoi,,Optimàton,,,,,,,,,,,x
+d_optimatoi,d_optimatoi,,OptimÃ ton,,,,,,,,,,,x
 d_optimatoi,d_optimatoi_adj,,Optimatian,,,,,,,,,,,x
-d_optimatoi,andalusian_arabic,,Niqmûdiyah,,,,,,,,,,,x
-d_optimatoi,d_optimatoi_adj_andalusian_arabic,,Niqmûdiyan,,,,,,,,,,,x
-d_optimatoi,bedouin_arabic,,Niqmûdiyah,,,,,,,,,,,x
-d_optimatoi,d_optimatoi_adj_bedouin_arabic,,Niqmûdiyan,,,,,,,,,,,x
+d_optimatoi,andalusian_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+d_optimatoi,d_optimatoi_adj_andalusian_arabic,,NiqmÃ»diyan,,,,,,,,,,,x
+d_optimatoi,bedouin_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+d_optimatoi,d_optimatoi_adj_bedouin_arabic,,NiqmÃ»diyan,,,,,,,,,,,x
 d_optimatoi,central_italian,,Nicomedia,,,,,,,,,,,x
 d_optimatoi,d_optimatoi_adj_central_italian,,Nicomedian,,,,,,,,,,,x
 d_optimatoi,corsican,,Nicomedia,,,,,,,,,,,x
 d_optimatoi,d_optimatoi_adj_corsican,,Nicomedian,,,,,,,,,,,x
 d_optimatoi,dalmatian,,Nicomedia,,,,,,,,,,,x
 d_optimatoi,d_optimatoi_adj_dalmatian,,Nicomedian,,,,,,,,,,,x
-d_optimatoi,egyptian_arabic,,Niqmûdiyah,,,,,,,,,,,x
-d_optimatoi,d_optimatoi_adj_egyptian_arabic,,Niqmûdiyan,,,,,,,,,,,x
-d_optimatoi,frankish,,Nicomédie,,,,,,,,,,,x
-d_optimatoi,d_optimatoi_adj_frankish,,Nicomédian,,,,,,,,,,,x
+d_optimatoi,egyptian_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+d_optimatoi,d_optimatoi_adj_egyptian_arabic,,NiqmÃ»diyan,,,,,,,,,,,x
+d_optimatoi,frankish,,NicomÃ©die,,,,,,,,,,,x
+d_optimatoi,d_optimatoi_adj_frankish,,NicomÃ©dian,,,,,,,,,,,x
 d_optimatoi,italian,,Nicomedia,,,,,,,,,,,x
 d_optimatoi,d_optimatoi_adj_italian,,Nicomedian,,,,,,,,,,,x
-d_optimatoi,levantine_arabic,,Niqmûdiyah,,,,,,,,,,,x
-d_optimatoi,d_optimatoi_adj_levantine_arabic,,Niqmûdiyan,,,,,,,,,,,x
+d_optimatoi,levantine_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+d_optimatoi,d_optimatoi_adj_levantine_arabic,,NiqmÃ»diyan,,,,,,,,,,,x
 d_optimatoi,ligurian,,Nicomedia,,,,,,,,,,,x
 d_optimatoi,d_optimatoi_adj_ligurian,,Nicomedian,,,,,,,,,,,x
-d_optimatoi,maghreb_arabic,,Niqmûdiyah,,,,,,,,,,,x
-d_optimatoi,d_optimatoi_adj_maghreb_arabic,,Niqmûdiyan,,,,,,,,,,,x
+d_optimatoi,maghreb_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+d_optimatoi,d_optimatoi_adj_maghreb_arabic,,NiqmÃ»diyan,,,,,,,,,,,x
 d_optimatoi,neapolitan,,Nicomedia,,,,,,,,,,,x
 d_optimatoi,d_optimatoi_adj_neapolitan,,Nicomedian,,,,,,,,,,,x
-d_optimatoi,norman,,Nicomédie,,,,,,,,,,,x
-d_optimatoi,d_optimatoi_adj_norman,,Nicomédian,,,,,,,,,,,x
+d_optimatoi,norman,,NicomÃ©die,,,,,,,,,,,x
+d_optimatoi,d_optimatoi_adj_norman,,NicomÃ©dian,,,,,,,,,,,x
 d_optimatoi,oghuz,,Koca-eli,,,,,,,,,,,x
 d_optimatoi,d_optimatoi_adj_oghuz,,Koca-elian,,,,,,,,,,,x
 d_optimatoi,sardinian,,Nicomedia,,,,,,,,,,,x
@@ -1319,19 +1319,19 @@ d_optimatoi,d_optimatoi_adj_venetian,,Nicomedian,,,,,,,,,,,x
 c_nikomedeia,PROV741,,Nikomedeia,,,,,,,,,,,x
 c_nikomedeia,c_nikomedeia,,,,,,,,,,,,,x
 c_nikomedeia,c_nikomedeia_adj,,Nikomedeian,,,,,,,,,,,x
-c_nikomedeia,andalusian_arabic,,Niqmûdiyah,,,,,,,,,,,x
-c_nikomedeia,bedouin_arabic,,Niqmûdiyah,,,,,,,,,,,x
+c_nikomedeia,andalusian_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+c_nikomedeia,bedouin_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
 c_nikomedeia,central_italian,,Nicomedia,,,,,,,,,,,x
 c_nikomedeia,corsican,,Nicomedia,,,,,,,,,,,x
 c_nikomedeia,dalmatian,,Nicomedia,,,,,,,,,,,x
-c_nikomedeia,egyptian_arabic,,Niqmûdiyah,,,,,,,,,,,x
-c_nikomedeia,frankish,,Nicomédie,,,,,,,,,,,x
+c_nikomedeia,egyptian_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+c_nikomedeia,frankish,,NicomÃ©die,,,,,,,,,,,x
 c_nikomedeia,italian,,Nicomedia,,,,,,,,,,,x
-c_nikomedeia,levantine_arabic,,Niqmûdiyah,,,,,,,,,,,x
+c_nikomedeia,levantine_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
 c_nikomedeia,ligurian,,Nicomedia,,,,,,,,,,,x
-c_nikomedeia,maghreb_arabic,,Niqmûdiyah,,,,,,,,,,,x
+c_nikomedeia,maghreb_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
 c_nikomedeia,neapolitan,,Nicomedia,,,,,,,,,,,x
-c_nikomedeia,norman,,Nicomédie,,,,,,,,,,,x
+c_nikomedeia,norman,,NicomÃ©die,,,,,,,,,,,x
 c_nikomedeia,oghuz,,Iznikmid,,,,,,,,,,,x
 c_nikomedeia,sardinian,,Nicomedia,,,,,,,,,,,x
 c_nikomedeia,sicilian,,Nicomedia,,,,,,,,,,,x
@@ -1342,19 +1342,19 @@ c_nikomedeia,tuscan,,Nicomedia,,,,,,,,,,,x
 c_nikomedeia,venetian,,Nicomedia,,,,,,,,,,,x
 b_nikomedeia,b_nikomedeia,,Nikomedeia,,,,,,,,,,,x
 b_nikomedeia,b_nikomedeia_adj,,,,,,,,,,,,,x
-b_nikomedeia,andalusian_arabic,,Niqmûdiyah,,,,,,,,,,,x
-b_nikomedeia,bedouin_arabic,,Niqmûdiyah,,,,,,,,,,,x
+b_nikomedeia,andalusian_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+b_nikomedeia,bedouin_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
 b_nikomedeia,central_italian,,Nicomedia,,,,,,,,,,,x
 b_nikomedeia,corsican,,Nicomedia,,,,,,,,,,,x
 b_nikomedeia,dalmatian,,Nicomedia,,,,,,,,,,,x
-b_nikomedeia,egyptian_arabic,,Niqmûdiyah,,,,,,,,,,,x
-b_nikomedeia,frankish,,Nicomédie,,,,,,,,,,,x
+b_nikomedeia,egyptian_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
+b_nikomedeia,frankish,,NicomÃ©die,,,,,,,,,,,x
 b_nikomedeia,italian,,Nicomedia,,,,,,,,,,,x
-b_nikomedeia,levantine_arabic,,Niqmûdiyah,,,,,,,,,,,x
+b_nikomedeia,levantine_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
 b_nikomedeia,ligurian,,Nicomedia,,,,,,,,,,,x
-b_nikomedeia,maghreb_arabic,,Niqmûdiyah,,,,,,,,,,,x
+b_nikomedeia,maghreb_arabic,,NiqmÃ»diyah,,,,,,,,,,,x
 b_nikomedeia,neapolitan,,Nicomedia,,,,,,,,,,,x
-b_nikomedeia,norman,,Nicomédie,,,,,,,,,,,x
+b_nikomedeia,norman,,NicomÃ©die,,,,,,,,,,,x
 b_nikomedeia,oghuz,,Iznikmid,,,,,,,,,,,x
 b_nikomedeia,sardinian,,Nicomedia,,,,,,,,,,,x
 b_nikomedeia,sicilian,,Nicomedia,,,,,,,,,,,x
@@ -1365,9 +1365,9 @@ b_nikomedeia,tuscan,,Nicomedia,,,,,,,,,,,x
 b_nikomedeia,venetian,,Nicomedia,,,,,,,,,,,x
 b_praenetos,b_praenetos,,Prainetos,,,,,,,,,,,x
 b_praenetos,b_praenetos_adj,,,,,,,,,,,,,x
-b_praenetos,oghuz,,Karamürsel,,,,,,,,,,,x
-b_praenetos,turkish,,Karamürsel,,,,,,,,,,,x
-b_praenetos,turkmen,,Karamürsel,,,,,,,,,,,x
+b_praenetos,oghuz,,KaramÃ¼rsel,,,,,,,,,,,x
+b_praenetos,turkish,,KaramÃ¼rsel,,,,,,,,,,,x
+b_praenetos,turkmen,,KaramÃ¼rsel,,,,,,,,,,,x
 b_daphnousia,b_daphnousia,,Daphnousia,,,,,,,,,,,x
 b_daphnousia,b_daphnousia_adj,,,,,,,,,,,,,x
 b_daphnousia,frankish,,Daphnusie,,,,,,,,,,,x
@@ -1404,18 +1404,18 @@ c_chrysopolis,neapolitan,,Crisopoli,,,,,,,,,,,x
 c_chrysopolis,c_chrysopolis_adj_neapolitan,,Crisopolitan,,,,,,,,,,,x
 c_chrysopolis,norman,,Chrysopolis,,,,,,,,,,,x
 c_chrysopolis,c_chrysopolis_adj_norman,,Chrysopolitan,,,,,,,,,,,x
-c_chrysopolis,oghuz,,Üsküdar,,,,,,,,,,,x
-c_chrysopolis,c_chrysopolis_adj_oghuz,,Üsküdarian,,,,,,,,,,,x
+c_chrysopolis,oghuz,,ÃœskÃ¼dar,,,,,,,,,,,x
+c_chrysopolis,c_chrysopolis_adj_oghuz,,ÃœskÃ¼darian,,,,,,,,,,,x
 c_chrysopolis,sardinian,,Crisopoli,,,,,,,,,,,x
 c_chrysopolis,c_chrysopolis_adj_sardinian,,Crisopolitan,,,,,,,,,,,x
 c_chrysopolis,sicilian,,Crisopoli,,,,,,,,,,,x
 c_chrysopolis,c_chrysopolis_adj_sicilian,,Crisopolitan,,,,,,,,,,,x
 c_chrysopolis,southern_italian,,Crisopoli,,,,,,,,,,,x
 c_chrysopolis,c_chrysopolis_adj_southern_italian,,Crisopolitan,,,,,,,,,,,x
-c_chrysopolis,turkish,,Üsküdar,,,,,,,,,,,x
-c_chrysopolis,c_chrysopolis_adj_turkish,,Üsküdarian,,,,,,,,,,,x
-c_chrysopolis,turkmen,,Üsküdar,,,,,,,,,,,x
-c_chrysopolis,c_chrysopolis_adj_turkmen,,Üsküdarian,,,,,,,,,,,x
+c_chrysopolis,turkish,,ÃœskÃ¼dar,,,,,,,,,,,x
+c_chrysopolis,c_chrysopolis_adj_turkish,,ÃœskÃ¼darian,,,,,,,,,,,x
+c_chrysopolis,turkmen,,ÃœskÃ¼dar,,,,,,,,,,,x
+c_chrysopolis,c_chrysopolis_adj_turkmen,,ÃœskÃ¼darian,,,,,,,,,,,x
 c_chrysopolis,tuscan,,Crisopoli,,,,,,,,,,,x
 c_chrysopolis,c_chrysopolis_adj_tuscan,,Crisopolitan,,,,,,,,,,,x
 c_chrysopolis,venetian,,Crisopoli,,,,,,,,,,,x
@@ -1430,12 +1430,12 @@ b_chrysopolis,italian,,Crisopoli,,,,,,,,,,,x
 b_chrysopolis,ligurian,,Crisopoli,,,,,,,,,,,x
 b_chrysopolis,neapolitan,,Crisopoli,,,,,,,,,,,x
 b_chrysopolis,norman,,Chrysopolis,,,,,,,,,,,x
-b_chrysopolis,oghuz,,Üsküdar,,,,,,,,,,,x
+b_chrysopolis,oghuz,,ÃœskÃ¼dar,,,,,,,,,,,x
 b_chrysopolis,sardinian,,Crisopoli,,,,,,,,,,,x
 b_chrysopolis,sicilian,,Crisopoli,,,,,,,,,,,x
 b_chrysopolis,southern_italian,,Crisopoli,,,,,,,,,,,x
-b_chrysopolis,turkish,,Üsküdar,,,,,,,,,,,x
-b_chrysopolis,turkmen,,Üsküdar,,,,,,,,,,,x
+b_chrysopolis,turkish,,ÃœskÃ¼dar,,,,,,,,,,,x
+b_chrysopolis,turkmen,,ÃœskÃ¼dar,,,,,,,,,,,x
 b_chrysopolis,tuscan,,Crisopoli,,,,,,,,,,,x
 b_chrysopolis,venetian,,Crisopoli,,,,,,,,,,,x
 b_chalkedon,b_chalkedon,,Chalkedon,,,,,,,,,,,x
@@ -1443,17 +1443,17 @@ b_chalkedon,b_chalkedon_adj,,,,,,,,,,,,,x
 b_chalkedon,central_italian,,Calcedonia,,,,,,,,,,,x
 b_chalkedon,corsican,,Calcedonia,,,,,,,,,,,x
 b_chalkedon,dalmatian,,Calcedonia,,,,,,,,,,,x
-b_chalkedon,frankish,,Chalcédoine,,,,,,,,,,,x
+b_chalkedon,frankish,,ChalcÃ©doine,,,,,,,,,,,x
 b_chalkedon,italian,,Calcedonia,,,,,,,,,,,x
 b_chalkedon,ligurian,,Calcedonia,,,,,,,,,,,x
 b_chalkedon,neapolitan,,Calcedonia,,,,,,,,,,,x
-b_chalkedon,norman,,Chalcédoine,,,,,,,,,,,x
-b_chalkedon,oghuz,,Kadiköy,,,,,,,,,,,x
+b_chalkedon,norman,,ChalcÃ©doine,,,,,,,,,,,x
+b_chalkedon,oghuz,,KadikÃ¶y,,,,,,,,,,,x
 b_chalkedon,sardinian,,Calcedonia,,,,,,,,,,,x
 b_chalkedon,sicilian,,Calcedonia,,,,,,,,,,,x
 b_chalkedon,southern_italian,,Calcedonia,,,,,,,,,,,x
-b_chalkedon,turkish,,Kadiköy,,,,,,,,,,,x
-b_chalkedon,turkmen,,Kadiköy,,,,,,,,,,,x
+b_chalkedon,turkish,,KadikÃ¶y,,,,,,,,,,,x
+b_chalkedon,turkmen,,KadikÃ¶y,,,,,,,,,,,x
 b_chalkedon,tuscan,,Calcedonia,,,,,,,,,,,x
 b_chalkedon,venetian,,Calcedonia,,,,,,,,,,,x
 b_hieria,b_hieria,,Hiereia,,,,,,,,,,,x
@@ -1468,23 +1468,23 @@ d_cibyrrhaeot,d_cibyrrhaeot_adj,,Kibyrrhaiotan,,,,,,,,,,,x
 d_cibyrrhaeot,central_italian,,Cibirreoti,,,,,,,,,,,x
 d_cibyrrhaeot,corsican,,Cibirreoti,,,,,,,,,,,x
 d_cibyrrhaeot,dalmatian,,Cibirreoti,,,,,,,,,,,x
-d_cibyrrhaeot,frankish,,Cibyrrhéotes,,,,,,,,,,,x
+d_cibyrrhaeot,frankish,,CibyrrhÃ©otes,,,,,,,,,,,x
 d_cibyrrhaeot,italian,,Cibirreoti,,,,,,,,,,,x
 d_cibyrrhaeot,ligurian,,Cibirreoti,,,,,,,,,,,x
 d_cibyrrhaeot,neapolitan,,Cibirreoti,,,,,,,,,,,x
-d_cibyrrhaeot,norman,,Cibyrrhéotes,,,,,,,,,,,x
-d_cibyrrhaeot,oghuz,,Menteše,,,,,,,,,,,x
-d_cibyrrhaeot,d_cibyrrhaeot_adj_oghuz,,Mentešan,,,,,,,,,,,x
+d_cibyrrhaeot,norman,,CibyrrhÃ©otes,,,,,,,,,,,x
+d_cibyrrhaeot,oghuz,,MenteÅ¡e,,,,,,,,,,,x
+d_cibyrrhaeot,d_cibyrrhaeot_adj_oghuz,,MenteÅ¡an,,,,,,,,,,,x
 d_cibyrrhaeot,sardinian,,Cibirreoti,,,,,,,,,,,x
 d_cibyrrhaeot,sicilian,,Cibirreoti,,,,,,,,,,,x
 d_cibyrrhaeot,southern_italian,,Cibirreoti,,,,,,,,,,,x
-d_cibyrrhaeot,turkish,,Menteše,,,,,,,,,,,x
-d_cibyrrhaeot,d_cibyrrhaeot_adj_turkish,,Mentešan,,,,,,,,,,,x
-d_cibyrrhaeot,turkmen,,Menteše,,,,,,,,,,,x
-d_cibyrrhaeot,d_cibyrrhaeot_adj_turkmen,,Mentešan,,,,,,,,,,,x
+d_cibyrrhaeot,turkish,,MenteÅ¡e,,,,,,,,,,,x
+d_cibyrrhaeot,d_cibyrrhaeot_adj_turkish,,MenteÅ¡an,,,,,,,,,,,x
+d_cibyrrhaeot,turkmen,,MenteÅ¡e,,,,,,,,,,,x
+d_cibyrrhaeot,d_cibyrrhaeot_adj_turkmen,,MenteÅ¡an,,,,,,,,,,,x
 d_cibyrrhaeot,tuscan,,Cibirreoti,,,,,,,,,,,x
 d_cibyrrhaeot,venetian,,Cibirreoti,,,,,,,,,,,x
-c_attaleia,PROV755,,Attáleia,,,,,,,,,,,x
+c_attaleia,PROV755,,AttÃ¡leia,,,,,,,,,,,x
 c_attaleia,c_attaleia,,,,,,,,,,,,,x
 c_attaleia,c_attaleia_adj,,Attaleian,,,,,,,,,,,x
 c_attaleia,central_italian,,Sattalia,,,,,,,,,,,x
@@ -1503,8 +1503,8 @@ c_attaleia,neapolitan,,Sattalia,,,,,,,,,,,x
 c_attaleia,c_attaleia_adj_neapolitan,,Sattalian,,,,,,,,,,,x
 c_attaleia,norman,,Sattalie,,,,,,,,,,,x
 c_attaleia,c_attaleia_adj_norman,,Sattalian,,,,,,,,,,,x
-c_attaleia,oghuz,,Antâliyya,,,,,,,,,,,x
-c_attaleia,c_attaleia_adj_oghuz,,Antâliyyan,,,,,,,,,,,x
+c_attaleia,oghuz,,AntÃ¢liyya,,,,,,,,,,,x
+c_attaleia,c_attaleia_adj_oghuz,,AntÃ¢liyyan,,,,,,,,,,,x
 c_attaleia,sardinian,,Sattalia,,,,,,,,,,,x
 c_attaleia,c_attaleia_adj_sardinian,,Sattalian,,,,,,,,,,,x
 c_attaleia,sicilian,,Sattalia,,,,,,,,,,,x
@@ -1513,8 +1513,8 @@ c_attaleia,southern_italian,,Sattalia,,,,,,,,,,,x
 c_attaleia,c_attaleia_adj_southern_italian,,Sattalian,,,,,,,,,,,x
 c_attaleia,turkish,,Atalya,,,,,,,,,,,x
 c_attaleia,c_attaleia_adj_turkish,,Atalyan,,,,,,,,,,,x
-c_attaleia,turkmen,,Antâliyya,,,,,,,,,,,x
-c_attaleia,c_attaleia_adj_turkmen,,Antâliyyan,,,,,,,,,,,x
+c_attaleia,turkmen,,AntÃ¢liyya,,,,,,,,,,,x
+c_attaleia,c_attaleia_adj_turkmen,,AntÃ¢liyyan,,,,,,,,,,,x
 c_attaleia,tuscan,,Sattalia,,,,,,,,,,,x
 c_attaleia,c_attaleia_adj_tuscan,,Sattalian,,,,,,,,,,,x
 c_attaleia,venetian,,Sattalia,,,,,,,,,,,x
@@ -1529,12 +1529,12 @@ b_attaleia,italian,,Sattalia,,,,,,,,,,,x
 b_attaleia,ligurian,,Sattalia,,,,,,,,,,,x
 b_attaleia,neapolitan,,Sattalia,,,,,,,,,,,x
 b_attaleia,norman,,Sattalie,,,,,,,,,,,x
-b_attaleia,oghuz,,Antâliyya,,,,,,,,,,,x
+b_attaleia,oghuz,,AntÃ¢liyya,,,,,,,,,,,x
 b_attaleia,sardinian,,Sattalia,,,,,,,,,,,x
 b_attaleia,sicilian,,Sattalia,,,,,,,,,,,x
 b_attaleia,southern_italian,,Sattalia,,,,,,,,,,,x
 b_attaleia,turkish,,Atalya,,,,,,,,,,,x
-b_attaleia,turkmen,,Antâliyya,,,,,,,,,,,x
+b_attaleia,turkmen,,AntÃ¢liyya,,,,,,,,,,,x
 b_attaleia,tuscan,,Sattalia,,,,,,,,,,,x
 b_attaleia,venetian,,Sattalia,,,,,,,,,,,x
 b_kalonoros,b_kalonoros,,Kalonoros,,,,,,,,,,,x
@@ -1552,7 +1552,7 @@ b_side,b_side_adj,,,,,,,,,,,,,x
 b_side,oghuz,,Manavgat,,,,,,,,,,,x
 b_side,turkish,,Manavgat,,,,,,,,,,,x
 b_side,turkmen,,Manavgat,,,,,,,,,,,x
-c_rhodos,PROV483,,Dodekánisa,,,,,,,,,,,x
+c_rhodos,PROV483,,DodekÃ¡nisa,,,,,,,,,,,x
 c_rhodos,c_rhodos,,,,,,,,,,,,,x
 c_rhodos,c_rhodos_adj,,Rhodian,,,,,,,,,,,x
 c_rhodos,central_italian,,Rodi,,,,,,,,,,,x
@@ -1587,7 +1587,7 @@ c_rhodos,tuscan,,Rodi,,,,,,,,,,,x
 c_rhodos,c_rhodos_adj_tuscan,,Rodian,,,,,,,,,,,x
 c_rhodos,venetian,,Rodi,,,,,,,,,,,x
 c_rhodos,c_rhodos_adj_venetian,,Rodian,,,,,,,,,,,x
-b_rhodos,b_rhodos,,Ródos,,,,,,,,,,,x
+b_rhodos,b_rhodos,,RÃ³dos,,,,,,,,,,,x
 b_rhodos,b_rhodos_adj,,,,,,,,,,,,,x
 b_rhodos,central_italian,,Rodi,,,,,,,,,,,x
 b_rhodos,corsican,,Rodi,,,,,,,,,,,x
@@ -1607,15 +1607,15 @@ b_rhodos,tuscan,,Rodi,,,,,,,,,,,x
 b_rhodos,venetian,,Rodi,,,,,,,,,,,x
 b_kos,b_kos,,Kos,,,,,,,,,,,x
 b_kos,b_kos_adj,,,,,,,,,,,,,x
-b_kos,oghuz,,Istanköy,,,,,,,,,,,x
-b_kos,turkish,,Istanköy,,,,,,,,,,,x
-b_kos,turkmen,,Istanköy,,,,,,,,,,,x
+b_kos,oghuz,,IstankÃ¶y,,,,,,,,,,,x
+b_kos,turkish,,IstankÃ¶y,,,,,,,,,,,x
+b_kos,turkmen,,IstankÃ¶y,,,,,,,,,,,x
 b_lindos,b_lindos,,Lindos,,,,,,,,,,,x
 b_lindos,b_lindos_adj,,,,,,,,,,,,,x
 b_lindos,oghuz,,Lindoz,,,,,,,,,,,x
 b_lindos,turkish,,Lindoz,,,,,,,,,,,x
 b_lindos,turkmen,,Lindoz,,,,,,,,,,,x
-c_lykia,PROV747,,Lykía,,,,,,,,,,,x
+c_lykia,PROV747,,LykÃ­a,,,,,,,,,,,x
 c_lykia,c_lykia,,,,,,,,,,,,,x
 c_lykia,c_lykia_adj,,Lykian,,,,,,,,,,,x
 c_lykia,central_italian,,Licia,,,,,,,,,,,x
@@ -1673,12 +1673,12 @@ b_phaselis,turkmen,,Tekfur Ova,,,,,,,,,,,x
 c_mylasa,PROV1231,,Mylasa,,,,,,,,,,,x
 c_mylasa,c_mylasa,,,,,,,,,,,,,x
 c_mylasa,c_mylasa_adj,,Mylasan,,,,,,,,,,,x
-c_mylasa,oghuz,,Menteše,,,,,,,,,,,x
-c_mylasa,c_mylasa_adj_oghuz,,Mentešian,,,,,,,,,,,x
-c_mylasa,turkish,,Menteše,,,,,,,,,,,x
-c_mylasa,c_mylasa_adj_turkish,,Mentešian,,,,,,,,,,,x
-c_mylasa,turkmen,,Menteše,,,,,,,,,,,x
-c_mylasa,c_mylasa_adj_turkmen,,Mentešian,,,,,,,,,,,x
+c_mylasa,oghuz,,MenteÅ¡e,,,,,,,,,,,x
+c_mylasa,c_mylasa_adj_oghuz,,MenteÅ¡ian,,,,,,,,,,,x
+c_mylasa,turkish,,MenteÅ¡e,,,,,,,,,,,x
+c_mylasa,c_mylasa_adj_turkish,,MenteÅ¡ian,,,,,,,,,,,x
+c_mylasa,turkmen,,MenteÅ¡e,,,,,,,,,,,x
+c_mylasa,c_mylasa_adj_turkmen,,MenteÅ¡ian,,,,,,,,,,,x
 b_halikarnassos,b_halikarnassos,,Halikarnassos,,,,,,,,,,,x
 b_halikarnassos,b_halikarnassos_adj,,,,,,,,,,,,,x
 b_halikarnassos,oghuz,,Bodrum,,,,,,,,,,,x
@@ -1705,18 +1705,18 @@ k_anatolia,frankish,,Anatolie,,,,,,,,,,,x
 k_anatolia,k_anatolia_adj_frankish,,Anatolian,,,,,,,,,,,x
 k_anatolia,norman,,Anatolie,,,,,,,,,,,x
 k_anatolia,k_anatolia_adj_norman,,Anatolian,,,,,,,,,,,x
-k_anatolia,k_anatolia_adj_oghuz,,Rûmian,,,,,,,,,,,x
-k_anatolia,k_anatolia_adj_turkish,,Rûmian,,,,,,,,,,,x
-k_anatolia,k_anatolia_adj_turkmen,,Rûmian,,,,,,,,,,,x
+k_anatolia,k_anatolia_adj_oghuz,,RÃ»mian,,,,,,,,,,,x
+k_anatolia,k_anatolia_adj_turkish,,RÃ»mian,,,,,,,,,,,x
+k_anatolia,k_anatolia_adj_turkmen,,RÃ»mian,,,,,,,,,,,x
 k_anatolia,dynasty_title_names,,no,,,,,,,,,,,x
-d_charsianon,d_charsianon,,Kharsianoù,,,,,,,,,,,x
+d_charsianon,d_charsianon,,KharsianoÃ¹,,,,,,,,,,,x
 d_charsianon,d_charsianon_adj,,Kharsianian,,,,,,,,,,,x
 d_charsianon,armenian,,Gesaria,,,,,,,,,,,x
 d_charsianon,d_charsianon_adj_armenian,,Gesarian,,,,,,,,,,,x
-d_charsianon,frankish,,Césarée,,,,,,,,,,,x
-d_charsianon,d_charsianon_adj_frankish,,Césaréan,,,,,,,,,,,x
-d_charsianon,norman,,Césarée,,,,,,,,,,,x
-d_charsianon,d_charsianon_adj_norman,,Césaréan,,,,,,,,,,,x
+d_charsianon,frankish,,CÃ©sarÃ©e,,,,,,,,,,,x
+d_charsianon,d_charsianon_adj_frankish,,CÃ©sarÃ©an,,,,,,,,,,,x
+d_charsianon,norman,,CÃ©sarÃ©e,,,,,,,,,,,x
+d_charsianon,d_charsianon_adj_norman,,CÃ©sarÃ©an,,,,,,,,,,,x
 d_charsianon,oghuz,,Kayseriye,,,,,,,,,,,x
 d_charsianon,d_charsianon_adj_oghuz,,Kayseriyyan,,,,,,,,,,,x
 d_charsianon,turkish,,Kayseriye,,,,,,,,,,,x
@@ -1728,10 +1728,10 @@ c_kaisereia,c_kaisereia,,,,,,,,,,,,,x
 c_kaisereia,c_kaisereia_adj,,Kaisereian,,,,,,,,,,,x
 c_kaisereia,armenian,,Gesaria,,,,,,,,,,,x
 c_kaisereia,c_kaisereia_adj_armenian,,Gesarian,,,,,,,,,,,x
-c_kaisereia,frankish,,Césarée,,,,,,,,,,,x
-c_kaisereia,c_kaisereia_adj_frankish,,Césaréan,,,,,,,,,,,x
-c_kaisereia,norman,,Césarée,,,,,,,,,,,x
-c_kaisereia,c_kaisereia_adj_norman,,Césaréan,,,,,,,,,,,x
+c_kaisereia,frankish,,CÃ©sarÃ©e,,,,,,,,,,,x
+c_kaisereia,c_kaisereia_adj_frankish,,CÃ©sarÃ©an,,,,,,,,,,,x
+c_kaisereia,norman,,CÃ©sarÃ©e,,,,,,,,,,,x
+c_kaisereia,c_kaisereia_adj_norman,,CÃ©sarÃ©an,,,,,,,,,,,x
 c_kaisereia,oghuz,,Kayseriye,,,,,,,,,,,x
 c_kaisereia,c_kaisereia_adj_oghuz,,Kayseriyyan,,,,,,,,,,,x
 c_kaisereia,turkish,,Kayseriye,,,,,,,,,,,x
@@ -1741,8 +1741,8 @@ c_kaisereia,c_kaisereia_adj_turkmen,,Kayseriyyan,,,,,,,,,,,x
 b_kaisareia,b_kaisareia,,Kaisareia,,,,,,,,,,,x
 b_kaisareia,b_kaisareia_adj,,,,,,,,,,,,,x
 b_kaisareia,armenian,,Gesaria,,,,,,,,,,,x
-b_kaisareia,frankish,,Césarée,,,,,,,,,,,x
-b_kaisareia,norman,,Césarée,,,,,,,,,,,x
+b_kaisareia,frankish,,CÃ©sarÃ©e,,,,,,,,,,,x
+b_kaisareia,norman,,CÃ©sarÃ©e,,,,,,,,,,,x
 b_kaisareia,oghuz,,Kayseriye,,,,,,,,,,,x
 b_kaisareia,turkish,,Kayseriye,,,,,,,,,,,x
 b_kaisareia,turkmen,,Kayseriye,,,,,,,,,,,x
@@ -1758,12 +1758,12 @@ b_zoropassos,turkish,,Arabsun,,,,,,,,,,,x
 b_zoropassos,turkmen,,Arabsun,,,,,,,,,,,x
 b_malakopeia,b_malakopeia,,Malakopeia,,,,,,,,,,,x
 b_malakopeia,b_malakopeia_adj,,,,,,,,,,,,,x
-b_malakopeia,oghuz,,Melegöbi,,,,,,,,,,,x
-b_malakopeia,turkish,,Melegöbi,,,,,,,,,,,x
-b_malakopeia,turkmen,,Melegöbi,,,,,,,,,,,x
+b_malakopeia,oghuz,,MelegÃ¶bi,,,,,,,,,,,x
+b_malakopeia,turkish,,MelegÃ¶bi,,,,,,,,,,,x
+b_malakopeia,turkmen,,MelegÃ¶bi,,,,,,,,,,,x
 b_kyzistra,b_kyzistra,,Kyzistra,,,,,,,,,,,x
 b_kyzistra,b_kyzistra_adj,,,,,,,,,,,,,x
-c_galatia,PROV752,,Galatía,,,,,,,,,,,x
+c_galatia,PROV752,,GalatÃ­a,,,,,,,,,,,x
 c_galatia,c_galatia,,,,,,,,,,,,,x
 c_galatia,c_galatia_adj,,Galatian,,,,,,,,,,,x
 c_galatia,frankish,,Galatie,,,,,,,,,,,x
@@ -1788,9 +1788,9 @@ b_tavia,turkish,,Bozok,,,,,,,,,,,x
 b_tavia,turkmen,,Bozok,,,,,,,,,,,x
 b_mokissos,b_mokissos,,Mokissos,,,,,,,,,,,x
 b_mokissos,b_mokissos_adj,,,,,,,,,,,,,x
-b_mokissos,oghuz,,Kir Šehir,,,,,,,,,,,x
-b_mokissos,turkish,,Kir Šehir,,,,,,,,,,,x
-b_mokissos,turkmen,,Kir Šehir,,,,,,,,,,,x
+b_mokissos,oghuz,,Kir Å ehir,,,,,,,,,,,x
+b_mokissos,turkish,,Kir Å ehir,,,,,,,,,,,x
+b_mokissos,turkmen,,Kir Å ehir,,,,,,,,,,,x
 b_basilika_therma,b_basilika_therma,,Basilike Therma,,,,,,,,,,,x
 b_basilika_therma,b_basilika_therma_adj,,,,,,,,,,,,,x
 b_basilika_therma,oghuz,,Terzili,,,,,,,,,,,x
@@ -1838,9 +1838,9 @@ b_magida,b_magida_adj,,,,,,,,,,,,,x
 b_magida,oghuz,,Nigde,,,,,,,,,,,x
 b_magida,turkish,,Nigde,,,,,,,,,,,x
 b_magida,turkmen,,Nigde,,,,,,,,,,,x
-c_archelais,PROV1261,,Archelaïs,,,,,,,,,,,x
+c_archelais,PROV1261,,ArchelaÃ¯s,,,,,,,,,,,x
 c_archelais,c_archelais,,,,,,,,,,,,,x
-c_archelais,c_archelais_adj,,Archelaïsan,,,,,,,,,,,x
+c_archelais,c_archelais_adj,,ArchelaÃ¯san,,,,,,,,,,,x
 c_archelais,oghuz,,Ak Saray,,,,,,,,,,,x
 c_archelais,c_archelais_adj_oghuz,,Ak Sarayan,,,,,,,,,,,x
 c_archelais,turkish,,Ak Saray,,,,,,,,,,,x
@@ -1870,28 +1870,28 @@ b_koron,turkmen,,Hasangazi,,,,,,,,,,,x
 c_nyssa,PROV1222,,Nyssa,,,,,,,,,,,x
 c_nyssa,c_nyssa,,,,,,,,,,,,,x
 c_nyssa,c_nyssa_adj,,Nyssan,,,,,,,,,,,x
-c_nyssa,oghuz,,Kuš Hisar,,,,,,,,,,,x
-c_nyssa,c_nyssa_adj_oghuz,,Kuš Hisaran,,,,,,,,,,,x
-c_nyssa,turkish,,Kuš Hisar,,,,,,,,,,,x
-c_nyssa,c_nyssa_adj_turkish,,Kuš Hisaran,,,,,,,,,,,x
-c_nyssa,turkmen,,Kuš Hisar,,,,,,,,,,,x
-c_nyssa,c_nyssa_adj_turkmen,,Kuš Hisaran,,,,,,,,,,,x
+c_nyssa,oghuz,,KuÅ¡ Hisar,,,,,,,,,,,x
+c_nyssa,c_nyssa_adj_oghuz,,KuÅ¡ Hisaran,,,,,,,,,,,x
+c_nyssa,turkish,,KuÅ¡ Hisar,,,,,,,,,,,x
+c_nyssa,c_nyssa_adj_turkish,,KuÅ¡ Hisaran,,,,,,,,,,,x
+c_nyssa,turkmen,,KuÅ¡ Hisar,,,,,,,,,,,x
+c_nyssa,c_nyssa_adj_turkmen,,KuÅ¡ Hisaran,,,,,,,,,,,x
 b_nyssa,b_nyssa,,Nyssa,,,,,,,,,,,x
 b_nyssa,b_nyssa_adj,,,,,,,,,,,,,x
-b_nyssa,oghuz,,Kuš Hisar,,,,,,,,,,,x
-b_nyssa,turkish,,Kuš Hisar,,,,,,,,,,,x
-b_nyssa,turkmen,,Kuš Hisar,,,,,,,,,,,x
+b_nyssa,oghuz,,KuÅ¡ Hisar,,,,,,,,,,,x
+b_nyssa,turkish,,KuÅ¡ Hisar,,,,,,,,,,,x
+b_nyssa,turkmen,,KuÅ¡ Hisar,,,,,,,,,,,x
 b_aspona,b_aspona,,Aspona,,,,,,,,,,,x
 b_aspona,b_aspona_adj,,,,,,,,,,,,,x
-b_aspona,oghuz,,Sarihüyük,,,,,,,,,,,x
-b_aspona,turkish,,Sarihüyük,,,,,,,,,,,x
-b_aspona,turkmen,,Sarihüyük,,,,,,,,,,,x
+b_aspona,oghuz,,SarihÃ¼yÃ¼k,,,,,,,,,,,x
+b_aspona,turkish,,SarihÃ¼yÃ¼k,,,,,,,,,,,x
+b_aspona,turkmen,,SarihÃ¼yÃ¼k,,,,,,,,,,,x
 d_coloneia,d_coloneia,,Koloneias,,,,,,,,,,,x
 d_coloneia,d_coloneia_adj,,Koloneian,,,,,,,,,,,x
-d_coloneia,frankish,,Colonée,,,,,,,,,,,x
-d_coloneia,d_coloneia_adj_frankish,,Colonéan,,,,,,,,,,,x
-d_coloneia,norman,,Colonée,,,,,,,,,,,x
-d_coloneia,d_coloneia_adj_norman,,Colonéan,,,,,,,,,,,x
+d_coloneia,frankish,,ColonÃ©e,,,,,,,,,,,x
+d_coloneia,d_coloneia_adj_frankish,,ColonÃ©an,,,,,,,,,,,x
+d_coloneia,norman,,ColonÃ©e,,,,,,,,,,,x
+d_coloneia,d_coloneia_adj_norman,,ColonÃ©an,,,,,,,,,,,x
 d_coloneia,oghuz,,Divrigi,,,,,,,,,,,x
 d_coloneia,d_coloneia_adj_oghuz,,Divrigan,,,,,,,,,,,x
 d_coloneia,turkish,,Divrigi,,,,,,,,,,,x
@@ -1903,18 +1903,18 @@ c_koloneia,c_koloneia,,,,,,,,,,,,,x
 c_koloneia,c_koloneia_adj,,Coloneian,,,,,,,,,,,x
 c_koloneia,armenian,,Kogoniya,,,,,,,,,,,x
 c_koloneia,c_koloneia_adj_armenian,,Kogoniyan,,,,,,,,,,,x
-c_koloneia,oghuz,,Šebin Kara Hisar,,,,,,,,,,,x
-c_koloneia,c_koloneia_adj_oghuz,,Šebin Kara Hisaran,,,,,,,,,,,x
-c_koloneia,turkish,,Šebin Kara Hisar,,,,,,,,,,,x
-c_koloneia,c_koloneia_adj_turkish,,Šebin Kara Hisaran,,,,,,,,,,,x
-c_koloneia,turkmen,,Šebin Kara Hisar,,,,,,,,,,,x
-c_koloneia,c_koloneia_adj_turkmen,,Šebin Kara Hisaran,,,,,,,,,,,x
+c_koloneia,oghuz,,Å ebin Kara Hisar,,,,,,,,,,,x
+c_koloneia,c_koloneia_adj_oghuz,,Å ebin Kara Hisaran,,,,,,,,,,,x
+c_koloneia,turkish,,Å ebin Kara Hisar,,,,,,,,,,,x
+c_koloneia,c_koloneia_adj_turkish,,Å ebin Kara Hisaran,,,,,,,,,,,x
+c_koloneia,turkmen,,Å ebin Kara Hisar,,,,,,,,,,,x
+c_koloneia,c_koloneia_adj_turkmen,,Å ebin Kara Hisaran,,,,,,,,,,,x
 b_koloneia,b_koloneia,,Koloneia,,,,,,,,,,,x
 b_koloneia,b_koloneia_adj,,,,,,,,,,,,,x
 b_koloneia,armenian,,Kogoniya,,,,,,,,,,,x
-b_koloneia,oghuz,,Šebin Kara Hisar,,,,,,,,,,,x
-b_koloneia,turkish,,Šebin Kara Hisar,,,,,,,,,,,x
-b_koloneia,turkmen,,Šebin Kara Hisar,,,,,,,,,,,x
+b_koloneia,oghuz,,Å ebin Kara Hisar,,,,,,,,,,,x
+b_koloneia,turkish,,Å ebin Kara Hisar,,,,,,,,,,,x
+b_koloneia,turkmen,,Å ebin Kara Hisar,,,,,,,,,,,x
 b_nikopolispontica,b_nikopolispontica,,Nikopolis,,,,,,,,,,,x
 b_nikopolispontica,b_nikopolispontica_adj,,,,,,,,,,,,,x
 b_nikopolispontica,armenian,,Purkh,,,,,,,,,,,x
@@ -1937,10 +1937,10 @@ c_neokaisareia,c_neokaisareia,,,,,,,,,,,,,x
 c_neokaisareia,c_neokaisareia_adj,,Neokaisareian,,,,,,,,,,,x
 c_neokaisareia,armenian,,Nikisar,,,,,,,,,,,x
 c_neokaisareia,c_neokaisareia_adj_armenian,,Nikisarian,,,,,,,,,,,x
-c_neokaisareia,frankish,,Néoésarée,,,,,,,,,,,x
-c_neokaisareia,c_neokaisareia_adj_frankish,,Néocésaréan,,,,,,,,,,,x
-c_neokaisareia,norman,,Néocésarée,,,,,,,,,,,x
-c_neokaisareia,c_neokaisareia_adj_norman,,Néocésaréan,,,,,,,,,,,x
+c_neokaisareia,frankish,,NÃ©oÃ©sarÃ©e,,,,,,,,,,,x
+c_neokaisareia,c_neokaisareia_adj_frankish,,NÃ©ocÃ©sarÃ©an,,,,,,,,,,,x
+c_neokaisareia,norman,,NÃ©ocÃ©sarÃ©e,,,,,,,,,,,x
+c_neokaisareia,c_neokaisareia_adj_norman,,NÃ©ocÃ©sarÃ©an,,,,,,,,,,,x
 c_neokaisareia,oghuz,,Niksar,,,,,,,,,,,x
 c_neokaisareia,c_neokaisareia_adj_oghuz,,Niksarian,,,,,,,,,,,x
 c_neokaisareia,turkish,,Niksar,,,,,,,,,,,x
@@ -1950,8 +1950,8 @@ c_neokaisareia,c_neokaisareia_adj_turkmen,,Niksarian,,,,,,,,,,,x
 b_neokaisareia,b_neokaisareia,,Neokaisareia,,,,,,,,,,,x
 b_neokaisareia,b_neokaisareia_adj,,,,,,,,,,,,,x
 b_neokaisareia,armenian,,Nikisar,,,,,,,,,,,x
-b_neokaisareia,frankish,,Néoésarée,,,,,,,,,,,x
-b_neokaisareia,norman,,Néocésarée,,,,,,,,,,,x
+b_neokaisareia,frankish,,NÃ©oÃ©sarÃ©e,,,,,,,,,,,x
+b_neokaisareia,norman,,NÃ©ocÃ©sarÃ©e,,,,,,,,,,,x
 b_neokaisareia,oghuz,,Niksar,,,,,,,,,,,x
 b_neokaisareia,turkish,,Niksar,,,,,,,,,,,x
 b_neokaisareia,turkmen,,Niksar,,,,,,,,,,,x
@@ -1991,8 +1991,8 @@ b_arabrakes,turkmen,,Arapkir,,,,,,,,,,,x
 d_sebasteia,d_sebasteia,,Sebasteias,,,,,,,,,,,x
 d_sebasteia,d_sebasteia_adj,,Sebasteian,,,,,,,,,,,x
 d_sebasteia,armenian,,Sebasta,,,,,,,,,,,x
-d_sebasteia,arpitan,,Sébaste,,,,,,,,,,,x
-d_sebasteia,frankish,,Sébaste,,,,,,,,,,,x
+d_sebasteia,arpitan,,SÃ©baste,,,,,,,,,,,x
+d_sebasteia,frankish,,SÃ©baste,,,,,,,,,,,x
 d_sebasteia,d_sebasteia_adj_frankish,,Sebastean,,,,,,,,,,,x
 d_sebasteia,d_sebasteia_adj_norman,,Sebastean,,,,,,,,,,,x
 d_sebasteia,oghuz,,Sivas,,,,,,,,,,,x
@@ -2006,10 +2006,10 @@ c_sebastia,c_sebastia,,,,,,,,,,,,,x
 c_sebastia,c_sebastia_adj,,Sebastian,,,,,,,,,,,x
 c_sebastia,armenian,,Sebasta,,,,,,,,,,,x
 c_sebastia,c_sebastia_adj_armenian,,Sebastan,,,,,,,,,,,x
-c_sebastia,frankish,,Sébaste,,,,,,,,,,,x
-c_sebastia,c_sebastia_adj_frankish,,Sébastean,,,,,,,,,,,x
-c_sebastia,norman,,Sébaste,,,,,,,,,,,x
-c_sebastia,c_sebastia_adj_norman,,Sébastean,,,,,,,,,,,x
+c_sebastia,frankish,,SÃ©baste,,,,,,,,,,,x
+c_sebastia,c_sebastia_adj_frankish,,SÃ©bastean,,,,,,,,,,,x
+c_sebastia,norman,,SÃ©baste,,,,,,,,,,,x
+c_sebastia,c_sebastia_adj_norman,,SÃ©bastean,,,,,,,,,,,x
 c_sebastia,oghuz,,Sivas,,,,,,,,,,,x
 c_sebastia,c_sebastia_adj_oghuz,,Sivasian,,,,,,,,,,,x
 c_sebastia,turkish,,Sivas,,,,,,,,,,,x
@@ -2025,8 +2025,8 @@ b_dazimon,turkmen,,Tokat,,,,,,,,,,,x
 b_sebastia,b_sebastia,,Sebasteia,,,,,,,,,,,x
 b_sebastia,b_sebastia_adj,,,,,,,,,,,,,x
 b_sebastia,armenian,,Sebasta,,,,,,,,,,,x
-b_sebastia,frankish,,Sébaste,,,,,,,,,,,x
-b_sebastia,norman,,Sébaste,,,,,,,,,,,x
+b_sebastia,frankish,,SÃ©baste,,,,,,,,,,,x
+b_sebastia,norman,,SÃ©baste,,,,,,,,,,,x
 b_sebastia,oghuz,,Sivas,,,,,,,,,,,x
 b_sebastia,turkish,,Sivas,,,,,,,,,,,x
 b_sebastia,turkmen,,Sivas,,,,,,,,,,,x
@@ -2062,16 +2062,16 @@ b_malandara,turkish,,Sarkisla,,,,,,,,,,,x
 b_malandara,turkmen,,Sarkisla,,,,,,,,,,,x
 b_ariaratheia,b_ariaratheia,,Ariaratheia,,,,,,,,,,,x
 b_ariaratheia,b_ariaratheia_adj,,,,,,,,,,,,,x
-b_ariaratheia,oghuz,,Pinarbaši,,,,,,,,,,,x
-b_ariaratheia,turkish,,Pinarbaši,,,,,,,,,,,x
-b_ariaratheia,turkmen,,Pinarbaši,,,,,,,,,,,x
+b_ariaratheia,oghuz,,PinarbaÅ¡i,,,,,,,,,,,x
+b_ariaratheia,turkish,,PinarbaÅ¡i,,,,,,,,,,,x
+b_ariaratheia,turkmen,,PinarbaÅ¡i,,,,,,,,,,,x
 b_armaxa,b_armaxa,,Armaxa,,,,,,,,,,,x
 b_armaxa,b_armaxa_adj,,,,,,,,,,,,,x
 b_armaxa,armenian,,Garmrag,,,,,,,,,,,x
 b_armaxa,oghuz,,Gemerek,,,,,,,,,,,x
 b_armaxa,turkish,,Gemerek,,,,,,,,,,,x
 b_armaxa,turkmen,,Gemerek,,,,,,,,,,,x
-d_lykandos,d_lykandos,,Lykàndou,,,,,,,,,,,x
+d_lykandos,d_lykandos,,LykÃ ndou,,,,,,,,,,,x
 d_lykandos,d_lykandos_adj,,Lykandian,,,,,,,,,,,x
 d_lykandos,andalusian_arabic,,Ablustain,,,,,,,,,,,x
 d_lykandos,d_lykandos_adj_andalusian_arabic,,Ablustaini,,,,,,,,,,,x
@@ -2114,21 +2114,21 @@ c_lykandos,turkmen,,Elbistan,,,,,,,,,,,x
 c_lykandos,c_lykandos_adj_turkmen,,Elbistanian,,,,,,,,,,,x
 b_lykandos,b_lykandos,,Lykandos,,,,,,,,,,,x
 b_lykandos,b_lykandos_adj,,,,,,,,,,,,,x
-b_lykandos,armenian,,Xacîn,,,,,,,,,,,x
+b_lykandos,armenian,,XacÃ®n,,,,,,,,,,,x
 b_lykandos,oghuz,,Saimbeyli,,,,,,,,,,,x
 b_lykandos,turkish,,Saimbeyli,,,,,,,,,,,x
 b_lykandos,turkmen,,Saimbeyli,,,,,,,,,,,x
 b_arabissos,b_arabissos,,Arabissos,,,,,,,,,,,x
 b_arabissos,b_arabissos_adj,,,,,,,,,,,,,x
-b_arabissos,armenian,,Arebsûs,,,,,,,,,,,x
+b_arabissos,armenian,,ArebsÃ»s,,,,,,,,,,,x
 b_arabissos,oghuz,,Yarpuz,,,,,,,,,,,x
 b_arabissos,turkish,,Yarpuz,,,,,,,,,,,x
 b_arabissos,turkmen,,Yarpuz,,,,,,,,,,,x
-b_kokysos,b_kokysos,,Kykysòs,,,,,,,,,,,x
+b_kokysos,b_kokysos,,KykysÃ²s,,,,,,,,,,,x
 b_kokysos,b_kokysos_adj,,,,,,,,,,,,,x
-b_kokysos,oghuz,,Göksun,,,,,,,,,,,x
-b_kokysos,turkish,,Göksun,,,,,,,,,,,x
-b_kokysos,turkmen,,Göksun,,,,,,,,,,,x
+b_kokysos,oghuz,,GÃ¶ksun,,,,,,,,,,,x
+b_kokysos,turkish,,GÃ¶ksun,,,,,,,,,,,x
+b_kokysos,turkmen,,GÃ¶ksun,,,,,,,,,,,x
 b_ablastha,b_ablastha,,Ablastha,,,,,,,,,,,x
 b_ablastha,b_ablastha_adj,,,,,,,,,,,,,x
 b_ablastha,andalusian_arabic,,Ablustain,,,,,,,,,,,x
@@ -2144,13 +2144,13 @@ b_ariaramneia,b_ariaramneia,,Rhodandos,,,,,,,,,,,x
 b_ariaramneia,b_ariaramneia_adj,,,,,,,,,,,,,x
 d_anatolia,d_anatolia,,Anatolikon,,,,,,,,,,,x
 d_anatolia,d_anatolia_adj,,Anatolian,,,,,,,,,,,x
-d_anatolia,oghuz,,Rûm,,,,,,,,,,,x
-d_anatolia,d_anatolia_adj_oghuz,,Rûmian,,,,,,,,,,,x
-d_anatolia,turkish,,Rûm,,,,,,,,,,,x
-d_anatolia,d_anatolia_adj_turkish,,Rûmian,,,,,,,,,,,x
-d_anatolia,turkmen,,Rûm,,,,,,,,,,,x
-d_anatolia,d_anatolia_adj_turkmen,,Rûmian,,,,,,,,,,,x
-c_sozopolis,PROV754,,Pisidía,,,,,,,,,,,x
+d_anatolia,oghuz,,RÃ»m,,,,,,,,,,,x
+d_anatolia,d_anatolia_adj_oghuz,,RÃ»mian,,,,,,,,,,,x
+d_anatolia,turkish,,RÃ»m,,,,,,,,,,,x
+d_anatolia,d_anatolia_adj_turkish,,RÃ»mian,,,,,,,,,,,x
+d_anatolia,turkmen,,RÃ»m,,,,,,,,,,,x
+d_anatolia,d_anatolia_adj_turkmen,,RÃ»mian,,,,,,,,,,,x
+c_sozopolis,PROV754,,PisidÃ­a,,,,,,,,,,,x
 c_sozopolis,c_sozopolis,,,,,,,,,,,,,x
 c_sozopolis,c_sozopolis_adj,,Pisidian,,,,,,,,,,,x
 c_sozopolis,oghuz,,Hamid,,,,,,,,,,,x
@@ -2182,17 +2182,17 @@ b_sublaion,turkmen,,Siblia,,,,,,,,,,,x
 c_amorion,PROV1325,,Amorion,,,,,,,,,,,x
 c_amorion,c_amorion,,,,,,,,,,,,,x
 c_amorion,c_amorion_adj,,Amorian,,,,,,,,,,,x
-c_amorion,oghuz,,Amûriye,,,,,,,,,,,x
-c_amorion,c_amorion_adj_oghuz,,Amûriyyan,,,,,,,,,,,x
-c_amorion,turkish,,Amûriye,,,,,,,,,,,x
-c_amorion,c_amorion_adj_turkish,,Amûriyyan,,,,,,,,,,,x
-c_amorion,turkmen,,Amûriye,,,,,,,,,,,x
-c_amorion,c_amorion_adj_turkmen,,Amûriyyan,,,,,,,,,,,x
+c_amorion,oghuz,,AmÃ»riye,,,,,,,,,,,x
+c_amorion,c_amorion_adj_oghuz,,AmÃ»riyyan,,,,,,,,,,,x
+c_amorion,turkish,,AmÃ»riye,,,,,,,,,,,x
+c_amorion,c_amorion_adj_turkish,,AmÃ»riyyan,,,,,,,,,,,x
+c_amorion,turkmen,,AmÃ»riye,,,,,,,,,,,x
+c_amorion,c_amorion_adj_turkmen,,AmÃ»riyyan,,,,,,,,,,,x
 b_amorion,b_amorion,,Amorion,,,,,,,,,,,x
 b_amorion,b_amorion_adj,,,,,,,,,,,,,x
-b_amorion,oghuz,,Amûriye,,,,,,,,,,,x
-b_amorion,turkish,,Amûriye,,,,,,,,,,,x
-b_amorion,turkmen,,Amûriye,,,,,,,,,,,x
+b_amorion,oghuz,,AmÃ»riye,,,,,,,,,,,x
+b_amorion,turkish,,AmÃ»riye,,,,,,,,,,,x
+b_amorion,turkmen,,AmÃ»riye,,,,,,,,,,,x
 b_pessinos,b_pessinos,,Pessinos,,,,,,,,,,,x
 b_pessinos,b_pessinos_adj,,,,,,,,,,,,,x
 b_pessinos,oghuz,,Sivri Hisar,,,,,,,,,,,x
@@ -2200,15 +2200,15 @@ b_pessinos,turkish,,Sivri Hisar,,,,,,,,,,,x
 b_pessinos,turkmen,,Sivri Hisar,,,,,,,,,,,x
 b_philomelion,b_philomelion,,Philomelion,,,,,,,,,,,x
 b_philomelion,b_philomelion_adj,,,,,,,,,,,,,x
-b_philomelion,oghuz,,Ak Šehir,,,,,,,,,,,x
-b_philomelion,turkish,,Ak Šehir,,,,,,,,,,,x
-b_philomelion,turkmen,,Ak Šehir,,,,,,,,,,,x
+b_philomelion,oghuz,,Ak Å ehir,,,,,,,,,,,x
+b_philomelion,turkish,,Ak Å ehir,,,,,,,,,,,x
+b_philomelion,turkmen,,Ak Å ehir,,,,,,,,,,,x
 b_germa,b_germa,,Germa,,,,,,,,,,,x
 b_germa,b_germa_adj,,,,,,,,,,,,,x
 b_germa,oghuz,,Babadavud,,,,,,,,,,,x
 b_germa,turkish,,Babadavud,,,,,,,,,,,x
 b_germa,turkmen,,Babadavud,,,,,,,,,,,x
-c_polybotos,PROV939,,Phrygía,,,,,,,,,,,x
+c_polybotos,PROV939,,PhrygÃ­a,,,,,,,,,,,x
 c_polybotos,c_polybotos,,,,,,,,,,,,,x
 c_polybotos,c_polybotos_adj,,Akroinan,,,,,,,,,,,x
 c_polybotos,oghuz,,Karahisar-i Sahib,,,,,,,,,,,x
@@ -2224,9 +2224,9 @@ b_akroinon,turkish,,Karahisar-i Sahib,,,,,,,,,,,x
 b_akroinon,turkmen,,Karahisar-i Sahib,,,,,,,,,,,x
 b_synnada,b_synnada,,Synnada,,,,,,,,,,,x
 b_synnada,b_synnada_adj,,,,,,,,,,,,,x
-b_synnada,oghuz,,Cuhûd,,,,,,,,,,,x
-b_synnada,turkish,,Cuhûd,,,,,,,,,,,x
-b_synnada,turkmen,,Cuhûd,,,,,,,,,,,x
+b_synnada,oghuz,,CuhÃ»d,,,,,,,,,,,x
+b_synnada,turkish,,CuhÃ»d,,,,,,,,,,,x
+b_synnada,turkmen,,CuhÃ»d,,,,,,,,,,,x
 b_polybotos,b_polybotos,,Polybotos,,,,,,,,,,,x
 b_polybotos,b_polybotos_adj,,,,,,,,,,,,,x
 b_polybotos,oghuz,,Bolvadin,,,,,,,,,,,x
@@ -2241,11 +2241,11 @@ c_ikonion,PROV759,,Ikonion,,,,,,,,,,,x
 c_ikonion,c_ikonion,,,,,,,,,,,,,x
 c_ikonion,c_ikonion_adj,,Ikonionian,,,,,,,,,,,x
 c_ikonion,oghuz,,Konya,,,,,,,,,,,x
-c_ikonion,c_ikonion_adj_oghuz,,Kôniyan,,,,,,,,,,,x
+c_ikonion,c_ikonion_adj_oghuz,,KÃ´niyan,,,,,,,,,,,x
 c_ikonion,turkish,,Konya,,,,,,,,,,,x
-c_ikonion,c_ikonion_adj_turkish,,Kôniyan,,,,,,,,,,,x
+c_ikonion,c_ikonion_adj_turkish,,KÃ´niyan,,,,,,,,,,,x
 c_ikonion,turkmen,,Konya,,,,,,,,,,,x
-c_ikonion,c_ikonion_adj_turkmen,,Kôniyan,,,,,,,,,,,x
+c_ikonion,c_ikonion_adj_turkmen,,KÃ´niyan,,,,,,,,,,,x
 b_ikonion,b_ikonion,,Ikonion,,,,,,,,,,,x
 b_ikonion,b_ikonion_adj,,,,,,,,,,,,,x
 b_ikonion,oghuz,,Konya,,,,,,,,,,,x
@@ -2253,19 +2253,19 @@ b_ikonion,turkish,,Konya,,,,,,,,,,,x
 b_ikonion,turkmen,,Konya,,,,,,,,,,,x
 b_mistheia,b_mistheia,,Mistheia,,,,,,,,,,,x
 b_mistheia,b_mistheia_adj,,,,,,,,,,,,,x
-b_mistheia,oghuz,,Beg Šehir,,,,,,,,,,,x
-b_mistheia,turkish,,Beg Šehir,,,,,,,,,,,x
-b_mistheia,turkmen,,Beg Šehir,,,,,,,,,,,x
-b_lisdra,b_lisdra,,Lýstra,,,,,,,,,,,x
+b_mistheia,oghuz,,Beg Å ehir,,,,,,,,,,,x
+b_mistheia,turkish,,Beg Å ehir,,,,,,,,,,,x
+b_mistheia,turkmen,,Beg Å ehir,,,,,,,,,,,x
+b_lisdra,b_lisdra,,LÃ½stra,,,,,,,,,,,x
 b_lisdra,b_lisdra_adj,,,,,,,,,,,,,x
 b_lisdra,oghuz,,Gilisre,,,,,,,,,,,x
 b_lisdra,turkish,,Gilisre,,,,,,,,,,,x
 b_lisdra,turkmen,,Gilisre,,,,,,,,,,,x
 b_amblada,b_amblada,,Amblada,,,,,,,,,,,x
 b_amblada,b_amblada_adj,,,,,,,,,,,,,x
-b_amblada,oghuz,,Seydi Šehir,,,,,,,,,,,x
-b_amblada,turkish,,Seydi Šehir,,,,,,,,,,,x
-b_amblada,turkmen,,Seydi Šehir,,,,,,,,,,,x
+b_amblada,oghuz,,Seydi Å ehir,,,,,,,,,,,x
+b_amblada,turkish,,Seydi Å ehir,,,,,,,,,,,x
+b_amblada,turkmen,,Seydi Å ehir,,,,,,,,,,,x
 b_isauria,b_isauria,,Isauria,,,,,,,,,,,x
 b_isauria,b_isauria_adj,,,,,,,,,,,,,x
 b_isauria,oghuz,,Bozkir,,,,,,,,,,,x
@@ -2274,17 +2274,17 @@ b_isauria,turkmen,,Bozkir,,,,,,,,,,,x
 c_laranda,PROV1219,,Laranda,,,,,,,,,,,x
 c_laranda,c_laranda,,,,,,,,,,,,,x
 c_laranda,c_laranda_adj,,,,,,,,,,,,,x
-c_laranda,oghuz,,Qarâman,,,,,,,,,,,x
-c_laranda,c_laranda_adj_oghuz,,Qarâmani,,,,,,,,,,,x
-c_laranda,turkish,,Qarâman,,,,,,,,,,,x
-c_laranda,c_laranda_adj_turkish,,Qarâmani,,,,,,,,,,,x
-c_laranda,turkmen,,Qarâman,,,,,,,,,,,x
-c_laranda,c_laranda_adj_turkmen,,Qarâmani,,,,,,,,,,,x
+c_laranda,oghuz,,QarÃ¢man,,,,,,,,,,,x
+c_laranda,c_laranda_adj_oghuz,,QarÃ¢mani,,,,,,,,,,,x
+c_laranda,turkish,,QarÃ¢man,,,,,,,,,,,x
+c_laranda,c_laranda_adj_turkish,,QarÃ¢mani,,,,,,,,,,,x
+c_laranda,turkmen,,QarÃ¢man,,,,,,,,,,,x
+c_laranda,c_laranda_adj_turkmen,,QarÃ¢mani,,,,,,,,,,,x
 b_laranda,b_laranda,,Laranda,,,,,,,,,,,x
 b_laranda,b_laranda_adj,,,,,,,,,,,,,x
-b_laranda,oghuz,,Qarâman,,,,,,,,,,,x
-b_laranda,turkish,,Qarâman,,,,,,,,,,,x
-b_laranda,turkmen,,Qarâman,,,,,,,,,,,x
+b_laranda,oghuz,,QarÃ¢man,,,,,,,,,,,x
+b_laranda,turkish,,QarÃ¢man,,,,,,,,,,,x
+b_laranda,turkmen,,QarÃ¢man,,,,,,,,,,,x
 b_barata,b_barata,,Barata,,,,,,,,,,,x
 b_barata,b_barata_adj,,,,,,,,,,,,,x
 b_barata,oghuz,,Madensehri,,,,,,,,,,,x
@@ -2297,7 +2297,7 @@ d_melitene,d_melitene_adj,,Malatyan,,,,,,,,,,,x
 d_melitene,armenian,,Malat'ya,,,,,,,,,,,x
 d_melitene,frankish,,Melitena,,,,,,,,,,,x
 d_melitene,greek,,Melitene,,,,,,,,,,,x
-d_melitene,kurdish,,Meletî,,,,,,,,,,,x
+d_melitene,kurdish,,MeletÃ®,,,,,,,,,,,x
 d_melitene,norman,,Melitena,,,,,,,,,,,x
 d_melitene,oghuz,,Malatiya,,,,,,,,,,,x
 d_melitene,turkish,,Malatiya,,,,,,,,,,,x
@@ -2310,8 +2310,8 @@ c_melitene,c_melitene_adj_armenian,,Malat'yan,,,,,,,,,,,x
 c_melitene,frankish,,Melitena,,,,,,,,,,,x
 c_melitene,c_melitene_adj_frankish,,Melitenan,,,,,,,,,,,x
 c_melitene,greek,,Melitene,,,,,,,,,,,x
-c_melitene,kurdish,,Meletî,,,,,,,,,,,x
-c_melitene,c_melitene_adj_kurdish,,Meletîan,,,,,,,,,,,x
+c_melitene,kurdish,,MeletÃ®,,,,,,,,,,,x
+c_melitene,c_melitene_adj_kurdish,,MeletÃ®an,,,,,,,,,,,x
 c_melitene,norman,,Melitena,,,,,,,,,,,x
 c_melitene,c_melitene_adj_norman,,Melitenan,,,,,,,,,,,x
 c_melitene,oghuz,,Malatiya,,,,,,,,,,,x
@@ -2328,7 +2328,7 @@ b_melitene,bedouin_arabic,,Malatiya,,,,,,,,,,,x
 b_melitene,egyptian_arabic,,Malatiya,,,,,,,,,,,x
 b_melitene,frankish,,Melitena,,,,,,,,,,,x
 b_melitene,greek,,Melitene,,,,,,,,,,,x
-b_melitene,kurdish,,Meletî,,,,,,,,,,,x
+b_melitene,kurdish,,MeletÃ®,,,,,,,,,,,x
 b_melitene,levantine_arabic,,Malatiya,,,,,,,,,,,x
 b_melitene,maghreb_arabic,,Malatiya,,,,,,,,,,,x
 b_melitene,norman,,Melitena,,,,,,,,,,,x
@@ -2345,7 +2345,7 @@ b_arca,maghreb_arabic,,Arqa,,,,,,,,,,,x
 b_samosata,b_samosata,,Samosata,,,,,,,,,,,x
 b_samosata,b_samosata_adj,,,,,,,,,,,,,x
 b_samosata,andalusian_arabic,,Hisn Zibatra,,,,,,,,,,,x
-b_samosata,armenian,,Šamšat,,,,,,,,,,,x
+b_samosata,armenian,,Å amÅ¡at,,,,,,,,,,,x
 b_samosata,bedouin_arabic,,Hisn Zibatra,,,,,,,,,,,x
 b_samosata,egyptian_arabic,,Hisn Zibatra,,,,,,,,,,,x
 b_samosata,levantine_arabic,,Hisn Zibatra,,,,,,,,,,,x
@@ -2365,13 +2365,13 @@ d_trebizond,d_trebizond_adj_armenian,,Trapizontian,,,,,,,,,,,x
 d_trebizond,central_italian,,Chaldia,,,,,,,,,,,x
 d_trebizond,corsican,,Chaldia,,,,,,,,,,,x
 d_trebizond,dalmatian,,Chaldia,,,,,,,,,,,x
-d_trebizond,frankish,,Chaldée,,,,,,,,,,,x
+d_trebizond,frankish,,ChaldÃ©e,,,,,,,,,,,x
 d_trebizond,georgian,,T'rap'izoni,,,,,,,,,,,x
 d_trebizond,d_trebizond_adj_georgian,,T'rap'izontian,,,,,,,,,,,x
 d_trebizond,italian,,Chaldia,,,,,,,,,,,x
 d_trebizond,ligurian,,Chaldia,,,,,,,,,,,x
 d_trebizond,neapolitan,,Chaldia,,,,,,,,,,,x
-d_trebizond,norman,,Chaldée,,,,,,,,,,,x
+d_trebizond,norman,,ChaldÃ©e,,,,,,,,,,,x
 d_trebizond,oghuz,,Trabzun,,,,,,,,,,,x
 d_trebizond,d_trebizond_adj_oghuz,,Trapzuntian,,,,,,,,,,,x
 d_trebizond,sardinian,,Chaldia,,,,,,,,,,,x
@@ -2405,7 +2405,7 @@ b_atina,georgian,,Atina,,,,,,,,,,,x
 b_atina,oghuz,,Atina,,,,,,,,,,,x
 b_atina,turkish,,Atina,,,,,,,,,,,x
 b_atina,turkmen,,Atina,,,,,,,,,,,x
-b_hamamashen,b_hamamashen,,Hamamašen,,,,,,,,,,,x
+b_hamamashen,b_hamamashen,,HamamaÅ¡en,,,,,,,,,,,x
 b_hamamashen,b_hamamashen_adj,,,,,,,,,,,,,x
 b_hamamashen,georgian,,Zuga,,,,,,,,,,,x
 b_hamamashen,oghuz,,Hemshin,,,,,,,,,,,x
@@ -2422,8 +2422,8 @@ c_trapezous,corsican,,Trebisonda,,,,,,,,,,,x
 c_trapezous,c_trapezous_adj_corsican,,Trebisondian,,,,,,,,,,,x
 c_trapezous,dalmatian,,Trebisonda,,,,,,,,,,,x
 c_trapezous,c_trapezous_adj_dalmatian,,Trebisondian,,,,,,,,,,,x
-c_trapezous,frankish,,Trébizonde,,,,,,,,,,,x
-c_trapezous,c_trapezous_adj_frankish,,Trébizondian,,,,,,,,,,,x
+c_trapezous,frankish,,TrÃ©bizonde,,,,,,,,,,,x
+c_trapezous,c_trapezous_adj_frankish,,TrÃ©bizondian,,,,,,,,,,,x
 c_trapezous,georgian,,Trapizoni,,,,,,,,,,,x
 c_trapezous,c_trapezous_adj_georgian,,T'rap'izonian,,,,,,,,,,,x
 c_trapezous,italian,,Trebisonda,,,,,,,,,,,x
@@ -2432,8 +2432,8 @@ c_trapezous,ligurian,,Trebisonda,,,,,,,,,,,x
 c_trapezous,c_trapezous_adj_ligurian,,Trebisondian,,,,,,,,,,,x
 c_trapezous,neapolitan,,Trebisonda,,,,,,,,,,,x
 c_trapezous,c_trapezous_adj_neapolitan,,Trebisondian,,,,,,,,,,,x
-c_trapezous,norman,,Trébizonde,,,,,,,,,,,x
-c_trapezous,c_trapezous_adj_norman,,Trébizondian,,,,,,,,,,,x
+c_trapezous,norman,,TrÃ©bizonde,,,,,,,,,,,x
+c_trapezous,c_trapezous_adj_norman,,TrÃ©bizondian,,,,,,,,,,,x
 c_trapezous,oghuz,,Trabzun,,,,,,,,,,,x
 c_trapezous,c_trapezous_adj_oghuz,,Trabzunian,,,,,,,,,,,x
 c_trapezous,sardinian,,Trebisonda,,,,,,,,,,,x
@@ -2456,12 +2456,12 @@ b_trapezous,armenian,,Trapizon,,,,,,,,,,,x
 b_trapezous,central_italian,,Trebisonda,,,,,,,,,,,x
 b_trapezous,corsican,,Trebisonda,,,,,,,,,,,x
 b_trapezous,dalmatian,,Trebisonda,,,,,,,,,,,x
-b_trapezous,frankish,,Trébizonde,,,,,,,,,,,x
+b_trapezous,frankish,,TrÃ©bizonde,,,,,,,,,,,x
 b_trapezous,georgian,,Trapizoni,,,,,,,,,,,x
 b_trapezous,italian,,Trebisonda,,,,,,,,,,,x
 b_trapezous,ligurian,,Trebisonda,,,,,,,,,,,x
 b_trapezous,neapolitan,,Trebisonda,,,,,,,,,,,x
-b_trapezous,norman,,Trébizonde,,,,,,,,,,,x
+b_trapezous,norman,,TrÃ©bizonde,,,,,,,,,,,x
 b_trapezous,oghuz,,Trabzun,,,,,,,,,,,x
 b_trapezous,sardinian,,Trebisonda,,,,,,,,,,,x
 b_trapezous,sicilian,,Trebisonda,,,,,,,,,,,x
@@ -2476,11 +2476,11 @@ b_ophioun,georgian,,Opute,,,,,,,,,,,x
 b_ophioun,oghuz,,Of,,,,,,,,,,,x
 b_ophioun,turkish,,Of,,,,,,,,,,,x
 b_ophioun,turkmen,,Of,,,,,,,,,,,x
-b_tzanikha,b_tzanikha,,Argyropólis,,,,,,,,,,,x
+b_tzanikha,b_tzanikha,,ArgyropÃ³lis,,,,,,,,,,,x
 b_tzanikha,b_tzanikha_adj,,,,,,,,,,,,,x
-b_tzanikha,oghuz,,Gümüshane,,,,,,,,,,,x
-b_tzanikha,turkish,,Gümüshane,,,,,,,,,,,x
-b_tzanikha,turkmen,,Gümüshane,,,,,,,,,,,x
+b_tzanikha,oghuz,,GÃ¼mÃ¼shane,,,,,,,,,,,x
+b_tzanikha,turkish,,GÃ¼mÃ¼shane,,,,,,,,,,,x
+b_tzanikha,turkmen,,GÃ¼mÃ¼shane,,,,,,,,,,,x
 b_kharton,b_kharton,,Kharton,,,,,,,,,,,x
 b_kharton,b_kharton_adj,,,,,,,,,,,,,x
 b_kharton,oghuz,,Aydintepe,,,,,,,,,,,x
@@ -2488,15 +2488,15 @@ b_kharton,turkish,,Aydintepe,,,,,,,,,,,x
 b_kharton,turkmen,,Aydintepe,,,,,,,,,,,x
 b_koralla,b_koralla,,Koralla,,,,,,,,,,,x
 b_koralla,b_koralla_adj,,,,,,,,,,,,,x
-b_koralla,oghuz,,Görele,,,,,,,,,,,x
-b_koralla,turkish,,Görele,,,,,,,,,,,x
-b_koralla,turkmen,,Görele,,,,,,,,,,,x
-b_machka,b_machka,,Moní Soumelá,,,,,,,,,,,x
+b_koralla,oghuz,,GÃ¶rele,,,,,,,,,,,x
+b_koralla,turkish,,GÃ¶rele,,,,,,,,,,,x
+b_koralla,turkmen,,GÃ¶rele,,,,,,,,,,,x
+b_machka,b_machka,,MonÃ­ SoumelÃ¡,,,,,,,,,,,x
 b_machka,b_machka_adj,,,,,,,,,,,,,x
-b_machka,oghuz,,Maçka,,,,,,,,,,,x
-b_machka,turkish,,Maçka,,,,,,,,,,,x
-b_machka,turkmen,,Maçka,,,,,,,,,,,x
-b_vazelon,b_vazelon,,Moní Vazelon,,,,,,,,,,,x
+b_machka,oghuz,,MaÃ§ka,,,,,,,,,,,x
+b_machka,turkish,,MaÃ§ka,,,,,,,,,,,x
+b_machka,turkmen,,MaÃ§ka,,,,,,,,,,,x
+b_vazelon,b_vazelon,,MonÃ­ Vazelon,,,,,,,,,,,x
 b_vazelon,b_vazelon_adj,,,,,,,,,,,,,x
 c_chaldea,PROV705,,Chaldia,,,,,,,,,,,x
 c_chaldea,c_chaldea,,,,,,,,,,,,,x
@@ -2640,8 +2640,8 @@ c_theodosia,c_theodosia_adj_khazar,,Sudaqan,,,,,,,,,,,x
 c_theodosia,kirghiz,,Kefe,,,,,,,,,,,x
 c_theodosia,c_theodosia_adj_kirghiz,,Kefean,,,,,,,,,,,x
 c_theodosia,langobardisch,,Caffa,,,,,,,,,,,x
-c_theodosia,ligurian,,Cafà,,,,,,,,,,,x
-c_theodosia,c_theodosia_adj_ligurian,,Cafàn,,,,,,,,,,,x
+c_theodosia,ligurian,,CafÃ ,,,,,,,,,,,x
+c_theodosia,c_theodosia_adj_ligurian,,CafÃ n,,,,,,,,,,,x
 c_theodosia,mongol,,Kefe,,,,,,,,,,,x
 c_theodosia,c_theodosia_adj_mongol,,Kefean,,,,,,,,,,,x
 c_theodosia,moravian,,Kaffa,,,,,,,,,,,x
@@ -2691,7 +2691,7 @@ b_theodosia,kasogi,,Tepsen,,,,,,,,,,,x
 b_theodosia,khazar,,Tepsen,,,,,,,,,,,x
 b_theodosia,kirghiz,,Kefe,,,,,,,,,,,x
 b_theodosia,langobardisch,,Caffa,,,,,,,,,,,x
-b_theodosia,ligurian,,Cafà,,,,,,,,,,,x
+b_theodosia,ligurian,,CafÃ ,,,,,,,,,,,x
 b_theodosia,mongol,,Kefe,,,,,,,,,,,x
 b_theodosia,neapolitan,,Caffa,,,,,,,,,,,x
 b_theodosia,oghuz,,Tepsen,,,,,,,,,,,x
@@ -2704,20 +2704,20 @@ b_theodosia,turkmen,,Tepsen,,,,,,,,,,,x
 b_theodosia,tuscan,,Caffa,,,,,,,,,,,x
 b_theodosia,uyghur,,Kefe,,,,,,,,,,,x
 b_theodosia,venetian,,Caffa,,,,,,,,,,,x
-b_sukdak,b_sukdak,,Sougdaía,,,,,,,,,,,x
+b_sukdak,b_sukdak,,SougdaÃ­a,,,,,,,,,,,x
 b_sukdak,b_sukdak_adj,,,,,,,,,,,,,x
 b_sukdak,avar,,Sudaq,,,,,,,,,,,x
-b_sukdak,bohemian,,Surož,,,,,,,,,,,x
+b_sukdak,bohemian,,SuroÅ¾,,,,,,,,,,,x
 b_sukdak,bolghar,,Sudaq,,,,,,,,,,,x
-b_sukdak,bosnian,,Surož,,,,,,,,,,,x
-b_sukdak,bulgarian,,Surož,,,,,,,,,,,x
+b_sukdak,bosnian,,SuroÅ¾,,,,,,,,,,,x
+b_sukdak,bulgarian,,SuroÅ¾,,,,,,,,,,,x
 b_sukdak,central_italian,,Soldaia,,,,,,,,,,,x
 b_sukdak,corsican,,Soldaia,,,,,,,,,,,x
-b_sukdak,croatian,,Surož,,,,,,,,,,,x
+b_sukdak,croatian,,SuroÅ¾,,,,,,,,,,,x
 b_sukdak,cuman,,Sudaq,,,,,,,,,,,x
 b_sukdak,dalmatian,,Soldaia,,,,,,,,,,,x
 b_sukdak,italian,,Soldaia,,,,,,,,,,,x
-b_sukdak,karantanci,,Surož,,,,,,,,,,,x
+b_sukdak,karantanci,,SuroÅ¾,,,,,,,,,,,x
 b_sukdak,karluk,,Sudaq,,,,,,,,,,,x
 b_sukdak,kasogi,,Sudaq,,,,,,,,,,,x
 b_sukdak,khazar,,Sudaq,,,,,,,,,,,x
@@ -2725,15 +2725,15 @@ b_sukdak,kirghiz,,Sudaq,,,,,,,,,,,x
 b_sukdak,langobardisch,,Soldaia,,,,,,,,,,,x
 b_sukdak,ligurian,,Soldaia,,,,,,,,,,,x
 b_sukdak,mongol,,Sudaq,,,,,,,,,,,x
-b_sukdak,moravian,,Surož,,,,,,,,,,,x
+b_sukdak,moravian,,SuroÅ¾,,,,,,,,,,,x
 b_sukdak,neapolitan,,Soldaia,,,,,,,,,,,x
 b_sukdak,oghuz,,Sudaq,,,,,,,,,,,x
 b_sukdak,pecheneg,,Sudaq,,,,,,,,,,,x
-b_sukdak,polish,,Surož,,,,,,,,,,,x
-b_sukdak,pommeranian,,Surož,,,,,,,,,,,x
-b_sukdak,russian,,Surož,,,,,,,,,,,x
+b_sukdak,polish,,SuroÅ¾,,,,,,,,,,,x
+b_sukdak,pommeranian,,SuroÅ¾,,,,,,,,,,,x
+b_sukdak,russian,,SuroÅ¾,,,,,,,,,,,x
 b_sukdak,sardinian,,Soldaia,,,,,,,,,,,x
-b_sukdak,serbian,,Surož,,,,,,,,,,,x
+b_sukdak,serbian,,SuroÅ¾,,,,,,,,,,,x
 b_sukdak,sicilian,,Soldaia,,,,,,,,,,,x
 b_sukdak,southern_italian,,Soldaia,,,,,,,,,,,x
 b_sukdak,turkish,,Sudak,,,,,,,,,,,x
@@ -3046,10 +3046,10 @@ b_gurzuf,uyghur,,Gurzuf,,,,,,,,,,,x
 b_gurzuf,venetian,,Gorzona,,,,,,,,,,,x
 d_armeniacon,d_armeniacon,,Armeniakon,,,,,,,,,,,x
 d_armeniacon,d_armeniacon_adj,,Armeniakan,,,,,,,,,,,x
-d_armeniacon,frankish,,Amasée,,,,,,,,,,,x
-d_armeniacon,d_armeniacon_adj_frankish,,Amaséan,,,,,,,,,,,x
-d_armeniacon,norman,,Amasée,,,,,,,,,,,x
-d_armeniacon,d_armeniacon_adj_norman,,Amaséan,,,,,,,,,,,x
+d_armeniacon,frankish,,AmasÃ©e,,,,,,,,,,,x
+d_armeniacon,d_armeniacon_adj_frankish,,AmasÃ©an,,,,,,,,,,,x
+d_armeniacon,norman,,AmasÃ©e,,,,,,,,,,,x
+d_armeniacon,d_armeniacon_adj_norman,,AmasÃ©an,,,,,,,,,,,x
 d_armeniacon,oghuz,,Amasiyya,,,,,,,,,,,x
 d_armeniacon,d_armeniacon_adj_oghuz,,Amasiyyan,,,,,,,,,,,x
 d_armeniacon,turkish,,Amasiyya,,,,,,,,,,,x
@@ -3059,23 +3059,23 @@ d_armeniacon,d_armeniacon_adj_turkmen,,Amasiyyan,,,,,,,,,,,x
 c_amasia,PROV941,,Amaseia,,,,,,,,,,,x
 c_amasia,c_amasia,,,,,,,,,,,,,x
 c_amasia,c_amasia_adj,,Amaseian,,,,,,,,,,,x
-c_amasia,frankish,,Amasée,,,,,,,,,,,x
-c_amasia,c_amasia_adj_frankish,,Amaséan,,,,,,,,,,,x
-c_amasia,norman,,Amasée,,,,,,,,,,,x
-c_amasia,c_amasia_adj_norman,,Amaséan,,,,,,,,,,,x
-c_amasia,oghuz,,Amâsiyya,,,,,,,,,,,x
-c_amasia,c_amasia_adj_oghuz,,Amâsiyyan,,,,,,,,,,,x
-c_amasia,turkish,,Amâsiyya,,,,,,,,,,,x
-c_amasia,c_amasia_adj_turkish,,Amâsiyyan,,,,,,,,,,,x
-c_amasia,turkmen,,Amâsiyya,,,,,,,,,,,x
-c_amasia,c_amasia_adj_turkmen,,Amâsiyyan,,,,,,,,,,,x
+c_amasia,frankish,,AmasÃ©e,,,,,,,,,,,x
+c_amasia,c_amasia_adj_frankish,,AmasÃ©an,,,,,,,,,,,x
+c_amasia,norman,,AmasÃ©e,,,,,,,,,,,x
+c_amasia,c_amasia_adj_norman,,AmasÃ©an,,,,,,,,,,,x
+c_amasia,oghuz,,AmÃ¢siyya,,,,,,,,,,,x
+c_amasia,c_amasia_adj_oghuz,,AmÃ¢siyyan,,,,,,,,,,,x
+c_amasia,turkish,,AmÃ¢siyya,,,,,,,,,,,x
+c_amasia,c_amasia_adj_turkish,,AmÃ¢siyyan,,,,,,,,,,,x
+c_amasia,turkmen,,AmÃ¢siyya,,,,,,,,,,,x
+c_amasia,c_amasia_adj_turkmen,,AmÃ¢siyyan,,,,,,,,,,,x
 b_amaseia,b_amaseia,,Amaseia,,,,,,,,,,,x
 b_amaseia,b_amaseia_adj,,,,,,,,,,,,,x
-b_amaseia,frankish,,Amasée,,,,,,,,,,,x
-b_amaseia,norman,,Amasée,,,,,,,,,,,x
-b_amaseia,oghuz,,Amâsiyya,,,,,,,,,,,x
+b_amaseia,frankish,,AmasÃ©e,,,,,,,,,,,x
+b_amaseia,norman,,AmasÃ©e,,,,,,,,,,,x
+b_amaseia,oghuz,,AmÃ¢siyya,,,,,,,,,,,x
 b_amaseia,turkish,,Amasya,,,,,,,,,,,x
-b_amaseia,turkmen,,Amâsiyya,,,,,,,,,,,x
+b_amaseia,turkmen,,AmÃ¢siyya,,,,,,,,,,,x
 b_sebastopolis,b_sebastopolis,,Sebastopolis,,,,,,,,,,,x
 b_sebastopolis,b_sebastopolis_adj,,,,,,,,,,,,,x
 b_sebastopolis,oghuz,,Sulusaray,,,,,,,,,,,x
@@ -3088,9 +3088,9 @@ b_zela,turkish,,Zile,,,,,,,,,,,x
 b_zela,turkmen,,Zile,,,,,,,,,,,x
 b_ibora,b_ibora,,Ibora,,,,,,,,,,,x
 b_ibora,b_ibora_adj,,,,,,,,,,,,,x
-b_ibora,oghuz,,Iverönü,,,,,,,,,,,x
-b_ibora,turkish,,Iverönü,,,,,,,,,,,x
-b_ibora,turkmen,,Iverönü,,,,,,,,,,,x
+b_ibora,oghuz,,IverÃ¶nÃ¼,,,,,,,,,,,x
+b_ibora,turkish,,IverÃ¶nÃ¼,,,,,,,,,,,x
+b_ibora,turkmen,,IverÃ¶nÃ¼,,,,,,,,,,,x
 b_komanapontica,b_komanapontica,,Komana,,,,,,,,,,,x
 b_komanapontica,b_komanapontica_adj,,,,,,,,,,,,,x
 b_komanapontica,oghuz,,Kumanat,,,,,,,,,,,x
@@ -3120,7 +3120,7 @@ b_paurai,b_paurai_adj,,,,,,,,,,,,,x
 b_paurai,oghuz,,Bafra,,,,,,,,,,,x
 b_paurai,turkish,,Bafra,,,,,,,,,,,x
 b_paurai,turkmen,,Bafra,,,,,,,,,,,x
-c_sinope,PROV739,,Sinópe,,,,,,,,,,,x
+c_sinope,PROV739,,SinÃ³pe,,,,,,,,,,,x
 c_sinope,c_sinope,,,,,,,,,,,,,x
 c_sinope,c_sinope_adj,,Sinopean,,,,,,,,,,,x
 c_sinope,oghuz,,Sinob,,,,,,,,,,,x
@@ -3147,12 +3147,12 @@ b_leontopolis,turkmen,,Zaliche,,,,,,,,,,,x
 c_eukhaita,PROV1241,,Euchaita,,,,,,,,,,,x
 c_eukhaita,c_eukhaita,,,,,,,,,,,,,x
 c_eukhaita,c_eukhaita_adj,,Euchaitan,,,,,,,,,,,x
-c_eukhaita,oghuz,,Çorum,,,,,,,,,,,x
-c_eukhaita,c_eukhaita_adj_oghuz,,Çorumian,,,,,,,,,,,x
-c_eukhaita,turkish,,Çorum,,,,,,,,,,,x
-c_eukhaita,c_eukhaita_adj_turkish,,Çorumian,,,,,,,,,,,x
-c_eukhaita,turkmen,,Çorum,,,,,,,,,,,x
-c_eukhaita,c_eukhaita_adj_turkmen,,Çorumian,,,,,,,,,,,x
+c_eukhaita,oghuz,,Ã‡orum,,,,,,,,,,,x
+c_eukhaita,c_eukhaita_adj_oghuz,,Ã‡orumian,,,,,,,,,,,x
+c_eukhaita,turkish,,Ã‡orum,,,,,,,,,,,x
+c_eukhaita,c_eukhaita_adj_turkish,,Ã‡orumian,,,,,,,,,,,x
+c_eukhaita,turkmen,,Ã‡orum,,,,,,,,,,,x
+c_eukhaita,c_eukhaita_adj_turkmen,,Ã‡orumian,,,,,,,,,,,x
 b_asklepios,b_asklepios,,Asklepios,,,,,,,,,,,x
 b_asklepios,b_asklepios_adj,,,,,,,,,,,,,x
 b_asklepios,oghuz,,Iskilip,,,,,,,,,,,x
@@ -3160,34 +3160,34 @@ b_asklepios,turkish,,Iskilip,,,,,,,,,,,x
 b_asklepios,turkmen,,Iskilip,,,,,,,,,,,x
 b_eukhaita,b_eukhaita,,Eukhaita,,,,,,,,,,,x
 b_eukhaita,b_eukhaita_adj,,,,,,,,,,,,,x
-b_eukhaita,oghuz,,Çorum,,,,,,,,,,,x
-b_eukhaita,turkish,,Çorum,,,,,,,,,,,x
-b_eukhaita,turkmen,,Çorum,,,,,,,,,,,x
+b_eukhaita,oghuz,,Ã‡orum,,,,,,,,,,,x
+b_eukhaita,turkish,,Ã‡orum,,,,,,,,,,,x
+b_eukhaita,turkmen,,Ã‡orum,,,,,,,,,,,x
 b_andrapa,b_andrapa,,Andrapa,,,,,,,,,,,x
 b_andrapa,b_andrapa_adj,,,,,,,,,,,,,x
-b_andrapa,oghuz,,Vezirköprü,,,,,,,,,,,x
-b_andrapa,turkish,,Vezirköprü,,,,,,,,,,,x
-b_andrapa,turkmen,,Vezirköprü,,,,,,,,,,,x
+b_andrapa,oghuz,,VezirkÃ¶prÃ¼,,,,,,,,,,,x
+b_andrapa,turkish,,VezirkÃ¶prÃ¼,,,,,,,,,,,x
+b_andrapa,turkmen,,VezirkÃ¶prÃ¼,,,,,,,,,,,x
 k_cilician,k_cilician,,Kilikia,,,,,,,,,,,x
 k_cilician,k_cilician_adj,,Kilikyan,,,,,,,,,,,x
 k_cilician,frankish,,Cilicie,,,,,,,,,,,x
 k_cilician,k_cilician_adj_frankish,,Cilician,,,,,,,,,,,x
 k_cilician,norman,,Cilicie,,,,,,,,,,,x
 k_cilician,k_cilician_adj_norman,,Cilician,,,,,,,,,,,x
-d_armenia_minor,d_armenia_minor,,Kilikía,,,,,,,,,,,x
-d_armenia_minor,d_armenia_minor_adj,,Kilikían,,,,,,,,,,,x
+d_armenia_minor,d_armenia_minor,,KilikÃ­a,,,,,,,,,,,x
+d_armenia_minor,d_armenia_minor_adj,,KilikÃ­an,,,,,,,,,,,x
 d_armenia_minor,armenian,,Kilikia,,,,,,,,,,,x
 d_armenia_minor,d_armenia_minor_adj_armenian,,Armenian,,,,,,,,,,,x
 d_armenia_minor,frankish,,Cilicie,,,,,,,,,,,x
 d_armenia_minor,d_armenia_minor_adj_frankish,,Cilician,,,,,,,,,,,x
 d_armenia_minor,norman,,Cilicie,,,,,,,,,,,x
 d_armenia_minor,d_armenia_minor_adj_norman,,Cilician,,,,,,,,,,,x
-d_armenia_minor,oghuz,,Atanâ,,,,,,,,,,,x
-d_armenia_minor,d_armenia_minor_adj_oghuz,,Atanân,,,,,,,,,,,x
-d_armenia_minor,turkish,,Atanâ,,,,,,,,,,,x
-d_armenia_minor,d_armenia_minor_adj_turkish,,Atanân,,,,,,,,,,,x
-d_armenia_minor,turkmen,,Atanâ,,,,,,,,,,,x
-d_armenia_minor,d_armenia_minor_adj_turkmen,,Atanân,,,,,,,,,,,x
+d_armenia_minor,oghuz,,AtanÃ¢,,,,,,,,,,,x
+d_armenia_minor,d_armenia_minor_adj_oghuz,,AtanÃ¢n,,,,,,,,,,,x
+d_armenia_minor,turkish,,AtanÃ¢,,,,,,,,,,,x
+d_armenia_minor,d_armenia_minor_adj_turkish,,AtanÃ¢n,,,,,,,,,,,x
+d_armenia_minor,turkmen,,AtanÃ¢,,,,,,,,,,,x
+d_armenia_minor,d_armenia_minor_adj_turkmen,,AtanÃ¢n,,,,,,,,,,,x
 c_tarsos,PROV761,,Tarsos,,,,,,,,,,,x
 c_tarsos,c_tarsos,,,,,,,,,,,,,x
 c_tarsos,c_tarsos_adj,,Tarsosian,,,,,,,,,,,x
@@ -3246,12 +3246,12 @@ b_pendosis,turkmen,,Pozanti,,,,,,,,,,,x
 c_adana,PROV762,,Adana,,,,,,,,,,,x
 c_adana,c_adana,,,,,,,,,,,,,x
 c_adana,c_adana_adj,,Adanan,,,,,,,,,,,x
-c_adana,oghuz,,Atanâ,,,,,,,,,,,x
-c_adana,c_adana_adj_oghuz,,Atanân,,,,,,,,,,,x
-c_adana,turkish,,Atanâ,,,,,,,,,,,x
-c_adana,c_adana_adj_turkish,,Atanân,,,,,,,,,,,x
-c_adana,turkmen,,Atanâ,,,,,,,,,,,x
-c_adana,c_adana_adj_turkmen,,Atanân,,,,,,,,,,,x
+c_adana,oghuz,,AtanÃ¢,,,,,,,,,,,x
+c_adana,c_adana_adj_oghuz,,AtanÃ¢n,,,,,,,,,,,x
+c_adana,turkish,,AtanÃ¢,,,,,,,,,,,x
+c_adana,c_adana_adj_turkish,,AtanÃ¢n,,,,,,,,,,,x
+c_adana,turkmen,,AtanÃ¢,,,,,,,,,,,x
+c_adana,c_adana_adj_turkmen,,AtanÃ¢n,,,,,,,,,,,x
 b_alharuniya,b_alharuniya,,Eirenoupolis,,,,,,,,,,,x
 b_alharuniya,b_alharuniya_adj,,,,,,,,,,,,,x
 b_alharuniya,andalusian_arabic,,al-Haruniya,,,,,,,,,,,x
@@ -3375,8 +3375,8 @@ c_teluch,c_teluch,,,,,,,,,,,,,x
 c_teluch,c_teluch_adj,,Teluchian,,,,,,,,,,,x
 c_teluch,andalusian_arabic,,Mar'ash,,,,,,,,,,,x
 c_teluch,c_teluch_adj_andalusian_arabic,,Mar'ashan,,,,,,,,,,,x
-c_teluch,armenian,,Maraš,,,,,,,,,,,x
-c_teluch,c_teluch_adj_armenian,,Marašian,,,,,,,,,,,x
+c_teluch,armenian,,MaraÅ¡,,,,,,,,,,,x
+c_teluch,c_teluch_adj_armenian,,MaraÅ¡ian,,,,,,,,,,,x
 c_teluch,bedouin_arabic,,Mar'ash,,,,,,,,,,,x
 c_teluch,c_teluch_adj_bedouin_arabic,,Mar'ashan,,,,,,,,,,,x
 c_teluch,egyptian_arabic,,Mar'ash,,,,,,,,,,,x
@@ -3404,7 +3404,7 @@ b_kapan,turkmen,,Geben,,,,,,,,,,,x
 b_marash,b_marash,,Germanikeia,,,,,,,,,,,x
 b_marash,b_marash_adj,,,,,,,,,,,,,x
 b_marash,andalusian_arabic,,Mar'ash,,,,,,,,,,,x
-b_marash,armenian,,Maraš,,,,,,,,,,,x
+b_marash,armenian,,MaraÅ¡,,,,,,,,,,,x
 b_marash,bedouin_arabic,,Mar'ash,,,,,,,,,,,x
 b_marash,egyptian_arabic,,Mar'ash,,,,,,,,,,,x
 b_marash,frankish,,Mariscum,,,,,,,,,,,x
@@ -3418,9 +3418,9 @@ b_marash,turkmen,,Maras,,,,,,,,,,,x
 b_zeytun,b_zeytun,,Adata,,,,,,,,,,,x
 b_zeytun,b_zeytun_adj,,,,,,,,,,,,,x
 b_zeytun,armenian,,Zeytoun,,,,,,,,,,,x
-b_zeytun,oghuz,,Süleymanli,,,,,,,,,,,x
-b_zeytun,turkish,,Süleymanli,,,,,,,,,,,x
-b_zeytun,turkmen,,Süleymanli,,,,,,,,,,,x
+b_zeytun,oghuz,,SÃ¼leymanli,,,,,,,,,,,x
+b_zeytun,turkish,,SÃ¼leymanli,,,,,,,,,,,x
+b_zeytun,turkmen,,SÃ¼leymanli,,,,,,,,,,,x
 c_alexandretta,PROV763,,Alexandrou,,,,,,,,,,,x
 c_alexandretta,c_alexandretta,,,,,,,,,,,,,x
 c_alexandretta,c_alexandretta_adj,,Alexandrouan,,,,,,,,,,,x
@@ -3511,15 +3511,15 @@ b_portella,oghuz,,Sariseki,,,,,,,,,,,x
 b_portella,turkish,,Sariseki,,,,,,,,,,,x
 b_portella,turkmen,,Sariseki,,,,,,,,,,,x
 d_seleukeia,d_seleukeia,,Seleukeia,,,,,,,,,,,x
-d_seleukeia,d_seleukeia_adj,,Kilikían,,,,,,,,,,,x
+d_seleukeia,d_seleukeia_adj,,KilikÃ­an,,,,,,,,,,,x
 d_seleukeia,armenian,,Selewkia,,,,,,,,,,,x
 d_seleukeia,d_seleukeia_adj_armenian,,Selewkian,,,,,,,,,,,x
-d_seleukeia,frankish,,Cilicie Trachée,,,,,,,,,,,x
-d_seleukeia,norman,,Cilicie Trachée,,,,,,,,,,,x
+d_seleukeia,frankish,,Cilicie TrachÃ©e,,,,,,,,,,,x
+d_seleukeia,norman,,Cilicie TrachÃ©e,,,,,,,,,,,x
 d_seleukeia,oghuz,,Silifke,,,,,,,,,,,x
 d_seleukeia,d_seleukeia_adj_oghuz,,Silifkan,,,,,,,,,,,x
-d_seleukeia,turkish,,Qarâman,,,,,,,,,,,x
-d_seleukeia,d_seleukeia_adj_turkish,,Qarâmani,,,,,,,,,,,x
+d_seleukeia,turkish,,QarÃ¢man,,,,,,,,,,,x
+d_seleukeia,d_seleukeia_adj_turkish,,QarÃ¢mani,,,,,,,,,,,x
 d_seleukeia,turkmen,,Silifke,,,,,,,,,,,x
 d_seleukeia,d_seleukeia_adj_turkmen,,Silifkan,,,,,,,,,,,x
 c_seleukeia,PROV758,,Seleukeia,,,,,,,,,,,x
@@ -3527,10 +3527,10 @@ c_seleukeia,c_seleukeia,,,,,,,,,,,,,x
 c_seleukeia,c_seleukeia_adj,,Seleukeian,,,,,,,,,,,x
 c_seleukeia,armenian,,Selewkia,,,,,,,,,,,x
 c_seleukeia,c_seleukeia_adj_armenian,,Selewkian,,,,,,,,,,,x
-c_seleukeia,frankish,,Séleph,,,,,,,,,,,x
-c_seleukeia,c_seleukeia_adj_frankish,,Sélephan,,,,,,,,,,,x
-c_seleukeia,norman,,Séleph,,,,,,,,,,,x
-c_seleukeia,c_seleukeia_adj_norman,,Sélephan,,,,,,,,,,,x
+c_seleukeia,frankish,,SÃ©leph,,,,,,,,,,,x
+c_seleukeia,c_seleukeia_adj_frankish,,SÃ©lephan,,,,,,,,,,,x
+c_seleukeia,norman,,SÃ©leph,,,,,,,,,,,x
+c_seleukeia,c_seleukeia_adj_norman,,SÃ©lephan,,,,,,,,,,,x
 c_seleukeia,oghuz,,Silifke,,,,,,,,,,,x
 c_seleukeia,c_seleukeia_adj_oghuz,,Silifkian,,,,,,,,,,,x
 c_seleukeia,turkish,,Silifke,,,,,,,,,,,x
@@ -3554,8 +3554,8 @@ b_corycus,turkmen,,Ghorgos,,,,,,,,,,,x
 b_seleukeia,b_seleukeia,,Seleukeia,,,,,,,,,,,x
 b_seleukeia,b_seleukeia_adj,,,,,,,,,,,,,x
 b_seleukeia,armenian,,Selewkia,,,,,,,,,,,x
-b_seleukeia,frankish,,Séleph,,,,,,,,,,,x
-b_seleukeia,norman,,Séleph,,,,,,,,,,,x
+b_seleukeia,frankish,,SÃ©leph,,,,,,,,,,,x
+b_seleukeia,norman,,SÃ©leph,,,,,,,,,,,x
 b_seleukeia,oghuz,,Silifke,,,,,,,,,,,x
 b_seleukeia,turkish,,Silifke,,,,,,,,,,,x
 b_seleukeia,turkmen,,Silifke,,,,,,,,,,,x
@@ -3630,9 +3630,9 @@ b_anemurium,turkmen,,Anamur,,,,,,,,,,,x
 b_antiochiamikra,b_antiochiamikra,,Antiochia Mikra,,,,,,,,,,,x
 b_antiochiamikra,b_antiochiamikra_adj,,,,,,,,,,,,,x
 b_antiochiamikra,armenian,,Antiok',,,,,,,,,,,x
-b_antiochiamikra,oghuz,,Güney,,,,,,,,,,,x
-b_antiochiamikra,turkish,,Güney,,,,,,,,,,,x
-b_antiochiamikra,turkmen,,Güney,,,,,,,,,,,x
+b_antiochiamikra,oghuz,,GÃ¼ney,,,,,,,,,,,x
+b_antiochiamikra,turkish,,GÃ¼ney,,,,,,,,,,,x
+b_antiochiamikra,turkmen,,GÃ¼ney,,,,,,,,,,,x
 b_mut_seleukeia,b_mut_seleukeia,,Klaudioupolis Ninica,,,,,,,,,,,x
 b_mut_seleukeia,b_mut_seleukeia_adj,,,,,,,,,,,,,x
 b_mut_seleukeia,armenian,,Mud,,,,,,,,,,,x
@@ -3685,7 +3685,7 @@ b_gandzasar,b_gandzasar_adj,,,,,,,,,,,,,x
 c_haband,PROV726,,Haband,,,,,,,,,,,x
 c_haband,c_haband,,,,,,,,,,,,,x
 c_haband,c_haband_adj,,Habandian,,,,,,,,,,,x
-b_ktish,b_ktish,,Ktiš,,,,,,,,,,,x
+b_ktish,b_ktish,,KtiÅ¡,,,,,,,,,,,x
 b_ktish,b_ktish_adj,,,,,,,,,,,,,x
 b_amaras,b_amaras,,Amaras,,,,,,,,,,,x
 b_amaras,b_amaras_adj,,,,,,,,,,,,,x
@@ -3693,23 +3693,23 @@ b_nakorzan,b_nakorzan,,Nakorzan,,,,,,,,,,,x
 b_nakorzan,b_nakorzan_adj,,,,,,,,,,,,,x
 d_suenik,d_suenik,,Siwnik,,,,,,,,,,,x
 d_suenik,d_suenik_adj,,Siwnikian,,,,,,,,,,,x
-d_suenik,oghuz,,Sünik,,,,,,,,,,,x
-d_suenik,d_suenik_adj_oghuz,,Sünikian,,,,,,,,,,,x
-d_suenik,turkish,,Sünik,,,,,,,,,,,x
-d_suenik,d_suenik_adj_turkish,,Sünikian,,,,,,,,,,,x
-d_suenik,turkmen,,Sünik,,,,,,,,,,,x
-d_suenik,d_suenik_adj_turkmen,,Sünikian,,,,,,,,,,,x
+d_suenik,oghuz,,SÃ¼nik,,,,,,,,,,,x
+d_suenik,d_suenik_adj_oghuz,,SÃ¼nikian,,,,,,,,,,,x
+d_suenik,turkish,,SÃ¼nik,,,,,,,,,,,x
+d_suenik,d_suenik_adj_turkish,,SÃ¼nikian,,,,,,,,,,,x
+d_suenik,turkmen,,SÃ¼nik,,,,,,,,,,,x
+d_suenik,d_suenik_adj_turkmen,,SÃ¼nikian,,,,,,,,,,,x
 c_suenik,PROV671,,Suenik,,,,,,,,,,,x
 c_suenik,c_suenik,,,,,,,,,,,,,x
 c_suenik,c_suenik_adj,,Siwnikan,,,,,,,,,,,x
 c_suenik,armenian,,Siwnik,,,,,,,,,,,x
-c_suenik,oghuz,,Sünik,,,,,,,,,,,x
-c_suenik,c_suenik_adj_oghuz,,Sünikan,,,,,,,,,,,x
-c_suenik,c_suenik_adj_pecheneg,,Sünikan,,,,,,,,,,,x
-c_suenik,turkish,,Sünik,,,,,,,,,,,x
-c_suenik,c_suenik_adj_turkish,,Sünikan,,,,,,,,,,,x
-c_suenik,turkmen,,Sünik,,,,,,,,,,,x
-c_suenik,c_suenik_adj_turkmen,,Sünikan,,,,,,,,,,,x
+c_suenik,oghuz,,SÃ¼nik,,,,,,,,,,,x
+c_suenik,c_suenik_adj_oghuz,,SÃ¼nikan,,,,,,,,,,,x
+c_suenik,c_suenik_adj_pecheneg,,SÃ¼nikan,,,,,,,,,,,x
+c_suenik,turkish,,SÃ¼nik,,,,,,,,,,,x
+c_suenik,c_suenik_adj_turkish,,SÃ¼nikan,,,,,,,,,,,x
+c_suenik,turkmen,,SÃ¼nik,,,,,,,,,,,x
+c_suenik,c_suenik_adj_turkmen,,SÃ¼nikan,,,,,,,,,,,x
 b_hrasekaberd,b_hrasekaberd,,Hrasekaberd,,,,,,,,,,,x
 b_hrasekaberd,b_hrasekaberd_adj,,,,,,,,,,,,,x
 b_areni,b_areni,,Areni,,,,,,,,,,,x
@@ -3743,7 +3743,7 @@ b_vardanajor,b_vardanajor,,Vardanajor,,,,,,,,,,,x
 b_vardanajor,b_vardanajor_adj,,,,,,,,,,,,,x
 b_noravank,b_noravank,,Noravank,,,,,,,,,,,x
 b_noravank,b_noravank_adj,,,,,,,,,,,,,x
-b_noravank,greek,,Néa Moní,,,,,,,,,,,x
+b_noravank,greek,,NÃ©a MonÃ­,,,,,,,,,,,x
 b_artsnanik,b_artsnanik,,Artsnanik,,,,,,,,,,,x
 b_artsnanik,b_artsnanik_adj,,,,,,,,,,,,,x
 b_kakavaberd,b_kakavaberd,,Kakavaberd,,,,,,,,,,,x
@@ -3757,19 +3757,19 @@ b_tanjaparakhou,b_tanjaparakhou_adj,,,,,,,,,,,,,x
 c_goghtn,PROV1095,,Goghtn,,,,,,,,,,,x
 c_goghtn,c_goghtn,,,,,,,,,,,,,x
 c_goghtn,c_goghtn_adj,,Goghtnian,,,,,,,,,,,x
-c_goghtn,andalusian_arabic,,Našawa,,,,,,,,,,,x
+c_goghtn,andalusian_arabic,,NaÅ¡awa,,,,,,,,,,,x
 c_goghtn,c_goghtn_adj_andalusian_arabic,,Nashawan,,,,,,,,,,,x
-c_goghtn,bedouin_arabic,,Našawa,,,,,,,,,,,x
+c_goghtn,bedouin_arabic,,NaÅ¡awa,,,,,,,,,,,x
 c_goghtn,c_goghtn_adj_bedouin_arabic,,Nashawan,,,,,,,,,,,x
-c_goghtn,egyptian_arabic,,Našawa,,,,,,,,,,,x
+c_goghtn,egyptian_arabic,,NaÅ¡awa,,,,,,,,,,,x
 c_goghtn,c_goghtn_adj_egyptian_arabic,,Nashawan,,,,,,,,,,,x
 c_goghtn,greek,,Naxouana,,,,,,,,,,,x
 c_goghtn,c_goghtn_adj_greek,,Naxouanan,,,,,,,,,,,x
-c_goghtn,levantine_arabic,,Našawa,,,,,,,,,,,x
+c_goghtn,levantine_arabic,,NaÅ¡awa,,,,,,,,,,,x
 c_goghtn,c_goghtn_adj_levantine_arabic,,Nashawan,,,,,,,,,,,x
-c_goghtn,maghreb_arabic,,Našawa,,,,,,,,,,,x
+c_goghtn,maghreb_arabic,,NaÅ¡awa,,,,,,,,,,,x
 c_goghtn,c_goghtn_adj_maghreb_arabic,,Nashawan,,,,,,,,,,,x
-c_goghtn,sicilian_arabic,,Našawa,,,,,,,,,,,x
+c_goghtn,sicilian_arabic,,NaÅ¡awa,,,,,,,,,,,x
 c_goghtn,c_goghtn_adj_sicilian_arabic,,Nashawan,,,,,,,,,,,x
 b_goghtn,b_goghtn,,Goghtn,,,,,,,,,,,x
 b_goghtn,b_goghtn_adj,,,,,,,,,,,,,x
@@ -3785,13 +3785,13 @@ b_mtsghun,b_mtsghun,,Mtsghun,,,,,,,,,,,x
 b_mtsghun,b_mtsghun_adj,,,,,,,,,,,,,x
 b_nakhichevan,b_nakhichevan,,Nakhichevan,,,,,,,,,,,x
 b_nakhichevan,b_nakhichevan_adj,,,,,,,,,,,,,x
-b_nakhichevan,andalusian_arabic,,Našawa,,,,,,,,,,,x
-b_nakhichevan,bedouin_arabic,,Našawa,,,,,,,,,,,x
-b_nakhichevan,egyptian_arabic,,Našawa,,,,,,,,,,,x
+b_nakhichevan,andalusian_arabic,,NaÅ¡awa,,,,,,,,,,,x
+b_nakhichevan,bedouin_arabic,,NaÅ¡awa,,,,,,,,,,,x
+b_nakhichevan,egyptian_arabic,,NaÅ¡awa,,,,,,,,,,,x
 b_nakhichevan,greek,,Naxouana,,,,,,,,,,,x
-b_nakhichevan,levantine_arabic,,Našawa,,,,,,,,,,,x
-b_nakhichevan,maghreb_arabic,,Našawa,,,,,,,,,,,x
-b_nakhichevan,sicilian_arabic,,Našawa,,,,,,,,,,,x
+b_nakhichevan,levantine_arabic,,NaÅ¡awa,,,,,,,,,,,x
+b_nakhichevan,maghreb_arabic,,NaÅ¡awa,,,,,,,,,,,x
+b_nakhichevan,sicilian_arabic,,NaÅ¡awa,,,,,,,,,,,x
 b_kartchavan,b_kartchavan,,Kartchavan,,,,,,,,,,,x
 b_kartchavan,b_kartchavan_adj,,,,,,,,,,,,,x
 b_noragerd,b_noragerd,,Noragerd,,,,,,,,,,,x
@@ -3852,9 +3852,9 @@ c_vaspurakan,c_vaspurakan_adj_turkmen,,Vanian,,,,,,,,,,,x
 b_haykaberd,b_haykaberd,,Haykaberd,,,,,,,,,,,x
 b_haykaberd,b_haykaberd_adj,,,,,,,,,,,,,x
 b_haykaberd,greek,,Kastron Hayk,,,,,,,,,,,x
-b_haykaberd,oghuz,,Asbasén,,,,,,,,,,,x
-b_haykaberd,turkish,,Asbasén,,,,,,,,,,,x
-b_haykaberd,turkmen,,Asbasén,,,,,,,,,,,x
+b_haykaberd,oghuz,,AsbasÃ©n,,,,,,,,,,,x
+b_haykaberd,turkish,,AsbasÃ©n,,,,,,,,,,,x
+b_haykaberd,turkmen,,AsbasÃ©n,,,,,,,,,,,x
 b_van,b_van,,Van,,,,,,,,,,,x
 b_van,b_van_adj,,,,,,,,,,,,,x
 b_van,kurdish,,Wan,,,,,,,,,,,x
@@ -3884,22 +3884,22 @@ c_persarmenia,c_persarmenia_adj,,Rstunikian,,,,,,,,,,,x
 c_persarmenia,greek,,Moex,,,,,,,,,,,x
 c_persarmenia,c_persarmenia_adj_greek,,Moexian,,,,,,,,,,,x
 c_persarmenia,kurdish,,Mikis,,,,,,,,,,,x
-c_persarmenia,oghuz,,Müküs,,,,,,,,,,,x
-c_persarmenia,c_persarmenia_adj_oghuz,,Müküsian,,,,,,,,,,,x
-c_persarmenia,turkish,,Müküs,,,,,,,,,,,x
-c_persarmenia,c_persarmenia_adj_turkish,,Müküsian,,,,,,,,,,,x
-c_persarmenia,turkmen,,Müküs,,,,,,,,,,,x
-c_persarmenia,c_persarmenia_adj_turkmen,,Müküsian,,,,,,,,,,,x
+c_persarmenia,oghuz,,MÃ¼kÃ¼s,,,,,,,,,,,x
+c_persarmenia,c_persarmenia_adj_oghuz,,MÃ¼kÃ¼sian,,,,,,,,,,,x
+c_persarmenia,turkish,,MÃ¼kÃ¼s,,,,,,,,,,,x
+c_persarmenia,c_persarmenia_adj_turkish,,MÃ¼kÃ¼sian,,,,,,,,,,,x
+c_persarmenia,turkmen,,MÃ¼kÃ¼s,,,,,,,,,,,x
+c_persarmenia,c_persarmenia_adj_turkmen,,MÃ¼kÃ¼sian,,,,,,,,,,,x
 b_moks,b_moks,,Moks,,,,,,,,,,,x
 b_moks,b_moks_adj,,,,,,,,,,,,,x
 b_moks,greek,,Moex,,,,,,,,,,,x
 b_moks,kurdish,,Mikis,,,,,,,,,,,x
-b_moks,oghuz,,Müküs,,,,,,,,,,,x
-b_moks,turkish,,Müküs,,,,,,,,,,,x
-b_moks,turkmen,,Müküs,,,,,,,,,,,x
+b_moks,oghuz,,MÃ¼kÃ¼s,,,,,,,,,,,x
+b_moks,turkish,,MÃ¼kÃ¼s,,,,,,,,,,,x
+b_moks,turkmen,,MÃ¼kÃ¼s,,,,,,,,,,,x
 b_surbkhach,b_surbkhach,,Surb Khach,,,,,,,,,,,x
 b_surbkhach,b_surbkhach_adj,,,,,,,,,,,,,x
-b_surbkhach,greek,,Monì tìs Agio Stavrós,,,,,,,,,,,x
+b_surbkhach,greek,,MonÃ¬ tÃ¬s Agio StavrÃ³s,,,,,,,,,,,x
 b_surbkhach,oghuz,,Ahtamar Kilisesi,,,,,,,,,,,x
 b_surbkhach,turkish,,Ahtamar Kilisesi,,,,,,,,,,,x
 b_surbkhach,turkmen,,Ahtamar Kilisesi,,,,,,,,,,,x
@@ -3916,69 +3916,69 @@ b_surpgevork,b_surpgevork_adj,,,,,,,,,,,,,x
 c_bznunik,PROV702,,Bznunik,,,,,,,,,,,x
 c_bznunik,c_bznunik,,,,,,,,,,,,,x
 c_bznunik,c_bznunik_adj,,Khlatian,,,,,,,,,,,x
-c_bznunik,andalusian_arabic,,Akhlât,,,,,,,,,,,x
-c_bznunik,c_bznunik_adj_andalusian_arabic,,Akhlâtan,,,,,,,,,,,x
+c_bznunik,andalusian_arabic,,AkhlÃ¢t,,,,,,,,,,,x
+c_bznunik,c_bznunik_adj_andalusian_arabic,,AkhlÃ¢tan,,,,,,,,,,,x
 c_bznunik,armenian,,Bznunik,,,,,,,,,,,x
 c_bznunik,assyrian,,Halat,,,,,,,,,,,x
-c_bznunik,bedouin_arabic,,Akhlât,,,,,,,,,,,x
-c_bznunik,c_bznunik_adj_bedouin_arabic,,Akhlâtan,,,,,,,,,,,x
-c_bznunik,egyptian_arabic,,Akhlât,,,,,,,,,,,x
-c_bznunik,c_bznunik_adj_egyptian_arabic,,Akhlâtan,,,,,,,,,,,x
+c_bznunik,bedouin_arabic,,AkhlÃ¢t,,,,,,,,,,,x
+c_bznunik,c_bznunik_adj_bedouin_arabic,,AkhlÃ¢tan,,,,,,,,,,,x
+c_bznunik,egyptian_arabic,,AkhlÃ¢t,,,,,,,,,,,x
+c_bznunik,c_bznunik_adj_egyptian_arabic,,AkhlÃ¢tan,,,,,,,,,,,x
 c_bznunik,greek,,Chalata,,,,,,,,,,,x
 c_bznunik,c_bznunik_adj_greek,,Chalatan,,,,,,,,,,,x
 c_bznunik,kurdish,,Xelat,,,,,,,,,,,x
 c_bznunik,c_bznunik_adj_kurdish,,Xelatan,,,,,,,,,,,x
-c_bznunik,levantine_arabic,,Akhlât,,,,,,,,,,,x
-c_bznunik,c_bznunik_adj_levantine_arabic,,Akhlâtan,,,,,,,,,,,x
-c_bznunik,maghreb_arabic,,Akhlât,,,,,,,,,,,x
-c_bznunik,c_bznunik_adj_maghreb_arabic,,Akhlâtan,,,,,,,,,,,x
+c_bznunik,levantine_arabic,,AkhlÃ¢t,,,,,,,,,,,x
+c_bznunik,c_bznunik_adj_levantine_arabic,,AkhlÃ¢tan,,,,,,,,,,,x
+c_bznunik,maghreb_arabic,,AkhlÃ¢t,,,,,,,,,,,x
+c_bznunik,c_bznunik_adj_maghreb_arabic,,AkhlÃ¢tan,,,,,,,,,,,x
 c_bznunik,oghuz,,Ahlat,,,,,,,,,,,x
 c_bznunik,c_bznunik_adj_oghuz,,Ahlatan,,,,,,,,,,,x
-c_bznunik,sicilian_arabic,,Akhlât,,,,,,,,,,,x
-c_bznunik,c_bznunik_adj_sicilian_arabic,,Akhlâtan,,,,,,,,,,,x
+c_bznunik,sicilian_arabic,,AkhlÃ¢t,,,,,,,,,,,x
+c_bznunik,c_bznunik_adj_sicilian_arabic,,AkhlÃ¢tan,,,,,,,,,,,x
 c_bznunik,turkish,,Ahlat,,,,,,,,,,,x
 c_bznunik,c_bznunik_adj_turkish,,Ahlatan,,,,,,,,,,,x
 c_bznunik,turkmen,,Ahlat,,,,,,,,,,,x
 c_bznunik,c_bznunik_adj_turkmen,,Ahlatan,,,,,,,,,,,x
 b_akhlat,b_akhlat,,Khlat,,,,,,,,,,,x
 b_akhlat,b_akhlat_adj,,,,,,,,,,,,,x
-b_akhlat,andalusian_arabic,,Akhlât,,,,,,,,,,,x
+b_akhlat,andalusian_arabic,,AkhlÃ¢t,,,,,,,,,,,x
 b_akhlat,assyrian,,Halat,,,,,,,,,,,x
-b_akhlat,bedouin_arabic,,Akhlât,,,,,,,,,,,x
-b_akhlat,egyptian_arabic,,Akhlât,,,,,,,,,,,x
+b_akhlat,bedouin_arabic,,AkhlÃ¢t,,,,,,,,,,,x
+b_akhlat,egyptian_arabic,,AkhlÃ¢t,,,,,,,,,,,x
 b_akhlat,greek,,Chalata,,,,,,,,,,,x
 b_akhlat,kurdish,,Xelat,,,,,,,,,,,x
-b_akhlat,levantine_arabic,,Akhlât,,,,,,,,,,,x
-b_akhlat,maghreb_arabic,,Akhlât,,,,,,,,,,,x
+b_akhlat,levantine_arabic,,AkhlÃ¢t,,,,,,,,,,,x
+b_akhlat,maghreb_arabic,,AkhlÃ¢t,,,,,,,,,,,x
 b_akhlat,oghuz,,Ahlat,,,,,,,,,,,x
-b_akhlat,sicilian_arabic,,Akhlât,,,,,,,,,,,x
+b_akhlat,sicilian_arabic,,AkhlÃ¢t,,,,,,,,,,,x
 b_akhlat,turkish,,Ahlat,,,,,,,,,,,x
 b_akhlat,turkmen,,Ahlat,,,,,,,,,,,x
 b_bitlis,b_bitlis,,Baghesh,,,,,,,,,,,x
 b_bitlis,b_bitlis_adj,,,,,,,,,,,,,x
-b_bitlis,andalusian_arabic,,Badlîs,,,,,,,,,,,x
+b_bitlis,andalusian_arabic,,BadlÃ®s,,,,,,,,,,,x
 b_bitlis,assyrian,,Bet Dlis,,,,,,,,,,,x
-b_bitlis,bedouin_arabic,,Badlîs,,,,,,,,,,,x
-b_bitlis,egyptian_arabic,,Badlîs,,,,,,,,,,,x
+b_bitlis,bedouin_arabic,,BadlÃ®s,,,,,,,,,,,x
+b_bitlis,egyptian_arabic,,BadlÃ®s,,,,,,,,,,,x
 b_bitlis,greek,,Balales,,,,,,,,,,,x
-b_bitlis,kurdish,,Bidlîs,,,,,,,,,,,x
-b_bitlis,levantine_arabic,,Badlîs,,,,,,,,,,,x
-b_bitlis,maghreb_arabic,,Badlîs,,,,,,,,,,,x
+b_bitlis,kurdish,,BidlÃ®s,,,,,,,,,,,x
+b_bitlis,levantine_arabic,,BadlÃ®s,,,,,,,,,,,x
+b_bitlis,maghreb_arabic,,BadlÃ®s,,,,,,,,,,,x
 b_bitlis,oghuz,,Bitlis,,,,,,,,,,,x
-b_bitlis,sicilian_arabic,,Badlîs,,,,,,,,,,,x
+b_bitlis,sicilian_arabic,,BadlÃ®s,,,,,,,,,,,x
 b_bitlis,turkish,,Bitlis,,,,,,,,,,,x
 b_bitlis,turkmen,,Bitlis,,,,,,,,,,,x
-b_artzesion,b_artzesion,,Arceš,,,,,,,,,,,x
+b_artzesion,b_artzesion,,ArceÅ¡,,,,,,,,,,,x
 b_artzesion,b_artzesion_adj,,,,,,,,,,,,,x
-b_artzesion,andalusian_arabic,,Arjiš,,,,,,,,,,,x
-b_artzesion,bedouin_arabic,,Arjiš,,,,,,,,,,,x
-b_artzesion,egyptian_arabic,,Arjiš,,,,,,,,,,,x
+b_artzesion,andalusian_arabic,,ArjiÅ¡,,,,,,,,,,,x
+b_artzesion,bedouin_arabic,,ArjiÅ¡,,,,,,,,,,,x
+b_artzesion,egyptian_arabic,,ArjiÅ¡,,,,,,,,,,,x
 b_artzesion,greek,,Artzesion,,,,,,,,,,,x
-b_artzesion,kurdish,,Erdîs,,,,,,,,,,,x
-b_artzesion,levantine_arabic,,Arjiš,,,,,,,,,,,x
-b_artzesion,maghreb_arabic,,Arjiš,,,,,,,,,,,x
+b_artzesion,kurdish,,ErdÃ®s,,,,,,,,,,,x
+b_artzesion,levantine_arabic,,ArjiÅ¡,,,,,,,,,,,x
+b_artzesion,maghreb_arabic,,ArjiÅ¡,,,,,,,,,,,x
 b_artzesion,oghuz,,Ercis,,,,,,,,,,,x
-b_artzesion,sicilian_arabic,,Arjiš,,,,,,,,,,,x
+b_artzesion,sicilian_arabic,,ArjiÅ¡,,,,,,,,,,,x
 b_artzesion,turkish,,Ercis,,,,,,,,,,,x
 b_artzesion,turkmen,,Ercis,,,,,,,,,,,x
 b_berkri,b_berkri,,Berkri,,,,,,,,,,,x
@@ -3987,7 +3987,7 @@ b_berkri,andalusian_arabic,,Barghiri,,,,,,,,,,,x
 b_berkri,bedouin_arabic,,Barghiri,,,,,,,,,,,x
 b_berkri,egyptian_arabic,,Barghiri,,,,,,,,,,,x
 b_berkri,greek,,Perkrion,,,,,,,,,,,x
-b_berkri,kurdish,,Bêgirî,,,,,,,,,,,x
+b_berkri,kurdish,,BÃªgirÃ®,,,,,,,,,,,x
 b_berkri,levantine_arabic,,Barghiri,,,,,,,,,,,x
 b_berkri,maghreb_arabic,,Barghiri,,,,,,,,,,,x
 b_berkri,oghuz,,Bergiri,,,,,,,,,,,x
@@ -3996,17 +3996,17 @@ b_berkri,turkish,,Bergiri,,,,,,,,,,,x
 b_berkri,turkmen,,Bergiri,,,,,,,,,,,x
 b_artske,b_artske,,Artske,,,,,,,,,,,x
 b_artske,b_artske_adj,,,,,,,,,,,,,x
-b_artske,andalusian_arabic,,Zatülcevaz,,,,,,,,,,,x
-b_artske,bedouin_arabic,,Zatülcevaz,,,,,,,,,,,x
-b_artske,egyptian_arabic,,Zatülcevaz,,,,,,,,,,,x
+b_artske,andalusian_arabic,,ZatÃ¼lcevaz,,,,,,,,,,,x
+b_artske,bedouin_arabic,,ZatÃ¼lcevaz,,,,,,,,,,,x
+b_artske,egyptian_arabic,,ZatÃ¼lcevaz,,,,,,,,,,,x
 b_artske,greek,,Artzike,,,,,,,,,,,x
 b_artske,kurdish,,Elcewaz,,,,,,,,,,,x
-b_artske,levantine_arabic,,Zatülcevaz,,,,,,,,,,,x
-b_artske,maghreb_arabic,,Zatülcevaz,,,,,,,,,,,x
-b_artske,oghuz,,Âdelcewz,,,,,,,,,,,x
-b_artske,sicilian_arabic,,Zatülcevaz,,,,,,,,,,,x
-b_artske,turkish,,Âdelcewz,,,,,,,,,,,x
-b_artske,turkmen,,Âdelcewz,,,,,,,,,,,x
+b_artske,levantine_arabic,,ZatÃ¼lcevaz,,,,,,,,,,,x
+b_artske,maghreb_arabic,,ZatÃ¼lcevaz,,,,,,,,,,,x
+b_artske,oghuz,,Ã‚delcewz,,,,,,,,,,,x
+b_artske,sicilian_arabic,,ZatÃ¼lcevaz,,,,,,,,,,,x
+b_artske,turkish,,Ã‚delcewz,,,,,,,,,,,x
+b_artske,turkmen,,Ã‚delcewz,,,,,,,,,,,x
 d_armenia,d_armenia,,Hayk,,,,,,,,,,,x
 d_armenia,d_armenia_adj,,Haykian,,,,,,,,,,,x
 d_armenia,andalusian_arabic,,al-Arminiya,,,,,,,,,,,x
@@ -4019,8 +4019,8 @@ d_armenia,d_armenia_adj_egyptian_arabic,,Arminiyan,,,,,,,,,,,x
 d_armenia,georgian,,Anisi,,,,,,,,,,,x
 d_armenia,greek,,Anion,,,,,,,,,,,x
 d_armenia,d_armenia_adj_greek,,Anionan,,,,,,,,,,,x
-d_armenia,kurdish,,Anî,,,,,,,,,,,x
-d_armenia,d_armenia_adj_kurdish,,Anîan,,,,,,,,,,,x
+d_armenia,kurdish,,AnÃ®,,,,,,,,,,,x
+d_armenia,d_armenia_adj_kurdish,,AnÃ®an,,,,,,,,,,,x
 d_armenia,levantine_arabic,,al-Arminiya,,,,,,,,,,,x
 d_armenia,d_armenia_adj_levantine_arabic,,Arminiyan,,,,,,,,,,,x
 d_armenia,maghreb_arabic,,al-Arminiya,,,,,,,,,,,x
@@ -4042,8 +4042,8 @@ c_dwin,bedouin_arabic,,Dabil,,,,,,,,,,,x
 c_dwin,c_dwin_adj_bedouin_arabic,,Dabilian,,,,,,,,,,,x
 c_dwin,egyptian_arabic,,Dabil,,,,,,,,,,,x
 c_dwin,c_dwin_adj_egyptian_arabic,,Dabilian,,,,,,,,,,,x
-c_dwin,greek,,Doúbios,,,,,,,,,,,x
-c_dwin,c_dwin_adj_greek,,Doúbian,,,,,,,,,,,x
+c_dwin,greek,,DoÃºbios,,,,,,,,,,,x
+c_dwin,c_dwin_adj_greek,,DoÃºbian,,,,,,,,,,,x
 c_dwin,levantine_arabic,,Dabil,,,,,,,,,,,x
 c_dwin,c_dwin_adj_levantine_arabic,,Dabilian,,,,,,,,,,,x
 c_dwin,maghreb_arabic,,Dabil,,,,,,,,,,,x
@@ -4061,7 +4061,7 @@ b_dvin,b_dvin_adj,,,,,,,,,,,,,x
 b_dvin,andalusian_arabic,,Dabil,,,,,,,,,,,x
 b_dvin,bedouin_arabic,,Dabil,,,,,,,,,,,x
 b_dvin,egyptian_arabic,,Dabil,,,,,,,,,,,x
-b_dvin,greek,,Doúbios,,,,,,,,,,,x
+b_dvin,greek,,DoÃºbios,,,,,,,,,,,x
 b_dvin,levantine_arabic,,Dabil,,,,,,,,,,,x
 b_dvin,maghreb_arabic,,Dabil,,,,,,,,,,,x
 b_dvin,oghuz,,Dawin,,,,,,,,,,,x
@@ -4070,20 +4070,20 @@ b_dvin,turkish,,Dawin,,,,,,,,,,,x
 b_dvin,turkmen,,Dawin,,,,,,,,,,,x
 b_surpgrigor,b_surpgrigor,,Surp Grigor,,,,,,,,,,,x
 b_surpgrigor,b_surpgrigor_adj,,,,,,,,,,,,,x
-b_surpgrigor,greek,,Monì tìs Agios Gregorios,,,,,,,,,,,x
-b_artashat,b_artashat,,Artašat,,,,,,,,,,,x
+b_surpgrigor,greek,,MonÃ¬ tÃ¬s Agios Gregorios,,,,,,,,,,,x
+b_artashat,b_artashat,,ArtaÅ¡at,,,,,,,,,,,x
 b_artashat,b_artashat_adj,,,,,,,,,,,,,x
-b_artashat,andalusian_arabic,,Azdisât,,,,,,,,,,,x
-b_artashat,bedouin_arabic,,Azdisât,,,,,,,,,,,x
-b_artashat,egyptian_arabic,,Azdisât,,,,,,,,,,,x
+b_artashat,andalusian_arabic,,AzdisÃ¢t,,,,,,,,,,,x
+b_artashat,bedouin_arabic,,AzdisÃ¢t,,,,,,,,,,,x
+b_artashat,egyptian_arabic,,AzdisÃ¢t,,,,,,,,,,,x
 b_artashat,greek,,Artaxata,,,,,,,,,,,x
-b_artashat,levantine_arabic,,Azdisât,,,,,,,,,,,x
-b_artashat,maghreb_arabic,,Azdisât,,,,,,,,,,,x
-b_artashat,sicilian_arabic,,Azdisât,,,,,,,,,,,x
+b_artashat,levantine_arabic,,AzdisÃ¢t,,,,,,,,,,,x
+b_artashat,maghreb_arabic,,AzdisÃ¢t,,,,,,,,,,,x
+b_artashat,sicilian_arabic,,AzdisÃ¢t,,,,,,,,,,,x
 c_varazhnunik,PROV1531,,Varazhnunik,,,,,,,,,,,x
 c_varazhnunik,c_varazhnunik,,,,,,,,,,,,,x
-c_varazhnunik,c_varazhnunik_adj,,Varažnuniki,,,,,,,,,,,x
-c_varazhnunik,armenian,,Varažnunik,,,,,,,,,,,x
+c_varazhnunik,c_varazhnunik_adj,,VaraÅ¾nuniki,,,,,,,,,,,x
+c_varazhnunik,armenian,,VaraÅ¾nunik,,,,,,,,,,,x
 c_varazhnunik,georgian,,Amberdi,,,,,,,,,,,x
 c_varazhnunik,c_varazhnunik_adj_georgian,,Amberdian,,,,,,,,,,,x
 b_bjni,b_bjni,,Bjni,,,,,,,,,,,x
@@ -4105,13 +4105,13 @@ b_oshakan,b_oshakan_adj,,,,,,,,,,,,,x
 c_ani,PROV681,,Ani,,,,,,,,,,,x
 c_ani,c_ani,,,,,,,,,,,,,x
 c_ani,c_ani_adj,,Anian,,,,,,,,,,,x
-c_ani,armenian,,Širak,,,,,,,,,,,x
+c_ani,armenian,,Å irak,,,,,,,,,,,x
 c_ani,georgian,,Anisi,,,,,,,,,,,x
 c_ani,c_ani_adj_georgian,,Anisian,,,,,,,,,,,x
 c_ani,greek,,Anion,,,,,,,,,,,x
 c_ani,c_ani_adj_greek,,Anian,,,,,,,,,,,x
-c_ani,kurdish,,Anî,,,,,,,,,,,x
-c_ani,c_ani_adj_kurdish,,Anîan,,,,,,,,,,,x
+c_ani,kurdish,,AnÃ®,,,,,,,,,,,x
+c_ani,c_ani_adj_kurdish,,AnÃ®an,,,,,,,,,,,x
 b_kumayri,b_kumayri,,Kumayri,,,,,,,,,,,x
 b_kumayri,b_kumayri_adj,,,,,,,,,,,,,x
 b_erazgewors,b_erazgewors,,Erazgewors,,,,,,,,,,,x
@@ -4123,10 +4123,10 @@ b_ani,b_ani,,Ani,,,,,,,,,,,x
 b_ani,b_ani_adj,,,,,,,,,,,,,x
 b_ani,georgian,,Anisi,,,,,,,,,,,x
 b_ani,greek,,Anion,,,,,,,,,,,x
-b_ani,kurdish,,Anî,,,,,,,,,,,x
+b_ani,kurdish,,AnÃ®,,,,,,,,,,,x
 b_surpasdvadzadzin,b_surpasdvadzadzin,,Surp Asdvadzadzin,,,,,,,,,,,x
 b_surpasdvadzadzin,b_surpasdvadzadzin_adj,,,,,,,,,,,,,x
-b_surpasdvadzadzin,greek,,Monì tìs Agías Marías,,,,,,,,,,,x
+b_surpasdvadzadzin,greek,,MonÃ¬ tÃ¬s AgÃ­as MarÃ­as,,,,,,,,,,,x
 b_marmashen,b_marmashen,,Marmashen,,,,,,,,,,,x
 b_marmashen,b_marmashen_adj,,,,,,,,,,,,,x
 b_horomos,b_horomos,,Horomos,,,,,,,,,,,x
@@ -4148,19 +4148,19 @@ b_armavir,turkish,,Sardarapat,,,,,,,,,,,x
 b_armavir,turkmen,,Sardarapat,,,,,,,,,,,x
 b_vaghaskert,b_vaghaskert,,Vaghaskert,,,,,,,,,,,x
 b_vaghaskert,b_vaghaskert_adj,,,,,,,,,,,,,x
-b_vaghaskert,kurdish,,Zêtka,,,,,,,,,,,x
+b_vaghaskert,kurdish,,ZÃªtka,,,,,,,,,,,x
 b_vaghaskert,oghuz,,Eleskirt,,,,,,,,,,,x
 b_vaghaskert,turkish,,Eleskirt,,,,,,,,,,,x
 b_vaghaskert,turkmen,,Eleskirt,,,,,,,,,,,x
 b_tsolakert,b_tsolakert,,Tsolakert,,,,,,,,,,,x
 b_tsolakert,b_tsolakert_adj,,,,,,,,,,,,,x
-b_tsolakert,kurdish,,Îdir,,,,,,,,,,,x
+b_tsolakert,kurdish,,ÃŽdir,,,,,,,,,,,x
 b_tsolakert,oghuz,,Igdir,,,,,,,,,,,x
 b_tsolakert,turkish,,Igdir,,,,,,,,,,,x
 b_tsolakert,turkmen,,Igdir,,,,,,,,,,,x
 b_daroynk,b_daroynk,,Daroynk,,,,,,,,,,,x
 b_daroynk,b_daroynk_adj,,,,,,,,,,,,,x
-b_daroynk,kurdish,,Bazîd,,,,,,,,,,,x
+b_daroynk,kurdish,,BazÃ®d,,,,,,,,,,,x
 b_daroynk,oghuz,,Beyazit,,,,,,,,,,,x
 b_daroynk,turkish,,Beyazit,,,,,,,,,,,x
 b_daroynk,turkmen,,Beyazit,,,,,,,,,,,x
@@ -4188,14 +4188,14 @@ c_vanand,levantine_arabic,,Qars,,,,,,,,,,,x
 c_vanand,c_vanand_adj_levantine_arabic,,Qarsian,,,,,,,,,,,x
 c_vanand,maghreb_arabic,,Qars,,,,,,,,,,,x
 c_vanand,c_vanand_adj_maghreb_arabic,,Qarsian,,,,,,,,,,,x
-c_vanand,oghuz,,Qârs,,,,,,,,,,,x
-c_vanand,c_vanand_adj_oghuz,,Qârsian,,,,,,,,,,,x
+c_vanand,oghuz,,QÃ¢rs,,,,,,,,,,,x
+c_vanand,c_vanand_adj_oghuz,,QÃ¢rsian,,,,,,,,,,,x
 c_vanand,sicilian_arabic,,Qars,,,,,,,,,,,x
 c_vanand,c_vanand_adj_sicilian_arabic,,Qarsian,,,,,,,,,,,x
-c_vanand,turkish,,Qârs,,,,,,,,,,,x
-c_vanand,c_vanand_adj_turkish,,Qârsian,,,,,,,,,,,x
-c_vanand,turkmen,,Qârs,,,,,,,,,,,x
-c_vanand,c_vanand_adj_turkmen,,Qârsian,,,,,,,,,,,x
+c_vanand,turkish,,QÃ¢rs,,,,,,,,,,,x
+c_vanand,c_vanand_adj_turkish,,QÃ¢rsian,,,,,,,,,,,x
+c_vanand,turkmen,,QÃ¢rs,,,,,,,,,,,x
+c_vanand,c_vanand_adj_turkmen,,QÃ¢rsian,,,,,,,,,,,x
 b_kars,b_kars,,Kars,,,,,,,,,,,x
 b_kars,b_kars_adj,,,,,,,,,,,,,x
 b_kars,andalusian_arabic,,Qars,,,,,,,,,,,x
@@ -4206,10 +4206,10 @@ b_kars,greek,,Karse,,,,,,,,,,,x
 b_kars,kurdish,,Qers,,,,,,,,,,,x
 b_kars,levantine_arabic,,Qars,,,,,,,,,,,x
 b_kars,maghreb_arabic,,Qars,,,,,,,,,,,x
-b_kars,oghuz,,Qârs,,,,,,,,,,,x
+b_kars,oghuz,,QÃ¢rs,,,,,,,,,,,x
 b_kars,sicilian_arabic,,Qars,,,,,,,,,,,x
-b_kars,turkish,,Qârs,,,,,,,,,,,x
-b_kars,turkmen,,Qârs,,,,,,,,,,,x
+b_kars,turkish,,QÃ¢rs,,,,,,,,,,,x
+b_kars,turkmen,,QÃ¢rs,,,,,,,,,,,x
 b_kaghzvan,b_kaghzvan,,Kaghzvan,,,,,,,,,,,x
 b_kaghzvan,b_kaghzvan_adj,,,,,,,,,,,,,x
 b_kaghzvan,greek,,Kalzuan,,,,,,,,,,,x
@@ -4222,19 +4222,19 @@ b_kechran,b_kechran,,Kechran,,,,,,,,,,,x
 b_kechran,b_kechran_adj,,,,,,,,,,,,,x
 b_surpstephanos,b_surpstephanos,,Surp Stephanos,,,,,,,,,,,x
 b_surpstephanos,b_surpstephanos_adj,,,,,,,,,,,,,x
-b_surpstephanos,greek,,Monì tìs Agios Stephános,,,,,,,,,,,x
+b_surpstephanos,greek,,MonÃ¬ tÃ¬s Agios StephÃ¡nos,,,,,,,,,,,x
 b_surparakelots,b_surparakelots,,Surp Arakelots,,,,,,,,,,,x
 b_surparakelots,b_surparakelots_adj,,,,,,,,,,,,,x
-b_surparakelots,greek,,Agíon Apostólon Ekklisía,,,,,,,,,,,x
-d_lori,d_lori,,Tašir,,,,,,,,,,,x
+b_surparakelots,greek,,AgÃ­on ApostÃ³lon EkklisÃ­a,,,,,,,,,,,x
+d_lori,d_lori,,TaÅ¡ir,,,,,,,,,,,x
 d_lori,d_lori_adj,,Lorian,,,,,,,,,,,x
 d_lori,georgian,,Lore,,,,,,,,,,,x
 d_lori,d_lori_adj_georgian,,Lorean,,,,,,,,,,,x
 c_lori,PROV1080,,Lori,,,,,,,,,,,x
 c_lori,c_lori,,,,,,,,,,,,,x
 c_lori,c_lori_adj,,Lorian,,,,,,,,,,,x
-c_lori,armenian,,Tašir,,,,,,,,,,,x
-c_lori,c_lori_adj_armenian,,Taširan,,,,,,,,,,,x
+c_lori,armenian,,TaÅ¡ir,,,,,,,,,,,x
+c_lori,c_lori_adj_armenian,,TaÅ¡iran,,,,,,,,,,,x
 c_lori,georgian,,Lore,,,,,,,,,,,x
 c_lori,c_lori_adj_georgian,,Lorean,,,,,,,,,,,x
 b_loriberd,b_loriberd,,Loriberd,,,,,,,,,,,x
@@ -4289,30 +4289,30 @@ d_taron,sicilian_arabic,,Minazjird,,,,,,,,,,,x
 d_taron,d_taron_adj_sicilian_arabic,,Minazjirdan,,,,,,,,,,,x
 d_taron,turkish,,Malazgird,,,,,,,,,,,x
 d_taron,turkmen,,Malazgird,,,,,,,,,,,x
-c_dzopk,PROV1097,,Ašmušat,,,,,,,,,,,x
+c_dzopk,PROV1097,,AÅ¡muÅ¡at,,,,,,,,,,,x
 c_dzopk,c_dzopk,,,,,,,,,,,,,x
 c_dzopk,c_dzopk_adj,,Dzopkian,,,,,,,,,,,x
-c_dzopk,andalusian_arabic,,Šimšat,,,,,,,,,,,x
-c_dzopk,c_dzopk_adj_andalusian_arabic,,Šimšati,,,,,,,,,,,x
-c_dzopk,bedouin_arabic,,Šimšat,,,,,,,,,,,x
-c_dzopk,c_dzopk_adj_bedouin_arabic,,Šimšati,,,,,,,,,,,x
-c_dzopk,egyptian_arabic,,Šimšat,,,,,,,,,,,x
-c_dzopk,c_dzopk_adj_egyptian_arabic,,Šimšati,,,,,,,,,,,x
+c_dzopk,andalusian_arabic,,Å imÅ¡at,,,,,,,,,,,x
+c_dzopk,c_dzopk_adj_andalusian_arabic,,Å imÅ¡ati,,,,,,,,,,,x
+c_dzopk,bedouin_arabic,,Å imÅ¡at,,,,,,,,,,,x
+c_dzopk,c_dzopk_adj_bedouin_arabic,,Å imÅ¡ati,,,,,,,,,,,x
+c_dzopk,egyptian_arabic,,Å imÅ¡at,,,,,,,,,,,x
+c_dzopk,c_dzopk_adj_egyptian_arabic,,Å imÅ¡ati,,,,,,,,,,,x
 c_dzopk,greek,,Arsamosaton,,,,,,,,,,,x
 c_dzopk,c_dzopk_adj_greek,,Arsamosatonian,,,,,,,,,,,x
-c_dzopk,kurdish,,Erxenî,,,,,,,,,,,x
-c_dzopk,c_dzopk_adj_kurdish,,Erxenîan,,,,,,,,,,,x
-c_dzopk,levantine_arabic,,Šimšat,,,,,,,,,,,x
-c_dzopk,c_dzopk_adj_levantine_arabic,,Šimšati,,,,,,,,,,,x
-c_dzopk,maghreb_arabic,,Šimšat,,,,,,,,,,,x
-c_dzopk,c_dzopk_adj_maghreb_arabic,,Šimšati,,,,,,,,,,,x
-c_dzopk,oghuz,,Bingöl,,,,,,,,,,,x
+c_dzopk,kurdish,,ErxenÃ®,,,,,,,,,,,x
+c_dzopk,c_dzopk_adj_kurdish,,ErxenÃ®an,,,,,,,,,,,x
+c_dzopk,levantine_arabic,,Å imÅ¡at,,,,,,,,,,,x
+c_dzopk,c_dzopk_adj_levantine_arabic,,Å imÅ¡ati,,,,,,,,,,,x
+c_dzopk,maghreb_arabic,,Å imÅ¡at,,,,,,,,,,,x
+c_dzopk,c_dzopk_adj_maghreb_arabic,,Å imÅ¡ati,,,,,,,,,,,x
+c_dzopk,oghuz,,BingÃ¶l,,,,,,,,,,,x
 c_dzopk,c_dzopk_adj_oghuz,,Osmaniyan,,,,,,,,,,,x
-c_dzopk,sicilian_arabic,,Šimšat,,,,,,,,,,,x
-c_dzopk,c_dzopk_adj_sicilian_arabic,,Šimšati,,,,,,,,,,,x
-c_dzopk,turkish,,Bingöl,,,,,,,,,,,x
+c_dzopk,sicilian_arabic,,Å imÅ¡at,,,,,,,,,,,x
+c_dzopk,c_dzopk_adj_sicilian_arabic,,Å imÅ¡ati,,,,,,,,,,,x
+c_dzopk,turkish,,BingÃ¶l,,,,,,,,,,,x
 c_dzopk,c_dzopk_adj_turkish,,Osmaniyan,,,,,,,,,,,x
-c_dzopk,turkmen,,Bingöl,,,,,,,,,,,x
+c_dzopk,turkmen,,BingÃ¶l,,,,,,,,,,,x
 c_dzopk,c_dzopk_adj_turkmen,,Osmaniyan,,,,,,,,,,,x
 b_citharizion,b_citharizion,,Kitharizon,,,,,,,,,,,x
 b_citharizion,b_citharizion_adj,,,,,,,,,,,,,x
@@ -4323,20 +4323,20 @@ b_citharizion,turkmen,,Keteriz,,,,,,,,,,,x
 b_romanopolis,b_romanopolis,,Chapaghjur,,,,,,,,,,,x
 b_romanopolis,b_romanopolis_adj,,,,,,,,,,,,,x
 b_romanopolis,greek,,Romanoupolis,,,,,,,,,,,x
-b_romanopolis,kurdish,,Cewlîg,,,,,,,,,,,x
-b_romanopolis,oghuz,,Bingöl,,,,,,,,,,,x
-b_romanopolis,turkish,,Bingöl,,,,,,,,,,,x
-b_romanopolis,turkmen,,Bingöl,,,,,,,,,,,x
-b_arshamasat,b_arshamasat,,Aršamašat,,,,,,,,,,,x
+b_romanopolis,kurdish,,CewlÃ®g,,,,,,,,,,,x
+b_romanopolis,oghuz,,BingÃ¶l,,,,,,,,,,,x
+b_romanopolis,turkish,,BingÃ¶l,,,,,,,,,,,x
+b_romanopolis,turkmen,,BingÃ¶l,,,,,,,,,,,x
+b_arshamasat,b_arshamasat,,ArÅ¡amaÅ¡at,,,,,,,,,,,x
 b_arshamasat,b_arshamasat_adj,,,,,,,,,,,,,x
-b_arshamasat,andalusian_arabic,,Šimšat,,,,,,,,,,,x
-b_arshamasat,bedouin_arabic,,Šimšat,,,,,,,,,,,x
-b_arshamasat,egyptian_arabic,,Šimšat,,,,,,,,,,,x
+b_arshamasat,andalusian_arabic,,Å imÅ¡at,,,,,,,,,,,x
+b_arshamasat,bedouin_arabic,,Å imÅ¡at,,,,,,,,,,,x
+b_arshamasat,egyptian_arabic,,Å imÅ¡at,,,,,,,,,,,x
 b_arshamasat,greek,,Arsamosaton,,,,,,,,,,,x
-b_arshamasat,levantine_arabic,,Šimšat,,,,,,,,,,,x
-b_arshamasat,maghreb_arabic,,Šimšat,,,,,,,,,,,x
+b_arshamasat,levantine_arabic,,Å imÅ¡at,,,,,,,,,,,x
+b_arshamasat,maghreb_arabic,,Å imÅ¡at,,,,,,,,,,,x
 b_arshamasat,oghuz,,Haraba,,,,,,,,,,,x
-b_arshamasat,sicilian_arabic,,Šimšat,,,,,,,,,,,x
+b_arshamasat,sicilian_arabic,,Å imÅ¡at,,,,,,,,,,,x
 b_arshamasat,turkish,,Haraba,,,,,,,,,,,x
 b_arshamasat,turkmen,,Haraba,,,,,,,,,,,x
 b_arkni,b_arkni,,Arkni,,,,,,,,,,,x
@@ -4345,7 +4345,7 @@ b_arkni,andalusian_arabic,,Arqanin,,,,,,,,,,,x
 b_arkni,bedouin_arabic,,Arqanin,,,,,,,,,,,x
 b_arkni,egyptian_arabic,,Arqanin,,,,,,,,,,,x
 b_arkni,greek,,Erkne,,,,,,,,,,,x
-b_arkni,kurdish,,Erxenî,,,,,,,,,,,x
+b_arkni,kurdish,,ErxenÃ®,,,,,,,,,,,x
 b_arkni,levantine_arabic,,Arqanin,,,,,,,,,,,x
 b_arkni,maghreb_arabic,,Arqanin,,,,,,,,,,,x
 b_arkni,oghuz,,Osmaniye,,,,,,,,,,,x
@@ -4355,25 +4355,25 @@ b_arkni,turkmen,,Osmaniye,,,,,,,,,,,x
 c_taron,PROV701,,Tarawn,,,,,,,,,,,x
 c_taron,c_taron,,,,,,,,,,,,,x
 c_taron,c_taron_adj,,Daronian,,,,,,,,,,,x
-c_taron,andalusian_arabic,,Muš,,,,,,,,,,,x
-c_taron,c_taron_adj_andalusian_arabic,,Mušian,,,,,,,,,,,x
+c_taron,andalusian_arabic,,MuÅ¡,,,,,,,,,,,x
+c_taron,c_taron_adj_andalusian_arabic,,MuÅ¡ian,,,,,,,,,,,x
 c_taron,armenian,,Daron,,,,,,,,,,,x
-c_taron,bedouin_arabic,,Muš,,,,,,,,,,,x
-c_taron,c_taron_adj_bedouin_arabic,,Mušian,,,,,,,,,,,x
-c_taron,egyptian_arabic,,Muš,,,,,,,,,,,x
-c_taron,c_taron_adj_egyptian_arabic,,Mušian,,,,,,,,,,,x
+c_taron,bedouin_arabic,,MuÅ¡,,,,,,,,,,,x
+c_taron,c_taron_adj_bedouin_arabic,,MuÅ¡ian,,,,,,,,,,,x
+c_taron,egyptian_arabic,,MuÅ¡,,,,,,,,,,,x
+c_taron,c_taron_adj_egyptian_arabic,,MuÅ¡ian,,,,,,,,,,,x
 c_taron,greek,,Taron,,,,,,,,,,,x
 c_taron,c_taron_adj_greek,,Taronian,,,,,,,,,,,x
-c_taron,kurdish,,Mûs,,,,,,,,,,,x
-c_taron,c_taron_adj_kurdish,,Mûsian,,,,,,,,,,,x
-c_taron,levantine_arabic,,Muš,,,,,,,,,,,x
-c_taron,c_taron_adj_levantine_arabic,,Mušian,,,,,,,,,,,x
-c_taron,maghreb_arabic,,Muš,,,,,,,,,,,x
-c_taron,c_taron_adj_maghreb_arabic,,Mušian,,,,,,,,,,,x
+c_taron,kurdish,,MÃ»s,,,,,,,,,,,x
+c_taron,c_taron_adj_kurdish,,MÃ»sian,,,,,,,,,,,x
+c_taron,levantine_arabic,,MuÅ¡,,,,,,,,,,,x
+c_taron,c_taron_adj_levantine_arabic,,MuÅ¡ian,,,,,,,,,,,x
+c_taron,maghreb_arabic,,MuÅ¡,,,,,,,,,,,x
+c_taron,c_taron_adj_maghreb_arabic,,MuÅ¡ian,,,,,,,,,,,x
 c_taron,oghuz,,Mus,,,,,,,,,,,x
 c_taron,c_taron_adj_oghuz,,Musian,,,,,,,,,,,x
-c_taron,sicilian_arabic,,Muš,,,,,,,,,,,x
-c_taron,c_taron_adj_sicilian_arabic,,Mušian,,,,,,,,,,,x
+c_taron,sicilian_arabic,,MuÅ¡,,,,,,,,,,,x
+c_taron,c_taron_adj_sicilian_arabic,,MuÅ¡ian,,,,,,,,,,,x
 c_taron,turkish,,Mus,,,,,,,,,,,x
 c_taron,c_taron_adj_turkish,,Musian,,,,,,,,,,,x
 c_taron,turkmen,,Mus,,,,,,,,,,,x
@@ -4383,13 +4383,13 @@ b_sason,b_sason_adj,,,,,,,,,,,,,x
 b_sason,armenian,,Sasun,,,,,,,,,,,x
 b_sason,greek,,Sassoun,,,,,,,,,,,x
 b_sason,kurdish,,Qabilcewz,,,,,,,,,,,x
-b_mush,b_mush,,Muš,,,,,,,,,,,x
+b_mush,b_mush,,MuÅ¡,,,,,,,,,,,x
 b_mush,b_mush_adj,,,,,,,,,,,,,x
 b_mush,andalusian_arabic,,Mus,,,,,,,,,,,x
 b_mush,bedouin_arabic,,Mus,,,,,,,,,,,x
 b_mush,egyptian_arabic,,Mus,,,,,,,,,,,x
 b_mush,greek,,Mous,,,,,,,,,,,x
-b_mush,kurdish,,Mûs,,,,,,,,,,,x
+b_mush,kurdish,,MÃ»s,,,,,,,,,,,x
 b_mush,levantine_arabic,,Mus,,,,,,,,,,,x
 b_mush,maghreb_arabic,,Mus,,,,,,,,,,,x
 b_mush,oghuz,,Mus,,,,,,,,,,,x
@@ -4398,10 +4398,10 @@ b_mush,turkish,,Mus,,,,,,,,,,,x
 b_mush,turkmen,,Mus,,,,,,,,,,,x
 b_surpmarineh,b_surpmarineh,,Surp Marineh,,,,,,,,,,,x
 b_surpmarineh,b_surpmarineh_adj,,,,,,,,,,,,,x
-b_surpmarineh,greek,,Ekklisía tis Agías Nautilías,,,,,,,,,,,x
+b_surpmarineh,greek,,EkklisÃ­a tis AgÃ­as NautilÃ­as,,,,,,,,,,,x
 b_arakelots,b_arakelots,,Surp Arakelots,,,,,,,,,,,x
 b_arakelots,b_arakelots_adj,,,,,,,,,,,,,x
-b_arakelots,greek,,Monì Agíon Apostólon,,,,,,,,,,,x
+b_arakelots,greek,,MonÃ¬ AgÃ­on ApostÃ³lon,,,,,,,,,,,x
 b_arakelots,oghuz,,Arak Manastiri,,,,,,,,,,,x
 b_arakelots,turkish,,Arak Manastiri,,,,,,,,,,,x
 b_arakelots,turkmen,,Arak Manastiri,,,,,,,,,,,x
@@ -4446,10 +4446,10 @@ b_manzikert,turkmen,,Malazgird,,,,,,,,,,,x
 b_glak,b_glak,,Glak,,,,,,,,,,,x
 b_glak,b_glak_adj,,,,,,,,,,,,,x
 b_glak,armenian,,Glakavank,,,,,,,,,,,x
-b_glak,greek,,Monì Glak,,,,,,,,,,,x
-b_glak,oghuz,,Çanli Kilise,,,,,,,,,,,x
-b_glak,turkish,,Çanli Kilise,,,,,,,,,,,x
-b_glak,turkmen,,Çanli Kilise,,,,,,,,,,,x
+b_glak,greek,,MonÃ¬ Glak,,,,,,,,,,,x
+b_glak,oghuz,,Ã‡anli Kilise,,,,,,,,,,,x
+b_glak,turkish,,Ã‡anli Kilise,,,,,,,,,,,x
+b_glak,turkmen,,Ã‡anli Kilise,,,,,,,,,,,x
 b_tondrak,b_tondrak,,Tondrak,,,,,,,,,,,x
 b_tondrak,b_tondrak_adj,,,,,,,,,,,,,x
 b_olnoutin,b_olnoutin,,Olnut,,,,,,,,,,,x
@@ -4457,73 +4457,73 @@ b_olnoutin,b_olnoutin_adj,,,,,,,,,,,,,x
 b_olnoutin,greek,,Olnoutin,,,,,,,,,,,x
 b_khnus,b_khnus,,Knunis,,,,,,,,,,,x
 b_khnus,b_khnus_adj,,,,,,,,,,,,,x
-b_khnus,kurdish,,Xinûs,,,,,,,,,,,x
+b_khnus,kurdish,,XinÃ»s,,,,,,,,,,,x
 b_khnus,oghuz,,Hinis,,,,,,,,,,,x
 b_khnus,turkish,,Hinis,,,,,,,,,,,x
 b_khnus,turkmen,,Hinis,,,,,,,,,,,x
 d_mesopotamia,d_mesopotamia,,Bardzr Hayk,,,,,,,,,,,x
 d_mesopotamia,d_mesopotamia_adj,,Bardzr Haykian,,,,,,,,,,,x
-d_mesopotamia,andalusian_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_andalusian_arabic,,Arzan ar-Rûmi,,,,,,,,,,,x
-d_mesopotamia,bedouin_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_bedouin_arabic,,Arzan ar-Rûmi,,,,,,,,,,,x
-d_mesopotamia,egyptian_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_egyptian_arabic,,Arzan ar-Rûmi,,,,,,,,,,,x
+d_mesopotamia,andalusian_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_andalusian_arabic,,Arzan ar-RÃ»mi,,,,,,,,,,,x
+d_mesopotamia,bedouin_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_bedouin_arabic,,Arzan ar-RÃ»mi,,,,,,,,,,,x
+d_mesopotamia,egyptian_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_egyptian_arabic,,Arzan ar-RÃ»mi,,,,,,,,,,,x
 d_mesopotamia,greek,,Theodosioupolis,,,,,,,,,,,x
 d_mesopotamia,d_mesopotamia_adj_greek,,Mesopotamian,,,,,,,,,,,x
-d_mesopotamia,kurdish,,Erzîrom,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_kurdish,,Erzîromi,,,,,,,,,,,x
-d_mesopotamia,levantine_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_levantine_arabic,,Arzan ar-Rûmi,,,,,,,,,,,x
-d_mesopotamia,maghreb_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_maghreb_arabic,,Arzan ar-Rûmi,,,,,,,,,,,x
-d_mesopotamia,oghuz,,Erzen er-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_oghuz,,Erzen er-Rûmi,,,,,,,,,,,x
-d_mesopotamia,sicilian_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_sicilian_arabic,,Arzan ar-Rûmi,,,,,,,,,,,x
-d_mesopotamia,turkish,,Erzen er-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_turkish,,Erzen er-Rûmi,,,,,,,,,,,x
-d_mesopotamia,turkmen,,Erzen er-Rûm,,,,,,,,,,,x
-d_mesopotamia,d_mesopotamia_adj_turkmen,,Erzen er-Rûmi,,,,,,,,,,,x
+d_mesopotamia,kurdish,,ErzÃ®rom,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_kurdish,,ErzÃ®romi,,,,,,,,,,,x
+d_mesopotamia,levantine_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_levantine_arabic,,Arzan ar-RÃ»mi,,,,,,,,,,,x
+d_mesopotamia,maghreb_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_maghreb_arabic,,Arzan ar-RÃ»mi,,,,,,,,,,,x
+d_mesopotamia,oghuz,,Erzen er-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_oghuz,,Erzen er-RÃ»mi,,,,,,,,,,,x
+d_mesopotamia,sicilian_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_sicilian_arabic,,Arzan ar-RÃ»mi,,,,,,,,,,,x
+d_mesopotamia,turkish,,Erzen er-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_turkish,,Erzen er-RÃ»mi,,,,,,,,,,,x
+d_mesopotamia,turkmen,,Erzen er-RÃ»m,,,,,,,,,,,x
+d_mesopotamia,d_mesopotamia_adj_turkmen,,Erzen er-RÃ»mi,,,,,,,,,,,x
 c_theodosiopolis,PROV704,,Karin,,,,,,,,,,,x
 c_theodosiopolis,c_theodosiopolis,,,,,,,,,,,,,x
 c_theodosiopolis,c_theodosiopolis_adj,,Theodosiopolite,,,,,,,,,,,x
-c_theodosiopolis,andalusian_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_andalusian_arabic,,Arzan ar-Rûman,,,,,,,,,,,x
+c_theodosiopolis,andalusian_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_andalusian_arabic,,Arzan ar-RÃ»man,,,,,,,,,,,x
 c_theodosiopolis,armenian,,Karin,,,,,,,,,,,x
-c_theodosiopolis,bedouin_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_bedouin_arabic,,Arzan ar-Rûman,,,,,,,,,,,x
-c_theodosiopolis,egyptian_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_egyptian_arabic,,Arzan ar-Rûman,,,,,,,,,,,x
+c_theodosiopolis,bedouin_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_bedouin_arabic,,Arzan ar-RÃ»man,,,,,,,,,,,x
+c_theodosiopolis,egyptian_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_egyptian_arabic,,Arzan ar-RÃ»man,,,,,,,,,,,x
 c_theodosiopolis,greek,,Theodosioupolis,,,,,,,,,,,x
 c_theodosiopolis,c_theodosiopolis_adj_greek,,Theodosioupolitan,,,,,,,,,,,x
-c_theodosiopolis,kurdish,,Erzîrom,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_kurdish,,Erzîroman,,,,,,,,,,,x
-c_theodosiopolis,levantine_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_levantine_arabic,,Arzan ar-Rûman,,,,,,,,,,,x
-c_theodosiopolis,maghreb_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_maghreb_arabic,,Arzan ar-Rûman,,,,,,,,,,,x
-c_theodosiopolis,oghuz,,Erzen er-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_oghuz,,Erzen er-Rûman,,,,,,,,,,,x
-c_theodosiopolis,sicilian_arabic,,Arzan ar-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_sicilian_arabic,,Arzan ar-Rûman,,,,,,,,,,,x
-c_theodosiopolis,turkish,,Erzen er-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_turkish,,Erzen er-Rûman,,,,,,,,,,,x
-c_theodosiopolis,turkmen,,Erzen er-Rûm,,,,,,,,,,,x
-c_theodosiopolis,c_theodosiopolis_adj_turkmen,,Erzen er-Rûman,,,,,,,,,,,x
+c_theodosiopolis,kurdish,,ErzÃ®rom,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_kurdish,,ErzÃ®roman,,,,,,,,,,,x
+c_theodosiopolis,levantine_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_levantine_arabic,,Arzan ar-RÃ»man,,,,,,,,,,,x
+c_theodosiopolis,maghreb_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_maghreb_arabic,,Arzan ar-RÃ»man,,,,,,,,,,,x
+c_theodosiopolis,oghuz,,Erzen er-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_oghuz,,Erzen er-RÃ»man,,,,,,,,,,,x
+c_theodosiopolis,sicilian_arabic,,Arzan ar-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_sicilian_arabic,,Arzan ar-RÃ»man,,,,,,,,,,,x
+c_theodosiopolis,turkish,,Erzen er-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_turkish,,Erzen er-RÃ»man,,,,,,,,,,,x
+c_theodosiopolis,turkmen,,Erzen er-RÃ»m,,,,,,,,,,,x
+c_theodosiopolis,c_theodosiopolis_adj_turkmen,,Erzen er-RÃ»man,,,,,,,,,,,x
 b_theodosiopolis,b_theodosiopolis,,Karin,,,,,,,,,,,x
 b_theodosiopolis,b_theodosiopolis_adj,,,,,,,,,,,,,x
 b_theodosiopolis,andalusian_arabic,,Qaliqala,,,,,,,,,,,x
 b_theodosiopolis,bedouin_arabic,,Qaliqala,,,,,,,,,,,x
 b_theodosiopolis,egyptian_arabic,,Qaliqala,,,,,,,,,,,x
 b_theodosiopolis,greek,,Theodosioupolis,,,,,,,,,,,x
-b_theodosiopolis,kurdish,,Erzîrom,,,,,,,,,,,x
+b_theodosiopolis,kurdish,,ErzÃ®rom,,,,,,,,,,,x
 b_theodosiopolis,levantine_arabic,,Qaliqala,,,,,,,,,,,x
 b_theodosiopolis,maghreb_arabic,,Qaliqala,,,,,,,,,,,x
-b_theodosiopolis,oghuz,,Erzen er-Rûm,,,,,,,,,,,x
+b_theodosiopolis,oghuz,,Erzen er-RÃ»m,,,,,,,,,,,x
 b_theodosiopolis,sicilian_arabic,,Qaliqala,,,,,,,,,,,x
-b_theodosiopolis,turkish,,Erzen er-Rûm,,,,,,,,,,,x
-b_theodosiopolis,turkmen,,Erzen er-Rûm,,,,,,,,,,,x
+b_theodosiopolis,turkish,,Erzen er-RÃ»m,,,,,,,,,,,x
+b_theodosiopolis,turkmen,,Erzen er-RÃ»m,,,,,,,,,,,x
 b_artsn,b_artsn,,Artsn,,,,,,,,,,,x
 b_artsn,b_artsn_adj,,,,,,,,,,,,,x
 b_derzene,b_derzene,,Derjan,,,,,,,,,,,x
@@ -4542,9 +4542,9 @@ b_basean,turkish,,Hasankale,,,,,,,,,,,x
 b_basean,turkmen,,Hasankale,,,,,,,,,,,x
 b_jermuk_erzurum,b_jermuk_erzurum,,Jermuk,,,,,,,,,,,x
 b_jermuk_erzurum,b_jermuk_erzurum_adj,,,,,,,,,,,,,x
-b_jermuk_erzurum,oghuz,,Cermük,,,,,,,,,,,x
-b_jermuk_erzurum,turkish,,Cermük,,,,,,,,,,,x
-b_jermuk_erzurum,turkmen,,Cermük,,,,,,,,,,,x
+b_jermuk_erzurum,oghuz,,CermÃ¼k,,,,,,,,,,,x
+b_jermuk_erzurum,turkish,,CermÃ¼k,,,,,,,,,,,x
+b_jermuk_erzurum,turkmen,,CermÃ¼k,,,,,,,,,,,x
 b_daroynk_erzurum,b_daroynk_erzurum,,Daroynk,,,,,,,,,,,x
 b_daroynk_erzurum,b_daroynk_erzurum_adj,,,,,,,,,,,,,x
 c_sper,PROV816,,Sper,,,,,,,,,,,x
@@ -4552,10 +4552,10 @@ c_sper,c_sper,,,,,,,,,,,,,x
 c_sper,c_sper_adj,,Sperian,,,,,,,,,,,x
 c_sper,georgian,,Speri,,,,,,,,,,,x
 c_sper,c_sper_adj_georgian,,Sperian,,,,,,,,,,,x
-c_sper,greek,,Syspirátis,,,,,,,,,,,x
-c_sper,c_sper_adj_greek,,Syspirátisian,,,,,,,,,,,x
-c_sper,kurdish,,Espîr,,,,,,,,,,,x
-c_sper,c_sper_adj_kurdish,,Espîrian,,,,,,,,,,,x
+c_sper,greek,,SyspirÃ¡tis,,,,,,,,,,,x
+c_sper,c_sper_adj_greek,,SyspirÃ¡tisian,,,,,,,,,,,x
+c_sper,kurdish,,EspÃ®r,,,,,,,,,,,x
+c_sper,c_sper_adj_kurdish,,EspÃ®rian,,,,,,,,,,,x
 c_sper,oghuz,,Ispir,,,,,,,,,,,x
 c_sper,c_sper_adj_oghuz,,Ispirian,,,,,,,,,,,x
 c_sper,turkish,,Ispir,,,,,,,,,,,x
@@ -4564,21 +4564,21 @@ c_sper,turkmen,,Ispir,,,,,,,,,,,x
 c_sper,c_sper_adj_turkmen,,Ispirian,,,,,,,,,,,x
 b_baydbert,b_baydbert,,Baydbert,,,,,,,,,,,x
 b_baydbert,b_baydbert_adj,,,,,,,,,,,,,x
-b_baydbert,andalusian_arabic,,Bâburt,,,,,,,,,,,x
-b_baydbert,bedouin_arabic,,Bâburt,,,,,,,,,,,x
-b_baydbert,egyptian_arabic,,Bâburt,,,,,,,,,,,x
-b_baydbert,greek,,Baiberdôn,,,,,,,,,,,x
-b_baydbert,levantine_arabic,,Bâburt,,,,,,,,,,,x
-b_baydbert,maghreb_arabic,,Bâburt,,,,,,,,,,,x
+b_baydbert,andalusian_arabic,,BÃ¢burt,,,,,,,,,,,x
+b_baydbert,bedouin_arabic,,BÃ¢burt,,,,,,,,,,,x
+b_baydbert,egyptian_arabic,,BÃ¢burt,,,,,,,,,,,x
+b_baydbert,greek,,BaiberdÃ´n,,,,,,,,,,,x
+b_baydbert,levantine_arabic,,BÃ¢burt,,,,,,,,,,,x
+b_baydbert,maghreb_arabic,,BÃ¢burt,,,,,,,,,,,x
 b_baydbert,oghuz,,Bayburt,,,,,,,,,,,x
-b_baydbert,sicilian_arabic,,Bâburt,,,,,,,,,,,x
+b_baydbert,sicilian_arabic,,BÃ¢burt,,,,,,,,,,,x
 b_baydbert,turkish,,Bayburt,,,,,,,,,,,x
 b_baydbert,turkmen,,Bayburt,,,,,,,,,,,x
 b_sper,b_sper,,Sper,,,,,,,,,,,x
 b_sper,b_sper_adj,,,,,,,,,,,,,x
 b_sper,georgian,,Speri,,,,,,,,,,,x
-b_sper,greek,,Hyspirátis,,,,,,,,,,,x
-b_sper,kurdish,,Espîr,,,,,,,,,,,x
+b_sper,greek,,HyspirÃ¡tis,,,,,,,,,,,x
+b_sper,kurdish,,EspÃ®r,,,,,,,,,,,x
 b_sper,oghuz,,Ispir,,,,,,,,,,,x
 b_sper,turkish,,Ispir,,,,,,,,,,,x
 b_sper,turkmen,,Ispir,,,,,,,,,,,x
@@ -4679,13 +4679,13 @@ c_charpete,turkish,,Harput,,,,,,,,,,,x
 c_charpete,c_charpete_adj_turkish,,Harputian,,,,,,,,,,,x
 c_charpete,turkmen,,Harput,,,,,,,,,,,x
 c_charpete,c_charpete_adj_turkmen,,Harputian,,,,,,,,,,,x
-b_chosomachon,b_chosomachon,,Cmškacag,,,,,,,,,,,x
+b_chosomachon,b_chosomachon,,CmÅ¡kacag,,,,,,,,,,,x
 b_chosomachon,b_chosomachon_adj,,,,,,,,,,,,,x
 b_chosomachon,greek,,Chosomachon,,,,,,,,,,,x
-b_chosomachon,kurdish,,Melkisî,,,,,,,,,,,x
-b_chosomachon,oghuz,,Çemisgezek,,,,,,,,,,,x
-b_chosomachon,turkish,,Çemisgezek,,,,,,,,,,,x
-b_chosomachon,turkmen,,Çemisgezek,,,,,,,,,,,x
+b_chosomachon,kurdish,,MelkisÃ®,,,,,,,,,,,x
+b_chosomachon,oghuz,,Ã‡emisgezek,,,,,,,,,,,x
+b_chosomachon,turkish,,Ã‡emisgezek,,,,,,,,,,,x
+b_chosomachon,turkmen,,Ã‡emisgezek,,,,,,,,,,,x
 b_mertikerton,b_mertikerton,,Medzgerd,,,,,,,,,,,x
 b_mertikerton,b_mertikerton_adj,,,,,,,,,,,,,x
 b_mertikerton,greek,,Mertikerton,,,,,,,,,,,x
@@ -4717,7 +4717,7 @@ d_edessa,d_edessa,,Edessa,,,,,,,,,,,x
 d_edessa,d_edessa_adj,,Edessan,,,,,,,,,,,x
 d_edessa,andalusian_arabic,,Ar-Ruha,,,,,,,,,,,x
 d_edessa,d_edessa_adj_andalusian_arabic,,Ruhan,,,,,,,,,,,x
-d_edessa,assyrian,,Urhây,,,,,,,,,,,x
+d_edessa,assyrian,,UrhÃ¢y,,,,,,,,,,,x
 d_edessa,bedouin_arabic,,Ar-Ruha,,,,,,,,,,,x
 d_edessa,d_edessa_adj_bedouin_arabic,,Ruhan,,,,,,,,,,,x
 d_edessa,egyptian_arabic,,Ar-Ruha,,,,,,,,,,,x
@@ -4752,7 +4752,7 @@ c_edessa,c_edessa,,,,,,,,,,,,,x
 c_edessa,c_edessa_adj,,Edessan,,,,,,,,,,,x
 c_edessa,andalusian_arabic,,Ar-Ruha,,,,,,,,,,,x
 c_edessa,c_edessa_adj_andalusian_arabic,,Ruhan,,,,,,,,,,,x
-c_edessa,assyrian,,Urhây,,,,,,,,,,,x
+c_edessa,assyrian,,UrhÃ¢y,,,,,,,,,,,x
 c_edessa,bedouin_arabic,,Ar-Ruha,,,,,,,,,,,x
 c_edessa,c_edessa_adj_bedouin_arabic,,Ruhan,,,,,,,,,,,x
 c_edessa,egyptian_arabic,,Ar-Ruha,,,,,,,,,,,x
@@ -4784,7 +4784,7 @@ c_edessa,c_edessa_adj_zanata,,Ruhan,,,,,,,,,,,x
 b_edessa,b_edessa,,Edessa,,,,,,,,,,,x
 b_edessa,b_edessa_adj,,,,,,,,,,,,,x
 b_edessa,andalusian_arabic,,Ar-Ruha,,,,,,,,,,,x
-b_edessa,assyrian,,Urhây,,,,,,,,,,,x
+b_edessa,assyrian,,UrhÃ¢y,,,,,,,,,,,x
 b_edessa,bedouin_arabic,,Ar-Ruha,,,,,,,,,,,x
 b_edessa,egyptian_arabic,,Ar-Ruha,,,,,,,,,,,x
 b_edessa,kurdish,,Riha,,,,,,,,,,,x
@@ -4806,22 +4806,22 @@ b_sruk,bedouin_arabic,,Sarug,,,,,,,,,,,x
 b_sruk,egyptian_arabic,,Sarug,,,,,,,,,,,x
 b_sruk,frankish,,Sorogia,,,,,,,,,,,x
 b_sruk,greek,,Batnai,,,,,,,,,,,x
-b_sruk,kurdish,,Sirûc,,,,,,,,,,,x
+b_sruk,kurdish,,SirÃ»c,,,,,,,,,,,x
 b_sruk,levantine_arabic,,Sarug,,,,,,,,,,,x
 b_sruk,maghreb_arabic,,Sarug,,,,,,,,,,,x
 b_sruk,norman,,Sorogia,,,,,,,,,,,x
-b_sruk,oghuz,,Suruç,,,,,,,,,,,x
+b_sruk,oghuz,,SuruÃ§,,,,,,,,,,,x
 b_sruk,roman,,Batnae,,,,,,,,,,,x
 b_sruk,sicilian_arabic,,Sarug,,,,,,,,,,,x
-b_sruk,turkish,,Suruç,,,,,,,,,,,x
-b_sruk,turkmen,,Suruç,,,,,,,,,,,x
+b_sruk,turkish,,SuruÃ§,,,,,,,,,,,x
+b_sruk,turkmen,,SuruÃ§,,,,,,,,,,,x
 b_bile,b_bile,,Bile,,,,,,,,,,,x
 b_bile,b_bile_adj,,,,,,,,,,,,,x
 b_bile,andalusian_arabic,,al-Birah,,,,,,,,,,,x
 b_bile,bedouin_arabic,,al-Birah,,,,,,,,,,,x
 b_bile,egyptian_arabic,,al-Birah,,,,,,,,,,,x
 b_bile,greek,,Birtha,,,,,,,,,,,x
-b_bile,kurdish,,Bêrecûg,,,,,,,,,,,x
+b_bile,kurdish,,BÃªrecÃ»g,,,,,,,,,,,x
 b_bile,levantine_arabic,,al-Birah,,,,,,,,,,,x
 b_bile,maghreb_arabic,,al-Birah,,,,,,,,,,,x
 b_bile,oghuz,,Birecik,,,,,,,,,,,x
@@ -4836,7 +4836,7 @@ b_hromgla,bedouin_arabic,,Qal'at al-Rum,,,,,,,,,,,x
 b_hromgla,egyptian_arabic,,Qal'at al-Rum,,,,,,,,,,,x
 b_hromgla,frankish,,Ranculat,,,,,,,,,,,x
 b_hromgla,greek,,Romaion Koula,,,,,,,,,,,x
-b_hromgla,kurdish,,Kela Zêrîn,,,,,,,,,,,x
+b_hromgla,kurdish,,Kela ZÃªrÃ®n,,,,,,,,,,,x
 b_hromgla,levantine_arabic,,Qal'at al-Rum,,,,,,,,,,,x
 b_hromgla,maghreb_arabic,,Qal'at al-Rum,,,,,,,,,,,x
 b_hromgla,norman,,Ranculat,,,,,,,,,,,x
@@ -4847,15 +4847,15 @@ b_hromgla,turkmen,,Rumkale,,,,,,,,,,,x
 b_samsat,b_samsat,,Samsat,,,,,,,,,,,x
 b_samsat,b_samsat_adj,,,,,,,,,,,,,x
 b_samsat,andalusian_arabic,,Sumaysat,,,,,,,,,,,x
-b_samsat,armenian,,Šamšat,,,,,,,,,,,x
+b_samsat,armenian,,Å amÅ¡at,,,,,,,,,,,x
 b_samsat,bedouin_arabic,,Sumaysat,,,,,,,,,,,x
 b_samsat,egyptian_arabic,,Sumaysat,,,,,,,,,,,x
 b_samsat,greek,,Samosata,,,,,,,,,,,x
 b_samsat,levantine_arabic,,Sumaysat,,,,,,,,,,,x
 b_samsat,maghreb_arabic,,Sumaysat,,,,,,,,,,,x
-b_samsat,oghuz,,Šimšat,,,,,,,,,,,x
-b_samsat,turkish,,Šimšat,,,,,,,,,,,x
-b_samsat,turkmen,,Šimšat,,,,,,,,,,,x
+b_samsat,oghuz,,Å imÅ¡at,,,,,,,,,,,x
+b_samsat,turkish,,Å imÅ¡at,,,,,,,,,,,x
+b_samsat,turkmen,,Å imÅ¡at,,,,,,,,,,,x
 c_tell_bashir,PROV708,,Turbessel,,,,,,,,,,,x
 c_tell_bashir,c_tell_bashir,,,,,,,,,,,,,x
 c_tell_bashir,c_tell_bashir_adj,,Tell Bashirian,,,,,,,,,,,x
@@ -4975,7 +4975,7 @@ b_behetselin,armenian,,Perre,,,,,,,,,,,x
 b_behetselin,bedouin_arabic,,Hisn Mansur,,,,,,,,,,,x
 b_behetselin,egyptian_arabic,,Hisn Mansur,,,,,,,,,,,x
 b_behetselin,greek,,Perre,,,,,,,,,,,x
-b_behetselin,kurdish,,Semsûr,,,,,,,,,,,x
+b_behetselin,kurdish,,SemsÃ»r,,,,,,,,,,,x
 b_behetselin,levantine_arabic,,Hisn Mansur,,,,,,,,,,,x
 b_behetselin,maghreb_arabic,,Hisn Mansur,,,,,,,,,,,x
 b_behetselin,oghuz,,Hisn-i Mansur,,,,,,,,,,,x
@@ -4986,16 +4986,16 @@ b_raban,b_raban_adj,,,,,,,,,,,,,x
 b_raban,greek,,Rabaine,,,,,,,,,,,x
 b_hartanedessa,b_hartanedessa,,Hartan,,,,,,,,,,,x
 b_hartanedessa,b_hartanedessa_adj,,,,,,,,,,,,,x
-b_hartanedessa,andalusian_arabic,,Kâhta,,,,,,,,,,,x
-b_hartanedessa,bedouin_arabic,,Kâhta,,,,,,,,,,,x
-b_hartanedessa,egyptian_arabic,,Kâhta,,,,,,,,,,,x
+b_hartanedessa,andalusian_arabic,,KÃ¢hta,,,,,,,,,,,x
+b_hartanedessa,bedouin_arabic,,KÃ¢hta,,,,,,,,,,,x
+b_hartanedessa,egyptian_arabic,,KÃ¢hta,,,,,,,,,,,x
 b_hartanedessa,greek,,Arsameia,,,,,,,,,,,x
 b_hartanedessa,kurdish,,Kolik,,,,,,,,,,,x
-b_hartanedessa,levantine_arabic,,Kâhta,,,,,,,,,,,x
-b_hartanedessa,maghreb_arabic,,Kâhta,,,,,,,,,,,x
-b_hartanedessa,oghuz,,Kâhta,,,,,,,,,,,x
-b_hartanedessa,turkish,,Kâhta,,,,,,,,,,,x
-b_hartanedessa,turkmen,,Kâhta,,,,,,,,,,,x
+b_hartanedessa,levantine_arabic,,KÃ¢hta,,,,,,,,,,,x
+b_hartanedessa,maghreb_arabic,,KÃ¢hta,,,,,,,,,,,x
+b_hartanedessa,oghuz,,KÃ¢hta,,,,,,,,,,,x
+b_hartanedessa,turkish,,KÃ¢hta,,,,,,,,,,,x
+b_hartanedessa,turkmen,,KÃ¢hta,,,,,,,,,,,x
 k_georgia,k_georgia,,Sakartvelo,,,,,,,,,,,x
 k_georgia,k_georgia_adj,,Kartvelebi,,,,,,,,,,,x
 k_georgia,greek,,Iberia,,,,,,,,,,,x
@@ -5092,9 +5092,9 @@ b_khakhuli,turkish,,Haho,,,,,,,,,,,x
 b_khakhuli,turkmen,,Haho,,,,,,,,,,,x
 b_oshki,b_oshki,,Oshki,,,,,,,,,,,x
 b_oshki,b_oshki_adj,,,,,,,,,,,,,x
-b_oshki,oghuz,,Ösk Vank,,,,,,,,,,,x
-b_oshki,turkish,,Ösk Vank,,,,,,,,,,,x
-b_oshki,turkmen,,Ösk Vank,,,,,,,,,,,x
+b_oshki,oghuz,,Ã–sk Vank,,,,,,,,,,,x
+b_oshki,turkish,,Ã–sk Vank,,,,,,,,,,,x
+b_oshki,turkmen,,Ã–sk Vank,,,,,,,,,,,x
 d_klarjeti,d_klarjeti,,Klarjeti,,,,,,,,,,,x
 d_klarjeti,d_klarjeti_adj,,Klarjetian,,,,,,,,,,,x
 c_artaani,PROV1359,,Artaani,,,,,,,,,,,x
@@ -5122,15 +5122,15 @@ c_klarjeti,PROV1087,,Klarjeti,,,,,,,,,,,x
 c_klarjeti,c_klarjeti,,,,,,,,,,,,,x
 c_klarjeti,c_klarjeti_adj,,Klarjetian,,,,,,,,,,,x
 c_klarjeti,armenian,,Artanuj,,,,,,,,,,,x
-c_klarjeti,oghuz,,Ardanuç,,,,,,,,,,,x
-c_klarjeti,turkish,,Ardanuç,,,,,,,,,,,x
-c_klarjeti,turkmen,,Ardanuç,,,,,,,,,,,x
+c_klarjeti,oghuz,,ArdanuÃ§,,,,,,,,,,,x
+c_klarjeti,turkish,,ArdanuÃ§,,,,,,,,,,,x
+c_klarjeti,turkmen,,ArdanuÃ§,,,,,,,,,,,x
 b_artanuji,b_artanuji,,Artanuji,,,,,,,,,,,x
 b_artanuji,b_artanuji_adj,,,,,,,,,,,,,x
 b_artanuji,armenian,,Artanuj,,,,,,,,,,,x
-b_artanuji,oghuz,,Ardanuç,,,,,,,,,,,x
-b_artanuji,turkish,,Ardanuç,,,,,,,,,,,x
-b_artanuji,turkmen,,Ardanuç,,,,,,,,,,,x
+b_artanuji,oghuz,,ArdanuÃ§,,,,,,,,,,,x
+b_artanuji,turkish,,ArdanuÃ§,,,,,,,,,,,x
+b_artanuji,turkmen,,ArdanuÃ§,,,,,,,,,,,x
 b_artvini,b_artvini,,Artvini,,,,,,,,,,,x
 b_artvini,b_artvini_adj,,,,,,,,,,,,,x
 b_artvini,armenian,,Ardvin,,,,,,,,,,,x
@@ -5387,7 +5387,7 @@ c_utik,sicilian_arabic,,Utiq,,,,,,,,,,,x
 c_utik,c_utik_adj_sicilian_arabic,,Utiqian,,,,,,,,,,,x
 b_ganja,b_ganja,,Janzah,,,,,,,,,,,x
 b_ganja,b_ganja_adj,,,,,,,,,,,,,x
-b_shamkhor,b_shamkhor,,Šamkhor,,,,,,,,,,,x
+b_shamkhor,b_shamkhor,,Å amkhor,,,,,,,,,,,x
 b_shamkhor,b_shamkhor_adj,,,,,,,,,,,,,x
 d_derbent,d_derbent,,Derbend,,,,,,,,,,,x
 d_derbent,d_derbent_adj,,Derbendi,,,,,,,,,,,x
@@ -5520,9 +5520,9 @@ b_bardij,b_bardij,,Bardij,,,,,,,,,,,x
 b_bardij,b_bardij_adj,,,,,,,,,,,,,x
 b_agsu,b_agsu,,Agsu,,,,,,,,,,,x
 b_agsu,b_agsu_adj,,,,,,,,,,,,,x
-b_arabsaki,b_arabsaki,,Arabšakî,,,,,,,,,,,x
+b_arabsaki,b_arabsaki,,ArabÅ¡akÃ®,,,,,,,,,,,x
 b_arabsaki,b_arabsaki_adj,,,,,,,,,,,,,x
-c_absheron,PROV668,,Abšaran,,,,,,,,,,,x
+c_absheron,PROV668,,AbÅ¡aran,,,,,,,,,,,x
 c_absheron,c_absheron,,,,,,,,,,,,,x
 c_absheron,c_absheron_adj,,,,,,,,,,,,,x
 b_baku,b_baku,,Baku,,,,,,,,,,,x
@@ -5544,7 +5544,7 @@ b_altiagay,b_altiagay_adj,,,,,,,,,,,,,x
 c_maskat,PROV669,,Maskat,,,,,,,,,,,x
 c_maskat,c_maskat,,,,,,,,,,,,,x
 c_maskat,c_maskat_adj,,,,,,,,,,,,,x
-b_shabaran,b_shabaran,,Šabaran,,,,,,,,,,,x
+b_shabaran,b_shabaran,,Å abaran,,,,,,,,,,,x
 b_shabaran,b_shabaran_adj,,,,,,,,,,,,,x
 b_shikhlar,b_shikhlar,,Shikhlar,,,,,,,,,,,x
 b_shikhlar,b_shikhlar_adj,,,,,,,,,,,,,x
