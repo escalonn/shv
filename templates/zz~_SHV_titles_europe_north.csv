@@ -30,7 +30,6 @@ d_skane,d_skane,,Skaane
 d_skane,d_skane_adj,,Skaanske
 d_skane,saxon,,Sconeg
 c_skane,PROV303,,Væstær Skane
-c_skane,c_skane,,
 c_skane,c_skane_adj,,Væstær Skanskr
 b_bollerup,b_bollerup,,Bullathorp
 b_bollerup,b_bollerup_adj,,
@@ -48,7 +47,6 @@ b_lomma,b_lomma,,Lummæ
 b_lomma,b_lomma_adj,,
 b_lomma,norse,,Lomabyr
 c_northern_skane,PROV1310,,Nørræ Skane
-c_northern_skane,c_northern_skane,,
 c_northern_skane,c_northern_skane_adj,,Nørræ Skanskr
 b_tomarp,b_tomarp,,Tummethorp
 b_tomarp,b_tomarp_adj,,
@@ -58,7 +56,6 @@ b_helsingborg,norse,,Helsingaborg
 b_krapperup,b_krapperup,,Krappathorp
 b_krapperup,b_krapperup_adj,,
 c_eastern_skane,PROV1144,,Østær Skane
-c_eastern_skane,c_eastern_skane,,
 c_eastern_skane,c_eastern_skane_adj,,Østær Skanskr
 c_eastern_skane,norse,,Wetlandi
 b_aahus,b_aahus,,Aos
@@ -72,7 +69,6 @@ b_oestra_tommarp,b_oestra_tommarp_adj,,
 b_gyllebo,b_gyllebo,,Gyullæ
 b_gyllebo,b_gyllebo_adj,,
 c_blekinge,PROV6,,Blekyngh
-c_blekinge,c_blekinge,,
 c_blekinge,c_blekinge_adj,,Blekynghr
 b_ronneby,b_ronneby,,Rotnæby
 b_ronneby,b_ronneby_adj,,
@@ -81,7 +77,6 @@ b_solvesborg,b_solvesborg_adj,,
 d_sjaelland,d_sjaelland,,Syaland
 d_sjaelland,d_sjaelland_adj,,Syalandish
 c_sjaelland,PROV266,,Nørræ Syaland
-c_sjaelland,c_sjaelland,,
 c_sjaelland,c_sjaelland_adj,,Nørræ Syalandr
 b_ringsted,b_ringsted,,Ryngstath
 b_ringsted,b_ringsted_adj,,
@@ -97,7 +92,6 @@ b_esrum,b_esrum_adj,,
 b_soeborg,b_soeborg,,Syoburgh
 b_soeborg,b_soeborg_adj,,
 c_western_sjaelland,PROV1027,,Væstær Syaland
-c_western_sjaelland,c_western_sjaelland,,
 c_western_sjaelland,c_western_sjaelland_adj,,Wæstær Syalandr
 b_skarsholm,b_skarsholm,,Skarsioholm
 b_skarsholm,b_skarsholm_adj,,
@@ -110,7 +104,6 @@ b_taarnborg,b_taarnborg_adj,,
 b_kalundborg,b_kalundborg,,Kalundæburgh
 b_kalundborg,b_kalundborg_adj,,
 c_southern_sjaelland,PROV1304,,Syndræ Syaland
-c_southern_sjaelland,c_southern_sjaelland,,
 c_southern_sjaelland,c_southern_sjaelland_adj,,Syndræ Syalandr
 b_heddinge,b_heddinge,,Hæddyng
 b_heddinge,b_heddinge_adj,,
@@ -122,7 +115,6 @@ b_vordingborg,b_vordingborg,,Worthingburgh
 b_vordingborg,b_vordingborg_adj,,
 b_vordingborg,norse,,Worthing
 c_lolland,PROV1043,,Laland
-c_lolland,c_lolland,,
 c_lolland,c_lolland_adj,,Lalandr
 b_nakskov,b_nakskov,,Nacascogh
 b_nakskov,b_nakskov_adj,,
@@ -133,7 +125,6 @@ b_refshale,b_refshale_adj,,
 b_stege,b_stege,,Stighsburgh
 b_stege,b_stege_adj,,
 c_fyn,PROV265,,Fyun
-c_fyn,c_fyn,,
 c_fyn,c_fyn_adj,,Fyunr
 b_faaborg,b_faaborg,,Foburgh
 b_faaborg,b_faaborg_adj,,
@@ -149,7 +140,6 @@ b_nyborg,b_nyborg_adj,,
 d_halland,d_halland,,Halland
 d_halland,d_halland_adj,,Hallandish
 c_northern_halland,PROV1587,,Nørræ Halland
-c_northern_halland,c_northern_halland,,
 c_northern_halland,c_northern_halland_adj,,Nørræ Hallandr
 b_aas,b_aas,,As
 b_aas,b_aas_adj,,
@@ -158,7 +148,6 @@ b_gedekaer,b_gedekaer_adj,,
 b_varberg,b_varberg,,Wardbergh
 b_varberg,b_varberg_adj,,
 c_halland,PROV302,,Syndræ Halland
-c_halland,c_halland,,
 c_halland,c_halland_adj,,Syndræ Hallandr
 b_laholm,b_laholm,,Lagheholm
 b_laholm,b_laholm_adj,,
@@ -167,7 +156,6 @@ b_halmstad,b_halmstad_adj,,
 b_falkenberg,b_falkenberg,,Falkynbergh
 b_falkenberg,b_falkenberg_adj,,
 c_samsoe,PROV1586,,Samsø
-c_samsoe,c_samsoe,,
 c_samsoe,c_samsoe_adj,,Samsør
 c_samsoe,norse,,Sámsey
 b_hjelm,b_hjelm,,Hiælm
@@ -179,7 +167,6 @@ d_jylland,d_jylland,,Jutland
 d_jylland,d_jylland_adj,,Jutlandish
 d_jylland,german,,Jütland
 c_jylland,PROV267,,Abosysæl
-c_jylland,c_jylland,,
 c_jylland,c_jylland_adj,,Abosysælr
 c_jylland,short_name,,yes
 b_kaloe,b_kaloe,,Kalløff
@@ -197,7 +184,6 @@ b_aarhus,norse,,Árós
 b_skanderborg,b_skanderborg,,Scandburgh
 b_skanderborg,b_skanderborg_adj,,
 c_central_jylland,PROV1585,,Warwithsysæl
-c_central_jylland,c_central_jylland,,
 c_central_jylland,c_central_jylland_adj,,Warwithsysælr
 c_central_jylland,short_name,,yes
 b_kolding,b_kolding,,Kaldyng
@@ -210,7 +196,6 @@ b_jelling,b_jelling,,Jalyng
 b_jelling,b_jelling_adj,,
 b_jelling,norse,,Ialang
 c_northeastern_jylland,PROV1584,,Himbræsysæl
-c_northeastern_jylland,c_northeastern_jylland,,
 c_northeastern_jylland,c_northeastern_jylland_adj,,Himbræsysælr
 c_northeastern_jylland,short_name,,yes
 b_aalborg,b_aalborg,,Aleburgh
@@ -223,7 +208,6 @@ b_vitskoel,b_vitskoel_adj,,
 b_hald,b_hald,,Hallæ
 b_hald,b_hald_adj,,
 c_northern_jylland,PROV1051,,Wændlesysæl
-c_northern_jylland,c_northern_jylland,,
 c_northern_jylland,c_northern_jylland_adj,,Wændlesysælr
 c_northern_jylland,norse,,Vendill
 c_northern_jylland,short_name,,yes
@@ -239,7 +223,6 @@ b_thisted,b_thisted_adj,,
 b_aggersborg,b_aggersborg,,Akærsburgh
 b_aggersborg,b_aggersborg_adj,,
 c_western_jylland,PROV1052,,Harthæsysæl
-c_western_jylland,c_western_jylland,,
 c_western_jylland,c_western_jylland_adj,,Harthæsysælr
 c_western_jylland,short_name,,yes
 b_ringkoebing,b_ringkoebing,,Rennumkøpingh
@@ -263,7 +246,6 @@ d_slesvig,norwegian,,Sillendi
 d_slesvig,saxon,,Sillende
 d_slesvig,swedish,,Sillendi
 c_slesvig,PROV264,,Istathesysæl
-c_slesvig,c_slesvig,,
 c_slesvig,c_slesvig_adj,,Istathesysælr
 c_slesvig,german,,Schleswig
 c_slesvig,low_german,,Sleswig
@@ -293,7 +275,6 @@ b_hedeby,low_saxon,,Haithabu
 b_hedeby,norse,,Heiðabyr
 b_hedeby,norwegian,,Heiðabyr
 c_southern_jylland,PROV950,,Ellæmsysæl
-c_southern_jylland,c_southern_jylland,,
 c_southern_jylland,c_southern_jylland_adj,,Ellæmsysælr
 c_southern_jylland,german,,Süderjütland
 c_southern_jylland,norse,,Sillendi
@@ -316,7 +297,6 @@ b_sonderborg,b_sonderborg,,Syndræburgh
 b_sonderborg,b_sonderborg_adj,,
 b_sonderborg,german,,Sonderburg
 c_north_frisia,PROV1182,,Utland
-c_north_frisia,c_north_frisia,,
 c_north_frisia,c_north_frisia_adj,,Utlandr
 c_north_frisia,german,,Außenlande
 c_north_frisia,low_german,,Uthlande
@@ -354,7 +334,6 @@ d_bornholm,norwegian,,Borgundarhólmi
 d_bornholm,d_bornholm_adj_norwegian,,Borgundarhólmir
 d_bornholm,swedish,,Borgundarhólmi
 c_bornholm,PROV305,,Burghændæholm
-c_bornholm,c_bornholm,,
 c_bornholm,c_bornholm_adj,,Burghændæholmr
 c_bornholm,anglonorse,,Borgundarhólmi
 c_bornholm,gothic,,Borgundarhólmi
@@ -375,7 +354,6 @@ k_iceland,k_iceland_adj,,Íslandskr
 d_iceland,d_iceland,,Ísland
 d_iceland,d_iceland_adj,,Íslandskr
 c_southisland,PROV1258,,Suðurland
-c_southisland,c_southisland,,
 c_southisland,c_southisland_adj,,Suðurlandr
 b_alftanes,b_alftanes,,Álftanes
 b_alftanes,b_alftanes_adj,,
@@ -386,19 +364,16 @@ b_skalholt,b_skalholt_adj,,
 b_pingvellir,b_pingvellir,,þingvellir
 b_pingvellir,b_pingvellir_adj,,
 c_vestisland,PROV1,,Vesturland
-c_vestisland,c_vestisland,,
 c_vestisland,c_vestisland_adj,,West Icelandic
 b_husavik,b_husavik,,Húsavík
 b_husavik,b_husavik_adj,,
 b_borgarnes,b_borgarnes,,Digranes
 b_borgarnes,b_borgarnes_adj,,
 c_austisland,PROV2,,Austurland
-c_austisland,c_austisland,,
 c_austisland,c_austisland_adj,,East Icelandic
 b_seydifsjord,b_seydifsjord,,Seyðisfjörður
 b_seydifsjord,b_seydifsjord_adj,,
 c_nordisland,PROV1050,,Norðurland
-c_nordisland,c_nordisland,,
 c_nordisland,c_nordisland_adj,,Norðurlandr
 b_borgarvirki,b_borgarvirki,,Borgarvirki
 b_borgarvirki,b_borgarvirki_adj,,
@@ -414,7 +389,6 @@ d_uppland,d_uppland_adj,,Upplander
 d_uppland,norse,,Sviþjod
 d_uppland,d_uppland_adj_norse,,Sviþjodish
 c_uppland,PROV290,,Tiundaland
-c_uppland,c_uppland,,
 c_uppland,c_uppland_adj,,Upplander
 b_uppsala,b_uppsala,,Uppsala
 b_uppsala,b_uppsala_adj,,
@@ -428,7 +402,6 @@ b_osthammarhus,b_osthammarhus_adj,,
 b_vaksala,b_vaksala,,Waxalle
 b_vaksala,b_vaksala_adj,,
 c_attundaland,PROV1073,,Attundaland
-c_attundaland,c_attundaland,,
 c_attundaland,c_attundaland_adj,,Attundalandr
 b_stockholm,b_stockholm,,Stockholm
 b_stockholm,b_stockholm_adj,,
@@ -441,7 +414,6 @@ b_penningby,b_penningby_adj,,
 b_rydbo,b_rydbo,,Rydbo
 b_rydbo,b_rydbo_adj,,
 c_fjadrundaland,PROV1072,,Fjädrundaland
-c_fjadrundaland,c_fjadrundaland,,
 c_fjadrundaland,c_fjadrundaland_adj,,Fjädrundalandr
 b_enkoping,b_enkoping,,Enköping
 b_enkoping,b_enkoping_adj,,
@@ -454,7 +426,6 @@ b_alsno,norwegian,,Alsnø
 b_hagaslot,b_hagaslot,,Haga
 b_hagaslot,b_hagaslot_adj,,
 c_gastrikland,PROV286,,Gästrikland
-c_gastrikland,c_gastrikland,,
 c_gastrikland,c_gastrikland_adj,,Gästriklander
 c_gastrikland,danish,,Gestrikland
 c_gastrikland,norwegian,,Gestrikland
@@ -467,7 +438,6 @@ b_ockelbo,b_ockelbo_adj,,
 b_hamrange,b_hamrange,,Hamrånge
 b_hamrange,b_hamrange_adj,,
 c_aland,PROV291,,Åland
-c_aland,c_aland,,
 c_aland,c_aland_adj,,Ålander
 b_kastelholm,b_kastelholm,,Kastelholm
 b_kastelholm,b_kastelholm_adj,,
@@ -481,7 +451,6 @@ d_ostergotland,d_ostergotland_adj_norse,,Austrgautlandish
 d_ostergotland,norwegian,,Austrgautland
 d_ostergotland,d_ostergotland_adj_norwegian,,Austrgautlandish
 c_ostergotland,PROV293,,Östergötland
-c_ostergotland,c_ostergotland,,
 c_ostergotland,c_ostergotland_adj,,East Geatish
 c_ostergotland,danish,,Østergøtland
 c_ostergotland,norwegian,,Austrgautland
@@ -502,7 +471,6 @@ b_skanninge,b_skanninge_adj,,
 b_skanninge,danish,,Skænninge
 b_skanninge,norwegian,,Skænninge
 c_more,PROV931,,Möre
-c_more,c_more,,
 c_more,c_more_adj,,Mörer
 c_more,norse,,Möre
 b_kalmarslott,b_kalmarslott,,Kalmarslott
@@ -512,7 +480,6 @@ b_vimmerby,b_vimmerby_adj,,
 b_kalmar,b_kalmar,,Kalmar
 b_kalmar,b_kalmar_adj,,
 c_oland,PROV300,,Öland
-c_oland,c_oland,,
 c_oland,c_oland_adj,,Ölander
 c_oland,danish,,Øland
 c_oland,norwegian,,Øland
@@ -523,7 +490,6 @@ b_eketorp,b_eketorp_adj,,
 b_hauldtorp,b_hauldtorp,,Hauldtorp
 b_hauldtorp,b_hauldtorp_adj,,
 c_smaland,PROV298,,Njudung
-c_smaland,c_smaland,,
 c_smaland,c_smaland_adj,,Värender
 b_nasborg,b_nasborg,,Nâsborg
 b_nasborg,b_nasborg_adj,,
@@ -536,14 +502,12 @@ b_jonkoping,b_jonkoping_adj,,
 b_jonkoping,danish,,Jønkøbing
 b_jonkoping,norwegian,,Jønkøping
 c_tjust,PROV932,,Värend
-c_tjust,c_tjust,,
 c_tjust,c_tjust_adj,,Värendr
 b_kronoberg,b_kronoberg,,Kronoberg
 b_kronoberg,b_kronoberg_adj,,
 b_vaxjo,b_vaxjo,,Växjö
 b_vaxjo,b_vaxjo_adj,,
 c_finnveden,PROV1311,,Finnveden
-c_finnveden,c_finnveden,,
 c_finnveden,c_finnveden_adj,,Finnvedenr
 b_ljungby,b_ljungby,,Ljungby
 b_ljungby,b_ljungby_adj,,
@@ -555,7 +519,6 @@ d_vastergotland,norse,,Vestrgautland
 d_vastergotland,d_vastergotland_adj_norse,,Vestrgautlandish
 d_vastergotland,d_vastergotland_adj_norwegian,,Vestrgautlandish
 c_skara,PROV1071,,Skara
-c_skara,c_skara,,
 c_skara,c_skara_adj,,Skarar
 b_galakvist,b_galakvist,,Gälakvist
 b_galakvist,b_galakvist_adj,,
@@ -581,7 +544,6 @@ b_arneasborg,thuringian,,Arnis
 b_skara,b_skara,,Skara
 b_skara,b_skara_adj,,
 c_vastergotland,PROV297,,Lödöse
-c_vastergotland,c_vastergotland,,
 c_vastergotland,c_vastergotland_adj,,West Geatish
 c_vastergotland,danish,,Lødøse
 c_vastergotland,norwegian,,Lødøse
@@ -598,7 +560,6 @@ b_lodose,b_lodose_adj,,
 b_lodose,danish,,Lødøse
 b_lodose,norwegian,,Lødøse
 c_dal,PROV295,,Dal
-c_dal,c_dal,,
 c_dal,c_dal_adj,,Dalabo
 b_dalaborg,b_dalaborg,,Dalaborg
 b_dalaborg,b_dalaborg_adj,,
@@ -607,7 +568,6 @@ b_bolstad,b_bolstad_adj,,
 d_sodermandland,d_sodermandland,,Södermanland
 d_sodermandland,d_sodermandland_adj,,Södermanish
 c_varmland,PROV288,,Värmilland
-c_varmland,c_varmland,,
 c_varmland,c_varmland_adj,,Värmlander
 c_varmland,danish,,Værmland
 c_varmland,norwegian,,Vermland
@@ -618,7 +578,6 @@ b_arvika,b_arvika_adj,,
 b_josse,b_josse,,Jösse
 b_josse,b_josse_adj,,
 c_narke,PROV294,,Nerike
-c_narke,c_narke,,
 c_narke,c_narke_adj,,Närkian
 c_narke,danish,,Nerke
 c_narke,norwegian,,Nerike
@@ -633,7 +592,6 @@ b_orebro,norwegian,,Ørebro
 b_mosas,b_mosas,,Mosås
 b_mosas,b_mosas_adj,,
 c_sodermanland,PROV292,,Södermanland
-c_sodermanland,c_sodermanland,,
 c_sodermanland,c_sodermanland_adj,,Södermannian
 c_sodermanland,danish,,Sødermanland
 c_sodermanland,norwegian,,Sødermanland
@@ -654,7 +612,6 @@ b_nykoping,b_nykoping_adj,,
 b_nykoping,danish,,Nykøbing
 b_nykoping,norwegian,,Nykøping
 c_vastmanland,PROV289,,Västmanland
-c_vastmanland,c_vastmanland,,
 c_vastmanland,c_vastmanland_adj,,Västmanlander
 c_vastmanland,danish,,Vestmanland
 c_vastmanland,norwegian,,Vestmanland
@@ -675,7 +632,6 @@ b_koping,norwegian,,Køping
 d_halsingland,d_halsingland,,Hälsingland
 d_halsingland,d_halsingland_adj,,Hälsinglandish
 c_dalarna,PROV287,,Järnbäraland
-c_dalarna,c_dalarna,,
 c_dalarna,c_dalarna_adj,,Dalish
 c_dalarna,danish,,Jernbæraland
 c_dalarna,norwegian,,Jernbæraland
@@ -686,7 +642,6 @@ b_kopparberg,b_kopparberg_adj,,
 b_hedemora,b_hedemora,,Hedemora
 b_hedemora,b_hedemora_adj,,
 c_angermanland,PROV281,,Ångermanland
-c_angermanland,c_angermanland,,
 c_angermanland,c_angermanland_adj,,Ångermanlander
 b_bjartra,b_bjartra,,Bjärtrå
 b_bjartra,b_bjartra_adj,,
@@ -699,7 +654,6 @@ b_ulvo,norwegian,,Ulvø
 b_natra,b_natra,,Nätra
 b_natra,b_natra_adj,,
 c_medelpad,PROV283,,Sunded
-c_medelpad,c_medelpad,,
 c_medelpad,c_medelpad_adj,,Medelpadian
 b_selanger,b_selanger,,Selånger
 b_selanger,b_selanger_adj,,
@@ -710,7 +664,6 @@ b_alno,norwegian,,Alnø
 b_njurunda,b_njurunda,,Njurunda
 b_njurunda,b_njurunda_adj,,
 c_halsingland,PROV285,,Alir
-c_halsingland,c_halsingland,,
 c_halsingland,c_halsingland_adj,,Hälsinglander
 b_norrala,b_norrala,,Norrala
 b_norrala,b_norrala_adj,,
@@ -729,7 +682,6 @@ d_gotland,d_gotland_adj_norse,,Gautlandish
 d_gotland,norwegian,,Gautland
 d_gotland,d_gotland_adj_norwegian,,Gautlandish
 c_gotland,PROV301,,Gotland
-c_gotland,c_gotland,,
 c_gotland,c_gotland_adj,,Gotlander
 c_gotland,danish,,Gulland
 c_gotland,norse,,Gautland
@@ -748,7 +700,6 @@ k_norway,k_norway_adj,,Norskr
 d_ostlandet,d_ostlandet,,Víken
 d_ostlandet,d_ostlandet_adj,,Víkian
 c_vestfold,PROV271,,Vestfold
-c_vestfold,c_vestfold,,
 c_vestfold,c_vestfold_adj,,Vestfoldr
 b_kaupang,b_kaupang,,Kaupangr
 b_kaupang,b_kaupang_adj,,
@@ -759,7 +710,6 @@ b_skiringssal,b_skiringssal_adj,,
 b_tonsberg,b_tonsberg,,Túnsberg
 b_tonsberg,b_tonsberg_adj,,
 c_akershus,PROV272,,Vingulmörk
-c_akershus,c_akershus,,
 c_akershus,c_akershus_adj,,Vingulmörkr
 b_oslo,b_oslo,,Óslo
 b_oslo,b_oslo_adj,,
@@ -774,7 +724,6 @@ b_sarpsborg,b_sarpsborg,,Borg
 b_sarpsborg,b_sarpsborg_adj,,
 b_sarpsborg,danish,,Saresburgh
 c_viken,PROV296,,Ránríki
-c_viken,c_viken,,
 c_viken,c_viken_adj,,Vikish
 c_viken,c_viken_adj_norse,,Alfish
 b_kungahalla,b_kungahalla,,Konungahella
@@ -787,7 +736,6 @@ b_bohus,danish,,Bagahuus
 b_ragnhildsholm,b_ragnhildsholm,,Ragnildarholmir
 b_ragnhildsholm,b_ragnhildsholm_adj,,
 c_agder,PROV268,,Egðafylki
-c_agder,c_agder,,
 c_agder,c_agder_adj,,Agðir
 c_agder,short_name,,yes
 b_spangereid,b_spangereid,,Spangareið
@@ -799,7 +747,6 @@ b_oddernes,b_oddernes_adj,,
 b_tromoey,b_tromoey,,Þruma
 b_tromoey,b_tromoey_adj,,
 c_telemark,PROV270,,Þelamørk
-c_telemark,c_telemark,,
 c_telemark,c_telemark_adj,,Þelamørkr
 b_skien,b_skien,,Skiða
 b_skien,b_skien_adj,,
@@ -811,7 +758,6 @@ d_opplandene,d_opplandene,,Upplondum
 d_opplandene,d_opplandene_adj,,Upplondr
 d_opplandene,norse,,Uppland
 c_hedmark,PROV276,,Heiðmørk
-c_hedmark,c_hedmark,,
 c_hedmark,c_hedmark_adj,,Heiðmørkr
 b_hamarhus,b_hamarhus,,Hamarr
 b_hamarhus,b_hamarhus_adj,,
@@ -822,7 +768,6 @@ b_ringnes,b_ringnes_adj,,
 b_ringsaker,b_ringsaker,,Hringisakr
 b_ringsaker,b_ringsaker_adj,,
 c_gudbrandzdalar,PROV1099,,Guðbrandzdalar
-c_gudbrandzdalar,c_gudbrandzdalar,,
 c_gudbrandzdalar,c_gudbrandzdalar_adj,,Guðbrandzdœlir
 b_dovre,b_dovre,,Dofrar
 b_dovre,b_dovre_adj,,
@@ -831,7 +776,6 @@ b_lom,b_lom_adj,,
 b_hundorp,b_hundorp,,Hundþorp
 b_hundorp,b_hundorp_adj,,
 c_raumrike,PROV1100,,Raumríkí
-c_raumrike,c_raumrike,,
 c_raumrike,c_raumrike_adj,,Raumríkír
 b_kongsvinger,b_kongsvinger,,Vingr
 b_kongsvinger,b_kongsvinger_adj,,
@@ -840,7 +784,6 @@ b_soerum,b_soerum_adj,,
 b_eidsvoll,b_eidsvoll,,Eiðsvellir
 b_eidsvoll,b_eidsvoll_adj,,
 c_oppland,PROV273,,Hringaríki
-c_oppland,c_oppland,,
 c_oppland,c_oppland_adj,,Hringaríkir
 b_tanberg,b_tanberg,,Þornberg
 b_tanberg,b_tanberg_adj,,
@@ -851,7 +794,6 @@ b_hole,b_hole_adj,,
 d_vestlandet,d_vestlandet,,Biorgvin
 d_vestlandet,d_vestlandet_adj,,Horðr
 c_bergenshus,PROV274,,Horðaland
-c_bergenshus,c_bergenshus,,
 c_bergenshus,c_bergenshus_adj,,Horðr
 b_stoele,b_stoele,,Stuðla
 b_stoele,b_stoele_adj,,
@@ -872,7 +814,6 @@ b_seim,b_seim_adj,,
 b_ask,b_ask,,Askr
 b_ask,b_ask_adj,,
 c_rogaland,PROV269,,Rygjafylki
-c_rogaland,c_rogaland,,
 c_rogaland,c_rogaland_adj,,Rogalander
 c_rogaland,short_name,,yes
 b_utstein,b_utstein,,Útsteinn
@@ -884,7 +825,6 @@ b_sola,b_sola_adj,,
 b_avaldsnes,b_avaldsnes,,Aagvaldnes
 b_avaldsnes,b_avaldsnes_adj,,
 c_sogn,PROV1278,,Sygnafylki
-c_sogn,c_sogn,,
 c_sogn,c_sogn_adj,,Sognr
 c_sogn,short_name,,yes
 b_aurland,b_aurland,,Aurland
@@ -892,7 +832,6 @@ b_aurland,b_aurland_adj,,
 b_hoeyanger,b_hoeyanger,,Heyangr
 b_hoeyanger,b_hoeyanger_adj,,
 c_foerde,PROV1067,,Firðafylki
-c_foerde,c_foerde,,
 c_foerde,c_foerde_adj,,Firðir
 c_foerde,short_name,,yes
 b_audunborg,b_audunborg,,Audanborg
@@ -904,7 +843,6 @@ b_aasmul,b_aasmul_adj,,
 d_more,d_more,,Mœri
 d_more,d_more_adj,,Mœrir
 c_nordland,PROV391,,Norðmœri
-c_nordland,c_nordland,,
 c_nordland,c_nordland_adj,,Norðmœrir
 b_rissa,b_rissa,,Rein
 b_rissa,b_rissa_adj,,
@@ -915,12 +853,10 @@ b_austraat,b_austraat_adj,,
 b_bjerkestrand,b_bjerkestrand,,Birkistrond
 b_bjerkestrand,b_bjerkestrand_adj,,
 c_romsdal,PROV1289,,Raumsdalr
-c_romsdal,c_romsdal,,
 c_romsdal,c_romsdal_adj,,Raumsdœlir
 b_hustad_romsdal,b_hustad_romsdal,,Húsastaðir
 b_hustad_romsdal,b_hustad_romsdal_adj,,
 c_sunmore,PROV1010,,Sunnmœri
-c_sunmore,c_sunmore,,
 c_sunmore,c_sunmore_adj,,Sunnmœrir
 b_aspa,b_aspa,,Aspaey
 b_aspa,b_aspa_adj,,
@@ -945,7 +881,6 @@ b_longtun,b_longtun_adj,,
 b_lade,b_lade,,Hlaðir
 b_lade,b_lade_adj,,
 c_steinkjer,PROV1257,,Innriþrœndalóg
-c_steinkjer,c_steinkjer,,
 c_steinkjer,c_steinkjer_adj,,Innriþrœndalóg
 b_steinkjer,b_steinkjer,,Steinker
 b_steinkjer,b_steinkjer_adj,,
@@ -967,7 +902,6 @@ b_egge,b_egge_adj,,
 d_halogaland,d_halogaland,,Hálogaland
 d_halogaland,d_halogaland_adj,,Hálogalandr
 c_halogaland,PROV278,,Hálogaland
-c_halogaland,c_halogaland,,
 c_halogaland,c_halogaland_adj,,Hálogalandr
 b_vaagan,b_vaagan,,Vágar
 b_vaagan,b_vaagan_adj,,
@@ -988,13 +922,11 @@ b_torget,b_torget_adj,,
 b_sandnessjoeen,b_sandnessjoeen,,Sandnes
 b_sandnessjoeen,b_sandnessjoeen_adj,,
 c_naumadal,PROV277,,Naumdœlfylki
-c_naumadal,c_naumadal,,
 c_naumadal,c_naumadal_adj,,Naumdœlir
 c_naumadal,short_name,,yes
 b_fosnes,b_fosnes,,Fólgsnnes
 b_fosnes,b_fosnes_adj,,
 c_finnmark,PROV389,,Finnmörk
-c_finnmark,c_finnmark,,
 c_finnmark,c_finnmark_adj,,Finnr
 c_finnmark,finnish,,Finnmárku
 c_finnmark,karelian,,Finnmárku
@@ -1021,14 +953,12 @@ b_tromsoe,vepsian,,Tromssa
 d_jamtland,d_jamtland,,Jamtaland
 d_jamtland,d_jamtland_adj,,Jamtalandr
 c_jamtland,PROV282,,Jamtaland
-c_jamtland,c_jamtland,,
 c_jamtland,c_jamtland_adj,,Jamtalandr
 b_vasterhus,b_vasterhus,,Vestrhus
 b_vasterhus,b_vasterhus_adj,,
 b_brunflo,b_brunflo,,Hagnastadha
 b_brunflo,b_brunflo_adj,,
 c_herjedalen,PROV284,,Herjárdalr
-c_herjedalen,c_herjedalen,,
 c_herjedalen,c_herjedalen_adj,,Herjárdœlir
 b_lillhardal,b_lillhardal,,Lillhärdal
 b_lillhardal,b_lillhardal_adj,,
@@ -1037,7 +967,6 @@ b_sveg,b_sveg_adj,,
 d_faereyar,d_faereyar,,Faereyar
 d_faereyar,d_faereyar_adj,,Faereyar
 c_faereyar,PROV33,,Færeyar
-c_faereyar,c_faereyar,,
 c_faereyar,c_faereyar_adj,,Fairy
 b_klaksvik,b_klaksvik,,Klaksvik
 b_klaksvik,b_klaksvik_adj,,
@@ -1089,7 +1018,6 @@ d_finland,swedish,,Österland
 d_finland,ugricbaltic,,Suomi
 d_finland,vepsian,,Suomi
 c_finland,PROV382,,Finland
-c_finland,c_finland,,
 c_finland,c_finland_adj,,Finlander
 c_finland,finnish,,Suomi
 c_finland,karelian,,Suomi
@@ -1172,7 +1100,6 @@ b_stenberga,samoyed,,Teinperi
 b_stenberga,ugricbaltic,,Teinperi
 b_stenberga,vepsian,,Teinperi
 c_nyland,PROV381,,Nyland
-c_nyland,c_nyland,,
 c_nyland,c_nyland_adj,,Nylander
 c_nyland,finnish,,Uusimaa
 c_nyland,karelian,,Uusimaa
@@ -1270,7 +1197,6 @@ b_jukarsborg,samoyed,,Junkarsborg
 b_jukarsborg,ugricbaltic,,Junkarsborg
 b_jukarsborg,vepsian,,Junkarsborg
 c_tavasts,PROV383,,Tavastland
-c_tavasts,c_tavasts,,
 c_tavasts,c_tavasts_adj,,Tavastian
 c_tavasts,finnish,,Häme
 c_tavasts,karelian,,Häme
@@ -1329,7 +1255,6 @@ b_hameenlinna,samoyed,,Hämeenlinna
 b_hameenlinna,ugricbaltic,,Hämeenlinna
 b_hameenlinna,vepsian,,Hämeenlinna
 c_satakunta,PROV384,,Satakunda
-c_satakunta,c_satakunta,,
 c_satakunta,c_satakunta_adj,,Satakuntan
 c_satakunta,finnish,,Satakunta
 c_satakunta,karelian,,Satakunta
@@ -1394,7 +1319,6 @@ b_ulvila,samoyed,,Ulvila
 b_ulvila,ugricbaltic,,Ulvila
 b_ulvila,vepsian,,Ulvila
 c_savolaks,PROV390,,Savolax
-c_savolaks,c_savolaks,,
 c_savolaks,c_savolaks_adj,,Savolaksian
 c_savolaks,finnish,,Savo
 c_savolaks,karelian,,Savo
@@ -1473,7 +1397,6 @@ d_viipuri,d_viipuri_adj_serbian,,Korela
 d_viipuri,ugricbaltic,,Viipurii
 d_viipuri,vepsian,,Viipurii
 c_viipuri,PROV1296,,Viipuri
-c_viipuri,c_viipuri,,
 c_viipuri,c_viipuri_adj,,Viipuri
 b_virolahti,b_virolahti,,Vederlax
 b_virolahti,b_virolahti_adj,,
@@ -1527,7 +1450,6 @@ b_viipuri,samoyed,,Viipurii
 b_viipuri,ugricbaltic,,Viipurii
 b_viipuri,vepsian,,Viipurii
 c_kexholm,PROV392,,Kexholm
-c_kexholm,c_kexholm,,
 c_kexholm,c_kexholm_adj,,Kexholmian
 c_kexholm,finnish,,Käkisalmi
 c_kexholm,karelian,,Käkisalmi
@@ -1600,7 +1522,6 @@ d_norrland,saxon,,Cwenaland
 d_norrland,ugricbaltic,,Norlanti
 d_norrland,vepsian,,Norlanti
 c_vasterbotten,PROV280,,Norrland
-c_vasterbotten,c_vasterbotten,,
 c_vasterbotten,c_vasterbotten_adj,,Västerbottnian
 c_vasterbotten,finnish,,Norlanti
 c_vasterbotten,karelian,,Norlanti
@@ -1623,7 +1544,6 @@ b_kalix,b_kalix_adj,,
 b_umea,b_umea,,Umeå
 b_umea,b_umea_adj,,
 c_osterbotten,PROV385,,Österbotten
-c_osterbotten,c_osterbotten,,
 c_osterbotten,c_osterbotten_adj,,Ostrobothnian
 c_osterbotten,finnish,,Pohjanmaa
 c_osterbotten,karelian,,Pohjanmaa
@@ -1646,7 +1566,6 @@ b_nykarleby,b_nykarleby_adj,,
 b_oulu,b_oulu,,Oulu
 b_oulu,b_oulu_adj,,
 c_kemi,PROV386,,Kvänland
-c_kemi,c_kemi,,
 c_kemi,c_kemi_adj,,Kemian
 c_kemi,finnish,,Kainuu
 c_kemi,karelian,,Kainuu
@@ -1679,7 +1598,6 @@ d_karelia,norwegian,,Kirialaland
 d_karelia,saxon,,Kirialaland
 d_karelia,swedish,,Kirialaland
 c_kola,PROV387,,Olonec
-c_kola,c_kola,,
 c_kola,c_kola_adj,,Kolaian
 b_kizhi,b_kizhi,,Kizhi
 b_kizhi,b_kizhi_adj,,
@@ -1688,14 +1606,12 @@ b_valaam,b_valaam_adj,,
 b_olonec,b_olonec,,Olonec
 b_olonec,b_olonec_adj,,
 c_karelen,PROV388,,Karjala
-c_karelen,c_karelen,,
 c_karelen,c_karelen_adj,,Karelenian
 b_solovetsky,b_solovetsky,,Solovetsky
 b_solovetsky,b_solovetsky_adj,,
 b_kem,b_kem,,Kem
 b_kem,b_kem_adj,,
 c_trans-portage,PROV394,,Pomorye
-c_trans-portage,c_trans-portage,,
 c_trans-portage,c_trans-portage_adj,,Pomorye
 b_spasskij,b_spasskij,,Spasskij
 b_spasskij,b_spasskij_adj,,
@@ -1713,7 +1629,6 @@ b_belomorsk,samoyed,,Šuomua
 b_belomorsk,ugricbaltic,,Šuomua
 b_belomorsk,vepsian,,Šuomua
 c_kandalax,PROV850,,Kantalahti
-c_kandalax,c_kandalax,,
 c_kandalax,c_kandalax_adj,,Kandalaxian
 b_varzuga,b_varzuga,,Varzuga
 b_varzuga,b_varzuga_adj,,
@@ -1732,7 +1647,6 @@ d_ingria,d_ingria_adj_pommeranian,,Izhora
 d_ingria,d_ingria_adj_russian,,Izhora
 d_ingria,d_ingria_adj_serbian,,Izhora
 c_vodi,PROV411,,Ingria
-c_vodi,c_vodi,,
 c_vodi,c_vodi_adj,,Ingrian
 b_kolin,b_kolin,,Kolin
 b_kolin,b_kolin_adj,,
@@ -1741,7 +1655,6 @@ b_noteborg,b_noteborg_adj,,
 b_nyen,b_nyen,,Nyen
 b_nyen,b_nyen_adj,,
 c_koporje,PROV1268,,Koporje
-c_koporje,c_koporje,,
 c_koporje,c_koporje_adj,,Koporjan
 b_khotchino,b_khotchino,,Khotchino
 b_khotchino,b_khotchino_adj,,

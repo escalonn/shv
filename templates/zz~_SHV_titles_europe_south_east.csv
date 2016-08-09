@@ -69,7 +69,6 @@ d_thrace,pecheneg,,Trakya
 d_thrace,turkish,,Trakya
 d_thrace,turkmen,,Trakya
 c_kaliopolis,PROV495,,Kallipolis
-c_kaliopolis,c_kaliopolis,,
 c_kaliopolis,c_kaliopolis_adj,,Kaliopolisian
 c_kaliopolis,oghuz,,Gelibolu
 c_kaliopolis,c_kaliopolis_adj_oghuz,,Gelibolan
@@ -141,7 +140,6 @@ b_tzouroulos,pecheneg,,Corlu
 b_tzouroulos,turkish,,Corlu
 b_tzouroulos,turkmen,,Corlu
 c_byzantion,PROV496,,Konstantinoupolis
-c_byzantion,c_byzantion,,
 c_byzantion,c_byzantion_adj,,Constantinopian
 c_byzantion,andalusian_arabic,,al-Qustantiniyah
 c_byzantion,c_byzantion_adj_andalusian_arabic,,Qustantiniyan
@@ -276,7 +274,6 @@ b_pempton,pecheneg,,Yedikule
 b_pempton,turkish,,Yedikule
 b_pempton,turkmen,,Yedikule
 c_thrake,PROV497,,Thráke
-c_thrake,c_thrake,,
 c_thrake,c_thrake_adj,,Thrakian
 c_thrake,bulgarian,,Trakija
 c_thrake,c_thrake_adj_bulgarian,,Trakijan
@@ -343,7 +340,6 @@ d_strymon,d_strymon_adj_turkish,,Serezian
 d_strymon,turkmen,,Serez
 d_strymon,d_strymon_adj_turkmen,,Serezian
 c_traianopolis,PROV1016,,Traianopolis
-c_traianopolis,c_traianopolis,,
 c_traianopolis,c_traianopolis_adj,,Traianopolitan
 c_traianopolis,bulgarian,,Dimotika
 c_traianopolis,c_traianopolis_adj_bulgarian,,Dimotikan
@@ -377,7 +373,6 @@ b_maroneia,pecheneg,,Maronya
 b_maroneia,turkish,,Maronya
 b_maroneia,turkmen,,Maronya
 c_strymon,PROV492,,Strymonos
-c_strymon,c_strymon,,
 c_strymon,c_strymon_adj,,Strymonitan
 c_strymon,bulgarian,,Syar
 c_strymon,c_strymon_adj_bulgarian,,Syarian
@@ -418,7 +413,6 @@ b_siderokastron,pecheneg,,Demirhisar
 b_siderokastron,turkish,,Demirhisar
 b_siderokastron,turkmen,,Demirhisar
 c_mosynopolis,PROV940,,Mosynopolis
-c_mosynopolis,c_mosynopolis,,
 c_mosynopolis,c_mosynopolis_adj,,Mosynopolitan
 c_mosynopolis,bulgarian,,Gyumyurdzina
 c_mosynopolis,c_mosynopolis_adj_bulgarian,,Gyumyurdzinan
@@ -482,7 +476,6 @@ d_thessalonika,turkmen,,Selânik
 d_thessalonika,tuscan,,Tessalonica
 d_thessalonika,venetian,,Tessalonica
 c_chalkidike,PROV491,,Chalkidike
-c_chalkidike,c_chalkidike,,
 c_chalkidike,c_chalkidike_adj,,Chalkidikan
 c_chalkidike,oghuz,,Halkidikya
 c_chalkidike,c_chalkidike_adj_oghuz,,Halkidikyan
@@ -506,7 +499,6 @@ b_ierissos,pecheneg,,Erse
 b_ierissos,turkish,,Erse
 b_ierissos,turkmen,,Erse
 c_thessalonike,PROV490,,Thessaloníke
-c_thessalonike,c_thessalonike,,
 c_thessalonike,c_thessalonike_adj,,Thessalonikian
 c_thessalonike,bohemian,,Solun
 c_thessalonike,c_thessalonike_adj_bohemian,,Solunian
@@ -610,7 +602,6 @@ b_langadas,turkmen,,Langaza
 b_gynaikokastron,b_gynaikokastron,,Gynaikokastron
 b_gynaikokastron,b_gynaikokastron_adj,,
 c_veria,PROV1346,,Verroia
-c_veria,c_veria,,
 c_veria,c_veria_adj,,Verroian
 c_veria,bulgarian,,Ber
 c_veria,c_veria_adj_bulgarian,,Berian
@@ -680,7 +671,6 @@ d_neopatras,d_neopatras_adj_tuscan,,Neopatrian
 d_neopatras,venetian,,Neopatras
 d_neopatras,d_neopatras_adj_venetian,,Neopatrian
 c_thessalia,PROV489,,Thessalía
-c_thessalia,c_thessalia,,
 c_thessalia,c_thessalia_adj,,Thessalian
 c_thessalia,catalan,,Tessália
 c_thessalia,c_thessalia_adj_catalan,,Tessálian
@@ -738,7 +728,6 @@ b_platamon,turkmen,,Platamona
 b_domenikon,b_domenikon,,Domenikon
 b_domenikon,b_domenikon_adj,,
 c_demetrias,PROV488,,Demetrias
-c_demetrias,c_demetrias,,
 c_demetrias,c_demetrias_adj,,Demetrian
 c_demetrias,central_italian,,Dimitrias
 c_demetrias,c_demetrias_adj_central_italian,,Dimitrian
@@ -818,7 +807,6 @@ b_velestino,pecheneg,,Velestin
 b_velestino,turkish,,Velestin
 b_velestino,turkmen,,Velestin
 c_upper_wallachia,PROV1528,,Megále Vlachia
-c_upper_wallachia,c_upper_wallachia,,
 c_upper_wallachia,c_upper_wallachia_adj,,Vlachian
 c_upper_wallachia,oghuz,,Tirhala
 c_upper_wallachia,c_upper_wallachia_adj_oghuz,,Tirhalian
@@ -851,7 +839,6 @@ b_grevena,turkmen,,Gerebena
 b_porta,b_porta,,Porta
 b_porta,b_porta_adj,,
 c_neopatras,PROV1224,,Neai Patrai
-c_neopatras,c_neopatras,,
 c_neopatras,c_neopatras_adj,,Neopatrian
 c_neopatras,catalan,,Neopatria
 c_neopatras,c_neopatras_adj_catalan,,Neopatrian
@@ -1006,7 +993,6 @@ d_dyrrachion,d_dyrrachion_adj_tuscan,,Durazzian
 d_dyrrachion,venetian,,Durazo
 d_dyrrachion,d_dyrrachion_adj_venetian,,Durazzian
 c_dyrrachion,PROV470,,Dyrrakhiou
-c_dyrrachion,c_dyrrachion,,
 c_dyrrachion,c_dyrrachion_adj,,Dyrrachian
 c_dyrrachion,arberian,,Durrës
 c_dyrrachion,c_dyrrachion_adj_arberian,,Dürresian
@@ -1094,7 +1080,6 @@ b_chounavia,arberian,,Thumanë
 b_spinarizza,b_spinarizza,,Spinarizza
 b_spinarizza,b_spinarizza_adj,,
 c_arbanon,PROV1011,,Arbër
-c_arbanon,c_arbanon,,
 c_arbanon,c_arbanon_adj,,Arbanian
 c_arbanon,arberian,,Arbër
 c_arbanon,c_arbanon_adj_arberian,,Arbërian
@@ -1153,7 +1138,6 @@ b_hiskampis,pecheneg,,Ilbasan
 b_hiskampis,turkish,,Ilbasan
 b_hiskampis,turkmen,,Ilbasan
 c_valona,PROV1013,,Aulona
-c_valona,c_valona,,
 c_valona,c_valona_adj,,Valonian
 c_valona,arberian,,Vlorë
 c_valona,c_valona_adj_arberian,,Vlorësian
@@ -1245,7 +1229,6 @@ d_epirus,d_epirus_adj_turkmen,,Yanyan
 d_epirus,tuscan,,Epirus
 d_epirus,venetian,,Epirus
 c_epeiros,PROV472,,Epeiros
-c_epeiros,c_epeiros,,
 c_epeiros,c_epeiros_adj,,Epirotian
 c_epeiros,arberian,,Epiri
 c_epeiros,c_epeiros_adj_arberian,,Epirian
@@ -1333,7 +1316,6 @@ b_gjirokaster,turkmen,,Ergiri
 b_gjirokaster,tuscan,,Argirocastro
 b_gjirokaster,venetian,,Argirocastro
 c_hellas,PROV475,,Naupaktos
-c_hellas,c_hellas,,
 c_hellas,c_hellas_adj,,Hellenic
 c_hellas,central_italian,,Lepanto
 c_hellas,c_hellas_adj_central_italian,,Lepantian
@@ -1428,7 +1410,6 @@ b_vitrinitsa,southern_italian,,Vetrenica
 b_vitrinitsa,tuscan,,Vetrenica
 b_vitrinitsa,venetian,,Vetrenica
 c_arta,PROV473,,Nikopolis
-c_arta,c_arta,,
 c_arta,c_arta_adj,,Artan
 c_arta,central_italian,,Arta
 c_arta,c_arta_adj_central_italian,,Artan
@@ -1576,7 +1557,6 @@ d_cephalonia,d_cephalonia_adj_turkmen,,Yedi Adalaran
 d_cephalonia,tuscan,,Cefalonia
 d_cephalonia,venetian,,Cefalonia
 c_cephalonia,PROV474,,Kephallenia
-c_cephalonia,c_cephalonia,,
 c_cephalonia,c_cephalonia_adj,,Phaeacians
 c_cephalonia,central_italian,,Cefalonia
 c_cephalonia,c_cephalonia_adj_central_italian,,Cephalonian
@@ -1666,7 +1646,6 @@ b_agiosgeorgios,southern_italian,,San Giorgio
 b_agiosgeorgios,tuscan,,San Giorgio
 b_agiosgeorgios,venetian,,San Giorgio
 c_corfu,PROV1014,,Kérkyra
-c_corfu,c_corfu,,
 c_corfu,c_corfu_adj,,Kerkyran
 c_corfu,central_italian,,Corfú
 c_corfu,c_corfu_adj_central_italian,,Corfúan
@@ -1828,7 +1807,6 @@ d_athens,d_athens_adj_tuscan,,Atenan
 d_athens,venetian,,Atene
 d_athens,d_athens_adj_venetian,,Atenan
 c_thebai,PROV788,,Boiotía
-c_thebai,c_thebai,,
 c_thebai,c_thebai_adj,,Theban
 c_thebai,catalan,,Stivas
 c_thebai,central_italian,,Stivas
@@ -1944,7 +1922,6 @@ b_boudounitza,turkmen,,Modonic
 b_boudounitza,tuscan,,Bondonize
 b_boudounitza,venetian,,Bondonize
 c_euboia,PROV485,,Euripos
-c_euboia,c_euboia,,
 c_euboia,c_euboia_adj,,Euboian
 c_euboia,catalan,,Nigrepont
 c_euboia,c_euboia_adj_catalan,,Nigrepontian
@@ -2044,7 +2021,6 @@ b_oreoi,turkmen,,Oderbos
 b_oreoi,tuscan,,Castel del Rio
 b_oreoi,venetian,,Castel del Rio
 c_atheniai,PROV482,,Attika
-c_atheniai,c_atheniai,,
 c_atheniai,c_atheniai_adj,,Athenian
 c_atheniai,catalan,,Atenes
 c_atheniai,central_italian,,Atene
@@ -2189,7 +2165,6 @@ d_achaia,d_achaia_adj_tuscan,,Achaian
 d_achaia,venetian,,Achaia
 d_achaia,d_achaia_adj_venetian,,Achaian
 c_achaia,PROV476,,Achaía
-c_achaia,c_achaia,,
 c_achaia,c_achaia_adj,,Achaian
 c_achaia,central_italian,,Achaia
 c_achaia,c_achaia_adj_central_italian,,Achaian
@@ -2324,7 +2299,6 @@ b_khlemoutsi,turkmen,,Holomuç
 b_khlemoutsi,tuscan,,Castel Tornese
 b_khlemoutsi,venetian,,Castel Tornese
 c_korinthos,PROV481,,Korinthos
-c_korinthos,c_korinthos,,
 c_korinthos,c_korinthos_adj,,Korinthian
 c_korinthos,central_italian,,Coranto
 c_korinthos,c_korinthos_adj_central_italian,,Corantian
@@ -2444,7 +2418,6 @@ b_aegina,turkmen,,Ägina
 b_aegina,tuscan,,Eguena
 b_aegina,venetian,,Eguena
 c_methone,PROV477,,Messinia
-c_methone,c_methone,,
 c_methone,c_methone_adj,,Methonian
 c_methone,central_italian,,Modon
 c_methone,c_methone_adj_central_italian,,Modonian
@@ -2520,7 +2493,6 @@ b_coron,southern_italian,,Coron
 b_coron,tuscan,,Coron
 b_coron,venetian,,Coron
 c_monemvasia,PROV478,,Lakonia
-c_monemvasia,c_monemvasia,,
 c_monemvasia,c_monemvasia_adj,,Monemvasian
 c_monemvasia,central_italian,,Malvasia
 c_monemvasia,c_monemvasia_adj_central_italian,,Malvasian
@@ -2629,7 +2601,6 @@ b_passavas,arpitan,,Passavant
 b_passavas,frankish,,Passavant
 b_passavas,norman,,Passavant
 c_arcadia,PROV1266,,Arkadia
-c_arcadia,c_arcadia,,
 c_arcadia,c_arcadia_adj,,Arcadian
 c_arcadia,arpitan,,Arcadie
 c_arcadia,central_italian,,Arcadia
@@ -2769,7 +2740,6 @@ d_krete,d_krete_adj_tuscan,,Candian
 d_krete,venetian,,Candia
 d_krete,d_krete_adj_venetian,,Candian
 c_kaneia,PROV479,,Chaneia
-c_kaneia,c_kaneia,,
 c_kaneia,c_kaneia_adj,,Chaneian
 c_kaneia,andalusian_arabic,,Al-Hanim
 c_kaneia,c_kaneia_adj_andalusian_arabic,,Hanimian
@@ -2867,7 +2837,6 @@ b_kissamos,turkmen,,Kisamu
 b_kissamos,tuscan,,Chissamo
 b_kissamos,venetian,,Chissamo
 c_chandax,PROV480,,Khándax
-c_chandax,c_chandax,,
 c_chandax,c_chandax_adj,,Khándaxan
 c_chandax,andalusian_arabic,,Khandaq
 c_chandax,c_chandax_adj_andalusian_arabic,,Khandaqi
@@ -3057,7 +3026,6 @@ d_cyprus,d_cyprus_adj_tuscan,,Ciproan
 d_cyprus,venetian,,Cipro
 d_cyprus,d_cyprus_adj_venetian,,Ciproan
 c_limisol,PROV756,,Lemesos
-c_limisol,c_limisol,,
 c_limisol,c_limisol_adj,,Lemesian
 c_limisol,central_italian,,Limisso
 c_limisol,c_limisol_adj_central_italian,,Limissonian
@@ -3150,7 +3118,6 @@ b_kolossi,turkmen,,Golos
 b_kykkos,b_kykkos,,Kykkos
 b_kykkos,b_kykkos_adj,,
 c_nicosia,PROV1069,,Nikosia
-c_nicosia,c_nicosia,,
 c_nicosia,c_nicosia_adj,,Nikosian
 c_nicosia,armenian,,Nigosia
 c_nicosia,c_nicosia_adj_armenian,,Nigosian
@@ -3264,7 +3231,6 @@ b_lapithos,oghuz,,Lapta
 b_lapithos,turkish,,Lapta
 b_lapithos,turkmen,,Lapta
 c_famagusta,PROV757,,Ammokhostos
-c_famagusta,c_famagusta,,
 c_famagusta,c_famagusta_adj,,Ammokhostian
 c_famagusta,central_italian,,Famagosta
 c_famagusta,c_famagusta_adj_central_italian,,Famagostan
@@ -3347,7 +3313,6 @@ d_turnovo,d_turnovo_adj_turkish,,Nigbolian
 d_turnovo,turkmen,,Nigbolu
 d_turnovo,d_turnovo_adj_turkmen,,Nigbolian
 c_tyrnovo,PROV499,,Tarnovo
-c_tyrnovo,c_tyrnovo,,
 c_tyrnovo,c_tyrnovo_adj,,Tarnovan
 c_tyrnovo,c_tyrnovo_adj_alan,,Moesian
 c_tyrnovo,c_tyrnovo_adj_arberian,,Moesian
@@ -3411,7 +3376,6 @@ b_tarnovo,roman,,Zikideva
 b_tarnovo,turkish,,Tirnova
 b_tarnovo,turkmen,,Tirnova
 c_serdica,PROV500,,Sredets
-c_serdica,c_serdica,,
 c_serdica,c_serdica_adj,,Sredetsan
 c_serdica,c_serdica_adj_alan,,Serdican
 c_serdica,c_serdica_adj_arberian,,Serdican
@@ -3455,7 +3419,6 @@ b_serdica,roman,,Serdica
 b_serdica,turkish,,Sofya
 b_serdica,turkmen,,Sofya
 c_dorostotum,PROV508,,Preslav
-c_dorostotum,c_dorostotum,,
 c_dorostotum,c_dorostotum_adj,,Preslavan
 c_dorostotum,c_dorostotum_adj_alan,,Durostolan
 c_dorostotum,c_dorostotum_adj_arberian,,Durostolan
@@ -3513,7 +3476,6 @@ b_preslav,roman,,Yoanopolis
 b_preslav,turkish,,Stamboluk
 b_preslav,turkmen,,Stamboluk
 c_nikopolis,PROV507,,Kran
-c_nikopolis,c_nikopolis,,
 c_nikopolis,c_nikopolis_adj,,Kranan
 c_nikopolis,c_nikopolis_adj_alan,,Seuthopolitan
 c_nikopolis,c_nikopolis_adj_arberian,,Seuthopolitan
@@ -3571,7 +3533,6 @@ d_karvuna,d_karvuna_adj_turkish,,Dobrujan
 d_karvuna,turkmen,,Dobruja
 d_karvuna,d_karvuna_adj_turkmen,,Dobrujan
 c_karvuna,PROV509,,Karvuna
-c_karvuna,c_karvuna,,
 c_karvuna,c_karvuna_adj,,Karvunan
 c_karvuna,c_karvuna_adj_alan,,Krounoian
 c_karvuna,c_karvuna_adj_arberian,,Krounoian
@@ -3634,7 +3595,6 @@ b_karvuna,roman,,Krounoi
 b_karvuna,turkish,,Balçik
 b_karvuna,turkmen,,Balçik
 c_constantia,PROV510,,Konstanta
-c_constantia,c_constantia,,
 c_constantia,c_constantia_adj,,Konstantan
 c_constantia,c_constantia_adj_alan,,Konstantian
 c_constantia,c_constantia_adj_arberian,,Konstantian
@@ -3776,7 +3736,6 @@ d_adrianopolis,d_adrianopolis_adj_venetian,,Philippopolitan
 d_adrianopolis,zanata,,Maqaduniya
 d_adrianopolis,d_adrianopolis_adj_zanata,,Maqaduniyan
 c_adrianopolis,PROV494,,Adrianopol
-c_adrianopolis,c_adrianopolis,,
 c_adrianopolis,c_adrianopolis_adj,,Adrianopolitan
 c_adrianopolis,c_adrianopolis_adj_alan,,Hadrianopolitan
 c_adrianopolis,aragonese,,Adrianopolis
@@ -3917,7 +3876,6 @@ b_adrianopolis,turkmen,,Edirne
 b_adrianopolis,tuscan,,Adrianopolis
 b_adrianopolis,venetian,,Adrianupleos
 c_philippopolis,PROV493,,Plovdiv
-c_philippopolis,c_philippopolis,,
 c_philippopolis,c_philippopolis_adj,,Plovdivian
 c_philippopolis,c_philippopolis_adj_alan,,Philippopolitan
 c_philippopolis,aragonese,,Philippopolis
@@ -4056,7 +4014,6 @@ b_tespina,b_tespina_adj,,
 b_tespina,east_gothic,,Tzepania
 b_tespina,greek,,Tzepania
 c_mesembria,PROV498,,Zagore
-c_mesembria,c_mesembria,,
 c_mesembria,c_mesembria_adj,,Zagorean
 c_mesembria,c_mesembria_adj_alan,,Zagorian
 c_mesembria,c_mesembria_adj_arberian,,Zagorian
@@ -4130,7 +4087,6 @@ b_mesembria,roman,,Mesembria
 b_mesembria,turkish,,Misivri
 b_mesembria,turkmen,,Misivri
 c_kopsis,PROV1527,,Kopsis
-c_kopsis,c_kopsis,,
 c_kopsis,c_kopsis_adj,,Kopsisan
 c_kopsis,east_gothic,,Kopsis
 c_kopsis,greek,,Kopsis
@@ -4183,7 +4139,6 @@ d_vidin,romanian,,Diiu
 d_vidin,d_vidin_adj_romanian,,Diiuan
 d_vidin,szekely,,Bodony
 c_vidin,PROV506,,Vidin
-c_vidin,c_vidin,,
 c_vidin,c_vidin_adj,,Vidinan
 c_vidin,c_vidin_adj_alan,,Bononian
 c_vidin,c_vidin_adj_arberian,,Bononian
@@ -4224,7 +4179,6 @@ b_vidin,roman,,Bononia
 b_vidin,romanian,,Diiu
 b_vidin,szekely,,Bodony
 c_branicevo,PROV961,,Branicevo
-c_branicevo,c_branicevo,,
 c_branicevo,c_branicevo_adj,,Branicevan
 c_branicevo,c_branicevo_adj_alan,,Viminacionian
 c_branicevo,c_branicevo_adj_arberian,,Viminacionian
@@ -4298,7 +4252,6 @@ d_ohrid,d_ohrid_adj_turkish,,Üsküpian
 d_ohrid,turkmen,,Üsküp
 d_ohrid,d_ohrid_adj_turkmen,,Üsküpian
 c_skopje,PROV1015,,Skopje
-c_skopje,c_skopje,,
 c_skopje,c_skopje_adj,,Skopjian
 c_skopje,c_skopje_adj_alan,,Skopian
 c_skopje,arberian,,Shkupi
@@ -4366,7 +4319,6 @@ b_prilep,romanian,,Parleap
 b_prilep,turkish,,Pirlepe
 b_prilep,turkmen,,Pirlepe
 c_strumica,PROV1526,,Strumica
-c_strumica,c_strumica,,
 c_strumica,c_strumica_adj,,Strumican
 c_strumica,c_strumica_adj_alan,,Tiveriopolitan
 c_strumica,c_strumica_adj_arberian,,Tiveriopolitan
@@ -4426,7 +4378,6 @@ b_strumica,roman,,Tiveriopolis
 b_strumica,turkish,,Ustrumca
 b_strumica,turkmen,,Ustrumca
 c_velbazhd,PROV1525,,Velbazhd
-c_velbazhd,c_velbazhd,,
 c_velbazhd,c_velbazhd_adj,,Velbazhdi
 c_velbazhd,c_velbazhd_adj_alan,,Pautalian
 c_velbazhd,c_velbazhd_adj_arberian,,Pautalian
@@ -4460,7 +4411,6 @@ b_velbazhd,roman,,Pautalia
 b_velbazhd,turkish,,Küstendil
 b_velbazhd,turkmen,,Küstendil
 c_ochrid,PROV471,,Ohrid
-c_ochrid,c_ochrid,,
 c_ochrid,c_ochrid_adj,,Ochridan
 c_ochrid,c_ochrid_adj_alan,,Achrídan
 c_ochrid,arberian,,Ohër
@@ -4553,7 +4503,6 @@ b_ohrid,romanian,,Ohrida
 b_ohrid,turkish,,Ohri
 b_ohrid,turkmen,,Ohri
 c_naissus,PROV501,,Niš
-c_naissus,c_naissus,,
 c_naissus,c_naissus_adj,,Nišan
 c_naissus,c_naissus_adj_alan,,Nysosan
 c_naissus,arberian,,Nishi
@@ -4626,7 +4575,6 @@ d_rashka,d_rashka_adj_greek,,Rascian
 d_rashka,roman,,Moesia Prima
 d_rashka,d_rashka_adj_roman,,Moesia Priman
 c_rashka,PROV502,,Rashka
-c_rashka,c_rashka,,
 c_rashka,c_rashka_adj,,Raškan
 c_rashka,arberian,,Rashkës
 c_rashka,c_rashka_adj_arberian,,Rashkëan
@@ -4649,7 +4597,6 @@ b_stari_ras,arberian,,Rashkës
 b_stari_ras,east_gothic,,Rascia
 b_stari_ras,greek,,Rascia
 c_prizren,PROV1012,,Hvosno
-c_prizren,c_prizren,,
 c_prizren,c_prizren_adj,,Hvosnoan
 c_prizren,arberian,,Prizreni
 c_prizren,c_prizren_adj_arberian,,Prizreni
@@ -4740,7 +4687,6 @@ d_macva,d_macva_adj_szekely,,Macsóan
 d_macva,thuringian,,Matschva
 d_macva,d_macva_adj_thuringian,,Matschvan
 c_macva,PROV1127,,Macva
-c_macva,c_macva,,
 c_macva,c_macva_adj,,Macvan
 c_macva,bavarian,,Matschva
 c_macva,c_macva_adj_bavarian,,Matschvan
@@ -4795,7 +4741,6 @@ b_macva,swabian,,Matschva
 b_macva,szekely,,Macsó
 b_macva,thuringian,,Matschva
 c_belgrade,PROV505,,Belgrad
-c_belgrade,c_belgrade,,
 c_belgrade,c_belgrade_adj,,Belgradan
 c_belgrade,central_italian,,Belgrado
 c_belgrade,c_belgrade_adj_central_italian,,Belgradoese
@@ -4919,7 +4864,6 @@ d_hum,d_hum_adj_tuscan,,Chelmanian
 d_hum,venetian,,Chelmania
 d_hum,d_hum_adj_venetian,,Chelmanian
 c_hum,PROV503,,Podrinje
-c_hum,c_hum,,
 c_hum,c_hum_adj,,Podrinjan
 c_hum,east_gothic,,Dreinos
 c_hum,c_hum_adj_east_gothic,,Dreinosan
@@ -4942,7 +4886,6 @@ b_rogatica,turkmen,,Çelebi Pazar
 b_borac,b_borac,,Borac
 b_borac,b_borac_adj,,
 c_polimlje,PROV938,,Polimlje
-c_polimlje,c_polimlje,,
 c_polimlje,c_polimlje_adj,,Polimljan
 b_foca,b_foca,,Hoca
 b_foca,b_foca_adj,,
@@ -4973,7 +4916,6 @@ b_prijepolje,turkmen,,Pirepolye
 b_berane,b_berane,,Budimlja
 b_berane,b_berane_adj,,
 c_zachlumia,PROV466,,Podgorje
-c_zachlumia,c_zachlumia,,
 c_zachlumia,c_zachlumia_adj,,Podgorjan
 c_zachlumia,east_gothic,,Zachloumia
 c_zachlumia,c_zachlumia_adj_east_gothic,,Zachloumian
@@ -5035,7 +4977,6 @@ d_dioclea,d_dioclea_adj_turkish,,Iskodran
 d_dioclea,turkmen,,Iskodra
 d_dioclea,d_dioclea_adj_turkmen,,Iskodran
 c_zeta,PROV469,,Crna Gora
-c_zeta,c_zeta,,
 c_zeta,c_zeta_adj,,Zetan
 c_zeta,east_gothic,,Diokleia
 c_zeta,c_zeta_adj_east_gothic,,Diokleian
@@ -5116,7 +5057,6 @@ b_podgorica,turkmen,,Podgoriçe
 b_podgorica,tuscan,,Podgorizza
 b_podgorica,venetian,,Podgorizza
 c_primorje,PROV1003,,Primorje
-c_primorje,c_primorje,,
 c_primorje,c_primorje_adj,,Primorjan
 c_primorje,central_italian,,Càttaro
 c_primorje,c_primorje_adj_central_italian,,Càttaran
@@ -5213,7 +5153,6 @@ b_kotor,turkmen,,Kotur
 b_kotor,tuscan,,Càttaro
 b_kotor,venetian,,Càttaro
 c_travunija,PROV965,,Travunija
-c_travunija,c_travunija,,
 c_travunija,c_travunija_adj,,Travunijan
 c_travunija,bavarian,,Trebing
 c_travunija,central_italian,,Trebigne
@@ -5369,7 +5308,6 @@ d_ragusa,d_ragusa_adj_tuscan,,Ragusan
 d_ragusa,venetian,,Ragusa
 d_ragusa,d_ragusa_adj_venetian,,Ragusan
 c_ragusa,PROV468,,Dubrovnik
-c_ragusa,c_ragusa,,
 c_ragusa,c_ragusa_adj,,Dubrovnikan
 c_ragusa,arpitan,,Ragusa
 c_ragusa,c_ragusa_adj_arpitan,,Ragusan
@@ -5530,7 +5468,6 @@ k_bosnia,k_bosnia_adj,,Bosanci
 d_bosnia,d_bosnia,,Bosna
 d_bosnia,d_bosnia_adj,,Bosanci
 c_vrhbosna,PROV1522,,Vrhbosna
-c_vrhbosna,c_vrhbosna,,
 c_vrhbosna,c_vrhbosna_adj,,Bosnian
 c_vrhbosna,east_gothic,,Vrelobosna
 c_vrhbosna,greek,,Vrelobosna
@@ -5559,7 +5496,6 @@ b_visoki,b_visoki_adj,,
 b_bobovac,b_bobovac,,Bobovac
 b_bobovac,b_bobovac_adj,,
 c_rama,PROV504,,Rama
-c_rama,c_rama,,
 c_rama,c_rama_adj,,Raman
 b_fojnica,b_fojnica,,Hvojnica
 b_fojnica,b_fojnica_adj,,
@@ -5580,7 +5516,6 @@ b_travnik,thuringian,,Traunik
 b_prozor_rama,b_prozor_rama,,Prozor
 b_prozor_rama,b_prozor_rama_adj,,
 c_donjikraji,PROV1002,,Donji Kraji
-c_donjikraji,c_donjikraji,,
 c_donjikraji,c_donjikraji_adj,,Donji Krajian
 b_bjelaj,b_bjelaj,,Bilaj
 b_bjelaj,b_bjelaj_adj,,
@@ -5592,7 +5527,6 @@ b_jajce,east_gothic,,Iaicia
 b_jajce,greek,,Iaicia
 b_jajce,roman,,Iaicia
 c_zavrsje,PROV1001,,Zavrsje
-c_zavrsje,c_zavrsje,,
 c_zavrsje,c_zavrsje_adj,,Zavrsjian
 c_zavrsje,east_gothic,,Delminithós
 c_zavrsje,greek,,Delminithós
@@ -5652,7 +5586,6 @@ b_glamoc,b_glamoc_adj,,
 d_usora_i_soli,d_usora_i_soli,,Usora
 d_usora_i_soli,d_usora_i_soli_adj,,Usoran
 c_soli,PROV1581,,Soli
-c_soli,c_soli,,
 c_soli,c_soli_adj,,Solin
 c_soli,bavarian,,Salinae
 c_soli,central_italian,,Sale
@@ -5717,7 +5650,6 @@ b_soli,turkmen,,Tuzla
 b_soli,tuscan,,Sale
 b_soli,venetian,,Sale
 c_usora,PROV463,,Usora
-c_usora,c_usora,,
 c_usora,c_usora_adj,,Usoran
 b_tolisa,b_tolisa,,Tolisa
 b_tolisa,b_tolisa_adj,,
@@ -5753,7 +5685,6 @@ d_dalmatia,d_dalmatia_adj_southern_italian,,Dalmazian
 d_dalmatia,d_dalmatia_adj_tuscan,,Dalmazian
 d_dalmatia,d_dalmatia_adj_venetian,,Dalmàssian
 c_split,PROV467,,Cetina
-c_split,c_split,,
 c_split,c_split_adj,,Cetinan
 c_split,east_gothic,,Spálathos
 c_split,greek,,Spálathos
@@ -5892,7 +5823,6 @@ b_split,southern_italian,,Spalato
 b_split,tuscan,,Spalato
 b_split,venetian,,Spalato
 c_knin,PROV943,,Knin
-c_knin,c_knin,,
 c_knin,c_knin_adj,,Knin
 c_knin,greek,,Tininum
 c_knin,roman,,Tininum
@@ -5928,7 +5858,6 @@ b_knin,southern_italian,,Tenin
 b_knin,tuscan,,Tenin
 b_knin,venetian,,Tenin
 c_bribir,PROV1291,,Bribir
-c_bribir,c_bribir,,
 c_bribir,c_bribir_adj,,Bribiran
 c_bribir,central_italian,,Berberi
 c_bribir,corsican,,Berberi
@@ -6004,7 +5933,6 @@ b_bribir,southern_italian,,Berberi
 b_bribir,tuscan,,Berberi
 b_bribir,venetian,,Berberi
 c_zadar,PROV465,,Zadar
-c_zadar,c_zadar,,
 c_zadar,c_zadar_adj,,Zadaran
 c_zadar,c_zadar_adj_alan,,Diadoran
 c_zadar,andalusian_arabic,,Jadhara
@@ -6167,7 +6095,6 @@ b_zadar,tuscan,,Jatara
 b_zadar,venetian,,Jatara
 b_zadar,zanata,,Jadhara
 c_omis,PROV1330,,Omis
-c_omis,c_omis,,
 c_omis,c_omis_adj,,Neretvan
 c_omis,bosnian,,Drijeva
 c_omis,east_gothic,,Almiyssion
@@ -6282,7 +6209,6 @@ d_krk,d_krk_adj_tuscan,,Veglian
 d_krk,venetian,,Veglia
 d_krk,d_krk_adj_venetian,,Veglian
 c_veglia,PROV459,,Krk
-c_veglia,c_veglia,,
 c_veglia,c_veglia_adj,,Krku
 c_veglia,bavarian,,Vegl
 c_veglia,c_veglia_adj_bavarian,,Veglian
@@ -6477,7 +6403,6 @@ d_dalmatian_islands,d_dalmatian_islands_adj_tuscan,,Lesina
 d_dalmatian_islands,venetian,,Lesina
 d_dalmatian_islands,d_dalmatian_islands_adj_venetian,,Lesina
 c_hvar,PROV936,,Hvar
-c_hvar,c_hvar,,
 c_hvar,c_hvar_adj,,Hvarian
 c_hvar,central_italian,,Lesina
 c_hvar,corsican,,Lesina
@@ -6554,7 +6479,6 @@ b_hvar_stari_grad,southern_italian,,Lesina
 b_hvar_stari_grad,tuscan,,Lesina
 b_hvar_stari_grad,venetian,,Lesina
 c_korcula,PROV1295,,Korcula
-c_korcula,c_korcula,,
 c_korcula,c_korcula_adj,,Korculan
 c_korcula,bavarian,,Kurzel
 c_korcula,central_italian,,Curzola
@@ -6646,7 +6570,6 @@ b_korcula,venetian,,Curzola
 d_croatia,d_croatia,,Hrvatska
 d_croatia,d_croatia_adj,,Hrvatski
 c_vodica,PROV959,,Vodica
-c_vodica,c_vodica,,
 c_vodica,c_vodica_adj,,Vodican
 b_dubica,b_dubica,,Dubica
 b_dubica,b_dubica_adj,,
@@ -6670,7 +6593,6 @@ b_zrin,b_zrin_adj,,
 b_vodicevo_una,b_vodicevo_una,,Vodicevo
 b_vodicevo_una,b_vodicevo_una_adj,,
 c_modrus,PROV1312,,Modruš
-c_modrus,c_modrus,,
 c_modrus,c_modrus_adj,,Modrušian
 c_modrus,east_gothic,,Terponos
 c_modrus,greek,,Terponos
@@ -6748,7 +6670,6 @@ b_modrus_castle,southern_italian,,Modrussa
 b_modrus_castle,tuscan,,Modrussa
 b_modrus_castle,venetian,,Modrussa
 c_senj,PROV464,,Lika
-c_senj,c_senj,,
 c_senj,c_senj_adj,,Likan
 c_senj,central_italian,,Licca
 c_senj,c_senj_adj_central_italian,,Liccese
@@ -6810,7 +6731,6 @@ b_senj,thuringian,,Zengg
 b_senj,tuscan,,Segna
 b_senj,venetian,,Segna
 c_okic,PROV1523,,Okic
-c_okic,c_okic,,
 c_okic,c_okic_adj,,Okicaca
 c_okic,bavarian,,Achuz
 c_okic,dutch,,Achuz
@@ -6854,7 +6774,6 @@ b_okic,swabian,,Achuz
 b_okic,szekely,,Oclych
 b_okic,thuringian,,Achuz
 c_vrbas,PROV1524,,Vrbas
-c_vrbas,c_vrbas,,
 c_vrbas,c_vrbas_adj,,Vrbasan
 b_kozarac,b_kozarac,,Kozara
 b_kozarac,b_kozarac_adj,,
@@ -6873,7 +6792,6 @@ d_slavonia,d_slavonia_adj_hungarian,,Szlavónian
 d_slavonia,roman,,Pannonia Savia
 d_slavonia,d_slavonia_adj_roman,,Pannonian
 c_zagreb,PROV461,,Zagreb
-c_zagreb,c_zagreb,,
 c_zagreb,c_zagreb_adj,,Zagreban
 c_zagreb,c_zagreb_adj_alan,,Andautonian
 c_zagreb,c_zagreb_adj_arberian,,Andautonian
@@ -6947,7 +6865,6 @@ b_kasina,swabian,,Blagusa
 b_kasina,szekely,,Blagusa
 b_kasina,thuringian,,Blagusa
 c_pozega,PROV1004,,Požega
-c_pozega,c_pozega,,
 c_pozega,c_pozega_adj,,Požegan
 c_pozega,east_gothic,,Incerum
 c_pozega,greek,,Incerum
@@ -6978,7 +6895,6 @@ b_pozega,swabian,,Poschegg
 b_pozega,szekely,,Pozsega
 b_pozega,thuringian,,Poschegg
 c_varadzin,PROV460,,Zagorje
-c_varadzin,c_varadzin,,
 c_varadzin,c_varadzin_adj,,Varazdinian
 c_varadzin,bavarian,,Warasdin
 c_varadzin,central_italian,,Varasdino

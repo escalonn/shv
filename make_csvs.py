@@ -50,7 +50,10 @@ def process_landed_titles(parser, lt_keys, title_region):
     def recurse(tree, liege=None):
         for n, v in tree:
             if ck2parser.is_codename(n.val):
-                attrs = {n.val: '', n.val + '_adj': ''}
+                if n.val[0] == 'c':
+                    attrs = {n.val + '_adj': ''}
+                else:
+                    attrs = {n.val: '', n.val + '_adj': ''}
                 for n2, v2 in v:
                     if n2.val in lt_keys:
                         try:
@@ -91,7 +94,7 @@ def process_localisation(parser, title_attrs, prov_title):
     seen = set()
     for path in parser.files('localisation/*', reverse=True):
         for row in ck2parser.csv_rows(path):
-            key, value = row[0:2]
+            key, value = row[:2]
             if key not in seen:
                 seen.add(key)
                 if re.match('[ekdcb]_', key):

@@ -45,7 +45,6 @@ d_castilla,portuguese,,Castela
 d_castilla,sicilian_arabic,,al-Qila
 d_castilla,name_tier,,count
 c_burgos,PROV199,,Burgos
-c_burgos,c_burgos,,
 c_burgos,c_burgos_adj,,Burgosian
 c_burgos,andalusian_arabic,,Burchia
 c_burgos,bedouin_arabic,,Burchia
@@ -129,7 +128,6 @@ b_arandadeduero,maghreb_arabic,,al-Aran
 b_arandadeduero,portuguese,,Aranda do Douro
 b_arandadeduero,sicilian_arabic,,al-Aran
 c_valladolid,PROV198,,Valladolid
-c_valladolid,c_valladolid,,
 c_valladolid,c_valladolid_adj,,Valladolidan
 c_valladolid,andalusian_arabic,,Balad al-Walid
 c_valladolid,aragonese,,Valladolit
@@ -189,7 +187,6 @@ b_medinaderioseco,levantine_arabic,,Madina as-Sikka
 b_medinaderioseco,maghreb_arabic,,Madina as-Sikka
 b_medinaderioseco,sicilian_arabic,,Madina as-Sikka
 c_soria,PROV200,,Soria
-c_soria,c_soria,,
 c_soria,c_soria_adj,,Sorian
 c_soria,andalusian_arabic,,Suria
 c_soria,bedouin_arabic,,Suria
@@ -237,7 +234,6 @@ b_gormaz,levantine_arabic,,Gurmas
 b_gormaz,maghreb_arabic,,Gurmas
 b_gormaz,sicilian_arabic,,Gurmas
 c_asturias_de_santillana,PROV154,,Asturias de Santillana
-c_asturias_de_santillana,c_asturias_de_santillana,,
 c_asturias_de_santillana,c_asturias_de_santillana_adj,,Asturias de Santillanian
 c_asturias_de_santillana,andalusian_arabic,,Sant'ianna
 c_asturias_de_santillana,basque,,Santillanako Asturias
@@ -300,7 +296,6 @@ b_laredo,levantine_arabic,,Larat
 b_laredo,maghreb_arabic,,Larat
 b_laredo,sicilian_arabic,,Larat
 c_palencia,PROV1196,,Palencia
-c_palencia,c_palencia,,
 c_palencia,c_palencia_adj,,Palentina
 c_palencia,andalusian_arabic,,Belansiya
 c_palencia,basque,,Palentzia
@@ -374,7 +369,6 @@ d_segovia,portuguese,,Segóvia
 d_segovia,roman,,Segovia
 d_segovia,sicilian_arabic,,Siqubiyyah
 c_segovia,PROV1199,,Segovia
-c_segovia,c_segovia,,
 c_segovia,c_segovia_adj,,Segoviana
 c_segovia,andalusian_arabic,,Siqubiyyah
 c_segovia,basque,,Segobia
@@ -434,7 +428,6 @@ b_cuellar,maghreb_arabic,,Qullar
 b_cuellar,portuguese,,Cuélhar
 b_cuellar,sicilian_arabic,,Qullar
 c_avila,PROV1198,,Ávila
-c_avila,c_avila,,
 c_avila,c_avila_adj,,Abulense
 c_avila,andalusian_arabic,,Abbila
 c_avila,basque,,Abila
@@ -497,7 +490,6 @@ b_valdecorneja,maghreb_arabic,,Wadi al-Qurnish
 b_valdecorneja,portuguese,,Valdegralhas
 b_valdecorneja,sicilian_arabic,,Wadi al-Qurnish
 c_medina_del_campo,PROV1197,,Medina del Campo
-c_medina_del_campo,c_medina_del_campo,,
 c_medina_del_campo,c_medina_del_campo_adj,,Medinense
 c_medina_del_campo,andalusian_arabic,,Madina al-Marje
 c_medina_del_campo,aragonese,,Medina d'o Campo
@@ -567,7 +559,6 @@ d_najera,maghreb_arabic,,Náxara
 d_najera,portuguese,,Náxera
 d_najera,sicilian_arabic,,Náxara
 c_najera,PROV201,,Nájera
-c_najera,c_najera,,
 c_najera,c_najera_adj,,Nájeran
 c_najera,andalusian_arabic,,Náxara
 c_najera,aragonese,,Nachera
@@ -628,7 +619,6 @@ b_anguiano,levantine_arabic,,Annidin
 b_anguiano,maghreb_arabic,,Annidin
 b_anguiano,sicilian_arabic,,Annidin
 c_logrono,PROV1217,,Logroño
-c_logrono,c_logrono,,
 c_logrono,c_logrono_adj,,Logroñesa
 c_logrono,andalusian_arabic,,Luhjruun
 c_logrono,aragonese,,Logronyo
@@ -717,7 +707,6 @@ d_navarra,levantine_arabic,,Bashkiyya
 d_navarra,maghreb_arabic,,Bashkiyya
 d_navarra,sicilian_arabic,,Bashkiyya
 c_navarra,PROV152,,Navarra
-c_navarra,c_navarra,,
 c_navarra,c_navarra_adj,,Navarran
 c_navarra,andalusian_arabic,,al-Nahara
 c_navarra,basque,,Nafarroa
@@ -773,7 +762,6 @@ b_olite,levantine_arabic,,Ulith
 b_olite,maghreb_arabic,,Ulith
 b_olite,sicilian_arabic,,Ulith
 c_viscaya,PROV153,,Viscaya
-c_viscaya,c_viscaya,,
 c_viscaya,c_viscaya_adj,,Viscayan
 c_viscaya,andalusian_arabic,,Bisqayya
 c_viscaya,basque,,Bizkaia
@@ -828,7 +816,6 @@ b_bilbao,maghreb_arabic,,Bilbah
 b_bilbao,portuguese,,Bilbau
 b_bilbao,sicilian_arabic,,Bilbah
 c_alava,PROV1202,,Álava
-c_alava,c_alava,,
 c_alava,c_alava_adj,,Alavesa
 c_alava,andalusian_arabic,,Alabba
 c_alava,aragonese,,Alava
@@ -889,7 +876,6 @@ b_laguardia,maghreb_arabic,,al-Warddiyya
 b_laguardia,portuguese,,Aguardia
 b_laguardia,sicilian_arabic,,al-Warddiyya
 c_guipuzcoa,PROV1203,,Guipúzcoa
-c_guipuzcoa,c_guipuzcoa,,
 c_guipuzcoa,c_guipuzcoa_adj,,Guipuzcoano
 c_guipuzcoa,andalusian_arabic,,Ybbusqa
 c_guipuzcoa,aragonese,,Guipuzcua
@@ -938,7 +924,6 @@ b_tolosa,levantine_arabic,,Tulusha
 b_tolosa,maghreb_arabic,,Tulusha
 b_tolosa,sicilian_arabic,,Tulusha
 c_tudela,PROV1204,,Tudela
-c_tudela,c_tudela,,
 c_tudela,c_tudela_adj,,Tudelana
 c_tudela,andalusian_arabic,,al-Tutili
 c_tudela,basque,,Tutera
@@ -1027,7 +1012,6 @@ d_galicia,portuguese,,Galiza
 d_galicia,roman,,Gallaecia
 d_galicia,sicilian_arabic,,Galisiyya
 c_santiago,PROV157,,Santiago
-c_santiago,c_santiago,,
 c_santiago,c_santiago_adj,,Santiagonian
 c_santiago,andalusian_arabic,,Yaqquba
 c_santiago,aragonese,,Sant Chaime
@@ -1105,7 +1089,6 @@ b_vilagarcia,maghreb_arabic,,Arusha
 b_vilagarcia,portuguese,,Vilagarcía de Arousa
 b_vilagarcia,sicilian_arabic,,Arusha
 c_coruna,PROV156,,Trastámara
-c_coruna,c_coruna,,
 c_coruna,c_coruna_adj,,Coruñan
 c_coruna,andalusian_arabic,,Qruniyyah
 c_coruna,aragonese,,Trastamara
@@ -1164,7 +1147,6 @@ b_ferrol,levantine_arabic,,Fiyyrul
 b_ferrol,maghreb_arabic,,Fiyyrul
 b_ferrol,sicilian_arabic,,Fiyyrul
 c_lugo,PROV1190,,Lugo
-c_lugo,c_lugo,,
 c_lugo,c_lugo_adj,,Lucense
 c_lugo,andalusian_arabic,,Luq
 c_lugo,bedouin_arabic,,Luq
@@ -1218,7 +1200,6 @@ b_sarria,levantine_arabic,,Sehrya
 b_sarria,maghreb_arabic,,Sehrya
 b_sarria,sicilian_arabic,,Sehrya
 c_lemos,PROV1191,,Lemos
-c_lemos,c_lemos,,
 c_lemos,c_lemos_adj,,Monfortina
 c_lemos,andalusian_arabic,,Lyimus
 c_lemos,bedouin_arabic,,Lyimus
@@ -1284,7 +1265,6 @@ d_leon,maghreb_arabic,,al-Uyun
 d_leon,portuguese,,Leão
 d_leon,sicilian_arabic,,al-Uyun
 c_leon,PROV190,,León
-c_leon,c_leon,,
 c_leon,c_leon_adj,,Léonian
 c_leon,andalusian_arabic,,al-Uyun
 c_leon,aragonese,,Leyón
@@ -1363,7 +1343,6 @@ b_coyanza,maghreb_arabic,,Quyansha
 b_coyanza,portuguese,,Coyança
 b_coyanza,sicilian_arabic,,Quyansha
 c_zamora,PROV191,,Zamora
-c_zamora,c_zamora,,
 c_zamora,c_zamora_adj,,Zamoran
 c_zamora,andalusian_arabic,,Samurah
 c_zamora,bedouin_arabic,,Samurah
@@ -1423,7 +1402,6 @@ b_albadealiste,maghreb_arabic,,Alesh al-Abiad
 b_albadealiste,portuguese,,Alba d'Aliste
 b_albadealiste,sicilian_arabic,,Alesh al-Abiad
 c_asturias_de_oviedo,PROV155,,Asturias de Oviedo
-c_asturias_de_oviedo,c_asturias_de_oviedo,,
 c_asturias_de_oviedo,c_asturias_de_oviedo_adj,,Oviedonian
 c_asturias_de_oviedo,andalusian_arabic,,Uffiddu
 c_asturias_de_oviedo,basque,,Obiedoko Asturias
@@ -1498,7 +1476,6 @@ b_norena,maghreb_arabic,,Nurenniyya
 b_norena,portuguese,,Norenha
 b_norena,sicilian_arabic,,Nurenniyya
 c_astorga,PROV189,,Astorga
-c_astorga,c_astorga,,
 c_astorga,c_astorga_adj,,Astorgan
 c_astorga,andalusian_arabic,,Sturiyya
 c_astorga,bedouin_arabic,,Sturiyya
@@ -1555,7 +1532,6 @@ b_ponferrada,levantine_arabic,,al-Qantara al-Sil
 b_ponferrada,maghreb_arabic,,al-Qantara al-Sil
 b_ponferrada,sicilian_arabic,,al-Qantara al-Sil
 c_toro,PROV1193,,Toro
-c_toro,c_toro,,
 c_toro,c_toro_adj,,Toresana
 c_toro,andalusian_arabic,,Turu
 c_toro,bedouin_arabic,,Turu
@@ -1617,7 +1593,6 @@ d_salamanca,levantine_arabic,,al-Mantiqa
 d_salamanca,maghreb_arabic,,al-Mantiqa
 d_salamanca,sicilian_arabic,,al-Mantiqa
 c_salamanca,PROV192,,Salamanca
-c_salamanca,c_salamanca,,
 c_salamanca,c_salamanca_adj,,Salamancan
 c_salamanca,andalusian_arabic,,al-Mantiqa
 c_salamanca,bedouin_arabic,,al-Mantiqa
@@ -1671,7 +1646,6 @@ b_albadetormes,levantine_arabic,,Ahliba
 b_albadetormes,maghreb_arabic,,Ahliba
 b_albadetormes,sicilian_arabic,,Ahliba
 c_ciudad_rodrigo,PROV1194,,Ciudad Rodrigo
-c_ciudad_rodrigo,c_ciudad_rodrigo,,
 c_ciudad_rodrigo,c_ciudad_rodrigo_adj,,Mirobriguense
 c_ciudad_rodrigo,andalusian_arabic,,Madina Ludhriq
 c_ciudad_rodrigo,aragonese,,Ciudat Roderic
@@ -1745,7 +1719,6 @@ d_aragon,maghreb_arabic,,Aragu'un
 d_aragon,portuguese,,Aragão
 d_aragon,sicilian_arabic,,Aragu'un
 c_alto_aragon,PROV207,,Alto Aragón
-c_alto_aragon,c_alto_aragon,,
 c_alto_aragon,c_alto_aragon_adj,,Alto Aragónian
 c_alto_aragon,andalusian_arabic,,Aragu'un al-Hala
 c_alto_aragon,basque,,Aragoi Garaia
@@ -1799,7 +1772,6 @@ b_anso,levantine_arabic,,N'Suh
 b_anso,maghreb_arabic,,N'Suh
 b_anso,sicilian_arabic,,N'Suh
 c_sobrarbe,PROV1205,,Sobrarbe
-c_sobrarbe,c_sobrarbe,,
 c_sobrarbe,c_sobrarbe_adj,,Sobrarbense
 c_sobrarbe,andalusian_arabic,,Subrarb
 c_sobrarbe,bedouin_arabic,,Subrarb
@@ -1860,7 +1832,6 @@ b_las_bellostas,maghreb_arabic,,Bilushta
 b_las_bellostas,portuguese,,As Belhostas
 b_las_bellostas,sicilian_arabic,,Bilushta
 c_ribagorza,PROV1206,,Ribagorza
-c_ribagorza,c_ribagorza,,
 c_ribagorza,c_ribagorza_adj,,Ribagorzana
 c_ribagorza,andalusian_arabic,,Ribbagursa
 c_ribagorza,bedouin_arabic,,Ribbagursa
@@ -1925,7 +1896,6 @@ d_zaragoza,portuguese,,Saragoça
 d_zaragoza,roman,,Caesaraugusta
 d_zaragoza,sicilian_arabic,,Saraqusta
 c_zaragoza,PROV202,,Zaragoza
-c_zaragoza,c_zaragoza,,
 c_zaragoza,c_zaragoza_adj,,Zaragozan
 c_zaragoza,andalusian_arabic,,Saraqusta
 c_zaragoza,bedouin_arabic,,Saraqusta
@@ -1999,7 +1969,6 @@ b_ejea_de_los_caballeros,maghreb_arabic,,Siya
 b_ejea_de_los_caballeros,portuguese,,Exea dos Cavaleiros
 b_ejea_de_los_caballeros,sicilian_arabic,,Siya
 c_calatayud,PROV175,,Calatayud
-c_calatayud,c_calatayud,,
 c_calatayud,c_calatayud_adj,,Calatayudian
 c_calatayud,andalusian_arabic,,Qal'at Ayyub
 c_calatayud,aragonese,,Calatayú
@@ -2062,7 +2031,6 @@ b_nuevalos,maghreb_arabic,,Nubbal
 b_nuevalos,portuguese,,Nóvalos
 b_nuevalos,sicilian_arabic,,Nubbal
 c_huesca,PROV1207,,Huesca
-c_huesca,c_huesca,,
 c_huesca,c_huesca_adj,,Oscense
 c_huesca,andalusian_arabic,,Wasqa
 c_huesca,aragonese,,Uesca
@@ -2137,7 +2105,6 @@ d_barcelona,roman,,Barcino
 d_barcelona,sicilian_arabic,,Barshiluna
 d_barcelona,name_tier,,count
 c_barcelona,PROV204,,Barcelona
-c_barcelona,c_barcelona,,
 c_barcelona,c_barcelona_adj,,Barcelonian
 c_barcelona,andalusian_arabic,,Barshiluna
 c_barcelona,basque,,Bartzelona
@@ -2213,7 +2180,6 @@ b_solsona,levantine_arabic,,Sulsunna
 b_solsona,maghreb_arabic,,Sulsunna
 b_solsona,sicilian_arabic,,Sulsunna
 c_urgell,PROV206,,Urgell
-c_urgell,c_urgell,,
 c_urgell,c_urgell_adj,,Urgellian
 c_urgell,andalusian_arabic,,Urgil
 c_urgell,aragonese,,Urchel
@@ -2271,7 +2237,6 @@ b_pallars,levantine_arabic,,Balirs
 b_pallars,maghreb_arabic,,Balirs
 b_pallars,sicilian_arabic,,Balirs
 c_rosello,PROV211,,Rosello
-c_rosello,c_rosello,,
 c_rosello,c_rosello_adj,,Rosellian
 c_rosello,andalusian_arabic,,Rusl'un
 c_rosello,basque,,Rozeion
@@ -2343,7 +2308,6 @@ b_cerdanya,maghreb_arabic,,Syrdanna
 b_cerdanya,portuguese,,Cerdanha
 b_cerdanya,sicilian_arabic,,Syrdanna
 c_empuries,PROV205,,Empuries
-c_empuries,c_empuries,,
 c_empuries,c_empuries_adj,,Empuriesian
 c_empuries,andalusian_arabic,,Ympuriyyah
 c_empuries,basque,,Ampurias
@@ -2419,7 +2383,6 @@ b_peralada,levantine_arabic,,Bireledda
 b_peralada,maghreb_arabic,,Bireledda
 b_peralada,sicilian_arabic,,Bireledda
 c_girona,PROV1210,,Girona
-c_girona,c_girona,,
 c_girona,c_girona_adj,,Gerundense
 c_girona,andalusian_arabic,,Yiruna
 c_girona,aragonese,,Chirona
@@ -2506,7 +2469,6 @@ d_catalunya_nova,portuguese,,Catalunha Nova
 d_catalunya_nova,roman,,Tarraco
 d_catalunya_nova,sicilian_arabic,,Turtusha
 c_lleida,PROV203,,Lleida
-c_lleida,c_lleida,,
 c_lleida,c_lleida_adj,,Lleidan
 c_lleida,andalusian_arabic,,Larida
 c_lleida,aragonese,,Leida
@@ -2572,7 +2534,6 @@ b_bell_lloch,maghreb_arabic,,Billuq
 b_bell_lloch,portuguese,,Belo-lugar
 b_bell_lloch,sicilian_arabic,,Billuq
 c_tarragona,PROV173,,Tortosa
-c_tarragona,c_tarragona,,
 c_tarragona,c_tarragona_adj,,Tarragonan
 c_tarragona,andalusian_arabic,,Turtusha
 c_tarragona,bedouin_arabic,,Turtusha
@@ -2638,7 +2599,6 @@ d_teruel,levantine_arabic,,Tirwal
 d_teruel,maghreb_arabic,,Tirwal
 d_teruel,sicilian_arabic,,Tirwal
 c_teruel,PROV1208,,Teruel
-c_teruel,c_teruel,,
 c_teruel,c_teruel_adj,,Turolense
 c_teruel,andalusian_arabic,,Tirwal
 c_teruel,bedouin_arabic,,Tirwal
@@ -2693,7 +2653,6 @@ b_utrillas,maghreb_arabic,,Urila
 b_utrillas,portuguese,,Utrielhas
 b_utrillas,sicilian_arabic,,Urila
 c_albarracin,PROV174,,Albarracín
-c_albarracin,c_albarracin,,
 c_albarracin,c_albarracin_adj,,Albarracinian
 c_albarracin,andalusian_arabic,,Aben Razin
 c_albarracin,aragonese,,Albarrazín
@@ -2759,7 +2718,6 @@ b_monreal_del_campo,maghreb_arabic,,Munral al-Marje
 b_monreal_del_campo,portuguese,,Monterreal do Campo
 b_monreal_del_campo,sicilian_arabic,,Munral al-Marje
 c_caspe,PROV1209,,Caspe
-c_caspe,c_caspe,,
 c_caspe,c_caspe_adj,,Caspolina
 c_caspe,andalusian_arabic,,Qasp
 c_caspe,bedouin_arabic,,Qasp
@@ -2837,7 +2795,6 @@ d_ribatejo,levantine_arabic,,Belatha
 d_ribatejo,maghreb_arabic,,Belatha
 d_ribatejo,sicilian_arabic,,Belatha
 c_lisboa,PROV160,,Lisboa
-c_lisboa,c_lisboa,,
 c_lisboa,c_lisboa_adj,,Lisboan
 c_lisboa,andalusian_arabic,,Lishbuna
 c_lisboa,aragonese,,Lisbona
@@ -2904,7 +2861,6 @@ b_lourinha,levantine_arabic,,Lurinnah
 b_lourinha,maghreb_arabic,,Lurinnah
 b_lourinha,sicilian_arabic,,Lurinnah
 c_castelo_branco,PROV187,,Castelo Branco
-c_castelo_branco,c_castelo_branco,,
 c_castelo_branco,c_castelo_branco_adj,,Castelo Branconian
 c_castelo_branco,andalusian_arabic,,Abiad al-Qal'at
 c_castelo_branco,aragonese,,Castiello Blanco
@@ -2974,7 +2930,6 @@ b_oleiros,levantine_arabic,,Ulir
 b_oleiros,maghreb_arabic,,Ulir
 b_oleiros,sicilian_arabic,,Ulir
 c_thomar,PROV1195,,Tomar
-c_thomar,c_thomar,,
 c_thomar,c_thomar_adj,,Nabantina
 c_thomar,andalusian_arabic,,Tummar
 c_thomar,bedouin_arabic,,Tummar
@@ -3032,7 +2987,6 @@ b_ourem,levantine_arabic,,Abdegas
 b_ourem,maghreb_arabic,,Abdegas
 b_ourem,sicilian_arabic,,Abdegas
 c_leiria,PROV1215,,Leiria
-c_leiria,c_leiria,,
 c_leiria,c_leiria_adj,,Leiriense
 c_leiria,andalusian_arabic,,Liriyya
 c_leiria,bedouin_arabic,,Liriyya
@@ -3105,7 +3059,6 @@ d_beira,levantine_arabic,,Qulumriyah
 d_beira,maghreb_arabic,,Qulumriyah
 d_beira,sicilian_arabic,,Qulumriyah
 c_coimbra,PROV159,,Coimbra
-c_coimbra,c_coimbra,,
 c_coimbra,c_coimbra_adj,,Coimbran
 c_coimbra,andalusian_arabic,,Qulumriyah
 c_coimbra,basque,,Koimbra
@@ -3178,7 +3131,6 @@ b_condeixa,levantine_arabic,,Qundisha
 b_condeixa,maghreb_arabic,,Qundisha
 b_condeixa,sicilian_arabic,,Qundisha
 c_viseu,PROV1213,,Viseu
-c_viseu,c_viseu,,
 c_viseu,c_viseu_adj,,Viseense
 c_viseu,andalusian_arabic,,Buza
 c_viseu,basque,,Biseu
@@ -3232,7 +3184,6 @@ b_castro_daire,levantine_arabic,,al-Qal'at al-Hawaa
 b_castro_daire,maghreb_arabic,,al-Qal'at al-Hawaa
 b_castro_daire,sicilian_arabic,,al-Qal'at al-Hawaa
 c_trancoso,PROV1214,,Trancoso
-c_trancoso,c_trancoso,,
 c_trancoso,c_trancoso_adj,,Trancosense
 c_trancoso,andalusian_arabic,,Tranqusu
 c_trancoso,basque,,Trankoso
@@ -3296,7 +3247,6 @@ d_porto,levantine_arabic,,Burtughal
 d_porto,maghreb_arabic,,Burtughal
 d_porto,sicilian_arabic,,Burtughal
 c_porto,PROV158,,Oporto
-c_porto,c_porto,,
 c_porto,c_porto_adj,,Portan
 c_porto,andalusian_arabic,,Uburtu
 c_porto,aragonese,,Porto
@@ -3375,7 +3325,6 @@ b_vilanova_de_gaia,maghreb_arabic,,Ghaiyya
 b_vilanova_de_gaia,portuguese,,Vila Nova de Gaia
 b_vilanova_de_gaia,sicilian_arabic,,Ghaiyya
 c_braga,PROV1212,,Braga
-c_braga,c_braga,,
 c_braga,c_braga_adj,,Bracarense
 c_braga,andalusian_arabic,,Bragarah
 c_braga,bedouin_arabic,,Bragarah
@@ -3442,7 +3391,6 @@ b_pontedelima,levantine_arabic,,al-Qantarat al-Limiyya
 b_pontedelima,maghreb_arabic,,al-Qantarat al-Limiyya
 b_pontedelima,sicilian_arabic,,al-Qantarat al-Limiyya
 c_braganza,PROV188,,Bragança
-c_braganza,c_braganza,,
 c_braganza,c_braganza_adj,,Bragançan
 c_braganza,andalusian_arabic,,Bragansiyya
 c_braganza,basque,,Bragantza
@@ -3521,7 +3469,6 @@ d_beja,levantine_arabic,,Taghr al-Adna
 d_beja,maghreb_arabic,,Taghr al-Adna
 d_beja,sicilian_arabic,,Taghr al-Adna
 c_evora,PROV186,,Évora
-c_evora,c_evora,,
 c_evora,c_evora_adj,,Évoran
 c_evora,andalusian_arabic,,Yabura
 c_evora,basque,,Ebora
@@ -3574,7 +3521,6 @@ b_crato,levantine_arabic,,Qrat
 b_crato,maghreb_arabic,,Qrat
 b_crato,sicilian_arabic,,Qrat
 c_alcacer_do_sal,PROV161,,Alcácer do Sal
-c_alcacer_do_sal,c_alcacer_do_sal,,
 c_alcacer_do_sal,c_alcacer_do_sal_adj,,Alcácer do Salian
 c_alcacer_do_sal,andalusian_arabic,,al-Qasr-al-Baja
 c_alcacer_do_sal,basque,,Gatza Gaztelua
@@ -3650,7 +3596,6 @@ b_santiagodocacem,maghreb_arabic,,al-Qashim
 b_santiagodocacem,roman,,Mirobriga
 b_santiagodocacem,sicilian_arabic,,al-Qashim
 c_beja,PROV1211,,Beja
-c_beja,c_beja,,
 c_beja,c_beja_adj,,Bejense
 c_beja,andalusian_arabic,,al-Bajah az-Zayt
 c_beja,bedouin_arabic,,al-Bajah az-Zayt
@@ -3703,7 +3648,6 @@ b_alvito,levantine_arabic,,Albur
 b_alvito,maghreb_arabic,,Albur
 b_alvito,sicilian_arabic,,Albur
 c_mertola,PROV185,,Mértola
-c_mertola,c_mertola,,
 c_mertola,c_mertola_adj,,Mértolan
 c_mertola,andalusian_arabic,,Martulah
 c_mertola,bedouin_arabic,,Martulah
@@ -3761,7 +3705,6 @@ b_mourao,levantine_arabic,,Mura'an
 b_mourao,maghreb_arabic,,Mura'an
 b_mourao,sicilian_arabic,,Mura'an
 c_setubal,PROV1200,,Setúbal
-c_setubal,c_setubal,,
 c_setubal,c_setubal_adj,,Setubalense
 c_setubal,andalusian_arabic,,Xetubre
 c_setubal,basque,,Setubal
@@ -3823,7 +3766,6 @@ d_algarve,levantine_arabic,,al-Gharb
 d_algarve,maghreb_arabic,,al-Gharb
 d_algarve,sicilian_arabic,,al-Gharb
 c_faro,PROV163,,Faro
-c_faro,c_faro,,
 c_faro,c_faro_adj,,Faronian
 c_faro,andalusian_arabic,,Uhshunubah
 c_faro,bedouin_arabic,,Uhshunubah
@@ -3886,7 +3828,6 @@ b_castromarim,levantine_arabic,,al-Qasruh
 b_castromarim,maghreb_arabic,,al-Qasruh
 b_castromarim,sicilian_arabic,,al-Qasruh
 c_silves,PROV162,,Silves
-c_silves,c_silves,,
 c_silves,c_silves_adj,,Silvesian
 c_silves,andalusian_arabic,,Shleb
 c_silves,basque,,Silbes
@@ -3949,7 +3890,6 @@ d_badajoz,maghreb_arabic,,Balad al-Iawz
 d_badajoz,portuguese,,Badalhouce
 d_badajoz,sicilian_arabic,,Balad al-Iawz
 c_plasencia,PROV194,,Plasencia
-c_plasencia,c_plasencia,,
 c_plasencia,c_plasencia_adj,,Plasencian
 c_plasencia,andalusian_arabic,,Blasinsiyya
 c_plasencia,basque,,Plasentzia
@@ -4016,7 +3956,6 @@ b_trujillo,portuguese,,Truxilho
 b_trujillo,roman,,Turgalium
 b_trujillo,sicilian_arabic,,Torgiela
 c_alcantara,PROV193,,Alcantara
-c_alcantara,c_alcantara,,
 c_alcantara,c_alcantara_adj,,Alcantaran
 c_alcantara,andalusian_arabic,,al-Qantara
 c_alcantara,basque,,Alkantara
@@ -4070,7 +4009,6 @@ b_valenciadealcantara,maghreb_arabic,,Balansiyya al-Qantara
 b_valenciadealcantara,portuguese,,Valência de Alcântara
 b_valenciadealcantara,sicilian_arabic,,Balansiyya al-Qantara
 c_badajoz,PROV184,,Badajoz
-c_badajoz,c_badajoz,,
 c_badajoz,c_badajoz_adj,,Badajozian
 c_badajoz,andalusian_arabic,,Balad al-Iawz
 c_badajoz,bedouin_arabic,,Balad al-Iawz
@@ -4141,7 +4079,6 @@ b_alburquerque,levantine_arabic,,Abu-al-Qurq
 b_alburquerque,maghreb_arabic,,Abu-al-Qurq
 b_alburquerque,sicilian_arabic,,Abu-al-Qurq
 c_aracena,PROV183,,Mérida
-c_aracena,c_aracena,,
 c_aracena,c_aracena_adj,,Aracenan
 c_aracena,andalusian_arabic,,Marida
 c_aracena,basque,,Merida
@@ -4207,7 +4144,6 @@ d_toledo,maghreb_arabic,,Tulaytulah
 d_toledo,roman,,Toletum
 d_toledo,sicilian_arabic,,Tulaytulah
 c_caceres,PROV195,,Talavera
-c_caceres,c_caceres,,
 c_caceres,c_caceres_adj,,Caceresian
 c_caceres,andalusian_arabic,,Talabira
 c_caceres,basque,,Talabera
@@ -4250,7 +4186,6 @@ b_alia,levantine_arabic,,Aliyya
 b_alia,maghreb_arabic,,Aliyya
 b_alia,sicilian_arabic,,Aliyya
 c_toledo,PROV197,,Toledo
-c_toledo,c_toledo,,
 c_toledo,c_toledo_adj,,Toledan
 c_toledo,andalusian_arabic,,Tulaytulah
 c_toledo,bedouin_arabic,,Tulaytulah
@@ -4313,7 +4248,6 @@ b_consuegra,levantine_arabic,,Qunsabira
 b_consuegra,maghreb_arabic,,Qunsabira
 b_consuegra,sicilian_arabic,,Qunsabira
 c_cuenca,PROV177,,Cuenca
-c_cuenca,c_cuenca,,
 c_cuenca,c_cuenca_adj,,Cuencan
 c_cuenca,andalusian_arabic,,Qunka
 c_cuenca,basque,,Kuenka
@@ -4364,7 +4298,6 @@ b_quintanardelrey,maghreb_arabic,,al-Qinarah
 b_quintanardelrey,portuguese,,Quintanar do Rei
 b_quintanardelrey,sicilian_arabic,,al-Qinarah
 c_guadalajara,PROV1201,,Guadalajara
-c_guadalajara,c_guadalajara,,
 c_guadalajara,c_guadalajara_adj,,Guadalajareña
 c_guadalajara,andalusian_arabic,,Wad al-Hiyara
 c_guadalajara,aragonese,,Guadalachara
@@ -4424,7 +4357,6 @@ b_manzanares,maghreb_arabic,,Wadi-ar-Raml
 b_manzanares,portuguese,,Mançanares
 b_manzanares,sicilian_arabic,,Wadi-ar-Raml
 c_molina,PROV176,,Molina
-c_molina,c_molina,,
 c_molina,c_molina_adj,,Molinan
 c_molina,andalusian_arabic,,Barusa
 c_molina,bedouin_arabic,,Barusa
@@ -4477,7 +4409,6 @@ d_sevilla,portuguese,,Sevilha
 d_sevilla,roman,,Hispalis
 d_sevilla,sicilian_arabic,,Isbiliya
 c_algeciras,PROV166,,Algeciras
-c_algeciras,c_algeciras,,
 c_algeciras,c_algeciras_adj,,Algeciran
 c_algeciras,andalusian_arabic,,al-Yazira al-Jadra
 c_algeciras,aragonese,,Alchezira
@@ -4549,7 +4480,6 @@ b_cadiz,portuguese,,Cádis
 b_cadiz,roman,,Gades
 b_cadiz,sicilian_arabic,,Qadis
 c_cadiz,PROV165,,Carmona
-c_cadiz,c_cadiz,,
 c_cadiz,c_cadiz_adj,,Cadizian
 c_cadiz,andalusian_arabic,,Qarmuna
 c_cadiz,basque,,Karmona
@@ -4605,7 +4535,6 @@ b_lora_del_rio,maghreb_arabic,,Lawra
 b_lora_del_rio,portuguese,,Loura do Rio
 b_lora_del_rio,sicilian_arabic,,Lawra
 c_niebla,PROV164,,Niebla
-c_niebla,c_niebla,,
 c_niebla,c_niebla_adj,,Nieblan
 c_niebla,andalusian_arabic,,Lebla
 c_niebla,bedouin_arabic,,Lebla
@@ -4655,7 +4584,6 @@ b_almonte,levantine_arabic,,al-Munt
 b_almonte,maghreb_arabic,,al-Munt
 b_almonte,sicilian_arabic,,al-Munt
 c_sevilla,PROV182,,Sevilla
-c_sevilla,c_sevilla,,
 c_sevilla,c_sevilla_adj,,Sevillan
 c_sevilla,andalusian_arabic,,Isbiliya
 c_sevilla,basque,,Sebilla
@@ -4760,7 +4688,6 @@ d_granada,roman,,Iliberri
 d_granada,sanhaja,,Gharnaatah
 d_granada,sicilian_arabic,,Gharnaatah
 c_almeria,PROV168,,Almeria
-c_almeria,c_almeria,,
 c_almeria,c_almeria_adj,,Almerian
 c_almeria,andalusian_arabic,,al-Mariyyat
 c_almeria,basque,,Almeria
@@ -4829,7 +4756,6 @@ b_berja,portuguese,,Berxa
 b_berja,sanhaja,,Berchat
 b_berja,sicilian_arabic,,Berchat
 c_granada,PROV180,,Granada
-c_granada,c_granada,,
 c_granada,c_granada_adj,,Granadan
 c_granada,andalusian_arabic,,Gharnaatah
 c_granada,bedouin_arabic,,Gharnaatah
@@ -4910,7 +4836,6 @@ b_loja,maghreb_arabic,,Madina Lauxa
 b_loja,sanhaja,,Madina Lauxa
 b_loja,sicilian_arabic,,Madina Lauxa
 c_malaga,PROV167,,Malaga
-c_malaga,c_malaga,,
 c_malaga,c_malaga_adj,,Málagan
 c_malaga,andalusian_arabic,,Malaqa
 c_malaga,basque,,Malaga
@@ -4999,7 +4924,6 @@ d_cordoba,portuguese,,Córdova
 d_cordoba,roman,,Corduba
 d_cordoba,sicilian_arabic,,Qurtubah
 c_cordoba,PROV181,,Cordoba
-c_cordoba,c_cordoba,,
 c_cordoba,c_cordoba_adj,,Cordoban
 c_cordoba,andalusian_arabic,,Qurtubah
 c_cordoba,aragonese,,Cordoba
@@ -5093,7 +5017,6 @@ b_iznajar,levantine_arabic,,Hisn-Ashar
 b_iznajar,maghreb_arabic,,Hisn-Ashar
 b_iznajar,sicilian_arabic,,Hisn-Ashar
 c_jaen,PROV1192,,Jaén
-c_jaen,c_jaen,,
 c_jaen,c_jaen_adj,,Jienense
 c_jaen,andalusian_arabic,,Yayyan
 c_jaen,aragonese,,Chaén
@@ -5174,7 +5097,6 @@ d_la_mancha,maghreb_arabic,,al-Mányà
 d_la_mancha,portuguese,,Mancha
 d_la_mancha,sicilian_arabic,,al-Mányà
 c_la_mancha,PROV178,,Alarcón
-c_la_mancha,c_la_mancha,,
 c_la_mancha,c_la_mancha_adj,,La Manchan
 c_la_mancha,andalusian_arabic,,al-Urqub
 c_la_mancha,basque,,Alarkon
@@ -5230,7 +5152,6 @@ b_ucles,levantine_arabic,,Uqlish
 b_ucles,maghreb_arabic,,Uqlish
 b_ucles,sicilian_arabic,,Uqlish
 c_alcaraz,PROV1216,,Alcaraz
-c_alcaraz,c_alcaraz,,
 c_alcaraz,c_alcaraz_adj,,Alcaraceña
 c_alcaraz,andalusian_arabic,,al-Karas
 c_alcaraz,basque,,Alkaraz
@@ -5268,7 +5189,6 @@ b_munera,maghreb_arabic,,Munayira
 b_munera,portuguese,,Munieira
 b_munera,sicilian_arabic,,Munayira
 c_calatrava,PROV196,,Calatrava
-c_calatrava,c_calatrava,,
 c_calatrava,c_calatrava_adj,,Calatravan
 c_calatrava,andalusian_arabic,,Qal'at Rabah
 c_calatrava,basque,,Kalatraba
@@ -5342,7 +5262,6 @@ d_valencia,portuguese,,Valência
 d_valencia,roman,,Valentia
 d_valencia,sicilian_arabic,,Balansiyya
 c_castellon,PROV172,,Castellon
-c_castellon,c_castellon,,
 c_castellon,c_castellon_adj,,Castellonian
 c_castellon,andalusian_arabic,,Marmariya
 c_castellon,basque,,Gaztelu
@@ -5398,7 +5317,6 @@ b_vinaros,maghreb_arabic,,Beni al-Arus
 b_vinaros,portuguese,,Vinaroce
 b_vinaros,sicilian_arabic,,Beni al-Arus
 c_denia,PROV170,,Denia
-c_denia,c_denia,,
 c_denia,c_denia_adj,,Dénian
 c_denia,andalusian_arabic,,Deniyya
 c_denia,aragonese,,Denya
@@ -5457,7 +5375,6 @@ b_benissa,levantine_arabic,,Ben Isa
 b_benissa,maghreb_arabic,,Ben Isa
 b_benissa,sicilian_arabic,,Ben Isa
 c_valencia,PROV171,,Valencia
-c_valencia,c_valencia,,
 c_valencia,c_valencia_adj,,Valèncian
 c_valencia,andalusian_arabic,,Balansiyya
 c_valencia,basque,,Balentzia
@@ -5548,7 +5465,6 @@ d_murcia,maghreb_arabic,,Mursiya
 d_murcia,portuguese,,Múrcia
 d_murcia,sicilian_arabic,,Mursiya
 c_murcia,PROV169,,Murcia
-c_murcia,c_murcia,,
 c_murcia,c_murcia_adj,,Murcian
 c_murcia,andalusian_arabic,,Mursiya
 c_murcia,basque,,Murtzia
@@ -5609,7 +5525,6 @@ b_alcantarilla,maghreb_arabic,,al-Qantariyya
 b_alcantarilla,portuguese,,Alcântarela
 b_alcantarilla,sicilian_arabic,,al-Qantariyya
 c_almansa,PROV179,,Villena
-c_almansa,c_almansa,,
 c_almansa,c_almansa_adj,,Almansan
 c_almansa,andalusian_arabic,,Bilyana
 c_almansa,basque,,Bilena
@@ -5688,7 +5603,6 @@ d_mallorca,maghreb_arabic,,Mayurqa
 d_mallorca,portuguese,,Maiorca
 d_mallorca,sicilian_arabic,,Mayurqa
 c_eivissa,PROV967,,Eivissa
-c_eivissa,c_eivissa,,
 c_eivissa,c_eivissa_adj,,Ibicenca
 c_eivissa,andalusian_arabic,,Yebisah
 c_eivissa,basque,,Ibiza
@@ -5727,7 +5641,6 @@ b_formentera,levantine_arabic,,Furmintîra
 b_formentera,maghreb_arabic,,Furmintîra
 b_formentera,sicilian_arabic,,Furmintîra
 c_mallorca,PROV827,,Mallorca
-c_mallorca,c_mallorca,,
 c_mallorca,c_mallorca_adj,,Mallorcan
 c_mallorca,andalusian_arabic,,Mayurqa
 c_mallorca,basque,,Maiorka
@@ -5778,7 +5691,6 @@ b_santaponsa,levantine_arabic,,Sanat Busa
 b_santaponsa,maghreb_arabic,,Sanat Busa
 b_santaponsa,sicilian_arabic,,Sanat Busa
 c_menorca,PROV826,,Menorca
-c_menorca,c_menorca,,
 c_menorca,c_menorca_adj,,Menorcan
 c_menorca,andalusian_arabic,,Manurqa
 c_menorca,basque,,Menorka

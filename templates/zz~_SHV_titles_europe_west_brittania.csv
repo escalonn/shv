@@ -107,7 +107,6 @@ d_somerset,d_somerset_adj_swedish,,Vestseaxr
 d_somerset,welsh,,Caer Gwynntguic
 d_somerset,d_somerset_adj_welsh,,Gwynntguican
 c_winchester,PROV26,,Winchester
-c_winchester,c_winchester,,
 c_winchester,c_winchester_adj,,Hamptonshireish
 c_winchester,anglonorse,,Wintanceaster
 c_winchester,breton,,Caer Gwynntguic
@@ -202,7 +201,6 @@ b_andover,norwegian,,Andeferas
 b_andover,saxon,,Andeferas
 b_andover,swedish,,Andeferas
 c_wiltshire,PROV23,,Wiltshire
-c_wiltshire,c_wiltshire,,
 c_wiltshire,c_wiltshire_adj,,Wiltshireish
 c_wiltshire,anglonorse,,Wiltun
 c_wiltshire,breton,,Caer Gradawc
@@ -292,7 +290,6 @@ b_malmesbury,norwegian,,Malmesborg
 b_malmesbury,saxon,,Malmesburh
 b_malmesbury,swedish,,Malmesborg
 c_wight,PROV1417,,Wight
-c_wight,c_wight,,
 c_wight,c_wight_adj,,Wightish
 c_wight,anglonorse,,Wiht
 c_wight,saxon,,Wiht
@@ -303,7 +300,6 @@ b_carisbrooke,anglonorse,,Adrintun
 b_carisbrooke,norman,,Beaucombe
 b_carisbrooke,saxon,,Adrintun
 c_dorset,PROV27,,Dorset
-c_dorset,c_dorset,,
 c_dorset,c_dorset_adj,,Dorsetian
 c_dorset,anglonorse,,Dornsæte
 c_dorset,breton,,Caer Durnac
@@ -398,7 +394,6 @@ b_sherborne,norwegian,,Scirburna
 b_sherborne,saxon,,Scirburna
 b_sherborne,swedish,,Scirburna
 c_somerset,PROV28,,Somerset
-c_somerset,c_somerset,,
 c_somerset,c_somerset_adj,,Somersetian
 c_somerset,anglonorse,,Sumorsæte
 c_somerset,breton,,Glastenning
@@ -494,7 +489,6 @@ b_ilchester,norwegian,,Ilceaster
 b_ilchester,saxon,,Ilceaster
 b_ilchester,swedish,,Ilceaster
 c_berks,PROV973,,Bearroc
-c_berks,c_berks,,
 c_berks,c_berks_adj,,Berkshireish
 b_abingdon,b_abingdon,,Abingdon
 b_abingdon,b_abingdon_adj,,
@@ -567,7 +561,6 @@ d_canterbury,d_canterbury_adj_swedish,,Centr
 d_canterbury,welsh,,Ceint
 d_canterbury,d_canterbury_adj_welsh,,Ceintan
 c_kent,PROV73,,Kent
-c_kent,c_kent,,
 c_kent,c_kent_adj,,Kentish
 c_kent,anglonorse,,Cent
 c_kent,breton,,Ceint
@@ -655,7 +648,6 @@ b_sandwich,swedish,,Sandwïc
 b_saltwood,b_saltwood,,Saltwood
 b_saltwood,b_saltwood_adj,,
 c_surrey,PROV24,,Surrey
-c_surrey,c_surrey,,
 c_surrey,c_surrey_adj,,Surreyian
 c_surrey,anglonorse,,Suthrige
 c_surrey,danish,,Suðríki
@@ -722,7 +714,6 @@ b_lambeth,norwegian,,Lambehitha
 b_lambeth,saxon,,Lambehitha
 b_lambeth,swedish,,Lambehitha
 c_sussex,PROV25,,Sussex
-c_sussex,c_sussex,,
 c_sussex,c_sussex_adj,,Sussexish
 c_sussex,anglonorse,,Suthseaxe
 c_sussex,breton,,Rhegin
@@ -820,7 +811,6 @@ d_cornwall,d_cornwall_adj_swedish,,Cornwealr
 d_cornwall,welsh,,Dumnonia
 d_cornwall,d_cornwall_adj_welsh,,Dumnonii
 c_cornwall,PROV31,,Cornwall
-c_cornwall,c_cornwall,,
 c_cornwall,c_cornwall_adj,,Cornish
 c_cornwall,anglonorse,,Cornwealh
 c_cornwall,breton,,Kernow
@@ -894,7 +884,6 @@ b_restormel,irish,,Rostorrmel
 b_restormel,scottish,,Rostorrmel
 b_restormel,welsh,,Rostorrmel
 c_devon,PROV29,,Devon
-c_devon,c_devon,,
 c_devon,c_devon_adj,,Devonshirean
 c_devon,anglonorse,,Defena
 c_devon,breton,,Dyfnaint
@@ -1008,7 +997,6 @@ d_hereford,d_hereford_adj_swedish,,Miercer
 d_hereford,welsh,,Dobunnia
 d_hereford,d_hereford_adj_welsh,,Dobunnian
 c_gloucester,PROV21,,Gloucester
-c_gloucester,c_gloucester,,
 c_gloucester,c_gloucester_adj,,Gloucestershirean
 c_gloucester,anglonorse,,Gleawceaster
 c_gloucester,breton,,Caer Gloui
@@ -1090,7 +1078,6 @@ b_tewkesbury,b_tewkesbury_adj,,
 b_tewkesbury,anglonorse,,Theocesburh
 b_tewkesbury,saxon,,Theocesburh
 c_worcester,PROV30,,Worcester
-c_worcester,c_worcester,,
 c_worcester,c_worcester_adj,,Worcestershirean
 c_worcester,anglonorse,,Wigreceaster
 c_worcester,breton,,Gaerwrangon
@@ -1166,7 +1153,6 @@ b_kidderminster,norwegian,,Chedemynster
 b_kidderminster,saxon,,Cedeminster
 b_kidderminster,swedish,,Chedemynster
 c_hereford,PROV17,,Hereford
-c_hereford,c_hereford,,
 c_hereford,c_hereford_adj,,Herefordshirean
 c_hereford,breton,,Ergyng
 c_hereford,c_hereford_adj_breton,,Ergyngian
@@ -1227,7 +1213,6 @@ b_clifford,norwegian,,Cliford
 b_clifford,saxon,,Clifforda
 b_clifford,swedish,,Cliford
 c_shrewsbury,PROV66,,Shrewsbury
-c_shrewsbury,c_shrewsbury,,
 c_shrewsbury,c_shrewsbury_adj,,Shropshirean
 c_shrewsbury,anglonorse,,Scrobbesburh
 c_shrewsbury,breton,,Pengwern
@@ -1317,7 +1302,6 @@ b_ludlow,scottish,,Llwydlo
 b_ludlow,swedish,,Hlud-Hlaw
 b_ludlow,welsh,,Llwydlo
 c_warwick,PROV67,,Warwick
-c_warwick,c_warwick,,
 c_warwick,c_warwick_adj,,Warwickshirean
 c_warwick,anglonorse,,Wæring
 c_warwick,danish,,Wæring
@@ -1366,7 +1350,6 @@ b_kenilworth,b_kenilworth,,Kenilworth
 b_kenilworth,b_kenilworth_adj,,
 b_kenilworth,saxon,,Cynehildesweorc
 c_stafford,PROV1409,,Stafford
-c_stafford,c_stafford,,
 c_stafford,c_stafford_adj,,Staffordshirean
 c_stafford,anglonorse,,Tomsæte
 c_stafford,breton,,Swydd Stafford
@@ -1460,7 +1443,6 @@ d_bedford,d_bedford_adj_swedish,,Miðænglr
 d_bedford,welsh,,Calchwynedd
 d_bedford,d_bedford_adj_welsh,,Calchwyneddian
 c_northampton,PROV68,,Northampton
-c_northampton,c_northampton,,
 c_northampton,c_northampton_adj,,Northamptonish
 c_northampton,anglonorse,,Hamtun
 c_northampton,breton,,Cynwidion
@@ -1526,7 +1508,6 @@ b_fotheringhay,b_fotheringhay_adj,,
 b_rockingham,b_rockingham,,Rockingham
 b_rockingham,b_rockingham_adj,,
 c_bedford,PROV69,,Bedford
-c_bedford,c_bedford,,
 c_bedford,c_bedford_adj,,Bedfordish
 c_bedford,anglonorse,,Beadanforda
 c_bedford,danish,,Beadanford
@@ -1585,7 +1566,6 @@ b_luton,norwegian,,Luntun
 b_luton,saxon,,Luntun
 b_luton,swedish,,Luntun
 c_huntingdon,PROV1412,,Huntingdon
-c_huntingdon,c_huntingdon,,
 c_huntingdon,c_huntingdon_adj,,Huntingdonish
 c_huntingdon,anglonorse,,Huntandun
 c_huntingdon,danish,,Huntandun
@@ -1616,7 +1596,6 @@ b_st_ives,b_st_ives_adj,,
 b_st_ives,anglonorse,,Slepe
 b_st_ives,saxon,,Slepe
 c_bucks,PROV974,,Buckingham
-c_bucks,c_bucks,,
 c_bucks,c_bucks_adj,,Buckinghamish
 c_bucks,anglonorse,,Buccingaham
 c_bucks,danish,,Buccingaham
@@ -1673,7 +1652,6 @@ b_wycombe,norwegian,,Wicumun
 b_wycombe,saxon,,Wicumun
 b_wycombe,swedish,,Wicumun
 c_oxford,PROV22,,Oxford
-c_oxford,c_oxford,,
 c_oxford,c_oxford_adj,,Oxfordish
 c_oxford,anglonorse,,Oxenaforda
 c_oxford,breton,,Rhydychen
@@ -1792,7 +1770,6 @@ d_essex,d_essex_adj_swedish,,Austseaxr
 d_essex,welsh,,Caer Colun
 d_essex,d_essex_adj_welsh,,Colunan
 c_middlesex,PROV32,,Middlesex
-c_middlesex,c_middlesex,,
 c_middlesex,c_middlesex_adj,,Middlesexish
 c_middlesex,anglonorse,,Middelseaxe
 c_middlesex,breton,,Caer Lundein
@@ -1895,7 +1872,6 @@ b_fullham,norwegian,,Fulanhamme
 b_fullham,saxon,,Fulanham
 b_fullham,swedish,,Fulanhamme
 c_essex,PROV72,,Essex
-c_essex,c_essex,,
 c_essex,c_essex_adj,,Essexish
 c_essex,anglonorse,,Eastseaxe
 c_essex,breton,,Caer Colun
@@ -1967,7 +1943,6 @@ b_rayleigh,b_rayleigh_adj,,
 b_hadleigh,b_hadleigh,,Hadleigh
 b_hadleigh,b_hadleigh_adj,,
 c_hertford,PROV1410,,Hertford
-c_hertford,c_hertford,,
 c_hertford,c_hertford_adj,,Herdfordish
 c_hertford,anglonorse,,Heortforda
 c_hertford,danish,,Heortford
@@ -2069,7 +2044,6 @@ d_norfolk,d_norfolk_adj_swedish,,Austænglr
 d_norfolk,welsh,,Caer Went
 d_norfolk,d_norfolk_adj_welsh,,Wentan
 c_norfolk,PROV70,,Norfolk
-c_norfolk,c_norfolk,,
 c_norfolk,c_norfolk_adj,,Norfolkish
 c_norfolk,anglonorse,,Northfolc
 c_norfolk,breton,,Caer Went
@@ -2123,7 +2097,6 @@ b_castle_rising,anglonorse,,Snettisham
 b_castle_rising,norse,,Snettisham
 b_castle_rising,saxon,,Snettisham
 c_suffolk,PROV71,,Suffolk
-c_suffolk,c_suffolk,,
 c_suffolk,c_suffolk_adj,,Suffolkish
 c_suffolk,anglonorse,,Suthfolc
 c_suffolk,danish,,Suðfolc
@@ -2187,7 +2160,6 @@ b_bury_st_edmunds,norwegian,,Beodericsworth
 b_bury_st_edmunds,saxon,,Beodericsworth
 b_bury_st_edmunds,swedish,,Beodericsworth
 c_ely,PROV983,,Isle of Ely
-c_ely,c_ely,,
 c_ely,c_ely_adj,,Elyian
 c_ely,anglonorse,,Elig
 c_ely,danish,,Élig
@@ -2223,7 +2195,6 @@ b_littleport,norwegian,,Litelport
 b_littleport,saxon,,Litelport
 b_littleport,swedish,,Litelport
 c_cambridge,PROV1411,,Cambridge
-c_cambridge,c_cambridge,,
 c_cambridge,c_cambridge_adj,,Cambrigdeian
 c_cambridge,anglonorse,,Grantabrycge
 c_cambridge,breton,,Caergrawnt
@@ -2307,7 +2278,6 @@ d_fivebouroughs,d_fivebouroughs_adj_swedish,,Fimm Borginnr
 d_fivebouroughs,welsh,,Elfed
 d_fivebouroughs,d_fivebouroughs_adj_welsh,,Elfedian
 c_lincoln,PROV61,,Lincoln
-c_lincoln,c_lincoln,,
 c_lincoln,c_lincoln_adj,,Lincolshireish
 c_lincoln,anglonorse,,Lincylene
 c_lincoln,breton,,Linnius
@@ -2381,7 +2351,6 @@ b_boston,b_boston_adj,,
 b_boston,anglonorse,,Bostun
 b_boston,saxon,,Bostun
 c_leicester,PROV62,,Leicester
-c_leicester,c_leicester,,
 c_leicester,c_leicester_adj,,Leicestershireish
 c_leicester,anglonorse,,Ligeraceaster
 c_leicester,breton,,Caer Lerion
@@ -2462,7 +2431,6 @@ b_melton_mowbray,norwegian,,Meltun
 b_melton_mowbray,saxon,,Meltun
 b_melton_mowbray,swedish,,Meltun
 c_derby,PROV63,,Derby
-c_derby,c_derby,,
 c_derby,c_derby_adj,,Derbyish
 c_derby,anglonorse,,Deoraby
 c_derby,danish,,Djúrabý
@@ -2510,7 +2478,6 @@ b_duffield,b_duffield,,Duffield
 b_duffield,b_duffield_adj,,
 b_duffield,norman,,Duvelle
 c_rutland,PROV1413,,Rutland
-c_rutland,c_rutland,,
 c_rutland,c_rutland_adj,,Rutlandish
 c_rutland,anglonorse,,Roteland
 c_rutland,danish,,Roteland
@@ -2527,7 +2494,6 @@ b_oakham,b_oakham_adj,,
 b_alstoe,b_alstoe,,Alstoe
 b_alstoe,b_alstoe_adj,,
 c_nottingham,PROV1414,,Nottingham
-c_nottingham,c_nottingham,,
 c_nottingham,c_nottingham_adj,,Nottinghamish
 c_nottingham,anglonorse,,Snotingaham
 c_nottingham,breton,,Swydd Tigguo Cobauc
@@ -2612,7 +2578,6 @@ d_york,d_york_adj_swedish,,Jorvíkr
 d_york,welsh,,Deifr
 d_york,d_york_adj_welsh,,Deifran
 c_york,PROV57,,The West Riding
-c_york,c_york,,
 c_york,c_york_adj,,East Yorkish
 c_york,anglonorse,,Eoforic
 c_york,breton,,Ebrauc
@@ -2714,7 +2679,6 @@ b_selby,norwegian,,Seletun
 b_selby,saxon,,Seletun
 b_selby,swedish,,Seletun
 c_york_moors,PROV1415,,The North Riding
-c_york_moors,c_york_moors,,
 c_york_moors,c_york_moors_adj,,North Yorkish
 c_york_moors,anglonorse,,se North Thriding
 c_york_moors,norse,,Skarðaborg
@@ -2758,7 +2722,6 @@ b_whitby,norwegian,,Hwitebi
 b_whitby,saxon,,Streoneshalh
 b_whitby,swedish,,Hwitebi
 c_richmond,PROV964,,Richmond
-c_richmond,c_richmond,,
 c_richmond,c_richmond_adj,,Richmondish
 c_richmond,anglonorse,,Ghellinges
 c_richmond,danish,,Ghellinges
@@ -2796,7 +2759,6 @@ b_middleham,swedish,,Medelai
 b_richmond,b_richmond,,Richmond
 b_richmond,b_richmond_adj,,
 c_york_wolds,PROV1416,,The East Riding
-c_york_wolds,c_york_wolds,,
 c_york_wolds,c_york_wolds_adj,,West Yorkish
 c_york_wolds,anglonorse,,se East Thriding
 c_york_wolds,norse,,Holdernessa
@@ -2883,7 +2845,6 @@ d_lancaster,d_lancaster_adj_swedish,,Lonceasterir
 d_lancaster,welsh,,Rhedged
 d_lancaster,d_lancaster_adj_welsh,,Rhegedian
 c_lancaster,PROV58,,Lancaster
-c_lancaster,c_lancaster,,
 c_lancaster,c_lancaster_adj,,Lancastrian
 c_lancaster,anglonorse,,Lonceaster
 c_lancaster,breton,,Argoed
@@ -2958,7 +2919,6 @@ b_clitheroe,b_clitheroe_adj,,
 b_clitheroe,anglonorse,,Cludhyll
 b_clitheroe,saxon,,Cludhyll
 c_chester,PROV59,,Chester
-c_chester,c_chester,,
 c_chester,c_chester_adj,,Chestershireish
 c_chester,anglonorse,,Legeceaster
 c_chester,breton,,Gaerlleon
@@ -3041,7 +3001,6 @@ b_frodsham,b_frodsham_adj,,
 b_frodsham,anglonorse,,Frodesham
 b_frodsham,saxon,,Frodesham
 c_westmorland,PROV55,,Westmorland
-c_westmorland,c_westmorland,,
 c_westmorland,c_westmorland_adj,,Westmoorish
 c_westmorland,anglonorse,,Vestmoringaland
 c_westmorland,breton,,Dunoting
@@ -3121,7 +3080,6 @@ d_northumberland,d_northumberland_adj_swedish,,Norðhymbrir
 d_northumberland,welsh,,Brynaich
 d_northumberland,d_northumberland_adj_welsh,,Brynaichan
 c_northumberland,PROV52,,Northumberland
-c_northumberland,c_northumberland,,
 c_northumberland,c_northumberland_adj,,Northumberish
 c_northumberland,anglonorse,,Bebbanburh
 c_northumberland,breton,,Brynaich
@@ -3200,7 +3158,6 @@ b_newcastle,norwegian,,Monkceaster
 b_newcastle,saxon,,Monkceaster
 b_newcastle,swedish,,Monkceaster
 c_durham,PROV56,,Durham
-c_durham,c_durham,,
 c_durham,c_durham_adj,,Durhamish
 c_durham,anglonorse,,Dunholm
 c_durham,danish,,Dunholm
@@ -3258,7 +3215,6 @@ b_chester-le-street,norwegian,,Cuneceastra
 b_chester-le-street,saxon,,Cuneceaster
 b_chester-le-street,swedish,,Cuneceastra
 c_cumberland,PROV53,,Cumberland
-c_cumberland,c_cumberland,,
 c_cumberland,c_cumberland_adj,,Cumberlandish
 c_cumberland,anglonorse,,Cumbraland
 c_cumberland,breton,,Cair Ligualid
@@ -3332,7 +3288,6 @@ d_channel_islands,d_channel_islands_adj_scottish,,Oileáin na Bhriotáin
 d_channel_islands,welsh,,Ynysoedd y Sianel
 d_channel_islands,d_channel_islands_adj_welsh,,Ynysoedd y Sianel
 c_jersey,PROV1418,,Channel Isles
-c_jersey,c_jersey,,
 c_jersey,c_jersey_adj,,Îles d'la Manche
 c_jersey,anglonorse,,Jarðey
 c_jersey,breton,,Jerzenez
@@ -3412,7 +3367,6 @@ d_gwynedd,saxon,,Gwynedd
 d_gwynedd,scottish,,Gwynedd
 d_gwynedd,welsh,,Gwynedd
 c_gwynedd,PROV64,,Gwynedd
-c_gwynedd,c_gwynedd,,
 c_gwynedd,c_gwynedd_adj,,Gwyneddeg
 c_gwynedd,anglonorse,,Caernarvon
 c_gwynedd,breton,,Gwynedd
@@ -3473,7 +3427,6 @@ b_aberdaron,saxon,,Aberdaron
 b_aberdaron,scottish,,Aberdaron
 b_aberdaron,welsh,,Aberdaron
 c_anglesey,PROV1183,,Ynys Môn
-c_anglesey,c_anglesey,,
 c_anglesey,c_anglesey_adj,,Ynys Moneg
 c_anglesey,anglonorse,,Anglesea
 c_anglesey,english,,Anglesea
@@ -3504,7 +3457,6 @@ b_caer_gybi,saxon,,Holyhead
 b_caer_gybi,scottish,,Caer Gybi
 b_caer_gybi,welsh,,Caer Gybi
 c_perfeddwlad,PROV60,,Perfeddwlad
-c_perfeddwlad,c_perfeddwlad,,
 c_perfeddwlad,c_perfeddwlad_adj,,Perfeddwladeg
 c_perfeddwlad,anglonorse,,Perfeddwlad
 c_perfeddwlad,english,,Perfeddwlad
@@ -3568,7 +3520,6 @@ d_deheubarth,saxon,,Deheubarth
 d_deheubarth,scottish,,Deheubarth
 d_deheubarth,welsh,,Deheubarth
 c_dyfed,PROV18,,Dyfed
-c_dyfed,c_dyfed,,
 c_dyfed,c_dyfed_adj,,Dyfedeg
 c_dyfed,anglonorse,,Pembroke
 c_dyfed,breton,,Dyfed
@@ -3629,7 +3580,6 @@ b_llanismel,saxon,,St. Ishmael
 b_llanismel,scottish,,Llanismel
 b_llanismel,welsh,,Llanismel
 c_ceredigion,PROV945,,Ceredigion
-c_ceredigion,c_ceredigion,,
 c_ceredigion,c_ceredigion_adj,,Ceredigioneg
 c_ceredigion,anglonorse,,Cardigan
 c_ceredigion,breton,,Ceredigion
@@ -3672,7 +3622,6 @@ b_llanddewi_brefi,saxon,,Llanddewi Brefi
 b_llanddewi_brefi,scottish,,Llanddewi Brefi
 b_llanddewi_brefi,welsh,,Llanddewi Brefi
 c_ystrad_tywi,PROV946,,Ystrad Tywi
-c_ystrad_tywi,c_ystrad_tywi,,
 c_ystrad_tywi,c_ystrad_tywi_adj,,Ystrad Tywieg
 c_ystrad_tywi,anglonorse,,Carmarthen
 c_ystrad_tywi,breton,,Ystrad Tywi
@@ -3721,7 +3670,6 @@ b_talyllychau,saxon,,Talley
 b_talyllychau,scottish,,Talyllychau
 b_talyllychau,welsh,,Talyllychau
 c_brycheiniog,PROV947,,Brycheiniog
-c_brycheiniog,c_brycheiniog,,
 c_brycheiniog,c_brycheiniog_adj,,Brycheiniogeg
 c_brycheiniog,anglonorse,,Brecknock
 c_brycheiniog,breton,,Brycheiniog
@@ -3779,7 +3727,6 @@ d_powys,saxon,,Powis
 d_powys,scottish,,Powys
 d_powys,welsh,,Powys
 c_powys,PROV65,,Maelor
-c_powys,c_powys,,
 c_powys,c_powys_adj,,Powys
 c_powys,anglonorse,,Powis Fadog
 c_powys,breton,,Powys Fadog
@@ -3822,7 +3769,6 @@ b_glyndyfrdwy,saxon,,Glyndyfrdwy
 b_glyndyfrdwy,scottish,,Glyndyfrdwy
 b_glyndyfrdwy,welsh,,Glyndyfrdwy
 c_powys_wenwynwyn,PROV949,,Powys Wenwynwyn
-c_powys_wenwynwyn,c_powys_wenwynwyn,,
 c_powys_wenwynwyn,c_powys_wenwynwyn_adj,,Powys
 c_powys_wenwynwyn,anglonorse,,Powis Wenwynwyn
 c_powys_wenwynwyn,breton,,Powys Wenwynwyn
@@ -3874,7 +3820,6 @@ b_caersws,saxon,,Caersws
 b_caersws,scottish,,Caersws
 b_caersws,welsh,,Caersws
 c_buellt,PROV1471,,Buellt
-c_buellt,c_buellt,,
 c_buellt,c_buellt_adj,,Buellteg
 c_buellt,anglonorse,,Builth
 c_buellt,breton,,Buellt
@@ -3908,7 +3853,6 @@ b_llanafan_fawr,saxon,,Llanafan Fawr
 b_llanafan_fawr,scottish,,Llanafan Fawr
 b_llanafan_fawr,welsh,,Llanafan Fawr
 c_rhwng,PROV1472,,Rhwng Gwy A Hafren
-c_rhwng,c_rhwng,,
 c_rhwng,c_rhwng_adj,,Rhwng Gwy a Hafreneg
 c_rhwng,anglonorse,,Radnor
 c_rhwng,breton,,Rhwng Gwy a Hafren
@@ -3960,7 +3904,6 @@ d_morgannwg,saxon,,Glamorgan
 d_morgannwg,scottish,,Morgannwg
 d_morgannwg,welsh,,Morgannwg
 c_gwent,PROV20,,Gwent
-c_gwent,c_gwent,,
 c_gwent,c_gwent_adj,,Gwenteg
 c_gwent,anglonorse,,Gwent
 c_gwent,english,,Gwent
@@ -4006,7 +3949,6 @@ b_caerleon,saxon,,Caerleon
 b_caerleon,scottish,,Caerleon
 b_caerleon,welsh,,Caerleon
 c_glamorgan,PROV19,,Glywysing
-c_glamorgan,c_glamorgan,,
 c_glamorgan,c_glamorgan_adj,,Glywysingeg
 c_glamorgan,anglonorse,,Glamorgan
 c_glamorgan,breton,,Glywysing
@@ -4064,7 +4006,6 @@ b_caerphilly,saxon,,Caerphilly
 b_caerphilly,scottish,,Caerffili
 b_caerphilly,welsh,,Caerffili
 c_gwyr,PROV1473,,Gwyr
-c_gwyr,c_gwyr,,
 c_gwyr,c_gwyr_adj,,Gwyreg
 c_gwyr,anglonorse,,Gower
 c_gwyr,breton,,Gwyr
@@ -4154,7 +4095,6 @@ d_ulster,scottish,,Uladh
 d_ulster,swedish,,Ullagh
 d_ulster,welsh,,Wledd
 c_ulster,PROV5,,Antrim
-c_ulster,c_ulster,,
 c_ulster,c_ulster_adj,,Antrimian
 c_ulster,breton,,Aontroim
 c_ulster,cornish,,Aontroim
@@ -4221,7 +4161,6 @@ b_dromore,saxon,,Drummor
 b_dromore,scottish,,Druim Mór
 b_dromore,welsh,,Druim Mór
 c_tyrone,PROV4,,Tyrone
-c_tyrone,c_tyrone,,
 c_tyrone,c_tyrone_adj,,Tir Eoghainian
 c_tyrone,anglonorse,,Tyrowen
 c_tyrone,breton,,Tír Eogain
@@ -4291,7 +4230,6 @@ b_aileach,norsegaelic,,Ailigh
 b_aileach,scottish,,Ailigh
 b_aileach,welsh,,Ailigh
 c_tyrconnell,PROV3,,Tyrconnell
-c_tyrconnell,c_tyrconnell,,
 c_tyrconnell,c_tyrconnell_adj,,Tyrconnellian
 c_tyrconnell,breton,,Tír Chonaill
 c_tyrconnell,cornish,,Tír Chonaill
@@ -4337,7 +4275,6 @@ b_devenish,norsegaelic,,Daimhinis
 b_devenish,scottish,,Daimhinis
 b_devenish,welsh,,Daimhinis
 c_oriel,PROV7,,Oriel
-c_oriel,c_oriel,,
 c_oriel,c_oriel_adj,,Orielian
 c_oriel,anglonorse,,Oriel
 c_oriel,breton,,Airgíalla
@@ -4422,7 +4359,6 @@ d_connacht,scottish,,Connachta
 d_connacht,swedish,,Kunnakster
 d_connacht,welsh,,Connachta
 c_connacht,PROV9,,Mayo
-c_connacht,c_connacht,,
 c_connacht,c_connacht_adj,,Mayish
 c_connacht,anglonorse,,Chonnaghtey
 c_connacht,breton,,Connachta
@@ -4502,7 +4438,6 @@ b_shrule,scottish,,Sruthair
 b_shrule,swedish,,Shruel
 b_shrule,welsh,,Sruthair
 c_moylurg,PROV976,,Moylurg
-c_moylurg,c_moylurg,,
 c_moylurg,c_moylurg_adj,,Moylurgan
 c_moylurg,breton,,Magh Luirg
 c_moylurg,c_moylurg_adj_breton,,Magh Luirgan
@@ -4553,7 +4488,6 @@ b_boyle,norsegaelic,,Búille
 b_boyle,scottish,,Búille
 b_boyle,welsh,,Búille
 c_hy_many,PROV1435,,Hy Many
-c_hy_many,c_hy_many,,
 c_hy_many,c_hy_many_adj,,Hy Many
 c_hy_many,breton,,Uí Maine
 c_hy_many,cornish,,Uí Maine
@@ -4590,7 +4524,6 @@ b_dunmore,norsegaelic,,Dún Mór
 b_dunmore,scottish,,Dùn Mòr
 b_dunmore,welsh,,Dún Mór
 c_breifne,PROV8,,Leitrim
-c_breifne,c_breifne,,
 c_breifne,c_breifne_adj,,Leitrimian
 c_breifne,anglonorse,,Leitrim
 c_breifne,breton,,Liatroim
@@ -4634,7 +4567,6 @@ b_carrickonshannon,norsegaelic,,Cora Droma Rúisc
 b_carrickonshannon,scottish,,Cora Droma Rúisc
 b_carrickonshannon,welsh,,Cora Droma Rúisc
 c_cavan,PROV1436,,Chabhain
-c_cavan,c_cavan,,
 c_cavan,c_cavan_adj,,Cavanan
 c_cavan,breton,,An Cabhán
 c_cavan,cornish,,An Cabhán
@@ -4689,7 +4621,6 @@ d_meath,scottish,,Mide
 d_meath,swedish,,Miðr
 d_meath,welsh,,Mide
 c_tethbae,PROV1433,,Tethbae
-c_tethbae,c_tethbae,,
 c_tethbae,c_tethbae_adj,,Tethbaean
 c_tethbae,anglonorse,,Teffia
 c_tethbae,irish,,Teabhtha
@@ -4743,7 +4674,6 @@ b_granard,norsegaelic,,Gránard
 b_granard,scottish,,Gránard
 b_granard,welsh,,Gránard
 c_brega,PROV975,,Brega
-c_brega,c_brega,,
 c_brega,c_brega_adj,,Brega
 b_louth,b_louth,,Louth
 b_louth,b_louth_adj,,
@@ -4817,7 +4747,6 @@ b_knowth,norsegaelic,,Cnoghbha
 b_knowth,scottish,,Cnoghbha
 b_knowth,welsh,,Cnoghbha
 c_offaly,PROV1434,,Uibh Fhaili
-c_offaly,c_offaly,,
 c_offaly,c_offaly_adj,,Offalyan
 c_offaly,breton,,Uíbh Fhailí
 c_offaly,cornish,,Uíbh Fhailí
@@ -4854,7 +4783,6 @@ b_rathangan,norsegaelic,,Ráth Iomgháin
 b_rathangan,scottish,,Ráth Iomgháin
 b_rathangan,welsh,,Ráth Iomgháin
 c_dublin,PROV11,,Dublin
-c_dublin,c_dublin,,
 c_dublin,c_dublin_adj,,Dubliner
 c_dublin,anglonorse,,Dyflin
 c_dublin,breton,,Dulyn
@@ -4957,7 +4885,6 @@ d_leinster,scottish,,Laigin
 d_leinster,swedish,,Laistaðr
 d_leinster,welsh,,Laigin
 c_leinster,PROV16,,Wexford
-c_leinster,c_leinster,,
 c_leinster,c_leinster_adj,,Wexfordian
 c_leinster,anglonorse,,Veisafjorð
 c_leinster,breton,,Loch Garman
@@ -5020,7 +4947,6 @@ b_bargy,norsegaelic,,Ui Bhairrche
 b_bargy,scottish,,Ui Bhairrche
 b_bargy,welsh,,Ui Bhairrche
 c_kildare,PROV10,,Kildare
-c_kildare,c_kildare,,
 c_kildare,c_kildare_adj,,Kildarian
 c_kildare,anglonorse,,Cheeill Darey
 c_kildare,breton,,Cill Dara
@@ -5081,7 +5007,6 @@ b_old_leighlin,scottish,,Seanleithghlinn
 b_old_leighlin,swedish,,Ealdleiglin
 b_old_leighlin,welsh,,Seanleithghlinn
 c_wicklow,PROV1432,,Chill Mhantain
-c_wicklow,c_wicklow,,
 c_wicklow,c_wicklow_adj,,Wicklowan
 c_wicklow,anglonorse,,Wykynlo
 c_wicklow,breton,,Cill Mhantáin
@@ -5149,7 +5074,6 @@ b_glendalough,scottish,,Gleann Dá Loch
 b_glendalough,swedish,,Glanda-lág
 b_glendalough,welsh,,Gleann Dá Loch
 c_ossory,PROV12,,Ossory
-c_ossory,c_ossory,,
 c_ossory,c_ossory_adj,,Ossoryan
 c_ossory,breton,,Osraige
 c_ossory,cornish,,Osraige
@@ -5222,7 +5146,6 @@ d_munster,d_munster_adj_north_germanic,,Hlymrekian
 d_munster,scottish,,Deas-Mhumhain
 d_munster,welsh,,Deas-Mhumhain
 c_desmond,PROV14,,Kerry
-c_desmond,c_desmond,,
 c_desmond,c_desmond_adj,,Kerryan
 c_desmond,anglonorse,,Cheree
 c_desmond,breton,,Ciarraighe
@@ -5266,7 +5189,6 @@ b_ross,norsegaelic,,Rois
 b_ross,scottish,,Rois
 b_ross,welsh,,Rois
 c_limerick,PROV1429,,Luimnigh
-c_limerick,c_limerick,,
 c_limerick,c_limerick_adj,,Limerickan
 c_limerick,anglonorse,,Limmeragh
 c_limerick,breton,,Luimnigh
@@ -5332,7 +5254,6 @@ b_askeaton,scottish,,Eas Géitine
 b_askeaton,swedish,,Askettin
 b_askeaton,welsh,,Eas Géitine
 c_cork,PROV1430,,Corcaigh
-c_cork,c_cork,,
 c_cork,c_cork_adj,,Corkish
 c_cork,anglonorse,,Chorkee
 c_cork,breton,,Corc
@@ -5392,7 +5313,6 @@ b_dunboy,norsegaelic,,Dún Baoi
 b_dunboy,scottish,,Dún Baoi
 b_dunboy,welsh,,Dún Baoi
 c_ormond,PROV15,,Waterford
-c_ormond,c_ormond,,
 c_ormond,c_ormond_adj,,Waterfordian
 c_ormond,anglonorse,,Veðrafjorðr
 c_ormond,breton,,An Déise
@@ -5446,7 +5366,6 @@ b_lismore,norsegaelic,,Lios Mór
 b_lismore,scottish,,Lios Mór
 b_lismore,welsh,,Lios Mór
 c_thomond,PROV13,,Clare
-c_thomond,c_thomond,,
 c_thomond,c_thomond_adj,,Clarish
 c_thomond,breton,,An Clár
 c_thomond,cornish,,An Clár
@@ -5500,7 +5419,6 @@ b_iniscealtra,scottish,,Inis Cealtra
 b_iniscealtra,swedish,,Haligéaland
 b_iniscealtra,welsh,,Inis Cealtra
 c_tipperary,PROV1428,,Thiobraid Arann
-c_tipperary,c_tipperary,,
 c_tipperary,c_tipperary_adj,,Tipperaryan
 c_tipperary,irish,,Tiobraid Árann
 c_tipperary,norsegaelic,,Hybbyrt Aarey
@@ -5596,7 +5514,6 @@ d_galloway,d_galloway_adj_scottish,,Gall Ghaidhealan
 d_galloway,welsh,,Gall Ghaidheal
 d_galloway,d_galloway_adj_welsh,,Gall Ghaidhealan
 c_galloway,PROV50,,Galloway
-c_galloway,c_galloway,,
 c_galloway,c_galloway_adj,,Gall Ghaidheal
 c_galloway,anglonorse,,Galloway
 c_galloway,breton,,Gall Ghaidheal
@@ -5666,7 +5583,6 @@ b_dunragit,saxon,,Dunragit
 b_dunragit,scottish,,Dùn Reicheit
 b_dunragit,welsh,,Dùn Reicheit
 c_carrick,PROV49,,Carrick
-c_carrick,c_carrick,,
 c_carrick,c_carrick_adj,,Carrickeach
 c_carrick,anglonorse,,Carrick
 c_carrick,breton,,A' Charraig
@@ -5727,7 +5643,6 @@ d_lothian,d_lothian_adj_scottish,,Lodainn
 d_lothian,welsh,,Lleuddiniawn
 d_lothian,d_lothian_adj_welsh,,Lleuddiniawn
 c_lothian,PROV48,,Lothian
-c_lothian,c_lothian,,
 c_lothian,c_lothian_adj,,Lodainneach
 c_lothian,anglonorse,,Lothian
 c_lothian,breton,,Lleuddiniawn
@@ -5824,7 +5739,6 @@ b_leith,saxon,,Leith
 b_leith,scottish,,Lìte
 b_leith,welsh,,Lìte
 c_dunbar,PROV51,,Dunbar
-c_dunbar,c_dunbar,,
 c_dunbar,c_dunbar_adj,,Berwickeach
 c_dunbar,anglonorse,,Berewic
 c_dunbar,breton,,Caerferwig
@@ -5885,7 +5799,6 @@ b_gordon,saxon,,Gordon
 b_gordon,scottish,,Gordon
 b_gordon,welsh,,Gordon
 c_teviotdale,PROV38,,Teviotdale
-c_teviotdale,c_teviotdale,,
 c_teviotdale,c_teviotdale_adj,,Roxburgheach
 c_teviotdale,anglonorse,,Hrocasburh
 c_teviotdale,breton,,Rosbroch
@@ -5964,7 +5877,6 @@ b_kelso,saxon,,Kelso
 b_kelso,scottish,,Cealsaidh
 b_kelso,welsh,,Cealsaidh
 c_tweedale,PROV1479,,Tweedale
-c_tweedale,c_tweedale,,
 c_tweedale,c_tweedale_adj,,
 b_selkirk,b_selkirk,,Selkirk
 b_selkirk,b_selkirk_adj,,
@@ -6030,7 +5942,6 @@ d_albany,d_albany_adj_scottish,,An Mhaorine
 d_albany,welsh,,An Mhaorine
 d_albany,d_albany_adj_welsh,,An Mhaorine
 c_gowrie,PROV43,,Gowrie
-c_gowrie,c_gowrie,,
 c_gowrie,c_gowrie_adj,,Gowrieach
 c_gowrie,anglonorse,,Gowrie
 c_gowrie,breton,,Gobharaidh
@@ -6109,7 +6020,6 @@ b_clunie,saxon,,Clunie
 b_clunie,scottish,,Clunie
 b_clunie,welsh,,Clunie
 c_fife,PROV46,,Fife
-c_fife,c_fife,,
 c_fife,c_fife_adj,,Fifeach
 c_fife,breton,,Fìobha
 c_fife,cornish,,Fìobha
@@ -6180,7 +6090,6 @@ b_leuchars,saxon,,Leuchars
 b_leuchars,scottish,,Luachar
 b_leuchars,welsh,,Luachar
 c_strathearn,PROV42,,Strathearn
-c_strathearn,c_strathearn,,
 c_strathearn,c_strathearn_adj,,Strathearneach
 c_strathearn,anglonorse,,Strathearn
 c_strathearn,breton,,Srath Èireann
@@ -6238,7 +6147,6 @@ b_madderty,saxon,,Madderty
 b_madderty,scottish,,Madderty
 b_madderty,welsh,,Madderty
 c_atholl,PROV44,,Atholl
-c_atholl,c_atholl,,
 c_atholl,c_atholl_adj,,Atholleach
 c_atholl,anglonorse,,Atholl
 c_atholl,breton,,Athall
@@ -6311,7 +6219,6 @@ d_moray,d_moray_adj_scottish,,Moireabhan
 d_moray,welsh,,Moireabh
 d_moray,d_moray_adj_welsh,,Moireabhan
 c_moray,PROV40,,Moray
-c_moray,c_moray,,
 c_moray,c_moray_adj,,Moireibheach
 c_moray,anglonorse,,Moray
 c_moray,breton,,Moireibh
@@ -6375,7 +6282,6 @@ b_cawdor,saxon,,Cawdor
 b_cawdor,scottish,,Cawdor
 b_cawdor,welsh,,Cawdor
 c_ross,PROV39,,Ross
-c_ross,c_ross,,
 c_ross,c_ross_adj,,Roseach
 c_ross,anglonorse,,Ross
 c_ross,cornish,,Ros
@@ -6435,7 +6341,6 @@ b_fortrose,saxon,,Fortrose
 b_fortrose,scottish,,A' Chananaich
 b_fortrose,welsh,,A' Chananaich
 c_inbhirnis,PROV1425,,Inbhir Nis
-c_inbhirnis,c_inbhirnis,,
 c_inbhirnis,c_inbhirnis_adj,,Inbhir Niseach
 c_inbhirnis,anglonorse,,Inverness
 c_inbhirnis,breton,,Inbhir Nis
@@ -6511,7 +6416,6 @@ d_aberdeen,d_aberdeen_adj_scottish,,Obar Dheathain
 d_aberdeen,welsh,,Obar Dheathain
 d_aberdeen,d_aberdeen_adj_welsh,,Obar Dheathain
 c_buchan,PROV41,,Buchan
-c_buchan,c_buchan,,
 c_buchan,c_buchan_adj,,Banffeach
 c_buchan,anglonorse,,Buchan
 c_buchan,breton,,Bhanbh
@@ -6572,7 +6476,6 @@ b_keith,saxon,,Keith
 b_keith,scottish,,Baile Chèith
 b_keith,welsh,,Baile Chèith
 c_obardheathain,PROV1423,,Obar Dheathain
-c_obardheathain,c_obardheathain,,
 c_obardheathain,c_obardheathain_adj,,Obar Dheathaineach
 c_obardheathain,breton,,Obar Dheathain
 c_obardheathain,cornish,,Obar Dheathain
@@ -6638,7 +6541,6 @@ b_fyvie,saxon,,Fyvie
 b_fyvie,scottish,,Fyvie
 b_fyvie,welsh,,Fyvie
 c_cinnchardainn,PROV1424,,Cinn Chardainn
-c_cinnchardainn,c_cinnchardainn,,
 c_cinnchardainn,c_cinnchardainn_adj,,Cinn Chardainneach
 c_cinnchardainn,anglonorse,,Kincardine
 c_cinnchardainn,breton,,Cinn Chàrdainn
@@ -6737,7 +6639,6 @@ d_sutherland,d_sutherland_adj_swedish,,Suðrland
 d_sutherland,welsh,,Cataibh
 d_sutherland,d_sutherland_adj_welsh,,Cataibh
 c_sutherland,PROV1431,,Cataibh
-c_sutherland,c_sutherland,,
 c_sutherland,c_sutherland_adj,,
 c_sutherland,anglonorse,,Suðrland
 c_sutherland,breton,,Cataibh
@@ -6801,7 +6702,6 @@ b_golspie,saxon,,Golspie
 b_golspie,scottish,,Goillspidh
 b_golspie,welsh,,Goillspidh
 c_caithness,PROV37,,Katanes
-c_caithness,c_caithness,,
 c_caithness,c_caithness_adj,,Cataibheach
 c_caithness,anglonorse,,Caithness
 c_caithness,breton,,Gallaibh
@@ -6867,7 +6767,6 @@ d_strathclyde,scottish,,Strathclyde
 d_strathclyde,welsh,,Ystrad Clut
 d_strathclyde,d_strathclyde_adj_welsh,,Ystrad Clutan
 c_dunbreatainn,PROV1488,,Dun Breatainn
-c_dunbreatainn,c_dunbreatainn,,
 c_dunbreatainn,c_dunbreatainn_adj,,Lennoxeach
 c_dunbreatainn,anglonorse,,Lennox
 c_dunbreatainn,breton,,Alt Clut
@@ -6916,7 +6815,6 @@ b_arrochar,saxon,,Arrochar
 b_arrochar,scottish,,An t-Àrchar
 b_arrochar,welsh,,An t-Àrchar
 c_rinnfriu,PROV1484,,Rinn Friu
-c_rinnfriu,c_rinnfriu,,
 c_rinnfriu,c_rinnfriu_adj,,Strathclydeach
 c_rinnfriu,anglonorse,,Strathclyde
 c_rinnfriu,english,,Strathclyde
@@ -6980,7 +6878,6 @@ b_bothwell,saxon,,Bothwell
 b_bothwell,scottish,,Bothwell
 b_bothwell,welsh,,Bothwell
 c_clydesdale,PROV47,,Clydesdale
-c_clydesdale,c_clydesdale,,
 c_clydesdale,c_clydesdale_adj,,Clydesdaleach
 c_clydesdale,anglonorse,,Clydesdale
 c_clydesdale,english,,Clydesdale
@@ -7032,7 +6929,6 @@ b_dunure,saxon,,Dunure
 b_dunure,scottish,,Dùn Iùbhair
 b_dunure,welsh,,Dùn Iùbhair
 c_dunphris,PROV1470,,Srath Anann
-c_dunphris,c_dunphris,,
 c_dunphris,c_dunphris_adj,,Srath Anann
 c_dunphris,anglonorse,,Annandale
 c_dunphris,breton,,Srath Anann
@@ -7147,7 +7043,6 @@ d_ellan_vannin,d_ellan_vannin_adj_swedish,,Mönr
 d_ellan_vannin,welsh,,Manau
 d_ellan_vannin,d_ellan_vannin_adj_welsh,,Manau
 c_isle_of_man,PROV54,,Isle of Man
-c_isle_of_man,c_isle_of_man,,
 c_isle_of_man,c_isle_of_man_adj,,Manneach
 c_isle_of_man,anglonorse,,Mön
 c_isle_of_man,cumbric,,Manau
@@ -7228,7 +7123,6 @@ d_hebrides,d_hebrides_adj_swedish,,Laithlinnr
 d_hebrides,welsh,,Airer Ghaidheal
 d_hebrides,d_hebrides_adj_welsh,,Airer Ghaidhealish
 c_argyll,PROV45,,Argyll
-c_argyll,c_argyll,,
 c_argyll,c_argyll_adj,,Earra Ghaidhealeach
 c_argyll,anglonorse,,Argyll
 c_argyll,english,,Argyll
@@ -7265,7 +7159,6 @@ b_ardchattan,saxon,,St. Cathan
 b_ardchattan,scottish,,Ardchattan
 b_ardchattan,welsh,,Ardchattan
 c_muile,PROV1419,,Muile
-c_muile,c_muile,,
 c_muile,c_muile_adj,,Muileach
 c_muile,anglonorse,,Myl
 c_muile,danish,,Myl
@@ -7308,7 +7201,6 @@ b_salen,saxon,,Salen
 b_salen,scottish,,An t-Sàilean
 b_salen,welsh,,An t-Sàilean
 c_ile,PROV1420,,Ile
-c_ile,c_ile,,
 c_ile,c_ile_adj,,Ileach
 c_ile,anglonorse,,Íl
 c_ile,danish,,Íl
@@ -7351,7 +7243,6 @@ b_colonsay,saxon,,Colonsay
 b_colonsay,scottish,,Colbhasa
 b_colonsay,welsh,,Colbhasa
 c_kintyre,PROV1421,,Kintyre
-c_kintyre,c_kintyre,,
 c_kintyre,c_kintyre_adj,,Kintyreach
 c_kintyre,anglonorse,,Kintyre
 c_kintyre,english,,Kintyre
@@ -7379,7 +7270,6 @@ b_saddell,saxon,,Saddell
 b_saddell,scottish,,Saghadal
 b_saddell,welsh,,Saghadal
 c_bod,PROV1422,,Bod
-c_bod,c_bod,,
 c_bod,c_bod_adj,,Bodeach
 c_bod,anglonorse,,Bót
 c_bod,danish,,Bót
@@ -7441,7 +7331,6 @@ d_orkney,d_orkney_adj_swedish,,Norðreyjarir
 d_orkney,welsh,,Arcaibh
 d_orkney,d_orkney_adj_welsh,,Arcaibhish
 c_shetland,PROV34,,Hjaltland
-c_shetland,c_shetland,,
 c_shetland,c_shetland_adj,,Shetlander
 c_shetland,danish,,Hjaltland
 c_shetland,norse,,Hjaltland
@@ -7452,7 +7341,6 @@ b_scalloway,b_scalloway_adj,,
 b_cunningsburgh,b_cunningsburgh,,Cunningsburgh
 b_cunningsburgh,b_cunningsburgh_adj,,
 c_orkney,PROV36,,Orkneyar
-c_orkney,c_orkney,,
 c_orkney,c_orkney_adj,,Orcadians
 c_orkney,breton,,Arcaibh
 c_orkney,cornish,,Arcaibh
@@ -7495,7 +7383,6 @@ d_western_isles,d_western_isles_adj_swedish,,Suðreyjarir
 d_western_isles,welsh,,Innse Gall
 d_western_isles,d_western_isles_adj_welsh,,Innse Gallish
 c_innse_gall,PROV35,,Suðreyar
-c_innse_gall,c_innse_gall,,
 c_innse_gall,c_innse_gall_adj,,Sgitheanach
 c_innse_gall,anglonorse,,Skíð
 c_innse_gall,danish,,Skíð
@@ -7543,7 +7430,6 @@ b_baghnahuamh,scottish,,Rùm
 b_baghnahuamh,swedish,,Rõmey
 b_baghnahuamh,welsh,,Rùm
 c_leodhas,PROV1426,,Leodhas
-c_leodhas,c_leodhas,,
 c_leodhas,c_leodhas_adj,,Leodhaseach
 c_leodhas,anglonorse,,Lewis
 c_leodhas,english,,Lewis
@@ -7586,7 +7472,6 @@ b_st_moluag,saxon,,St. Moluag
 b_st_moluag,scottish,,Teampall Mholuaidh
 b_st_moluag,welsh,,Teampall Mholuaidh
 c_uibhist,PROV1427,,Uibhist
-c_uibhist,c_uibhist,,
 c_uibhist,c_uibhist_adj,,Uibhisteach
 c_uibhist,anglonorse,,Ivist
 c_uibhist,danish,,Ivist

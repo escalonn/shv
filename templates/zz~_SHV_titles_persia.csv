@@ -6,7 +6,6 @@ k_persia,k_persia_adj,,Pársí
 d_jebal,d_jebal,,Jebal
 d_jebal,d_jebal_adj,,Jebalí
 c_esfahan,PROV646,,Isfahan
-c_esfahan,c_esfahan,,
 c_esfahan,c_esfahan_adj,,Esfahanian
 c_esfahan,assyrian,,Espahan
 b_esfahan,b_esfahan,,Esfahan
@@ -25,7 +24,6 @@ b_yazdikhwast,b_yazdikhwast_adj,,
 b_sarvistan,b_sarvistan,,Sarvestán
 b_sarvistan,b_sarvistan_adj,,
 c_qom,PROV659,,Qom
-c_qom,c_qom,,
 c_qom,c_qom_adj,,Qomian
 b_qom,b_qom,,Qom
 b_qom,b_qom_adj,,
@@ -40,7 +38,6 @@ b_ardistan,b_ardistan_adj,,
 b_zuvara,b_zuvara,,Zaváre
 b_zuvara,b_zuvara_adj,,
 c_hamadan,PROV658,,Hamadan
-c_hamadan,c_hamadan,,
 c_hamadan,c_hamadan_adj,,Hamadian
 c_hamadan,assyrian,,Beth Madaye
 c_hamadan,greek,,Ekbatana
@@ -59,7 +56,6 @@ b_karadj,b_karadj_adj,,
 b_saruk,b_saruk,,Sárúk
 b_saruk,b_saruk_adj,,
 c_igharayn,PROV689,,Igharayn
-c_igharayn,c_igharayn,,
 c_igharayn,c_igharayn_adj,,
 c_igharayn,greek,,Antiokheia tes Medias
 c_igharayn,roman,,Antiochia in Media
@@ -78,7 +74,6 @@ b_burdj,b_burdj_adj,,
 d_khoar,d_khoar,,Khoar
 d_khoar,d_khoar_adj,,Khoarí
 c_rayy,PROV663,,Rayy
-c_rayy,c_rayy,,
 c_rayy,c_rayy_adj,,Rayyan
 c_rayy,greek,,Ragai
 c_rayy,roman,,Rhagae
@@ -99,7 +94,6 @@ b_damavand,b_damavand_adj,,
 b_khuvar,b_khuvar,,Khuvár
 b_khuvar,b_khuvar_adj,,
 c_kumis,PROV660,,Kúmis
-c_kumis,c_kumis,,
 c_kumis,c_kumis_adj,,
 b_damghan,b_damghan,,Dámghán
 b_damghan,b_damghan_adj,,
@@ -114,7 +108,6 @@ b_simnan,b_simnan_adj,,
 b_shalamba,b_shalamba,,Shalamba
 b_shalamba,b_shalamba_adj,,
 c_biyar,PROV907,,Biyâr
-c_biyar,c_biyar,,
 c_biyar,c_biyar_adj,,
 b_biyar,b_biyar,,Biyár
 b_biyar,b_biyar_adj,,
@@ -130,7 +123,6 @@ d_fars,assyrian,,Beth Parsaye
 d_fars,greek,,Persis
 d_fars,roman,,Persis
 c_larestan,PROV642,,Larestan
-c_larestan,c_larestan,,
 c_larestan,c_larestan_adj,,
 b_huzu,b_huzu,,Huzú
 b_huzu,b_huzu_adj,,
@@ -141,7 +133,6 @@ b_hisn-ibn-umara,b_hisn-ibn-umara_adj,,
 b_kariyan,b_kariyan,,Káriyán
 b_kariyan,b_kariyan_adj,,
 c_siraf,PROV1594,,Irahistan
-c_siraf,c_siraf,,
 c_siraf,c_siraf_adj,,
 b_siraf,b_siraf,,Síráf
 b_siraf,b_siraf_adj,,
@@ -152,7 +143,6 @@ b_naband,b_naband_adj,,
 b_lawan,b_lawan,,Lawan
 b_lawan,b_lawan_adj,,
 c_mandistan,PROV643,,Mandistan
-c_mandistan,c_mandistan,,
 c_mandistan,c_mandistan_adj,,
 b_nadjiram,b_nadjiram,,Nadjíram
 b_nadjiram,b_nadjiram_adj,,
@@ -167,7 +157,6 @@ b_djarhum,b_djarhum_adj,,
 b_ghundidjan,b_ghundidjan,,Ghundidján
 b_ghundidjan,b_ghundidjan_adj,,
 c_shiraz,PROV644,,Shiraz
-c_shiraz,c_shiraz,,
 c_shiraz,c_shiraz_adj,,Shirazian
 b_shiraz,b_shiraz,,Sjíráz
 b_shiraz,b_shiraz_adj,,
@@ -184,7 +173,6 @@ b_kamin,b_kamin_adj,,
 b_fasa,b_fasa,,Fasá
 b_fasa,b_fasa_adj,,
 c_arrajan,PROV645,,Arrajan
-c_arrajan,c_arrajan,,
 c_arrajan,c_arrajan_adj,,
 b_arrajan,b_arrajan,,Arráján
 b_arrajan,b_arrajan_adj,,
@@ -197,7 +185,6 @@ b_khubdhan,b_khubdhan_adj,,
 b_siniz,b_siniz,,Síníz
 b_siniz,b_siniz_adj,,
 c_darabjird,PROV1534,,Darabjird
-c_darabjird,c_darabjird,,
 c_darabjird,c_darabjird_adj,,
 b_darabjird,b_darabjird,,Dárábjírd
 b_darabjird,b_darabjird_adj,,
@@ -210,7 +197,6 @@ b_qutruh,b_qutruh_adj,,
 b_niriz,b_niriz,,Níríz
 b_niriz,b_niriz_adj,,
 c_yazd,PROV638,,Yazd
-c_yazd,c_yazd,,
 c_yazd,c_yazd_adj,,Yazdian
 b_yazd,b_yazd,,Yazd
 b_yazd,b_yazd_adj,,
@@ -229,7 +215,6 @@ d_kerman,d_kerman_adj,,Kermání
 d_kerman,greek,,Karmania
 d_kerman,roman,,Carmania
 c_kerman,PROV639,,Kermân
-c_kerman,c_kerman,,
 c_kerman,c_kerman_adj,,Kermian
 b_kerman,b_kerman,,Kermán
 b_kerman,b_kerman_adj,,
@@ -244,7 +229,6 @@ b_khabis,b_khabis_adj,,
 b_mahan,b_mahan,,Máhán
 b_mahan,b_mahan_adj,,
 c_jiruft,PROV853,,Jiruft
-c_jiruft,c_jiruft,,
 c_jiruft,c_jiruft_adj,,
 b_djiruft,b_djiruft,,Djírúft
 b_djiruft,b_djiruft_adj,,
@@ -255,7 +239,6 @@ b_maghun,b_maghun_adj,,
 b_darfarid,b_darfarid,,Darfárid
 b_darfarid,b_darfarid_adj,,
 c_sirjan,PROV640,,Sîrjân
-c_sirjan,c_sirjan,,
 c_sirjan,c_sirjan_adj,,Sirjani
 b_sirjan,b_sirjan,,Sírján
 b_sirjan,b_sirjan_adj,,
@@ -270,7 +253,6 @@ b_baft,b_baft_adj,,
 d_hormuz,d_hormuz,,Hormuz
 d_hormuz,d_hormuz_adj,,Hormuzí
 c_hormuz,PROV641,,Hormuz
-c_hormuz,c_hormuz,,
 c_hormuz,c_hormuz_adj,,Hormuzian
 b_hormuz,b_hormuz,,Hormoz
 b_hormuz,b_hormuz_adj,,
@@ -289,7 +271,6 @@ b_kishqeshmi,b_kishqeshmi_adj,,
 d_mafaza,d_mafaza,,Mafáza
 d_mafaza,d_mafaza_adj,,Mafází
 c_mafaza,PROV1533,,Mafâza
-c_mafaza,c_mafaza,,
 c_mafaza,c_mafaza_adj,,
 b_saghand,b_saghand,,Sághand
 b_saghand,b_saghand_adj,,
@@ -307,7 +288,6 @@ d_ahwaz,assyrian,,Bet Huzaye
 d_ahwaz,greek,,Sousiane
 d_ahwaz,roman,,Susiana
 c_ahwaz,PROV648,,Ahwaz
-c_ahwaz,c_ahwaz,,
 c_ahwaz,c_ahwaz_adj,,
 b_ahwaz,b_ahwaz,,Ahwáz
 b_ahwaz,b_ahwaz_adj,,
@@ -320,7 +300,6 @@ b_dawraqistan,b_dawraqistan_adj,,
 b_huwayza,b_huwayza,,Huwayza
 b_huwayza,b_huwayza_adj,,
 c_idhaj,PROV647,,Idhaj
-c_idhaj,c_idhaj,,
 c_idhaj,c_idhaj_adj,,
 c_idhaj,assyrian,,Shush
 c_idhaj,greek,,Sousa
@@ -343,7 +322,6 @@ k_daylam,k_daylam_adj,,Daylamí
 d_tabarestan,d_tabarestan,,Tabarestán
 d_tabarestan,d_tabarestan_adj,,Tabarestání
 c_mazandaran,PROV662,,Mazandaran
-c_mazandaran,c_mazandaran,,
 c_mazandaran,c_mazandaran_adj,,Mazandarian
 b_amul,b_amul,,Ámol
 b_amul,b_amul_adj,,
@@ -358,7 +336,6 @@ b_alhum,b_alhum_adj,,
 b_mamtir,b_mamtir,,Mamtir
 b_mamtir,b_mamtir_adj,,
 c_ruyan,PROV661,,Ruyan
-c_ruyan,c_ruyan,,
 c_ruyan,c_ruyan_adj,,
 b_chalus_ruyan,b_chalus_ruyan,,Chalus
 b_chalus_ruyan,b_chalus_ruyan_adj,,
@@ -369,7 +346,6 @@ b_natil,b_natil_adj,,
 d_gilan,d_gilan,,Gílán
 d_gilan,d_gilan_adj,,Gílání
 c_gilan,PROV666,,Gilan
-c_gilan,c_gilan,,
 c_gilan,c_gilan_adj,,Gilanian
 b_rasht_gilan,b_rasht_gilan,,Rasht
 b_rasht_gilan,b_rasht_gilan_adj,,
@@ -382,7 +358,6 @@ b_fumin,b_fumin_adj,,
 b_kutum,b_kutum,,Kútum
 b_kutum,b_kutum_adj,,
 c_qazwin,PROV664,,Kazvîn
-c_qazwin,c_qazwin,,
 c_qazwin,c_qazwin_adj,,Qazwinian
 b_kazvin,b_kazvin,,Kazvín
 b_kazvin,b_kazvin_adj,,
@@ -391,7 +366,6 @@ b_alamut,b_alamut_adj,,
 b_lambassar,b_lambassar,,Lambassar
 b_lambassar,b_lambassar_adj,,
 c_kharraqan,PROV665,,Kharraqan
-c_kharraqan,c_kharraqan,,
 c_kharraqan,c_kharraqan_adj,,
 b_zanjan,b_zanjan,,Zanján
 b_zanjan,b_zanjan_adj,,
@@ -408,7 +382,6 @@ b_shamiran,b_shamiran_adj,,
 d_gurgan,d_gurgan,,Gorgán
 d_gurgan,d_gurgan_adj,,Gorgání
 c_gurgan,PROV633,,Gurgân
-c_gurgan,c_gurgan,,
 c_gurgan,c_gurgan_adj,,Gurgian
 b_gurgan,b_gurgan,,Gorgán
 b_gurgan,b_gurgan_adj,,
@@ -421,7 +394,6 @@ b_abaskun,b_abaskun_adj,,
 b_tammisha,b_tammisha,,Tammisha
 b_tammisha,b_tammisha_adj,,
 c_dihistan,PROV631,,Dehestân
-c_dihistan,c_dihistan,,
 c_dihistan,c_dihistan_adj,,Dihistian
 b_dihistan,b_dihistan,,Dihistan
 b_dihistan,b_dihistan_adj,,
@@ -437,7 +409,6 @@ d_azerbaijan,roman,,Media Atropatene
 d_azerbaijan,turkish,,Azarbaijan
 d_azerbaijan,turkmen,,Azarbaijan
 c_tabriz,PROV667,,Tabriz
-c_tabriz,c_tabriz,,
 c_tabriz,c_tabriz_adj,,Tabrizian
 b_babak,b_babak,,Babak
 b_babak,b_babak_adj,,
@@ -452,7 +423,6 @@ b_ujan,b_ujan_adj,,
 b_shabestar,b_shabestar,,Shabestar
 b_shabestar,b_shabestar_adj,,
 c_maragheh,PROV650,,Maragheh
-c_maragheh,c_maragheh,,
 c_maragheh,c_maragheh_adj,,Maraghean
 b_maragheh,b_maragheh,,Maragheh
 b_maragheh,b_maragheh_adj,,
@@ -463,7 +433,6 @@ b_dakharraqan,b_dakharraqan_adj,,
 b_shiz,b_shiz,,Shiz
 b_shiz,b_shiz_adj,,
 c_oromieh,PROV686,,Oromieh
-c_oromieh,c_oromieh,,
 c_oromieh,c_oromieh_adj,,Oromiehian
 c_oromieh,andalusian_arabic,,Urmiyah
 c_oromieh,c_oromieh_adj_andalusian_arabic,,Urmiyan
@@ -527,7 +496,6 @@ b_charekelisa,b_charekelisa_adj,,
 b_mahabad,b_mahabad,,Mahabad
 b_mahabad,b_mahabad_adj,,
 c_azerbaijan,PROV670,,Muqan
-c_azerbaijan,c_azerbaijan,,
 c_azerbaijan,c_azerbaijan_adj,,Azerbaijani
 c_azerbaijan,armenian,,Paytakaran
 c_azerbaijan,assyrian,,Paidangaran
@@ -554,7 +522,6 @@ d_nishapur,d_nishapur_adj,,Níshápúrí
 d_nishapur,greek,,Hyrkania
 d_nishapur,roman,,Hyrcania
 c_nishapur,PROV634,,Nishâpur
-c_nishapur,c_nishapur,,
 c_nishapur,c_nishapur_adj,,Nishapuran
 b_neshapur,b_neshapur,,Níshápúr
 b_neshapur,b_neshapur_adj,,
@@ -571,7 +538,6 @@ b_farhagird,b_farhagird_adj,,
 b_khusrugird,b_khusrugird,,Khusrúgird
 b_khusrugird,b_khusrugird_adj,,
 c_arghiyan,PROV1548,,Arghiyân
-c_arghiyan,c_arghiyan,,
 c_arghiyan,c_arghiyan_adj,,
 b_azadvar,b_azadvar,,Ázádvar
 b_azadvar,b_azadvar_adj,,
@@ -584,7 +550,6 @@ b_fayrumad,b_fayrumad_adj,,
 b_asadabad_arghiyan,b_asadabad_arghiyan,,Asadábád
 b_asadabad_arghiyan,b_asadabad_arghiyan_adj,,
 c_farava,PROV629,,Farâva
-c_farava,c_farava,,
 c_farava,c_farava_adj,,
 b_farava,b_farava,,Faráva
 b_farava,b_farava_adj,,
@@ -595,7 +560,6 @@ b_akhor,b_akhor_adj,,
 b_nasa,b_nasa,,Nasá
 b_nasa,b_nasa_adj,,
 c_tus,PROV632,,Tus
-c_tus,c_tus,,
 c_tus,c_tus_adj,,Tusian
 c_tus,greek,,Tusa
 c_tus,roman,,Tusa
@@ -612,7 +576,6 @@ b_radkan,b_radkan_adj,,
 b_khuchan,b_khuchan,,Qúchán
 b_khuchan,b_khuchan_adj,,
 c_bakharz,PROV1537,,Bâkharz
-c_bakharz,c_bakharz,,
 c_bakharz,c_bakharz_adj,,
 b_zavzan,b_zavzan,,Zavzan
 b_zavzan,b_zavzan_adj,,
@@ -627,7 +590,6 @@ b_zava,b_zava_adj,,
 d_qohistan,d_qohistan,,Qohistan
 d_qohistan,d_qohistan_adj,,Qohistani
 c_qohistan,PROV635,,Qohistân
-c_qohistan,c_qohistan,,
 c_qohistan,c_qohistan_adj,,Qohistian
 b_birjand,b_birjand,,Bírjand
 b_birjand,b_birjand_adj,,
@@ -644,7 +606,6 @@ b_naband_qohistan,b_naband_qohistan_adj,,
 d_merv,d_merv,,Marï
 d_merv,d_merv_adj,,Marï
 c_merv,PROV630,,Merv
-c_merv,c_merv,,
 c_merv,c_merv_adj,,Mervian
 c_merv,greek,,Antiokheia Margiane
 c_merv,roman,,Antiochia Margiana
@@ -665,7 +626,6 @@ b_hurmuzferra,b_hurmuzferra_adj,,
 b_kirang,b_kirang,,Kírang
 b_kirang,b_kirang_adj,,
 c_sarakhs,PROV1538,,Sarakhs
-c_sarakhs,c_sarakhs,,
 c_sarakhs,c_sarakhs_adj,,
 b_sarakhs,b_sarakhs,,Sarakhs
 b_sarakhs,b_sarakhs_adj,,
@@ -676,7 +636,6 @@ b_dandankan,b_dandankan_adj,,
 b_mayhana,b_mayhana,,Mayhana
 b_mayhana,b_mayhana_adj,,
 c_guzgan,PROV1542,,Guzgân
-c_guzgan,c_guzgan,,
 c_guzgan,c_guzgan_adj,,
 b_fayrab,b_fayrab,,Fayráb
 b_fayrab,b_fayrab_adj,,
@@ -689,7 +648,6 @@ b_yahudan,b_yahudan_adj,,
 b_anbar,b_anbar,,Anbár
 b_anbar,b_anbar_adj,,
 c_amol,PROV1543,,Âmol
-c_amol,c_amol,,
 c_amol,c_amol_adj,,
 b_amol,b_amol,,Ámol
 b_amol,b_amol_adj,,
@@ -708,7 +666,6 @@ d_herat,d_herat_adj,,Herátí
 d_herat,greek,,Areia
 d_herat,roman,,Aria
 c_badghis,PROV905,,Bâdghîs
-c_badghis,c_badghis,,
 c_badghis,c_badghis_adj,,
 c_badghis,greek,,Alexandreia Areion
 c_badghis,roman,,Alexandria in Ariana
@@ -727,14 +684,12 @@ b_karukh,b_karukh_adj,,
 b_esfezar,b_esfezar,,Esfezár
 b_esfezar,b_esfezar_adj,,
 c_gharchistan,PROV1541,,Gharchistân
-c_gharchistan,c_gharchistan,,
 c_gharchistan,c_gharchistan_adj,,
 b_bashin,b_bashin,,Bashín
 b_bashin,b_bashin_adj,,
 b_shurmin,b_shurmin,,Shurmín
 b_shurmin,b_shurmin_adj,,
 c_ghor,PROV1540,,Ghór
-c_ghor,c_ghor,,
 c_ghor,c_ghor_adj,,
 b_firuzkuh,b_firuzkuh,,Fírúzkúh
 b_firuzkuh,b_firuzkuh_adj,,
@@ -745,7 +700,6 @@ b_khwadja-chisht,b_khwadja-chisht_adj,,
 b_tamran,b_tamran,,Tamrán
 b_tamran,b_tamran_adj,,
 c_ganj-rustaq,PROV1539,,Ganj Rustâq
-c_ganj-rustaq,c_ganj-rustaq,,
 c_ganj-rustaq,c_ganj-rustaq_adj,,
 b_baghshur,b_baghshur,,Baghshúr
 b_baghshur,b_baghshur_adj,,
@@ -754,7 +708,6 @@ b_djebel-fidda,b_djebel-fidda_adj,,
 b_dihistan-ganj,b_dihistan-ganj,,Dihistán-Ganj
 b_dihistan-ganj,b_dihistan-ganj_adj,,
 c_rivsharan,PROV906,,Rivshârân
-c_rivsharan,c_rivsharan,,
 c_rivsharan,c_rivsharan_adj,,
 b_rivsharan,b_rivsharan,,Rivshárán
 b_rivsharan,b_rivsharan_adj,,
@@ -769,7 +722,6 @@ d_balkh,d_balkh_adj,,Balkhí
 d_balkh,greek,,Baktriane
 d_balkh,roman,,Bactriana
 c_balkh,PROV904,,Balkh
-c_balkh,c_balkh,,
 c_balkh,c_balkh_adj,,Balkhian
 c_balkh,greek,,Baktra
 c_balkh,roman,,Bactra
@@ -784,7 +736,6 @@ b_navida,b_navida_adj,,
 b_kalif,b_kalif,,Kálif
 b_kalif,b_kalif_adj,,
 c_tokharestan,PROV1546,,Tokharestân
-c_tokharestan,c_tokharestan,,
 c_tokharestan,c_tokharestan_adj,,
 b_khulm,b_khulm,,Khulm
 b_khulm,b_khulm_adj,,
@@ -799,7 +750,6 @@ k_sistan,k_sistan_adj,,Sístání
 d_sistan,d_sistan,,Sístán
 d_sistan,d_sistan_adj,,Sístání
 c_farah,PROV299,,Farrah
-c_farah,c_farah,,
 c_farah,c_farah_adj,,
 c_farah,greek,,Prophthasia
 c_farah,roman,,Prophthasia
@@ -816,7 +766,6 @@ b_khvash,b_khvash_adj,,
 b_qarnin,b_qarnin,,Qarnín
 b_qarnin,b_qarnin_adj,,
 c_rudbar,PROV1348,,Rúdbâr
-c_rudbar,c_rudbar,,
 c_rudbar,c_rudbar_adj,,Rúdbârî
 b_rudbar,b_rudbar,,Rúdbâr
 b_rudbar,b_rudbar_adj,,
@@ -836,7 +785,6 @@ b_sibih,b_sibih_adj,,
 b_ram,b_ram,,Rám
 b_ram,b_ram_adj,,
 c_zamindavar,PROV852,,Zamindavar
-c_zamindavar,c_zamindavar,,
 c_zamindavar,c_zamindavar_adj,,
 b_bust,b_bust,,Bust
 b_bust,b_bust_adj,,
@@ -849,7 +797,6 @@ b_baghnin,b_baghnin_adj,,
 b_durghash,b_durghash,,Durghash
 b_durghash,b_durghash_adj,,
 c_rukhadj,PROV1536,,Rukhâdj
-c_rukhadj,c_rukhadj,,
 c_rukhadj,c_rukhadj_adj,,
 b_kahdahar,b_kahdahar,,Kahdahár
 b_kahdahar,b_kahdahar_adj,,
@@ -877,7 +824,6 @@ b_khwash,b_khwash_adj,,
 b_bih,b_bih,,Bih
 b_bih,b_bih_adj,,
 c_mashkel,PROV894,,Mashkél
-c_mashkel,c_mashkel,,
 c_mashkel,c_mashkel_adj,,
 b_djalk,b_djalk,,Djalk
 b_djalk,b_djalk_adj,,
@@ -886,7 +832,6 @@ b_dizak,b_dizak_adj,,
 b_saravan,b_saravan,,Saraván
 b_saravan,b_saravan_adj,,
 c_pandjgur,PROV899,,Pandjgúr
-c_pandjgur,c_pandjgur,,
 c_pandjgur,c_pandjgur_adj,,
 b_pandjgur,b_pandjgur,,Pandjgúr
 b_pandjgur,b_pandjgur_adj,,
@@ -895,7 +840,6 @@ b_kiz,b_kiz_adj,,
 b_khawr,b_khawr,,Khawr
 b_khawr,b_khawr_adj,,
 c_turan,PROV1535,,Turân
-c_turan,c_turan,,
 c_turan,c_turan_adj,,
 b_turan,b_turan,,Túrán
 b_turan,b_turan_adj,,
@@ -912,7 +856,6 @@ d_soghd,d_soghd_adj,,Soghdí
 d_soghd,greek,,Sogdiane
 d_soghd,roman,,Sogdiana
 c_bukhara,PROV628,,Bukhara
-c_bukhara,c_bukhara,,
 c_bukhara,c_bukhara_adj,,Bukharan
 b_bukhara,b_bukhara,,Bukhara
 b_bukhara,b_bukhara_adj,,
@@ -929,7 +872,6 @@ b_vardana,b_vardana_adj,,
 b_ghijduvan,b_ghijduvan,,Ghijduvan
 b_ghijduvan,b_ghijduvan_adj,,
 c_samarqand,PROV903,,Samarkand
-c_samarqand,c_samarqand,,
 c_samarqand,c_samarqand_adj,,
 c_samarqand,greek,,Marakanda
 c_samarqand,roman,,Maracanda
@@ -950,7 +892,6 @@ b_nur,b_nur_adj,,
 b_kushaniya,b_kushaniya,,Kushaniya
 b_kushaniya,b_kushaniya_adj,,
 c_nakhsheb,PROV1544,,Nakhsheb
-c_nakhsheb,c_nakhsheb,,
 c_nakhsheb,c_nakhsheb_adj,,
 b_nakhsheb,b_nakhsheb,,Nakhsheb
 b_nakhsheb,b_nakhsheb_adj,,
@@ -965,7 +906,6 @@ b_subakh,b_subakh_adj,,
 d_ustrushana,d_ustrushana,,Ustrushána
 d_ustrushana,d_ustrushana_adj,,Ustrushání
 c_ustrushana,PROV1557,,Ustrushana
-c_ustrushana,c_ustrushana,,
 c_ustrushana,c_ustrushana_adj,,
 b_bunjiket,b_bunjiket,,Bunjiket
 b_bunjiket,b_bunjiket_adj,,
@@ -974,7 +914,6 @@ b_zamin,b_zamin_adj,,
 b_dizak_ustrushana,b_dizak_ustrushana,,Dizak
 b_dizak_ustrushana,b_dizak_ustrushana_adj,,
 c_panjikend,PROV1565,,Kish
-c_panjikend,c_panjikend,,
 c_panjikend,c_panjikend_adj,,
 b_panjikend,b_panjikend,,Panjakent
 b_panjikend,b_panjikend_adj,,
@@ -985,7 +924,6 @@ b_varaghser,b_varaghser_adj,,
 d_ferghana,d_ferghana,,Ferghána
 d_ferghana,d_ferghana_adj,,Ferghána
 c_khojand,PROV1558,,Khojand
-c_khojand,c_khojand,,
 c_khojand,c_khojand_adj,,
 c_khojand,greek,,Alexandreia Eschate
 c_khojand,roman,,Alexandria Eschate
@@ -1000,14 +938,12 @@ b_kend-i-badam,b_kend-i-badam_adj,,
 b_andijan,b_andijan,,Andijon
 b_andijan,b_andijan_adj,,
 c_aval,PROV1564,,Aval
-c_aval,c_aval,,
 c_aval,c_aval_adj,,
 b_sokh,b_sokh,,Sokh
 b_sokh,b_sokh_adj,,
 b_marghinan,b_marghinan,,Marghinan
 b_marghinan,b_marghinan_adj,,
 c_khaylam,PROV1560,,Khaylam
-c_khaylam,c_khaylam,,
 c_khaylam,c_khaylam_adj,,
 b_akhsiket,b_akhsiket,,Akhsiket
 b_akhsiket,b_akhsiket_adj,,
@@ -1016,7 +952,6 @@ b_kasan,b_kasan_adj,,
 b_nasrabad,b_nasrabad,,Nasrabad
 b_nasrabad,b_nasrabad_adj,,
 c_ferghana,PROV1559,,Ferghana
-c_ferghana,c_ferghana,,
 c_ferghana,c_ferghana_adj,,
 b_uzgend,b_uzgend,,Uzgend
 b_uzgend,b_uzgend_adj,,
@@ -1029,7 +964,6 @@ b_naqad,b_naqad_adj,,
 d_shash,d_shash,,Chách
 d_shash,d_shash_adj,,Cháchí
 c_shash,PROV1561,,Shâsh
-c_shash,c_shash,,
 c_shash,c_shash_adj,,
 b_shash,b_shash,,Chách
 b_shash,b_shash_adj,,
@@ -1044,7 +978,6 @@ b_benaket,b_benaket_adj,,
 b_shuturket,b_shuturket,,Shuturket
 b_shuturket,b_shuturket_adj,,
 c_otrar,PROV1562,,Otrâr
-c_otrar,c_otrar,,
 c_otrar,c_otrar_adj,,Otrarian
 b_ispijab,b_ispijab,,Isfijáb
 b_ispijab,b_ispijab_adj,,
@@ -1055,7 +988,6 @@ b_sutkend,b_sutkend_adj,,
 d_khwarazm,d_khwarazm,,Khorazm
 d_khwarazm,d_khwarazm_adj,,Khorazmí
 c_kerder,PROV623,,Kerder
-c_kerder,c_kerder,,
 c_kerder,c_kerder_adj,,
 c_kerder,daylamite,,Kerder
 c_kerder,karluk,,Kerder
@@ -1079,7 +1011,6 @@ b_madminiya,b_madminiya_adj,,
 b_barategin,b_barategin,,Barátegín
 b_barategin,b_barategin_adj,,
 c_kath,PROV626,,Khwarezm
-c_kath,c_kath,,
 c_kath,c_kath_adj,,
 b_kath,b_kath,,Káth
 b_kath,b_kath_adj,,
@@ -1092,14 +1023,12 @@ b_ardakhushmithan,b_ardakhushmithan_adj,,
 b_mizdahkan,b_mizdahkan,,Mizdahkán
 b_mizdahkan,b_mizdahkan_adj,,
 c_uzboy,PROV1481,,Nisáya
-c_uzboy,c_uzboy,,
 c_uzboy,c_uzboy_adj,,
 c_uzboy,east_gothic,,Nisaea
 c_uzboy,greek,,Nisaea
 b_igdy_kala,b_igdy_kala,,Igdy
 b_igdy_kala,b_igdy_kala_adj,,
 c_harazasp,PROV902,,Harazasp
-c_harazasp,c_harazasp,,
 c_harazasp,c_harazasp_adj,,
 b_harazasp,b_harazasp,,Harazasp
 b_harazasp,b_harazasp_adj,,
@@ -1114,7 +1043,6 @@ k_kafarestan,k_kafarestan_adj,,Kábulistání
 d_zabolestan,d_zabolestan,,Zábolestán
 d_zabolestan,d_zabolestan_adj,,Zábolestání
 c_ghazna,PROV1547,,Ghazna
-c_ghazna,c_ghazna,,
 c_ghazna,c_ghazna_adj,,Ghazni
 b_ghazna,b_ghazna,,Ghazní
 b_ghazna,b_ghazna_adj,,
@@ -1129,7 +1057,6 @@ b_sukawand,b_sukawand_adj,,
 b_bamiyan,b_bamiyan,,Bamiyán
 b_bamiyan,b_bamiyan_adj,,
 c_kabul,PROV1550,,Kâbul
-c_kabul,c_kabul,,
 c_kabul,c_kabul_adj,,Kabulian
 b_kabul,b_kabul,,Kábol
 b_kabul,b_kabul_adj,,
@@ -1144,7 +1071,6 @@ b_mundjan,b_mundjan_adj,,
 b_jarbaya,b_jarbaya,,Járbáya
 b_jarbaya,b_jarbaya_adj,,
 c_lamghan,PROV1551,,Lamghân
-c_lamghan,c_lamghan,,
 c_lamghan,c_lamghan_adj,,
 b_lamghan,b_lamghan,,Lamghán
 b_lamghan,b_lamghan_adj,,
@@ -1153,7 +1079,6 @@ b_nagarahara,b_nagarahara_adj,,
 d_khottal,d_khottal,,Khatlón
 d_khottal,d_khottal_adj,,Khatlóní
 c_badakhshan,PROV1553,,Badakhshân
-c_badakhshan,c_badakhshan,,
 c_badakhshan,c_badakhshan_adj,,
 b_badakhshan,b_badakhshan,,Badakhshón
 b_badakhshan,b_badakhshan_adj,,
@@ -1164,7 +1089,6 @@ b_jerm,b_jerm_adj,,
 b_sanglich,b_sanglich,,Sanglích
 b_sanglich,b_sanglich_adj,,
 c_vakhan,PROV1554,,Vakhân
-c_vakhan,c_vakhan,,
 c_vakhan,c_vakhan_adj,,
 b_istakhmish,b_istakhmish,,Istakhmísh
 b_istakhmish,b_istakhmish_adj,,
@@ -1173,7 +1097,6 @@ b_dar-i-tubbat,b_dar-i-tubbat_adj,,
 b_shughnan,b_shughnan,,Shughnón
 b_shughnan,b_shughnan_adj,,
 c_khuttal,PROV1556,,Khuttal
-c_khuttal,c_khuttal,,
 c_khuttal,c_khuttal_adj,,Khuttali
 b_pargar,b_pargar,,Farkhór
 b_pargar,b_pargar_adj,,
@@ -1186,7 +1109,6 @@ b_halavand,b_halavand_adj,,
 b_qubadiyan,b_qubadiyan,,Qubádiyán
 b_qubadiyan,b_qubadiyan_adj,,
 c_rasht,PROV1555,,Rasht
-c_rasht,c_rasht,,
 c_rasht,c_rasht_adj,,
 b_rasht,b_rasht,,Rasht
 b_rasht,b_rasht_adj,,
@@ -1197,7 +1119,6 @@ b_afridhan,b_afridhan_adj,,
 b_shuman,b_shuman,,Shúman
 b_shuman,b_shuman_adj,,
 c_chaghaniyan,PROV1545,,Chaghâniyân
-c_chaghaniyan,c_chaghaniyan,,
 c_chaghaniyan,c_chaghaniyan_adj,,
 b_chaghaniyan,b_chaghaniyan,,Chaghóniyón
 b_chaghaniyan,b_chaghaniyan_adj,,
@@ -1210,7 +1131,6 @@ b_darzangi,b_darzangi_adj,,
 b_hashimgird,b_hashimgird,,Háshimgird
 b_hashimgird,b_hashimgird_adj,,
 c_talekan,PROV1578,,Tâlekân
-c_talekan,c_talekan,,
 c_talekan,c_talekan_adj,,
 b_talekan,b_talekan,,Tálekán
 b_talekan,b_talekan_adj,,

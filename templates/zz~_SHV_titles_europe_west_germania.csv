@@ -17,7 +17,6 @@ d_holland,frankish,,Hollande
 d_holland,frisian,,Hollân
 d_holland,name_tier,,count
 c_holland,PROV80,,Holland
-c_holland,c_holland,,
 c_holland,c_holland_adj,,Hollander
 b_haarlem,b_haarlem,,Haarlem
 b_haarlem,b_haarlem_adj,,
@@ -38,7 +37,6 @@ b_dordrecht,b_dordrecht_adj,,
 b_dordrecht,frankish,,Dort
 b_dordrecht,frisian,,Doardt
 c_zeeland,PROV79,,Zeeland
-c_zeeland,c_zeeland,,
 c_zeeland,c_zeeland_adj,,Zeelander
 b_middelburg,b_middelburg,,Middelburg
 b_middelburg,b_middelburg_adj,,
@@ -57,7 +55,6 @@ d_utrecht,d_utrecht_adj,,Utrechtse
 d_utrecht,frisian,,Utert
 d_utrecht,name_tier,,count
 c_sticht,PROV82,,Sticht
-c_sticht,c_sticht,,
 c_sticht,c_sticht_adj,,Stichtian
 b_woerden,b_woerden,,Woerden
 b_woerden,b_woerden_adj,,
@@ -70,7 +67,6 @@ b_gorinchem,frisian,,Garkum
 b_ijsselstein,b_ijsselstein,,IJsselstein
 b_ijsselstein,b_ijsselstein_adj,,
 c_oversticht,PROV1059,,Oversticht
-c_oversticht,c_oversticht,,
 c_oversticht,c_oversticht_adj,,Overstichtische
 c_oversticht,low_german,,Oaversticht
 b_deventer,b_deventer,,Deventer
@@ -87,7 +83,6 @@ d_gelre,d_gelre_adj,,Gelrian
 d_gelre,frankish,,Gueldre
 d_gelre,german,,Geldern
 c_arnhem,PROV1017,,Veluwe
-c_arnhem,c_arnhem,,
 c_arnhem,c_arnhem_adj,,Veluweische
 b_elburg,b_elburg,,Elburg
 b_elburg,b_elburg_adj,,
@@ -103,7 +98,6 @@ b_hattem,b_hattem,,Hattem
 b_hattem,b_hattem_adj,,
 b_hattem,low_german,,Attem
 c_gelre,PROV83,,Gelre
-c_gelre,c_gelre,,
 c_gelre,c_gelre_adj,,Gelrian
 b_nijmegen,b_nijmegen,,Nijmegen
 b_nijmegen,b_nijmegen_adj,,
@@ -124,7 +118,6 @@ b_montfort_gelre,b_montfort_gelre_adj,,
 b_gendt,b_gendt,,Gendt
 b_gendt,b_gendt_adj,,
 c_zutphen,PROV1058,,Zutphen
-c_zutphen,c_zutphen,,
 c_zutphen,c_zutphen_adj,,Zupthische
 c_zutphen,frisian,,Sutfen
 c_zutphen,low_german,,Zutfent
@@ -144,7 +137,6 @@ d_frisia,frisian,,Fresland
 d_frisia,german,,Friesland
 d_frisia,low_german,,Freesland
 c_ostfriesland,PROV85,,Ostfriesland
-c_ostfriesland,c_ostfriesland,,
 c_ostfriesland,c_ostfriesland_adj,,Ostfrieslander
 c_ostfriesland,dutch,,Oost Friesland
 c_ostfriesland,frankish,,Frise Orientale
@@ -164,7 +156,6 @@ b_norden,b_norden,,Norden
 b_norden,b_norden_adj,,
 b_norden,low_german,,Nörden
 c_rustringen,PROV1184,,Rüstringen
-c_rustringen,c_rustringen,,
 c_rustringen,c_rustringen_adj,,Rüstringer
 c_rustringen,dutch,,Rustringen
 c_rustringen,frisian,,Rjustringen
@@ -179,7 +170,6 @@ b_varel,b_varel,,Varel
 b_varel,b_varel_adj,,
 b_varel,frisian,,Foarel
 c_westfriesland,PROV81,,Westfriesland
-c_westfriesland,c_westfriesland,,
 c_westfriesland,c_westfriesland_adj,,Westfrieslander
 c_westfriesland,dutch,,West Friesland
 c_westfriesland,frankish,,Frise Occidentale
@@ -197,7 +187,6 @@ b_medemblik,b_medemblik_adj,,
 b_egmond,b_egmond,,Egmond
 b_egmond,b_egmond_adj,,
 c_frisia,PROV84,,Friesland
-c_frisia,c_frisia,,
 c_frisia,c_frisia_adj,,Frisian
 c_frisia,dutch,,Friesland
 c_frisia,frankish,,Frise
@@ -232,7 +221,6 @@ d_trier,foa,,FE_FOA
 d_trier,title,,FE
 d_trier,title_prefix,,FE_OF
 c_trier,PROV118,,Trier
-c_trier,c_trier,,
 c_trier,c_trier_adj,,Trierian
 c_trier,frankish,,Trèves
 c_trier,greek,,Augousta Treveroron
@@ -256,7 +244,6 @@ d_luxembourg,d_luxembourg_adj,,Luxembourgian
 d_luxembourg,dutch,,Lutzelburg
 d_luxembourg,german,,Lützelburg
 c_arlon,PROV1021,,Arlon
-c_arlon,c_arlon,,
 c_arlon,c_arlon_adj,,Arlon
 c_arlon,dutch,,Aarlen
 c_arlon,german,,Arel
@@ -273,7 +260,6 @@ b_longwy,german,,Langich
 b_wilzenn,b_wilzenn,,Wiltz
 b_wilzenn,b_wilzenn_adj,,
 c_luxembourg,PROV115,,Luxembourg
-c_luxembourg,c_luxembourg,,
 c_luxembourg,c_luxembourg_adj,,Luxembourgian
 c_luxembourg,dutch,,Lutzelburg
 c_luxembourg,german,,Lützelburg
@@ -294,7 +280,6 @@ b_thionville,b_thionville_adj,,
 b_thionville,dutch,,Diedenhoven
 b_thionville,german,,Diedenhofen
 c_laroche,PROV1060,,La Roche
-c_laroche,c_laroche,,
 c_laroche,c_laroche_adj,,La Rochian
 b_laroche,b_laroche,,Laroche
 b_laroche,b_laroche_adj,,
@@ -306,7 +291,6 @@ b_bastogne,b_bastogne_adj,,
 b_bastogne,dutch,,Bastenaken
 b_bastogne,german,,Bastenach
 c_chiny,PROV1061,,Chiny
-c_chiny,c_chiny,,
 c_chiny,c_chiny_adj,,Cinean
 b_chiny,b_chiny,,Chiny
 b_chiny,b_chiny_adj,,
@@ -324,7 +308,6 @@ d_pfalz,short_name,,yes
 d_pfalz,title,,PALATINE
 d_pfalz,title_female,,PALATINEA
 c_pfalz,PROV124,,Pfalz
-c_pfalz,c_pfalz,,
 c_pfalz,c_pfalz_adj,,Pfalzian
 c_pfalz,dutch,,Palts
 c_pfalz,frankish,,Palatinat
@@ -341,7 +324,6 @@ b_hagenau,frankish,,Haguenau
 b_stahleck,b_stahleck,,Stahleck
 b_stahleck,b_stahleck_adj,,
 c_sponheim,PROV1062,,Sponheim
-c_sponheim,c_sponheim,,
 c_sponheim,c_sponheim_adj,,Sponheimische
 c_sponheim,dutch,,Spanheim
 c_sponheim,frankish,,Spanheim
@@ -358,7 +340,6 @@ b_starkenburg,b_starkenburg_adj,,
 b_kreuznach,b_kreuznach,,Kreuznach
 b_kreuznach,b_kreuznach_adj,,
 c_zweibrucken,PROV1008,,Zweibrücken
-c_zweibrucken,c_zweibrucken,,
 c_zweibrucken,c_zweibrucken_adj,,Zweibrückische
 c_zweibrucken,dutch,,Tweebruggen
 c_zweibrucken,frankish,,Deux Ponts
@@ -383,7 +364,6 @@ d_upper_lorraine,dutch,,Lorreinen
 d_upper_lorraine,frankish,,Lorraine
 d_upper_lorraine,german,,Lothringen
 c_metz,PROV128,,Metz
-c_metz,c_metz,,
 c_metz,c_metz_adj,,Metzian
 b_metz,b_metz,,Metz
 b_metz,b_metz_adj,,
@@ -397,7 +377,6 @@ b_saintjulien,b_saintjulien_adj,,
 b_hingsingen,b_hingsingen,,Hingsingen
 b_hingsingen,b_hingsingen_adj,,
 c_saarbrucken,PROV942,,Saarbrücken
-c_saarbrucken,c_saarbrucken,,
 c_saarbrucken,c_saarbrucken_adj,,Saarbrückische
 c_saarbrucken,dutch,,Saarbruggen
 c_saarbrucken,frankish,,Sarrebruck
@@ -414,7 +393,6 @@ b_hohnburg,german,,Hohenburg
 b_neukirchen,b_neukirchen,,Neukirchen
 b_neukirchen,b_neukirchen_adj,,
 c_saintois,PROV133,,Vaudémont
-c_saintois,c_saintois,,
 c_saintois,c_saintois_adj,,Saintoisian
 b_saintois,b_saintois,,Saintois
 b_saintois,b_saintois_adj,,
@@ -425,7 +403,6 @@ b_neufchateau,b_neufchateau_adj,,
 b_vaudemont,b_vaudemont,,Vaudemont
 b_vaudemont,b_vaudemont_adj,,
 c_lorraine,PROV127,,Blâmont
-c_lorraine,c_lorraine,,
 c_lorraine,c_lorraine_adj,,Lorrainian
 b_nancy,b_nancy,,Nancy
 b_nancy,b_nancy_adj,,
@@ -445,7 +422,6 @@ b_epinal,german,,Spinal
 d_barleduc,d_barleduc,,Bar
 d_barleduc,d_barleduc_adj,,Barrois
 c_verdun,PROV129,,Verdun
-c_verdun,c_verdun,,
 c_verdun,c_verdun_adj,,Verdunian
 c_verdun,german,,Wirtten
 b_verdun,b_verdun,,Verdun
@@ -459,7 +435,6 @@ b_doaumont,b_doaumont,,Doaumont
 b_doaumont,b_doaumont_adj,,
 b_doaumont,frankish,,Douaumont
 c_bar,PROV930,,Bar
-c_bar,c_bar,,
 c_bar,c_bar_adj,,Bar
 b_commercy,b_commercy,,Commercy
 b_commercy,b_commercy_adj,,
@@ -471,7 +446,6 @@ b_barleduc,b_barleduc_adj,,
 b_vaucouleurs,b_vaucouleurs,,Vaucouleurs
 b_vaucouleurs,b_vaucouleurs_adj,,
 c_pontamousson,PROV1028,,Pont-á-Mousson
-c_pontamousson,c_pontamousson,,
 c_pontamousson,c_pontamousson_adj,,Pont-á-Mousson
 b_pontamousson,b_pontamousson,,Pont-á-Mousson
 b_pontamousson,b_pontamousson_adj,,
@@ -496,7 +470,6 @@ d_liege,dutch,,Luik
 d_liege,frankish,,Liége
 d_liege,german,,Lüttich
 c_liege,PROV116,,Liege
-c_liege,c_liege,,
 c_liege,c_liege_adj,,Liegian
 c_liege,dutch,,Luik
 c_liege,frankish,,Liége
@@ -516,7 +489,6 @@ b_bouillon,b_bouillon_adj,,
 b_bouillon,dutch,,Bullioen
 b_bouillon,german,,Beulen
 c_loon,PROV91,,Loon
-c_loon,c_loon,,
 c_loon,c_loon_adj,,Loonian
 c_loon,frankish,,Looz
 b_loon,b_loon,,Loon
@@ -534,7 +506,6 @@ d_limburg,d_limburg,,Limburg
 d_limburg,d_limburg_adj,,Limburgse
 d_limburg,frankish,,Limbourg
 c_limburg,PROV1057,,Limburg
-c_limburg,c_limburg,,
 c_limburg,c_limburg_adj,,Limburgische
 b_limburg,b_limburg,,Limburg
 b_limburg,b_limburg_adj,,
@@ -551,7 +522,6 @@ b_wassenberg,b_wassenberg,,Wassenberg
 b_wassenberg,b_wassenberg_adj,,
 b_wassenberg,frankish,,Wassemberg
 c_vianden,PROV1018,,Vianden
-c_vianden,c_vianden,,
 c_vianden,c_vianden_adj,,Viandische
 b_vianden,b_vianden,,Vianden
 b_vianden,b_vianden_adj,,
@@ -571,7 +541,6 @@ d_koln,foa,,FE_FOA
 d_koln,title,,FE
 d_koln,title_prefix,,FE_OF
 c_koln,PROV119,,Köln
-c_koln,c_koln,,
 c_koln,c_koln_adj,,Kölnian
 c_koln,dutch,,Keulen
 c_koln,frankish,,Cologne
@@ -600,7 +569,6 @@ d_berg,d_berg_adj,,Niederrheinische
 d_berg,dutch,,Gulik-Kleef-Berg
 d_berg,frankish,,Juliers-Cléves-Berg
 c_julich,PROV90,,Jülich
-c_julich,c_julich,,
 c_julich,c_julich_adj,,Jülichian
 c_julich,dutch,,Gulik
 c_julich,frankish,,Juliers
@@ -618,7 +586,6 @@ b_zulpich,b_zulpich,,Zülpich
 b_zulpich,b_zulpich_adj,,
 b_zulpich,dutch,,Zulpik
 c_kleve,PROV89,,Kleve
-c_kleve,c_kleve,,
 c_kleve,c_kleve_adj,,Klevian
 c_kleve,dutch,,Kleef
 c_kleve,frankish,,Cléves
@@ -639,7 +606,6 @@ b_schwanenburg,b_schwanenburg,,Schwanenburg
 b_schwanenburg,b_schwanenburg_adj,,
 b_schwanenburg,dutch,,Zwanenburcht
 c_berg,PROV1063,,Berg
-c_berg,c_berg,,
 c_berg,c_berg_adj,,Bergische
 b_siegen,b_siegen,,Siegen
 b_siegen,b_siegen_adj,,
@@ -650,7 +616,6 @@ b_olpe,b_olpe_adj,,
 b_berg,b_berg,,Berg
 b_berg,b_berg_adj,,
 c_aachen,PROV1026,,Aachen
-c_aachen,c_aachen,,
 c_aachen,c_aachen_adj,,Aachener
 c_aachen,dutch,,Aken
 c_aachen,frankish,,Aix-la-Chapelle
@@ -669,7 +634,6 @@ k_saxony,name_tier,,duke
 d_angria,d_angria,,Engern
 d_angria,d_angria_adj,,Engerische
 c_mark,PROV1009,,Mark
-c_mark,c_mark,,
 c_mark,c_mark_adj,,Markische
 b_altena,b_altena,,Altena
 b_altena,b_altena_adj,,
@@ -680,7 +644,6 @@ b_gevelsberg,b_gevelsberg_adj,,
 b_essen,b_essen,,Essen
 b_essen,b_essen_adj,,
 c_celle,PROV259,,Lippe
-c_celle,c_celle,,
 c_celle,c_celle_adj,,Cellian
 b_stenberg,b_stenberg,,Stenberg
 b_stenberg,b_stenberg_adj,,
@@ -693,7 +656,6 @@ b_wevelsburg,b_wevelsburg_adj,,
 b_lippe,b_lippe,,Lippe
 b_lippe,b_lippe_adj,,
 c_schaumburg,PROV1020,,Schaumburg
-c_schaumburg,c_schaumburg,,
 c_schaumburg,c_schaumburg_adj,,Schaumburgische
 b_schauenburg,b_schauenburg,,Schauenburg
 b_schauenburg,b_schauenburg_adj,,
@@ -706,7 +668,6 @@ b_querheim,b_querheim_adj,,
 d_oldenburg,d_oldenburg,,Niedersachsen
 d_oldenburg,d_oldenburg_adj,,Niedersächsischer
 c_tecklenburg,PROV1079,,Tecklenburg
-c_tecklenburg,c_tecklenburg,,
 c_tecklenburg,c_tecklenburg_adj,,Tecklenburgische
 b_wildeshausen,b_wildeshausen,,Wildeshausen
 b_wildeshausen,b_wildeshausen_adj,,
@@ -717,7 +678,6 @@ b_quackenbruck,b_quackenbruck_adj,,
 b_meppen,b_meppen,,Meppen
 b_meppen,b_meppen_adj,,
 c_bentheim,PROV953,,Bentheim
-c_bentheim,c_bentheim,,
 c_bentheim,c_bentheim_adj,,Bentheimer
 b_bentheim,b_bentheim,,Bentheim
 b_bentheim,b_bentheim_adj,,
@@ -726,7 +686,6 @@ b_nordhorn,b_nordhorn_adj,,
 b_lingen,b_lingen,,Lingen
 b_lingen,b_lingen_adj,,
 c_oldenburg,PROV86,,Oldenburg
-c_oldenburg,c_oldenburg,,
 c_oldenburg,c_oldenburg_adj,,Oldenburgian
 b_oldenburg,b_oldenburg,,Oldenburg
 b_oldenburg,b_oldenburg_adj,,
@@ -742,7 +701,6 @@ d_osnabruck,foa,,FE_FOA
 d_osnabruck,title,,FE
 d_osnabruck,title_prefix,,FE_OF
 c_osnabruck,PROV87,,Osnabrück
-c_osnabruck,c_osnabruck,,
 c_osnabruck,c_osnabruck_adj,,Osnabrückian
 b_osnabruck,b_osnabruck,,Osnabrück
 b_osnabruck,b_osnabruck_adj,,
@@ -756,7 +714,6 @@ d_bishopmunster,foa,,FE_FOA
 d_bishopmunster,title,,FE
 d_bishopmunster,title_prefix,,FE_OF
 c_munster,PROV88,,Münster
-c_munster,c_munster,,
 c_munster,c_munster_adj,,Munsterian
 b_munster,b_munster,,Münster
 b_munster,b_munster_adj,,
@@ -772,7 +729,6 @@ d_bremen,foa,,FE_FOA
 d_bremen,title,,FE
 d_bremen,title_prefix,,FE_OF
 c_bremen,PROV848,,Bremen
-c_bremen,c_bremen,,
 c_bremen,c_bremen_adj,,Bremenian
 b_bremen,b_bremen,,Bremen
 b_bremen,b_bremen_adj,,
@@ -789,7 +745,6 @@ b_beverstedt,b_beverstedt_adj,,
 d_holstein,d_holstein,,Holstein
 d_holstein,d_holstein_adj,,Holsteinische
 c_holstein,PROV263,,Eselsfleth
-c_holstein,c_holstein,,
 c_holstein,c_holstein_adj,,Holsteinian
 b_itzehoe,b_itzehoe,,Eselsfleth
 b_itzehoe,b_itzehoe_adj,,
@@ -800,7 +755,6 @@ b_gluckstadt,b_gluckstadt_adj,,
 b_wilster,b_wilster,,Wilster
 b_wilster,b_wilster_adj,,
 c_dithmarschen,PROV1065,,Dithmarschen
-c_dithmarschen,c_dithmarschen,,
 c_dithmarschen,c_dithmarschen_adj,,Dithmarchische
 c_dithmarschen,danish,,Thetmærsch
 b_heide,b_heide,,Heide
@@ -809,7 +763,6 @@ b_meldorf,b_meldorf,,Meldorf
 b_meldorf,b_meldorf_adj,,
 b_meldorf,danish,,Melsword
 c_reinholdsburg,PROV1025,,Rendsburg
-c_reinholdsburg,c_reinholdsburg,,
 c_reinholdsburg,c_reinholdsburg_adj,,Reinholdsburgische
 c_reinholdsburg,anglonorse,,Reinoldsborg
 c_reinholdsburg,danish,,Reynoldsburgh
@@ -841,7 +794,6 @@ b_reinholdsburg,swedish,,Reinoldsborg
 b_neumunster,b_neumunster,,Wippendorf
 b_neumunster,b_neumunster_adj,,
 c_lauenburg,PROV1098,,Lauenburg
-c_lauenburg,c_lauenburg,,
 c_lauenburg,c_lauenburg_adj,,Lauenburgische
 b_ratzeburg,b_ratzeburg,,Ratzeburg
 b_ratzeburg,b_ratzeburg_adj,,
@@ -852,7 +804,6 @@ b_tripkau,b_tripkau_adj,,
 b_lauenburg,b_lauenburg,,Lauenburg
 b_lauenburg,b_lauenburg_adj,,
 c_hamburg,PROV261,,Stormarn
-c_hamburg,c_hamburg,,
 c_hamburg,c_hamburg_adj,,Hamburgian
 b_oldesloe,b_oldesloe,,Bad Oldesloe
 b_oldesloe,b_oldesloe_adj,,
@@ -870,7 +821,6 @@ d_magdeburg,foa,,FE_FOA
 d_magdeburg,title,,FE
 d_magdeburg,title_prefix,,FE_OF
 c_magdeburg,PROV1074,,Magdeburg
-c_magdeburg,c_magdeburg,,
 c_magdeburg,c_magdeburg_adj,,Magdeburgische
 b_belzig,b_belzig,,Belzig
 b_belzig,b_belzig_adj,,
@@ -881,7 +831,6 @@ b_havelberg,b_havelberg_adj,,
 d_saxewittenberg,d_saxewittenberg,,Sachsen-Wittenberg
 d_saxewittenberg,d_saxewittenberg_adj,,Sächsische
 c_anhalt,PROV310,,Anhalt
-c_anhalt,c_anhalt,,
 c_anhalt,c_anhalt_adj,,Anhaltian
 c_anhalt,pommeranian,,Chutizi
 b_zerbst,b_zerbst,,Zerbst
@@ -895,7 +844,6 @@ b_querfurt,b_querfurt_adj,,
 b_bernburg,b_bernburg,,Bernburg
 b_bernburg,b_bernburg_adj,,
 c_blankenburg,PROV1076,,Blankenburg
-c_blankenburg,c_blankenburg,,
 c_blankenburg,c_blankenburg_adj,,Blankenburgische
 b_reggenstein,b_reggenstein,,Reggenstein
 b_reggenstein,b_reggenstein_adj,,
@@ -908,7 +856,6 @@ b_blankenburg,b_blankenburg_adj,,
 b_quedlinburg,b_quedlinburg,,Quedlinburg
 b_quedlinburg,b_quedlinburg_adj,,
 c_wittenberg,PROV1075,,Wittenberg
-c_wittenberg,c_wittenberg,,
 c_wittenberg,c_wittenberg_adj,,Wittenbergische
 b_wittenberg,b_wittenberg,,Wittenberg
 b_wittenberg,b_wittenberg_adj,,
@@ -919,7 +866,6 @@ b_zinna,b_zinna_adj,,
 b_pretzsch,b_pretzsch,,Pretzsch
 b_pretzsch,b_pretzsch_adj,,
 c_brehna,PROV1077,,Brehna
-c_brehna,c_brehna,,
 c_brehna,c_brehna_adj,,Brehnaische
 b_wettin,b_wettin,,Wettin
 b_wettin,b_wettin_adj,,
@@ -928,7 +874,6 @@ b_brehna,b_brehna_adj,,
 b_torgau,b_torgau,,Torgau
 b_torgau,b_torgau_adj,,
 c_weimar,PROV256,,Weimar
-c_weimar,c_weimar,,
 c_weimar,c_weimar_adj,,Weimarian
 b_weimar,b_weimar,,Weimar
 b_weimar,b_weimar_adj,,
@@ -945,7 +890,6 @@ d_meissen,title,,MARGRAVE
 d_meissen,title_female,,MARGRAVINE
 d_meissen,title_prefix,,MARGRAVE_OF
 c_meissen,PROV312,,Meissen
-c_meissen,c_meissen,,
 c_meissen,c_meissen_adj,,Meissian
 c_meissen,pommeranian,,Dalaminza
 b_dresden,b_dresden,,Dresden
@@ -959,7 +903,6 @@ b_belgern,b_belgern_adj,,
 b_radeburg,b_radeburg,,Radeburg
 b_radeburg,b_radeburg_adj,,
 c_voigtland,PROV998,,Voigtland
-c_voigtland,c_voigtland,,
 c_voigtland,c_voigtland_adj,,Voigtlandische
 b_plauen,b_plauen,,Plauen
 b_plauen,b_plauen_adj,,
@@ -970,7 +913,6 @@ b_voigtsberg,b_voigtsberg_adj,,
 b_greiz,b_greiz,,Greiz
 b_greiz,b_greiz_adj,,
 c_merseburg,PROV978,,Merseburg
-c_merseburg,c_merseburg,,
 c_merseburg,c_merseburg_adj,,Merseburgische
 b_merseburg,b_merseburg,,Merseburg
 b_merseburg,b_merseburg_adj,,
@@ -979,7 +921,6 @@ b_leipzig,b_leipzig_adj,,
 b_weissensfels,b_weissensfels,,Weissensfels
 b_weissensfels,b_weissensfels_adj,,
 c_zeitz,PROV954,,Zeitz
-c_zeitz,c_zeitz,,
 c_zeitz,c_zeitz_adj,,Zeitzische
 b_zeitz,b_zeitz,,Zeitz
 b_zeitz,b_zeitz_adj,,
@@ -990,7 +931,6 @@ b_naumburg,b_naumburg_adj,,
 d_altmark,d_altmark,,Altmark
 d_altmark,d_altmark_adj,,Altmärkische
 c_altmark,PROV309,,Altmark
-c_altmark,c_altmark,,
 c_altmark,c_altmark_adj,,Altmarkian
 b_werben,b_werben,,Weben
 b_werben,b_werben_adj,,
@@ -1003,7 +943,6 @@ b_osterburg,b_osterburg_adj,,
 d_brunswick,d_brunswick,,Braunschweig-Lüneburg
 d_brunswick,d_brunswick_adj,,Braunschweigische
 c_luneburg,PROV258,,Lüneburg
-c_luneburg,c_luneburg,,
 c_luneburg,c_luneburg_adj,,Lüneburgian
 b_luneburg,b_luneburg,,Lüneburg
 b_luneburg,b_luneburg_adj,,
@@ -1016,7 +955,6 @@ b_gifhorn,b_gifhorn_adj,,
 b_evern,b_evern,,Evern
 b_evern,b_evern_adj,,
 c_dannenberg,PROV1053,,Dannenberg
-c_dannenberg,c_dannenberg,,
 c_dannenberg,c_dannenberg_adj,,Dannenbergische
 b_grabowdannenberg,b_grabowdannenberg,,Grabow
 b_grabowdannenberg,b_grabowdannenberg_adj,,
@@ -1025,7 +963,6 @@ b_luchow,b_luchow_adj,,
 b_dannenberg,b_dannenberg,,Dannenberg
 b_dannenberg,b_dannenberg_adj,,
 c_gottingen,PROV120,,Grone
-c_gottingen,c_gottingen,,
 c_gottingen,c_gottingen_adj,,Göttingian
 b_corvey,b_corvey,,Corvey
 b_corvey,b_corvey_adj,,
@@ -1036,7 +973,6 @@ b_pfalzgrona,b_pfalzgrona_adj,,
 b_adelebsen,b_adelebsen,,Adelebsen
 b_adelebsen,b_adelebsen_adj,,
 c_everstein,PROV980,,Everstein
-c_everstein,c_everstein,,
 c_everstein,c_everstein_adj,,Eversteinische
 b_goslar,b_goslar,,Goslar
 b_goslar,b_goslar_adj,,
@@ -1045,7 +981,6 @@ b_everstein,b_everstein_adj,,
 b_northeim,b_northeim,,Northeim
 b_northeim,b_northeim_adj,,
 c_braunschweig,PROV257,,Braunschweig
-c_braunschweig,c_braunschweig,,
 c_braunschweig,c_braunschweig_adj,,Braunschweigian
 b_braunschweig,b_braunschweig,,Braunschweig
 b_braunschweig,b_braunschweig_adj,,
@@ -1063,7 +998,6 @@ k_franconia,name_tier,,duke
 d_rheinfranken,d_rheinfranken,,Rheinfranken
 d_rheinfranken,d_rheinfranken_adj,,Rheinfränkische
 c_leiningen,PROV122,,Wertheim
-c_leiningen,c_leiningen,,
 c_leiningen,c_leiningen_adj,,Leiningian
 b_wertheim,b_wertheim,,Wertheim
 b_wertheim,b_wertheim_adj,,
@@ -1074,7 +1008,6 @@ b_durne,b_durne_adj,,
 b_klingen,b_klingen,,Klingen
 b_klingen,b_klingen_adj,,
 c_lauffen,PROV960,,Lauffen
-c_lauffen,c_lauffen,,
 c_lauffen,c_lauffen_adj,,Lauffische
 b_eberbach,b_eberbach,,Erbach
 b_eberbach,b_eberbach_adj,,
@@ -1085,7 +1018,6 @@ b_lauffen,b_lauffen_adj,,
 b_mosbach,b_mosbach,,Mosbach
 b_mosbach,b_mosbach_adj,,
 c_frankfurt,PROV952,,Hanau
-c_frankfurt,c_frankfurt,,
 c_frankfurt,c_frankfurt_adj,,Hanuaische
 b_birstein,b_birstein,,Birstein
 b_birstein,b_birstein_adj,,
@@ -1100,7 +1032,6 @@ b_hanau,b_hanau_adj,,
 b_eppstein,b_eppstein,,Eppstein
 b_eppstein,b_eppstein_adj,,
 c_konigssondergau,PROV1007,,Königssondergau
-c_konigssondergau,c_konigssondergau,,
 c_konigssondergau,c_konigssondergau_adj,,Königsondergauische
 b_wiesbaden,b_wiesbaden,,Wiesbaden
 b_wiesbaden,b_wiesbaden_adj,,
@@ -1115,7 +1046,6 @@ b_lorch,b_lorch_adj,,
 d_wurzburg,d_wurzburg,,Ostfranken
 d_wurzburg,d_wurzburg_adj,,Ostfränkische
 c_henneberg,PROV1054,,Henneberg
-c_henneberg,c_henneberg,,
 c_henneberg,c_henneberg_adj,,Hennebergische
 b_arnstadt,b_arnstadt,,Arnstadt
 b_arnstadt,b_arnstadt_adj,,
@@ -1124,7 +1054,6 @@ b_salzungen,b_salzungen_adj,,
 b_henneberg,b_henneberg,,Henneberg
 b_henneberg,b_henneberg_adj,,
 c_hohenloe,PROV1035,,Hohenloe
-c_hohenloe,c_hohenloe,,
 c_hohenloe,c_hohenloe_adj,,Hohenloeische
 b_hochlach,b_hochlach,,Hochlach
 b_hochlach,b_hochlach_adj,,
@@ -1135,7 +1064,6 @@ b_neustein,b_neustein_adj,,
 b_uffenheim,b_uffenheim,,Uffenheim
 b_uffenheim,b_uffenheim_adj,,
 c_comburg,PROV970,,Comburg-Röthenburg
-c_comburg,c_comburg,,
 c_comburg,c_comburg_adj,,Comburger
 b_rothenburg,b_rothenburg,,Rothenburg
 b_rothenburg,b_rothenburg_adj,,
@@ -1162,7 +1090,6 @@ d_mainz,foa,,FE_FOA
 d_mainz,title,,FE
 d_mainz,title_prefix,,FE_OF
 c_mainz,PROV123,,Mainz
-c_mainz,c_mainz,,
 c_mainz,c_mainz_adj,,Mainzian
 c_mainz,greek,,Mogontiakon
 c_mainz,roman,,Mogontiacum
@@ -1185,7 +1112,6 @@ d_thuringia,title,,LANDGRAVE
 d_thuringia,title_female,,LANDGRAVINE
 d_thuringia,title_prefix,,LANDGRAVE_OF
 c_schwartzburg,PROV1078,,Schwartzburg
-c_schwartzburg,c_schwartzburg,,
 c_schwartzburg,c_schwartzburg_adj,,Schwartzburgische
 b_schwartzburg,b_schwartzburg,,Schwartzburg
 b_schwartzburg,b_schwartzburg_adj,,
@@ -1194,7 +1120,6 @@ b_kafernburg,b_kafernburg_adj,,
 b_geogenthal,b_geogenthal,,Geogenthal
 b_geogenthal,b_geogenthal_adj,,
 c_thuringen,PROV255,,Thüringen
-c_thuringen,c_thuringen,,
 c_thuringen,c_thuringen_adj,,Thüringian
 b_erfurt,b_erfurt,,Erfurt
 b_erfurt,b_erfurt_adj,,
@@ -1213,7 +1138,6 @@ d_hessen,title,,LANDGRAVE
 d_hessen,title_female,,LANDGRAVINE
 d_hessen,title_prefix,,LANDGRAVE_OF
 c_hessen,PROV948,,Hessen
-c_hessen,c_hessen,,
 c_hessen,c_hessen_adj,,Hessen
 b_waldeck,b_waldeck,,Waldeck
 b_waldeck,b_waldeck_adj,,
@@ -1226,7 +1150,6 @@ b_kassel,b_kassel_adj,,
 b_marburga,b_marburga,,Marburg
 b_marburga,b_marburga_adj,,
 c_nassau,PROV121,,Nassau
-c_nassau,c_nassau,,
 c_nassau,c_nassau_adj,,Nassauian
 b_nassau,b_nassau,,Nassau
 b_nassau,b_nassau_adj,,
@@ -1244,7 +1167,6 @@ d_niederbayern,d_niederbayern_adj,,Niederbairische
 d_niederbayern,greek,,Rhaitia Sekunda
 d_niederbayern,roman,,Rhaetia Secunda
 c_passau,PROV447,,Ortenburg
-c_passau,c_passau,,
 c_passau,c_passau_adj,,Passauian
 c_passau,greek,,Batavinon
 c_passau,roman,,Batavinum
@@ -1259,7 +1181,6 @@ b_schaumberg,b_schaumberg_adj,,
 b_formbach,b_formbach,,Formbach
 b_formbach,b_formbach_adj,,
 c_leuchenberg,PROV1033,,Leuchtenberg
-c_leuchenberg,c_leuchenberg,,
 c_leuchenberg,c_leuchenberg_adj,,Leuchenbergische
 c_leuchenberg,foa,,LANDGRAVE_FOA
 c_leuchenberg,title,,LANDGRAVE
@@ -1272,7 +1193,6 @@ b_hals,b_hals_adj,,
 b_grafenwohr,b_grafenwohr,,Grafenwöhr
 b_grafenwohr,b_grafenwohr_adj,,
 c_niederbayern,PROV361,,Niederbayern
-c_niederbayern,c_niederbayern,,
 c_niederbayern,c_niederbayern_adj,,Niederbayerian
 c_niederbayern,greek,,Kastra Regina
 c_niederbayern,roman,,Castra Regina
@@ -1295,7 +1215,6 @@ d_tyrol,d_tyrol,,Tirol
 d_tyrol,d_tyrol_adj,,Tirolische
 d_tyrol,name_tier,,count
 c_tirol,PROV316,,Tirol
-c_tirol,c_tirol,,
 c_tirol,c_tirol_adj,,Tyrolian
 b_tirol,b_tirol,,Tyrol
 b_tirol,b_tirol_adj,,
@@ -1308,7 +1227,6 @@ b_lienz,b_lienz_adj,,
 b_innsbruck,b_innsbruck,,Innsbruck
 b_innsbruck,b_innsbruck_adj,,
 c_trent,PROV317,,Trent
-c_trent,c_trent,,
 c_trent,c_trent_adj,,Trentian
 c_trent,greek,,Tridente
 c_trent,roman,,Tridentum
@@ -1326,7 +1244,6 @@ d_bamberg,foa,,FE_FOA
 d_bamberg,title,,FE
 d_bamberg,title_prefix,,FE_OF
 c_bamberg,PROV313,,Bamberg
-c_bamberg,c_bamberg,,
 c_bamberg,c_bamberg_adj,,Bambergian
 b_bamberg,b_bamberg,,Bamberg
 b_bamberg,b_bamberg_adj,,
@@ -1341,7 +1258,6 @@ d_nuremberg,title,,BURGRAVE
 d_nuremberg,title_female,,BURGRAVINE
 d_nuremberg,title_prefix,,BURGRAVE_OF
 c_plauen,PROV311,,Bayreuth
-c_plauen,c_plauen,,
 c_plauen,c_plauen_adj,,Plauenian
 b_plassenburg,b_plassenburg,,Plassenburg
 b_plassenburg,b_plassenburg_adj,,
@@ -1352,7 +1268,6 @@ b_kulmbach,b_kulmbach_adj,,
 b_bayreuth,b_bayreuth,,Bayreuth
 b_bayreuth,b_bayreuth_adj,,
 c_ansbach,PROV981,,Ansbach
-c_ansbach,c_ansbach,,
 c_ansbach,c_ansbach_adj,,Ansbachische
 b_ansbach,b_ansbach,,Ansbach
 b_ansbach,b_ansbach_adj,,
@@ -1364,7 +1279,6 @@ b_eichstatt,b_eichstatt,,Eichstatt
 b_eichstatt,b_eichstatt_adj,,
 b_eichstatt,name_tier,,count
 c_nurnberg,PROV314,,Nürnberg
-c_nurnberg,c_nurnberg,,
 c_nurnberg,c_nurnberg_adj,,Nürnbergian
 b_roth,b_roth,,Roth
 b_roth,b_roth_adj,,
@@ -1381,7 +1295,6 @@ d_oberbayern,d_oberbayern_adj,,Oberbaierisch
 d_oberbayern,greek,,Rhaitia Prima
 d_oberbayern,roman,,Rhaetia Prima
 c_kempten,PROV315,,Kempten
-c_kempten,c_kempten,,
 c_kempten,c_kempten_adj,,Kemptian
 c_kempten,greek,,Kambodunum
 c_kempten,roman,,Cambodunum
@@ -1394,7 +1307,6 @@ b_wittelsbach,b_wittelsbach_adj,,
 b_zumarshausen,b_zumarshausen,,Zumarshausen
 b_zumarshausen,b_zumarshausen_adj,,
 c_oberbayern,PROV360,,Oberbayern
-c_oberbayern,c_oberbayern,,
 c_oberbayern,c_oberbayern_adj,,Oberbayerian
 b_munchen,b_munchen,,München
 b_munchen,b_munchen_adj,,
@@ -1417,7 +1329,6 @@ d_salzburg,foa,,FE_FOA
 d_salzburg,title,,FE
 d_salzburg,title_prefix,,FE_OF
 c_salzburg,PROV448,,Salzburg
-c_salzburg,c_salzburg,,
 c_salzburg,c_salzburg_adj,,Salzburgian
 c_salzburg,greek,,Iuvavum
 c_salzburg,roman,,Iuvavum
@@ -1438,7 +1349,6 @@ d_osterreich,d_osterreich_adj,,Österreichische
 d_osterreich,greek,,Noricum Ripense
 d_osterreich,roman,,Noricum Ripense
 c_osterreich,PROV449,,Österreich
-c_osterreich,c_osterreich,,
 c_osterreich,c_osterreich_adj,,Österreicher
 c_osterreich,greek,,Ouindobouna
 c_osterreich,roman,,Vindobona
@@ -1463,7 +1373,6 @@ b_stpolten,b_stpolten_adj,,
 b_stpolten,greek,,Cetium
 b_stpolten,roman,,Cetium
 c_innsbruck,PROV359,,Traungau
-c_innsbruck,c_innsbruck,,
 c_innsbruck,c_innsbruck_adj,,Innsbruckian
 b_steyr,b_steyr,,Steyr
 b_steyr,b_steyr_adj,,
@@ -1478,7 +1387,6 @@ b_schaunberg,b_schaunberg_adj,,
 b_kremsmunster,b_kremsmunster,,Kremsmunster
 b_kremsmunster,b_kremsmunster_adj,,
 c_kuenring,PROV1264,,Kuenring
-c_kuenring,c_kuenring,,
 c_kuenring,c_kuenring_adj,,Küenringische
 b_kuhenring,b_kuhenring,,Kuhenring
 b_kuhenring,b_kuhenring_adj,,
@@ -1487,7 +1395,6 @@ b_zwettl,b_zwettl_adj,,
 b_krems,b_krems,,Krems
 b_krems,b_krems_adj,,
 c_pitten,PROV972,,Pitten
-c_pitten,c_pitten,,
 c_pitten,c_pitten_adj,,Pittische
 b_pitten,b_pitten,,Pitten
 b_pitten,b_pitten_adj,,
@@ -1498,7 +1405,6 @@ b_wienerneustadt,b_wienerneustadt_adj,,
 d_styria,d_styria,,Steiermark
 d_styria,d_styria_adj,,Steierisch
 c_steiermark,PROV455,,Steiermark
-c_steiermark,c_steiermark,,
 c_steiermark,c_steiermark_adj,,Steiermarkian
 c_steiermark,foa,,MARGRAVE_FOA
 c_steiermark,title,,MARGRAVE
@@ -1515,7 +1421,6 @@ b_stubing,b_stubing_adj,,
 b_admont,b_admont,,Admont
 b_admont,b_admont_adj,,
 c_celje,PROV1317,,Celje
-c_celje,c_celje,,
 c_celje,c_celje_adj,,Celjen
 c_celje,greek,,Keleia
 c_celje,roman,,Celeia
@@ -1538,7 +1443,6 @@ d_augsburg,foa,,FE_FOA
 d_augsburg,title,,FE
 d_augsburg,title_prefix,,FE_OF
 c_augsburg,PROV955,,Augsburg
-c_augsburg,c_augsburg,,
 c_augsburg,c_augsburg_adj,,Augsburgische
 c_augsburg,greek,,Augousta Ouendelikon
 c_augsburg,roman,,Augusta Vindelicum
@@ -1557,7 +1461,6 @@ d_baden,title,,MARGRAVE
 d_baden,title_female,,MARGRAVINE
 d_baden,title_prefix,,MARGRAVE_OF
 c_baden,PROV125,,Baden
-c_baden,c_baden,,
 c_baden,c_baden_adj,,Badenian
 b_baden,b_baden,,Baden
 b_baden,b_baden_adj,,
@@ -1570,14 +1473,12 @@ b_durlach,b_durlach_adj,,
 b_backnang,b_backnang,,Backnang
 b_backnang,b_backnang_adj,,
 c_eberstein,PROV1030,,Eberstein
-c_eberstein,c_eberstein,,
 c_eberstein,c_eberstein_adj,,Ebersteinische
 b_eberstein,b_eberstein,,Eberstein
 b_eberstein,b_eberstein_adj,,
 b_gernsbach,b_gernsbach,,Gernsbach
 b_gernsbach,b_gernsbach_adj,,
 c_breisgau,PROV250,,Breisgau
-c_breisgau,c_breisgau,,
 c_breisgau,c_breisgau_adj,,Breisgauer
 b_freiburg,b_freiburg,,Freiburg
 b_freiburg,b_freiburg_adj,,
@@ -1613,7 +1514,6 @@ d_alsace,dutch,,Elzas
 d_alsace,frankish,,Alsace
 d_alsace,german,,Elsass
 c_nordgau,PROV126,,Nordgau
-c_nordgau,c_nordgau,,
 c_nordgau,c_nordgau_adj,,Nordgauer
 c_nordgau,dutch,,Noordgouw
 c_nordgau,foa,,LANDGRAVE_FOA
@@ -1640,7 +1540,6 @@ b_selz,b_selz_adj,,
 b_selz,frankish,,Seltz
 b_selz,german,,Selz
 c_sundgau,PROV134,,Sundgau
-c_sundgau,c_sundgau,,
 c_sundgau,c_sundgau_adj,,Sundgauer
 c_sundgau,dutch,,Sundgouw
 c_sundgau,foa,,LANDGRAVE_FOA
@@ -1660,7 +1559,6 @@ b_ferette,german,,Pfirt
 d_zahringen,d_zahringen,,Zähringen
 d_zahringen,d_zahringen_adj,,Zähringische
 c_schwyz,PROV245,,Schwyz
-c_schwyz,c_schwyz,,
 c_schwyz,c_schwyz_adj,,Schwyzian
 b_schwyz,b_schwyz,,Schwyz
 b_schwyz,b_schwyz_adj,,
@@ -1671,7 +1569,6 @@ b_luzern,b_luzern_adj,,
 b_altrapperswill,b_altrapperswill,,Alt-Rapperswill
 b_altrapperswill,b_altrapperswill_adj,,
 c_aargau,PROV242,,Aargau
-c_aargau,c_aargau,,
 c_aargau,c_aargau_adj,,Aargaunian
 c_aargau,foa,,LANDGRAVE_FOA
 c_aargau,title,,LANDGRAVE
@@ -1688,7 +1585,6 @@ b_rheinfelden,b_rheinfelden_adj,,
 b_lenzburg,b_lenzburg,,Lenzburg
 b_lenzburg,b_lenzburg_adj,,
 c_bern,PROV244,,Zähringen
-c_bern,c_bern,,
 c_bern,c_bern_adj,,Bernian
 b_bern,b_bern,,Bern
 b_bern,b_bern_adj,,
@@ -1699,7 +1595,6 @@ b_interlaken,b_interlaken_adj,,
 b_solothurn,b_solothurn,,Solothurn
 b_solothurn,b_solothurn_adj,,
 c_st_gallen,PROV248,,Thurgau
-c_st_gallen,c_st_gallen,,
 c_st_gallen,c_st_gallen_adj,,St. Gallenian
 c_st_gallen,foa,,LANDGRAVE_FOA
 c_st_gallen,title,,LANDGRAVE
@@ -1719,7 +1614,6 @@ b_badenschweiz,b_badenschweiz_adj,,
 d_teck,d_teck,,Teck
 d_teck,d_teck_adj,,Schwäbische
 c_teck,PROV1029,,Teck
-c_teck,c_teck,,
 c_teck,c_teck_adj,,Teckishe
 b_teck,b_teck,,Teck
 b_teck,b_teck_adj,,
@@ -1730,7 +1624,6 @@ b_kirchheim,b_kirchheim_adj,,
 b_nurtingen,b_nurtingen,,Nürtingen
 b_nurtingen,b_nurtingen_adj,,
 c_hohenzollern,PROV1031,,Zollern
-c_hohenzollern,c_hohenzollern,,
 c_hohenzollern,c_hohenzollern_adj,,Zollernishe
 b_zollern,b_zollern,,Zollern
 b_zollern,b_zollern_adj,,
@@ -1741,7 +1634,6 @@ b_schalksburg,b_schalksburg_adj,,
 b_hohenberg,b_hohenberg,,Hohenberg
 b_hohenberg,b_hohenberg_adj,,
 c_helfenstein,PROV1034,,Helfenstein
-c_helfenstein,c_helfenstein,,
 c_helfenstein,c_helfenstein_adj,,Helfensteinische
 b_tubingen,b_tubingen,,Tübingen
 b_tubingen,b_tubingen_adj,,
@@ -1750,7 +1642,6 @@ b_heidenheim,b_heidenheim_adj,,
 b_helfenstein,b_helfenstein,,Helfenstein
 b_helfenstein,b_helfenstein_adj,,
 c_furstenberg,PROV251,,Fürstenberg
-c_furstenberg,c_furstenberg,,
 c_furstenberg,c_furstenberg_adj,,Fürstenbergian
 b_furstenberg,b_furstenberg,,Fürstenberg
 b_furstenberg,b_furstenberg_adj,,
@@ -1759,7 +1650,6 @@ b_sanktgeorgen,b_sanktgeorgen_adj,,
 b_villingen,b_villingen,,Villingen
 b_villingen,b_villingen_adj,,
 c_wurttemberg,PROV253,,Württemberg
-c_wurttemberg,c_wurttemberg,,
 c_wurttemberg,c_wurttemberg_adj,,Württembergian
 b_stuttgart,b_stuttgart,,Stuttgart
 b_stuttgart,b_stuttgart_adj,,
@@ -1778,7 +1668,6 @@ d_burgau,title,,MARGRAVE
 d_burgau,title_female,,MARGRAVINE
 d_burgau,title_prefix,,MARGRAVE_OF
 c_schwaben,PROV249,,Montfort
-c_schwaben,c_schwaben,,
 c_schwaben,c_schwaben_adj,,Swabian
 b_bregenz,b_bregenz,,Bregenz
 b_bregenz,b_bregenz_adj,,
@@ -1789,7 +1678,6 @@ b_lindau,b_lindau_adj,,
 b_vaduz,b_vaduz,,Vaduz
 b_vaduz,b_vaduz_adj,,
 c_waldburg,PROV977,,Waldburg
-c_waldburg,c_waldburg,,
 c_waldburg,c_waldburg_adj,,Walburgische
 b_waldburg,b_waldburg,,Waldburg
 b_waldburg,b_waldburg_adj,,
@@ -1800,7 +1688,6 @@ b_altdorf,b_altdorf_adj,,
 b_weingarten,b_weingarten,,Weingarten
 b_weingarten,b_weingarten_adj,,
 c_ulm,PROV252,,Ulm
-c_ulm,c_ulm,,
 c_ulm,c_ulm_adj,,Ulmian
 b_ulm,b_ulm,,Ulm
 b_ulm,b_ulm_adj,,
@@ -1811,7 +1698,6 @@ b_zwiefalten,b_zwiefalten_adj,,
 b_leipheim,b_leipheim,,Leipheim
 b_leipheim,b_leipheim_adj,,
 c_oettingen,PROV1032,,Öettingen
-c_oettingen,c_oettingen,,
 c_oettingen,c_oettingen_adj,,Oettigenishe
 b_oettingen,b_oettingen,,Öettingen
 b_oettingen,b_oettingen_adj,,
@@ -1830,7 +1716,6 @@ d_bohemia,foa,,DB_FOA
 d_bohemia,title,,DB
 d_bohemia,title_prefix,,DB_OF
 c_praha,PROV437,,Praha
-c_praha,c_praha,,
 c_praha,c_praha_adj,,Pragian
 c_praha,bohemian,,Praha
 c_praha,german,,Prag
@@ -1868,7 +1753,6 @@ b_stare_mesto,moravian,,Staré Mesto
 b_levyhradec,b_levyhradec,,Levý Hradec
 b_levyhradec,b_levyhradec_adj,,
 c_domazlice,PROV362,,Doudleby
-c_domazlice,c_domazlice,,
 c_domazlice,c_domazlice_adj,,Domazlician
 c_domazlice,bohemian,,Jižní Czechy
 c_domazlice,german,,Sudböhmen
@@ -1901,7 +1785,6 @@ b_budweis,bohemian,,Budejovice
 b_budweis,german,,Budweis
 b_budweis,moravian,,Budejovice
 c_hradec,PROV438,,Hradec
-c_hradec,c_hradec,,
 c_hradec,c_hradec_adj,,Hradecian
 c_hradec,bohemian,,Hradec
 c_hradec,german,,Grätz
@@ -1934,7 +1817,6 @@ b_jaromer,moravian,,Jaromerz
 b_chrudim,b_chrudim,,Chrudim
 b_chrudim,b_chrudim_adj,,
 c_boleslav,PROV436,,Kladsko
-c_boleslav,c_boleslav,,
 c_boleslav,c_boleslav_adj,,Boleslavian
 c_boleslav,bohemian,,Kladsko
 c_boleslav,german,,Glatz
@@ -1960,7 +1842,6 @@ b_broumovkladsko,bohemian,,Broumov
 b_broumovkladsko,german,,Braunau
 b_broumovkladsko,moravian,,Broumov
 c_litomerice,PROV363,,Litomerice
-c_litomerice,c_litomerice,,
 c_litomerice,c_litomerice_adj,,Litomerician
 c_litomerice,bohemian,,Litomerzice
 c_litomerice,german,,Leitmeritz
@@ -1991,7 +1872,6 @@ b_duba_hre,bohemian,,Dubá
 b_duba_hre,german,,Dauba
 b_duba_hre,moravian,,Dubá
 c_zatec,PROV1265,,Zatec
-c_zatec,c_zatec,,
 c_zatec,c_zatec_adj,,Zatecan
 c_zatec,bohemian,,Žatec
 c_zatec,german,,Saaz
@@ -2017,7 +1897,6 @@ b_loket,bohemian,,Loket
 b_loket,german,,Elbogen
 b_loket,moravian,,Loket
 c_plzen,PROV439,,Plzen
-c_plzen,c_plzen,,
 c_plzen,c_plzen_adj,,Plzenian
 c_plzen,bohemian,,Plzen
 c_plzen,german,,Pilsen
@@ -2057,7 +1936,6 @@ d_moravia,foa,,DM_FOA
 d_moravia,title,,DM
 d_moravia,title_prefix,,DM_OF
 c_olomouc,PROV440,,Olomouc
-c_olomouc,c_olomouc,,
 c_olomouc,c_olomouc_adj,,Olomoucian
 c_olomouc,bohemian,,Olomouc
 c_olomouc,german,,Olmütz
@@ -2090,7 +1968,6 @@ b_kromeriz,polish,,Kromieryz
 b_staremesto,b_staremesto,,Staré Mesto
 b_staremesto,b_staremesto_adj,,
 c_opava,PROV1263,,Opava
-c_opava,c_opava,,
 c_opava,c_opava_adj,,Opavan
 c_opava,bohemian,,Opava
 c_opava,german,,Troppau
@@ -2119,7 +1996,6 @@ b_odry,bohemian,,Odry
 b_odry,german,,Odrau
 b_odry,moravian,,Odry
 c_znojmo,PROV446,,Znojmo
-c_znojmo,c_znojmo,,
 c_znojmo,c_znojmo_adj,,Znojmo
 c_znojmo,bohemian,,Znojmo
 c_znojmo,german,,Znaym
@@ -2142,7 +2018,6 @@ b_trebic,moravian,,Trzebícz
 b_bitov,b_bitov,,Bitov
 b_bitov,b_bitov_adj,,
 c_brno,PROV441,,Boruy
-c_brno,c_brno,,
 c_brno,c_brno_adj,,Brünnian
 c_brno,bohemian,,Brno
 c_brno,german,,Brünn
@@ -2178,7 +2053,6 @@ k_lotharingia,k_lotharingia_adj,,Lotharingi
 d_savoie,d_savoie,,Savoy
 d_savoie,d_savoie_adj,,Savoyard
 c_savoie,PROV237,,Savoia
-c_savoie,c_savoie,,
 c_savoie,c_savoie_adj,,Savoian
 b_montmelian,b_montmelian,,Montmélian
 b_montmelian,b_montmelian_adj,,
@@ -2191,7 +2065,6 @@ b_conflans,b_conflans_adj,,
 b_aixlesbains,b_aixlesbains,,Aix-les-Bains
 b_aixlesbains,b_aixlesbains_adj,,
 c_geneve,PROV239,,Genève
-c_geneve,c_geneve,,
 c_geneve,c_geneve_adj,,Genevan
 c_geneve,greek,,Genoia
 c_geneve,roman,,Genava
@@ -2208,7 +2081,6 @@ b_nyon,roman,,Noviodunum
 b_lausanne,b_lausanne,,Lausanne
 b_lausanne,b_lausanne_adj,,
 c_bugey,PROV1042,,Bresse
-c_bugey,c_bugey,,
 c_bugey,c_bugey_adj,,Bresse
 b_bellegarde,b_bellegarde,,Bellegarde
 b_bellegarde,b_bellegarde_adj,,
@@ -2219,7 +2091,6 @@ b_belley,b_belley_adj,,
 b_nantua,b_nantua,,Nantua
 b_nantua,b_nantua_adj,,
 c_cheese,PROV1038,,Gruyére
-c_cheese,c_cheese,,
 c_cheese,c_cheese_adj,,Grüyereische
 b_montsalvens,b_montsalvens,,Montsalvens
 b_montsalvens,b_montsalvens_adj,,
@@ -2234,7 +2105,6 @@ b_chateaudoex,b_chateaudoex_adj,,
 d_aosta,d_aosta,,Aosta
 d_aosta,d_aosta_adj,,Savoyard
 c_aosta,PROV1041,,Aosta
-c_aosta,c_aosta,,
 c_aosta,c_aosta_adj,,Aosta
 c_aosta,greek,,Augousta Praitopia
 c_aosta,roman,,Augusta Praetoria
@@ -2253,7 +2123,6 @@ b_saintvincentaosta,b_saintvincentaosta_adj,,
 b_clyaosta,b_clyaosta,,Cly
 b_clyaosta,b_clyaosta_adj,,
 c_valais,PROV238,,Valais
-c_valais,c_valais,,
 c_valais,c_valais_adj,,Valaisian
 b_brig,b_brig,,Brig
 b_brig,b_brig_adj,,
@@ -2262,7 +2131,6 @@ b_siders,b_siders_adj,,
 b_sitten,b_sitten,,Sitten
 b_sitten,b_sitten_adj,,
 c_chablais,PROV1040,,Chablais
-c_chablais,c_chablais,,
 c_chablais,c_chablais_adj,,Chablis
 b_aigle,b_aigle,,Aigle
 b_aigle,b_aigle_adj,,
@@ -2276,7 +2144,6 @@ d_basel,foa,,FE_FOA
 d_basel,title,,FE
 d_basel,title_prefix,,FE_OF
 c_basel,PROV1037,,Basel
-c_basel,c_basel,,
 c_basel,c_basel_adj,,Baselische
 c_basel,greek,,Basileia
 c_basel,roman,,Basilia
@@ -2293,7 +2160,6 @@ d_upper_burgundy,title,,CPALATIN
 d_upper_burgundy,title_female,,CEPALATIN
 d_upper_burgundy,title_prefix,,CPALATIN_OF
 c_portois,PROV1045,,Portois
-c_portois,c_portois,,
 c_portois,c_portois_adj,,Portois
 b_oricourt,b_oricourt,,Oricourt
 b_oricourt,b_oricourt_adj,,
@@ -2304,7 +2170,6 @@ b_luxeuil,b_luxeuil_adj,,
 b_lure,b_lure,,Lure
 b_lure,b_lure_adj,,
 c_amous,PROV1039,,Amous
-c_amous,c_amous,,
 c_amous,c_amous_adj,,Amous
 b_dole,b_dole,,Dôle
 b_dole,b_dole_adj,,
@@ -2313,7 +2178,6 @@ b_gray,b_gray_adj,,
 b_auxonne,b_auxonne,,Auxonne
 b_auxonne,b_auxonne_adj,,
 c_varais,PROV1044,,Varais
-c_varais,c_varais,,
 c_varais,c_varais_adj,,Varai
 b_baume,b_baume,,Baume
 b_baume,b_baume_adj,,
@@ -2326,7 +2190,6 @@ b_poligny,b_poligny_adj,,
 b_salins,b_salins,,Salins
 b_salins,b_salins_adj,,
 c_besancon,PROV135,,Besancon
-c_besancon,c_besancon,,
 c_besancon,c_besancon_adj,,Besanconian
 c_besancon,greek,,Ouisontion
 c_besancon,roman,,Vesontio
@@ -2337,7 +2200,6 @@ b_besancon,roman,,Vesontio
 b_stferjeux,b_stferjeux,,Saint Ferjeux
 b_stferjeux,b_stferjeux_adj,,
 c_montbeliard,PROV1036,,Montbéliard
-c_montbeliard,c_montbeliard,,
 c_montbeliard,c_montbeliard_adj,,Montbéliard
 b_montfaucon,b_montfaucon,,Montfaucon
 b_montfaucon,b_montfaucon_adj,,
@@ -2348,7 +2210,6 @@ b_clemontm,b_clemontm_adj,,
 b_montbeliard,b_montbeliard,,Montbéliard
 b_montbeliard,b_montbeliard_adj,,
 c_neuchatel,PROV241,,Neuchatel
-c_neuchatel,c_neuchatel,,
 c_neuchatel,c_neuchatel_adj,,Neuchatelian
 b_neuchatel,b_neuchatel,,Neuchatel
 b_neuchatel,b_neuchatel_adj,,
@@ -2398,7 +2259,6 @@ d_mecklemburg,tagelmust,,Qal'at Nakon
 d_mecklemburg,tuareg,,Qal'at Nakon
 d_mecklemburg,zanata,,Qal'at Nakon
 c_mecklemburg,PROV260,,Mecklenburg
-c_mecklemburg,c_mecklemburg,,
 c_mecklemburg,c_mecklemburg_adj,,Mecklenburgian
 c_mecklemburg,andalusian_arabic,,Qal'at Nakon
 c_mecklemburg,anglonorse,,Mikelenborg
@@ -2525,7 +2385,6 @@ b_mecklemburg,tagelmust,,Qal'at Nakon
 b_mecklemburg,tuareg,,Qal'at Nakon
 b_mecklemburg,zanata,,Qal'at Nakon
 c_rostock,PROV306,,Rostock
-c_rostock,c_rostock,,
 c_rostock,c_rostock_adj,,Rostocker
 c_rostock,anglonorse,,Rostoch
 c_rostock,bohemian,,Roztok
@@ -2610,7 +2469,6 @@ b_rostock,russian,,Rozstoc
 b_rostock,serbian,,Rozstoc
 b_rostock,swedish,,Rostoch
 c_schwerin,PROV951,,Schwerin
-c_schwerin,c_schwerin,,
 c_schwerin,c_schwerin_adj,,Schwerinische
 c_schwerin,bohemian,,Zverzín
 c_schwerin,bosnian,,Zuarin
@@ -2671,7 +2529,6 @@ b_malchow,pommeranian,,Malechów
 b_malchow,russian,,Malechów
 b_malchow,serbian,,Malechów
 c_werle,PROV307,,Werle
-c_werle,c_werle,,
 c_werle,c_werle_adj,,Werlian
 c_werle,bohemian,,Orle
 c_werle,bosnian,,Orle
@@ -2750,7 +2607,6 @@ d_lubeck,russian,,Lubeka
 d_lubeck,serbian,,Lubeka
 d_lubeck,swedish,,Lybäck
 c_lubeck,PROV262,,Lübeck
-c_lubeck,c_lubeck,,
 c_lubeck,c_lubeck_adj,,Lübecker
 c_lubeck,bohemian,,Lubek
 c_lubeck,bosnian,,Lubeka
@@ -2821,7 +2677,6 @@ b_lubeck,russian,,Lubeka
 b_lubeck,serbian,,Lubeka
 b_lubeck,swedish,,Lybäck
 c_wargrien,PROV1066,,Wagrien
-c_wargrien,c_wargrien,,
 c_wargrien,c_wargrien_adj,,Wargrian
 b_plon,b_plon,,Plön
 b_plon,b_plon_adj,,
@@ -2886,7 +2741,6 @@ d_lubusz,pommeranian,,Lubusz
 d_lubusz,russian,,Lubusz
 d_lubusz,serbian,,Lubusz
 c_lubusz,PROV430,,Lubusz
-c_lubusz,c_lubusz,,
 c_lubusz,c_lubusz_adj,,Lubuszian
 c_lubusz,bohemian,,Lubuš
 c_lubusz,bosnian,,Lubusz
@@ -2960,7 +2814,6 @@ b_lubusz,russian,,Lubusz
 b_lubusz,serbian,,Lubusz
 b_lubusz,swedish,,Lebus
 c_neumark,PROV1303,,Neumark
-c_neumark,c_neumark,,
 c_neumark,c_neumark_adj,,Cedynia
 c_neumark,bohemian,,Cedyne
 c_neumark,bosnian,,Cedynia
@@ -3067,7 +2920,6 @@ d_pommerania,serbian,,Pomorze
 d_pommerania,swedish,,Pommern
 d_pommerania,ugricbaltic,,Pommeri
 c_stettin,PROV366,,Stettin
-c_stettin,c_stettin,,
 c_stettin,c_stettin_adj,,Stettiner
 c_stettin,bohemian,,Štetín
 c_stettin,bosnian,,Szczecin
@@ -3146,7 +2998,6 @@ b_dabie,russian,,Dabie
 b_dabie,serbian,,Dabie
 b_dabie,swedish,,Dam
 c_szvuine,PROV1267,,Swine
-c_szvuine,c_szvuine,,
 c_szvuine,c_szvuine_adj,,Szvuine
 c_szvuine,anglonorse,,Jómsborg
 c_szvuine,bohemian,,Švuine
@@ -3222,7 +3073,6 @@ b_szvuinecastle,russian,,Szvuine
 b_szvuinecastle,serbian,,Szvuine
 b_szvuinecastle,swedish,,Jómsborg
 c_wolgast,PROV308,,Gützkow
-c_wolgast,c_wolgast,,
 c_wolgast,c_wolgast_adj,,Wolgastian
 c_wolgast,anglonorse,,Waløgost
 c_wolgast,bohemian,,Volgast
@@ -3320,7 +3170,6 @@ b_wolgast,russian,,Wologoszcz
 b_wolgast,serbian,,Wologoszcz
 b_wolgast,swedish,,Waløgost
 c_belgard,PROV1313,,Belgard
-c_belgard,c_belgard,,
 c_belgard,c_belgard_adj,,Belgard
 c_belgard,bohemian,,Belehrad
 c_belgard,bosnian,,Biologard
@@ -3389,7 +3238,6 @@ b_colberg,pommeranian,,Kolbrzeg
 b_colberg,russian,,Kolbrzeg
 b_colberg,serbian,,Kolbrzeg
 c_slupsk,PROV367,,Schlawe-Stolp
-c_slupsk,c_slupsk,,
 c_slupsk,c_slupsk_adj,,Slupskian
 c_slupsk,bohemian,,Slupsk-Slavno
 c_slupsk,bosnian,,Slupsk-Slawno
@@ -3468,7 +3316,6 @@ d_rugen,d_rugen_adj_russian,,Rugish
 d_rugen,serbian,,Rugia
 d_rugen,swedish,,Rygen
 c_rugen,PROV304,,Rügen
-c_rugen,c_rugen,,
 c_rugen,c_rugen_adj,,Rügenian
 c_rugen,anglonorse,,Rygen
 c_rugen,bohemian,,Rujána
@@ -3543,7 +3390,6 @@ b_charenza,russian,,Korenitza
 b_charenza,serbian,,Korenitza
 b_charenza,swedish,,Charenz
 c_barth,PROV1505,,Barth
-c_barth,c_barth,,
 c_barth,c_barth_adj,,Barthish
 c_barth,bohemian,,Bardo
 c_barth,bosnian,,Bardo
@@ -3617,7 +3463,6 @@ d_brandenburg,title,,MARGRAVE
 d_brandenburg,title_female,,MARGRAVINE
 d_brandenburg,title_prefix,,MARGRAVE_OF
 c_brandenburg,PROV365,,Brandenburg
-c_brandenburg,c_brandenburg,,
 c_brandenburg,c_brandenburg_adj,,Brandenburgische
 c_brandenburg,bohemian,,Braniborz
 c_brandenburg,bosnian,,Brenna
@@ -3652,7 +3497,6 @@ b_brandenburg,pommeranian,,Brennaburg
 b_brandenburg,russian,,Brenna
 b_brandenburg,serbian,,Brenna
 c_prignitz,PROV982,,Prignitz
-c_prignitz,c_prignitz,,
 c_prignitz,c_prignitz_adj,,Prignitzische
 b_pritzwalk,b_pritzwalk,,Pritzwalk
 b_pritzwalk,b_pritzwalk_adj,,
@@ -3669,7 +3513,6 @@ d_lausitz,title,,MARGRAVE
 d_lausitz,title_female,,MARGRAVINE
 d_lausitz,title_prefix,,MARGRAVE_OF
 c_niederlausitz,PROV1064,,Niederlausitz
-c_niederlausitz,c_niederlausitz,,
 c_niederlausitz,c_niederlausitz_adj,,Niederlausitzische
 b_forst,b_forst,,Forst
 b_forst,b_forst_adj,,
@@ -3678,7 +3521,6 @@ b_cottbus,b_cottbus_adj,,
 b_luckau,b_luckau,,Lukau
 b_luckau,b_luckau_adj,,
 c_lausitz,PROV364,,Oberlausitz
-c_lausitz,c_lausitz,,
 c_lausitz,c_lausitz_adj,,Oberlausitzische
 b_zittau,b_zittau,,Zittau
 b_zittau,b_zittau_adj,,

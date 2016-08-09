@@ -10,7 +10,6 @@ d_aleppo,d_aleppo_adj_greek,,Syria Priman
 d_aleppo,roman,,Syria Prima
 d_aleppo,title_prefix,,JUND_OF
 c_aleppo,PROV733,,Halab
-c_aleppo,c_aleppo,,
 c_aleppo,c_aleppo_adj,,Alepponian
 c_aleppo,frankish,,Halapia
 c_aleppo,c_aleppo_adj_frankish,,Halapian
@@ -54,7 +53,6 @@ b_khanasir,b_khanasir_adj,,
 b_khanasir,greek,,Anasartha
 b_khanasir,roman,,Anasartha
 c_manbij,PROV1240,,Manbij
-c_manbij,c_manbij,,
 c_manbij,c_manbij_adj,,Manbijan
 c_manbij,frankish,,Mombech
 c_manbij,c_manbij_adj_frankish,,Mombechan
@@ -85,7 +83,6 @@ b_jarabulus,kurdish,,Kaniya Dil
 b_jarabulus,norman,,Geraple
 b_jarabulus,roman,,Europos
 c_kafrtab,PROV1243,,Kafr-Tab
-c_kafrtab,c_kafrtab,,
 c_kafrtab,c_kafrtab_adj,,Kafr-Taban
 c_kafrtab,frankish,,La Marre
 c_kafrtab,c_kafrtab_adj_frankish,,La Marran
@@ -115,7 +112,6 @@ b_kafr_tab,b_kafr_tab_adj,,
 b_kafr_tab,frankish,,Capharda
 b_kafr_tab,norman,,Capharda
 c_hama,PROV732,,Hama
-c_hama,c_hama,,
 c_hama,c_hama_adj,,Haman
 c_hama,greek,,Epiphania
 c_hama,c_hama_adj_greek,,Epiphanian
@@ -143,7 +139,6 @@ d_homs,d_homs_adj_greek,,Syria Salutaran
 d_homs,roman,,Syria Salutaris
 d_homs,title_prefix,,JUND_OF
 c_homs,PROV731,,Hims
-c_homs,c_homs,,
 c_homs,c_homs_adj,,Homsian
 c_homs,frankish,,La Chamelle
 c_homs,c_homs_adj_frankish,,La Chamellan
@@ -171,7 +166,6 @@ b_citadelofhoms,greek,,Kastro Emesa
 b_citadelofhoms,norman,,Château de La Chamelle
 b_citadelofhoms,roman,,Castrum Emesa
 c_palmyra,PROV730,,Palmyra
-c_palmyra,c_palmyra,,
 c_palmyra,c_palmyra_adj,,Palmyran
 b_arak,b_arak,,Arak
 b_arak,b_arak_adj,,
@@ -188,7 +182,6 @@ b_qasralhayralsharqi,b_qasralhayralsharqi_adj,,
 b_alsukhnah,b_alsukhnah,,Al-Sukhnah
 b_alsukhnah,b_alsukhnah_adj,,
 c_salamiyah,PROV1242,,Salamiyah
-c_salamiyah,c_salamiyah,,
 c_salamiyah,c_salamiyah_adj,,Salamiyan
 c_salamiyah,greek,,Salamias
 c_salamiyah,c_salamiyah_adj_greek,,Salamian
@@ -208,7 +201,6 @@ d_damascus,d_damascus_adj_greek,,Phoenice Libanensian
 d_damascus,roman,,Phoenice Libanensis
 d_damascus,title_prefix,,JUND_OF
 c_damascus,PROV728,,Ghutah
-c_damascus,c_damascus,,
 c_damascus,c_damascus_adj,,Damascan
 c_damascus,assyrian,,Darmsûq
 c_damascus,frankish,,Damascus
@@ -243,7 +235,6 @@ b_marsarkismoenstary,greek,,Monì tìs Agios Sergios
 b_aldumay,b_aldumay,,Dumayr
 b_aldumay,b_aldumay_adj,,
 c_baalbek,PROV768,,Bekaa
-c_baalbek,c_baalbek,,
 c_baalbek,c_baalbek_adj,,Baalbekian
 c_baalbek,frankish,,Balbec
 c_baalbek,c_baalbek_adj_frankish,,Balbecan
@@ -271,7 +262,6 @@ b_fakiha,b_fakiha_adj,,
 b_deirelahmar,b_deirelahmar,,Deir El Ahmar
 b_deirelahmar,b_deirelahmar_adj,,
 c_syria,PROV727,,Bathaniyya
-c_syria,c_syria,,
 c_syria,c_syria_adj,,Bostrian
 c_syria,greek,,Adraa
 c_syria,c_syria_adj_greek,,Adraan
@@ -291,7 +281,6 @@ b_izra,roman,,Zorava
 b_sanamayn,b_sanamayn,,Sanamayn
 b_sanamayn,b_sanamayn_adj,,
 c_suwaida,PROV712,,Hauran
-c_suwaida,c_suwaida,,
 c_suwaida,c_suwaida_adj,,Suwaidan
 c_suwaida,greek,,Bostra
 c_suwaida,c_suwaida_adj_greek,,Bostran
@@ -319,7 +308,6 @@ d_jordan,d_jordan_adj_greek,,Arabia Priman
 d_jordan,roman,,Arabia Prima
 d_jordan,title_prefix,,JUND_OF
 c_amman,PROV724,,Balqa
-c_amman,c_amman,,
 c_amman,c_amman_adj,,Ammanian
 c_amman,frankish,,Ahamant
 c_amman,c_amman_adj_frankish,,Ahamantan
@@ -355,7 +343,6 @@ b_fuheis,b_fuheis_adj,,
 b_qastal,b_qastal,,Qastal
 b_qastal,b_qastal_adj,,
 c_az_zarqa,PROV714,,Azraq
-c_az_zarqa,c_az_zarqa,,
 c_az_zarqa,c_az_zarqa_adj,,Az Zarqan
 c_az_zarqa,greek,,Basienis
 c_az_zarqa,c_az_zarqa_adj_greek,,Basienan
@@ -371,7 +358,6 @@ b_kharana,b_kharana_adj,,
 b_amrah,b_amrah,,Qasr Amra
 b_amrah,b_amrah_adj,,
 c_madaba,PROV723,,Jarash
-c_madaba,c_madaba,,
 c_madaba,c_madaba_adj,,Madaban
 c_madaba,frankish,,Gerasa
 c_madaba,c_madaba_adj_frankish,,Gerasan
@@ -431,7 +417,6 @@ d_jerusalem,tagelmust,,Filastin
 d_jerusalem,tuareg,,Filastin
 d_jerusalem,zanata,,Filastin
 c_jerusalem,PROV774,,Jérusalem
-c_jerusalem,c_jerusalem,,
 c_jerusalem,c_jerusalem_adj,,Jerusalemite
 c_jerusalem,andalusian_arabic,,Al-Quds
 c_jerusalem,c_jerusalem_adj_andalusian_arabic,,Qudsian
@@ -507,7 +492,6 @@ b_saintsamuel,b_saintsamuel,,St-Samuel
 b_saintsamuel,b_saintsamuel_adj,,
 b_saintsamuel,greek,,Monì tìs Agios Samuel
 c_beersheb,PROV779,,Naples
-c_beersheb,c_beersheb,,
 c_beersheb,c_beersheb_adj,,Beershebian
 c_beersheb,andalusian_arabic,,Nablus
 c_beersheb,c_beersheb_adj_andalusian_arabic,,Nablusi
@@ -549,7 +533,6 @@ b_jericho,roman,,Ierichó
 b_lafeve,b_lafeve,,La Feve
 b_lafeve,b_lafeve_adj,,
 c_hebron,PROV776,,St-Abraham
-c_hebron,c_hebron,,
 c_hebron,c_hebron_adj,,Hebronian
 c_hebron,andalusian_arabic,,El-Khail
 c_hebron,c_hebron_adj_andalusian_arabic,,Khailan
@@ -600,7 +583,6 @@ b_bethgibelin,b_bethgibelin_adj,,
 b_bethgibelin,greek,,Eleutheropolis
 b_bethgibelin,roman,,Eleutheropolis
 c_darum,PROV781,,Darom
-c_darum,c_darum,,
 c_darum,c_darum_adj,,Darumian
 b_darum,b_darum,,Darom
 b_darum,b_darum_adj,,
@@ -627,7 +609,6 @@ d_acre,tagelmust,,Akka
 d_acre,tuareg,,Akka
 d_acre,zanata,,Akka
 c_acre,PROV772,,Acre
-c_acre,c_acre,,
 c_acre,c_acre_adj,,Acrenian
 c_acre,andalusian_arabic,,Akka
 c_acre,c_acre_adj_andalusian_arabic,,Akkan
@@ -709,7 +690,6 @@ b_adelon,levantine_arabic,,Ad'loun
 b_adelon,maghreb_arabic,,Ad'loun
 b_adelon,sicilian_arabic,,Ad'loun
 c_tyrus,PROV771,,Sidon
-c_tyrus,c_tyrus,,
 c_tyrus,c_tyrus_adj,,Sidonian
 c_tyrus,andalusian_arabic,,Sayda
 c_tyrus,c_tyrus_adj_andalusian_arabic,,Saydan
@@ -765,7 +745,6 @@ b_schuf,levantine_arabic,,Chouf
 b_schuf,maghreb_arabic,,Chouf
 b_schuf,sicilian_arabic,,Chouf
 c_caesarea,PROV1260,,Caesarea
-c_caesarea,c_caesarea,,
 c_caesarea,c_caesarea_adj,,Caesarean
 c_caesarea,greek,,Parálios Kaisáreia
 c_caesarea,c_caesarea_adj_greek,,Kaisáreian
@@ -790,7 +769,6 @@ d_oultrejourdain,greek,,Palaestina Salutaris
 d_oultrejourdain,d_oultrejourdain_adj_greek,,Palaestinia Salutaran
 d_oultrejourdain,roman,,Palaestina Salutaris
 c_monreal,PROV778,,Monreal
-c_monreal,c_monreal,,
 c_monreal,c_monreal_adj,,Monrealian
 c_monreal,andalusian_arabic,,Shobak
 c_monreal,c_monreal_adj_andalusian_arabic,,Shobakian
@@ -834,7 +812,6 @@ b_alwuayra,b_alwuayra_adj,,
 b_petra,b_petra,,Sela
 b_petra,b_petra_adj,,
 c_petra,PROV722,,Elim
-c_petra,c_petra,,
 c_petra,c_petra_adj,,Petran
 c_petra,andalusian_arabic,,Aqabah
 c_petra,bedouin_arabic,,Aqabah
@@ -860,7 +837,6 @@ b_jordanaqba,sicilian_arabic,,Aqabah
 b_syrarandal,b_syrarandal,,Arandal
 b_syrarandal,b_syrarandal_adj,,
 c_kerak,PROV777,,Kerak
-c_kerak,c_kerak,,
 c_kerak,c_kerak_adj,,Kerakian
 c_kerak,andalusian_arabic,,Al-Karak
 c_kerak,bedouin_arabic,,Al-Karak
@@ -906,7 +882,6 @@ d_ascalon,d_ascalon,,Jaffa-Ascalon
 d_ascalon,d_ascalon_adj,,Jaffan
 d_ascalon,d_ascalon_adj_greek,,Ascalonian
 c_jaffa,PROV775,,Jaffa
-c_jaffa,c_jaffa,,
 c_jaffa,c_jaffa_adj,,Jaffan
 c_jaffa,greek,,Ioppa
 c_jaffa,c_jaffa_adj_greek,,Ioppan
@@ -924,7 +899,6 @@ b_mirabel,b_mirabel_adj,,
 b_beitdejan,b_beitdejan,,Casal Moein
 b_beitdejan,b_beitdejan_adj,,
 c_ascalon,PROV780,,Ascalon
-c_ascalon,c_ascalon,,
 c_ascalon,c_ascalon_adj,,Ascalonian
 c_ascalon,andalusian_arabic,,Asqalan
 c_ascalon,bedouin_arabic,,Asqalan
@@ -955,7 +929,6 @@ b_karatiyya,b_karatiyya_adj,,
 b_laforbie,b_laforbie,,La Forbie
 b_laforbie,b_laforbie_adj,,
 c_ibelin,PROV1262,,Ibelin
-c_ibelin,c_ibelin,,
 c_ibelin,c_ibelin_adj,,Orlando Bloom!!
 c_ibelin,greek,,Iamnia
 c_ibelin,c_ibelin_adj_greek,,Iamnian
@@ -1003,7 +976,6 @@ d_galilee,tuareg,,Al-Jalil
 d_galilee,zanata,,Al-Jalil
 d_galilee,short_name,,yes
 c_tiberias,PROV773,,Tiberias
-c_tiberias,c_tiberias,,
 c_tiberias,c_tiberias_adj,,Tiberian
 b_tiberias,b_tiberias,,Tiberias
 b_tiberias,b_tiberias_adj,,
@@ -1051,7 +1023,6 @@ b_nazareth,tagelmust,,An-Nasirah
 b_nazareth,tuareg,,An-Nasirah
 b_nazareth,zanata,,An-Nasirah
 c_beirut,PROV770,,Beirut
-c_beirut,c_beirut,,
 c_beirut,c_beirut_adj,,Beirutian
 c_beirut,greek,,Berytos
 c_beirut,c_beirut_adj_greek,,Berytan
@@ -1067,7 +1038,6 @@ b_chiyah,b_chiyah_adj,,
 b_choueir,b_choueir,,Choueir
 b_choueir,b_choueir_adj,,
 c_safed,PROV769,,Toron
-c_safed,c_safed,,
 c_safed,c_safed_adj,,Safedian
 c_safed,andalusian_arabic,,Safad
 c_safed,ashkenazi,,Tsfat
@@ -1165,7 +1135,6 @@ d_antioch,zanata,,Jund 'Awasim
 d_antioch,d_antioch_adj_zanata,,Awasiman
 d_antioch,short_name,,yes
 c_antiocheia,PROV764,,Antioch
-c_antiocheia,c_antiocheia,,
 c_antiocheia,c_antiocheia_adj,,Antiochian
 c_antiocheia,andalusian_arabic,,Antakiya
 c_antiocheia,c_antiocheia_adj_andalusian_arabic,,Antakiyan
@@ -1276,7 +1245,6 @@ b_artasium,maghreb_arabic,,Artah
 b_artasium,norman,,Artasia
 b_artasium,sicilian_arabic,,Artah
 c_hazart,PROV1236,,Hazart
-c_hazart,c_hazart,,
 c_hazart,c_hazart_adj,,Hazartian
 c_hazart,andalusian_arabic,,Azaz
 c_hazart,c_hazart_adj_andalusian_arabic,,Azazan
@@ -1317,7 +1285,6 @@ b_sarmada,b_sarmada_adj,,
 b_sarmada,frankish,,Samarta
 b_sarmada,norman,,Samarta
 c_saone,PROV968,,Saone
-c_saone,c_saone,,
 c_saone,c_saone_adj,,Saônan
 c_saone,andalusian_arabic,,al-Ladiqiya
 c_saone,c_saone_adj_andalusian_arabic,,Ladiqiyan
@@ -1369,7 +1336,6 @@ b_jabala,maghreb_arabic,,Gabla
 b_jabala,norman,,Gabula
 b_jabala,sicilian_arabic,,Gabla
 c_archa,PROV765,,Berzieh
-c_archa,c_archa,,
 c_archa,c_archa_adj,,Archan
 c_archa,andalusian_arabic,,Fâmieh
 c_archa,c_archa_adj_andalusian_arabic,,Fâmiean
@@ -1456,7 +1422,6 @@ d_tripoli,zanata,,Tarabulus
 d_tripoli,d_tripoli_adj_zanata,,Tarabulan
 d_tripoli,name_tier,,count
 c_tortosa,PROV766,,Tortosa
-c_tortosa,c_tortosa,,
 c_tortosa,c_tortosa_adj,,Tortosan
 c_tortosa,andalusian_arabic,,Antartus
 c_tortosa,c_tortosa_adj_andalusian_arabic,,Antartan
@@ -1523,7 +1488,6 @@ b_margat,levantine_arabic,,al-Marqab
 b_margat,maghreb_arabic,,al-Marqab
 b_margat,sicilian_arabic,,al-Marqab
 c_monferrand,PROV1244,,Monferrand
-c_monferrand,c_monferrand,,
 c_monferrand,c_monferrand_adj,,Monferrandan
 c_monferrand,andalusian_arabic,,Hisn -al Akrad
 c_monferrand,c_monferrand_adj_andalusian_arabic,,Hisn-al Akradan
@@ -1591,7 +1555,6 @@ b_krakdeschevaliers,tagelmust,,Hisn -al Akrad
 b_krakdeschevaliers,tuareg,,Hisn -al Akrad
 b_krakdeschevaliers,zanata,,Hisn -al Akrad
 c_masyaf,PROV1237,,Masyaf
-c_masyaf,c_masyaf,,
 c_masyaf,c_masyaf_adj,,Masyafan
 b_alkahf,b_alkahf,,Al Kahf
 b_alkahf,b_alkahf_adj,,
@@ -1600,7 +1563,6 @@ b_masyaf,b_masyaf_adj,,
 b_alqadamus,b_alqadamus,,Al-Qadamus
 b_alqadamus,b_alqadamus_adj,,
 c_tripoli,PROV767,,Tripoli
-c_tripoli,c_tripoli,,
 c_tripoli,c_tripoli_adj,,Tripolitanian
 c_tripoli,andalusian_arabic,,Tarabulus
 c_tripoli,c_tripoli_adj_andalusian_arabic,,Tarabulan
@@ -1678,7 +1640,6 @@ b_archa,levantine_arabic,,Arqa
 b_archa,maghreb_arabic,,Arqa
 b_archa,sicilian_arabic,,Arqa
 c_gibelet,PROV1245,,Gibelet
-c_gibelet,c_gibelet,,
 c_gibelet,c_gibelet_adj,,Gibletian
 c_gibelet,andalusian_arabic,,Jebail
 c_gibelet,c_gibelet_adj_andalusian_arabic,,Jebailan

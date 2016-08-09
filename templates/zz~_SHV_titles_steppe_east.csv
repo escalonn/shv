@@ -4,7 +4,6 @@ k_turkestan_west,k_turkestan_west_adj,,Aq Turkestání
 d_yaik,d_yaik,,Yaik
 d_yaik,d_yaik_adj,,Yaiki
 c_guryev,PROV618,,Saray-Jük
-c_guryev,c_guryev,,
 c_guryev,c_guryev_adj,,Atyrauer
 b_little_sarai,b_little_sarai,,Saray-Jük
 b_little_sarai,b_little_sarai_adj,,
@@ -13,7 +12,6 @@ b_little_sarai_aqtobe,b_little_sarai_aqtobe_adj,,
 b_atyrau,b_atyrau,,Atyrau
 b_atyrau,b_atyrau_adj,,
 c_yaik,PROV895,,Yaik
-c_yaik,c_yaik,,
 c_yaik,c_yaik_adj,,Yaikian
 b_yaik,b_yaik,,Yaik
 b_yaik,b_yaik_adj,,
@@ -22,7 +20,6 @@ b_illek,b_illek_adj,,
 b_utva,b_utva,,Shingirlau
 b_utva,b_utva_adj,,
 c_aqtobe,PROV896,,Op
-c_aqtobe,c_aqtobe,,
 c_aqtobe,c_aqtobe_adj,,Aqtobian
 b_or,b_or,,Op
 b_or,b_or_adj,,
@@ -31,31 +28,26 @@ b_emba,b_emba_adj,,
 d_ustyurt,d_ustyurt,,Ust-Yurt
 d_ustyurt,d_ustyurt_adj,,Ust-Yurt
 c_ustyurt,PROV625,,Ust-Yurt
-c_ustyurt,c_ustyurt,,
 c_ustyurt,c_ustyurt_adj,,
 b_ustyurt,b_ustyurt,,Ustyurt
 b_ustyurt,b_ustyurt_adj,,
 c_buzachi,PROV621,,Buzachi
-c_buzachi,c_buzachi,,
 c_buzachi,c_buzachi_adj,,
 b_koshagyl,b_koshagyl,,Koshagyl
 b_koshagyl,b_koshagyl_adj,,
 c_mangyshlak,PROV624,,Mangyshlak
-c_mangyshlak,c_mangyshlak,,
 c_mangyshlak,c_mangyshlak_adj,,Mangyshlakian
 b_zhetybay,b_zhetybay,,Zhetybay
 b_zhetybay,b_zhetybay_adj,,
 b_munayshi,b_munayshi,,Munayshi
 b_munayshi,b_munayshi_adj,,
 c_karasu,PROV1549,,Karasu
-c_karasu,c_karasu,,
 c_karasu,c_karasu_adj,,
 b_karasu,b_karasu,,Karasu
 b_karasu,b_karasu_adj,,
 d_dasht-i-qipchaq,d_dasht-i-qipchaq,,Dasht-e-Qipchaq
 d_dasht-i-qipchaq,d_dasht-i-qipchaq_adj,,Dasht-e-Qipchaqí
 c_balkhash,PROV1579,,Balkhash
-c_balkhash,c_balkhash,,
 c_balkhash,c_balkhash_adj,,Balkhashi
 b_balqash,b_balqash,,Balqash
 b_balqash,b_balqash_adj,,
@@ -64,7 +56,6 @@ b_gulshat,b_gulshat_adj,,
 b_saryshagan,b_saryshagan,,Saryshagan
 b_saryshagan,b_saryshagan_adj,,
 c_sarisu,PROV887,,Sarisu
-c_sarisu,c_sarisu,,
 c_sarisu,c_sarisu_adj,,
 b_sarisu,b_sarisu,,Sarisu
 b_sarisu,b_sarisu_adj,,
@@ -73,7 +64,6 @@ b_karsakbay,b_karsakbay_adj,,
 b_zhezdi_sarisu,b_zhezdi_sarisu,,Zhezdi
 b_zhezdi_sarisu,b_zhezdi_sarisu_adj,,
 c_turgay,PROV893,,Turgay
-c_turgay,c_turgay,,
 c_turgay,c_turgay_adj,,Turgay
 c_turgay,mongol,,Turgay
 c_turgay,oghuz,,Turgay
@@ -84,12 +74,10 @@ b_aralsulfat,b_aralsulfat_adj,,
 b_turgay,b_turgay,,Turgay
 b_turgay,b_turgay_adj,,
 c_irgiz,PROV897,,Irgiz
-c_irgiz,c_irgiz,,
 c_irgiz,c_irgiz_adj,,
 b_irgiz,b_irgiz,,Irgiz
 b_irgiz,b_irgiz_adj,,
 c_sibir,PROV898,,Tobol
-c_sibir,c_sibir,,
 c_sibir,c_sibir_adj,,Sibirian
 b_tobol,b_tobol,,Tobol
 b_tobol,b_tobol_adj,,
@@ -100,7 +88,6 @@ b_kostanay,b_kostanay_adj,,
 d_jand,d_jand,,Jand
 d_jand,d_jand_adj,,Jandí
 c_jand,PROV900,,Jand
-c_jand,c_jand,,
 c_jand,c_jand_adj,,
 b_jand,b_jand,,Jand
 b_jand,b_jand_adj,,
@@ -113,7 +100,6 @@ b_dihinaw,b_dihinaw_adj,,
 b_kyzylorda,b_kyzylorda,,Kyzylorda
 b_kyzylorda,b_kyzylorda_adj,,
 c_sighnaq,PROV622,,Sighnaq
-c_sighnaq,c_sighnaq,,
 c_sighnaq,c_sighnaq_adj,,
 b_sighnaq,b_sighnaq,,Sighnáq
 b_sighnaq,b_sighnaq_adj,,
@@ -126,7 +112,6 @@ b_shavgar,b_shavgar_adj,,
 d_zhetysu,d_zhetysu,,Zhetisu
 d_zhetysu,d_zhetysu_adj,,Zhetisu
 c_yeti-su,PROV1573,,Yetisu
-c_yeti-su,c_yeti-su,,
 c_yeti-su,c_yeti-su_adj,,
 b_qayaliq,b_qayaliq,,Qayaliq
 b_qayaliq,b_qayaliq_adj,,
@@ -135,7 +120,6 @@ b_illbaliq,b_illbaliq_adj,,
 b_sarqand,b_sarqand,,Sarqand
 b_sarqand,b_sarqand_adj,,
 c_almaliq,PROV1571,,Yulduz
-c_almaliq,c_almaliq,,
 c_almaliq,c_almaliq_adj,,
 b_illi,b_illi,,Illi
 b_illi,b_illi_adj,,
@@ -144,7 +128,6 @@ b_almaliq,b_almaliq_adj,,
 b_pulad,b_pulad,,Pulád
 b_pulad,b_pulad_adj,,
 c_barskhan,PROV1577,,Barskhan
-c_barskhan,c_barskhan,,
 c_barskhan,c_barskhan_adj,,
 b_barskhan,b_barskhan,,Barskhan
 b_barskhan,b_barskhan_adj,,
@@ -153,7 +136,6 @@ b_karakol,b_karakol_adj,,
 b_arshatu,b_arshatu,,Arhsatu
 b_arshatu,b_arshatu_adj,,
 c_balasaghnun,PROV1572,,Balasaghun
-c_balasaghnun,c_balasaghnun,,
 c_balasaghnun,c_balasaghnun_adj,,
 c_balasaghnun,mongol,,Gobalik
 b_suyab,b_suyab,,Suyab
@@ -166,7 +148,6 @@ b_nevaket,b_nevaket_adj,,
 b_toqmaq,b_toqmaq,,Quz Ordu
 b_toqmaq,b_toqmaq_adj,,
 c_talas,PROV1563,,Talas
-c_talas,c_talas,,
 c_talas,c_talas_adj,,
 b_talas_talas,b_talas_talas,,Talas
 b_talas_talas,b_talas_talas_adj,,
@@ -177,14 +158,12 @@ b_chigil,b_chigil_adj,,
 d_ayaguz,d_ayaguz,,Ayaguz
 d_ayaguz,d_ayaguz_adj,,Ayaguzí
 c_ayaguz,PROV1576,,Ayaguz
-c_ayaguz,c_ayaguz,,
 c_ayaguz,c_ayaguz_adj,,
 b_ayaguz,b_ayaguz,,Ayaguz
 b_ayaguz,b_ayaguz_adj,,
 b_karasu_ayaguz,b_karasu_ayaguz,,Karasu
 b_karasu_ayaguz,b_karasu_ayaguz_adj,,
 c_emil,PROV1574,,Emil
-c_emil,c_emil,,
 c_emil,c_emil_adj,,
 b_emil,b_emil,,Emil
 b_emil,b_emil_adj,,
@@ -193,7 +172,6 @@ b_yamalu,b_yamalu_adj,,
 b_urzhar,b_urzhar,,Urzhar
 b_urzhar,b_urzhar_adj,,
 c_zaysan,PROV1575,,Zaysan
-c_zaysan,c_zaysan,,
 c_zaysan,c_zaysan_adj,,
 b_zaysan,b_zaysan,,Zaysan
 b_zaysan,b_zaysan_adj,,

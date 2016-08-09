@@ -2,7 +2,6 @@
 d_brabant,d_brabant,,Brabant
 d_brabant,d_brabant_adj,,Brabantian
 c_brabant,PROV117,,Leuven
-c_brabant,c_brabant,,
 c_brabant,c_brabant_adj,,Brabantian
 c_brabant,dutch,,Leuven
 c_brabant,frankish,,Louvain
@@ -24,7 +23,6 @@ b_aarschot,dutch,,Aarschot
 b_aarschot,frankish,,Aerschot
 b_aarschot,german,,Aarschot
 c_brussel,PROV1019,,Brussel
-c_brussel,c_brussel,,
 c_brussel,c_brussel_adj,,Brussel
 c_brussel,dutch,,Broekzele
 c_brussel,frankish,,Bruxelles
@@ -50,7 +48,6 @@ b_brussel,dutch,,Brussel
 b_brussel,frankish,,Bruxelles
 b_brussel,german,,Brüssel
 c_breda,PROV92,,Antwerp
-c_breda,c_breda,,
 c_breda,c_breda_adj,,Bredian
 c_breda,dutch,,Antwerpen
 c_breda,frankish,,Anvers
@@ -77,7 +74,6 @@ b_bergenopzoom,b_bergenopzoom,,Bergenopzoom
 b_bergenopzoom,b_bergenopzoom_adj,,
 b_bergenopzoom,frankish,,Berg-op-Zoom
 c_namur,PROV1056,,Namur
-c_namur,c_namur,,
 c_namur,c_namur_adj,,Namurische
 c_namur,dutch,,Namen
 c_namur,german,,Namür
@@ -95,7 +91,6 @@ d_hainaut,dutch,,Henegouwen
 d_hainaut,german,,Hennegau
 d_hainaut,name_tier,,count
 c_hainaut,PROV94,,Mons
-c_hainaut,c_hainaut,,
 c_hainaut,c_hainaut_adj,,Hainautian
 c_hainaut,dutch,,Bergen
 c_hainaut,german,,Bergen
@@ -118,7 +113,6 @@ b_enghien,b_enghien,,Enghien
 b_enghien,b_enghien_adj,,
 b_enghien,dutch,,Edingen
 c_valenciennes,PROV1022,,Valenciennes
-c_valenciennes,c_valenciennes,,
 c_valenciennes,c_valenciennes_adj,,Valenciennes
 c_valenciennes,dutch,,Valencijn
 b_valenciennes,b_valenciennes,,Valenciennes
@@ -134,7 +128,6 @@ b_maubeuge,b_maubeuge,,Maubeuge
 b_maubeuge,b_maubeuge_adj,,
 b_maubeuge,dutch,,Mabuse
 c_cambrai,PROV1024,,Cambrai
-c_cambrai,c_cambrai,,
 c_cambrai,c_cambrai_adj,,Cambrai
 c_cambrai,dutch,,Kamerijk
 c_cambrai,german,,Kamerich
@@ -156,7 +149,6 @@ d_arles,d_arles_adj,,Arlésien
 d_arles,greek,,Arelate
 d_arles,roman,,Arelate
 c_arles,PROV1047,,Arle
-c_arles,c_arles,,
 c_arles,c_arles_adj,,Arles
 c_arles,greek,,Arelate
 c_arles,roman,,Arelate
@@ -172,7 +164,6 @@ d_provence,d_provence,,Provença
 d_provence,d_provence_adj,,Provençal
 d_provence,name_tier,,count
 c_provence,PROV221,,Provence
-c_provence,c_provence,,
 c_provence,c_provence_adj,,Provencal
 c_provence,greek,,Massalia
 c_provence,roman,,Massilia
@@ -195,7 +186,6 @@ b_grasse,b_grasse_adj,,
 b_castellane,b_castellane,,Castellane
 b_castellane,b_castellane_adj,,
 c_forcalquier,PROV229,,Auta Provença
-c_forcalquier,c_forcalquier,,
 c_forcalquier,c_forcalquier_adj,,Haute Provence
 b_forcalquier,b_forcalquier,,Forcalquier
 b_forcalquier,b_forcalquier_adj,,
@@ -208,7 +198,6 @@ b_sault,b_sault_adj,,
 b_digne,b_digne,,Dihna
 b_digne,b_digne_adj,,
 c_nice,PROV230,,Nissa
-c_nice,c_nice,,
 c_nice,c_nice_adj,,Niçois
 c_nice,greek,,Antipolis
 c_nice,roman,,Antipolis
@@ -225,7 +214,6 @@ b_lantosque,b_lantosque_adj,,
 b_contes,b_contes,,Contes
 b_contes,b_contes_adj,,
 c_venaissin,PROV222,,Venaissin
-c_venaissin,c_venaissin,,
 c_venaissin,c_venaissin_adj,,Venaissinian
 c_venaissin,greek,,Auenion
 c_venaissin,roman,,Avenio
@@ -244,7 +232,6 @@ b_carpentras,b_carpentras_adj,,
 b_stpaul,b_stpaul,,St. Paul
 b_stpaul,b_stpaul_adj,,
 c_viviers,PROV223,,Vivarés
-c_viviers,c_viviers,,
 c_viviers,c_viviers_adj,,Vivieran
 b_aubenas,b_aubenas,,Aubenàs
 b_aubenas,b_aubenas_adj,,
@@ -259,7 +246,6 @@ d_lyon,d_lyon_adj,,Lyonnaise
 d_lyon,greek,,Lougdounon
 d_lyon,roman,,Lugdunum
 c_lyon,PROV227,,Lyon
-c_lyon,c_lyon,,
 c_lyon,c_lyon_adj,,Lyonnais
 c_lyon,greek,,Lougdounon
 c_lyon,roman,,Lugdunum
@@ -278,7 +264,6 @@ b_pusignan,b_pusignan_adj,,
 d_dauphine,d_dauphine,,Dauphiné
 d_dauphine,d_dauphine_adj,,Dauphinian
 c_dauphine_viennois,PROV228,,Viennois
-c_dauphine_viennois,c_dauphine_viennois,,
 c_dauphine_viennois,c_dauphine_viennois_adj,,Viennois
 c_dauphine_viennois,greek,,Ouienna
 c_dauphine_viennois,roman,,Vienna
@@ -295,7 +280,6 @@ b_chateaudeclermont,roman,,Augustonemetum
 b_chateaudefallavier,b_chateaudefallavier,,Fallavier
 b_chateaudefallavier,b_chateaudefallavier_adj,,
 c_valentinois,PROV1252,,Valentinois
-c_valentinois,c_valentinois,,
 c_valentinois,c_valentinois_adj,,Valentinois
 c_valentinois,greek,,Oualentia
 c_valentinois,roman,,Valentia
@@ -310,7 +294,6 @@ b_stantoine,b_stantoine_adj,,
 b_die,b_die,,Diá
 b_die,b_die_adj,,
 c_gapencais,PROV1049,,Gapençais
-c_gapencais,c_gapencais,,
 c_gapencais,c_gapencais_adj,,Gapençais
 c_gapencais,greek,,Vappincum
 c_gapencais,roman,,Vappincum
@@ -325,7 +308,6 @@ b_briancon,b_briancon_adj,,
 b_stbonnet,b_stbonnet,,Saint Bonnet
 b_stbonnet,b_stbonnet_adj,,
 c_graisivaudan,PROV1048,,Graisivaudan
-c_graisivaudan,c_graisivaudan,,
 c_graisivaudan,c_graisivaudan_adj,,Graisivaudan
 c_graisivaudan,greek,,Gratianopolis
 c_graisivaudan,roman,,Gratianopolis
@@ -346,7 +328,6 @@ d_brittany,d_brittany,,Breizh
 d_brittany,d_brittany_adj,,Brezhoneg
 d_brittany,norse,,Bertangaland
 c_vannes,PROV105,,Gwened
-c_vannes,c_vannes,,
 c_vannes,c_vannes_adj,,Vannesian
 c_vannes,greek,,Darioriton
 c_vannes,roman,,Darioritum
@@ -361,7 +342,6 @@ b_locmine,b_locmine_adj,,
 b_hennebont,b_hennebont,,Hennebont
 b_hennebont,b_hennebont_adj,,
 c_cornouaille,PROV104,,Gernev
-c_cornouaille,c_cornouaille,,
 c_cornouaille,c_cornouaille_adj,,Cornouaillian
 c_cornouaille,greek,,Ouorgion
 c_cornouaille,roman,,Vorgium
@@ -378,7 +358,6 @@ b_landevennec,b_landevennec_adj,,
 b_langonnet,b_langonnet,,Langonnet
 b_langonnet,b_langonnet_adj,,
 c_french_leon,PROV103,,Leon
-c_french_leon,c_french_leon,,
 c_french_leon,c_french_leon_adj,,Leonian
 c_french_leon,greek,,Gesocribate
 c_french_leon,roman,,Gesocribate
@@ -393,7 +372,6 @@ b_plougonven,b_plougonven_adj,,
 b_st_meen,b_st_meen,,Saint-Méen
 b_st_meen,b_st_meen_adj,,
 c_nantes,PROV106,,Naoned
-c_nantes,c_nantes,,
 c_nantes,c_nantes_adj,,Nantesian
 c_nantes,greek,,Portus Namnetum
 c_nantes,roman,,Portus Namnetum
@@ -412,7 +390,6 @@ b_clisson,b_clisson_adj,,
 b_donges,b_donges,,Donges
 b_donges,b_donges_adj,,
 c_penthievre,PROV102,,Turnagoued
-c_penthievre,c_penthievre,,
 c_penthievre,c_penthievre_adj,,Penthièvrian
 b_verdelet,b_verdelet,,Verdelet
 b_verdelet,b_verdelet_adj,,
@@ -423,7 +400,6 @@ b_monkontour,b_monkontour_adj,,
 b_paimpol,b_paimpol,,Paimpol
 b_paimpol,b_paimpol_adj,,
 c_tregor,PROV1248,,Trégor
-c_tregor,c_tregor,,
 c_tregor,c_tregor_adj,,Trégorian
 b_morlaix,b_morlaix,,Montroulez
 b_morlaix,b_morlaix_adj,,
@@ -434,7 +410,6 @@ b_guingamp,b_guingamp_adj,,
 b_chatelaudren,b_chatelaudren,,Châtelaudren
 b_chatelaudren,b_chatelaudren_adj,,
 c_rennes,PROV101,,Roazhon
-c_rennes,c_rennes,,
 c_rennes,c_rennes_adj,,Rennesian
 c_rennes,greek,,Kondate
 c_rennes,roman,,Condate Redonum
@@ -449,7 +424,6 @@ b_st_michel,b_st_michel_adj,,
 b_vitre,b_vitre,,Gwitreg
 b_vitre,b_vitre_adj,,
 c_porhoet,PROV1175,,Porhoët
-c_porhoet,c_porhoet,,
 c_porhoet,c_porhoet_adj,,Porhoët
 b_cancale,b_cancale,,Konkaven
 b_cancale,b_cancale_adj,,
@@ -475,7 +449,6 @@ d_flanders,d_flanders,,Flanders
 d_flanders,d_flanders_adj,,Flemish
 d_flanders,name_tier,,count
 c_gent,PROV93,,Gent
-c_gent,c_gent,,
 c_gent,c_gent_adj,,Gentian
 b_gent,b_gent,,Gent
 b_gent,b_gent_adj,,
@@ -491,7 +464,6 @@ b_saintbavo,b_saintbavo,,Sint-Baafs
 b_saintbavo,b_saintbavo_adj,,
 b_saintbavo,dutch,,Sint Baafs
 c_lille,PROV1179,,Rijsel
-c_lille,c_lille,,
 c_lille,c_lille_adj,,Lillian
 c_lille,dutch,,Rijsel
 b_kortrijk,b_kortrijk,,Kortrijk
@@ -505,7 +477,6 @@ b_mouscron,b_mouscron,,Moeskroen
 b_mouscron,b_mouscron_adj,,
 b_mouscron,dutch,,Moeskroen
 c_tournai,PROV1178,,Doornik
-c_tournai,c_tournai,,
 c_tournai,c_tournai_adj,,Tournaian
 c_tournai,dutch,,Doornik
 c_tournai,greek,,Turnacum
@@ -522,7 +493,6 @@ b_orchies,b_orchies,,Orchies
 b_orchies,b_orchies_adj,,
 b_orchies,dutch,,Oorschie
 c_yperen,PROV76,,Yperen
-c_yperen,c_yperen,,
 c_yperen,c_yperen_adj,,Yperenian
 c_yperen,dutch,,Ieper
 b_ypres,b_ypres,,Ypres
@@ -538,7 +508,6 @@ b_roeselare,b_roeselare_adj,,
 b_poperinge,b_poperinge,,Poperinge
 b_poperinge,b_poperinge_adj,,
 c_brugge,PROV78,,Brugge
-c_brugge,c_brugge,,
 c_brugge,c_brugge_adj,,Bruggian
 b_brugge,b_brugge,,Brugge
 b_brugge,b_brugge_adj,,
@@ -558,7 +527,6 @@ d_artois,d_artois,,Artois
 d_artois,d_artois_adj,,Artoisien
 d_artois,dutch,,Artesië
 c_artois,PROV77,,Artois
-c_artois,c_artois,,
 c_artois,c_artois_adj,,Artois
 c_artois,dutch,,Artesië
 b_arras,b_arras,,Arras
@@ -576,7 +544,6 @@ b_therouanne,b_therouanne,,Therouanne
 b_therouanne,b_therouanne_adj,,
 b_therouanne,dutch,,Terwaan
 c_boulogne,PROV75,,Boulogne
-c_boulogne,c_boulogne,,
 c_boulogne,c_boulogne_adj,,Boulognian
 c_boulogne,dutch,,Bonen
 b_boulogne,b_boulogne,,Boulogne
@@ -592,7 +559,6 @@ b_saintwulmer,b_saintwulmer,,Saint-Wulmer
 b_saintwulmer,b_saintwulmer_adj,,
 b_saintwulmer,dutch,,Sint Wulmar
 c_saintpol,PROV1180,,Saint- Pol
-c_saintpol,c_saintpol,,
 c_saintpol,c_saintpol_adj,,Saint-Polan
 c_saintpol,dutch,,Ternas
 b_auchyleshesdin,b_auchyleshesdin,,Auchy
@@ -606,7 +572,6 @@ b_hesdin,dutch,,Heusden
 b_auxilechateau,b_auxilechateau,,Auxi-le-Château
 b_auxilechateau,b_auxilechateau_adj,,
 c_ponthieu,PROV1170,,Ponthieu
-c_ponthieu,c_ponthieu,,
 c_ponthieu,c_ponthieu_adj,,Ponthieu
 b_montreuil,b_montreuil,,Montreuil
 b_montreuil,b_montreuil_adj,,
@@ -619,7 +584,6 @@ b_saintriquier,b_saintriquier_adj,,
 b_crecyenponthieu,b_crecyenponthieu,,Crécy
 b_crecyenponthieu,b_crecyenponthieu_adj,,
 c_guines,PROV74,,Guines
-c_guines,c_guines,,
 c_guines,c_guines_adj,,Guinesian
 c_guines,dutch,,Giezene
 b_guines,b_guines,,Guines
@@ -637,7 +601,6 @@ b_bourbourg,dutch,,Broekburg
 d_burgundy,d_burgundy,,Bourgogne
 d_burgundy,d_burgundy_adj,,Bourguigon
 c_dijon,PROV136,,Dijon
-c_dijon,c_dijon,,
 c_dijon,c_dijon_adj,,Dijonian
 b_gevrey,b_gevrey,,Gevrey
 b_gevrey,b_gevrey_adj,,
@@ -654,7 +617,6 @@ b_citeaux,b_citeaux_adj,,
 b_beaune,b_beaune,,Beaune
 b_beaune,b_beaune_adj,,
 c_auxois,PROV1159,,Auxois
-c_auxois,c_auxois,,
 c_auxois,c_auxois_adj,,Auxois
 b_semur,b_semur,,Semur
 b_semur,b_semur_adj,,
@@ -665,7 +627,6 @@ b_arnay,b_arnay_adj,,
 b_saulieu,b_saulieu,,Saulieu
 b_saulieu,b_saulieu_adj,,
 c_macon,PROV225,,Mâcon
-c_macon,c_macon,,
 c_macon,c_macon_adj,,Maconian
 b_fuisse,b_fuisse,,Fuissé
 b_fuisse,b_fuisse_adj,,
@@ -676,7 +637,6 @@ b_cluny,b_cluny_adj,,
 b_beaujeu,b_beaujeu,,Beaujeu
 b_beaujeu,b_beaujeu_adj,,
 c_charolais,PROV226,,Charolais
-c_charolais,c_charolais,,
 c_charolais,c_charolais_adj,,Charolaian
 b_montstvincent,b_montstvincent,,Mont-St Vincent
 b_montstvincent,b_montstvincent_adj,,
@@ -687,7 +647,6 @@ b_semurenbrionnais,b_semurenbrionnais_adj,,
 b_perrecy,b_perrecy,,Perrecy
 b_perrecy,b_perrecy_adj,,
 c_chalons,PROV240,,Chalons
-c_chalons,c_chalons,,
 c_chalons,c_chalons_adj,,Chalonnianj
 b_brancion,b_brancion,,Brancion
 b_brancion,b_brancion_adj,,
@@ -702,7 +661,6 @@ b_seurre,b_seurre_adj,,
 d_bourbon,d_bourbon,,Bourbon
 d_bourbon,d_bourbon_adj,,Bourbon
 c_bourbon,PROV146,,Bourbon
-c_bourbon,c_bourbon,,
 c_bourbon,c_bourbon_adj,,Bourbon
 b_bourbon,b_bourbon,,Bourbon
 b_bourbon,b_bourbon_adj,,
@@ -715,7 +673,6 @@ b_montlucon,b_montlucon_adj,,
 b_souvigny,b_souvigny,,Souvigny
 b_souvigny,b_souvigny_adj,,
 c_forez,PROV224,,Forez
-c_forez,c_forez,,
 c_forez,c_forez_adj,,Forezian
 b_couzan,b_couzan,,Couzan
 b_couzan,b_couzan_adj,,
@@ -730,7 +687,6 @@ b_charlieu,b_charlieu_adj,,
 d_anjou,d_anjou,,Anjou
 d_anjou,d_anjou_adj,,Angevin
 c_anjou,PROV107,,Anjou
-c_anjou,c_anjou,,
 c_anjou,c_anjou_adj,,Angevin
 c_anjou,greek,,Iouliomagos
 c_anjou,roman,,Iuliomagus
@@ -747,7 +703,6 @@ b_saumur,b_saumur_adj,,
 b_cholet,b_cholet,,Cholet
 b_cholet,b_cholet_adj,,
 c_maine,PROV108,,Maine
-c_maine,c_maine,,
 c_maine,c_maine_adj,,Mainian
 c_maine,greek,,Ouindinon
 c_maine,roman,,Vindunum
@@ -764,7 +719,6 @@ b_mayenne,b_mayenne_adj,,
 b_laval,b_laval,,Laval
 b_laval,b_laval_adj,,
 c_tourraine,PROV140,,Tours
-c_tourraine,c_tourraine,,
 c_tourraine,c_tourraine_adj,,Tourrainian
 b_chinon,b_chinon,,Chinon
 b_chinon,b_chinon_adj,,
@@ -775,7 +729,6 @@ b_beaulieu,b_beaulieu_adj,,
 b_amboise,b_amboise,,Amboise
 b_amboise,b_amboise_adj,,
 c_vendome,PROV109,,Vendôme
-c_vendome,c_vendome,,
 c_vendome,c_vendome_adj,,Vendomian
 b_lavardin,b_lavardin,,Lavardin
 b_lavardin,b_lavardin_adj,,
@@ -796,7 +749,6 @@ d_normandy,frankish,,Normandie
 d_normandy,norman,,Nourmaundie
 d_normandy,saxon,,Normandig
 c_evreux,PROV99,,Évreux
-c_evreux,c_evreux,,
 c_evreux,c_evreux_adj,,Evreuxian
 b_evreux,b_evreux,,Évreux
 b_evreux,b_evreux_adj,,
@@ -811,7 +763,6 @@ b_honfleur,b_honfleur_adj,,
 b_ivry,b_ivry,,Ivry
 b_ivry,b_ivry_adj,,
 c_avranches,PROV100,,Avranches
-c_avranches,c_avranches,,
 c_avranches,c_avranches_adj,,Avranchesian
 c_avranches,greek,,Ingena
 c_avranches,roman,,Ingena
@@ -824,7 +775,6 @@ b_percy,b_percy_adj,,
 b_granville,b_granville,,Roque de Lihou
 b_granville,b_granville_adj,,
 c_mortain,PROV1256,,Mortain
-c_mortain,c_mortain,,
 c_mortain,c_mortain_adj,,Mortain
 b_abbayedelonlay,b_abbayedelonlay,,Abbaye de Lonlay
 b_abbayedelonlay,b_abbayedelonlay_adj,,
@@ -833,7 +783,6 @@ b_mortain,b_mortain_adj,,
 b_domfront,b_domfront,,Domfront
 b_domfront,b_domfront_adj,,
 c_bayeux,PROV1172,,Bayeux
-c_bayeux,c_bayeux,,
 c_bayeux,c_bayeux_adj,,Bayeuxan
 c_bayeux,greek,,Baiocassion
 c_bayeux,roman,,Baiocassium
@@ -852,7 +801,6 @@ b_saintmartindemondaye,b_saintmartindemondaye_adj,,
 b_vire,b_vire,,Vire
 b_vire,b_vire_adj,,
 c_coustance,PROV1173,,Cherbourg
-c_coustance,c_coustance,,
 c_coustance,c_coustance_adj,,Coustancean
 c_coustance,greek,,Konstantia
 c_coustance,roman,,Constantia
@@ -871,7 +819,6 @@ b_cherbourg,b_cherbourg_adj,,
 b_cherbourg,greek,,Coriallon
 b_cherbourg,roman,,Coriallum
 c_vexin,PROV98,,Vexin
-c_vexin,c_vexin,,
 c_vexin,c_vexin_adj,,Vexinian
 b_andely,b_andely,,Andely
 b_andely,b_andely_adj,,
@@ -882,7 +829,6 @@ b_abbayedemortemer,b_abbayedemortemer_adj,,
 b_neauflessaintmartin,b_neauflessaintmartin,,Neaufles
 b_neauflessaintmartin,b_neauflessaintmartin_adj,,
 c_arques,PROV97,,Rouen
-c_arques,c_arques,,
 c_arques,c_arques_adj,,Arquesian
 b_fecamp,b_fecamp,,Fecamp
 b_fecamp,b_fecamp_adj,,
@@ -899,7 +845,6 @@ b_jumieges,b_jumieges_adj,,
 b_longueville,b_longueville,,Longueville
 b_longueville,b_longueville_adj,,
 c_eu,PROV96,,Eu
-c_eu,c_eu,,
 c_eu,c_eu_adj,,Euian
 b_eu,b_eu,,Eu
 b_eu,b_eu_adj,,
@@ -910,7 +855,6 @@ b_forges,b_forges_adj,,
 d_alencon,d_alencon,,Alençon
 d_alencon,d_alencon_adj,,Alençonne
 c_alencon,PROV1171,,Alençon
-c_alencon,c_alencon,,
 c_alencon,c_alencon_adj,,Alenconan
 b_alencon,b_alencon,,Alençon
 b_alencon,b_alencon_adj,,
@@ -921,7 +865,6 @@ b_sees,b_sees_adj,,
 b_saintgeorgesdannebecq,b_saintgeorgesdannebecq,,Anslebec
 b_saintgeorgesdannebecq,b_saintgeorgesdannebecq_adj,,
 c_perche,PROV1163,,Perche
-c_perche,c_perche,,
 c_perche,c_perche_adj,,Perche
 b_nogentlerotrou,b_nogentlerotrou,,Nogent-Le-Rotrou
 b_nogentlerotrou,b_nogentlerotrou_adj,,
@@ -932,7 +875,6 @@ b_authon,b_authon_adj,,
 b_senonche,b_senonche,,Senonche
 b_senonche,b_senonche_adj,,
 c_dreux,PROV1174,,Dreux
-c_dreux,c_dreux,,
 c_dreux,c_dreux_adj,,Dreuxan
 b_montfortlamaury,b_montfortlamaury,,Montfort
 b_montfortlamaury,b_montfortlamaury_adj,,
@@ -945,7 +887,6 @@ b_brezolles,b_brezolles_adj,,
 d_orleans,d_orleans,,Orleans
 d_orleans,d_orleans_adj,,Orleanaise
 c_orleans,PROV138,,Orléans
-c_orleans,c_orleans,,
 c_orleans,c_orleans_adj,,Orleanian
 c_orleans,greek,,Kenabon
 c_orleans,roman,,Cenabum
@@ -962,7 +903,6 @@ b_sully,b_sully_adj,,
 b_jargeau,b_jargeau,,Jargeau
 b_jargeau,b_jargeau_adj,,
 c_gatinas,PROV1189,,Gâtinais
-c_gatinas,c_gatinas,,
 c_gatinas,c_gatinas_adj,,Gâtinais
 b_montargis,b_montargis,,Montargis
 b_montargis,b_montargis_adj,,
@@ -976,7 +916,6 @@ d_blois,d_blois,,Blois
 d_blois,d_blois_adj,,Blésois
 d_blois,name_tier,,count
 c_chartres,PROV111,,Chartres
-c_chartres,c_chartres,,
 c_chartres,c_chartres_adj,,Chartresian
 b_chartres,b_chartres,,Chartres
 b_chartres,b_chartres_adj,,
@@ -987,7 +926,6 @@ b_tiron,b_tiron_adj,,
 b_sours,b_sours,,Sours
 b_sours,b_sours_adj,,
 c_blois,PROV110,,Blois
-c_blois,c_blois,,
 c_blois,c_blois_adj,,Bloisian
 b_bourgmoyen,b_bourgmoyen,,Bourgmoyen
 b_bourgmoyen,b_bourgmoyen_adj,,
@@ -998,7 +936,6 @@ b_staignan,b_staignan_adj,,
 b_romorantin,b_romorantin,,Romorantin
 b_romorantin,b_romorantin_adj,,
 c_chateaudun,PROV1186,,Chateaudun
-c_chateaudun,c_chateaudun,,
 c_chateaudun,c_chateaudun_adj,,Chateaudun
 b_chateaudun,b_chateaudun,,Châteaudun
 b_chateaudun,b_chateaudun_adj,,
@@ -1009,7 +946,6 @@ b_bonneval,b_bonneval_adj,,
 d_berry,d_berry,,Berry
 d_berry,d_berry_adj,,Berrian
 c_bourges,PROV139,,Bourges
-c_bourges,c_bourges,,
 c_bourges,c_bourges_adj,,Bourges
 c_bourges,greek,,Avaricum
 c_bourges,roman,,Avaricum
@@ -1028,7 +964,6 @@ b_chateauroux,b_chateauroux_adj,,
 b_deols,b_deols,,Déols
 b_deols,b_deols_adj,,
 c_sancerre,PROV1160,,Sancerre
-c_sancerre,c_sancerre,,
 c_sancerre,c_sancerre_adj,,Sancerre
 b_sancerre,b_sancerre,,Sancerre
 b_sancerre,b_sancerre_adj,,
@@ -1040,7 +975,6 @@ d_nevers,d_nevers,,Nevers
 d_nevers,d_nevers_adj,,Nivernais
 d_nevers,name_tier,,count
 c_nevers,PROV137,,Nevers
-c_nevers,c_nevers,,
 c_nevers,c_nevers_adj,,Neverian
 c_nevers,greek,,Nevirnum
 c_nevers,roman,,Nevirnum
@@ -1055,7 +989,6 @@ b_donzy,b_donzy_adj,,
 b_clamecy,b_clamecy,,Clamecy
 b_clamecy,b_clamecy_adj,,
 c_tonnerre,PROV1164,,Tonnerre
-c_tonnerre,c_tonnerre,,
 c_tonnerre,c_tonnerre_adj,,Tonnerre
 b_chablis,b_chablis,,Chablis
 b_chablis,b_chablis_adj,,
@@ -1066,7 +999,6 @@ b_saintflorentin,b_saintflorentin_adj,,
 b_noyers,b_noyers,,Noyers
 b_noyers,b_noyers_adj,,
 c_auxerre,PROV132,,Auxerre
-c_auxerre,c_auxerre,,
 c_auxerre,c_auxerre_adj,,Auxerrian
 c_auxerre,greek,,Autessiodurum
 c_auxerre,roman,,Autessiodurum
@@ -1085,7 +1017,6 @@ d_archreims,d_archreims_adj,,Reims
 d_archreims,greek,,Remos
 d_archreims,roman,,Remos
 c_reims,PROV114,,Reims
-c_reims,c_reims,,
 c_reims,c_reims_adj,,Reimsian
 c_reims,greek,,Remos
 c_reims,roman,,Remos
@@ -1103,7 +1034,6 @@ d_champagne,d_champagne,,Champagne
 d_champagne,d_champagne_adj,,Champagne
 d_champagne,name_tier,,count
 c_champagne,PROV130,,Troyes
-c_champagne,c_champagne,,
 c_champagne,c_champagne_adj,,Troyes
 c_champagne,greek,,Augoustobona
 c_champagne,roman,,Augustobona
@@ -1118,7 +1048,6 @@ b_brienne,b_brienne_adj,,
 b_clairvaux,b_clairvaux,,Clairvaux
 b_clairvaux,b_clairvaux_adj,,
 c_brie,PROV1166,,Meaux
-c_brie,c_brie,,
 c_brie,c_brie_adj,,Brie
 c_brie,greek,,Iatinon
 c_brie,roman,,Iatinum
@@ -1133,7 +1062,6 @@ b_montmirail_brie,b_montmirail_brie_adj,,
 b_chateauthierry,b_chateauthierry,,Château-Thierry
 b_chateauthierry,b_chateauthierry_adj,,
 c_vertus,PROV1185,,Vertus
-c_vertus,c_vertus,,
 c_vertus,c_vertus_adj,,Vertus
 b_chatillon,b_chatillon,,Châtillon
 b_chatillon,b_chatillon_adj,,
@@ -1142,7 +1070,6 @@ b_montmort,b_montmort_adj,,
 b_vertus,b_vertus,,Vertus
 b_vertus,b_vertus_adj,,
 c_sens,PROV131,,Sens
-c_sens,c_sens,,
 c_sens,c_sens_adj,,Sensian
 c_sens,greek,,Agedincum
 c_sens,roman,,Agedincum
@@ -1155,7 +1082,6 @@ b_nogentsurseine,b_nogentsurseine_adj,,
 b_joigny,b_joigny,,Joigny
 b_joigny,b_joigny_adj,,
 c_langres,PROV1165,,Langres
-c_langres,c_langres,,
 c_langres,c_langres_adj,,Langres
 b_langres,b_langres,,Langres
 b_langres,b_langres_adj,,
@@ -1167,7 +1093,6 @@ d_rethel,d_rethel,,Rethel
 d_rethel,d_rethel_adj,,Rethélois
 d_rethel,name_tier,,count
 c_rethel,PROV1162,,Réthel
-c_rethel,c_rethel,,
 c_rethel,c_rethel_adj,,Réthel
 b_rethel,b_rethel,,Réthel
 b_rethel,b_rethel_adj,,
@@ -1178,7 +1103,6 @@ b_buzancy,b_buzancy_adj,,
 b_attignyardennes,b_attignyardennes,,Attigny
 b_attignyardennes,b_attignyardennes_adj,,
 c_porcien,PROV1181,,Porcien
-c_porcien,c_porcien,,
 c_porcien,c_porcien_adj,,Porcien
 b_signylabbeye,b_signylabbeye,,Signy
 b_signylabbeye,b_signylabbeye_adj,,
@@ -1189,7 +1113,6 @@ b_rumigny,b_rumigny_adj,,
 d_valois,d_valois,,Valois
 d_valois,d_valois_adj,,Valoisaine
 c_ile_de_france,PROV112,,Paris
-c_ile_de_france,c_ile_de_france,,
 c_ile_de_france,c_ile_de_france_adj,,Ile de Francian
 c_ile_de_france,greek,,Loukotekia
 c_ile_de_france,roman,,Lutetia
@@ -1210,7 +1133,6 @@ b_etampes,b_etampes_adj,,
 b_compiegne,b_compiegne,,Compiègne
 b_compiegne,b_compiegne_adj,,
 c_valois,PROV1176,,Valois
-c_valois,c_valois,,
 c_valois,c_valois_adj,,Valoisan
 b_laon,b_laon,,Laon
 b_laon,b_laon_adj,,
@@ -1227,7 +1149,6 @@ b_senlis,b_senlis_adj,,
 b_senlis,greek,,Augoustomagos
 b_senlis,roman,,Augustomagus
 c_southvexin,PROV1177,,Vexin Français
-c_southvexin,c_southvexin,,
 c_southvexin,c_southvexin_adj,,Sud Vexian
 b_larocheguyon,b_larocheguyon,,La Roche-Guyon
 b_larocheguyon,b_larocheguyon_adj,,
@@ -1236,7 +1157,6 @@ b_mantes,b_mantes_adj,,
 b_pontoise,b_pontoise,,Pontoise
 b_pontoise,b_pontoise_adj,,
 c_vermandois,PROV113,,Vermandois
-c_vermandois,c_vermandois,,
 c_vermandois,c_vermandois_adj,,Vermandoisian
 b_coucy,b_coucy,,Coucy
 b_coucy,b_coucy_adj,,
@@ -1249,7 +1169,6 @@ b_guise,b_guise_adj,,
 b_signy,b_signy,,Signy
 b_signy,b_signy_adj,,
 c_amiens,PROV95,,Amiens
-c_amiens,c_amiens,,
 c_amiens,c_amiens_adj,,Amienian
 c_amiens,greek,,Samarobriva
 c_amiens,roman,,Samarobriva
@@ -1264,7 +1183,6 @@ b_amiens,roman,,Samarobriva
 b_corbie,b_corbie,,Corbie
 b_corbie,b_corbie_adj,,
 c_beauvais,PROV1169,,Beauvais
-c_beauvais,c_beauvais,,
 c_beauvais,c_beauvais_adj,,Beauvais
 c_beauvais,greek,,Kaisaromagos
 c_beauvais,roman,,Caesaromagus
@@ -1287,7 +1205,6 @@ d_toulouse,d_toulouse_adj,,Tolosa
 d_toulouse,greek,,Tolosa
 d_toulouse,roman,,Tolosa
 c_toulouse,PROV214,,Tolosa
-c_toulouse,c_toulouse,,
 c_toulouse,c_toulouse_adj,,Toulousian
 c_toulouse,greek,,Tolosa
 c_toulouse,roman,,Tolosa
@@ -1308,7 +1225,6 @@ b_hautpoul,b_hautpoul_adj,,
 b_lislejourdain,b_lislejourdain,,L'Isla de Baish
 b_lislejourdain,b_lislejourdain_adj,,
 c_quercy,PROV1188,,Quercy
-c_quercy,c_quercy,,
 c_quercy,c_quercy_adj,,Quercy
 b_cahors,b_cahors,,Cahors
 b_cahors,b_cahors_adj,,
@@ -1319,7 +1235,6 @@ b_morlhorn,b_morlhorn_adj,,
 b_saintantonin,b_saintantonin,,Sant Antonin
 b_saintantonin,b_saintantonin_adj,,
 c_rouergue,PROV218,,Roergue
-c_rouergue,c_rouergue,,
 c_rouergue,c_rouergue_adj,,Rouerguian
 b_rodez,b_rodez,,Rodés
 b_rodez,b_rodez_adj,,
@@ -1332,7 +1247,6 @@ b_villefranche,b_villefranche_adj,,
 b_caylus,b_caylus,,Cailutz
 b_caylus,b_caylus_adj,,
 c_albi,PROV1167,,Albi
-c_albi,c_albi,,
 c_albi,c_albi_adj,,Albi
 b_fayet,b_fayet,,Faiet
 b_fayet,b_fayet_adj,,
@@ -1348,7 +1262,6 @@ d_gevaudan,d_gevaudan,,Gévaudan
 d_gevaudan,d_gevaudan_adj,,Gévaudan
 d_gevaudan,name_tier,,count
 c_milau,PROV1250,,Milau
-c_milau,c_milau,,
 c_milau,c_milau_adj,,Milau
 c_milau,foa,,VICOMTE_FOA
 c_milau,title,,VICOMTE
@@ -1363,7 +1276,6 @@ b_templarlacavalerie,b_templarlacavalerie_adj,,
 b_rivieresurtarn,b_rivieresurtarn,,Castèl de Pèira Lada
 b_rivieresurtarn,b_rivieresurtarn_adj,,
 c_gevaudan,PROV219,,Gavaudan
-c_gevaudan,c_gevaudan,,
 c_gevaudan,c_gevaudan_adj,,Gevaudanian
 c_gevaudan,foa,,VICOMTE_FOA
 c_gevaudan,title,,VICOMTE
@@ -1380,7 +1292,6 @@ b_marvejols,b_marvejols_adj,,
 d_foix,d_foix,,Pirenèus
 d_foix,d_foix_adj,,Pirenèusen
 c_foix,PROV210,,Fois
-c_foix,c_foix,,
 c_foix,c_foix_adj,,Foixian
 b_foix,b_foix,,Fois
 b_foix,b_foix_adj,,
@@ -1391,7 +1302,6 @@ b_mirepoix,b_mirepoix_adj,,
 b_roquefeuil,b_roquefeuil,,Ròcafuèlh
 b_roquefeuil,b_roquefeuil_adj,,
 c_comminges,PROV1157,,Comminges
-c_comminges,c_comminges,,
 c_comminges,c_comminges_adj,,Comenge
 b_stbertrand,b_stbertrand,,Sent Bertran
 b_stbertrand,b_stbertrand_adj,,
@@ -1404,7 +1314,6 @@ b_muret,b_muret_adj,,
 b_chateaumirabat,b_chateaumirabat,,Castèu de Mirabat
 b_chateaumirabat,b_chateaumirabat_adj,,
 c_bearn,PROV208,,Béarn
-c_bearn,c_bearn,,
 c_bearn,c_bearn_adj,,Bearnian
 c_bearn,foa,,VICOMTE_FOA
 c_bearn,title,,VICOMTE
@@ -1419,7 +1328,6 @@ b_lescar,b_lescar_adj,,
 b_orthez,b_orthez,,Orthez
 b_orthez,b_orthez_adj,,
 c_bigorre,PROV1187,,Bigorre
-c_bigorre,c_bigorre,,
 c_bigorre,c_bigorre_adj,,Bigorre
 b_lourdes,b_lourdes,,Lourde
 b_lourdes,b_lourdes_adj,,
@@ -1430,7 +1338,6 @@ b_tarbes,b_tarbes_adj,,
 d_septimania,d_septimania,,Septimania
 d_septimania,d_septimania_adj,,Septimania
 c_narbonne,PROV212,,Narbona
-c_narbonne,c_narbonne,,
 c_narbonne,c_narbonne_adj,,Narbonnian
 c_narbonne,greek,,Narbonesios
 c_narbonne,roman,,Narbo Martius
@@ -1449,7 +1356,6 @@ b_durbancorbires,b_durbancorbires_adj,,
 b_fabrezan,b_fabrezan,,Fabresan
 b_fabrezan,b_fabrezan_adj,,
 c_montpellier,PROV220,,Melguèlh
-c_montpellier,c_montpellier,,
 c_montpellier,c_montpellier_adj,,Montpellierian
 b_montpellier,b_montpellier,,Montpelhièr
 b_montpellier,b_montpellier_adj,,
@@ -1462,7 +1368,6 @@ b_brissac,b_brissac_adj,,
 b_lodeve,b_lodeve,,Lodeva
 b_lodeve,b_lodeve_adj,,
 c_nimes,PROV1249,,Nimes
-c_nimes,c_nimes,,
 c_nimes,c_nimes_adj,,Nimes
 c_nimes,greek,,Nemausos
 c_nimes,roman,,Nemausus
@@ -1481,7 +1386,6 @@ b_chateaudebeucaire,b_chateaudebeucaire_adj,,
 b_saingilles,b_saingilles,,Sant Geli
 b_saingilles,b_saingilles_adj,,
 c_carcassonne,PROV213,,Carcassona
-c_carcassonne,c_carcassonne,,
 c_carcassonne,c_carcassonne_adj,,Carcassonian
 c_carcassonne,foa,,VICOMTE_FOA
 c_carcassonne,title,,VICOMTE
@@ -1500,7 +1404,6 @@ b_lastours,b_lastours_adj,,
 b_chateaudetermes,b_chateaudetermes,,Tèrme
 b_chateaudetermes,b_chateaudetermes_adj,,
 c_beziers,PROV1168,,Béziers
-c_beziers,c_beziers,,
 c_beziers,c_beziers_adj,,Besièrs
 c_beziers,greek,,Baitarra
 c_beziers,roman,,Baeterrae
@@ -1525,7 +1428,6 @@ b_castelnaudeguers,b_castelnaudeguers_adj,,
 d_gascogne,d_gascogne,,Gascogne
 d_gascogne,d_gascogne_adj,,Gascognian
 c_armagnac,PROV209,,Armagnac
-c_armagnac,c_armagnac,,
 c_armagnac,c_armagnac_adj,,Armagnacs
 b_condom,b_condom,,Condom
 b_condom,b_condom_adj,,
@@ -1540,7 +1442,6 @@ b_auch,b_auch_adj,,
 b_lectoure,b_lectoure,,Lectoure
 b_lectoure,b_lectoure_adj,,
 c_labourd,PROV151,,Dax
-c_labourd,c_labourd,,
 c_labourd,c_labourd_adj,,Labourdian
 c_labourd,foa,,VICOMTE_FOA
 c_labourd,title,,VICOMTE
@@ -1555,7 +1456,6 @@ b_dax,b_dax_adj,,
 b_aire,b_aire,,Aire
 b_aire,b_aire_adj,,
 c_albret,PROV150,,Labrit
-c_albret,c_albret,,
 c_albret,c_albret_adj,,Albretian
 b_labrit,b_labrit,,Labrit
 b_labrit,b_labrit_adj,,
@@ -1566,7 +1466,6 @@ b_bazas,b_bazas_adj,,
 b_villandraut,b_villandraut,,Vilandraut
 b_villandraut,b_villandraut_adj,,
 c_marsan,PROV1253,,Marsan
-c_marsan,c_marsan,,
 c_marsan,c_marsan_adj,,Marsan
 b_donjonlacataye,b_donjonlacataye,,Lacataye
 b_donjonlacataye,b_donjonlacataye_adj,,
@@ -1579,7 +1478,6 @@ b_montdemarsan,b_montdemarsan_adj,,
 d_aquitaine,d_aquitaine,,Aquitània
 d_aquitaine,d_aquitaine_adj,,Aquitain
 c_bordeaux,PROV149,,Bordeaux
-c_bordeaux,c_bordeaux,,
 c_bordeaux,c_bordeaux_adj,,Bordelais
 c_bordeaux,greek,,Bourdigala
 c_bordeaux,roman,,Burdigala
@@ -1598,7 +1496,6 @@ b_lasauve,b_lasauve_adj,,
 b_libourne,b_libourne,,Libourne
 b_libourne,b_libourne_adj,,
 c_agen,PROV215,,Agen
-c_agen,c_agen,,
 c_agen,c_agen_adj,,Agenian
 b_casseneuil,b_casseneuil,,Casseneuil
 b_casseneuil,b_casseneuil_adj,,
@@ -1609,7 +1506,6 @@ b_penne,b_penne_adj,,
 b_agen,b_agen,,Agen
 b_agen,b_agen_adj,,
 c_perigord,PROV216,,Périgord
-c_perigord,c_perigord,,
 c_perigord,c_perigord_adj,,Perigordian
 c_perigord,greek,,Ouesouna
 c_perigord,roman,,Vesunna
@@ -1626,7 +1522,6 @@ b_chancelade,b_chancelade_adj,,
 d_auvergne,d_auvergne,,Auvèrnhe
 d_auvergne,d_auvergne_adj,,Auvèrnhenan
 c_auvergne,PROV217,,Auvèrnhe
-c_auvergne,c_auvergne,,
 c_auvergne,c_auvergne_adj,,Auvergnian
 b_montferrand,b_montferrand,,Montferrand
 b_montferrand,b_montferrand_adj,,
@@ -1639,7 +1534,6 @@ b_riom,b_riom_adj,,
 b_chateaudopme,b_chateaudopme,,Castèu d'Opme
 b_chateaudopme,b_chateaudopme_adj,,
 c_dauphinedeauvergne,PROV1255,,Dauphin d'auvergne
-c_dauphinedeauvergne,c_dauphinedeauvergne,,
 c_dauphinedeauvergne,c_dauphinedeauvergne_adj,,Auvèrnhe
 c_dauphinedeauvergne,short_name,,yes
 b_vodable,b_vodable,,Vodable
@@ -1651,7 +1545,6 @@ b_auriacleglise,b_auriacleglise_adj,,
 b_murol,b_murol,,Murol
 b_murol,b_murol_adj,,
 c_carlades,PROV1251,,Carlat
-c_carlades,c_carlades,,
 c_carlades,c_carlades_adj,,Carladés
 c_carlades,foa,,VICOMTE_FOA
 c_carlades,title,,VICOMTE
@@ -1670,7 +1563,6 @@ b_aurillac,b_aurillac_adj,,
 b_stflour,b_stflour,,Saint Flour
 b_stflour,b_stflour_adj,,
 c_velay,PROV1156,,Velay
-c_velay,c_velay,,
 c_velay,c_velay_adj,,Velai
 b_lachaisedieu,b_lachaisedieu,,La-Chaise-Dieu
 b_lachaisedieu,b_lachaisedieu_adj,,
@@ -1683,7 +1575,6 @@ b_yssingeaux,b_yssingeaux_adj,,
 d_poitou,d_poitou,,Poitou
 d_poitou,d_poitou_adj,,Poitevin
 c_lusignan,PROV144,,Lusignan
-c_lusignan,c_lusignan,,
 c_lusignan,c_lusignan_adj,,Lusignian
 b_lusignan,b_lusignan,,Lusignan
 b_lusignan,b_lusignan_adj,,
@@ -1694,7 +1585,6 @@ b_niort,b_niort_adj,,
 b_melle,b_melle,,Melle
 b_melle,b_melle_adj,,
 c_saintonge,PROV143,,Saintonge
-c_saintonge,c_saintonge,,
 c_saintonge,c_saintonge_adj,,Saintongian
 b_montguyon,b_montguyon,,Montguyon
 b_montguyon,b_montguyon_adj,,
@@ -1707,7 +1597,6 @@ b_villeneuve,b_villeneuve_adj,,
 b_royan,b_royan,,Royan
 b_royan,b_royan_adj,,
 c_poitiers,PROV141,,Poitiers
-c_poitiers,c_poitiers,,
 c_poitiers,c_poitiers_adj,,Poitierian
 c_poitiers,greek,,Limounon
 c_poitiers,roman,,Lemonum
@@ -1724,7 +1613,6 @@ b_moncontour,b_moncontour_adj,,
 b_chatellerault,b_chatellerault,,Châtellerault
 b_chatellerault,b_chatellerault_adj,,
 c_thouars,PROV142,,Thouars
-c_thouars,c_thouars,,
 c_thouars,c_thouars_adj,,Thouarian
 b_thouars,b_thouars,,Thouars
 b_thouars,b_thouars_adj,,
@@ -1735,7 +1623,6 @@ b_bressuire,b_bressuire_adj,,
 b_olonne,b_olonne,,Olonne
 b_olonne,b_olonne_adj,,
 c_aunis,PROV1246,,Aunis
-c_aunis,c_aunis,,
 c_aunis,c_aunis_adj,,Aunis
 b_surgeres,b_surgeres,,Surgères
 b_surgeres,b_surgeres_adj,,
@@ -1746,7 +1633,6 @@ b_chatelaillon,b_chatelaillon_adj,,
 b_godsgrace,b_godsgrace,,Grâce-Dieu
 b_godsgrace,b_godsgrace_adj,,
 c_angouleme,PROV148,,Angoulême
-c_angouleme,c_angouleme,,
 c_angouleme,c_angouleme_adj,,Angoulemian
 c_angouleme,greek,,Iculisma
 c_angouleme,roman,,Iculisma
@@ -1765,7 +1651,6 @@ b_cognac,b_cognac_adj,,
 d_limousin,d_limousin,,Lemosin
 d_limousin,d_limousin_adj,,Lemosinan
 c_la_marche,PROV145,,La Marche
-c_la_marche,c_la_marche,,
 c_la_marche,c_la_marche_adj,,La Marchian
 b_bellac,b_bellac,,Bellac
 b_bellac,b_bellac_adj,,
@@ -1774,7 +1659,6 @@ b_gueret,b_gueret_adj,,
 b_aubusson,b_aubusson,,Aubusson
 b_aubusson,b_aubusson_adj,,
 c_limousin,PROV147,,Limousin
-c_limousin,c_limousin,,
 c_limousin,c_limousin_adj,,Limousinian
 c_limousin,greek,,Augoustoriton
 c_limousin,roman,,Augustoritum
@@ -1789,7 +1673,6 @@ b_chalus,b_chalus_adj,,
 b_stleonard,b_stleonard,,Sent Liunard
 b_stleonard,b_stleonard_adj,,
 c_ventadour,PROV1161,,Ventadour
-c_ventadour,c_ventadour,,
 c_ventadour,c_ventadour_adj,,Ventadour
 b_comborn,b_comborn,,Combòrn
 b_comborn,b_comborn_adj,,

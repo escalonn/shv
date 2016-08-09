@@ -4,12 +4,10 @@ k_turkestan_east,k_turkestan_east_adj,,Mavi Turkestání
 d_kashgar,d_kashgar,,Kashgar
 d_kashgar,d_kashgar_adj,,Kashgarí
 c_naryn,PROV1566,,Naryn
-c_naryn,c_naryn,,
 c_naryn,c_naryn_adj,,
 b_naryn,b_naryn,,Naryn
 b_naryn,b_naryn_adj,,
 c_kashgar,PROV1567,,Kashgar
-c_kashgar,c_kashgar,,
 c_kashgar,c_kashgar_adj,,
 b_kashgar,b_kashgar,,Kashgar
 b_kashgar,b_kashgar_adj,,
@@ -24,7 +22,6 @@ b_kizilsu,b_kizilsu_adj,,
 d_kucha,d_kucha,,Kucha
 d_kucha,d_kucha_adj,,Kucha
 c_aqsu,PROV1568,,Aqsu
-c_aqsu,c_aqsu,,
 c_aqsu,c_aqsu_adj,,
 b_aqsu,b_aqsu,,Aqsu
 b_aqsu,b_aqsu_adj,,
@@ -37,7 +34,6 @@ b_kalpin,b_kalpin_adj,,
 b_jam,b_jam,,Jam
 b_jam,b_jam_adj,,
 c_kucha,PROV1569,,Kucha
-c_kucha,c_kucha,,
 c_kucha,c_kucha_adj,,
 b_kucha,b_kucha,,Kucha
 b_kucha,b_kucha_adj,,
@@ -50,7 +46,6 @@ b_tarim,b_tarim_adj,,
 b_bal,b_bal,,Bal
 b_bal,b_bal_adj,,
 c_qarashahr,PROV1570,,Qarashahr
-c_qarashahr,c_qarashahr,,
 c_qarashahr,c_qarashahr_adj,,
 b_qarashahr,b_qarashahr,,Qarashahr
 b_qarashahr,b_qarashahr_adj,,
@@ -62,7 +57,6 @@ d_khotan,d_khotan,,Khotan
 d_khotan,d_khotan_adj,,Khotanese
 d_khotan,khotanese,,Hvam
 c_khotan,PROV1580,,Khotan
-c_khotan,c_khotan,,
 c_khotan,c_khotan_adj,,
 c_khotan,khotanese,,Hvam
 b_khotan,b_khotan,,Khotan

@@ -6,7 +6,6 @@ k_adal,k_adal_adj,,Adali
 d_berbera,d_berbera,,Berbera
 d_berbera,d_berbera_adj,,Berberi
 c_busaso,PROV871,,Busaso
-c_busaso,c_busaso,,
 c_busaso,c_busaso_adj,,Busasonian
 b_mosylon,b_mosylon,,Mosylon
 b_mosylon,b_mosylon_adj,,
@@ -15,7 +14,6 @@ b_bandaraassim,b_bandaraassim_adj,,
 b_lasanod,b_lasanod,,Las Anod
 b_lasanod,b_lasanod_adj,,
 c_berbera,PROV872,,Berbera
-c_berbera,c_berbera,,
 c_berbera,c_berbera_adj,,Berberan
 b_berbera,b_berbera,,Berbera
 b_berbera,b_berbera_adj,,
@@ -28,7 +26,6 @@ b_gabiley,b_gabiley_adj,,
 d_ifat,d_ifat,,Ifat
 d_ifat,d_ifat_adj,,Ifati
 c_harer,PROV873,,Adal
-c_harer,c_harer,,
 c_harer,c_harer_adj,,Harerian
 b_harar,b_harar,,Harar
 b_harar,b_harar_adj,,
@@ -39,7 +36,6 @@ b_diridawa,b_diridawa_adj,,
 b_jijiga,b_jijiga,,Jijiga
 b_jijiga,b_jijiga_adj,,
 c_ifat,PROV1516,,Ifat
-c_ifat,c_ifat,,
 c_ifat,c_ifat_adj,,Ifati
 b_ifat,b_ifat,,Ifat
 b_ifat,b_ifat_adj,,
@@ -52,7 +48,6 @@ b_bati,b_bati_adj,,
 d_tedjoura,d_tedjoura,,Tadjoura
 d_tedjoura,d_tedjoura_adj,,Tadjouri
 c_tadjoura,PROV874,,Tadjoura
-c_tadjoura,c_tadjoura,,
 c_tadjoura,c_tadjoura_adj,,Tadjouran
 b_tadjoura,b_tadjoura,,Tadjoura
 b_tadjoura,b_tadjoura_adj,,
@@ -61,7 +56,6 @@ b_obock,b_obock_adj,,
 b_randa,b_randa,,Randa
 b_randa,b_randa_adj,,
 c_mora,PROV1519,,Mora
-c_mora,c_mora,,
 c_mora,c_mora_adj,,Mora
 b_mora_mora,b_mora_mora,,Mora
 b_mora_mora,b_mora_mora_adj,,
@@ -70,7 +64,6 @@ b_galafi,b_galafi_adj,,
 b_dikhil,b_dikhil,,Dikhil
 b_dikhil,b_dikhil_adj,,
 c_zaila,PROV1520,,Zaila
-c_zaila,c_zaila,,
 c_zaila,c_zaila_adj,,
 b_zeila,b_zeila,,Zeila
 b_zeila,b_zeila_adj,,
@@ -81,7 +74,6 @@ b_holhol,b_holhol_adj,,
 d_afar,d_afar,,Afar
 d_afar,d_afar_adj,,Afari
 c_bur,PROV1509,,Saho
-c_bur,c_bur,,
 c_bur,c_bur_adj,,Bur
 b_matara,b_matara,,Matara
 b_matara,b_matara_adj,,
@@ -94,7 +86,6 @@ b_kohaito,b_kohaito_adj,,
 b_saho,b_saho,,Saho
 b_saho,b_saho_adj,,
 c_danakil,PROV1517,,Danakil
-c_danakil,c_danakil,,
 c_danakil,c_danakil_adj,,Danakili
 b_afera,b_afera,,Afera
 b_afera,b_afera_adj,,
@@ -115,7 +106,6 @@ k_abyssinia,coptic,,Ethaush
 d_axum,d_axum,,Axum
 d_axum,d_axum_adj,,Axumite
 c_aksum,PROV875,,Aksum
-c_aksum,c_aksum,,
 c_aksum,c_aksum_adj,,Axumite
 b_adwa,b_adwa,,Adwa
 b_adwa,b_adwa_adj,,
@@ -132,7 +122,6 @@ b_qohaito,b_qohaito_adj,,
 b_yeha,b_yeha,,Yeha
 b_yeha,b_yeha_adj,,
 c_akordat,PROV876,,Sera'é
-c_akordat,c_akordat,,
 c_akordat,c_akordat_adj,,Akordatian
 b_akordat,b_akordat,,Akordat
 b_akordat,b_akordat_adj,,
@@ -143,7 +132,6 @@ b_cheren,b_cheren_adj,,
 b_teseney,b_teseney,,Teseney
 b_teseney,b_teseney_adj,,
 c_tigre,PROV1506,,Tigre
-c_tigre,c_tigre,,
 c_tigre,c_tigre_adj,,Tigrean
 b_tigre,b_tigre,,Tigre
 b_tigre,b_tigre_adj,,
@@ -152,7 +140,6 @@ b_weldibba,b_weldibba_adj,,
 b_wegera,b_wegera,,Wegera
 b_wegera,b_wegera_adj,,
 c_intarta,PROV1510,,Intarta
-c_intarta,c_intarta,,
 c_intarta,c_intarta_adj,,Intartan
 b_wiqro,b_wiqro,,Wiqro
 b_wiqro,b_wiqro_adj,,
@@ -163,7 +150,6 @@ b_agowo,b_agowo_adj,,
 b_qiha,b_qiha,,Qiha
 b_qiha,b_qiha_adj,,
 c_lasta,PROV1511,,Lasta
-c_lasta,c_lasta,,
 c_lasta,c_lasta_adj,,Lastan
 b_kubar,b_kubar,,Kubar
 b_kubar,b_kubar_adj,,
@@ -176,7 +162,6 @@ b_sekota,b_sekota_adj,,
 d_damot,d_damot,,Da'mot
 d_damot,d_damot_adj,,Da'mot
 c_ankober,PROV882,,Damot
-c_ankober,c_ankober,,
 c_ankober,c_ankober_adj,,Ankoberian
 b_ankober,b_ankober,,Ankober
 b_ankober,b_ankober_adj,,
@@ -187,7 +172,6 @@ b_qundi,b_qundi_adj,,
 b_saqqa,b_saqqa,,Saqqa
 b_saqqa,b_saqqa_adj,,
 c_matamma,PROV885,,Agaw
-c_matamma,c_matamma,,
 c_matamma,c_matamma_adj,,Matamman
 b_quenzla,b_quenzla,,Quenzla
 b_quenzla,b_quenzla_adj,,
@@ -212,7 +196,6 @@ d_gondar,d_gondar,,Gondar
 d_gondar,d_gondar_adj,,Gondari
 d_gondar,falashim,,Semien
 c_gondar,PROV883,,Dembiya
-c_gondar,c_gondar,,
 c_gondar,c_gondar_adj,,Gondarian
 b_fasilghebbi,b_fasilghebbi,,Fasil Ghebbi
 b_fasilghebbi,b_fasilghebbi_adj,,
@@ -243,7 +226,6 @@ b_debrelibanos,b_debrelibanos_adj,,
 d_amhara,d_amhara,,Amhara
 d_amhara,d_amhara_adj,,Amharan
 c_antalo,PROV884,,Amhara
-c_antalo,c_antalo,,
 c_antalo,c_antalo_adj,,Antalonian
 b_entoto,b_entoto,,Entoto
 b_entoto,b_entoto_adj,,
@@ -252,7 +234,6 @@ b_hayq,b_hayq_adj,,
 b_bale,b_bale,,Bale
 b_bale,b_bale_adj,,
 c_angot,PROV1514,,Angot
-c_angot,c_angot,,
 c_angot,c_angot_adj,,Angoti
 b_lalibela,b_lalibela,,Lalibela
 b_lalibela,b_lalibela_adj,,
@@ -265,7 +246,6 @@ b_gashena,b_gashena_adj,,
 b_arbit,b_arbit,,Arbit
 b_arbit,b_arbit_adj,,
 c_shewa,PROV1521,,Shewa
-c_shewa,c_shewa,,
 c_shewa,c_shewa_adj,,Shewan
 b_shewa,b_shewa,,Shewa
 b_shewa,b_shewa_adj,,
@@ -278,7 +258,6 @@ k_nubia,k_nubia_adj,,Nubian
 d_alodia,d_alodia,,Alodia
 d_alodia,d_alodia_adj,,Alodian
 c_soba,PROV1490,,Soba
-c_soba,c_soba,,
 c_soba,c_soba_adj,,Soban
 b_soba,b_soba,,Soba
 b_soba,b_soba_adj,,
@@ -289,7 +268,6 @@ b_rufaa,b_rufaa_adj,,
 b_arbagi,b_arbagi,,Arbagi
 b_arbagi,b_arbagi_adj,,
 c_alwa,PROV1491,,Alwa
-c_alwa,c_alwa,,
 c_alwa,c_alwa_adj,,Alwanan
 b_alwa,b_alwa,,Alwa
 b_alwa,b_alwa_adj,,
@@ -298,7 +276,6 @@ b_omdurman,b_omdurman_adj,,
 b_kadero,b_kadero,,Kadero
 b_kadero,b_kadero_adj,,
 c_butana,PROV1492,,Butana
-c_butana,c_butana,,
 c_butana,c_butana_adj,,Butanan
 b_meruwah,b_meruwah,,Meruwa
 b_meruwah,b_meruwah_adj,,
@@ -309,7 +286,6 @@ b_naqa,b_naqa_adj,,
 d_nubia,d_nubia,,Nubia
 d_nubia,d_nubia_adj,,Nibian
 c_makuria,PROV793,,Makuria
-c_makuria,c_makuria,,
 c_makuria,c_makuria_adj,,Makurian
 b_meroe,b_meroe,,Meroe
 b_meroe,b_meroe_adj,,
@@ -326,7 +302,6 @@ b_tankasi,b_tankasi_adj,,
 b_korti,b_korti,,Korti
 b_korti,b_korti_adj,,
 c_atbara,PROV879,,Atbara
-c_atbara,c_atbara,,
 c_atbara,c_atbara_adj,,Atbaran
 b_atbara,b_atbara,,Atbara
 b_atbara,b_atbara_adj,,
@@ -335,7 +310,6 @@ b_eddamer,b_eddamer_adj,,
 b_berber,b_berber,,Berber
 b_berber,b_berber_adj,,
 c_dongola,PROV1230,,Dongola
-c_dongola,c_dongola,,
 c_dongola,c_dongola_adj,,Dongolan
 b_dongola,b_dongola,,Dongola
 b_dongola,b_dongola_adj,,
@@ -350,7 +324,6 @@ b_eddeba,b_eddeba_adj,,
 b_grnetti,b_grnetti,,Grnetti
 b_grnetti,b_grnetti_adj,,
 c_abuhammad,PROV1494,,Abu Hammad
-c_abuhammad,c_abuhammad,,
 c_abuhammad,c_abuhammad_adj,,Abuhammadan
 b_abuhammad,b_abuhammad,,Abu Hammad
 b_abuhammad,b_abuhammad_adj,,
@@ -359,14 +332,12 @@ b_kurgus,b_kurgus_adj,,
 b_alusheir,b_alusheir,,Al-Usheir
 b_alusheir,b_alusheir_adj,,
 c_ghazali,PROV1495,,Al-Ghazali
-c_ghazali,c_ghazali,,
 c_ghazali,c_ghazali_adj,,Ghazali
 b_ghazali,b_ghazali,,Ghazali
 b_ghazali,b_ghazali_adj,,
 d_nobatia,d_nobatia,,Nobatia
 d_nobatia,d_nobatia_adj,,Nobatian
 c_nubia,PROV792,,Nubia
-c_nubia,c_nubia,,
 c_nubia,c_nubia_adj,,Nubian
 c_nubia,greek,,Pakhôras
 c_nubia,c_nubia_adj_greek,,Pakhôran
@@ -388,7 +359,6 @@ b_qasrelwizz,b_qasrelwizz_adj,,
 b_arminna,b_arminna,,Arminna
 b_arminna,b_arminna_adj,,
 c_semna,PROV1499,,Semna
-c_semna,c_semna,,
 c_semna,c_semna_adj,,Semnan
 b_semna,b_semna,,Semna
 b_semna,b_semna_adj,,
@@ -403,7 +373,6 @@ b_kulb,b_kulb_adj,,
 b_gemai,b_gemai,,Gemai
 b_gemai,b_gemai_adj,,
 c_qasribrim,PROV1500,,Qasr Ibrim
-c_qasribrim,c_qasribrim,,
 c_qasribrim,c_qasribrim_adj,,Qasribriman
 c_qasribrim,coptic,,Prim
 c_qasribrim,greek,,Primis
@@ -431,7 +400,6 @@ k_sennar,k_sennar_adj,,Sennarí
 d_sennar,d_sennar,,Sennar
 d_sennar,d_sennar_adj,,Sennar
 c_sennar,PROV880,,Sennar
-c_sennar,c_sennar,,
 c_sennar,c_sennar_adj,,Sennarian
 b_sennar,b_sennar,,Sennar
 b_sennar,b_sennar_adj,,
@@ -442,7 +410,6 @@ b_sinjah,b_sinjah_adj,,
 b_bakkah,b_bakkah,,Bakkah
 b_bakkah,b_bakkah_adj,,
 c_asosa,PROV881,,Asosa
-c_asosa,c_asosa,,
 c_asosa,c_asosa_adj,,Asosan
 b_asosa,b_asosa,,Asosa
 b_asosa,b_asosa_adj,,
@@ -455,7 +422,6 @@ b_mankush,b_mankush_adj,,
 d_darfur,d_darfur,,Darfur
 d_darfur,d_darfur_adj,,Darfurí
 c_uri,PROV1229,,Uri
-c_uri,c_uri,,
 c_uri,c_uri_adj,,Uri
 b_uri,b_uri,,Uri
 b_uri,b_uri_adj,,
@@ -464,7 +430,6 @@ b_elfasher,b_elfasher_adj,,
 b_ainfarah,b_ainfarah,,Ain Farah
 b_ainfarah,b_ainfarah_adj,,
 c_kordofan,PROV1485,,Kordofan
-c_kordofan,c_kordofan,,
 c_kordofan,c_kordofan_adj,,Kordofani
 b_elobeid,b_elobeid,,el-Obeid
 b_elobeid,b_elobeid_adj,,
@@ -490,7 +455,6 @@ b_halaib,b_halaib_adj,,
 b_birshalatayn,b_birshalatayn,,Bir Shalatayn
 b_birshalatayn,b_birshalatayn_adj,,
 c_naqis,PROV1593,,Naqis
-c_naqis,c_naqis,,
 c_naqis,c_naqis_adj,,Naqîsî
 b_naqis,b_naqis,,Naqís
 b_naqis,b_naqis_adj,,
@@ -512,28 +476,24 @@ b_sawakin,roman,,Limen Evangelis
 b_shafia,b_shafia,,Shafia
 b_shafia,b_shafia_adj,,
 c_maikele_bahr,PROV1502,,Maikele Bahr
-c_maikele_bahr,c_maikele_bahr,,
 c_maikele_bahr,c_maikele_bahr_adj,,Maikele Bahran
 b_sinkat,b_sinkat,,Sinkat
 b_sinkat,b_sinkat_adj,,
 d_badi,d_badi,,Badi
 d_badi,d_badi_adj,,Badian
 c_hayya,PROV878,,Bâdi
-c_hayya,c_hayya,,
 c_hayya,c_hayya_adj,,Hayyan
 b_badi,b_badi,,Bádi
 b_badi,b_badi_adj,,
 b_ini,b_ini,,Ini
 b_ini,b_ini_adj,,
 c_marya,PROV1507,,Marya
-c_marya,c_marya,,
 c_marya,c_marya_adj,,Maryi
 b_marya,b_marya,,Marya
 b_marya,b_marya_adj,,
 b_bogos,b_bogos,,Bogos
 b_bogos,b_bogos_adj,,
 c_adulis,PROV1508,,Adulis
-c_adulis,c_adulis,,
 c_adulis,c_adulis_adj,,Aduli
 b_adulis,b_adulis,,Adulis
 b_adulis,b_adulis_adj,,
@@ -542,7 +502,6 @@ b_misiwwa,b_misiwwa_adj,,
 d_kassala,d_kassala,,Kassala
 d_kassala,d_kassala_adj,,Kassalí
 c_kassala,PROV877,,Kassala
-c_kassala,c_kassala,,
 c_kassala,c_kassala_adj,,Kassalan
 b_djarin,b_djarin,,Djarin
 b_djarin,b_djarin_adj,,
@@ -551,7 +510,6 @@ b_kassala,b_kassala_adj,,
 b_showak,b_showak,,Showak
 b_showak,b_showak_adj,,
 c_wolqayt,PROV1489,,Wolqayt
-c_wolqayt,c_wolqayt,,
 c_wolqayt,c_wolqayt_adj,,Wolqayt
 b_wolqayt,b_wolqayt,,Wolqayt
 b_wolqayt,b_wolqayt_adj,,

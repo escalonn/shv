@@ -32,7 +32,6 @@ d_vladimir,norsegaelic,,Súrsdalar
 d_vladimir,norwegian,,Súrsdalar
 d_vladimir,swedish,,Súrsdalar
 c_suzdal,PROV583,,Suzdal
-c_suzdal,c_suzdal,,
 c_suzdal,c_suzdal_adj,,Suzdal
 c_suzdal,anglonorse,,Súrsdalar
 c_suzdal,danish,,Súrsdalar
@@ -59,7 +58,6 @@ b_suzstarodub,b_suzstarodub_adj,,
 b_gorokhovets,b_gorokhovets,,Gorohovec
 b_gorokhovets,b_gorokhovets_adj,,
 c_vladimir,PROV582,,Vladimir
-c_vladimir,c_vladimir,,
 c_vladimir,c_vladimir_adj,,Vladimir
 b_bogolyubovo,b_bogolyubovo,,Bogoljubovo
 b_bogolyubovo,b_bogolyubovo_adj,,
@@ -74,7 +72,6 @@ b_yurevpolskiy,b_yurevpolskiy_adj,,
 b_vladimir,b_vladimir,,Vladimir
 b_vladimir,b_vladimir_adj,,
 c_pereyaslavl_zalessky,PROV573,,Perejaslavl'-Zalesskij
-c_pereyaslavl_zalessky,c_pereyaslavl_zalessky,,
 c_pereyaslavl_zalessky,c_pereyaslavl_zalessky_adj,,Perejaslavl
 b_pereyaslavlzalessky,b_pereyaslavlzalessky,,Perejaslvl'-Zalesskij
 b_pereyaslavlzalessky,b_pereyaslavlzalessky_adj,,
@@ -88,7 +85,6 @@ b_nikitskij,short_name,,yes
 d_nizhny_novgorod,d_nizhny_novgorod,,Nizovye
 d_nizhny_novgorod,d_nizhny_novgorod_adj,,Nizovye
 c_nizhny_novgorod,PROV584,,Nizhny Novgorod
-c_nizhny_novgorod,c_nizhny_novgorod,,
 c_nizhny_novgorod,c_nizhny_novgorod_adj,,Nizhny Novgorod
 c_nizhny_novgorod,c_nizhny_novgorod_adj_altaic,,Obran Osh
 c_nizhny_novgorod,c_nizhny_novgorod_adj_finno_ugric,,Obran Osh
@@ -103,7 +99,6 @@ b_bogorodsk,b_bogorodsk_adj,,
 b_knyaginino,b_knyaginino,,Knyaginin
 b_knyaginino,b_knyaginino_adj,,
 c_gorodez,PROV585,,Gorodets-Radilov
-c_gorodez,c_gorodez,,
 c_gorodez,c_gorodez_adj,,Radilov
 b_gorodez,b_gorodez,,Gorodec-Radilov
 b_gorodez,b_gorodez_adj,,
@@ -116,7 +111,6 @@ b_puchishche,b_puchishche_adj,,
 d_ustyg,d_ustyg,,Ustjug
 d_ustyg,d_ustyg_adj,,Ustjug
 c_veliky_ustug,PROV402,,Veliky Ustjug
-c_veliky_ustug,c_veliky_ustug,,
 c_veliky_ustug,c_veliky_ustug_adj,,Veliky Ustjug
 b_velikyustug,b_velikyustug,,Ustjug
 b_velikyustug,b_velikyustug_adj,,
@@ -127,7 +121,6 @@ b_troitsegledenskymonastery,b_troitsegledenskymonastery_adj,,
 b_dymkovskaya,b_dymkovskaya,,Dymkovskaya
 b_dymkovskaya,b_dymkovskaya_adj,,
 c_galich_mersky,PROV586,,Galich Mersky
-c_galich_mersky,c_galich_mersky,,
 c_galich_mersky,c_galich_mersky_adj,,Galich Merskiy
 b_buy,b_buy,,Vui
 b_buy,b_buy_adj,,
@@ -138,7 +131,6 @@ b_chukholma,b_chukholma_adj,,
 d_tver,d_tver,,Tver
 d_tver,d_tver_adj,,Tver
 c_tver,PROV570,,Tver
-c_tver,c_tver,,
 c_tver,c_tver_adj,,Tver
 b_dubna,b_dubna,,Dubna
 b_dubna,b_dubna_adj,,
@@ -151,7 +143,6 @@ b_starica,b_starica_adj,,
 b_tver,b_tver,,Tver
 b_tver,b_tver_adj,,
 c_volokolamsk,PROV1272,,Volokolamsk
-c_volokolamsk,c_volokolamsk,,
 c_volokolamsk,c_volokolamsk_adj,,Volok Lamskij
 b_zubtsov,b_zubtsov,,Zubcov
 b_zubtsov,b_zubtsov_adj,,
@@ -162,7 +153,6 @@ b_horvactver,b_horvactver_adj,,
 b_volokolamsk,b_volokolamsk,,Volok Lamskij
 b_volokolamsk,b_volokolamsk_adj,,
 c_uglich,PROV571,,Uglich
-c_uglich,c_uglich,,
 c_uglich,c_uglich_adj,,Uglich
 b_uglich,b_uglich,,Ugliche Pole
 b_uglich,b_uglich_adj,,
@@ -182,7 +172,6 @@ d_rostov,norsegaelic,,Ráðstofa
 d_rostov,norwegian,,Ráðstofa
 d_rostov,swedish,,Ráðstofa
 c_rostov,PROV574,,Rostov
-c_rostov,c_rostov,,
 c_rostov,c_rostov_adj,,Rostov
 c_rostov,anglonorse,,Ráðstofa
 c_rostov,danish,,Ráðstofa
@@ -209,7 +198,6 @@ b_petrovskoye,b_petrovskoye_adj,,
 b_nerekhta,b_nerekhta,,Neretha
 b_nerekhta,b_nerekhta_adj,,
 c_kostroma,PROV407,,Kostroma
-c_kostroma,c_kostroma,,
 c_kostroma,c_kostroma_adj,,Kostroma
 b_kostroma,b_kostroma,,Kostroma
 b_kostroma,b_kostroma_adj,,
@@ -218,7 +206,6 @@ b_sudislavl,b_sudislavl_adj,,
 b_soligalich,b_soligalich,,Sol'-Galickaja
 b_soligalich,b_soligalich_adj,,
 c_yaroslavl,PROV572,,Yaroslavl
-c_yaroslavl,c_yaroslavl,,
 c_yaroslavl,c_yaroslavl_adj,,Yaroslavl
 c_yaroslavl,c_yaroslavl_adj_finno_ugric,,Meryan
 b_timerevo,b_timerevo,,Timerevo
@@ -234,7 +221,6 @@ b_yaroslavl,b_yaroslavl_adj,,
 d_moskva,d_moskva,,Moskva
 d_moskva,d_moskva_adj,,Moskva
 c_moskva,PROV575,,Moskva
-c_moskva,c_moskva,,
 c_moskva,c_moskva_adj,,Moskva
 b_moskva,b_moskva,,Moskva
 b_moskva,b_moskva_adj,,
@@ -247,7 +233,6 @@ b_lopasnja,b_lopasnja_adj,,
 b_danilovmonestary,b_danilovmonestary,,Svyato-Danilov
 b_danilovmonestary,b_danilovmonestary_adj,,
 c_mozhaysk,PROV587,,Mozhajsk
-c_mozhaysk,c_mozhaysk,,
 c_mozhaysk,c_mozhaysk_adj,,Mozhajsk
 b_volgamozhaysk,b_volgamozhaysk,,Mozhajsk
 b_volgamozhaysk,b_volgamozhaysk_adj,,
@@ -258,7 +243,6 @@ b_zvenigorodmozaskiy,b_zvenigorodmozaskiy_adj,,
 b_vetca,b_vetca,,Vetca
 b_vetca,b_vetca_adj,,
 c_tarusa,PROV1276,,Tarusa
-c_tarusa,c_tarusa,,
 c_tarusa,c_tarusa_adj,,Tarusa
 b_tarusa,b_tarusa,,Tarusa
 b_tarusa,b_tarusa_adj,,
@@ -271,7 +255,6 @@ b_borovsk,b_borovsk_adj,,
 d_ryazan,d_ryazan,,Ryazan
 d_ryazan,d_ryazan_adj,,Ryazanian
 c_ryazan,PROV580,,Riazan'
-c_ryazan,c_ryazan,,
 c_ryazan,c_ryazan_adj,,Rjazan
 b_ryazan,b_ryazan,,Rjazan
 b_ryazan,b_ryazan_adj,,
@@ -284,7 +267,6 @@ b_shilovo,b_shilovo_adj,,
 b_olgov,b_olgov,,Novyj Gorodok Ol'gov
 b_olgov,b_olgov_adj,,
 c_pronsk,PROV577,,Pronsk
-c_pronsk,c_pronsk,,
 c_pronsk,c_pronsk_adj,,Pronsk
 b_ryazhsk,b_ryazhsk,,Rjazsk
 b_ryazhsk,b_ryazhsk_adj,,
@@ -295,7 +277,6 @@ b_pronsk,b_pronsk_adj,,
 b_skopin,b_skopin,,Lilharevo
 b_skopin,b_skopin_adj,,
 c_kolomna,PROV578,,Kolomna
-c_kolomna,c_kolomna,,
 c_kolomna,c_kolomna_adj,,Kolomna
 b_kolomna,b_kolomna,,Kolomna
 b_kolomna,b_kolomna_adj,,
@@ -315,7 +296,6 @@ d_murom,norsegaelic,,Móramar
 d_murom,norwegian,,Móramar
 d_murom,swedish,,Móramar
 c_murom,PROV581,,Murom
-c_murom,c_murom,,
 c_murom,c_murom_adj,,Murom
 c_murom,anglonorse,,Móramar
 c_murom,danish,,Móramar
@@ -340,7 +320,6 @@ b_melenki,b_melenki_adj,,
 b_starodubvockij,b_starodubvockij,,Starodub-Vockij
 b_starodubvockij,b_starodubvockij_adj,,
 c_kadom,PROV1273,,Kadom
-c_kadom,c_kadom,,
 c_kadom,c_kadom_adj,,Kadom
 b_kadom,b_kadom,,Kadom
 b_kadom,b_kadom_adj,,
@@ -367,7 +346,6 @@ d_polotsk,norsegaelic,,Pallteskja
 d_polotsk,norwegian,,Pallteskja
 d_polotsk,swedish,,Pallteskja
 c_polotsk,PROV419,,Polotsk
-c_polotsk,c_polotsk,,
 c_polotsk,c_polotsk_adj,,Polotsk
 c_polotsk,anglonorse,,Pallteskja
 c_polotsk,danish,,Pallteskja
@@ -394,7 +372,6 @@ b_obol,b_obol_adj,,
 b_selco,b_selco,,Sel'co
 b_selco,b_selco_adj,,
 c_vitebsk,PROV417,,Vitebsk
-c_vitebsk,c_vitebsk,,
 c_vitebsk,c_vitebsk_adj,,Vitbesk
 b_vitebsk,b_vitebsk,,Vitebesk
 b_vitebsk,b_vitebsk_adj,,
@@ -405,7 +382,6 @@ b_rudnya,b_rudnya_adj,,
 b_haradok,b_haradok,,Gorodoc-Polockskij
 b_haradok,b_haradok_adj,,
 c_druck,PROV994,,Druck
-c_druck,c_druck,,
 c_druck,c_druck_adj,,Druck
 b_druck,b_druck,,Druck
 b_druck,b_druck_adj,,
@@ -416,7 +392,6 @@ b_teterin,b_teterin_adj,,
 b_obolci,b_obolci,,Obolci
 b_obolci,b_obolci_adj,,
 c_braslaw,PROV962,,Braslaw
-c_braslaw,c_braslaw,,
 c_braslaw,c_braslaw_adj,,Braslaw
 b_braslaw,b_braslaw,,Braslav
 b_braslaw,b_braslaw_adj,,
@@ -429,7 +404,6 @@ b_kraslava,b_kraslava_adj,,
 d_minsk,d_minsk,,Minsk
 d_minsk,d_minsk_adj,,Minsk
 c_minsk,PROV550,,Minsk
-c_minsk,c_minsk,,
 c_minsk,c_minsk_adj,,Minsk
 b_minsk,b_minsk,,Minsk
 b_minsk,b_minsk_adj,,
@@ -442,7 +416,6 @@ b_dzierzynsk,b_dzierzynsk_adj,,
 b_berezino,b_berezino,,Berezino
 b_berezino,b_berezino_adj,,
 c_zaslawye,PROV1306,,Izjaslavl'
-c_zaslawye,c_zaslawye,,
 c_zaslawye,c_zaslawye_adj,,Izjaslavl'
 b_mir,b_mir,,Mir
 b_mir,b_mir_adj,,
@@ -451,7 +424,6 @@ b_valozhyn,b_valozhyn_adj,,
 b_zaslawye,b_zaslawye,,Izjaslavl'
 b_zaslawye,b_zaslawye_adj,,
 c_lepiel,PROV934,,Logozsk
-c_lepiel,c_lepiel,,
 c_lepiel,c_lepiel_adj,,Lepielian
 b_lahoysk,b_lahoysk,,Logozsk
 b_lahoysk,b_lahoysk_adj,,
@@ -486,7 +458,6 @@ d_kiev,d_kiev_adj_norwegian,,Kønugardian
 d_kiev,swedish,,Kœnugarðr
 d_kiev,d_kiev_adj_swedish,,Könugardian
 c_kiev,PROV547,,Kiev
-c_kiev,c_kiev,,
 c_kiev,c_kiev_adj,,Kiev
 c_kiev,anglonorse,,Kœnugarðr
 c_kiev,danish,,Kœnugarðr
@@ -518,7 +489,6 @@ b_churchofthetithes,b_churchofthetithes,,Desyatinnaya Tserkov'
 b_churchofthetithes,b_churchofthetithes_adj,,
 b_churchofthetithes,short_name,,yes
 c_zhytomyr,PROV1279,,Zhytomyr
-c_zhytomyr,c_zhytomyr,,
 c_zhytomyr,c_zhytomyr_adj,,Zhytomyr
 b_berdychiv,b_berdychiv,,Boskij
 b_berdychiv,b_berdychiv_adj,,
@@ -531,7 +501,6 @@ b_vinnytsia,b_vinnytsia_adj,,
 b_zhitomir,b_zhitomir,,Zitomir
 b_zhitomir,b_zhitomir_adj,,
 c_korsun,PROV544,,Ros’
-c_korsun,c_korsun,,
 c_korsun,c_korsun_adj,,Korsun
 b_korsun,b_korsun,,Korsun
 b_korsun,b_korsun_adj,,
@@ -543,7 +512,6 @@ b_tarashcha,b_tarashcha,,Torcesk
 b_tarashcha,b_tarashcha_adj,,
 b_tarashcha,lithuanian,,Torceskas
 c_iskorosten,PROV1280,,Ovruch
-c_iskorosten,c_iskorosten,,
 c_iskorosten,c_iskorosten_adj,,Ovruch
 b_iskorosten,b_iskorosten,,Ikorosten
 b_iskorosten,b_iskorosten_adj,,
@@ -554,7 +522,6 @@ b_chernobel,b_chernobel_adj,,
 d_pereyaslavl,d_pereyaslavl,,Perejaslavl
 d_pereyaslavl,d_pereyaslavl_adj,,Perejaslavl
 c_pereyaslavl,PROV555,,Perejaslavl
-c_pereyaslavl,c_pereyaslavl,,
 c_pereyaslavl,c_pereyaslavl_adj,,Perejaslavl
 b_pereyaslavl,b_pereyaslavl,,Perejaslavl
 b_pereyaslavl,b_pereyaslavl_adj,,
@@ -567,7 +534,6 @@ b_baryshivska,b_baryshivska_adj,,
 b_pryluky,b_pryluky,,Priluki
 b_pryluky,b_pryluky_adj,,
 c_lubny,PROV1288,,Lukoml
-c_lubny,c_lubny,,
 c_lubny,c_lubny_adj,,Lubno
 b_lubny,b_lubny,,Lubno
 b_lubny,b_lubny_adj,,
@@ -576,7 +542,6 @@ b_snityn,b_snityn_adj,,
 b_lukolm,b_lukolm,,Lukoml
 b_lukolm,b_lukolm_adj,,
 c_romny_ukraine,PROV1281,,Romen
-c_romny_ukraine,c_romny_ukraine,,
 c_romny_ukraine,c_romny_ukraine_adj,,Romen
 b_khotyn,b_khotyn,,Hoten
 b_khotyn,b_khotyn_adj,,
@@ -587,7 +552,6 @@ b_hlynsk,b_hlynsk_adj,,
 d_novgorod-seversk,d_novgorod-seversk,,Sivershchyna
 d_novgorod-seversk,d_novgorod-seversk_adj,,Sivershchyna
 c_novgorod_seversky,PROV567,,Novgorod Seversky
-c_novgorod_seversky,c_novgorod_seversky,,
 c_novgorod_seversky,c_novgorod_seversky_adj,,Novgorod Severskiy
 b_novgorodseversky,b_novgorodseversky,,Novgorod-Severkij
 b_novgorodseversky,b_novgorodseversky_adj,,
@@ -600,7 +564,6 @@ b_putyvl,b_putyvl_adj,,
 b_sevsk,b_sevsk,,Sevsk
 b_sevsk,b_sevsk_adj,,
 c_rilsk,PROV1293,,Rilsk
-c_rilsk,c_rilsk,,
 c_rilsk,c_rilsk_adj,,Rilsk
 b_rylsk,b_rylsk,,Ryl'sk
 b_rylsk,b_rylsk_adj,,
@@ -609,7 +572,6 @@ b_lgov,b_lgov_adj,,
 b_starivyrky,b_starivyrky,,Vyr
 b_starivyrky,b_starivyrky_adj,,
 c_kursk,PROV1292,,Kursk
-c_kursk,c_kursk,,
 c_kursk,c_kursk_adj,,Kursk
 b_kursk,b_kursk,,Kursk
 b_kursk,b_kursk_adj,,
@@ -625,7 +587,6 @@ d_smolensk,norsegaelic,,Smaleskja
 d_smolensk,norwegian,,Smaleskja
 d_smolensk,swedish,,Smaleskja
 c_smolensk,PROV568,,Smolensk
-c_smolensk,c_smolensk,,
 c_smolensk,c_smolensk_adj,,Smolensk
 c_smolensk,anglonorse,,Smaleskja
 c_smolensk,danish,,Smaleskja
@@ -652,7 +613,6 @@ b_smolensk,norsegaelic,,Smaleskja
 b_smolensk,norwegian,,Smaleskja
 b_smolensk,swedish,,Smaleskja
 c_roslavl,PROV933,,Roslavl
-c_roslavl,c_roslavl,,
 c_roslavl,c_roslavl_adj,,Roslavl
 b_mitishkino,b_mitishkino,,Mstislavec
 b_mitishkino,b_mitishkino_adj,,
@@ -661,7 +621,6 @@ b_roslavl,b_roslavl_adj,,
 b_elnya,b_elnya,,El'nja
 b_elnya,b_elnya_adj,,
 c_orsha,PROV418,,Krasen
-c_orsha,c_orsha,,
 c_orsha,c_orsha_adj,,Rsha
 b_orsha,b_orsha,,Rsha
 b_orsha,b_orsha_adj,,
@@ -672,7 +631,6 @@ b_krasnyy,b_krasnyy_adj,,
 b_horki,b_horki,,Yorkji
 b_horki,b_horki_adj,,
 c_mstislavl,PROV551,,Mstislavl
-c_mstislavl,c_mstislavl,,
 c_mstislavl,c_mstislavl_adj,,Mstislavl
 b_mstitslavl,b_mstitslavl,,Mstislavl'
 b_mstitslavl,b_mstitslavl_adj,,
@@ -687,7 +645,6 @@ b_mogliev,b_mogliev_adj,,
 d_toropec,d_toropec,,Toropec
 d_toropec,d_toropec_adj,,Toropec
 c_toropets,PROV410,,Toropec
-c_toropets,c_toropets,,
 c_toropets,c_toropets_adj,,Toropec
 b_toropets,b_toropets,,Toropec
 b_toropets,b_toropets_adj,,
@@ -700,7 +657,6 @@ b_kynya,b_kynya_adj,,
 b_zhizhtsa,b_zhizhtsa,,Zizec
 b_zhizhtsa,b_zhizhtsa_adj,,
 c_vyazma,PROV569,,Viazma
-c_vyazma,c_vyazma,,
 c_vyazma,c_vyazma_adj,,Vjazma
 b_vyazma,b_vyazma,,Vjaz'ma
 b_vyazma,b_vyazma_adj,,
@@ -713,7 +669,6 @@ b_rzhev,b_rzhev_adj,,
 d_turov,d_turov,,Turov
 d_turov,d_turov_adj,,Turov
 c_turov,PROV552,,Turov
-c_turov,c_turov,,
 c_turov,c_turov_adj,,Turov
 b_turov,b_turov,,Turov
 b_turov,b_turov_adj,,
@@ -726,7 +681,6 @@ b_hlusk,b_hlusk_adj,,
 b_rahachow,b_rahachow,,Rogacev
 b_rahachow,b_rahachow_adj,,
 c_slutsk,PROV1294,,Sluck
-c_slutsk,c_slutsk,,
 c_slutsk,c_slutsk_adj,,Sluck
 b_slutsk,b_slutsk,,Sluck
 b_slutsk,b_slutsk_adj,,
@@ -737,7 +691,6 @@ b_kletsk,b_kletsk_adj,,
 b_nesvizh,b_nesvizh,,Nesviz
 b_nesvizh,b_nesvizh_adj,,
 c_pinsk,PROV548,,Pinsk
-c_pinsk,c_pinsk,,
 c_pinsk,c_pinsk_adj,,Pinsk
 b_pinsk,b_pinsk,,Pinsk
 b_pinsk,b_pinsk_adj,,
@@ -754,7 +707,6 @@ b_luninets,b_luninets_adj,,
 d_chernigov,d_chernigov,,Chernigov
 d_chernigov,d_chernigov_adj,,Chernigov
 c_chernigov,PROV554,,Chernigov
-c_chernigov,c_chernigov,,
 c_chernigov,c_chernigov_adj,,Chernigov
 b_chernigov,b_chernigov,,Chernigov
 b_chernigov,b_chernigov_adj,,
@@ -767,7 +719,6 @@ b_borzna,b_borzna_adj,,
 b_eletskymonestary,b_eletskymonestary,,Eletsky Pechersk Lavra
 b_eletskymonestary,b_eletskymonestary_adj,,
 c_lyubech,PROV553,,Lyubech
-c_lyubech,c_lyubech,,
 c_lyubech,c_lyubech_adj,,Lyubech
 b_lyubech,b_lyubech,,Ljubec
 b_lyubech,b_lyubech_adj,,
@@ -778,7 +729,6 @@ b_sedniv,b_sedniv_adj,,
 b_brahin,b_brahin,,Brjagin
 b_brahin,b_brahin_adj,,
 c_gomel,PROV995,,Gomel
-c_gomel,c_gomel,,
 c_gomel,c_gomel_adj,,Gimij
 b_gorvol,b_gorvol,,Gorvol
 b_gorvol,b_gorvol_adj,,
@@ -789,7 +739,6 @@ b_cacersk,b_cacersk_adj,,
 b_gomel,b_gomel,,Gomij
 b_gomel,b_gomel_adj,,
 c_bryansk,PROV576,,Briansk
-c_bryansk,c_bryansk,,
 c_bryansk,c_bryansk_adj,,Vshchizh
 b_bryansk,b_bryansk,,Brjansk
 b_bryansk,b_bryansk_adj,,
@@ -804,7 +753,6 @@ b_starodub_chernigov,b_starodub_chernigov_adj,,
 d_novosil,d_novosil,,Verhovye
 d_novosil,d_novosil_adj,,Verhovye
 c_novosil,PROV1275,,Novosil
-c_novosil,c_novosil,,
 c_novosil,c_novosil_adj,,Novosil
 b_novosil,b_novosil,,Novosil'
 b_novosil,b_novosil_adj,,
@@ -815,7 +763,6 @@ b_mtsensk,b_mtsensk_adj,,
 b_kolpny,b_kolpny,,Kolpny
 b_kolpny,b_kolpny_adj,,
 c_kozelsk,PROV1274,,Kozel'sk
-c_kozelsk,c_kozelsk,,
 c_kozelsk,c_kozelsk_adj,,Kezel'
 b_kozelzk,b_kozelzk,,Kozel'sk
 b_kozelzk,b_kozelzk_adj,,
@@ -826,7 +773,6 @@ b_bolkhov,b_bolkhov_adj,,
 b_volokna,b_volokna,,Volokna
 b_volokna,b_volokna_adj,,
 c_karachev,PROV1277,,Karachev
-c_karachev,c_karachev,,
 c_karachev,c_karachev_adj,,Karachev
 b_karachev,b_karachev,,Karacev
 b_karachev,b_karachev_adj,,
@@ -835,7 +781,6 @@ b_kromy,b_kromy_adj,,
 b_orel,b_orel,,Zvenigorod-Okaskij
 b_orel,b_orel_adj,,
 c_vorotynsk,PROV966,,Vorotynsk
-c_vorotynsk,c_vorotynsk,,
 c_vorotynsk,c_vorotynsk_adj,,Vorotynsk
 b_vorotynsk,b_vorotynsk,,Vorotynsk
 b_vorotynsk,b_vorotynsk_adj,,
@@ -868,7 +813,6 @@ d_novgorod,d_novgorod_adj_norwegian,,Holmgårdian
 d_novgorod,swedish,,Holmgarðr
 d_novgorod,d_novgorod_adj_swedish,,Holmgårdian
 c_novgorod,PROV414,,Novgorod
-c_novgorod,c_novgorod,,
 c_novgorod,c_novgorod_adj,,Novgorod
 c_novgorod,anglonorse,,Holmgarðr
 c_novgorod,danish,,Holmgarðr
@@ -899,7 +843,6 @@ b_yurievmonestary,b_yurievmonestary_adj,,
 b_peryn,b_peryn,,Peryn
 b_peryn,b_peryn_adj,,
 c_bezhetsky_verh,PROV409,,Ladoga
-c_bezhetsky_verh,c_bezhetsky_verh,,
 c_bezhetsky_verh,c_bezhetsky_verh_adj,,Ladoga
 c_bezhetsky_verh,anglonorse,,Aldeigjuborg
 c_bezhetsky_verh,danish,,Aldeigjuburgh
@@ -922,7 +865,6 @@ b_tikhvin,b_tikhvin_adj,,
 b_pikalyovo,b_pikalyovo,,Voskresensly Luchensky
 b_pikalyovo,b_pikalyovo_adj,,
 c_torzhok,PROV412,,Torzhok
-c_torzhok,c_torzhok,,
 c_torzhok,c_torzhok_adj,,Torzhok
 b_rajsna,b_rajsna,,Rajsna
 b_rajsna,b_rajsna_adj,,
@@ -931,7 +873,6 @@ b_yshny_volochyok,b_yshny_volochyok_adj,,
 b_torzhok,b_torzhok,,Torzhok
 b_torzhok,b_torzhok_adj,,
 c_ustyuzhna,PROV1271,,Ustyug Zhelezny
-c_ustyuzhna,c_ustyuzhna,,
 c_ustyuzhna,c_ustyuzhna_adj,,Ustyug-Zhelezny
 b_bezhetsk,b_bezhetsk,,Bezhichi
 b_bezhetsk,b_bezhetsk_adj,,
@@ -940,7 +881,6 @@ b_gorodecnovgorod,b_gorodecnovgorod_adj,,
 b_ustyuzhna,b_ustyuzhna,,Ustyug-Zhelezny
 b_ustyuzhna,b_ustyuzhna_adj,,
 c_zaozerye,PROV404,,Tudozerskij
-c_zaozerye,c_zaozerye,,
 c_zaozerye,c_zaozerye_adj,,Olonec
 b_tudorzerkij,b_tudorzerkij,,Tudorzerkij
 b_tudorzerkij,b_tudorzerkij_adj,,
@@ -949,7 +889,6 @@ b_vytegra,b_vytegra_adj,,
 d_russa,d_russa,,Rusa
 d_russa,d_russa_adj,,Rusa
 c_russa,PROV1269,,Rusa
-c_russa,c_russa,,
 c_russa,c_russa_adj,,Rusa
 b_demjanskkholmsky,b_demjanskkholmsky,,Demjansk
 b_demjanskkholmsky,b_demjanskkholmsky_adj,,
@@ -960,7 +899,6 @@ b_velilkholmsky,b_velilkholmsky_adj,,
 b_rusa,b_rusa,,Rusa
 b_rusa,b_rusa_adj,,
 c_porkhov,PROV1270,,Porhov
-c_porkhov,c_porkhov,,
 c_porkhov,c_porkhov_adj,,Porhov
 b_porkhov,b_porkhov,,Porhov
 b_porkhov,b_porkhov_adj,,
@@ -969,7 +907,6 @@ b_opokivysgorod,b_opokivysgorod_adj,,
 b_jamvysgorod,b_jamvysgorod,,Jam
 b_jamvysgorod,b_jamvysgorod_adj,,
 c_velikiye_luki,PROV415,,Luki
-c_velikiye_luki,c_velikiye_luki,,
 c_velikiye_luki,c_velikiye_luki_adj,,Lukian
 b_velikiyeluki,b_velikiyeluki,,Luki
 b_velikiyeluki,b_velikiyeluki_adj,,
@@ -982,7 +919,6 @@ b_nevel,b_nevel_adj,,
 d_pskov,d_pskov,,Pskov
 d_pskov,d_pskov_adj,,Pskov
 c_pskov,PROV413,,Pskov
-c_pskov,c_pskov,,
 c_pskov,c_pskov_adj,,Pskov
 b_ostrovpskov,b_ostrovpskov,,Ostrov
 b_ostrovpskov,b_ostrovpskov_adj,,
@@ -1010,7 +946,6 @@ d_beloozero,d_beloozero_adj_samoyed,,Vesian
 d_beloozero,d_beloozero_adj_ugricbaltic,,Vesian
 d_beloozero,d_beloozero_adj_vepsian,,Vesian
 c_beloozero,PROV408,,Beloozero
-c_beloozero,c_beloozero,,
 c_beloozero,c_beloozero_adj,,Beloozero
 b_belozersk,b_belozersk,,Belozersk
 b_belozersk,b_belozersk_adj,,
@@ -1021,7 +956,6 @@ b_volok_slovinskij,b_volok_slovinskij_adj,,
 b_fedosyevo,b_fedosyevo,,Fedosyevo
 b_fedosyevo,b_fedosyevo_adj,,
 c_mologa,PROV1287,,Mologa
-c_mologa,c_mologa,,
 c_mologa,c_mologa_adj,,Mologa
 b_mologa,b_mologa,,Mologa
 b_mologa,b_mologa_adj,,
@@ -1032,7 +966,6 @@ b_holopojgorodokmologa,b_holopojgorodokmologa_adj,,
 b_sheksna,b_sheksna,,Nikolskoye
 b_sheksna,b_sheksna_adj,,
 c_vologda,PROV406,,Vologda
-c_vologda,c_vologda,,
 c_vologda,c_vologda_adj,,Vologda
 b_vologda,b_vologda,,Vologda
 b_vologda,b_vologda_adj,,
@@ -1061,7 +994,6 @@ k_poland,swedish,,Pulinaland
 d_mazovia,d_mazovia,,Mazowsze
 d_mazovia,d_mazovia_adj,,Mazowieckie
 c_plock,PROV529,,Plock
-c_plock,c_plock,,
 c_plock,c_plock_adj,,Plockian
 b_plock,b_plock,,Plock
 b_plock,b_plock_adj,,
@@ -1072,7 +1004,6 @@ b_ciechanow,b_ciechanow_adj,,
 b_wyszogrod,b_wyszogrod,,Wyszogród
 b_wyszogrod,b_wyszogrod_adj,,
 c_pultusk,PROV1055,,Pultusk
-c_pultusk,c_pultusk,,
 c_pultusk,c_pultusk_adj,,Pultusk
 b_zakroczym,b_zakroczym,,Zakroczym
 b_zakroczym,b_zakroczym_adj,,
@@ -1083,7 +1014,6 @@ b_czerwinsk,b_czerwinsk_adj,,
 b_wizna,b_wizna,,Wizna
 b_wizna,b_wizna_adj,,
 c_rawamazovia,PROV1314,,Rawa
-c_rawamazovia,c_rawamazovia,,
 c_rawamazovia,c_rawamazovia_adj,,Brodnoski
 b_rawa,b_rawa,,Rawa
 b_rawa,b_rawa_adj,,
@@ -1094,7 +1024,6 @@ b_sochaczew,b_sochaczew_adj,,
 b_jezow,b_jezow,,Jezów
 b_jezow,b_jezow_adj,,
 c_czersk,PROV530,,Czersk
-c_czersk,c_czersk,,
 c_czersk,c_czersk_adj,,Czerskian
 b_czersk,b_czersk,,Czersk
 b_czersk,b_czersk_adj,,
@@ -1108,7 +1037,6 @@ d_greater_poland,d_greater_poland,,Wielkopolska
 d_greater_poland,d_greater_poland_adj,,Wielkopolskie
 d_greater_poland,german,,Posen
 c_santok,PROV1302,,Santok
-c_santok,c_santok,,
 c_santok,c_santok_adj,,Santok
 b_santok,b_santok,,Santok
 b_santok,b_santok_adj,,
@@ -1117,7 +1045,6 @@ b_drzen,b_drzen_adj,,
 b_gorzow,b_gorzow,,Gorzew
 b_gorzow,b_gorzow_adj,,
 c_gnieznienskie,PROV429,,Gniezno
-c_gnieznienskie,c_gnieznienskie,,
 c_gnieznienskie,c_gnieznienskie_adj,,Gnieznienskian
 c_gnieznienskie,danish,,Gnesen
 c_gnieznienskie,german,,Gnesen
@@ -1138,7 +1065,6 @@ b_lekno,b_lekno_adj,,
 b_znin,b_znin,,Znin
 b_znin,b_znin_adj,,
 c_poznanskie,PROV431,,Poznan
-c_poznanskie,c_poznanskie,,
 c_poznanskie,c_poznanskie_adj,,Poznanskian
 c_poznanskie,danish,,Posen
 c_poznanskie,german,,Posen
@@ -1163,7 +1089,6 @@ b_sroda,b_sroda_adj,,
 b_lubin,b_lubin,,Lubin
 b_lubin,b_lubin_adj,,
 c_kaliskie,PROV432,,Kalisz
-c_kaliskie,c_kaliskie,,
 c_kaliskie,c_kaliskie_adj,,Kaliskian
 b_ostrzeszow,b_ostrzeszow,,Ostrzeszów
 b_ostrzeszow,b_ostrzeszow_adj,,
@@ -1178,7 +1103,6 @@ b_ladte,b_ladte_adj,,
 d_silesia,d_silesia,,Slask
 d_silesia,d_silesia_adj,,Slaski
 c_upper_silesia,PROV434,,Wroclaw
-c_upper_silesia,c_upper_silesia,,
 c_upper_silesia,c_upper_silesia_adj,,Upper Silesian
 c_upper_silesia,danish,,Breslau
 c_upper_silesia,german,,Breslau
@@ -1213,7 +1137,6 @@ b_brzeg,norse,,Brieg
 b_brzeg,norwegian,,Brieg
 b_brzeg,swedish,,Brieg
 c_lower_silesia,PROV435,,Glogów
-c_lower_silesia,c_lower_silesia,,
 c_lower_silesia,c_lower_silesia_adj,,Lower Silesian
 c_lower_silesia,danish,,Glogau
 c_lower_silesia,german,,Glogau
@@ -1245,7 +1168,6 @@ b_lubiaz,b_lubiaz,,Lubiaz
 b_lubiaz,b_lubiaz_adj,,
 b_lubiaz,german,,Leubus
 c_opole,PROV433,,Opole
-c_opole,c_opole,,
 c_opole,c_opole_adj,,Opolian
 c_opole,danish,,Uppeln
 c_opole,german,,Uppeln
@@ -1269,7 +1191,6 @@ b_raciborz,b_raciborz,,Racibórz
 b_raciborz,b_raciborz_adj,,
 b_raciborz,german,,Ratibor
 c_legnica,PROV999,,Legnica
-c_legnica,c_legnica,,
 c_legnica,c_legnica_adj,,Legnica
 c_legnica,danish,,Liegnitz
 c_legnica,german,,Liegnitz
@@ -1293,7 +1214,6 @@ b_boleslawiec,b_boleslawiec,,Scinawa
 b_boleslawiec,b_boleslawiec_adj,,
 b_boleslawiec,german,,Bunzlau
 c_cieszyn,PROV526,,Cieszyn
-c_cieszyn,c_cieszyn,,
 c_cieszyn,c_cieszyn_adj,,Cieszyan
 c_cieszyn,danish,,Teschen
 c_cieszyn,german,,Teschen
@@ -1319,7 +1239,6 @@ b_bielsko,german,,Bielitz
 d_lesser_poland,d_lesser_poland,,Malopolska
 d_lesser_poland,d_lesser_poland_adj,,Malopolskie
 c_krakowskie,PROV527,,Krakow
-c_krakowskie,c_krakowskie,,
 c_krakowskie,c_krakowskie_adj,,Krakowskian
 c_krakowskie,danish,,Krakau
 c_krakowskie,german,,Krakau
@@ -1344,7 +1263,6 @@ b_kleparz,b_kleparz_adj,,
 b_wojnicz,b_wojnicz,,Wojnicz
 b_wojnicz,b_wojnicz_adj,,
 c_sacz,PROV532,,Sacz
-c_sacz,c_sacz,,
 c_sacz,c_sacz_adj,,Saczian
 c_sacz,danish,,Sandez
 c_sacz,german,,Sandez
@@ -1365,7 +1283,6 @@ b_szczyrzycz,b_szczyrzycz_adj,,
 b_tarnow,b_tarnow,,Tarnów
 b_tarnow,b_tarnow_adj,,
 c_lublin,PROV996,,Lublin
-c_lublin,c_lublin,,
 c_lublin,c_lublin_adj,,Lublin
 b_goraj,b_goraj,,Goray
 b_goraj,b_goraj_adj,,
@@ -1376,7 +1293,6 @@ b_lublin,b_lublin_adj,,
 b_lukow,b_lukow,,Luków
 b_lukow,b_lukow_adj,,
 c_sandomierskie,PROV531,,Sandomierz
-c_sandomierskie,c_sandomierskie,,
 c_sandomierskie,c_sandomierskie_adj,,Sandomierskian
 b_sandomierz,b_sandomierz,,Sandomierz
 b_sandomierz,b_sandomierz_adj,,
@@ -1403,7 +1319,6 @@ d_kuyavia,prussian,,Kujavija
 d_kuyavia,swabian,,Kujawien
 d_kuyavia,thuringian,,Kujawien
 c_chelminskie,PROV369,,Chelmno
-c_chelminskie,c_chelminskie,,
 c_chelminskie,c_chelminskie_adj,,Chelminskian
 c_chelminskie,bavarian,,Kulm
 c_chelminskie,dutch,,Kulm
@@ -1507,7 +1422,6 @@ b_loza,prussian,,Helmza
 b_loza,swabian,,Kulmsee
 b_loza,thuringian,,Kulmsee
 c_kujawy,PROV428,,Kujawy
-c_kujawy,c_kujawy,,
 c_kujawy,c_kujawy_adj,,Kujawian
 b_inowroclaw,b_inowroclaw,,Inowroclaw
 b_inowroclaw,b_inowroclaw_adj,,
@@ -1522,7 +1436,6 @@ b_brzesckujawski,b_brzesckujawski_adj,,
 d_sieradzko-leczyckie,d_sieradzko-leczyckie,,Sieradz-Leczyca
 d_sieradzko-leczyckie,d_sieradzko-leczyckie_adj,,Sieradzko
 c_sieradzko-leczyckie,PROV528,,Sieradz
-c_sieradzko-leczyckie,c_sieradzko-leczyckie,,
 c_sieradzko-leczyckie,c_sieradzko-leczyckie_adj,,Sieradzko-Leczyckian
 c_sieradzko-leczyckie,danish,,Schieratz
 c_sieradzko-leczyckie,german,,Schieratz
@@ -1543,7 +1456,6 @@ b_piotrkow,b_piotrkow_adj,,
 b_sulejow,b_sulejow,,Sulejów
 b_sulejow,b_sulejow_adj,,
 c_leczyca,PROV1315,,Leczyca
-c_leczyca,c_leczyca,,
 c_leczyca,c_leczyca_adj,,Leczyca
 b_inowlodz,b_inowlodz,,Inowlódz
 b_inowlodz,b_inowlodz_adj,,
@@ -1558,7 +1470,6 @@ k_lithuania,k_lithuania_adj,,Lietuvos
 d_lithuanians,d_lithuanians,,Lietuva
 d_lithuanians,d_lithuanians_adj,,Lietuvos
 c_aukshayts,PROV420,,Lietuva
-c_aukshayts,c_aukshayts,,
 c_aukshayts,c_aukshayts_adj,,Vilnian
 b_salcininkai,b_salcininkai,,Šalcininkai
 b_salcininkai,b_salcininkai_adj,,
@@ -1612,7 +1523,6 @@ b_medininkai,moravian,,Miedniki Královské
 b_medininkai,polish,,Miedniki Królewskie
 b_medininkai,pommeranian,,Miedniki Królewskie
 c_deltuva,PROV979,,Deltuva
-c_deltuva,c_deltuva,,
 c_deltuva,c_deltuva_adj,,Deltuvian
 c_deltuva,bavarian,,Dewilto
 c_deltuva,bohemian,,Dievaltov
@@ -1709,7 +1619,6 @@ b_deltuva,russian,,Diaveltva
 b_deltuva,swabian,,Dewilto
 b_deltuva,thuringian,,Dewilto
 c_utena,PROV997,,Nalshia
-c_utena,c_utena,,
 c_utena,c_utena_adj,,Nalshia
 c_utena,bavarian,,Nalsen
 c_utena,dutch,,Nalsen
@@ -1775,7 +1684,6 @@ b_svencionys,pommeranian,,Swieciany
 b_svencionys,swabian,,Swenziany
 b_svencionys,thuringian,,Swenziany
 c_asmena,PROV1305,,Asmena
-c_asmena,c_asmena,,
 c_asmena,c_asmena_adj,,Ašmena
 c_asmena,bavarian,,Aschemynne
 c_asmena,bohemian,,Ošmiana
@@ -1822,7 +1730,6 @@ b_asmena,russian,,Ošmyany
 b_asmena,swabian,,Aschemynne
 b_asmena,thuringian,,Aschemynne
 c_lida,PROV990,,Dzùkija
-c_lida,c_lida,,
 c_lida,c_lida_adj,,Lyda
 c_lida,bohemian,,Lida
 c_lida,moravian,,Lida
@@ -1859,7 +1766,6 @@ d_trakai,pommeranian,,Troki
 d_trakai,swabian,,Traken
 d_trakai,thuringian,,Traken
 c_trakai,PROV989,,Trakai
-c_trakai,c_trakai,,
 c_trakai,c_trakai_adj,,Trakaian
 c_trakai,bavarian,,Traken
 c_trakai,bohemian,,Trokaj
@@ -1950,7 +1856,6 @@ b_trakai,pommeranian,,Troki
 b_trakai,swabian,,Traken
 b_trakai,thuringian,,Traken
 c_sudovia,PROV423,,Sùduva
-c_sudovia,c_sudovia,,
 c_sudovia,c_sudovia_adj,,Sudovia
 c_sudovia,bavarian,,Sudauen
 c_sudovia,dutch,,Sudauen
@@ -2013,7 +1918,6 @@ b_elk,pommeranian,,Elk
 b_elk,swabian,,Lyck
 b_elk,thuringian,,Lyck
 c_yatvyagi,PROV426,,Dainava
-c_yatvyagi,c_yatvyagi,,
 c_yatvyagi,c_yatvyagi_adj,,Dainava
 b_skidlius,b_skidlius,,Skidlius
 b_skidlius,b_skidlius_adj,,
@@ -2048,7 +1952,6 @@ b_kymundsdorf,thuringian,,Kymundsdorf
 d_samogitia,d_samogitia,,Samogitia
 d_samogitia,d_samogitia_adj,,Samogitian
 c_scalovia,PROV422,,Skalva
-c_scalovia,c_scalovia,,
 c_scalovia,c_scalovia_adj,,Scalovian
 c_scalovia,bavarian,,Schalauen
 c_scalovia,dutch,,Schalauen
@@ -2124,7 +2027,6 @@ b_ragnit,russian,,Neman
 b_ragnit,swabian,,Landeshut
 b_ragnit,thuringian,,Landeshut
 c_zhmud,PROV421,,Žëmaitëjë
-c_zhmud,c_zhmud,,
 c_zhmud,c_zhmud_adj,,Lithuanian
 c_zhmud,bavarian,,Sameiten
 c_zhmud,dutch,,Sameiten
@@ -2211,7 +2113,6 @@ b_jomiskis,pommeranian,,Janiszki
 b_jomiskis,swabian,,Jonischken
 b_jomiskis,thuringian,,Jonischken
 c_memel,PROV372,,Karšuva
-c_memel,c_memel,,
 c_memel,c_memel_adj,,Karšuva
 c_memel,bavarian,,Karschow
 c_memel,dutch,,Karschow
@@ -2284,7 +2185,6 @@ b_bayerburg,pommeranian,,Bajerburgo
 b_bayerburg,swabian,,Bayerburg
 b_bayerburg,thuringian,,Bayerburg
 c_upyte,PROV992,,Upytë
-c_upyte,c_upyte,,
 c_upyte,c_upyte_adj,,Upytian
 c_upyte,bohemian,,Upita
 c_upyte,moravian,,Upita
@@ -2331,7 +2231,6 @@ d_prussia,d_prussia_adj,,Prusiskan
 d_prussia,bohemian,,Prusy
 d_prussia,moravian,,Prusy
 c_sambia,PROV371,,Sambi
-c_sambia,c_sambia,,
 c_sambia,c_sambia_adj,,Sambian
 c_sambia,anglonorse,,Zambia
 c_sambia,bohemian,,Sambija
@@ -2419,7 +2318,6 @@ b_konigsberg,pommeranian,,Królewiec
 b_konigsberg,prussian,,Twangste
 b_konigsberg,russian,,Korolevets
 c_marienburg,PROV370,,Warmia
-c_marienburg,c_marienburg,,
 c_marienburg,c_marienburg_adj,,Warmian
 c_marienburg,anglonorse,,Ermland
 c_marienburg,bohemian,,Varmia
@@ -2473,7 +2371,6 @@ b_olsztyn,polish,,Holstin
 b_olsztyn,pommeranian,,Holstin
 b_olsztyn,prussian,,Alnasteini
 c_galindia,PROV427,,Galindia
-c_galindia,c_galindia,,
 c_galindia,c_galindia_adj,,Galindian
 c_galindia,anglonorse,,Galinden
 c_galindia,bohemian,,Galindie
@@ -2520,7 +2417,6 @@ b_lotzen,polish,,Gizycko
 b_lotzen,pommeranian,,Gizycko
 b_lotzen,prussian,,Lëcai
 c_pomesania,PROV1297,,Pomesania
-c_pomesania,c_pomesania,,
 c_pomesania,c_pomesania_adj,,Pomesanian
 c_pomesania,anglonorse,,Pomesanien
 c_pomesania,bohemian,,Pomezania
@@ -2577,7 +2473,6 @@ b_prabuty,polish,,Prabuty
 b_prabuty,pommeranian,,Prabuty
 b_prabuty,prussian,,Reizija
 c_pogesania,PROV1298,,Pogesania
-c_pogesania,c_pogesania,,
 c_pogesania,c_pogesania_adj,,Pogesanian
 c_pogesania,anglonorse,,Pogesanien
 c_pogesania,bohemian,,Pogezania
@@ -2641,7 +2536,6 @@ b_ostroda,polish,,Ostróda
 b_ostroda,pommeranian,,Ostróda
 b_ostroda,prussian,,Austrati
 c_bartia,PROV1299,,Bartia
-c_bartia,c_bartia,,
 c_bartia,c_bartia_adj,,Bartian
 c_bartia,anglonorse,,Barten
 c_bartia,bohemian,,Barcia
@@ -2709,7 +2603,6 @@ b_reszel,polish,,Reszel
 b_reszel,pommeranian,,Reszel
 b_reszel,prussian,,Resl
 c_nadruvia,PROV1300,,Nadruvia
-c_nadruvia,c_nadruvia,,
 c_nadruvia,c_nadruvia_adj,,Nadruvian
 c_nadruvia,anglonorse,,Nadrauen
 c_nadruvia,bohemian,,Nadrowia
@@ -2763,7 +2656,6 @@ k_galicia,k_galicia_adj,,Halych-Volyn
 d_galich,d_galich,,Halych
 d_galich,d_galich_adj,,Halych
 c_galich,PROV536,,Halych
-c_galich,c_galich,,
 c_galich,c_galich_adj,,Halych
 b_halych,b_halych,,Galic
 b_halych,b_halych_adj,,
@@ -2780,7 +2672,6 @@ b_tysmenytsya,b_tysmenytsya_adj,,
 b_stryj,b_stryj,,Stryj
 b_stryj,b_stryj_adj,,
 c_peremyshl,PROV534,,Peremyshl
-c_peremyshl,c_peremyshl,,
 c_peremyshl,c_peremyshl_adj,,Peremyshl
 b_peremyshl,b_peremyshl,,Peremysl'
 b_peremyshl,b_peremyshl_adj,,
@@ -2793,7 +2684,6 @@ b_rzeszow,b_rzeszow_adj,,
 b_sudovavyshnia,b_sudovavyshnia,,Visnja
 b_sudovavyshnia,b_sudovavyshnia_adj,,
 c_terebovl,PROV546,,Terebovl
-c_terebovl,c_terebovl,,
 c_terebovl,c_terebovl_adj,,Terebovl
 b_terebovl,b_terebovl,,Terebovl
 b_terebovl,b_terebovl_adj,,
@@ -2808,7 +2698,6 @@ b_tykhomel,b_tykhomel_adj,,
 b_ilavche,b_ilavche,,Ilovec
 b_ilavche,b_ilavche_adj,,
 c_lutsk,PROV1285,,Luck
-c_lutsk,c_lutsk,,
 c_lutsk,c_lutsk_adj,,Luck
 b_zvenyhorod,b_zvenyhorod,,Zvenigorod
 b_zvenyhorod,b_zvenyhorod_adj,,
@@ -2823,7 +2712,6 @@ b_lutsk,b_lutsk_adj,,
 d_volhynia,d_volhynia,,Volyn
 d_volhynia,d_volhynia_adj,,Volyn
 c_vladimir_volynsky,PROV535,,Vladimir Volynsky
-c_vladimir_volynsky,c_vladimir_volynsky,,
 c_vladimir_volynsky,c_vladimir_volynsky_adj,,Vladimir-Volynskiy
 b_vladimirvolynsky,b_vladimirvolynsky,,Vladimir-Volynskij
 b_vladimirvolynsky,b_vladimirvolynsky_adj,,
@@ -2840,7 +2728,6 @@ b_turiisk,b_turiisk_adj,,
 b_stepan,b_stepan,,Stepan'
 b_stepan,b_stepan_adj,,
 c_beresty,PROV549,,Berestye
-c_beresty,c_beresty,,
 c_beresty,c_beresty_adj,,Berestye
 b_beresty,b_beresty,,Berestye
 b_beresty,b_beresty_adj,,
@@ -2851,7 +2738,6 @@ b_kamyanyets,b_kamyanyets_adj,,
 b_bialapodlaska,b_bialapodlaska,,Biala
 b_bialapodlaska,b_bialapodlaska_adj,,
 c_dorogobuzh,PROV1284,,Dorogobuž
-c_dorogobuzh,c_dorogobuzh,,
 c_dorogobuzh,c_dorogobuzh_adj,,Dorogobuž
 b_ostroh,b_ostroh,,Ostrog
 b_ostroh,b_ostroh_adj,,
@@ -2869,7 +2755,6 @@ d_podlaise,lettigallish,,Palenke
 d_podlaise,lithuanian,,Palenke
 d_podlaise,prussian,,Palenke
 c_podlasie,PROV425,,Belsk
-c_podlasie,c_podlasie,,
 c_podlasie,c_podlasie_adj,,Belsk
 b_drohiczyn,b_drohiczyn,,Dorogicinin
 b_drohiczyn,b_drohiczyn_adj,,
@@ -2880,7 +2765,6 @@ b_bransk,b_bransk_adj,,
 b_bielsk,b_bielsk,,Bel'sk
 b_bielsk,b_bielsk_adj,,
 c_jacwiez,PROV424,,Volkovysk
-c_jacwiez,c_jacwiez,,
 c_jacwiez,c_jacwiez_adj,,Navhrudka
 b_navahrudka,b_navahrudka,,Novgorodok
 b_navahrudka,b_navahrudka_adj,,
@@ -2893,7 +2777,6 @@ b_lavrashevmonastery,b_lavrashevmonastery_adj,,
 d_belz,d_belz,,Belz
 d_belz,d_belz_adj,,Belz
 c_belz,PROV993,,Belz
-c_belz,c_belz,,
 c_belz,c_belz_adj,,Belz
 b_volyn,b_volyn,,Volyn
 b_volyn,b_volyn_adj,,
@@ -2906,7 +2789,6 @@ b_szcerbrzeszyn,b_szcerbrzeszyn_adj,,
 b_belz,b_belz,,Belz
 b_belz,b_belz_adj,,
 c_chelm,PROV991,,Chelm
-c_chelm,c_chelm,,
 c_chelm,c_chelm_adj,,Chelm
 b_uhrusk,b_uhrusk,,Ugorvsk
 b_uhrusk,b_uhrusk_adj,,
@@ -2926,7 +2808,6 @@ k_wallachia,title_prefix,,VOIEVODAT_OF
 d_wallachia,d_wallachia,,Muntenia
 d_wallachia,d_wallachia_adj,,Muntenian
 c_tirgoviste,PROV515,,Tirgoviste
-c_tirgoviste,c_tirgoviste,,
 c_tirgoviste,c_tirgoviste_adj,,Tirgovistian
 b_targoviste,b_targoviste,,Târgoviste
 b_targoviste,b_targoviste_adj,,
@@ -2939,7 +2820,6 @@ b_curteadearges,b_curteadearges_adj,,
 b_campulung,b_campulung,,Câmpulung
 b_campulung,b_campulung_adj,,
 c_turnu,PROV514,,Turnu
-c_turnu,c_turnu,,
 c_turnu,c_turnu_adj,,Turnuian
 c_turnu,bulgarian,,Holavnik
 b_bucuresti,b_bucuresti,,Bucuresti
@@ -2999,14 +2879,12 @@ b_turnu,b_turnu,,Turnu
 b_turnu,b_turnu_adj,,
 b_turnu,bulgarian,,Holavnik
 c_ialomita,PROV1529,,Ialomita
-c_ialomita,c_ialomita,,
 c_ialomita,c_ialomita_adj,,Ialomitan
 b_braila,b_braila,,Braila
 b_braila,b_braila_adj,,
 b_piua_petrii,b_piua_petrii,,Orasul de Floci
 b_piua_petrii,b_piua_petrii_adj,,
 c_buzau,PROV1149,,Buzau
-c_buzau,c_buzau,,
 c_buzau,c_buzau_adj,,Buzauan
 b_parscov,b_parscov,,Parscov
 b_parscov,b_parscov_adj,,
@@ -3015,7 +2893,6 @@ b_buzau,b_buzau_adj,,
 d_oltenia,d_oltenia,,Oltenia
 d_oltenia,d_oltenia_adj,,Oltenian
 c_severin,PROV516,,Severin
-c_severin,c_severin,,
 c_severin,c_severin_adj,,Severinian
 c_severin,hungarian,,Szörényvár
 c_severin,szekely,,Szörényvár
@@ -3032,7 +2909,6 @@ b_craiova,b_craiova_adj,,
 b_vodita,b_vodita,,Vodita
 b_vodita,b_vodita_adj,,
 c_targujiu,PROV1148,,Targu Jiu
-c_targujiu,c_targujiu,,
 c_targujiu,c_targujiu_adj,,Targu Jiuan
 c_targujiu,hungarian,,Zsilvásárhely
 c_targujiu,szekely,,Zsilvásárhely
@@ -3068,7 +2944,6 @@ d_moldau,d_moldau,,Tara de Sus
 d_moldau,d_moldau_adj,,Moldovenesc
 d_moldau,short_name,,yes
 c_bacau,PROV1147,,Bacau
-c_bacau,c_bacau,,
 c_bacau,c_bacau_adj,,Bacauian
 c_bacau,avar,,Baka
 c_bacau,bashkir,,Baka
@@ -3161,7 +3036,6 @@ b_bacau,turkish,,Baka
 b_bacau,turkmen,,Baka
 b_bacau,uyghur,,Baka
 c_iasi,PROV1146,,Iasi
-c_iasi,c_iasi,,
 c_iasi,c_iasi_adj,,Iasian
 c_iasi,avar,,Yas
 c_iasi,bashkir,,Yas
@@ -3281,7 +3155,6 @@ b_iasimoldavia,turkish,,Yas
 b_iasimoldavia,turkmen,,Yas
 b_iasimoldavia,uyghur,,Yas
 c_torki,PROV545,,Suceava
-c_torki,c_torki,,
 c_torki,c_torki_adj,,Torkian
 c_torki,bavarian,,Sedschopff
 c_torki,franconian,,Sedschopff
@@ -3323,7 +3196,6 @@ d_basarabia,d_basarabia,,Tara de Jos
 d_basarabia,d_basarabia_adj,,Moldovenesc
 d_basarabia,short_name,,yes
 c_birlad,PROV513,,Bârlad
-c_birlad,c_birlad,,
 c_birlad,c_birlad_adj,,Birladian
 c_birlad,bavarian,,Bariach
 c_birlad,dutch,,Bariach
@@ -3383,7 +3255,6 @@ b_barladmoldavia,swabian,,Bariach
 b_barladmoldavia,szekely,,Barlád
 b_barladmoldavia,thuringian,,Bariach
 c_belgorod,PROV512,,Tighina
-c_belgorod,c_belgorod,,
 c_belgorod,c_belgorod_adj,,Belgorodian
 c_belgorod,avar,,Bender
 c_belgorod,bashkir,,Bender
@@ -3433,7 +3304,6 @@ b_tighina,turkish,,Bender
 b_tighina,turkmen,,Bender
 b_tighina,uyghur,,Bender
 c_galaz,PROV511,,Basarabia
-c_galaz,c_galaz,,
 c_galaz,c_galaz_adj,,Galazian
 b_oblucita,b_oblucita,,Oblucita
 b_oblucita,b_oblucita_adj,,
@@ -3491,7 +3361,6 @@ d_esztergom,greek,,Pannonia Valeria
 d_esztergom,moravian,,Ostrihom
 d_esztergom,roman,,Pannonia Valeria
 c_fejer,PROV451,,Fejér
-c_fejer,c_fejer,,
 c_fejer,c_fejer_adj,,Fejérian
 b_rackeve,b_rackeve,,Ráckeve
 b_rackeve,b_rackeve_adj,,
@@ -3505,7 +3374,6 @@ b_szejesfehervar,bohemian,,Stolicný Belehrad
 b_szejesfehervar,german,,Stuhlweißenburg
 b_szejesfehervar,moravian,,Stolicný Belehrad
 c_esztergom,PROV444,,Visegrád
-c_esztergom,c_esztergom,,
 c_esztergom,c_esztergom_adj,,Visegrádian
 c_esztergom,bohemian,,Ostrihom
 c_esztergom,german,,Gran
@@ -3539,7 +3407,6 @@ b_visegrad,bohemian,,Vyšegrad
 b_visegrad,german,,Plintenburg
 b_visegrad,moravian,,Vyšegrad
 c_komarom,PROV1151,,Komarom
-c_komarom,c_komarom,,
 c_komarom,c_komarom_adj,,Komaromian
 c_komarom,bohemian,,Komárno
 c_komarom,greek,,Brigetio
@@ -3564,7 +3431,6 @@ d_gyor,karantanci,,Vjura
 d_gyor,moravian,,Ráb
 d_gyor,roman,,Pannonia Scarabantia
 c_gemer,PROV524,,Gyõr
-c_gemer,c_gemer,,
 c_gemer,c_gemer_adj,,Gyõrian
 c_gemer,bohemian,,Ráb
 c_gemer,croatian,,Jura
@@ -3595,7 +3461,6 @@ b_gyorvar,karantanci,,Vjura
 b_gyorvar,moravian,,Ráb
 b_gyorvar,roman,,Arrabona
 c_sopron,PROV450,,Sopron
-c_sopron,c_sopron,,
 c_sopron,c_sopron_adj,,Sopronian
 c_sopron,german,,Ödenburg
 c_sopron,greek,,Skarabantia
@@ -3614,7 +3479,6 @@ b_sopron,german,,Ödenburg
 b_sopron,greek,,Skarabantia
 b_sopron,roman,,Scarabantia
 c_pest,PROV522,,Veszprém
-c_pest,c_pest,,
 c_pest,c_pest_adj,,Veszprémian
 b_bakonybel,b_bakonybel,,Bakonybél
 b_bakonybel,b_bakonybel_adj,,
@@ -3631,7 +3495,6 @@ d_nyitra,german,,Neutra
 d_nyitra,hungarian,,Nyitra
 d_nyitra,moravian,,Nitra
 c_nitra,PROV443,,Nyitra
-c_nitra,c_nitra,,
 c_nitra,c_nitra_adj,,Nyitravárian
 c_nitra,bohemian,,Nitra
 c_nitra,german,,Neutra
@@ -3655,7 +3518,6 @@ b_nyitra,german,,Neutra
 b_nyitra,hungarian,,Nyitra
 b_nyitra,moravian,,Nitra
 c_trencin,PROV442,,Trencsén
-c_trencin,c_trencin,,
 c_trencin,c_trencin_adj,,Barsian
 c_trencin,bohemian,,Trencín
 c_trencin,german,,Trentschin
@@ -3685,7 +3547,6 @@ b_trencsen,german,,Trentschin
 b_trencsen,hungarian,,Trencsén
 b_trencsen,moravian,,Trencín
 c_bars,PROV1150,,Bars
-c_bars,c_bars,,
 c_bars,c_bars_adj,,Barsian
 c_bars,bohemian,,Tekov
 c_bars,hungarian,,Bars
@@ -3720,7 +3581,6 @@ b_barsvar,bohemian,,Tekov
 b_barsvar,hungarian,,Barsvár
 b_barsvar,moravian,,Tekov
 c_orava,PROV525,,Árva
-c_orava,c_orava,,
 c_orava,c_orava_adj,,Zvolenian
 c_orava,bohemian,,Orava
 c_orava,german,,Arwa
@@ -3748,7 +3608,6 @@ b_arva,hungarian,,Árva
 b_arva,moravian,,Orava
 b_arva,polish,,Orawa
 c_pressburg,PROV445,,Pozsony
-c_pressburg,c_pressburg,,
 c_pressburg,c_pressburg_adj,,Pozsonyian
 c_pressburg,bohemian,,Prešpurk
 c_pressburg,german,,Pressburg
@@ -3781,7 +3640,6 @@ b_pressburg,german,,Pressburg
 b_pressburg,hungarian,,Pozsony
 b_pressburg,moravian,,Prešporok
 c_hont,PROV1155,,Hont
-c_hont,c_hont,,
 c_hont,c_hont_adj,,Hontian
 b_fulekhungary,b_fulekhungary,,Fülek
 b_fulekhungary,b_fulekhungary_adj,,
@@ -3807,7 +3665,6 @@ d_pecs,roman,,Pannonia Prima
 d_pecs,russian,,Balaton
 d_pecs,serbian,,Balaton
 c_pecs,PROV452,,Tolna
-c_pecs,c_pecs,,
 c_pecs,c_pecs_adj,,Bodrogvárian
 c_pecs,bohemian,,Blatnohrad
 c_pecs,c_pecs_adj_bohemian,,Balaton
@@ -3831,7 +3688,6 @@ b_pecsvarad,b_pecsvarad_adj,,
 b_tolna,b_tolna,,Tolnavár
 b_tolna,b_tolna_adj,,
 c_vas,PROV454,,Kolon
-c_vas,c_vas,,
 c_vas,c_vas_adj,,Vasian
 c_vas,croatian,,Zelezna
 c_vas,german,,Eisenburg
@@ -3844,7 +3700,6 @@ b_tihany,b_tihany_adj,,
 b_kolonvar,b_kolonvar,,Kolonvár
 b_kolonvar,b_kolonvar_adj,,
 c_bereg,PROV537,,Somogy
-c_bereg,c_bereg,,
 c_bereg,c_bereg_adj,,Somogyian
 b_fonyod,b_fonyod,,Fonyód
 b_fonyod,b_fonyod_adj,,
@@ -3866,7 +3721,6 @@ d_ungvar,pommeranian,,Chrobatia
 d_ungvar,russian,,Chrobatia
 d_ungvar,serbian,,Chrobatia
 c_saris,PROV533,,Borsod
-c_saris,c_saris,,
 c_saris,c_saris_adj,,Borsodian
 c_saris,bohemian,,Šariš
 c_saris,german,,Scharosch
@@ -3886,7 +3740,6 @@ b_borsodvar,bohemian,,Boršograd
 b_borsodvar,german,,Borschod
 b_borsodvar,moravian,,Boršograd
 c_szepes,PROV1154,,Szepes
-c_szepes,c_szepes,,
 c_szepes,c_szepes_adj,,Szepesian
 c_szepes,bohemian,,Spiš
 c_szepes,german,,Zips
@@ -3912,7 +3765,6 @@ b_szepesvaralja,bohemian,,Spišský hrad
 b_szepesvaralja,german,,Kirchdorf
 b_szepesvaralja,moravian,,Spišský hrad
 c_zemplen,PROV1153,,Zemplén
-c_zemplen,c_zemplen,,
 c_zemplen,c_zemplen_adj,,Zemplénian
 c_zemplen,bohemian,,Zemplín
 c_zemplen,german,,Semplin
@@ -3937,7 +3789,6 @@ d_ujavar,d_ujavar,,Újavár
 d_ujavar,d_ujavar_adj,,Újavárian
 d_ujavar,name_tier,,count
 c_abauj,PROV538,,Abauj
-c_abauj,c_abauj,,
 c_abauj,c_abauj_adj,,Abaujian
 c_abauj,german,,Abaujwar
 c_abauj,moravian,,Abov
@@ -3950,7 +3801,6 @@ b_kassa,moravian,,Košice
 b_abaujszanto,b_abaujszanto,,Abaújvár
 b_abaujszanto,b_abaujszanto_adj,,
 c_heves,PROV523,,Heves
-c_heves,c_heves,,
 c_heves,c_heves_adj,,Hevian
 b_jaszbereny,b_jaszbereny,,Jászberény
 b_jaszbereny,b_jaszbereny_adj,,
@@ -3988,7 +3838,6 @@ d_csanad,d_csanad_adj_romanian,,Cenadian
 d_csanad,swabian,,Tschanad
 d_csanad,thuringian,,Tschanad
 c_csanad,PROV521,,Csanad
-c_csanad,c_csanad,,
 c_csanad,c_csanad_adj,,Csanádian
 c_csanad,bavarian,,Tschanad
 c_csanad,bohemian,,Chanád
@@ -4058,7 +3907,6 @@ b_csanad,romanian,,Cenad
 b_csanad,swabian,,Tschanad
 b_csanad,thuringian,,Tschanad
 c_krasso,PROV1006,,Krassó
-c_krasso,c_krasso,,
 c_krasso,c_krasso_adj,,Krassóian
 c_krasso,bosnian,,Karaševo
 c_krasso,c_krasso_adj_bosnian,,Karaševoian
@@ -4104,7 +3952,6 @@ b_krasso,croatian,,Karaševo
 b_krasso,romanian,,Carashova
 b_krasso,serbian,,Karaševo
 c_temes,PROV517,,Temes
-c_temes,c_temes,,
 c_temes,c_temes_adj,,Temesish
 c_temes,bavarian,,Temes
 c_temes,bosnian,,Temiš
@@ -4210,7 +4057,6 @@ d_bacs,d_bacs_adj_turkish,,Baçian
 d_bacs,turkmen,,Baç
 d_bacs,d_bacs_adj_turkmen,,Baçian
 c_bacs,PROV518,,Bodrog
-c_bacs,c_bacs,,
 c_bacs,c_bacs_adj,,Bácsish
 c_bacs,bavarian,,Batsch
 c_bacs,bohemian,,Bách
@@ -4312,7 +4158,6 @@ b_bodrog,bosnian,,Bodro
 b_bodrog,croatian,,Bodro
 b_bodrog,serbian,,Bodro
 c_szekezfehervar,PROV453,,Csongrád
-c_szekezfehervar,c_szekezfehervar,,
 c_szekezfehervar,c_szekezfehervar_adj,,Csongrádian
 c_szekezfehervar,bavarian,,Stuhlweißenburg
 c_szekezfehervar,bohemian,,Czernohrad
@@ -4399,7 +4244,6 @@ d_syrmia,thuringian,,Syrmien
 d_syrmia,turkish,,Sirem
 d_syrmia,d_syrmia_adj_turkish,,Sireman
 c_syrmia,PROV1000,,Szerém
-c_syrmia,c_syrmia,,
 c_syrmia,c_syrmia_adj,,Syrmian
 c_syrmia,bavarian,,Syrmien
 c_syrmia,bohemian,,Sriem
@@ -4463,7 +4307,6 @@ b_slankamen,thuringian,,Slankamen
 b_slankamen,turkish,,Salankamen
 b_slankamen,turkmen,,Salankamen
 c_krizevci,PROV462,,Vukova
-c_krizevci,c_krizevci,,
 c_krizevci,c_krizevci_adj,,Vukovan
 c_krizevci,bavarian,,Wukowar
 c_krizevci,dutch,,Wukowar
@@ -4550,7 +4393,6 @@ d_pest,d_pest_adj_bohemian,,Bihárian
 d_pest,d_pest_adj_moravian,,Bihárian
 d_pest,d_pest_adj_romanian,,Bihorian
 c_zarand,PROV1005,,Zaránd
-c_zarand,c_zarand,,
 c_zarand,c_zarand_adj,,Zarándian
 c_zarand,romanian,,Zarand
 b_jeno,b_jeno,,Jenö
@@ -4583,7 +4425,6 @@ b_zarandvar,romanian,,Zarand
 b_arad,b_arad,,Arad
 b_arad,b_arad_adj,,
 c_bihar,PROV520,,Bihar
-c_bihar,c_bihar,,
 c_bihar,c_bihar_adj,,Biharian
 c_bihar,bohemian,,Bihár
 c_bihar,c_bihar_adj_bohemian,,Bihárian
@@ -4637,7 +4478,6 @@ b_bihar,bohemian,,Bihár
 b_bihar,moravian,,Bihár
 b_bihar,romanian,,Bihor
 c_bekes,PROV1152,,Békés
-c_bekes,c_bekes,,
 c_bekes,c_bekes_adj,,Békésian
 c_bekes,bavarian,,Bekesch
 c_bekes,bohemian,,Békéš
@@ -4731,7 +4571,6 @@ d_transylvania,d_transylvania_adj_turkish,,Erdehstanian
 d_transylvania,turkmen,,Erdehstan
 d_transylvania,d_transylvania_adj_turkmen,,Erdehstanian
 c_szekelyfold,PROV540,,Torda
-c_szekelyfold,c_szekelyfold,,
 c_szekelyfold,c_szekelyfold_adj,,Tordan
 c_szekelyfold,bavarian,,Thorenburg
 c_szekelyfold,dutch,,Thorenburg
@@ -4795,7 +4634,6 @@ b_balvanyosvar,romanian,,Ungurash
 b_balvanyosvar,swabian,,Schlosswall
 b_balvanyosvar,thuringian,,Schlosswall
 c_feher,PROV519,,Fehér
-c_feher,c_feher,,
 c_feher,c_feher_adj,,Fehérian
 c_feher,bavarian,,Weißenburg
 c_feher,dutch,,Weißenburg
@@ -4918,7 +4756,6 @@ b_feketehalom,romanian,,Codlea
 b_feketehalom,swabian,,Schwarzburg
 b_feketehalom,thuringian,,Schwarzburg
 c_marmaros,PROV539,,Szatmár
-c_marmaros,c_marmaros,,
 c_marmaros,c_marmaros_adj,,Szatmárish
 c_marmaros,bavarian,,Sathmar
 c_marmaros,dutch,,Sathmar
@@ -5012,7 +4849,6 @@ d_pomeralia,d_pomeralia,,Pomeralia
 d_pomeralia,d_pomeralia_adj,,Pomeralian
 d_pomeralia,german,,Pommerellen
 c_danzig,PROV368,,Danzig
-c_danzig,c_danzig,,
 c_danzig,c_danzig_adj,,Gdansk
 c_danzig,bohemian,,Gdansk
 c_danzig,bosnian,,Gdansk
@@ -5076,7 +4912,6 @@ b_gdansk,pommeranian,,Gyddanyzc
 b_gdansk,russian,,Gdansk
 b_gdansk,serbian,,Gdansk
 c_swiecie,PROV1301,,Schlochau
-c_swiecie,c_swiecie,,
 c_swiecie,c_swiecie_adj,,Swiecie
 c_swiecie,bohemian,,Swiecie
 c_swiecie,bosnian,,Swiecie
@@ -5179,7 +5014,6 @@ d_livonia,samoyed,,Liivinmaa
 d_livonia,ugricbaltic,,Liivimaa
 d_livonia,vepsian,,Liivimaa
 c_toreida,PROV1068,,Rìga
-c_toreida,c_toreida,,
 c_toreida,c_toreida_adj,,Toreidan
 c_toreida,finnish,,Toreida
 c_toreida,german,,Thoreveda
@@ -5288,7 +5122,6 @@ b_toreida,samoyed,,Toreida
 b_toreida,ugricbaltic,,Toreida
 b_toreida,vepsian,,Toreida
 c_metsepole,PROV986,,Metsepole
-c_metsepole,c_metsepole,,
 c_metsepole,c_metsepole_adj,,Metsepolian
 b_cesis,b_cesis,,Wenden
 b_cesis,b_cesis_adj,,
@@ -5339,7 +5172,6 @@ b_limbazi,samoyed,,Lemisele
 b_limbazi,ugricbaltic,,Lemisele
 b_limbazi,vepsian,,Lemisele
 c_livs,PROV377,,Saccalia
-c_livs,c_livs,,
 c_livs,c_livs_adj,,Livonian
 c_livs,finnish,,Sakala
 c_livs,german,,Sackele
@@ -5449,7 +5281,6 @@ d_talava,samoyed,,Tãlava
 d_talava,ugricbaltic,,Tãlava
 d_talava,vepsian,,Tãlava
 c_lettigalians,PROV375,,Tholowa
-c_lettigalians,c_lettigalians,,
 c_lettigalians,c_lettigalians_adj,,Lettigallian
 c_lettigalians,finnish,,Tãlava
 c_lettigalians,german,,Lettgallen
@@ -5549,7 +5380,6 @@ b_beverina,samoyed,,Beverina
 b_beverina,ugricbaltic,,Beverina
 b_beverina,vepsian,,Beverina
 c_atzele,PROV988,,Atzele
-c_atzele,c_atzele,,
 c_atzele,c_atzele_adj,,Atzeleian
 c_atzele,finnish,,Atzele
 c_atzele,german,,Adsel
@@ -5631,7 +5461,6 @@ d_courland,samoyed,,Kuurinmaa
 d_courland,ugricbaltic,,Kuramaa
 d_courland,vepsian,,Kuramaa
 c_bandava,PROV1307,,Bandava
-c_bandava,c_bandava,,
 c_bandava,c_bandava_adj,,Bandavaish
 b_kuldiga,b_kuldiga,,Goldingen
 b_kuldiga,b_kuldiga_adj,,
@@ -5698,7 +5527,6 @@ b_embute,samoyed,,Embute
 b_embute,ugricbaltic,,Embute
 b_embute,vepsian,,Embute
 c_duvzare,PROV1308,,Duvzare
-c_duvzare,c_duvzare,,
 c_duvzare,c_duvzare_adj,,Duvzarish
 b_liepaja,b_liepaja,,Libau
 b_liepaja,b_liepaja_adj,,
@@ -5752,7 +5580,6 @@ b_impiltis,samoyed,,Impiltis
 b_impiltis,ugricbaltic,,Impiltis
 b_impiltis,vepsian,,Impiltis
 c_kurs,PROV373,,Vredecuren
-c_kurs,c_kurs,,
 c_kurs,c_kurs_adj,,Kursian
 c_kurs,finnish,,Vanema
 c_kurs,karelian,,Vanema
@@ -5837,7 +5664,6 @@ d_zemigalia,samoyed,,Zemgãl
 d_zemigalia,ugricbaltic,,Zemgãl
 d_zemigalia,vepsian,,Zemgãl
 c_zemigalians,PROV374,,Opemele
-c_zemigalians,c_zemigalians,,
 c_zemigalians,c_zemigalians_adj,,Zemigallian
 c_zemigalians,finnish,,Upmale
 c_zemigalians,karelian,,Upmale
@@ -5934,7 +5760,6 @@ b_pilssala,samoyed,,Pilssala
 b_pilssala,ugricbaltic,,Pilssala
 b_pilssala,vepsian,,Pilssala
 c_selija,PROV985,,Sèlija
-c_selija,c_selija,,
 c_selija,c_selija_adj,,Selijan
 c_selija,bohemian,,Selonia
 c_selija,finnish,,Sèlija
@@ -6018,7 +5843,6 @@ d_lettigale,samoyed,,Jersika
 d_lettigale,ugricbaltic,,Jersika
 d_lettigale,vepsian,,Jersika
 c_jeriska,PROV963,,Jersika
-c_jeriska,c_jeriska,,
 c_jeriska,c_jeriska_adj,,Jeriskaian
 b_krustpils,b_krustpils,,Kreutzburg
 b_krustpils,b_krustpils_adj,,
@@ -6103,7 +5927,6 @@ b_jersika,samoyed,,Jersika
 b_jersika,ugricbaltic,,Jersika
 b_jersika,vepsian,,Jersika
 c_west_dvina,PROV416,,Rositten
-c_west_dvina,c_west_dvina,,
 c_west_dvina,c_west_dvina_adj,,West Dvinian
 c_west_dvina,bohemian,,Rzezyca
 c_west_dvina,finnish,,Rëzne
@@ -6203,7 +6026,6 @@ d_esthonia,swedish,,Esthland
 d_esthonia,ugricbaltic,,Eesti
 d_esthonia,vepsian,,Eesti
 c_reval,PROV378,,Harria
-c_reval,c_reval,,
 c_reval,c_reval_adj,,Kalevanian
 c_reval,anglonorse,,Harria
 c_reval,danish,,Hæriæ
@@ -6314,7 +6136,6 @@ b_tallin,swedish,,Räffle
 b_tallin,ugricbaltic,,Lyndanisse
 b_tallin,vepsian,,Lyndanisse
 c_narva,PROV380,,Vironia
-c_narva,c_narva,,
 c_narva,c_narva_adj,,Narvaian
 c_narva,anglonorse,,Virland
 c_narva,danish,,Virland
@@ -6433,7 +6254,6 @@ b_rakvere,samoyed,,Rakvere
 b_rakvere,ugricbaltic,,Rakvere
 b_rakvere,vepsian,,Rakvere
 c_jarva,PROV984,,Järva
-c_jarva,c_jarva,,
 c_jarva,c_jarva_adj,,Järvian
 c_jarva,anglonorse,,Jerwia
 c_jarva,danish,,Jerwia
@@ -6518,7 +6338,6 @@ d_dorpat,samoyed,,Ugandi
 d_dorpat,ugricbaltic,,Ugandi
 d_dorpat,vepsian,,Ugandi
 c_dorpat,PROV379,,Ugaunia
-c_dorpat,c_dorpat,,
 c_dorpat,c_dorpat_adj,,Dorpatian
 c_dorpat,finnish,,Ugandi
 c_dorpat,german,,Uggenois
@@ -6617,7 +6436,6 @@ b_tartu,samoyed,,Tarbatu
 b_tartu,ugricbaltic,,Tarbatu
 b_tartu,vepsian,,Tarbatu
 c_vaiga,PROV1309,,Vaiga
-c_vaiga,c_vaiga,,
 c_vaiga,c_vaiga_adj,,Vaigan
 b_puurmani,b_puurmani,,Talkhof
 b_puurmani,b_puurmani_adj,,
@@ -6668,7 +6486,6 @@ d_osel_wiek,samoyed,,Saare-Lääne
 d_osel_wiek,ugricbaltic,,Saare-Lääne
 d_osel_wiek,vepsian,,Saare-Lääne
 c_laanemaa,PROV987,,Rotalia
-c_laanemaa,c_laanemaa,,
 c_laanemaa,c_laanemaa_adj,,Laanemaaian
 c_laanemaa,finnish,,Läänemaa
 c_laanemaa,german,,Wiek
@@ -6750,7 +6567,6 @@ b_lihula,samoyed,,Lihula
 b_lihula,ugricbaltic,,Lihula
 b_lihula,vepsian,,Lihula
 c_osel,PROV376,,Osilia
-c_osel,c_osel,,
 c_osel,c_osel_adj,,Öselian
 c_osel,anglonorse,,Eysýsla
 c_osel,danish,,Øsel
@@ -6921,14 +6737,12 @@ d_bjarmia,d_bjarmia_adj_ugricbaltic,,Vienan
 d_bjarmia,vepsian,,Viena
 d_bjarmia,d_bjarmia_adj_vepsian,,Vienan
 c_bjarmia,PROV396,,Pinega
-c_bjarmia,c_bjarmia,,
 c_bjarmia,c_bjarmia_adj,,Pinegan
 b_orlets,b_orlets,,Orlec
 b_orlets,b_orlets_adj,,
 b_ust_pinega,b_ust_pinega,,Pinega
 b_ust_pinega,b_ust_pinega_adj,,
 c_north_dvina,PROV395,,Výnva
-c_north_dvina,c_north_dvina,,
 c_north_dvina,c_north_dvina_adj,,
 c_north_dvina,bohemian,,Dvina
 c_north_dvina,c_north_dvina_adj_bohemian,,Dvinan
@@ -6978,7 +6792,6 @@ b_kholmogory,pommeranian,,Cholmogory
 b_kholmogory,russian,,Kolmogory
 b_kholmogory,serbian,,Kolmogory
 c_chud,PROV405,,Vaga
-c_chud,c_chud,,
 c_chud,c_chud_adj,,Vagan
 b_velsk,b_velsk,,Vel'sk
 b_velsk,b_velsk_adj,,
@@ -7030,7 +6843,6 @@ d_onega,d_onega_adj_serbian,,Onegan
 d_onega,ugricbaltic,,Äänis
 d_onega,d_onega_adj_ugricbaltic,,Äänisan
 c_romny,PROV403,,Latša
-c_romny,c_romny,,
 c_romny,c_romny_adj,,Latšan
 c_romny,bohemian,,Lacha
 c_romny,c_romny_adj_bohemian,,Lachan
@@ -7059,7 +6871,6 @@ b_pudozh,b_pudozh_adj,,
 b_kargopol,b_kargopol,,Kargopol
 b_kargopol,b_kargopol_adj,,
 c_onega,PROV393,,Änine
-c_onega,c_onega,,
 c_onega,c_onega_adj,,Änineish
 c_onega,bohemian,,Onega
 c_onega,c_onega_adj_bohemian,,Onegan
@@ -7132,7 +6943,6 @@ d_pechora,d_pechora_adj_samoyed,,Saneroyakha
 d_pechora,serbian,,Pechora
 d_pechora,d_pechora_adj_serbian,,Pechoran
 c_ugra,PROV398,,Mozyn
-c_ugra,c_ugra,,
 c_ugra,c_ugra_adj,,Mozyn
 c_ugra,bohemian,,Mezen
 c_ugra,c_ugra_adj_bohemian,,Mezenian
@@ -7169,7 +6979,6 @@ b_mezen_pechora,pommeranian,,Okladnikova
 b_mezen_pechora,russian,,Okladnikova
 b_mezen_pechora,serbian,,Okladnikova
 c_samoyeds,PROV397,,Ižva
-c_samoyeds,c_samoyeds,,
 c_samoyeds,c_samoyeds_adj,,Ižvan
 c_samoyeds,bohemian,,Ižma
 c_samoyeds,c_samoyeds_adj_bohemian,,Ižman

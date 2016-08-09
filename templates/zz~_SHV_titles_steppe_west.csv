@@ -81,7 +81,6 @@ d_crimea,d_crimea_adj_serbian,,Krymian
 d_crimea,sicilian_greek,,Taurike
 d_crimea,d_crimea_adj_sicilian_greek,,Taurikean
 c_lukomorie,PROV557,,Tokmak
-c_lukomorie,c_lukomorie,,
 c_lukomorie,c_lukomorie_adj,,Tokmakian
 c_lukomorie,bavarian,,Gerrhus
 c_lukomorie,c_lukomorie_adj_bavarian,,Gerrhusian
@@ -194,7 +193,6 @@ b_kakhovka,serbian,,Aslangrad
 b_kakhovka,turkish,,Kirman
 b_kakhovka,turkmen,,Kirman
 c_crimea,PROV559,,Qirim
-c_crimea,c_crimea,,
 c_crimea,c_crimea_adj,,Qirimian
 c_crimea,alan,,Taurike
 c_crimea,arberian,,Taurike
@@ -408,7 +406,6 @@ d_sarkel,d_sarkel_adj_tuscan,,Levedian
 d_sarkel,venetian,,Levedia
 d_sarkel,d_sarkel_adj_venetian,,Levedian
 c_sarkel,PROV594,,Sharkel
-c_sarkel,c_sarkel,,
 c_sarkel,c_sarkel_adj,,Sarkelian
 c_sarkel,alan,,Aspron Hospition
 c_sarkel,arberian,,Aspron Hospition
@@ -514,7 +511,6 @@ b_tsimlyansk,b_tsimlyansk,,Al-Bayda
 b_tsimlyansk,b_tsimlyansk_adj,,
 b_tsimlyansk,russian,,Ust-Tsimla
 c_sugrov,PROV566,,Duna-Jük
-c_sugrov,c_sugrov,,
 c_sugrov,c_sugrov_adj,,Duna-Jükian
 c_sugrov,avar,,Buzan-Jük
 c_sugrov,c_sugrov_adj_bashkir,,Chingilousan
@@ -576,7 +572,6 @@ b_sugrov,turkish,,Šugr'
 b_sugrov,turkmen,,Šugr'
 b_sugrov,uyghur,,Šugr'
 c_sharukan,PROV565,,Uda
-c_sharukan,c_sharukan,,
 c_sharukan,c_sharukan_adj,,Udaian
 c_sharukan,bashkir,,Chidmas
 c_sharukan,c_sharukan_adj_bashkir,,Chidmasian
@@ -668,7 +663,6 @@ d_zaporizhia,d_zaporizhia_adj_turkish,,Özian
 d_zaporizhia,turkmen,,Özi
 d_zaporizhia,d_zaporizhia_adj_turkmen,,Özian
 c_lower_dniepr,PROV558,,Özü
-c_lower_dniepr,c_lower_dniepr,,
 c_lower_dniepr,c_lower_dniepr_adj,,Özuan
 c_lower_dniepr,alan,,Danapris
 c_lower_dniepr,arberian,,Danapris
@@ -750,7 +744,6 @@ b_chyhyryn,turkish,,Cigirin
 b_chyhyryn,turkmen,,Cigirin
 b_chyhyryn,uyghur,,Cigirin
 c_chortitza,PROV556,,Aq Samar
-c_chortitza,c_chortitza,,
 c_chortitza,c_chortitza_adj,,Aq Samaran
 c_chortitza,bohemian,,Sneporod
 c_chortitza,c_chortitza_adj_bohemian,,Sneporodian
@@ -806,7 +799,6 @@ d_vorksla,pommeranian,,Worskla
 d_vorksla,russian,,Vor'skol
 d_vorksla,serbian,,Vor'skol
 c_lower_don,PROV563,,Orel
-c_lower_don,c_lower_don,,
 c_lower_don,c_lower_don_adj,,Orelian
 c_lower_don,avar,,Erel'
 c_lower_don,c_lower_don_adj_avar,,Erel'ian
@@ -866,7 +858,6 @@ b_poltava,moravian,,Poltava
 b_poltava,polish,,Poltawa
 b_poltava,pommeranian,,Poltawa
 c_tana,PROV596,,Vorskla
-c_tana,c_tana,,
 c_tana,c_tana_adj,,Vorsklan
 c_tana,bohemian,,Vorskla
 c_tana,c_tana_adj_bohemian,,Vorskolian
@@ -990,7 +981,6 @@ d_podolia,d_podolia_adj_tuscan,,Podolian
 d_podolia,venetian,,Podolia
 d_podolia,d_podolia_adj_venetian,,Podolian
 c_olvia,PROV542,,Yedisan
-c_olvia,c_olvia,,
 c_olvia,c_olvia_adj,,Yedisanian
 c_olvia,bashkir,,Troullos
 c_olvia,c_olvia_adj_bashkir,,Troullosian
@@ -1119,7 +1109,6 @@ b_odessa,tuscan,,Ginestra
 b_odessa,uyghur,,Hacibey
 b_odessa,venetian,,Ginestra
 c_oleshye,PROV543,,Boh
-c_oleshye,c_oleshye,,
 c_oleshye,c_oleshye_adj,,Bohian
 c_oleshye,avar,,Aq-Su
 c_oleshye,c_oleshye_adj_avar,,Aq-Suian
@@ -1158,7 +1147,6 @@ b_orlik_pervomaisk,b_orlik_pervomaisk_adj,,
 b_oleshye,b_oleshye,,Oleshye
 b_oleshye,b_oleshye_adj,,
 c_peresechen,PROV541,,Podolya
-c_peresechen,c_peresechen,,
 c_peresechen,c_peresechen_adj,,Podolyan
 c_peresechen,aragonese,,Podolia
 c_peresechen,c_peresechen_adj_aragonese,,Podolian
@@ -1581,7 +1569,6 @@ d_itil,vepsian,,Jul
 d_itil,zanata,,Atil
 d_itil,d_itil_adj_zanata,,Atilian
 c_itil,PROV620,,Itil
-c_itil,c_itil,,
 c_itil,c_itil_adj,,Itilan
 c_itil,afghan,,Atil
 c_itil,c_itil_adj_afghan,,Atilian
@@ -2009,7 +1996,6 @@ b_astrakhan,serbian,,Astrakhan'
 b_astrakhan,sogdian,,Hajji Tarkhan
 b_astrakhan,tajik,,Hajji Tarkhan
 c_kuma,PROV604,,Kuma
-c_kuma,c_kuma,,
 c_kuma,c_kuma_adj,,Kuman
 b_kizlyar,b_kizlyar,,Kyzylyar
 b_kizlyar,b_kizlyar_adj,,
@@ -2028,7 +2014,6 @@ b_majar,b_majar_adj,,
 b_kuma,b_kuma,,Kuma
 b_kuma,b_kuma_adj,,
 c_semender,PROV675,,Semender
-c_semender,c_semender,,
 c_semender,c_semender_adj,,Semenderain
 c_semender,afghan,,Samandar
 c_semender,c_semender_adj_afghan,,Samandarian
@@ -2150,7 +2135,6 @@ b_buyanksk,b_buyanksk_adj,,
 b_enderi,b_enderi,,Enderi
 b_enderi,b_enderi_adj,,
 c_philan,PROV1695,,Filan
-c_philan,c_philan,,
 c_philan,c_philan_adj,,Philan
 c_philan,khazar,,Varach'an
 c_philan,c_philan_adj_khazar,,Varach'an
@@ -2237,7 +2221,6 @@ d_saray,d_saray_adj_tuareg,,Saraian
 d_saray,zanata,,Sarai
 d_saray,d_saray_adj_zanata,,Saraian
 c_saray,PROV619,,Saray
-c_saray,c_saray,,
 c_saray,c_saray_adj,,Sarayan
 c_saray,afghan,,Sarai
 c_saray,c_saray_adj_afghan,,Saraian
@@ -2350,14 +2333,12 @@ b_tsaritsyn,pommeranian,,Caricyn
 b_tsaritsyn,russian,,Tsaritsyn
 b_tsaritsyn,serbian,,Tsaritsyn
 c_sarpa,PROV607,,Sarpa
-c_sarpa,c_sarpa,,
 c_sarpa,c_sarpa_adj,,Sarpan
 b_sarpa,b_sarpa,,Sarpa
 b_sarpa,b_sarpa_adj,,
 b_ergeni,b_ergeni,,Ergeni
 b_ergeni,b_ergeni_adj,,
 c_manych,PROV605,,Ugru
-c_manych,c_manych,,
 c_manych,c_manych_adj,,Ugruian
 c_manych,bohemian,,Manycz
 c_manych,c_manych_adj_bohemian,,Manyczian
@@ -2394,7 +2375,6 @@ b_manych,serbian,,Manych
 b_semikarakary,b_semikarakary,,Semikarakorskaya
 b_semikarakary,b_semikarakary_adj,,
 c_yegorlyk,PROV606,,Yegorlyk
-c_yegorlyk,c_yegorlyk,,
 c_yegorlyk,c_yegorlyk_adj,,Yegorlykian
 b_yegorlyk,b_yegorlyk,,Yegorlyk
 b_yegorlyk,b_yegorlyk_adj,,
@@ -2493,7 +2473,6 @@ d_azov,d_azov_adj_tuscan,,Tanan
 d_azov,venetian,,Tana
 d_azov,d_azov_adj_venetian,,Tanan
 c_azov,PROV597,,Azaq
-c_azov,c_azov,,
 c_azov,c_azov_adj,,Azaqan
 c_azov,alan,,Tanais
 c_azov,arberian,,Tanais
@@ -2628,7 +2607,6 @@ b_kagalnik,b_kagalnik_adj,,
 b_cherkassk,b_cherkassk,,Cherkassk
 b_cherkassk,b_cherkassk_adj,,
 c_kuban,PROV599,,Cuba
-c_kuban,c_kuban,,
 c_kuban,c_kuban_adj,,Cuban
 c_kuban,alan,,Oukrouch
 c_kuban,arberian,,Oukrouch
@@ -2779,7 +2757,6 @@ d_tmutarakan,d_tmutarakan_adj_uyghur,,Matrikan
 d_tmutarakan,venetian,,Cassaria
 d_tmutarakan,d_tmutarakan_adj_venetian,,Cassarian
 c_tmutarakan,PROV598,,Tamatarkha
-c_tmutarakan,c_tmutarakan,,
 c_tmutarakan,c_tmutarakan_adj,,Tamatarkhan
 c_tmutarakan,arberian,,Tamatarxa
 c_tmutarakan,c_tmutarakan_adj_arberian,,Tamatarxan
@@ -2994,7 +2971,6 @@ b_temryk,southern_italian,,Copa
 b_temryk,tuscan,,Copa
 b_temryk,venetian,,Copa
 c_korchev,PROV562,,Kerch
-c_korchev,c_korchev,,
 c_korchev,c_korchev_adj,,Kerchian
 c_korchev,arberian,,Bospor
 c_korchev,c_korchev_adj_arberian,,Bosporian
@@ -3266,7 +3242,6 @@ d_alania,d_alania_adj_uyghur,,As
 d_alania,zanata,,Al-Lan
 d_alania,d_alania_adj_zanata,,Al-Lanian
 c_alania,PROV603,,Alania
-c_alania,c_alania,,
 c_alania,c_alania_adj,,Alanian
 c_alania,afghan,,Al-Lan
 c_alania,c_alania_adj_afghan,,Al-Lanian
@@ -3439,14 +3414,12 @@ b_dedyakov,turkish,,Samiran
 b_dedyakov,turkmen,,Samiran
 b_dedyakov,uyghur,,Samiran
 c_malkhicho,PROV1697,,Malkhicho
-c_malkhicho,c_malkhicho,,
 c_malkhicho,c_malkhicho_adj,,Malkhichoan
 b_arkhyz,b_arkhyz,,Arkhyz
 b_arkhyz,b_arkhyz_adj,,
 b_rim_gora,b_rim_gora,,Rim Gora
 b_rim_gora,b_rim_gora_adj,,
 c_don_portage,PROV595,,Terk
-c_don_portage,c_don_portage,,
 c_don_portage,c_don_portage_adj,,Terekian
 c_don_portage,alan,,Terk
 c_don_portage,c_don_portage_adj_alan,,Terkian
@@ -3671,7 +3644,6 @@ d_zichia,d_zichia_adj_venetian,,Zichian
 d_zichia,zanata,,Sircasaa
 d_zichia,d_zichia_adj_zanata,,Sircasaan
 c_kasogs,PROV602,,Cherkezistan
-c_kasogs,c_kasogs,,
 c_kasogs,c_kasogs_adj,,Cherkezian
 c_kasogs,alan,,Kæsægia
 c_kasogs,c_kasogs_adj_alan,,Kæsægian
@@ -3798,7 +3770,6 @@ b_khumar,sicilian_greek,,Skhimar
 b_sambalut,b_sambalut,,Sambalut
 b_sambalut,b_sambalut_adj,,
 c_jiqeti,PROV1086,,Jiket'i
-c_jiqeti,c_jiqeti,,
 c_jiqeti,c_jiqeti_adj,,Jiqetian
 b_zikh,b_zikh,,Zikh
 b_zikh,b_zikh_adj,,
@@ -3879,7 +3850,6 @@ d_sarir,d_sarir_adj_uyghur,,Seriran
 d_sarir,zanata,,Al-Sarir
 d_sarir,d_sarir_adj_zanata,,Al-Sariran
 c_sarir,PROV1096,,Sarir
-c_sarir,c_sarir,,
 c_sarir,c_sarir_adj,,Saririan
 b_arkas,b_arkas,,Arkas
 b_arkas,b_arkas_adj,,
@@ -3910,7 +3880,6 @@ b_humraj,zanata,,Al-Jabal
 b_khunzakh,b_khunzakh,,Khunzkh
 b_khunzakh,b_khunzakh_adj,,
 c_simsir,PROV1089,,Simsir
-c_simsir,c_simsir,,
 c_simsir,c_simsir_adj,,Simsirian
 b_samkalako,b_samkalako,,Samakha
 b_samkalako,b_samkalako_adj,,
@@ -3959,7 +3928,6 @@ d_bulgar,d_bulgar_adj_russian,,Bulgar
 d_bulgar,serbian,,Bulgar
 d_bulgar,d_bulgar_adj_serbian,,Bulgar
 c_qazan,PROV611,,Qazan
-c_qazan,c_qazan,,
 c_qazan,c_qazan_adj,,Qazanian
 c_qazan,bohemian,,Kazan'
 c_qazan,c_qazan_adj_bohemian,,Kazan'ian
@@ -4023,7 +3991,6 @@ b_qazan,pommeranian,,Kazan'
 b_qazan,russian,,Kazan'
 b_qazan,serbian,,Kazan'
 c_bulgar,PROV610,,Bolgar
-c_bulgar,c_bulgar,,
 c_bulgar,c_bulgar_adj,,Bolgar
 c_bulgar,bohemian,,Bulgar
 c_bulgar,c_bulgar_adj_bohemian,,Bulgar
@@ -4100,7 +4067,6 @@ b_bulgar,pommeranian,,Bulgar
 b_bulgar,russian,,Bulgar
 b_bulgar,serbian,,Bulgar
 c_ashli,PROV614,,Ashli
-c_ashli,c_ashli,,
 c_ashli,c_ashli_adj,,Ashlian
 c_ashli,avar,,Ishlë
 c_ashli,c_ashli_adj_avar,,Ishlëian
@@ -4187,7 +4153,6 @@ b_ashli,pommeranian,,Oshel
 b_ashli,russian,,Oshel
 b_ashli,serbian,,Oshel
 c_bilyar,PROV613,,Bilär
-c_bilyar,c_bilyar,,
 c_bilyar,c_bilyar_adj,,Bilärian
 c_bilyar,avar,,Büler
 c_bilyar,c_bilyar_adj_avar,,Bülerian
@@ -4253,7 +4218,6 @@ b_bilyar,pommeranian,,Bilir
 b_bilyar,russian,,Bilir
 b_bilyar,serbian,,Bilir
 c_tyumen,PROV891,,Suar
-c_tyumen,c_tyumen,,
 c_tyumen,c_tyumen_adj,,Suarian
 c_tyumen,c_tyumen_adj_afghan,,Suwarian
 c_tyumen,c_tyumen_adj_andalusian_arabic,,Swazian
@@ -4359,7 +4323,6 @@ d_samara,d_samara_adj_russian,,Samaraian
 d_samara,serbian,,Samara
 d_samara,d_samara_adj_serbian,,Samaraian
 c_khantia,PROV890,,Samar
-c_khantia,c_khantia,,
 c_khantia,c_khantia_adj,,Samarian
 c_khantia,bohemian,,Samara
 c_khantia,c_khantia_adj_bohemian,,Samaraian
@@ -4405,7 +4368,6 @@ b_samara,moravian,,Samara
 b_samara,polish,,Samara
 b_samara,serbian,,Samara
 c_uzens,PROV617,,Usens
-c_uzens,c_uzens,,
 c_uzens,c_uzens_adj,,Uzensian
 c_uzens,avar,,Qaraösen
 c_uzens,c_uzens_adj_avar,,Qaraösenian
@@ -4465,7 +4427,6 @@ b_uzens,turkish,,Qaraösen
 b_uzens,turkmen,,Qaraösen
 b_uzens,uyghur,,Qaraösen
 c_syrt,PROV609,,Syrt
-c_syrt,c_syrt,,
 c_syrt,c_syrt_adj,,Syrtian
 c_syrt,avar,,Tëp Särt
 c_syrt,c_syrt_adj_avar,,Tëp Särtian
@@ -4572,7 +4533,6 @@ d_bashkirs,d_bashkirs_adj_tuareg,,Bashghird
 d_bashkirs,zanata,,al-Bashghird
 d_bashkirs,d_bashkirs_adj_zanata,,Bashghird
 c_bashkirs,PROV615,,Aghidhel
-c_bashkirs,c_bashkirs,,
 c_bashkirs,c_bashkirs_adj,,Aghidhelian
 c_bashkirs,bohemian,,Belá
 c_bashkirs,c_bashkirs_adj_bohemian,,Belayan
@@ -4599,7 +4559,6 @@ b_gurkhan,b_gurkhan_adj,,
 b_nemzhan,b_nemzhan,,Nemzhan
 b_nemzhan,b_nemzhan_adj,,
 c_pecheneg,PROV616,,Haqmar
-c_pecheneg,c_pecheneg,,
 c_pecheneg,c_pecheneg_adj,,Haqmaran
 c_pecheneg,bohemian,,Sakmar
 c_pecheneg,c_pecheneg_adj_bohemian,,Sakmarian
@@ -4677,7 +4636,6 @@ d_mordva,d_mordva_adj_uyghur,,Muqshian
 d_mordva,vepsian,,Jov
 d_mordva,d_mordva_adj_vepsian,,Jovian
 c_burtasy,PROV592,,Barysh
-c_burtasy,c_burtasy,,
 c_burtasy,c_burtasy_adj,,Baryshian
 c_burtasy,avar,,Barish
 c_burtasy,c_burtasy_adj_avar,,Barishian
@@ -4751,7 +4709,6 @@ b_barysh,turkish,,Barish
 b_barysh,turkmen,,Barish
 b_barysh,uyghur,,Barish
 c_khopyor,PROV593,,Khoper
-c_khopyor,c_khopyor,,
 c_khopyor,c_khopyor_adj,,Khoperian
 c_khopyor,avar,,Khopër
 c_khopyor,c_khopyor_adj_avar,,Khopërian
@@ -4865,7 +4822,6 @@ b_medveditsa,turkish,,Medvedïca
 b_medveditsa,turkmen,,Medvedïca
 b_medveditsa,uyghur,,Medvedïca
 c_mordva,PROV579,,Moksha
-c_mordva,c_mordva,,
 c_mordva,c_mordva_adj,,Mokshan
 c_mordva,avar,,Mäqshä
 c_mordva,c_mordva_adj_avar,,Mäqshän
@@ -4997,7 +4953,6 @@ d_podonye,d_podonye_adj_thuringian,,Woroneschian
 d_podonye,d_podonye_adj_turkish,,Karatayakan
 d_podonye,d_podonye_adj_turkmen,,Karatayakan
 c_lower_volga,PROV608,,Qaratayak
-c_lower_volga,c_lower_volga,,
 c_lower_volga,c_lower_volga_adj,,Qaratayakan
 c_lower_volga,bavarian,,Woronesch
 c_lower_volga,c_lower_volga_adj_bavarian,,Woroneschian
@@ -5089,7 +5044,6 @@ b_voronezh,serbian,,Voronež
 b_voronezh,swabian,,Woronesch
 b_voronezh,thuringian,,Woronesch
 c_desht-i-kipchak,PROV564,,Vskol'
-c_desht-i-kipchak,c_desht-i-kipchak,,
 c_desht-i-kipchak,c_desht-i-kipchak_adj,,Vskol'
 c_desht-i-kipchak,avar,,Esen
 c_desht-i-kipchak,c_desht-i-kipchak_adj_avar,,Esenian
@@ -5204,7 +5158,6 @@ d_sura,d_sura_adj_uyghur,,Sarian
 d_sura,vepsian,,Šur
 d_sura,d_sura_adj_vepsian,,Šurian
 c_chuvash,PROV590,,Sura
-c_chuvash,c_chuvash,,
 c_chuvash,c_chuvash_adj,,Suran
 c_chuvash,avar,,Sär
 c_chuvash,c_chuvash_adj_avar,,Särian
@@ -5343,7 +5296,6 @@ b_cheboksary,ugricbaltic,,Šaravar
 b_cheboksary,uyghur,,Šupaškar
 b_cheboksary,vepsian,,Šaravar
 c_mountain_cheremisa,PROV591,,Alatyr'
-c_mountain_cheremisa,c_mountain_cheremisa,,
 c_mountain_cheremisa,c_mountain_cheremisa_adj,,Alatyr'an
 c_mountain_cheremisa,avar,,Ulatär
 c_mountain_cheremisa,c_mountain_cheremisa_adj_avar,,Ulatäran
@@ -5468,7 +5420,6 @@ d_perm,d_perm_adj_russian,,Perm'ian
 d_perm,serbian,,Perm
 d_perm,d_perm_adj_serbian,,Permian
 c_perm,PROV886,,Viser
-c_perm,c_perm,,
 c_perm,c_perm_adj,,Viserian
 c_perm,bohemian,,Višera
 c_perm,c_perm_adj_bohemian,,Višeran
@@ -5551,7 +5502,6 @@ b_pokcha,turkish,,Pokça
 b_pokcha,turkmen,,Pokça
 b_pokcha,uyghur,,Pokça
 c_votyaki,PROV612,,Otš
-c_votyaki,c_votyaki,,
 c_votyaki,c_votyaki_adj,,Otšian
 c_votyaki,avar,,Ij
 c_votyaki,c_votyaki_adj_avar,,Ijian
@@ -5606,7 +5556,6 @@ b_izhevsk,b_izhevsk_adj,,
 b_sarapul,b_sarapul,,Sarapul
 b_sarapul,b_sarapul_adj,,
 c_komi,PROV888,,Inva
-c_komi,c_komi,,
 c_komi,c_komi_adj,,Ivan
 b_kudymkar,b_kudymkar,,Kudymkör
 b_kudymkar,b_kudymkar_adj,,
@@ -5671,7 +5620,6 @@ d_vyatka,d_vyatka_adj_turkmen,,Noqratan
 d_vyatka,uyghur,,Noqrat
 d_vyatka,d_vyatka_adj_uyghur,,Noqratan
 c_hlynov,PROV401,,Vice
-c_hlynov,c_hlynov,,
 c_hlynov,c_hlynov_adj,,Vicean
 c_hlynov,avar,,Nukhrat
 c_hlynov,c_hlynov_adj_avar,,Nukhratan
@@ -5784,7 +5732,6 @@ b_kirov,turkish,,Hilin
 b_kirov,turkmen,,Hilin
 b_kirov,uyghur,,Hilin
 c_merya,PROV588,,Šošma
-c_merya,c_merya,,
 c_merya,c_merya_adj,,Šošman
 c_merya,avar,,Shushma
 c_merya,c_merya_adj_avar,,Shushman
@@ -5845,7 +5792,6 @@ b_malmyzh,turkish,,Malmash
 b_malmyzh,turkmen,,Malmash
 b_malmyzh,uyghur,,Malmash
 c_grassland_cheremisa,PROV589,,Vütla
-c_grassland_cheremisa,c_grassland_cheremisa,,
 c_grassland_cheremisa,c_grassland_cheremisa_adj,,Vütlan
 c_grassland_cheremisa,bohemian,,Vetluga
 c_grassland_cheremisa,c_grassland_cheremisa_adj_bohemian,,Vetlugan
@@ -5904,7 +5850,6 @@ b_vetluga,pommeranian,,Vetluga
 b_vetluga,russian,,Vetluga
 b_vetluga,serbian,,Vetluga
 c_kokshaga,PROV1831,,Kakšan
-c_kokshaga,c_kokshaga,,
 c_kokshaga,c_kokshaga_adj,,Kakšanish
 c_kokshaga,avar,,Kaksha
 c_kokshaga,c_kokshaga_adj_avar,,Kakšan
@@ -6029,7 +5974,6 @@ d_pelym,d_pelym_adj_russian,,Pelyman
 d_pelym,serbian,,Pelym
 d_pelym,d_pelym_adj_serbian,,Pelyman
 c_mansia,PROV892,,Polum
-c_mansia,c_mansia,,
 c_mansia,c_mansia_adj,,Polumish
 c_mansia,bohemian,,Pelym
 c_mansia,c_mansia_adj_bohemian,,Pelymish
@@ -6071,7 +6015,6 @@ b_pelym,pommeranian,,Pelym
 b_pelym,russian,,Pelym
 b_pelym,serbian,,Pelym
 c_ural,PROV889,,Chusovaya
-c_ural,c_ural,,
 c_ural,c_ural_adj,,
 c_ural,avar,,Çusovaya
 c_ural,c_ural_adj_avar,,Çusovayan
@@ -6156,7 +6099,6 @@ d_perm_vychegda,d_perm_vychegda_adj_turkmen,,Viçegdan
 d_perm_vychegda,uyghur,,Viçegda
 d_perm_vychegda,d_perm_vychegda_adj_uyghur,,Viçegdan
 c_syrj,PROV399,,Jemva
-c_syrj,c_syrj,,
 c_syrj,c_syrj_adj,,Jemvan
 c_syrj,bohemian,,Vym
 c_syrj,c_syrj_adj_bohemian,,Vymish
@@ -6191,7 +6133,6 @@ b_ust_vym,pommeranian,,Ust-Vym
 b_ust_vym,russian,,Ust-Vym
 b_ust_vym,serbian,,Ust-Vym
 c_zyriane,PROV400,,Ežva
-c_zyriane,c_zyriane,,
 c_zyriane,c_zyriane_adj,,Ežvan
 c_zyriane,avar,,Viçegda
 c_zyriane,c_zyriane_adj_avar,,Viçegdan
