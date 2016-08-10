@@ -1,2238 +1,2238 @@
-#TITLE,KEY,VALUE,SWMH
-b_brethaestath,b_brethaestath,,
-b_brethaestath,b_brethaestath_adj,,
-b_giaethning,b_giaethning,,
-b_giaethning,b_giaethning_adj,,
-b_braaklem,b_braaklem,,
-b_braaklem,b_braaklem_adj,,
-b_odenbel,b_odenbel,,
-b_odenbel,b_odenbel_adj,,
-b_taning,b_taning,,
-b_taning,b_taning_adj,,
-b_cerva,b_cerva,,
-b_cerva,b_cerva_adj,,
-b_de_gundula,b_de_gundula,,
-b_de_gundula,b_de_gundula_adj,,
-b_de_guzzei,b_de_guzzei,,
-b_de_guzzei,b_de_guzzei_adj,,
-b_caboga,b_caboga,,
-b_caboga,b_caboga_adj,,
-b_zamanjic,b_zamanjic,,
-b_zamanjic,b_zamanjic_adj,,
-b_diramku,b_diramku,,
-b_diramku,b_diramku_adj,,
-b_qalhati,b_qalhati,,
-b_qalhati,b_qalhati_adj,,
-b_hormuzi,b_hormuzi,,
-b_hormuzi,b_hormuzi_adj,,
-b_qeshmi,b_qeshmi,,
-b_qeshmi,b_qeshmi_adj,,
-b_lafti,b_lafti,,
-b_lafti,b_lafti_adj,,
-b_aliraqi,b_aliraqi,,Al-Iráqí
-b_aliraqi,b_aliraqi_adj,,
-b_assadad,b_assadad,,
-b_assadad,b_assadad_adj,,
-b_qirwashi,b_qirwashi,,
-b_qirwashi,b_qirwashi_adj,,
-b_misiwwi,b_misiwwi,,
-b_misiwwi,b_misiwwi_adj,,
-b_suakini,b_suakini,,
-b_suakini,b_suakini_adj,,
-b_tizzi,b_tizzi,,
-b_tizzi,b_tizzi_adj,,
-b_dandolo,b_dandolo,,Dandolo
-b_dandolo,b_dandolo_adj,,
-b_contarini,b_contarini,,Contarini
-b_contarini,b_contarini_adj,,
-b_faliero,b_faliero,,Faliero
-b_faliero,b_faliero_adj,,
-b_morosini,b_morosini,,Morosini
-b_morosini,b_morosini_adj,,
-b_ziani,b_ziani,,Ziani
-b_ziani,b_ziani_adj,,
-b_silvio,b_silvio,,
-b_silvio,b_silvio_adj,,
-b_candiano,b_candiano,,Candiano
-b_candiano,b_candiano_adj,,
-b_orsoleo,b_orsoleo,,Orsoleo
-b_orsoleo,b_orsoleo_adj,,
-b_participazio,b_participazio,,Participazio
-b_participazio,b_participazio_adj,,
-b_tribuno,b_tribuno,,Tribuno
-b_tribuno,b_tribuno_adj,,
-b_tradonico,b_tradonico,,Tradonico
-b_tradonico,b_tradonico_adj,,
-b_antenoreo,b_antenoreo,,Antenoreo
-b_antenoreo,b_antenoreo_adj,,
-b_galbaio,b_galbaio,,Galbaio
-b_galbaio,b_galbaio_adj,,
-b_monegario,b_monegario,,Monegario
-b_monegario,b_monegario_adj,,
-b_gaulo,b_gaulo,,Gaulo
-b_gaulo,b_gaulo_adj,,
-b_doria,b_doria,,Doria
-b_doria,b_doria_adj,,
-b_spinola,b_spinola,,Spinola
-b_spinola,b_spinola_adj,,
-b_grimaldi,b_grimaldi,,Grimaldi
-b_grimaldi,b_grimaldi_adj,,
-b_fieschi,b_fieschi,,Fieschi
-b_fieschi,b_fieschi_adj,,
-b_embriaco,b_embriaco,,Embriaco
-b_embriaco,b_embriaco_adj,,
-b_dappiano,b_dappiano,,Dappiano
-b_dappiano,b_dappiano_adj,,
-b_della_gherardesca,b_della_gherardesca,,Della Gherardesca
-b_della_gherardesca,b_della_gherardesca_adj,,
-b_visconti,b_visconti,,Visconti
-b_visconti,b_visconti_adj,,
-b_alliata,b_alliata,,Alliata
-b_alliata,b_alliata_adj,,
-b_caetani,b_caetani,,Caetani
-b_caetani,b_caetani_adj,,
-b_bardewik,b_bardewik,,Bardewik
-b_bardewik,b_bardewik_adj,,
-b_vorrade,b_vorrade,,Vorrade
-b_vorrade,b_vorrade_adj,,
-b_warendorp,b_warendorp,,Warendorp
-b_warendorp,b_warendorp_adj,,
-b_pat_luneburg,b_pat_luneburg,,Lüneburg
-b_pat_luneburg,b_pat_luneburg_adj,,
-b_wittenborg,b_wittenborg,,Wittenborg
-b_wittenborg,b_wittenborg_adj,,
-b_stenkyrka,b_stenkyrka,,Stenkyrka
-b_stenkyrka,b_stenkyrka_adj,,
-b_guldsmed,b_guldsmed,,Guldsmed
-b_guldsmed,b_guldsmed_adj,,
-b_hejnum,b_hejnum,,Hejnum
-b_hejnum,b_hejnum_adj,,
-b_gildehusen,b_gildehusen,,Gildehusen
-b_gildehusen,b_gildehusen_adj,,
-b_strabain,b_strabain,,Strabain
-b_strabain,b_strabain_adj,,
-b_konstantios,b_konstantios,,Konstantios
-b_konstantios,b_konstantios_adj,,
-b_mauro,b_mauro,,Mauro
-b_mauro,b_mauro_adj,,
-b_musco,b_musco,,Musco
-b_musco,b_musco_adj,,
-b_polkarios,b_polkarios,,Polkarios
-b_polkarios,b_polkarios_adj,,
-b_urso,b_urso,,Urso
-b_urso,b_urso_adj,,
-d_shiite,d_shiite,,The Shi'a Imamate
-d_shiite,d_shiite_adj,,Shi'a
-d_shiite,dynasty_title_names,,no
-d_shiite,foa,,CALIPH_FOA
-d_shiite,short_name,,yes
-d_shiite,title,,IMAM
-d_shiite,title_female,,IMAMA
-d_sunni,d_sunni,,The Sunni Caliphate
-d_sunni,d_sunni_adj,,Caliphal
-d_sunni,foa,,CALIPH_FOA
-d_sunni,short_name,,yes
-d_sunni,title,,CALIPH
-d_sunni,title_female,,CALIPHA
-e_rebels,e_rebels,,Rebels
-e_rebels,e_rebels_adj,,Rebel
-e_pirates,e_pirates,,Pirates
-e_pirates,e_pirates_adj,,
-k_papal_state,k_papal_state,,Status Pontificius
-k_papal_state,k_papal_state_adj,,Sanctimonialis
-k_papal_state,dynasty_title_names,,no
-k_papal_state,foa,,POPE_FOA
-k_papal_state,location_ruler_title,,yes
-k_papal_state,male_names,,Ioannes:13 Benedictus:10 Gregorius:8 Innocentius:7 Clemens:5 Leo:5 Nicolaus:5 Stephanus:5 Urbanus:5 Coelestinus:4 Hadrianus:4 Alexander:3 Bonifatius:3 Honorius:3 Anastasius:2 Callistus:2 Eugenius:2 Lucius:2 Marinus:2 Martinus:2 Sergius:2 Silvester:2 Victor:2 Agapitus:1 Damasus:1 Formosus:1 Gelasius:1 Landus:1 Paschalis:1 Paulus:1 Pius:1 Romanus:1 Theodorus:1 Xystus:1
-k_papal_state,short_name,,yes
-k_papal_state,title,,POPE
-k_papal_state,title_female,,POPESS
-k_orthodox,k_orthodox,,The Ecumenical Patriarchate
-k_orthodox,k_orthodox_adj,,Patriarchal
-k_orthodox,dynasty_title_names,,no
-k_orthodox,foa,,ECUMENICAL_PATRIARCH_FOA
-k_orthodox,male_names,,Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
-k_orthodox,short_name,,yes
-k_orthodox,title,,ECUMENICAL_PATRIARCH
-e_sunni,e_sunni,,The Sunni Caliphate
-e_sunni,e_sunni_adj,,Caliphal
-e_sunni,foa,,CALIPH_FOA
-e_sunni,short_name,,yes
-e_sunni,title,,CALIPH
-e_sunni,title_female,,CALIPHA
-e_shiite,e_shiite,,The Shia Caliphate
-e_shiite,e_shiite_adj,,Caliphal
-e_shiite,foa,,CALIPH_FOA
-e_shiite,short_name,,yes
-e_shiite,title,,CALIPH
-e_shiite,title_female,,CALIPHA
-e_golden_horde,e_golden_horde,,Golden Horde
-e_golden_horde,e_golden_horde_adj,,Mongol
-e_golden_horde,short_name,,yes
-e_il-khanate,e_il-khanate,,Ilkhanate
-e_il-khanate,e_il-khanate_adj,,Mongol
-e_il-khanate,short_name,,yes
-e_mongol_empire,e_mongol_empire,,Yeke Mongol Ulus
-e_mongol_empire,e_mongol_empire_adj,,Mongol
-e_mongol_empire,short_name,,yes
-e_timurids,e_timurids,,Timurids
-e_timurids,e_timurids_adj,,Timurid
-d_miaphysite,d_miaphysite,,The Miaphysite Papacy
-d_miaphysite,d_miaphysite_adj,,Coptic Papal
-d_miaphysite,dynasty_title_names,,no
-d_miaphysite,foa,,POPE_FOA
-d_miaphysite,male_names,,Abraham Alexandros Alexios Agatho Anastasios Andronikos Athanasios Benjamin Christodolos Cosmas Kyril Damian Demetrius Dioscorus Gabriel Yohannes Iosephos Isaakios Iakobos Makarios Markianos Markos Matheos Khail Mina Petros Philotheos Shenouda Simeon Theodoros Theophilus Timotheos Zacharias
-d_miaphysite,short_name,,yes
-d_miaphysite,title,,COPTIC_POPE
-d_monophysite,d_monophysite,,The Monophysite Papacy
-d_monophysite,d_monophysite_adj,,Monophysite Papal
-d_monophysite,dynasty_title_names,,no
-d_monophysite,foa,,POPE_FOA
-d_monophysite,male_names,,Abraham Alexandros Alexios Agatho Anastasius Andronicus Athanasios Benjamin Christodolos Cosmas Cyril Damian Demetrius Dioscorus Gabriel Ioannes Iosephos Isaakios Iakobos Makarios Markianos Matheos Michail Mina Petros Philotheos Shenouda Simeon Theodoros Theophilus Timotheos Zacharias
-d_monophysite,short_name,,yes
-d_monophysite,title,,MONOPHYSITE_POPE
-d_nestorian,d_nestorian,,The Patriarchate of the East
-d_nestorian,d_nestorian_adj,,Eastern Patriarchal
-d_nestorian,dynasty_title_names,,no
-d_nestorian,foa,,ECUMENICAL_PATRIARCH_FOA
-d_nestorian,male_names,,Aba Abraham Eliya Denha Emmanuel Giwargis Hnanisho Ishoyahb Makkikha Maremmeh Pethion Sabrisho Shemon Sargis Surin Theodosios Timotheos Yahballaha Yohannan
-d_nestorian,short_name,,yes
-d_nestorian,title,,PATRIARCH_IN_THE_EAST
-d_paulician,d_paulician,,The Paulician Patriarchate
-d_paulician,d_paulician_adj,,Paulician
-d_paulician,dynasty_title_names,,no
-d_paulician,foa,,ECUMENICAL_PATRIARCH_FOA
-d_paulician,male_names,,Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Gabriel Dionysios Dositheos Epaphroditus Eustathios Eustratios Euthymios Gegnesius Gennadios Georgios Gerasimos Germanos Gregorios Ieremias Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael Neophytos Nephon Nikephoros Niketas Nikolaos Paul Pavlos Petros Photios Polykarpos Sergius Silvanus Stephanos Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos Titus
-d_paulician,short_name,,yes
-d_paulician,title,,PAULICIAN_PATRIARCH
-d_monothelite,d_monothelite,,The Monothelite Patriarchate
-d_monothelite,d_monothelite_adj,,Monothelite Patriarchal
-d_monothelite,dynasty_title_names,,no
-d_monothelite,foa,,ECUMENICAL_PATRIARCH_FOA
-d_monothelite,male_names,,Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos Eustathios Eustratios Euthymios Gennadios Georgios Gerasimos Germanos Gregorios Ieremias Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
-d_monothelite,short_name,,yes
-d_monothelite,title,,MONOTHELITE_PATRIARCH
-d_fraticelli,d_fraticelli,,The Fraticelli Papacy
-d_fraticelli,d_fraticelli_adj,,Fraticelli Papal
-d_fraticelli,dynasty_title_names,,no
-d_fraticelli,foa,,POPE_FOA
-d_fraticelli,location_ruler_title,,yes
-d_fraticelli,male_names,,Ioannes:13 Benedictus:10 Gregorius:8 Innocentius:7 Clemens:5 Leo:5 Nicolaus:5 Stephanus:5 Urbanus:5 Coelestinus:4 Hadrianus:4 Alexander:3 Bonifatius:3 Honorius:3 Anastasius:2 Callistus:2 Eugenius:2 Lucius:2 Marinus:2 Martinus:2 Sergius:2 Silvester:2 Victor:2 Agapitus:1 Damasus:1 Formosus:1 Gelasius:1 Landus:1 Paschalis:1 Paulus:1 Pius:1 Romanus:1 Theodorus:1 Xystus:1
-d_fraticelli,short_name,,yes
-d_fraticelli,title,,POPE
-d_iconoclast,d_iconoclast,,The Iconoclast Patriarchate
-d_iconoclast,d_iconoclast_adj,,Iconoclast Patriarchal
-d_iconoclast,dynasty_title_names,,no
-d_iconoclast,foa,,ECUMENICAL_PATRIARCH_FOA
-d_iconoclast,male_names,,Alexios Antonios Athanasios Basileios Chariton Dionysios Dositheos Eustathios Eustratios Euthymios Gennadios Georgios Gerasimos Germanos Gregoras Ioannes Iosephos Isidoros Kallistos Konstantinos Kosmas Leon Leontios Loukas Makarios Manuel Maximos Metrophanes Michael Neophytos Nephon Niketas Nikolaos Nilos Matthaios Paulos Sergios Sisinnios Symeon Theodoros Theodosios Theodotos
-d_iconoclast,short_name,,yes
-d_iconoclast,title,,ECUMENICAL_PATRIARCH
-d_yazidi,d_yazidi,,The Yazidi Sheikhdom
-d_yazidi,d_yazidi_adj,,Yazidi
-d_yazidi,foa,,CALIPH_FOA
-d_yazidi,short_name,,yes
-d_yazidi,title,,SHEIKH
-d_yazidi,title_female,,SHEIKHA
-d_ibadi,d_ibadi,,The Ibadi Caliphate
-d_ibadi,d_ibadi_adj,,Ibadi Caliphal
-d_ibadi,foa,,CALIPH_FOA
-d_ibadi,short_name,,yes
-d_ibadi,title,,CALIPH
-d_ibadi,title_female,,CALIPHA
-d_kharijite,d_kharijite,,The Kharijite Caliphate
-d_kharijite,d_kharijite_adj,,Kharijite Caliphal
-d_kharijite,foa,,CALIPH_FOA
-d_kharijite,short_name,,yes
-d_kharijite,title,,CALIPH
-d_kharijite,title_female,,CALIPHA
-d_hurufi,d_hurufi,,The Hurufi Skeikhdom
-d_hurufi,d_hurufi_adj,,Hurufi
-d_hurufi,foa,,CALIPH_FOA
-d_hurufi,short_name,,yes
-d_hurufi,title,,CALIPH
-d_hurufi,title_female,,CALIPHA
-d_jewish,d_jewish,,The Jewish High Priesthood
-d_jewish,d_jewish_adj,,Jewish
-d_jewish,dynasty_title_names,,no
-d_jewish,foa,,POPE_FOA
-d_jewish,short_name,,yes
-d_jewish,title,,HEAD_KOHEN_GADOL
-d_norse_pagan_reformed,d_norse_pagan_reformed,,The Fylkirate
-d_norse_pagan_reformed,d_norse_pagan_reformed_adj,,Norse
-d_norse_pagan_reformed,dynasty_title_names,,no
-d_norse_pagan_reformed,foa,,FYLKIR_FOA
-d_norse_pagan_reformed,short_name,,yes
-d_norse_pagan_reformed,title,,FYLKIR
-d_norse_pagan_reformed,title_female,,FYLKJA
-d_tengri_pagan_reformed,d_tengri_pagan_reformed,,The Tengri Church
-d_tengri_pagan_reformed,d_tengri_pagan_reformed_adj,,Tengri
-d_tengri_pagan_reformed,dynasty_title_names,,no
-d_tengri_pagan_reformed,foa,,HEAD_PRIEST_FOA
-d_tengri_pagan_reformed,short_name,,yes
-d_tengri_pagan_reformed,title,,HEAD_PRIEST
-d_tengri_pagan_reformed,title_female,,HEAD_PRIESTESS
-d_baltic_pagan_reformed,d_baltic_pagan_reformed,,The Romuvan Church
-d_baltic_pagan_reformed,d_baltic_pagan_reformed_adj,,Romuva
-d_baltic_pagan_reformed,dynasty_title_names,,no
-d_baltic_pagan_reformed,foa,,HEAD_PRIEST_FOA
-d_baltic_pagan_reformed,short_name,,yes
-d_baltic_pagan_reformed,title,,HEAD_PRIEST
-d_baltic_pagan_reformed,title_female,,HEAD_PRIESTESS
-d_finnish_pagan_reformed,d_finnish_pagan_reformed,,The Suomenusko Church
-d_finnish_pagan_reformed,d_finnish_pagan_reformed_adj,,Suomenusko
-d_finnish_pagan_reformed,dynasty_title_names,,no
-d_finnish_pagan_reformed,foa,,HEAD_PRIEST_FOA
-d_finnish_pagan_reformed,short_name,,yes
-d_finnish_pagan_reformed,title,,HEAD_PRIEST
-d_finnish_pagan_reformed,title_female,,HEAD_PRIESTESS
-d_slavic_pagan_reformed,d_slavic_pagan_reformed,,The Slavic Church
-d_slavic_pagan_reformed,d_slavic_pagan_reformed_adj,,Slavic
-d_slavic_pagan_reformed,dynasty_title_names,,no
-d_slavic_pagan_reformed,foa,,HEAD_PRIEST_FOA
-d_slavic_pagan_reformed,short_name,,yes
-d_slavic_pagan_reformed,title,,HEAD_PRIEST
-d_slavic_pagan_reformed,title_female,,HEAD_PRIESTESS
-d_aztec_reformed,d_aztec_reformed,,The Aztec Church
-d_aztec_reformed,d_aztec_reformed_adj,,
-d_aztec_reformed,dynasty_title_names,,no
-d_aztec_reformed,foa,,HEAD_PRIEST_FOA
-d_aztec_reformed,short_name,,yes
-d_aztec_reformed,title,,HEAD_PRIEST
-d_aztec_reformed,title_female,,HEAD_PRIESTESS
-d_west_african_pagan_reformed,d_west_african_pagan_reformed,,West African Church
-d_west_african_pagan_reformed,d_west_african_pagan_reformed_adj,,West African
-d_west_african_pagan_reformed,dynasty_title_names,,no
-d_west_african_pagan_reformed,foa,,HEAD_PRIEST_FOA
-d_west_african_pagan_reformed,short_name,,yes
-d_west_african_pagan_reformed,title,,HEAD_PRIEST
-d_west_african_pagan_reformed,title_female,,HEAD_PRIESTESS
-d_zun_pagan_reformed,d_zun_pagan_reformed,,The Church of Zun
-d_zun_pagan_reformed,d_zun_pagan_reformed_adj,,
-d_zun_pagan_reformed,dynasty_title_names,,no
-d_zun_pagan_reformed,foa,,HEAD_PRIEST_FOA
-d_zun_pagan_reformed,short_name,,yes
-d_zun_pagan_reformed,title,,HEAD_PRIEST
-d_zun_pagan_reformed,title_female,,HEAD_PRIESTESS
-d_zoroastrian,d_zoroastrian,,The Zoroastrian Church
-d_zoroastrian,d_zoroastrian_adj,,Zoroastrian
-d_zoroastrian,dynasty_title_names,,no
-d_zoroastrian,foa,,POPE_FOA
-d_zoroastrian,short_name,,yes
-d_zoroastrian,title,,HEAD_MOABADAN_MOABAD
-d_band_of_the_brave,d_band_of_the_brave,,The brave band
-d_band_of_the_brave,d_band_of_the_brave_adj,,The brave band
-d_band_of_the_brave,foa,,CAPTAIN_FOA
-d_band_of_the_brave,title,,CAPTAIN
-d_band_of_the_red,d_band_of_the_red,,Floti hinn rauði
-d_band_of_the_red,d_band_of_the_red_adj,,Floti hinn rauði
-d_band_of_the_red,foa,,CAPTAIN_FOA
-d_band_of_the_red,title,,DROTTINN
-d_black_gang,d_black_gang,,Arumer Zwarte Hoop
-d_black_gang,d_black_gang_adj,,Arumer Zwarte Hoop
-d_black_gang,foa,,CAPTAIN_FOA
-d_black_gang,title,,CAPTAIN
-d_ulfhedar,d_ulfhedar,,Úlfhéðnar
-d_ulfhedar,d_ulfhedar_adj,,Úlfhéðnar
-d_ulfhedar,foa,,CAPTAIN_FOA
-d_ulfhedar,title,,DROTTINN
-d_valr,d_valr,,Valr
-d_valr,d_valr_adj,,Valr
-d_valr,foa,,CAPTAIN_FOA
-d_valr,title,,DROTTINN
-d_curonian,d_curonian,,Kurši
-d_curonian,d_curonian_adj,,Kuršiu
-d_selonians,d_selonians,,Seli
-d_selonians,d_selonians_adj,,Selu
-d_talavians,d_talavians,,Tãlavi
-d_talavians,d_talavians_adj,,Tãlavu
-d_lettigalians,d_lettigalians,,Latgali
-d_lettigalians,d_lettigalians_adj,,Latgali
-d_zemigalians,d_zemigalians,,Zemgali
-d_zemigalians,d_zemigalians_adj,,Zemgali
-d_deltuvians,d_deltuvians,,Deltuvai
-d_deltuvians,d_deltuvians_adj,,Deltuvos
-d_yatviags,d_yatviags,,Jotvingiai
-d_yatviags,d_yatviags_adj,,Jotvingiu
-d_pruthenians,d_pruthenians,,Prùsà
-d_pruthenians,d_pruthenians_adj,,Prusu
-d_goliadj,d_goliadj,,Goladi
-d_goliadj,d_goliadj_adj,,Goladi
-d_goliadj,bohemian,,Galindowie
-d_goliadj,moravian,,Galindowie
-d_goliadj,polish,,Galindowie
-d_goliadj,pommeranian,,Galindowie
-d_goliadj,russian,,Goliadj
-d_warmians,d_warmians,,Varmi
-d_warmians,d_warmians_adj,,Varmi
-d_pomesanians,d_pomesanians,,Pomedi
-d_pomesanians,d_pomesanians_adj,,Pomedi
-d_sasnians,d_sasnians,,Sasnai
-d_sasnians,d_sasnians_adj,,Sasnai
-d_pogesanians,d_pogesanians,,Paugudi
-d_pogesanians,d_pogesanians_adj,,Paugudi
-d_bartians,d_bartians,,Barthi
-d_bartians,d_bartians_adj,,Barthi
-d_nadruvians,d_nadruvians,,Nadrawai
-d_nadruvians,d_nadruvians_adj,,Nadrawai
-d_scalovians,d_scalovians,,Skalwai
-d_scalovians,d_scalovians_adj,,Skalwai
-d_sambians,d_sambians,,Sembai
-d_sambians,d_sambians_adj,,Sembai
-d_veleti,d_veleti,,Wilzi
-d_veleti,d_veleti_adj,,Wilzi
-d_wolinians,d_wolinians,,Velunzani
-d_wolinians,d_wolinians_adj,,Velunzani
-d_chutizi,d_chutizi,,Chutizi
-d_chutizi,d_chutizi_adj,,Chutizi
-d_leubuzzi,d_leubuzzi,,Licicaviki
-d_leubuzzi,d_leubuzzi_adj,,Licicaviki
-d_glomacze,d_glomacze,,Glomacze
-d_glomacze,d_glomacze_adj,,Glomacz
-d_sorbs,d_sorbs,,Sorbs
-d_sorbs,d_sorbs_adj,,Sorbian
-d_lendians,d_lendians,,Ledzianie
-d_lendians,d_lendians_adj,,Ledzianie
-d_bohemians,d_bohemians,,Czechowé
-d_bohemians,d_bohemians_adj,,Czeský
-d_drevlyans,d_drevlyans,,Drevlyane
-d_drevlyans,d_drevlyans_adj,,Drevlyane
-d_ulichs,d_ulichs,,Ulichane
-d_ulichs,d_ulichs_adj,,Ulichane
-d_volhynians,d_volhynians,,Volyniane
-d_volhynians,d_volhynians_adj,,Volyniane
-d_buzhans,d_buzhans,,Buzhane
-d_buzhans,d_buzhans_adj,,Buzhane
-d_tivertsi,d_tivertsi,,Tivertsi
-d_tivertsi,d_tivertsi_adj,,Tivertsi
-d_meshcheras,d_meshcheras,,Meshcheras
-d_meshcheras,d_meshcheras_adj,,Meshcheran
-d_kryvians,d_kryvians,,Krivichi
-d_kryvians,d_kryvians_adj,,Krivichi
-d_severians,d_severians,,Severiane
-d_severians,d_severians_adj,,Severiane
-d_vyatichi,d_vyatichi,,Vyatichi
-d_vyatichi,d_vyatichi_adj,,Vyatich
-d_dregovichi,d_dregovichi,,Dregovichi
-d_dregovichi,d_dregovichi_adj,,Dregovichi
-d_radimichi,d_radimichi,,Radimichi
-d_radimichi,d_radimichi_adj,,Radimichi
-d_yawdi_ertim,d_yawdi_ertim,,Yawdi Ertim
-d_yawdi_ertim,d_yawdi_ertim_adj,,Yawdi Ertimian
-d_kuerchi_chur,d_kuerchi_chur,,Küerchi Chür
-d_kuerchi_chur,d_kuerchi_chur_adj,,Küerchi Chürian
-d_qabuqsin_yula,d_qabuqsin_yula,,Qabuqsin Yula
-d_qabuqsin_yula,d_qabuqsin_yula_adj,,Qabuqsin Yulaian
-d_suru_kulbej,d_suru_kulbej,,Suru Külbej
-d_suru_kulbej,d_suru_kulbej_adj,,Suru Külbejian
-d_qara_bay,d_qara_bay,,Qara Bay
-d_qara_bay,d_qara_bay_adj,,Qara Bayian
-d_boru_tolmach,d_boru_tolmach,,Boru Tolmach
-d_boru_tolmach,d_boru_tolmach_adj,,Boru Tolmachian
-d_yazi_qapan,d_yazi_qapan,,Yazi Qapan
-d_yazi_qapan,d_yazi_qapan_adj,,Yazi Qapanian
-d_bula_chopan,d_bula_chopan,,Bula Chopan
-d_bula_chopan,d_bula_chopan_adj,,Bula Chopanian
-d_uighurs,d_uighurs,,Uighurs
-d_uighurs,d_uighurs_adj,,Uighur
-d_uighurs,foa,,Idiqut_FOA
-d_uighurs,title,,Idiqut
-d_uighurs,title_prefix,,Yabghuluq_OF
-d_qirghiz,d_qirghiz,,Qirghiz
-d_qirghiz,d_qirghiz_adj,,Qirghiz
-d_qirghiz,foa,,Elteber_FOA
-d_qirghiz,title,,Elteber
-d_qirghiz,title_prefix,,Elteberluq_OF
-d_salgur,d_salgur,,Salgur
-d_salgur,d_salgur_adj,,Salgurish
-d_tekule,d_tekule,,Teküle
-d_tekule,d_tekule_adj,,Tekülish
-d_oghuz,d_oghuz,,Oghuz
-d_oghuz,d_oghuz_adj,,Oghuz
-d_oghuz,foa,,Yabghu_FOA
-d_oghuz,title,,Yabghu
-d_oghuz,title_prefix,,Yabghuluq_OF
-d_iraqiya_oghuz,d_iraqiya_oghuz,,Iraqíya
-d_iraqiya_oghuz,d_iraqiya_oghuz_adj,,Iraqí'í
-d_qarluq,d_qarluq,,Qarluq
-d_qarluq,d_qarluq_adj,,Qarluq
-d_yaghma,d_yaghma,,Yaghma
-d_yaghma,d_yaghma_adj,,Yaghma
-d_yaghma,foa,,Yabghu_FOA
-d_yaghma,title,,Yabghu
-d_yaghma,title_prefix,,Yabghuluq_OF
-d_chigil,d_chigil,,Chigil
-d_chigil,d_chigil_adj,,Chigil
-d_chigil,foa,,Yabghu_FOA
-d_chigil,title,,Yabghu
-d_chigil,title_prefix,,Yabghuluq_OF
-d_basmils,d_basmils,,Bamils
-d_basmils,d_basmils_adj,,Basmil
-d_basmils,foa,,Yabghu_FOA
-d_basmils,title,,Yabghu
-d_basmils,title_prefix,,Yabghuluq_OF
-d_tukhsi,d_tukhsi,,Tukhsi
-d_tukhsi,d_tukhsi_adj,,Tukhsi
-d_tukhsi,foa,,Yabghu_FOA
-d_tukhsi,title,,Yabghu
-d_tukhsi,title_prefix,,Yabghuluq_OF
-d_qipchaq,d_qipchaq,,Qipchaq
-d_qipchaq,d_qipchaq_adj,,Qipchaq
-d_qipchaq,foa,,Opa_FOA
-d_qipchaq,title,,Opa
-d_qipchaq,title_prefix,,Kuren_OF
-d_ay_opa,d_ay_opa,,Ay-opa
-d_ay_opa,d_ay_opa_adj,,Ay-opan
-d_dorut,d_dorut,,Dörüt
-d_dorut,d_dorut_adj,,Dörütish
-d_terteroba,d_terteroba,,Terteroba
-d_terteroba,d_terteroba_adj,,Terteroban
-d_toqsoba,d_toqsoba,,Toqsoba
-d_toqsoba,d_toqsoba_adj,,Toqsoban
-d_yimek,d_yimek,,Yimek
-d_yimek,d_yimek_adj,,Yimekish
-d_enchogli,d_enchogli,,Ençogli
-d_enchogli,d_enchogli_adj,,Ençoglian
-d_olberlig,d_olberlig,,Ölberli
-d_olberlig,d_olberlig_adj,,Ölberlish
-d_targil,d_targil,,Targil
-d_targil,d_targil_adj,,Targilan
-d_qongurogli,d_qongurogli,,Qongorogli
-d_qongurogli,d_qongurogli_adj,,Qongoroglish
-d_oren,d_oren,,Ören
-d_oren,d_oren_adj,,Örenian
-d_qor,d_qor,,Qor
-d_qor,d_qor_adj,,Qorish
-d_burchali,d_burchali,,Burçali
-d_burchali,d_burchali_adj,,Burçalian
-d_chortan,d_chortan,,Çortan
-d_chortan,d_chortan_adj,,Çortanish
-d_ulasgoli,d_ulasgoli,,Ulashogli
-d_ulasgoli,d_ulasgoli_adj,,Ulashoglish
-d_urusoba,d_urusoba,,Urus-oba
-d_urusoba,d_urusoba_adj,,Urus-oban
-d_kabars,d_kabars,,Qabarlar
-d_kabars,d_kabars_adj,,Qabarish
-d_zunbil,d_zunbil,,Zunbils
-d_zunbil,d_zunbil_adj,,Zunbil
-d_shabankara,d_shabankara,,Shabankara
-d_shabankara,d_shabankara_adj,,Shabankaraí
-d_brodniks,d_brodniks,,Brodnici
-d_brodniks,d_brodniks_adj,,Brodnician
-d_bolohoveni,d_bolohoveni,,Bolohoveni
-d_bolohoveni,d_bolohoveni_adj,,Bolohovenian
-d_zyriane,d_zyriane,,Zyriana
-d_zyriane,d_zyriane_adj,,Zyrianan
-d_zyriane,bohemian,,Zyriane
-d_zyriane,d_zyriane_adj_bohemian,,Zyrianian
-d_zyriane,bosnian,,Zyriane
-d_zyriane,d_zyriane_adj_bosnian,,Zyrianian
-d_zyriane,bulgarian,,Zyriane
-d_zyriane,d_zyriane_adj_bulgarian,,Zyrianian
-d_zyriane,croatian,,Zyriane
-d_zyriane,d_zyriane_adj_croatian,,Zyrianian
-d_zyriane,danish,,Syrjænger
-d_zyriane,d_zyriane_adj_danish,,Syrjænger
-d_zyriane,karantanci,,Zyriane
-d_zyriane,d_zyriane_adj_karantanci,,Zyrianian
-d_zyriane,moravian,,Zyriane
-d_zyriane,d_zyriane_adj_moravian,,Zyrianian
-d_zyriane,polish,,Zyriane
-d_zyriane,d_zyriane_adj_polish,,Zyrianian
-d_zyriane,pommeranian,,Zyriane
-d_zyriane,d_zyriane_adj_pommeranian,,Zyrianian
-d_zyriane,russian,,Zyriane
-d_zyriane,d_zyriane_adj_russian,,Zyrianian
-d_zyriane,serbian,,Zyriane
-d_zyriane,d_zyriane_adj_serbian,,Zyrianian
-d_maris,d_maris,,Vice Mari
-d_maris,d_maris_adj,,Vice Marian
-d_maris,avar,,Sarmäslar
-d_maris,d_maris_adj_avar,,Sarmäslärian
-d_maris,bashkir,,Çirmislar
-d_maris,d_maris_adj_bashkir,,Çirmeslarian
-d_maris,d_maris_adj_bohemian,,Cheremis
-d_maris,bolghar,,Sarmäslar
-d_maris,d_maris_adj_bolghar,,Sarmäslärian
-d_maris,d_maris_adj_bosnian,,Cheremis
-d_maris,d_maris_adj_bulgarian,,Cheremis
-d_maris,d_maris_adj_croatian,,Cheremis
-d_maris,cuman,,Çirmeslär
-d_maris,d_maris_adj_cuman,,Çirmeslärian
-d_maris,d_maris_adj_karantanci,,Cheremis
-d_maris,karluk,,Çirmeslär
-d_maris,d_maris_adj_karluk,,Çirmeslärian
-d_maris,kasogi,,Çirmislar
-d_maris,khazar,,Sarmäslar
-d_maris,d_maris_adj_khazar,,Sarmäslärian
-d_maris,d_maris_adj_khitan,,Çirmeslärian
-d_maris,kirghiz,,Çirmeslär
-d_maris,d_maris_adj_kirghiz,,Çirmeslärian
-d_maris,mongol,,Çirmeslär
-d_maris,d_maris_adj_mongol,,Çirmeslärian
-d_maris,d_maris_adj_moravian,,Cheremis
-d_maris,oghuz,,Çirmislar
-d_maris,d_maris_adj_oghuz,,Çirmislarian
-d_maris,pecheneg,,Çirmislar
-d_maris,d_maris_adj_pecheneg,,Çirmislarian
-d_maris,d_maris_adj_polish,,Cheremis
-d_maris,d_maris_adj_pommeranian,,Cheremis
-d_maris,d_maris_adj_russian,,Cheremis
-d_maris,d_maris_adj_serbian,,Cheremis
-d_maris,turkish,,Çirmislar
-d_maris,d_maris_adj_turkish,,Çirmislarian
-d_maris,turkmen,,Çirmislar
-d_maris,d_maris_adj_turkmen,,Çirmislarian
-d_maris,uyghur,,Çirmeslär
-d_maris,d_maris_adj_uyghur,,Çirmeslärian
-d_maris_vetluga,d_maris_vetluga,,Vütla Mari
-d_maris_vetluga,d_maris_vetluga_adj,,Vütla Marian
-d_maris_vetluga,avar,,Tuçi Sarmäslar
-d_maris_vetluga,d_maris_vetluga_adj_avar,,Tuçi Sarmäslärian
-d_maris_vetluga,bashkir,,Tepe Çirmislar
-d_maris_vetluga,d_maris_vetluga_adj_bashkir,,Tepe Çirmeslarian
-d_maris_vetluga,bohemian,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_bohemian,,Gornyye Cheremisian
-d_maris_vetluga,bolghar,,Tuçi Sarmäslar
-d_maris_vetluga,d_maris_vetluga_adj_bolghar,,Tuçi Sarmäslärian
-d_maris_vetluga,bosnian,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_bosnian,,Gornyye Cheremisian
-d_maris_vetluga,bulgarian,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_bulgarian,,Gornyye Cheremisian
-d_maris_vetluga,croatian,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_croatian,,Gornyye Cheremisian
-d_maris_vetluga,cuman,,Tepe Çirmeslär
-d_maris_vetluga,d_maris_vetluga_adj_cuman,,Tepe Çirmeslärian
-d_maris_vetluga,karantanci,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_karantanci,,Gornyye Cheremisian
-d_maris_vetluga,karluk,,Tepe Çirmeslär
-d_maris_vetluga,d_maris_vetluga_adj_karluk,,Tepe Çirmeslärian
-d_maris_vetluga,kasogi,,Tepe Çirmislar
-d_maris_vetluga,khazar,,Tuçi Sarmäslar
-d_maris_vetluga,d_maris_vetluga_adj_khazar,,Tuçi Sarmäslärian
-d_maris_vetluga,d_maris_vetluga_adj_khitan,,Tepe Çirmeslarian
-d_maris_vetluga,kirghiz,,Tepe Çirmeslär
-d_maris_vetluga,d_maris_vetluga_adj_kirghiz,,Tepe Çirmeslärian
-d_maris_vetluga,mongol,,Tepe Çirmeslär
-d_maris_vetluga,d_maris_vetluga_adj_mongol,,Tepe Çirmeslärian
-d_maris_vetluga,moravian,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_moravian,,Gornyye Cheremisian
-d_maris_vetluga,oghuz,,Tepe Çirmislar
-d_maris_vetluga,d_maris_vetluga_adj_oghuz,,Tepe Çirmeslarian
-d_maris_vetluga,pecheneg,,Tepe Çirmislar
-d_maris_vetluga,d_maris_vetluga_adj_pecheneg,,Tepe Çirmeslarian
-d_maris_vetluga,polish,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_polish,,Gornyye Cheremisian
-d_maris_vetluga,pommeranian,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_pommeranian,,Gornyye Cheremisian
-d_maris_vetluga,russian,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_russian,,Gornyye Cheremisian
-d_maris_vetluga,serbian,,Gornyye Cheremis
-d_maris_vetluga,d_maris_vetluga_adj_serbian,,Gornyye Cheremisian
-d_maris_vetluga,turkish,,Tepe Çirmislar
-d_maris_vetluga,d_maris_vetluga_adj_turkish,,Tepe Çirmeslarian
-d_maris_vetluga,turkmen,,Tepe Çirmislar
-d_maris_vetluga,d_maris_vetluga_adj_turkmen,,Tepe Çirmeslarian
-d_maris_vetluga,uyghur,,Tepe Çirmeslär
-d_maris_vetluga,d_maris_vetluga_adj_uyghur,,Tepe Çirmeslärian
-d_meryas,d_meryas,,Meryas
-d_meryas,d_meryas_adj,,Meryan
-d_mordvins_erza,d_mordvins_erza,,Erzyät
-d_mordvins_erza,d_mordvins_erza_adj,,Erzyätan
-d_mordvins_erza,avar,,Irçëlar
-d_mordvins_erza,d_mordvins_erza_adj_avar,,Irçëian
-d_mordvins_erza,bashkir,,Ïrzälar
-d_mordvins_erza,d_mordvins_erza_adj_bashkir,,Ïrzäian
-d_mordvins_erza,bolghar,,Irçëlar
-d_mordvins_erza,d_mordvins_erza_adj_bolghar,,Irçëian
-d_mordvins_erza,cuman,,Ïrzälär
-d_mordvins_erza,d_mordvins_erza_adj_cuman,,Ïrzäian
-d_mordvins_erza,karluk,,Ïrzälar
-d_mordvins_erza,d_mordvins_erza_adj_karluk,,Ïrzäian
-d_mordvins_erza,kasogi,,Irçilar
-d_mordvins_erza,d_mordvins_erza_adj_kasogi,,Irçian
-d_mordvins_erza,khazar,,Irçëlar
-d_mordvins_erza,d_mordvins_erza_adj_khazar,,Irçëian
-d_mordvins_erza,d_mordvins_erza_adj_khitan,,Ïrzäian
-d_mordvins_erza,kirghiz,,Ïrzälär
-d_mordvins_erza,d_mordvins_erza_adj_kirghiz,,Ïrzäian
-d_mordvins_erza,mongol,,Ïrzälär
-d_mordvins_erza,d_mordvins_erza_adj_mongol,,Ïrzäian
-d_mordvins_erza,oghuz,,Irçilar
-d_mordvins_erza,d_mordvins_erza_adj_oghuz,,Irçian
-d_mordvins_erza,pecheneg,,Irçilar
-d_mordvins_erza,d_mordvins_erza_adj_pecheneg,,Irçian
-d_mordvins_erza,turkish,,Irçilar
-d_mordvins_erza,d_mordvins_erza_adj_turkish,,Irçian
-d_mordvins_erza,turkmen,,Irçilar
-d_mordvins_erza,d_mordvins_erza_adj_turkmen,,Irçian
-d_mordvins_erza,uyghur,,Ïrzälär
-d_mordvins_erza,d_mordvins_erza_adj_uyghur,,Ïrzäian
-d_mordvins,d_mordvins,,Mokshet
-d_mordvins,d_mordvins_adj,,Mokshetian
-d_mordvins,afghan,,Tuqshi
-d_mordvins,d_mordvins_adj_afghan,,Tuqshi
-d_mordvins,alan,,Mordia
-d_mordvins,d_mordvins_adj_alan,,Mordian
-d_mordvins,andalusian_arabic,,Tuqshi
-d_mordvins,d_mordvins_adj_andalusian_arabic,,Tuqshi
-d_mordvins,aragonese,,Merdas
-d_mordvins,d_mordvins_adj_aragonese,,Mersdasian
-d_mordvins,arberian,,Mordia
-d_mordvins,d_mordvins_adj_arberian,,Mordian
-d_mordvins,armenian,,Mordia
-d_mordvins,d_mordvins_adj_armenian,,Mordian
-d_mordvins,arpitan,,Merdas
-d_mordvins,d_mordvins_adj_arpitan,,Mersdasian
-d_mordvins,avar,,Tuqšilar
-d_mordvins,d_mordvins_adj_avar,,Tuqshi
-d_mordvins,baloch,,Tuqshi
-d_mordvins,d_mordvins_adj_baloch,,Tuqshi
-d_mordvins,bashkir,,Tuqšilar
-d_mordvins,d_mordvins_adj_bashkir,,Tuqshi
-d_mordvins,basque,,Merdas
-d_mordvins,d_mordvins_adj_basque,,Mersdasian
-d_mordvins,bavarian,,Merdas
-d_mordvins,d_mordvins_adj_bavarian,,Mersdasian
-d_mordvins,bedouin_arabic,,Tuqshi
-d_mordvins,d_mordvins_adj_bedouin_arabic,,Tuqshi
-d_mordvins,bohemian,,Mordva
-d_mordvins,d_mordvins_adj_bohemian,,Mordvan
-d_mordvins,bolghar,,Tuqšilar
-d_mordvins,d_mordvins_adj_bolghar,,Tuqshi
-d_mordvins,bosnian,,Mordva
-d_mordvins,d_mordvins_adj_bosnian,,Mordvan
-d_mordvins,bulgarian,,Mordva
-d_mordvins,d_mordvins_adj_bulgarian,,Mordvan
-d_mordvins,castillan,,Merdas
-d_mordvins,d_mordvins_adj_castillan,,Mersdasian
-d_mordvins,catalan,,Merdas
-d_mordvins,central_italian,,Merdas
-d_mordvins,d_mordvins_adj_central_italian,,Mersdasian
-d_mordvins,corsican,,Merdas
-d_mordvins,d_mordvins_adj_corsican,,Mersdasian
-d_mordvins,croatian,,Mordva
-d_mordvins,d_mordvins_adj_croatian,,Mordvan
-d_mordvins,cuman,,Tuqšilar
-d_mordvins,d_mordvins_adj_cuman,,Tuqshi
-d_mordvins,dalmatian,,Merdas
-d_mordvins,d_mordvins_adj_dalmatian,,Mersdasian
-d_mordvins,danish,,Merdas
-d_mordvins,d_mordvins_adj_danish,,Mersdasian
-d_mordvins,daylamite,,Tuqshi
-d_mordvins,d_mordvins_adj_daylamite,,Tuqshi
-d_mordvins,d_mordvins_adj_dutch,,Mersdasian
-d_mordvins,east_gothic,,Mordens
-d_mordvins,d_mordvins_adj_east_gothic,,Mordensian
-d_mordvins,egyptian_arabic,,Tuqshi
-d_mordvins,d_mordvins_adj_egyptian_arabic,,Tuqshi
-d_mordvins,english,,Merdas
-d_mordvins,d_mordvins_adj_english,,Mersdasian
-d_mordvins,franconian,,Merdas
-d_mordvins,d_mordvins_adj_franconian,,Mersdasian
-d_mordvins,frankish,,Merdas
-d_mordvins,d_mordvins_adj_frankish,,Mersdasian
-d_mordvins,georgian,,Mordia
-d_mordvins,d_mordvins_adj_georgian,,Mordian
-d_mordvins,german,,Merdas
-d_mordvins,d_mordvins_adj_german,,Mersdasian
-d_mordvins,gothic,,Merdas
-d_mordvins,d_mordvins_adj_gothic,,Mersdasian
-d_mordvins,greek,,Mordia
-d_mordvins,d_mordvins_adj_greek,,Mordian
-d_mordvins,d_mordvins_adj_hungarian,,Mersdasian
-d_mordvins,italian,,Merdas
-d_mordvins,d_mordvins_adj_italian,,Mersdasian
-d_mordvins,karantanci,,Mordva
-d_mordvins,d_mordvins_adj_karantanci,,Mordvan
-d_mordvins,karluk,,Tuqšilar
-d_mordvins,d_mordvins_adj_karluk,,Tuqshi
-d_mordvins,kasogi,,Tuqšilar
-d_mordvins,khalaj,,Tuqshi
-d_mordvins,d_mordvins_adj_khalaj,,Tuqshi
-d_mordvins,khazar,,Tuqšilar
-d_mordvins,d_mordvins_adj_khazar,,Tuqshi
-d_mordvins,d_mordvins_adj_khitan,,Tuqshi
-d_mordvins,khwarezmi,,Tuqshi
-d_mordvins,d_mordvins_adj_khwarezmi,,Tuqshi
-d_mordvins,kirghiz,,Tuqšilär
-d_mordvins,d_mordvins_adj_kirghiz,,Tuqshi
-d_mordvins,kurdish,,Tuqshi
-d_mordvins,d_mordvins_adj_kurdish,,Tuqshi
-d_mordvins,langobardisch,,Merdas
-d_mordvins,leonese,,Merdas
-d_mordvins,d_mordvins_adj_leonese,,Mersdasian
-d_mordvins,levantine_arabic,,Tuqshi
-d_mordvins,d_mordvins_adj_levantine_arabic,,Tuqshi
-d_mordvins,ligurian,,Merdas
-d_mordvins,d_mordvins_adj_ligurian,,Mersdasian
-d_mordvins,low_frankish,,Merdas
-d_mordvins,d_mordvins_adj_low_frankish,,Mersdasian
-d_mordvins,low_german,,Merdas
-d_mordvins,d_mordvins_adj_low_german,,Mersdasian
-d_mordvins,low_saxon,,Merdas
-d_mordvins,d_mordvins_adj_low_saxon,,Mersdasian
-d_mordvins,maghreb_arabic,,Tuqshi
-d_mordvins,d_mordvins_adj_maghreb_arabic,,Tuqshi
-d_mordvins,masmuda,,Tuqshi
-d_mordvins,d_mordvins_adj_masmuda,,Tuqshi
-d_mordvins,mongol,,Tuqšilär
-d_mordvins,d_mordvins_adj_mongol,,Tuqshi
-d_mordvins,moravian,,Mordva
-d_mordvins,d_mordvins_adj_moravian,,Mordvan
-d_mordvins,neapolitan,,Merdas
-d_mordvins,d_mordvins_adj_neapolitan,,Mersdasian
-d_mordvins,norman,,Merdas
-d_mordvins,d_mordvins_adj_norman,,Mersdasian
-d_mordvins,d_mordvins_adj_norwegian,,Mersdasian
-d_mordvins,occitan,,Merdas
-d_mordvins,d_mordvins_adj_occitan,,Mersdasian
-d_mordvins,oghuz,,Tuqšilar
-d_mordvins,d_mordvins_adj_oghuz,,Tuqshi
-d_mordvins,pahlavi,,Tuqshi
-d_mordvins,d_mordvins_adj_pahlavi,,Tuqshi
-d_mordvins,pecheneg,,Tuqšilar
-d_mordvins,d_mordvins_adj_pecheneg,,Tuqshi
-d_mordvins,persian,,Tuqshi
-d_mordvins,d_mordvins_adj_persian,,Tuqshi
-d_mordvins,polish,,Mordva
-d_mordvins,d_mordvins_adj_polish,,Mordvan
-d_mordvins,pommeranian,,Mordva
-d_mordvins,d_mordvins_adj_pommeranian,,Mordvan
-d_mordvins,qufs,,Tuqshi
-d_mordvins,d_mordvins_adj_qufs,,Tuqshi
-d_mordvins,romanian,,Merdas
-d_mordvins,d_mordvins_adj_romanian,,Mersdasian
-d_mordvins,d_mordvins_adj_russian,,Mordvan
-d_mordvins,sanhaja,,Tuqshi
-d_mordvins,d_mordvins_adj_sanhaja,,Tuqshi
-d_mordvins,sardinian,,Merdas
-d_mordvins,d_mordvins_adj_sardinian,,Mersdasian
-d_mordvins,serbian,,Mordva
-d_mordvins,d_mordvins_adj_serbian,,Mordvan
-d_mordvins,sicilian,,Merdas
-d_mordvins,d_mordvins_adj_sicilian,,Mersdasian
-d_mordvins,sicilian_arabic,,Tuqshi
-d_mordvins,d_mordvins_adj_sicilian_arabic,,Tuqshi
-d_mordvins,sicilian_greek,,Mordia
-d_mordvins,sogdian,,Tuqshi
-d_mordvins,d_mordvins_adj_sogdian,,Tuqshi
-d_mordvins,southern_italian,,Merdas
-d_mordvins,d_mordvins_adj_southern_italian,,Mersdasian
-d_mordvins,swabian,,Merdas
-d_mordvins,d_mordvins_adj_swabian,,Mersdasian
-d_mordvins,swedish,,Merdas
-d_mordvins,d_mordvins_adj_swedish,,Mersdasian
-d_mordvins,tagelmust,,Tuqshi
-d_mordvins,d_mordvins_adj_tagelmust,,Tuqshi
-d_mordvins,tajik,,Tuqshi
-d_mordvins,d_mordvins_adj_tajik,,Tuqshi
-d_mordvins,thuringian,,Merdas
-d_mordvins,d_mordvins_adj_thuringian,,Mersdasian
-d_mordvins,tuareg,,Tuqshi
-d_mordvins,d_mordvins_adj_tuareg,,Tuqshi
-d_mordvins,turkish,,Tuqšilar
-d_mordvins,d_mordvins_adj_turkish,,Tuqshi
-d_mordvins,turkmen,,Tuqšilar
-d_mordvins,d_mordvins_adj_turkmen,,Tuqshi
-d_mordvins,tuscan,,Merdas
-d_mordvins,d_mordvins_adj_tuscan,,Mersdasian
-d_mordvins,uyghur,,Tuqšilar
-d_mordvins,d_mordvins_adj_uyghur,,Tuqshi
-d_mordvins,venetian,,Merdas
-d_mordvins,d_mordvins_adj_venetian,,Mersdasian
-d_mordvins,zanata,,Tuqshi
-d_mordvins,d_mordvins_adj_zanata,,Tuqshi
-d_burtas,d_burtas,,Burtas
-d_burtas,d_burtas_adj,,Burtas
-d_burtas,afghan,,Burdas
-d_burtas,d_burtas_adj_afghan,,Burdas
-d_burtas,andalusian_arabic,,Burdas
-d_burtas,d_burtas_adj_andalusian_arabic,,Burdas
-d_burtas,avar,,Bortaslar
-d_burtas,d_burtas_adj_avar,,Bortas
-d_burtas,baloch,,Burdas
-d_burtas,d_burtas_adj_baloch,,Burdas
-d_burtas,bashkir,,Bortaslar
-d_burtas,d_burtas_adj_bashkir,,Bortas
-d_burtas,bedouin_arabic,,Burdas
-d_burtas,d_burtas_adj_bedouin_arabic,,Burdas
-d_burtas,bohemian,,Burtasy
-d_burtas,d_burtas_adj_bohemian,,Burtasy
-d_burtas,bolghar,,Bortaslar
-d_burtas,d_burtas_adj_bolghar,,Bortas
-d_burtas,bosnian,,Burtasy
-d_burtas,d_burtas_adj_bosnian,,Burtasy
-d_burtas,bulgarian,,Burtasy
-d_burtas,d_burtas_adj_bulgarian,,Burtasy
-d_burtas,croatian,,Burtasy
-d_burtas,d_burtas_adj_croatian,,Burtasy
-d_burtas,cuman,,Bortaslär
-d_burtas,d_burtas_adj_cuman,,Bortas
-d_burtas,daylamite,,Burdas
-d_burtas,d_burtas_adj_daylamite,,Burdas
-d_burtas,egyptian_arabic,,Burdas
-d_burtas,d_burtas_adj_egyptian_arabic,,Burdas
-d_burtas,karantanci,,Burtasy
-d_burtas,d_burtas_adj_karantanci,,Burtasy
-d_burtas,karluk,,Bortaslar
-d_burtas,d_burtas_adj_karluk,,Bortas
-d_burtas,kasogi,,Bortaslar
-d_burtas,d_burtas_adj_kasogi,,Bortas
-d_burtas,khalaj,,Burdas
-d_burtas,d_burtas_adj_khalaj,,Burdas
-d_burtas,khazar,,Bortaslar
-d_burtas,d_burtas_adj_khazar,,Bortas
-d_burtas,d_burtas_adj_khitan,,Bortas
-d_burtas,khwarezmi,,Burdas
-d_burtas,d_burtas_adj_khwarezmi,,Burdas
-d_burtas,kirghiz,,Bortaslär
-d_burtas,d_burtas_adj_kirghiz,,Bortas
-d_burtas,kurdish,,Burdas
-d_burtas,d_burtas_adj_kurdish,,Burdas
-d_burtas,levantine_arabic,,Burdas
-d_burtas,d_burtas_adj_levantine_arabic,,Burdas
-d_burtas,maghreb_arabic,,Burdas
-d_burtas,d_burtas_adj_maghreb_arabic,,Burdas
-d_burtas,masmuda,,Burdas
-d_burtas,d_burtas_adj_masmuda,,Burdas
-d_burtas,mongol,,Bortaslär
-d_burtas,d_burtas_adj_mongol,,Bortas
-d_burtas,moravian,,Burtasy
-d_burtas,d_burtas_adj_moravian,,Burtasy
-d_burtas,oghuz,,Bortaslar
-d_burtas,d_burtas_adj_oghuz,,Bortas
-d_burtas,pahlavi,,Burdas
-d_burtas,d_burtas_adj_pahlavi,,Burdas
-d_burtas,pecheneg,,Bortaslar
-d_burtas,d_burtas_adj_pecheneg,,Bortas
-d_burtas,persian,,Burdas
-d_burtas,d_burtas_adj_persian,,Burdas
-d_burtas,polish,,Burtasy
-d_burtas,d_burtas_adj_polish,,Burtasy
-d_burtas,pommeranian,,Burtasy
-d_burtas,d_burtas_adj_pommeranian,,Burtasy
-d_burtas,qufs,,Burdas
-d_burtas,d_burtas_adj_qufs,,Burdas
-d_burtas,russian,,Burtasy
-d_burtas,d_burtas_adj_russian,,Burtasy
-d_burtas,sanhaja,,Burdas
-d_burtas,d_burtas_adj_sanhaja,,Burdas
-d_burtas,serbian,,Burtasy
-d_burtas,d_burtas_adj_serbian,,Burtasy
-d_burtas,sicilian_arabic,,Burdas
-d_burtas,d_burtas_adj_sicilian_arabic,,Burdas
-d_burtas,sogdian,,Burdas
-d_burtas,d_burtas_adj_sogdian,,Burdas
-d_burtas,tagelmust,,Burdas
-d_burtas,d_burtas_adj_tagelmust,,Burdas
-d_burtas,tajik,,Burdas
-d_burtas,d_burtas_adj_tajik,,Burdas
-d_burtas,tuareg,,Burdas
-d_burtas,d_burtas_adj_tuareg,,Burdas
-d_burtas,turkish,,Bortaslar
-d_burtas,d_burtas_adj_turkish,,Bortas
-d_burtas,turkmen,,Bortaslar
-d_burtas,d_burtas_adj_turkmen,,Bortas
-d_burtas,uyghur,,Bortaslar
-d_burtas,d_burtas_adj_uyghur,,Bortas
-d_burtas,zanata,,Burdas
-d_burtas,d_burtas_adj_zanata,,Burdas
-d_muromians,d_muromians,,Muromians
-d_muromians,d_muromians_adj,,Muromian
-d_lyydians,d_lyydians,,Lüüdiläižed
-d_lyydians,d_lyydians_adj,,Lüüdiläižed
-d_lyydians,bohemian,,Ljudiny
-d_lyydians,d_lyydians_adj_bohemian,,Ljudinyan
-d_lyydians,bosnian,,Ljudiny
-d_lyydians,d_lyydians_adj_bosnian,,Ljudinyan
-d_lyydians,bulgarian,,Ljudiny
-d_lyydians,d_lyydians_adj_bulgarian,,Ljudinyan
-d_lyydians,croatian,,Ljudiny
-d_lyydians,d_lyydians_adj_croatian,,Ljudinyan
-d_lyydians,karantanci,,Ljudiny
-d_lyydians,d_lyydians_adj_karantanci,,Ljudinyan
-d_lyydians,moravian,,Ljudiny
-d_lyydians,d_lyydians_adj_moravian,,Ljudinyan
-d_lyydians,polish,,Ljudiny
-d_lyydians,d_lyydians_adj_polish,,Ljudinyan
-d_lyydians,pommeranian,,Ljudiny
-d_lyydians,d_lyydians_adj_pommeranian,,Ljudinyan
-d_lyydians,russian,,Ljudiny
-d_lyydians,d_lyydians_adj_russian,,Ljudinyan
-d_lyydians,serbian,,Ljudiny
-d_lyydians,d_lyydians_adj_serbian,,Ljudinyan
-d_chudes,d_chudes,,Vepsläižed
-d_chudes,d_chudes_adj,,Vepsläižedian
-d_chudes,bohemian,,Chud'
-d_chudes,d_chudes_adj_bohemian,,Chud'ian
-d_chudes,bosnian,,Chud'
-d_chudes,d_chudes_adj_bosnian,,Chud'ian
-d_chudes,bulgarian,,Chud'
-d_chudes,d_chudes_adj_bulgarian,,Chud'ian
-d_chudes,croatian,,Chud'
-d_chudes,d_chudes_adj_croatian,,Chud'ian
-d_chudes,karantanci,,Chud'
-d_chudes,d_chudes_adj_karantanci,,Chud'ian
-d_chudes,lappish,,Etelätšuudilaš
-d_chudes,d_chudes_adj_lappish,,Etelätšuudilaš
-d_chudes,moravian,,Chud'
-d_chudes,d_chudes_adj_moravian,,Chud'ian
-d_chudes,polish,,Chud'
-d_chudes,d_chudes_adj_polish,,Chud'ian
-d_chudes,pommeranian,,Chud'
-d_chudes,d_chudes_adj_pommeranian,,Chud'ian
-d_chudes,russian,,Chud'
-d_chudes,d_chudes_adj_russian,,Chud'ian
-d_chudes,serbian,,Chud'
-d_chudes,d_chudes_adj_serbian,,Chud'ian
-d_toimians,d_toimians,,Toimiläižed
-d_toimians,d_toimians_adj,,Toimiläižed
-d_toimians,d_toimians_adj_bohemian,,Toimitsian
-d_toimians,d_toimians_adj_bosnian,,Toimitsian
-d_toimians,d_toimians_adj_bulgarian,,Toimitsian
-d_toimians,d_toimians_adj_croatian,,Toimitsian
-d_toimians,d_toimians_adj_karantanci,,Toimitsian
-d_toimians,d_toimians_adj_moravian,,Toimitsian
-d_toimians,d_toimians_adj_polish,,Toimitsian
-d_toimians,d_toimians_adj_pommeranian,,Toimitsian
-d_toimians,d_toimians_adj_russian,,Toimitsian
-d_toimians,d_toimians_adj_serbian,,Toimitsian
-d_bjarmians,d_bjarmians,,Bjarmiläižed
-d_bjarmians,d_bjarmians_adj,,Bjarmiläižed
-d_bjarmians,anglonorse,,Bjarmir
-d_bjarmians,d_bjarmians_adj_anglonorse,,Bjarmir
-d_bjarmians,bohemian,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_bohemian,,Zavoloch'e Chud'ian
-d_bjarmians,bosnian,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_bosnian,,Zavoloch'e Chud'ian
-d_bjarmians,bulgarian,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_bulgarian,,Zavoloch'e Chud'ian
-d_bjarmians,croatian,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_croatian,,Zavoloch'e Chud'ian
-d_bjarmians,danish,,Bjarmir
-d_bjarmians,d_bjarmians_adj_danish,,Bjarmir
-d_bjarmians,gothic,,Bjarmir
-d_bjarmians,d_bjarmians_adj_gothic,,Bjarmir
-d_bjarmians,icelandic,,Bjarmir
-d_bjarmians,d_bjarmians_adj_icelandic,,Bjarmir
-d_bjarmians,karantanci,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_karantanci,,Zavoloch'e Chud'ian
-d_bjarmians,lappish,,Norjantšuudilaš
-d_bjarmians,d_bjarmians_adj_lappish,,Norjantšuudilaš
-d_bjarmians,moravian,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_moravian,,Zavoloch'e Chud'ian
-d_bjarmians,norse,,Bjarmir
-d_bjarmians,d_bjarmians_adj_norse,,Bjarmir
-d_bjarmians,norsegaelic,,Bjarmir
-d_bjarmians,d_bjarmians_adj_norsegaelic,,Bjarmir
-d_bjarmians,norwegian,,Bjarmir
-d_bjarmians,d_bjarmians_adj_norwegian,,Bjarmir
-d_bjarmians,polish,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_polish,,Zavoloch'e Chud'ian
-d_bjarmians,pommeranian,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_pommeranian,,Zavoloch'e Chud'ian
-d_bjarmians,roman,,Biarmones
-d_bjarmians,d_bjarmians_adj_roman,,Biarmones
-d_bjarmians,russian,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_russian,,Zavoloch'e Chud'ian
-d_bjarmians,saxon,,Beormas
-d_bjarmians,d_bjarmians_adj_saxon,,Beorm
-d_bjarmians,serbian,,Zavoloch'e Chud'
-d_bjarmians,d_bjarmians_adj_serbian,,Zavoloch'e Chud'ian
-d_bjarmians,swedish,,Bjarmir
-d_bjarmians,d_bjarmians_adj_swedish,,Bjarmir
-d_livgians,d_livgians,,Livgilaižed
-d_livgians,d_livgians_adj,,Livgilaižedan
-d_karelians,d_karelians,,Karjalaižed
-d_karelians,d_karelians_adj,,Karjalaižed
-d_karelians,d_karelians_adj_bohemian,,Karely
-d_karelians,d_karelians_adj_bosnian,,Karely
-d_karelians,d_karelians_adj_bulgarian,,Karely
-d_karelians,d_karelians_adj_croatian,,Karely
-d_karelians,d_karelians_adj_karantanci,,Karely
-d_karelians,d_karelians_adj_moravian,,Karely
-d_karelians,d_karelians_adj_pommeranian,,Karely
-d_karelians,d_karelians_adj_russian,,Karely
-d_karelians,d_karelians_adj_serbian,,Karely
-d_horse_karelians,d_horse_karelians,,Tamma-Karjalaižed
-d_horse_karelians,d_horse_karelians_adj,,Tamma-Karjalaižed
-d_horse_karelians,d_horse_karelians_adj_bohemian,,Kobylitskie Karely
-d_horse_karelians,d_horse_karelians_adj_bosnian,,Kobylitskie Karely
-d_horse_karelians,d_horse_karelians_adj_bulgarian,,Kobylitskie Karely
-d_horse_karelians,d_horse_karelians_adj_croatian,,Kobylitskie Karely
-d_horse_karelians,d_horse_karelians_adj_karantanci,,Kobylitskie Karely
-d_horse_karelians,d_horse_karelians_adj_moravian,,Kobylitskie Karely
-d_horse_karelians,d_horse_karelians_adj_pommeranian,,Kobylitskie Karely
-d_horse_karelians,d_horse_karelians_adj_russian,,Kobylitskie Karely
-d_horse_karelians,d_horse_karelians_adj_serbian,,Kobylitskie Karely
-d_estonia,d_estonia,,Eestlased
-d_estonia,d_estonia_adj,,Eestonian
-d_ugandians,d_ugandians,,Ugandilased
-d_ugandians,d_ugandians_adj,,Ugandian
-d_oseelians,d_oseelians,,Saarlased
-d_oseelians,d_oseelians_adj,,
-d_rotalians,d_rotalians,,Läänelased
-d_rotalians,d_rotalians_adj,,Läänemaaian
-d_vironians,d_vironians,,Virulased
-d_vironians,d_vironians_adj,,Virulanian
-d_sakalians,d_sakalians,,Sakali
-d_sakalians,d_sakalians_adj,,Sakalu
-d_vanemas,d_vanemas,,Vanemi
-d_vanemas,d_vanemas_adj,,Vanemu
-d_sami,d_sami,,Sami
-d_sami,d_sami_adj,,Sami
-d_sami,bohemian,,Lop'
-d_sami,d_sami_adj_bohemian,,Lop'ian
-d_sami,bosnian,,Lop'
-d_sami,d_sami_adj_bosnian,,Lop'ian
-d_sami,bulgarian,,Lop'
-d_sami,d_sami_adj_bulgarian,,Lop'ian
-d_sami,croatian,,Lop'
-d_sami,d_sami_adj_croatian,,Lop'ian
-d_sami,karantanci,,Lop'
-d_sami,d_sami_adj_karantanci,,Lop'ian
-d_sami,moravian,,Lop'
-d_sami,d_sami_adj_moravian,,Lop'ian
-d_sami,polish,,Lop'
-d_sami,d_sami_adj_polish,,Lop'ian
-d_sami,pommeranian,,Lop'
-d_sami,d_sami_adj_pommeranian,,Lop'ian
-d_sami,russian,,Lop'
-d_sami,d_sami_adj_russian,,Lop'ian
-d_sami,serbian,,Lop'
-d_sami,d_sami_adj_serbian,,Lop'ian
-d_satakunta,d_satakunta,,Satakuntans
-d_satakunta,d_satakunta_adj,,Satakuntan
-d_tavasts,d_tavasts,,Hämäläiset
-d_tavasts,d_tavasts_adj,,Hämäläiset
-d_tavasts,bohemian,,Jem
-d_tavasts,d_tavasts_adj_bohemian,,Jemian
-d_tavasts,bosnian,,Jem
-d_tavasts,d_tavasts_adj_bosnian,,Jemian
-d_tavasts,bulgarian,,Jem
-d_tavasts,d_tavasts_adj_bulgarian,,Jemian
-d_tavasts,croatian,,Jem
-d_tavasts,d_tavasts_adj_croatian,,Jemian
-d_tavasts,karantanci,,Jem
-d_tavasts,d_tavasts_adj_karantanci,,Jemian
-d_tavasts,moravian,,Jem
-d_tavasts,d_tavasts_adj_moravian,,Jemian
-d_tavasts,polish,,Jem
-d_tavasts,pommeranian,,Jem
-d_tavasts,d_tavasts_adj_pommeranian,,Jemian
-d_tavasts,russian,,Jem
-d_tavasts,d_tavasts_adj_russian,,Jemian
-d_tavasts,serbian,,Jem
-d_tavasts,d_tavasts_adj_serbian,,Jemian
-d_suomi_finns,d_suomi_finns,,Suomalaiset
-d_suomi_finns,d_suomi_finns_adj,,Suomalaiset
-d_suomi_finns,bohemian,,Sum
-d_suomi_finns,d_suomi_finns_adj_bohemian,,Sumian
-d_suomi_finns,bosnian,,Sum
-d_suomi_finns,d_suomi_finns_adj_bosnian,,Sumian
-d_suomi_finns,bulgarian,,Sum
-d_suomi_finns,d_suomi_finns_adj_bulgarian,,Sumian
-d_suomi_finns,croatian,,Sum
-d_suomi_finns,d_suomi_finns_adj_croatian,,Sumian
-d_suomi_finns,karantanci,,Sum
-d_suomi_finns,d_suomi_finns_adj_karantanci,,Sumian
-d_suomi_finns,moravian,,Sum
-d_suomi_finns,d_suomi_finns_adj_moravian,,Sumian
-d_suomi_finns,polish,,Sum
-d_suomi_finns,pommeranian,,Sum
-d_suomi_finns,d_suomi_finns_adj_pommeranian,,Sumian
-d_suomi_finns,russian,,Sum
-d_suomi_finns,d_suomi_finns_adj_russian,,Sumian
-d_suomi_finns,serbian,,Sum
-d_suomi_finns,d_suomi_finns_adj_serbian,,Sumian
-d_savonians,d_savonians,,Savolaiset
-d_savonians,d_savonians_adj,,Savolaiset
-d_savonians,bohemian,,Savaki
-d_savonians,d_savonians_adj_bohemian,,Savakian
-d_savonians,bosnian,,Savaki
-d_savonians,d_savonians_adj_bosnian,,Savakian
-d_savonians,bulgarian,,Savaki
-d_savonians,d_savonians_adj_bulgarian,,Savakian
-d_savonians,croatian,,Savaki
-d_savonians,d_savonians_adj_croatian,,Savakian
-d_savonians,karantanci,,Savaki
-d_savonians,d_savonians_adj_karantanci,,Savakian
-d_savonians,moravian,,Savaki
-d_savonians,d_savonians_adj_moravian,,Savakian
-d_savonians,polish,,Savaki
-d_savonians,pommeranian,,Savaki
-d_savonians,d_savonians_adj_pommeranian,,Savakian
-d_savonians,russian,,Savaki
-d_savonians,d_savonians_adj_russian,,Savakian
-d_savonians,serbian,,Savaki
-d_savonians,d_savonians_adj_serbian,,Savakian
-d_votes,d_votes,,Vadjalased
-d_votes,d_votes_adj,,Vadjalasedan
-d_votes,bavarian,,Woten
-d_votes,d_votes_adj_bavarian,,Wotian
-d_votes,bohemian,,Vod'
-d_votes,d_votes_adj_bohemian,,Vod'ian
-d_votes,bosnian,,Vod'
-d_votes,d_votes_adj_bosnian,,Vod'ian
-d_votes,bulgarian,,Vod'
-d_votes,d_votes_adj_bulgarian,,Vod'ian
-d_votes,croatian,,Vod'
-d_votes,d_votes_adj_croatian,,Vod'ian
-d_votes,dutch,,Woten
-d_votes,d_votes_adj_dutch,,Wotian
-d_votes,franconian,,Woten
-d_votes,d_votes_adj_franconian,,Wotian
-d_votes,german,,Woten
-d_votes,d_votes_adj_german,,Wotian
-d_votes,karantanci,,Vod'
-d_votes,d_votes_adj_karantanci,,Vod'ian
-d_votes,lettigallish,,Krievini
-d_votes,lithuanian,,Krievini
-d_votes,low_frankish,,Woten
-d_votes,d_votes_adj_low_frankish,,Wotian
-d_votes,low_german,,Woten
-d_votes,d_votes_adj_low_german,,Wotian
-d_votes,low_saxon,,Woten
-d_votes,d_votes_adj_low_saxon,,Wotian
-d_votes,moravian,,Vod'
-d_votes,d_votes_adj_moravian,,Vod'ian
-d_votes,polish,,Vod'
-d_votes,pommeranian,,Vod'
-d_votes,d_votes_adj_pommeranian,,Vod'ian
-d_votes,prussian,,Krievini
-d_votes,russian,,Vod'
-d_votes,d_votes_adj_russian,,Vod'ian
-d_votes,serbian,,Vod'
-d_votes,d_votes_adj_serbian,,Vod'ian
-d_votes,swabian,,Woten
-d_votes,d_votes_adj_swabian,,Wotian
-d_votes,thuringian,,Woten
-d_votes,d_votes_adj_thuringian,,Wotian
-d_ingrians,d_ingrians,,Inkerilaižed
-d_ingrians,d_ingrians_adj,,Inkerilaižed
-d_ingrians,bohemian,,Ižory
-d_ingrians,d_ingrians_adj_bohemian,,Ižoryian
-d_ingrians,bosnian,,Ižory
-d_ingrians,d_ingrians_adj_bosnian,,Ižoryian
-d_ingrians,bulgarian,,Ižory
-d_ingrians,d_ingrians_adj_bulgarian,,Ižoryian
-d_ingrians,croatian,,Ižory
-d_ingrians,d_ingrians_adj_croatian,,Ižoryian
-d_ingrians,karantanci,,Ižory
-d_ingrians,d_ingrians_adj_karantanci,,Ižoryian
-d_ingrians,lettigallish,,Ižorai
-d_ingrians,lithuanian,,Ižorai
-d_ingrians,moravian,,Ižory
-d_ingrians,d_ingrians_adj_moravian,,Ižoryian
-d_ingrians,polish,,Ižory
-d_ingrians,pommeranian,,Ižory
-d_ingrians,d_ingrians_adj_pommeranian,,Ižoryian
-d_ingrians,prussian,,Ižorai
-d_ingrians,russian,,Ižory
-d_ingrians,d_ingrians_adj_russian,,Ižoryian
-d_ingrians,serbian,,Ižory
-d_ingrians,d_ingrians_adj_serbian,,Ižoryian
-d_kylfings,d_kylfings,,Kylfingilaš
-d_kylfings,d_kylfings_adj,,Kylfingilaš
-d_kylfings,alan,,Koulpingoi
-d_kylfings,anglonorse,,Kylfingar
-d_kylfings,d_kylfings_adj_anglonorse,,Kylfingarian
-d_kylfings,arberian,,Koulpingoi
-d_kylfings,d_kylfings_adj_arberian,,Koulpingoian
-d_kylfings,armenian,,Koulpingoi
-d_kylfings,d_kylfings_adj_armenian,,Koulpingoian
-d_kylfings,bohemian,,Kolbiagi
-d_kylfings,d_kylfings_adj_bohemian,,Kolbiagian
-d_kylfings,bosnian,,Kolbiagi
-d_kylfings,d_kylfings_adj_bosnian,,Kolbiagian
-d_kylfings,bulgarian,,Kolbiagi
-d_kylfings,d_kylfings_adj_bulgarian,,Kolbiagian
-d_kylfings,croatian,,Kolbiagi
-d_kylfings,d_kylfings_adj_croatian,,Kolbiagian
-d_kylfings,danish,,Kylfingar
-d_kylfings,d_kylfings_adj_danish,,Kylfingarian
-d_kylfings,east_gothic,,Koulpingoi
-d_kylfings,d_kylfings_adj_east_gothic,,Koulpingoian
-d_kylfings,georgian,,Koulpingoi
-d_kylfings,d_kylfings_adj_georgian,,Koulpingoian
-d_kylfings,gothic,,Kylfingar
-d_kylfings,d_kylfings_adj_gothic,,Kylfingarian
-d_kylfings,greek,,Koulpingoi
-d_kylfings,d_kylfings_adj_greek,,Koulpingoian
-d_kylfings,icelandic,,Kylfingar
-d_kylfings,d_kylfings_adj_icelandic,,Kylfingarian
-d_kylfings,karantanci,,Kolbiagi
-d_kylfings,d_kylfings_adj_karantanci,,Kolbiagian
-d_kylfings,moravian,,Kolbiagi
-d_kylfings,d_kylfings_adj_moravian,,Kolbiagian
-d_kylfings,norse,,Kylfingar
-d_kylfings,d_kylfings_adj_norse,,Kylfingarian
-d_kylfings,norsegaelic,,Kylfingar
-d_kylfings,d_kylfings_adj_norsegaelic,,Kylfingarian
-d_kylfings,norwegian,,Kylfingar
-d_kylfings,d_kylfings_adj_norwegian,,Kylfingarian
-d_kylfings,polish,,Kolbiagi
-d_kylfings,pommeranian,,Kolbiagi
-d_kylfings,d_kylfings_adj_pommeranian,,Kolbiagian
-d_kylfings,russian,,Kolbiagi
-d_kylfings,d_kylfings_adj_russian,,Kolbiagian
-d_kylfings,serbian,,Kolbiagi
-d_kylfings,d_kylfings_adj_serbian,,Kolbiagian
-d_kylfings,sicilian_greek,,Koulpingoi
-d_kylfings,d_kylfings_adj_sicilian_greek,,Koulpingoian
-d_kylfings,swedish,,Kylfingar
-d_kylfings,d_kylfings_adj_swedish,,Kylfingarian
-d_kvens,d_kvens,,Kveanatlaš
-d_kvens,d_kvens_adj,,Kveanatlaš
-d_kvens,d_kvens_adj_anglonorse,,Kvænir
-d_kvens,d_kvens_adj_danish,,Kvænir
-d_kvens,d_kvens_adj_gothic,,Kvænir
-d_kvens,d_kvens_adj_icelandic,,Kvænir
-d_kvens,d_kvens_adj_norse,,Kvænir
-d_kvens,d_kvens_adj_norsegaelic,,Kvænir
-d_kvens,d_kvens_adj_norwegian,,Kvænir
-d_kvens,d_kvens_adj_saxon,,Cwenas
-d_kvens,d_kvens_adj_swedish,,Kvænir
-d_kvens_birkarls,d_kvens_birkarls,,Bircharlaboa
-d_kvens_birkarls,d_kvens_birkarls_adj,,Bircharlaboa
-d_samoyeds,d_samoyeds,,Sikhirti
-d_samoyeds,d_samoyeds_adj,,Sikhirtian
-d_baloch,d_baloch,,Baloch
-d_baloch,d_baloch_adj,,Balochian
-k_hilal,k_hilal,,Hilal
-k_hilal,k_hilal_adj,,Hilalian
-k_saxonengland,k_saxonengland,,Englaland
-k_saxonengland,k_saxonengland_adj,,Ænglisc
-d_swabia,d_swabia,,Schwaben
-d_swabia,d_swabia_adj,,Schwäbische
-d_lower_lorraine,d_lower_lorraine,,Niederlothringen
-d_lower_lorraine,d_lower_lorraine_adj,,Niederlothringische
-d_bavaria,d_bavaria,,Baiern
-d_bavaria,d_bavaria_adj,,Bairische
-d_saxony,d_saxony,,Sachsen
-d_saxony,d_saxony_adj,,Sächsische
-d_franconia,d_franconia,,Franken
-d_franconia,d_franconia_adj,,Fränkische
-d_knights_templar,d_knights_templar,,Knights Templar
-d_knights_templar,d_knights_templar_adj,,Templar
-d_knights_templar,foa,,GRANDMASTER_FOA
-d_knights_templar,title,,GRANDMASTER
-d_teutonic_order,d_teutonic_order,,Teutonic Order
-d_teutonic_order,d_teutonic_order_adj,,Teutonic
-d_teutonic_order,foa,,HOCHMEISTER_FOA
-d_teutonic_order,title,,HOCHMEISTER
-d_livonian_brothers_of_the_sword,d_livonian_brothers_of_the_sword,,Schwertbrüderorden
-d_livonian_brothers_of_the_sword,d_livonian_brothers_of_the_sword_adj,,Schwertbrüderische
-d_livonian_brothers_of_the_sword,foa,,HOCHMEISTER_FOA
-d_livonian_brothers_of_the_sword,title,,HOCHMEISTER
-d_knights_hospitaler,d_knights_hospitaler,,Knights Hospitaller
-d_knights_hospitaler,d_knights_hospitaler_adj,,Hospitaller
-d_knights_hospitaler,foa,,GRANDMASTER_FOA
-d_knights_hospitaler,title,,GRANDMASTER
-d_hashshashin,d_hashshashin,,Hashshashin
-d_hashshashin,d_hashshashin_adj,,Hashshashin
-d_hashshashin,foa,,GRANDHEADMASTER_FOA
-d_hashshashin,title,,GRANDHEADMASTER
-d_bektashi,d_bektashi,,Bektashi Order
-d_bektashi,d_bektashi_adj,,Bektashi
-d_bektashi,foa,,GRANDHEADMASTER_FOA
-d_bektashi,title,,DEDEBABA
-d_haruriyyah,d_haruriyyah,,Haruriyyah
-d_haruriyyah,d_haruriyyah_adj,,Haruriyyah
-d_haruriyyah,foa,,GRANDHEADMASTER_FOA
-d_haruriyyah,title,,DEDEBABA
-d_jomsvikings,d_jomsvikings,,Jomsvikings
-d_jomsvikings,d_jomsvikings_adj,,Jomsviking
-d_jomsvikings,foa,,WARCHIEF_FOA
-d_jomsvikings,title,,WARCHIEF
-d_immortals,d_immortals,,Immortals
-d_immortals,d_immortals_adj,,Immortal
-d_immortals,foa,,GRANDMASTER_FOA
-d_immortals,title,,GRANDMASTER
-d_zealots,d_zealots,,Zealots
-d_zealots,d_zealots_adj,,Zealot
-d_zealots,foa,,GRANDMASTER_FOA
-d_zealots,title,,GRANDMASTER
-d_holy_sepulchre,d_holy_sepulchre,,Brotherhood of the Holy Sepulchre
-d_holy_sepulchre,d_holy_sepulchre_adj,,Brotherhood
-d_holy_sepulchre,foa,,GRANDMASTER_FOA
-d_holy_sepulchre,title,,GRANDMASTER
-d_saint_anthony,d_saint_anthony,,Order of Saint Anthony
-d_saint_anthony,d_saint_anthony_adj,,Saint Anthony
-d_saint_anthony,foa,,GRANDMASTER_FOA
-d_saint_anthony,title,,GRANDMASTER
-d_saint_addai,d_saint_addai,,Order of Saint Addai
-d_saint_addai,d_saint_addai_adj,,Addaian
-d_saint_addai,foa,,GRANDMASTER_FOA
-d_saint_addai,title,,GRANDMASTER
-d_sky_lords,d_sky_lords,,Lords of the Sky
-d_sky_lords,d_sky_lords_adj,,Sky Lord
-d_sky_lords,foa,,WARCHIEF_FOA
-d_sky_lords,title,,WARCHIEF
-d_spirit_guardians,d_spirit_guardians,,Spirit Guardians
-d_spirit_guardians,d_spirit_guardians_adj,,Guardian
-d_spirit_guardians,foa,,WARCHIEF_FOA
-d_spirit_guardians,title,,WARCHIEF
-d_warriors_perun,d_warriors_perun,,Warriors of Perun
-d_warriors_perun,d_warriors_perun_adj,,Perun
-d_warriors_perun,foa,,WARCHIEF_FOA
-d_warriors_perun,title,,WARCHIEF
-d_chosen_perkunas,d_chosen_perkunas,,Chosen of Perkunas
-d_chosen_perkunas,d_chosen_perkunas_adj,,Perkunas
-d_chosen_perkunas,foa,,WARCHIEF_FOA
-d_chosen_perkunas,title,,WARCHIEF
-d_sons_kaleva,d_sons_kaleva,,Sons of Kaleva
-d_sons_kaleva,d_sons_kaleva_adj,,Kaleva
-d_sons_kaleva,foa,,WARCHIEF_FOA
-d_sons_kaleva,title,,WARCHIEF
-d_huitzilopochtli,d_huitzilopochtli,,Cult of Huitzilopochtli
-d_huitzilopochtli,d_huitzilopochtli_adj,,Huitzilopochtli
-d_huitzilopochtli,foa,,GRANDMASTER_FOA
-d_huitzilopochtli,title,,HIGHPRIEST
-d_knights_santiago,d_knights_santiago,,Knights of Santiago
-d_knights_santiago,d_knights_santiago_adj,,Santiago
-d_knights_santiago,foa,,GRANDMASTER_FOA
-d_knights_santiago,title,,GRANDMASTER
-d_knights_calatrava,d_knights_calatrava,,Knights of Calatrava
-d_knights_calatrava,d_knights_calatrava_adj,,Calatrava
-d_knights_calatrava,foa,,GRANDMASTER_FOA
-d_knights_calatrava,title,,GRANDMASTER
-d_followers_arjuna,d_followers_arjuna,,Followers of Arjuna
-d_followers_arjuna,d_followers_arjuna_adj,,Arjuna
-d_followers_arjuna,foa,,GRANDMASTER_FOA
-d_followers_arjuna,title,,GRANDMASTER
-d_ashokas_chosen,d_ashokas_chosen,,Chosen of Ashoka
-d_ashokas_chosen,d_ashokas_chosen_adj,,Ashoka
-d_ashokas_chosen,foa,,GRANDMASTER_FOA
-d_ashokas_chosen,title,,GRANDMASTER
-d_bulls_rishabha,d_bulls_rishabha,,Bulls of Rishabha
-d_bulls_rishabha,d_bulls_rishabha_adj,,Rishabha
-d_bulls_rishabha,foa,,GRANDMASTER_FOA
-d_bulls_rishabha,title,,GRANDMASTER
-d_zun_warriors,d_zun_warriors,,Knights of the Sun
-d_zun_warriors,d_zun_warriors_adj,,Zun
-d_zun_warriors,foa,,GRANDMASTER_FOA
-d_zun_warriors,title,,GRANDMASTER
-d_sunni_turkic_company,d_sunni_turkic_company,,Turkmen Company
-d_sunni_turkic_company,d_sunni_turkic_company_adj,,Turkmen
-d_sunni_turkic_company,foa,,CAPTAIN_FOA
-d_sunni_turkic_company,title,,CAPTAIN
-d_sunni_cuman_company,d_sunni_cuman_company,,Khazar Company
-d_sunni_cuman_company,d_sunni_cuman_company_adj,,Khazar
-d_sunni_cuman_company,foa,,CAPTAIN_FOA
-d_sunni_cuman_company,title,,CAPTAIN
-d_sunni_berber_company,d_sunni_berber_company,,Berber Company
-d_sunni_berber_company,d_sunni_berber_company_adj,,Berber
-d_sunni_berber_company,foa,,CAPTAIN_FOA
-d_sunni_berber_company,title,,CAPTAIN
-d_sunni_bedouin_company,d_sunni_bedouin_company,,Arab Company
-d_sunni_bedouin_company,d_sunni_bedouin_company_adj,,Arab
-d_sunni_bedouin_company,foa,,CAPTAIN_FOA
-d_sunni_bedouin_company,title,,CAPTAIN
-d_shiite_turkic_company,d_shiite_turkic_company,,Turkoman Company
-d_shiite_turkic_company,d_shiite_turkic_company_adj,,Turkoman
-d_shiite_turkic_company,foa,,CAPTAIN_FOA
-d_shiite_turkic_company,title,,CAPTAIN
-d_shiite_cuman_company,d_shiite_cuman_company,,Steppe Company
-d_shiite_cuman_company,d_shiite_cuman_company_adj,,Steppe
-d_shiite_cuman_company,foa,,CAPTAIN_FOA
-d_shiite_cuman_company,title,,CAPTAIN
-d_shiite_berber_company,d_shiite_berber_company,,Tuareg Company
-d_shiite_berber_company,d_shiite_berber_company_adj,,Berber
-d_shiite_berber_company,foa,,CAPTAIN_FOA
-d_shiite_berber_company,title,,CAPTAIN
-d_shiite_bedouin_company,d_shiite_bedouin_company,,Bedouin Company
-d_shiite_bedouin_company,d_shiite_bedouin_company_adj,,Bedouin
-d_shiite_bedouin_company,foa,,CAPTAIN_FOA
-d_shiite_bedouin_company,title,,CAPTAIN
-d_white_company,d_white_company,,White Company
-d_white_company,d_white_company_adj,,Mercenary
-d_white_company,foa,,CAPTAIN_FOA
-d_white_company,title,,CAPTAIN
-d_great_company,d_great_company,,Great Company
-d_great_company,d_great_company_adj,,Mercenary
-d_great_company,foa,,CAPTAIN_FOA
-d_great_company,title,,CAPTAIN
-d_company_of_st_george,d_company_of_st_george,,Company of St. George
-d_company_of_st_george,d_company_of_st_george_adj,,St. Georgian
-d_company_of_st_george,foa,,CONDOTTIERO_FOA
-d_company_of_st_george,title,,CONDOTTIERO
-d_star_company,d_star_company,,Company of the Star
-d_star_company,d_star_company_adj,,Star
-d_star_company,foa,,CONDOTTIERO_FOA
-d_star_company,title,,CONDOTTIERO
-d_little_hat_company,d_little_hat_company,,Company of the Hat
-d_little_hat_company,d_little_hat_company_adj,,Hat
-d_little_hat_company,foa,,CONDOTTIERO_FOA
-d_little_hat_company,title,,CONDOTTIERO
-d_rose_company,d_rose_company,,Company of the Rose
-d_rose_company,d_rose_company_adj,,Rose
-d_rose_company,foa,,CONDOTTIERO_FOA
-d_rose_company,title,,CONDOTTIERO
-d_catalan_company,d_catalan_company,,Catalan Company
-d_catalan_company,d_catalan_company_adj,,Catalan
-d_catalan_company,foa,,CONDOTTIERO_FOA
-d_catalan_company,title,,CONDOTTIERO
-d_navarrese_company,d_navarrese_company,,Navarrese Company
-d_navarrese_company,d_navarrese_company_adj,,Navarrese
-d_navarrese_company,foa,,CONDOTTIERO_FOA
-d_navarrese_company,title,,CONDOTTIERO
-d_swiss_company,d_swiss_company,,Swiss Company
-d_swiss_company,d_swiss_company_adj,,Swiss
-d_swiss_company,foa,,CAPTAIN_FOA
-d_swiss_company,title,,CAPTAIN
-d_breton_company,d_breton_company,,Breton Company
-d_breton_company,d_breton_company_adj,,Breton
-d_breton_company,foa,,CAPTAIN_FOA
-d_breton_company,title,,CAPTAIN
-d_victual_brothers,d_victual_brothers,,Victual Brothers
-d_victual_brothers,d_victual_brothers_adj,,Victual
-d_victual_brothers,foa,,CAPTAIN_FOA
-d_victual_brothers,title,,CAPTAIN
-d_varangian_guard,d_varangian_guard,,Varangian Guard
-d_varangian_guard,d_varangian_guard_adj,,Varangian
-d_varangian_guard,foa,,CAPTAIN_FOA
-d_varangian_guard,title,,CAPTAIN
-d_cuman_company,d_cuman_company,,Cuman Company
-d_cuman_company,d_cuman_company_adj,,Cuman
-d_cuman_company,foa,,CAPTAIN_FOA
-d_cuman_company,title,,CAPTAIN
-d_rus_company,d_rus_company,,Rus Company
-d_rus_company,d_rus_company_adj,,Rus
-d_rus_company,foa,,CAPTAIN_FOA
-d_rus_company,title,,CAPTAIN
-d_pecheneg_company,d_pecheneg_company,,Pecheneg Company
-d_pecheneg_company,d_pecheneg_company_adj,,Pecheneg
-d_pecheneg_company,foa,,CAPTAIN_FOA
-d_pecheneg_company,title,,CAPTAIN
-d_bulgarian_company,d_bulgarian_company,,Bulgarian Company
-d_bulgarian_company,d_bulgarian_company_adj,,Bulgarian
-d_bulgarian_company,foa,,CAPTAIN_FOA
-d_bulgarian_company,title,,CAPTAIN
-d_turkic_company,d_turkic_company,,Turkic Company
-d_turkic_company,d_turkic_company_adj,,Turkic
-d_turkic_company,foa,,CAPTAIN_FOA
-d_turkic_company,title,,CAPTAIN
-d_lombard_band,d_lombard_band,,Lombard Band
-d_lombard_band,d_lombard_band_adj,,Lombard
-d_lombard_band,foa,,CONDOTTIERO_FOA
-d_lombard_band,title,,CONDOTTIERO
-d_swiss_band,d_swiss_band,,Swiss Band
-d_swiss_band,d_swiss_band_adj,,Swiss
-d_swiss_band,foa,,CAPTAIN_FOA
-d_swiss_band,title,,CAPTAIN
-d_breton_band,d_breton_band,,Breton Band
-d_breton_band,d_breton_band_adj,,Breton
-d_breton_band,foa,,CAPTAIN_FOA
-d_breton_band,title,,CAPTAIN
-d_catalan_band,d_catalan_band,,Catalan Band
-d_catalan_band,d_catalan_band_adj,,Catalan
-d_catalan_band,foa,,CONDOTTIERO_FOA
-d_catalan_band,title,,CONDOTTIERO
-d_saxon_band,d_saxon_band,,Saxon Band
-d_saxon_band,d_saxon_band_adj,,Saxon
-d_saxon_band,foa,,CAPTAIN_FOA
-d_saxon_band,title,,CAPTAIN
-d_cuman_band,d_cuman_band,,Cuman Band
-d_cuman_band,d_cuman_band_adj,,Cuman
-d_cuman_band,foa,,CAPTAIN_FOA
-d_cuman_band,title,,CAPTAIN
-d_rus_band,d_rus_band,,Rus Band
-d_rus_band,d_rus_band_adj,,Rus
-d_rus_band,foa,,CAPTAIN_FOA
-d_rus_band,title,,CAPTAIN
-d_finnish_band,d_finnish_band,,Finnish Band
-d_finnish_band,d_finnish_band_adj,,Finnish
-d_finnish_band,foa,,CAPTAIN_FOA
-d_finnish_band,title,,CAPTAIN
-d_lappish_band,d_lappish_band,,Sami Band
-d_lappish_band,d_lappish_band_adj,,Sami
-d_lappish_band,foa,,CAPTAIN_FOA
-d_lappish_band,title,,CAPTAIN
-d_lithuanian_band,d_lithuanian_band,,Lithuanian Band
-d_lithuanian_band,d_lithuanian_band_adj,,Lithuanian
-d_lithuanian_band,foa,,CAPTAIN_FOA
-d_lithuanian_band,title,,CAPTAIN
-d_abyssinian_band,d_abyssinian_band,,Abyssinian Band
-d_abyssinian_band,d_abyssinian_band_adj,,Abyssinian
-d_abyssinian_band,foa,,CAPTAIN_FOA
-d_abyssinian_band,title,,CAPTAIN
-d_nubian_band,d_nubian_band,,Nubian Band
-d_nubian_band,d_nubian_band_adj,,Nubian
-d_nubian_band,foa,,CAPTAIN_FOA
-d_nubian_band,title,,CAPTAIN
-d_scottish_band,d_scottish_band,,Scottish Band
-d_scottish_band,d_scottish_band_adj,,Scottish
-d_scottish_band,foa,,CAPTAIN_FOA
-d_scottish_band,title,,CAPTAIN
-d_irish_band,d_irish_band,,Irish Band
-d_irish_band,d_irish_band_adj,,Irish
-d_irish_band,foa,,CAPTAIN_FOA
-d_irish_band,title,,CAPTAIN
-d_alan_band,d_alan_band,,Alan Riders
-d_alan_band,d_alan_band_adj,,Alan
-d_alan_band,foa,,CAPTAIN_FOA
-d_alan_band,title,,CAPTAIN
-d_pecheneg_band,d_pecheneg_band,,Pecheneg Band
-d_pecheneg_band,d_pecheneg_band_adj,,Pecheneg
-d_pecheneg_band,foa,,CAPTAIN_FOA
-d_pecheneg_band,title,,CAPTAIN
-d_bulgarian_band,d_bulgarian_band,,Bulgarian Band
-d_bulgarian_band,d_bulgarian_band_adj,,Bulgarian
-d_bulgarian_band,foa,,CAPTAIN_FOA
-d_bulgarian_band,title,,CAPTAIN
-d_turkic_band,d_turkic_band,,Turkic Band
-d_turkic_band,d_turkic_band_adj,,Turkic
-d_turkic_band,foa,,CAPTAIN_FOA
-d_turkic_band,title,,CAPTAIN
-d_mamluks,d_mamluks,,Mamluks
-d_mamluks,d_mamluks_adj,,Mamluk
-d_mamluks,foa,,CAPTAIN_FOA
-d_mamluks,title,,CAPTAIN
-d_venetian_navy,d_venetian_navy,,Adriatic Galleys
-d_venetian_navy,d_venetian_navy_adj,,Adriatic
-d_venetian_navy,foa,,CAPTAIN_FOA
-d_venetian_navy,short_name,,yes
-d_venetian_navy,title,,CAPTAIN
-d_genoese_navy,d_genoese_navy,,Ligurian Galleys
-d_genoese_navy,d_genoese_navy_adj,,Ligurian
-d_genoese_navy,foa,,CAPTAIN_FOA
-d_genoese_navy,short_name,,yes
-d_genoese_navy,title,,CAPTAIN
-d_hanseatic_navy,d_hanseatic_navy,,Baltic Cogs
-d_hanseatic_navy,d_hanseatic_navy_adj,,Baltic
-d_hanseatic_navy,foa,,CAPTAIN_FOA
-d_hanseatic_navy,short_name,,yes
-d_hanseatic_navy,title,,CAPTAIN
-d_frisian_navy,d_frisian_navy,,North Sea Cogs
-d_frisian_navy,d_frisian_navy_adj,,North Sea
-d_frisian_navy,foa,,CAPTAIN_FOA
-d_frisian_navy,short_name,,yes
-d_frisian_navy,title,,CAPTAIN
-d_maghreb_corsairs,d_maghreb_corsairs,,Maghreb Navy
-d_maghreb_corsairs,d_maghreb_corsairs_adj,,Maghreb
-d_maghreb_corsairs,foa,,CAPTAIN_FOA
-d_maghreb_corsairs,short_name,,yes
-d_maghreb_corsairs,title,,CAPTAIN
-d_ghilman,d_ghilman,,Ghilman
-d_ghilman,d_ghilman_adj,,Ghilman
-d_ghilman,foa,,CAPTAIN_FOA
-d_ghilman,title,,CAPTAIN
-d_ghanan_band,d_ghanan_band,,Ghanan Band
-d_ghanan_band,d_ghanan_band_adj,,Ghanan
-d_ghanan_band,foa,,CAPTAIN_FOA
-d_ghanan_band,title,,CAPTAIN
-e_roman_empire,e_roman_empire,,Roman Empire
-e_roman_empire,e_roman_empire_adj,,Roman
-e_roman_empire,anglonorse,,Rómverska keisaradæmið
-e_roman_empire,arberian,,Perandoria Romake
-e_roman_empire,armenian,,Hrromeakan Kaysrut'yun
-e_roman_empire,bohemian,,Rzímská Rzíše
-e_roman_empire,bosnian,,Rimsku Imperiju
-e_roman_empire,bulgarian,,Rimska Imperiya
-e_roman_empire,croatian,,Rimsko Carstvo
-e_roman_empire,danish,,Rómverska keisaradæmið
-e_roman_empire,georgian,,Romis Imperia
-e_roman_empire,hungarian,,Római Birodalom
-e_roman_empire,icelandic,,Rómverska keisaradæmið
-e_roman_empire,karantanci,,Rimsko Cesárstvo
-e_roman_empire,norse,,Rómverska keisaradæmið
-e_roman_empire,norsegaelic,,Rómverska keisaradæmið
-e_roman_empire,norwegian,,Rómverska keisaradæmið
-e_roman_empire,polish,,Cesarstwo Rzymski
-e_roman_empire,roman,,Imperium Romanum
-e_roman_empire,romanian,,Imperiul Roman
-e_roman_empire,russian,,Rimskaya Imperiya
-e_roman_empire,serbian,,Rimsko Carstvo
-e_roman_empire,swedish,,Rómverska keisaradæmið
-e_roman_empire,short_name,,yes
-d_the_isles,d_the_isles,,Man
-d_the_isles,d_the_isles_adj,,Manx
-d_abbasid,d_abbasid,,Abbasid
-d_abbasid,d_abbasid_adj,,Abbasid
-d_danes,d_danes,,Danmark
-d_danes,d_danes_adj,,Danish
-d_geats,d_geats,,Gauthiod
-d_geats,d_geats_adj,,Geatish
-d_sandomiersk,d_sandomiersk,,Sandomiersk
-d_sandomiersk,d_sandomiersk_adj,,Sandomierskan
-d_sweden,d_sweden,,Svithjod
-d_sweden,d_sweden_adj,,Swedish
-d_swiss,d_swiss,,Switzerland
-d_swiss,d_swiss_adj,,Swiss
-d_temes,d_temes,,Temes
-d_temes,d_temes_adj,,Temesite
-d_wielkopolska,d_wielkopolska,,Wielkopolska
-d_wielkopolska,d_wielkopolska_adj,,Wielkopolskan
-d_hilal,d_hilal,,Banu Hilál
-d_hilal,d_hilal_adj,,Hilálí
-d_massufa,d_massufa,,Massúfa
-d_massufa,d_massufa_adj,,Massúfí
-d_massufa,foa,,RAIS_FOA
-d_massufa,title,,RAIS
-d_lamtuna,d_lamtuna,,Lamtúna
-d_lamtuna,d_lamtuna_adj,,Lamtúní
-d_lamtuna,foa,,RAIS_FOA
-d_lamtuna,title,,RAIS
-d_lamta,d_lamta,,Lamta
-d_lamta,d_lamta_adj,,Lamtí
-d_lamta,foa,,RAIS_FOA
-d_lamta,title,,RAIS
-d_guddala,d_guddala,,Guddála
-d_guddala,d_guddala_adj,,Guddálí
-d_guddala,foa,,RAIS_FOA
-d_guddala,title,,RAIS
-d_gazzula,d_gazzula,,Gazzúla
-d_gazzula,d_gazzula_adj,,Gazzúlí
-d_gazzula,foa,,RAIS_FOA
-d_gazzula,title,,RAIS
-d_targa,d_targa,,Targa
-d_targa,d_targa_adj,,Targí
-d_targa,foa,,RAIS_FOA
-d_targa,title,,RAIS
-d_lawata,d_lawata,,Lawata
-d_lawata,d_lawata_adj,,Lawatí
-d_lawata,foa,,RAIS_FOA
-d_lawata,title,,RAIS
-d_soninke,d_soninke,,Soninke
-d_soninke,d_soninke_adj,,Soninke
-d_zaghawa,d_zaghawa,,Zagháwa
-d_zaghawa,d_zaghawa_adj,,Zagháwí
-d_zaghawa,foa,,RAIS_FOA
-d_zaghawa,title,,RAIS
-d_duguwa,d_duguwa,,Duguwa
-d_duguwa,d_duguwa_adj,,Duguwí
-d_musab,d_musab,,Mus'ab
-d_musab,d_musab_adj,,Mus'abí
-d_musab,foa,,RAIS_FOA
-d_musab,title,,RAIS
-d_tanmak,d_tanmak,,Tanmak
-d_tanmak,d_tanmak_adj,,Tanmaki
-d_tanmak,foa,,RAIS_FOA
-d_tanmak,title,,RAIS
-d_azger,d_azger,,Azger
-d_azger,d_azger_adj,,Azgerí
-d_azger,foa,,RAIS_FOA
-d_azger,title,,RAIS
-d_mazata,d_mazata,,Mazáta
-d_mazata,d_mazata_adj,,Mazátí
-d_mazata,foa,,RAIS_FOA
-d_mazata,title,,RAIS
-d_azben,d_azben,,Azben
-d_azben,d_azben_adj,,Azben
-d_azben,foa,,RAIS_FOA
-d_azben,title,,RAIS
-d_takarkart,d_takarkart,,Takarkart
-d_takarkart,d_takarkart_adj,,Takarkartí
-d_takarkart,foa,,RAIS_FOA
-d_takarkart,title,,RAIS
-d_naqis,d_naqis,,Naqís
-d_naqis,d_naqis_adj,,Naqísí
-d_naqis,foa,,RAIS_FOA
-d_naqis,title,,RAIS
-d_baqlin,d_baqlin,,Baqlín
-d_baqlin,d_baqlin_adj,,Baqlíní
-d_baqlin,foa,,RAIS_FOA
-d_baqlin,title,,RAIS
-d_djarin,d_djarin,,Djarín
-d_djarin,d_djarin_adj,,Djaríní
-d_djarin,foa,,RAIS_FOA
-d_djarin,title,,RAIS
-d_qataa,d_qataa,,Qata'a
-d_qataa,d_qataa_adj,,Qata'í
-d_qataa,foa,,RAIS_FOA
-d_qataa,title,,RAIS
-d_bazin,d_bazin,,Bazín
-d_bazin,d_bazin_adj,,Bazíní
-d_bazin,foa,,RAIS_FOA
-d_bazin,title,,RAIS
-d_danakil,d_danakil,,Danakil
-d_danakil,d_danakil_adj,,Danakilí
-d_danakil,foa,,RAIS_FOA
-d_danakil,title,,RAIS
-d_silesians,d_silesians,,Slezanie
-d_silesians,d_silesians_adj,,Silesian
-d_polans,d_polans,,Polanie
-d_polans,d_polans_adj,,Polan
-d_vistulans,d_vistulans,,Wislanie
-d_vistulans,d_vistulans_adj,,Vistulan
-d_mazovians,d_mazovians,,Mazowszanie
-d_mazovians,d_mazovians_adj,,Mazovian
-k_moravia,k_moravia,,Velká Morava
-k_moravia,k_moravia_adj,,Velkomoravský
-k_almohad,k_almohad,,Almohad
-k_almohad,k_almohad_adj,,Almohad
-k_al-murabitids,k_al-murabitids,,Al-Murabitids
-k_al-murabitids,k_al-murabitids_adj,,Al-Murabitid
-d_aydin,d_aydin,,Aydin
-d_aydin,d_aydin_adj,,Aydini
-d_aydin,greek,,Tralleis
-k_beni_helal,k_beni_helal,,Beni Helal
-k_beni_helal,k_beni_helal_adj,,Beni Helali
-d_candar,d_candar,,Candar
-d_candar,d_candar_adj,,Candari
-d_candar,greek,,Paphlagonia
-d_eretnid,d_eretnid,,Eretna
-d_eretnid,d_eretnid_adj,,Eretni
-k_fatimids,k_fatimids,,Fatimids
-k_fatimids,k_fatimids_adj,,Fatimid
-d_germiyan,d_germiyan,,Germiyan
-d_germiyan,d_germiyan_adj,,Germiyani
-d_germiyan,greek,,Phrygia
-d_germiyan,oghuz,,Eskisehir
-d_germiyan,turkmen,,Eskisehir
-k_hammadid,k_hammadid,,Hammadid
-k_hammadid,k_hammadid_adj,,Hamdanid
-k_kafsid,k_kafsid,,Kafsid
-k_kafsid,k_kafsid_adj,,Kafsid
-d_karaman,d_karaman,,Qaraman
-d_karaman,d_karaman_adj,,Qaramani
-d_karaman,greek,,Lykaonia
-k_magyar,k_magyar,,Hét Magyar
-k_magyar,k_magyar_adj,,Magyar
-k_marinid,k_marinid,,Marinid
-k_marinid,k_marinid_adj,,
-d_mentese,d_mentese,,Mentese
-d_mentese,d_mentese_adj,,Mentesian
-d_mentese,greek,,Mylasa
-d_karasi,d_karasi,,Qarasi
-d_karasi,d_karasi_adj,,Qarasian
-d_karasi,greek,,Mysia
-k_naples,k_naples,,Naples
-k_naples,k_naples_adj,,Neapolitan
-d_osmanli,d_osmanli,,Osmanli
-d_osmanli,d_osmanli_adj,,Osmanlian
-k_ottoman,k_ottoman,,Ottoman Turks
-k_ottoman,k_ottoman_adj,,Ottoman
-k_rum,k_rum,,Rûm
-k_rum,k_rum_adj,,Rûmian
-k_rum,dynasty_title_names,,no
-d_saruhan,d_saruhan,,Saruhan
-d_saruhan,d_saruhan_adj,,Saruhani
-d_saruhan,greek,,Ionia
-e_seljuk_turks,e_seljuk_turks,,Seljuk Empire
-e_seljuk_turks,e_seljuk_turks_adj,,
-e_seljuk_turks,short_name,,yes
-d_ahi,d_ahi,,Ahiler
-d_ahi,d_ahi_adj,,Ahilerian
-d_ahi,greek,,Ankyra
-d_ahi,oghuz,,Engürü
-d_ahi,turkmen,,Engürü
-d_hamid,d_hamid,,Hamid
-d_hamid,d_hamid_adj,,Hamidian
-d_hamid,greek,,Pisidia
-d_tekke,d_tekke,,Teke
-d_tekke,d_tekke_adj,,Tekian
-d_tekke,greek,,Kibyrrhaioton
-k_trinacria,k_trinacria,,Trinacria
-k_trinacria,k_trinacria_adj,,Trinacrian
-k_zenata,k_zenata,,Zenata
-k_zenata,k_zenata_adj,,Zenatan
-k_zirid,k_zirid,,Zirid
-k_zirid,k_zirid_adj,,Zirid
-k_ziyanids,k_ziyanids,,Ziyanids
-k_ziyanids,k_ziyanids_adj,,Ziyanid
-k_makuria,k_makuria,,Makuria
-k_makuria,k_makuria_adj,,Makurian
-k_makuria,andalusian_arabic,,Muqurra
-k_makuria,bedouin_arabic,,Muqurra
-k_makuria,egyptian_arabic,,Muqurra
-k_makuria,levantine_arabic,,Muqurra
-k_makuria,maghreb_arabic,,Muqurra
-k_makuria,nubian,,Makouria
-k_makuria,sicilian_arabic,,Muqurra
-k_alodia,k_alodia,,Alodia
-k_alodia,k_alodia_adj,,Alodian
-k_tiaret,k_tiaret,,Tiáret
-k_tiaret,k_tiaret_adj,,Tiáretí
-k_tiaret,foa,,IMAM_FOA
-k_tiaret,title,,IMAM
-k_tiaret,title_prefix,,IMAMATE_OF
-k_israel,k_israel,,Israel
-k_israel,k_israel_adj,,Israelites
-k_israel,dynasty_title_names,,no
-k_israel,title,,KING
-k_israel,title_female,,QUEEN
-k_ifat,k_ifat,,Ifat
-k_ifat,k_ifat_adj,,Ifatí
-k_blemmyes,k_blemmyes,,Béja
-k_blemmyes,k_blemmyes_adj,,Béjí
-k_khwarezmia,k_khwarezmia,,Khwarezm
-k_khwarezmia,k_khwarezmia_adj,,Khwarezmí
-k_kimek,k_kimek,,Kimek
-k_kimek,k_kimek_adj,,Kimek
-k_kimek,foa,,Khan_FOA
-k_kimek,title,,Khan
-k_kimek,title_prefix,,Khanliq_of
-k_kerman,k_kerman,,Kermán
-k_kerman,k_kerman_adj,,Kermání
-e_latin_empire,e_latin_empire,,Imperium Romaniae
-e_latin_empire,e_latin_empire_adj,,Latin
-e_latin_empire,short_name,,yes
-e_india,e_india,,India
-e_india,e_india_adj,,
-e_india,dynasty_title_names,,no
-e_india,title,,SAMRAT_CHAKRAVARTIN
-e_india,title_female,,SAMRAJNI_CHAKRAVARTIN
-d_oxford,d_oxford,,Oxford
-d_oxford,d_oxford_adj,,Oxfordian
-d_chester,d_chester,,Chester
-d_chester,d_chester_adj,,Chester
-d_gloucester,d_gloucester,,Hwicce
-d_gloucester,d_gloucester_adj,,Hwiccan
-d_gloucester,d_gloucester_adj_english,,Gloucesterian
-d_gloucester,d_gloucester_adj_norman,,Gloucesterian
-b_zussow,b_zussow,,Züssow
-b_zussow,b_zussow_adj,,
-b_kolbatz,b_kolbatz,,Kolbatz
-b_kolbatz,b_kolbatz_adj,,
-d_yaroslavl,d_yaroslavl,,Yaroslavl
-d_yaroslavl,d_yaroslavl_adj,,Yaroslavian
-d_vitebsk,d_vitebsk,,Vitebsk
-d_vitebsk,d_vitebsk_adj,,Vitebskian
-d_cheremisa,d_cheremisa,,Cheremisa
-d_cheremisa,d_cheremisa_adj,,Cheremisan
-d_pronsk,d_pronsk,,Pronsk
-d_pronsk,d_pronsk_adj,,Pronskian
-d_socotra,d_socotra,,Socotra
-d_socotra,d_socotra_adj,,
-e_ulm,e_ulm,,Ulm
-e_ulm,e_ulm_adj,,Ulmian
-e_ulm,foa,,ULM_FOA
-e_ulm,short_name,,yes
-e_ulm,title,,ULM
-e_khazaria,e_khazaria,,Qasarstan
-e_khazaria,e_khazaria_adj,,Qazar
-e_khazaria,afghan,,Xazarstán
-e_khazaria,e_khazaria_adj_afghan,,Xazarí
-e_khazaria,alan,,Chazaria
-e_khazaria,andalusian_arabic,,Khazarstan
-e_khazaria,arberian,,Chazaria
-e_khazaria,e_khazaria_adj_arberian,,Chazaroi
-e_khazaria,armenian,,Chazaria
-e_khazaria,e_khazaria_adj_armenian,,Chazaroi
-e_khazaria,baloch,,Xazarstán
-e_khazaria,e_khazaria_adj_baloch,,Xazarí
-e_khazaria,bedouin_arabic,,Khazarstan
-e_khazaria,bohemian,,Kozaria
-e_khazaria,e_khazaria_adj_bohemian,,Kozaran
-e_khazaria,bosnian,,Kozaria
-e_khazaria,e_khazaria_adj_bosnian,,Kozaran
-e_khazaria,bulgarian,,Kozaria
-e_khazaria,e_khazaria_adj_bulgarian,,Kozaran
-e_khazaria,central_italian,,Cassaria
-e_khazaria,e_khazaria_adj_central_italian,,Cassaro
-e_khazaria,corsican,,Cassaria
-e_khazaria,e_khazaria_adj_corsican,,Cassaro
-e_khazaria,croatian,,Kozaria
-e_khazaria,e_khazaria_adj_croatian,,Kozaran
-e_khazaria,dalmatian,,Cassaria
-e_khazaria,e_khazaria_adj_dalmatian,,Cassaro
-e_khazaria,daylamite,,Xazarstán
-e_khazaria,e_khazaria_adj_daylamite,,Xazarí
-e_khazaria,east_gothic,,Chazaria
-e_khazaria,e_khazaria_adj_east_gothic,,Chazaroi
-e_khazaria,egyptian_arabic,,Khazarstan
-e_khazaria,georgian,,Chazaria
-e_khazaria,e_khazaria_adj_georgian,,Chazaroi
-e_khazaria,greek,,Chazaria
-e_khazaria,e_khazaria_adj_greek,,Chazaroi
-e_khazaria,italian,,Cassaria
-e_khazaria,e_khazaria_adj_italian,,Cassaro
-e_khazaria,karantanci,,Kozaria
-e_khazaria,e_khazaria_adj_karantanci,,Kozaran
-e_khazaria,khalaj,,Xazarstán
-e_khazaria,e_khazaria_adj_khalaj,,Xazarí
-e_khazaria,khwarezmi,,Xazarstán
-e_khazaria,e_khazaria_adj_khwarezmi,,Xazarí
-e_khazaria,kirghiz,,Xäzärstan
-e_khazaria,e_khazaria_adj_kirghiz,,Xäzär
-e_khazaria,kurdish,,Xazarstán
-e_khazaria,e_khazaria_adj_kurdish,,Xazarí
-e_khazaria,langobardisch,,Cassaria
-e_khazaria,levantine_arabic,,Khazarstan
-e_khazaria,ligurian,,Cassaria
-e_khazaria,e_khazaria_adj_ligurian,,Cassaro
-e_khazaria,maghreb_arabic,,Khazarstan
-e_khazaria,masmuda,,Khazarstan
-e_khazaria,mongol,,Xäzärstan
-e_khazaria,e_khazaria_adj_mongol,,Xäzär
-e_khazaria,moravian,,Kozaria
-e_khazaria,e_khazaria_adj_moravian,,Kozaran
-e_khazaria,neapolitan,,Cassaria
-e_khazaria,e_khazaria_adj_neapolitan,,Cassaro
-e_khazaria,oghuz,,Hazarstan
-e_khazaria,e_khazaria_adj_oghuz,,Hazar
-e_khazaria,pahlavi,,Xazarstán
-e_khazaria,e_khazaria_adj_pahlavi,,Xazarí
-e_khazaria,persian,,Xazarstán
-e_khazaria,e_khazaria_adj_persian,,Xazarí
-e_khazaria,polish,,Kozariaia
-e_khazaria,e_khazaria_adj_polish,,Kozaran
-e_khazaria,pommeranian,,Kozaria
-e_khazaria,e_khazaria_adj_pommeranian,,Kozaran
-e_khazaria,qufs,,Xazarstán
-e_khazaria,e_khazaria_adj_qufs,,Xazarí
-e_khazaria,russian,,Kozarye
-e_khazaria,e_khazaria_adj_russian,,Kozaran
-e_khazaria,sanhaja,,Khazarstan
-e_khazaria,sardinian,,Cassaria
-e_khazaria,e_khazaria_adj_sardinian,,Cassaro
-e_khazaria,serbian,,Kozaria
-e_khazaria,e_khazaria_adj_serbian,,Kozaran
-e_khazaria,sicilian,,Cassaria
-e_khazaria,e_khazaria_adj_sicilian,,Cassaro
-e_khazaria,sicilian_arabic,,Khazarstan
-e_khazaria,sicilian_greek,,Chazaria
-e_khazaria,e_khazaria_adj_sicilian_greek,,Chazaroi
-e_khazaria,sogdian,,Xazarstán
-e_khazaria,e_khazaria_adj_sogdian,,Xazarí
-e_khazaria,southern_italian,,Cassaria
-e_khazaria,e_khazaria_adj_southern_italian,,Cassaro
-e_khazaria,tagelmust,,Khazarstan
-e_khazaria,tajik,,Xazarstán
-e_khazaria,e_khazaria_adj_tajik,,Xazarí
-e_khazaria,tuareg,,Khazarstan
-e_khazaria,turkish,,Hazarstan
-e_khazaria,e_khazaria_adj_turkish,,Hazar
-e_khazaria,turkmen,,Hazarstan
-e_khazaria,e_khazaria_adj_turkmen,,Hazar
-e_khazaria,tuscan,,Cassaria
-e_khazaria,e_khazaria_adj_tuscan,,Cassaro
-e_khazaria,venetian,,Cassaria
-e_khazaria,e_khazaria_adj_venetian,,Cassaro
-e_khazaria,zanata,,Khazarstan
-e_khitan,e_khitan,,Huldji Qidai Gur
-e_khitan,e_khitan_adj,,Kara Khitan
-e_khitan,short_name,,yes
-k_qipchaq,k_qipchaq,,Qipchaqlar
-k_qipchaq,k_qipchaq_adj,,Qipchaq
-k_qipchaq,dynasty_title_names,,no
-k_cuman,k_cuman,,Kumanlar
-k_cuman,k_cuman_adj,,Kuman
-k_cuman,dynasty_title_names,,no
-k_pechenegs,k_pechenegs,,Beçeneklar
-k_pechenegs,k_pechenegs_adj,,Beçenek
-k_pechenegs,dynasty_title_names,,no
-k_qangar,k_qangar,,Qangar
-k_qangar,k_qangar_adj,,Qangar
-k_qangar,dynasty_title_names,,no
-k_uzes,k_uzes,,Uzlar
-k_uzes,k_uzes_adj,,Uzlar
-k_uzes,dynasty_title_names,,no
-d_black_caps,d_black_caps,,Karakalpaklar
-d_black_caps,d_black_caps_adj,,Karakalpaklan
-d_black_caps,persian,,Qaum-i Kulah-i Siyahan
-d_black_caps,russian,,Chyornye Klobuki
-d_black_caps,d_black_caps_adj_russian,,Chyornye Klobuki
-d_black_caps,dynasty_title_names,,no
-e_kaleva,e_kaleva,,Kalevala
-e_kaleva,e_kaleva_adj,,Kalevalan
-k_geats,k_geats,,Gautaríki
-k_geats,k_geats_adj,,Gautr
-e_germany,e_germany,,Germania
-e_germany,e_germany_adj,,German
-k_avaria,k_avaria,,Avaria
-k_avaria,k_avaria_adj,,Avarian
-k_lombardy,k_lombardy,,Lombardy
-k_lombardy,k_lombardy_adj,,Lombard
-d_lauenburg,d_lauenburg,,Sachsen-Lauenburg
-d_lauenburg,d_lauenburg_adj,,Sächsische
-d_sangermano,d_sangermano,,Terra Sancti Benedicti
-d_sangermano,d_sangermano_adj,,Bendicitian
-d_sangermano,short_name,,yes
-k_salerno,k_salerno,,Principato di Salerno
-k_salerno,k_salerno_adj,,Salernian
-k_salerno,short_name,,yes
-d_austrialombardic,d_austrialombardic,,Austria
-d_austrialombardic,d_austrialombardic_adj,,Austrian
-d_neustria,d_neustria,,Neustria
-d_neustria,d_neustria_adj,,Neustrian
-d_tuscia,d_tuscia,,Tuscia
-d_tuscia,d_tuscia_adj,,Tuscian
-k_duklja,k_duklja,,Duklja
-k_duklja,k_duklja_adj,,Dukljan
-k_austria,k_austria,,Österreich
-k_austria,k_austria_adj,,Österreichische
-k_austria,foa,,ADA_FOA
-k_austria,title,,ADA
-k_austria,title_prefix,,ADA_OF
-d_smaland,d_smaland,,Småland
-d_smaland,d_smaland_adj,,Smålander
-d_smaland,norse,,Smáland
-e_occitania,e_occitania,,Occitània
-e_occitania,e_occitania_adj,,Occitan
-k_flanders,k_flanders,,Vlaanderen
-k_flanders,k_flanders_adj,,Vlaamse
-d_narbonne,d_narbonne,,Narbona
-d_narbonne,d_narbonne_adj,,Narbonnais
-d_paulicians,d_paulicians,,Paulikianoi
-d_paulicians,d_paulicians_adj,,Paulikianoi
-k_armenia_minor,k_armenia_minor,,Mikrá Armenia
-k_armenia_minor,k_armenia_minor_adj,,Mikrá Armenian
-d_pagania,d_pagania,,Neretljani
-d_pagania,d_pagania_adj,,Narentine
-d_rhodos,d_rhodos,,Rhodos
-d_rhodos,d_rhodos_adj,,Rhodian
-d_rhodos,foa,,CAESAR_FOA
-d_rhodos,title,,CAESAR
-d_rhodos,title_prefix,,CAESAR_OF
-e_chagatai,e_chagatai,,Chagatai
-e_chagatai,e_chagatai_adj,,
-d_tiflis,d_tiflis,,Tiflis
-d_tiflis,d_tiflis_adj,,Tiflisi
-k_vaspurakan,k_vaspurakan,,Vaspurakan
-k_vaspurakan,k_vaspurakan_adj,,Vaspurakani
-d_vanand,d_vanand,,Vanand
-d_vanand,d_vanand_adj,,Vanandian
-d_mingrelia,d_mingrelia,,Samegrelo
-d_mingrelia,d_mingrelia_adj,,Samegrelian
-d_meshketi,d_meshketi,,Meskheti
-d_meshketi,d_meshketi_adj,,Meskhetian
-k_abkhazia,k_abkhazia,,Apkhazeti
-k_abkhazia,k_abkhazia_adj,,Apkhazetian
-k_abkhazia,foa,,MEPE_FOA
-k_abkhazia,title,,MEPE
-k_abkhazia,title_prefix,,MEPE_OF
-k_imereti,k_imereti,,Imereti
-k_imereti,k_imereti_adj,,Imeretian
-k_imereti,foa,,MEPE_FOA
-k_imereti,title,,MEPE
-k_imereti,title_prefix,,MEPE_OF
-k_kakheti,k_kakheti,,Kakheti
-k_kakheti,k_kakheti_adj,,Kakhetian
-k_kakheti,foa,,MEPE_FOA
-k_kakheti,title,,MEPE
-k_kakheti,title_prefix,,MEPE_OF
-k_iberia,k_iberia,,Kartli
-k_iberia,k_iberia_adj,,Kartlian
-k_iberia,foa,,MEPE_FOA
-k_iberia,title,,MEPE
-k_iberia,title_prefix,,MEPE_OF
-d_dahlak,d_dahlak,,Dahlak
-d_dahlak,d_dahlak_adj,,Dahlakian
-d_sadah,d_sadah,,Sadah
-d_sadah,d_sadah_adj,,Sadahi
-d_sharif_medina,d_sharif_medina,,Madinah
-d_sharif_medina,d_sharif_medina_adj,,Madinan
-d_sharif_mecca,d_sharif_mecca,,Makkah
-d_sharif_mecca,d_sharif_mecca_adj,,Makkan
-d_siraf,d_siraf,,Siráf
-d_siraf,d_siraf_adj,,Siráfí
-e_wendish_empire,e_wendish_empire,,Wendish Empire
-e_wendish_empire,e_wendish_empire_adj,,Wendish
-e_wendish_empire,bohemian,,Velké Czechy
-e_wendish_empire,croatian,,Vendia
-e_wendish_empire,karantanci,,Vendia
-e_wendish_empire,moravian,,Velká Morava
-e_wendish_empire,polish,,Wiêksza Polska
-e_wendish_empire,pommeranian,,Vendia
-e_wendish_empire,short_name,,yes
-d_breifne,d_breifne,,Breifne
-d_breifne,d_breifne_adj,,Breifnian
-d_breifne,anglonorse,,Breffny
-d_breifne,breton,,Bréifne
-d_breifne,cornish,,Bréifne
-d_breifne,cumbric,,Bréifne
-d_breifne,danish,,Breffny
-d_breifne,gothic,,Breffny
-d_breifne,icelandic,,Breffny
-d_breifne,irish,,Bréifne
-d_breifne,norse,,Breffny
-d_breifne,norsegaelic,,Bréifne
-d_breifne,norwegian,,Breffny
-d_breifne,saxon,,Breffny
-d_breifne,scottish,,Bréifne
-d_breifne,swedish,,Breffny
-d_breifne,welsh,,Bréifne
-d_thomond,d_thomond,,Thomond
-d_thomond,d_thomond_adj,,Thomondian
-d_thomond,breton,,Tuadhmhumhain
-d_thomond,cornish,,Tuadhmhumhain
-d_thomond,cumbric,,Tuadhmhumhain
-d_thomond,irish,,Tuadhmhumhain
-d_thomond,norsegaelic,,Tuadhmhumhain
-d_thomond,scottish,,Tuadhmhumhain
-d_thomond,welsh,,Tuadhmhumhain
-d_ossory,d_ossory,,Ossory
-d_ossory,d_ossory_adj,,Ossoryan
-d_ossory,breton,,Osraige
-d_ossory,cornish,,Osraige
-d_ossory,cumbric,,Osraige
-d_ossory,irish,,Osraige
-d_ossory,norsegaelic,,Osraige
-d_ossory,scottish,,Osraige
-d_ossory,welsh,,Osraige
-d_oneill,d_oneill,,O'Neill
-d_oneill,d_oneill_adj,,O'Neill
-d_oneill,breton,,Uí Néill
-d_oneill,cornish,,Uí Néill
-d_oneill,cumbric,,Uí Néill
-d_oneill,irish,,Uí Néill
-d_oneill,norsegaelic,,Uí Néill
-d_oneill,scottish,,Uí Néill
-d_oneill,welsh,,Uí Néill
-d_airgialla,d_airgialla,,Airgíalla
-d_airgialla,d_airgialla_adj,,Airgíallan
-d_airgialla,anglonorse,,Oriel
-d_airgialla,breton,,Airgíalla
-d_airgialla,cornish,,Airgíalla
-d_airgialla,cumbric,,Airgíalla
-d_airgialla,danish,,Oriel
-d_airgialla,english,,Oriel
-d_airgialla,gothic,,Oriel
-d_airgialla,icelandic,,Oriel
-d_airgialla,irish,,Airgíalla
-d_airgialla,norse,,Oriel
-d_airgialla,norsegaelic,,Airgíalla
-d_airgialla,norwegian,,Oriel
-d_airgialla,saxon,,Oriel
-d_airgialla,scottish,,Oirialla
-d_airgialla,swedish,,Oriel
-d_airgialla,welsh,,Airgíalla
-e_mexikha,e_mexikha,,Aztec Empire
-e_mexikha,e_mexikha_adj,,Aztec
-e_mexikha,short_name,,yes
-d_ismaili,d_ismaili,,The Isma'ili Caliphate
-d_ismaili,d_ismaili_adj,,Isma'ili
-d_ismaili,foa,,CALIPH_FOA
-d_ismaili,short_name,,yes
-d_ismaili,title,,CALIPH
-d_ismaili,title_female,,CALIPHA
-d_mahdiyya,d_mahdiyya,,The Mahdite Caliphate
-d_mahdiyya,d_mahdiyya_adj,,Mahdite
-d_mahdiyya,foa,,CALIPH_FOA
-d_mahdiyya,short_name,,yes
-d_mahdiyya,title,,CALIPH
-d_mahdiyya,title_female,,CALIPHA
-d_manichean,d_manichean,,Manichaean Church
-d_manichean,d_manichean_adj,,Manichaean
-d_manichean,dynasty_title_names,,no
-d_manichean,foa,,POPE_FOA
-d_manichean,short_name,,yes
-d_manichean,title,,MANI_LEADER
-d_maronite,d_maronite,,Maronite Church
-d_maronite,d_maronite_adj,,Maronite
-d_maronite,dynasty_title_names,,no
-d_maronite,foa,,ECUMENICAL_PATRIARCH_FOA
-d_maronite,short_name,,yes
-d_maronite,title,,MARONITE_PATRIARCH
-d_nabawiyya,d_nabawiyya,,The Nabawite Malikate
-d_nabawiyya,d_nabawiyya_adj,,Nabawite
-d_nabawiyya,foa,,MALIK_FOA
-d_nabawiyya,short_name,,yes
-d_nabawiyya,title,,MALIK
-d_nabawiyya,title_female,,MALIKA
-d_zaydi,d_zaydi,,The Zaydi Caliphate
-d_zaydi,d_zaydi_adj,,Zaydi
-d_zaydi,foa,,CALIPH_FOA
-d_zaydi,short_name,,yes
-d_zaydi,title,,CALIPH
-d_zaydi,title_female,,CALIPHA
-d_apostolic,d_apostolic,,The Apostolic Church
-d_apostolic,d_apostolic_adj,,Apostolic
-d_apostolic,dynasty_title_names,,no
-d_apostolic,foa,,POPE_FOA
-d_apostolic,male_names,,Aleksandr Ananias Aristaces Asdvadzadur Constantine Davit Dertad Eliazar Gevorg Giragos Grigor Isaiah Hacob Joab Hovhannes Hovsep Karapet Khachig Mashdotz Mekhitar Mesrop Mikayel Movses Nahabed Nerses Parsegh Petros Philippos Sarkis Sion Soghomon Stephan Thoros Vahan Yeghishe Zacharias
-d_apostolic,short_name,,yes
-d_apostolic,title,,CATHOLICOS
+#TITLE;KEY;VALUE;SWMH
+b_brethaestath;b_brethaestath;;
+b_brethaestath;b_brethaestath_adj;;
+b_giaethning;b_giaethning;;
+b_giaethning;b_giaethning_adj;;
+b_braaklem;b_braaklem;;
+b_braaklem;b_braaklem_adj;;
+b_odenbel;b_odenbel;;
+b_odenbel;b_odenbel_adj;;
+b_taning;b_taning;;
+b_taning;b_taning_adj;;
+b_cerva;b_cerva;;
+b_cerva;b_cerva_adj;;
+b_de_gundula;b_de_gundula;;
+b_de_gundula;b_de_gundula_adj;;
+b_de_guzzei;b_de_guzzei;;
+b_de_guzzei;b_de_guzzei_adj;;
+b_caboga;b_caboga;;
+b_caboga;b_caboga_adj;;
+b_zamanjic;b_zamanjic;;
+b_zamanjic;b_zamanjic_adj;;
+b_diramku;b_diramku;;
+b_diramku;b_diramku_adj;;
+b_qalhati;b_qalhati;;
+b_qalhati;b_qalhati_adj;;
+b_hormuzi;b_hormuzi;;
+b_hormuzi;b_hormuzi_adj;;
+b_qeshmi;b_qeshmi;;
+b_qeshmi;b_qeshmi_adj;;
+b_lafti;b_lafti;;
+b_lafti;b_lafti_adj;;
+b_aliraqi;b_aliraqi;;Al-Iráqí
+b_aliraqi;b_aliraqi_adj;;
+b_assadad;b_assadad;;
+b_assadad;b_assadad_adj;;
+b_qirwashi;b_qirwashi;;
+b_qirwashi;b_qirwashi_adj;;
+b_misiwwi;b_misiwwi;;
+b_misiwwi;b_misiwwi_adj;;
+b_suakini;b_suakini;;
+b_suakini;b_suakini_adj;;
+b_tizzi;b_tizzi;;
+b_tizzi;b_tizzi_adj;;
+b_dandolo;b_dandolo;;Dandolo
+b_dandolo;b_dandolo_adj;;
+b_contarini;b_contarini;;Contarini
+b_contarini;b_contarini_adj;;
+b_faliero;b_faliero;;Faliero
+b_faliero;b_faliero_adj;;
+b_morosini;b_morosini;;Morosini
+b_morosini;b_morosini_adj;;
+b_ziani;b_ziani;;Ziani
+b_ziani;b_ziani_adj;;
+b_silvio;b_silvio;;
+b_silvio;b_silvio_adj;;
+b_candiano;b_candiano;;Candiano
+b_candiano;b_candiano_adj;;
+b_orsoleo;b_orsoleo;;Orsoleo
+b_orsoleo;b_orsoleo_adj;;
+b_participazio;b_participazio;;Participazio
+b_participazio;b_participazio_adj;;
+b_tribuno;b_tribuno;;Tribuno
+b_tribuno;b_tribuno_adj;;
+b_tradonico;b_tradonico;;Tradonico
+b_tradonico;b_tradonico_adj;;
+b_antenoreo;b_antenoreo;;Antenoreo
+b_antenoreo;b_antenoreo_adj;;
+b_galbaio;b_galbaio;;Galbaio
+b_galbaio;b_galbaio_adj;;
+b_monegario;b_monegario;;Monegario
+b_monegario;b_monegario_adj;;
+b_gaulo;b_gaulo;;Gaulo
+b_gaulo;b_gaulo_adj;;
+b_doria;b_doria;;Doria
+b_doria;b_doria_adj;;
+b_spinola;b_spinola;;Spinola
+b_spinola;b_spinola_adj;;
+b_grimaldi;b_grimaldi;;Grimaldi
+b_grimaldi;b_grimaldi_adj;;
+b_fieschi;b_fieschi;;Fieschi
+b_fieschi;b_fieschi_adj;;
+b_embriaco;b_embriaco;;Embriaco
+b_embriaco;b_embriaco_adj;;
+b_dappiano;b_dappiano;;Dappiano
+b_dappiano;b_dappiano_adj;;
+b_della_gherardesca;b_della_gherardesca;;Della Gherardesca
+b_della_gherardesca;b_della_gherardesca_adj;;
+b_visconti;b_visconti;;Visconti
+b_visconti;b_visconti_adj;;
+b_alliata;b_alliata;;Alliata
+b_alliata;b_alliata_adj;;
+b_caetani;b_caetani;;Caetani
+b_caetani;b_caetani_adj;;
+b_bardewik;b_bardewik;;Bardewik
+b_bardewik;b_bardewik_adj;;
+b_vorrade;b_vorrade;;Vorrade
+b_vorrade;b_vorrade_adj;;
+b_warendorp;b_warendorp;;Warendorp
+b_warendorp;b_warendorp_adj;;
+b_pat_luneburg;b_pat_luneburg;;Lüneburg
+b_pat_luneburg;b_pat_luneburg_adj;;
+b_wittenborg;b_wittenborg;;Wittenborg
+b_wittenborg;b_wittenborg_adj;;
+b_stenkyrka;b_stenkyrka;;Stenkyrka
+b_stenkyrka;b_stenkyrka_adj;;
+b_guldsmed;b_guldsmed;;Guldsmed
+b_guldsmed;b_guldsmed_adj;;
+b_hejnum;b_hejnum;;Hejnum
+b_hejnum;b_hejnum_adj;;
+b_gildehusen;b_gildehusen;;Gildehusen
+b_gildehusen;b_gildehusen_adj;;
+b_strabain;b_strabain;;Strabain
+b_strabain;b_strabain_adj;;
+b_konstantios;b_konstantios;;Konstantios
+b_konstantios;b_konstantios_adj;;
+b_mauro;b_mauro;;Mauro
+b_mauro;b_mauro_adj;;
+b_musco;b_musco;;Musco
+b_musco;b_musco_adj;;
+b_polkarios;b_polkarios;;Polkarios
+b_polkarios;b_polkarios_adj;;
+b_urso;b_urso;;Urso
+b_urso;b_urso_adj;;
+d_shiite;d_shiite;;The Shi'a Imamate
+d_shiite;d_shiite_adj;;Shi'a
+d_shiite;dynasty_title_names;;no
+d_shiite;foa;;CALIPH_FOA
+d_shiite;short_name;;yes
+d_shiite;title;;IMAM
+d_shiite;title_female;;IMAMA
+d_sunni;d_sunni;;The Sunni Caliphate
+d_sunni;d_sunni_adj;;Caliphal
+d_sunni;foa;;CALIPH_FOA
+d_sunni;short_name;;yes
+d_sunni;title;;CALIPH
+d_sunni;title_female;;CALIPHA
+e_rebels;e_rebels;;Rebels
+e_rebels;e_rebels_adj;;Rebel
+e_pirates;e_pirates;;Pirates
+e_pirates;e_pirates_adj;;
+k_papal_state;k_papal_state;;Status Pontificius
+k_papal_state;k_papal_state_adj;;Sanctimonialis
+k_papal_state;dynasty_title_names;;no
+k_papal_state;foa;;POPE_FOA
+k_papal_state;location_ruler_title;;yes
+k_papal_state;male_names;;Ioannes:13 Benedictus:10 Gregorius:8 Innocentius:7 Clemens:5 Leo:5 Nicolaus:5 Stephanus:5 Urbanus:5 Coelestinus:4 Hadrianus:4 Alexander:3 Bonifatius:3 Honorius:3 Anastasius:2 Callistus:2 Eugenius:2 Lucius:2 Marinus:2 Martinus:2 Sergius:2 Silvester:2 Victor:2 Agapitus:1 Damasus:1 Formosus:1 Gelasius:1 Landus:1 Paschalis:1 Paulus:1 Pius:1 Romanus:1 Theodorus:1 Xystus:1
+k_papal_state;short_name;;yes
+k_papal_state;title;;POPE
+k_papal_state;title_female;;POPESS
+k_orthodox;k_orthodox;;The Ecumenical Patriarchate
+k_orthodox;k_orthodox_adj;;Patriarchal
+k_orthodox;dynasty_title_names;;no
+k_orthodox;foa;;ECUMENICAL_PATRIARCH_FOA
+k_orthodox;male_names;;Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
+k_orthodox;short_name;;yes
+k_orthodox;title;;ECUMENICAL_PATRIARCH
+e_sunni;e_sunni;;The Sunni Caliphate
+e_sunni;e_sunni_adj;;Caliphal
+e_sunni;foa;;CALIPH_FOA
+e_sunni;short_name;;yes
+e_sunni;title;;CALIPH
+e_sunni;title_female;;CALIPHA
+e_shiite;e_shiite;;The Shia Caliphate
+e_shiite;e_shiite_adj;;Caliphal
+e_shiite;foa;;CALIPH_FOA
+e_shiite;short_name;;yes
+e_shiite;title;;CALIPH
+e_shiite;title_female;;CALIPHA
+e_golden_horde;e_golden_horde;;Golden Horde
+e_golden_horde;e_golden_horde_adj;;Mongol
+e_golden_horde;short_name;;yes
+e_il-khanate;e_il-khanate;;Ilkhanate
+e_il-khanate;e_il-khanate_adj;;Mongol
+e_il-khanate;short_name;;yes
+e_mongol_empire;e_mongol_empire;;Yeke Mongol Ulus
+e_mongol_empire;e_mongol_empire_adj;;Mongol
+e_mongol_empire;short_name;;yes
+e_timurids;e_timurids;;Timurids
+e_timurids;e_timurids_adj;;Timurid
+d_miaphysite;d_miaphysite;;The Miaphysite Papacy
+d_miaphysite;d_miaphysite_adj;;Coptic Papal
+d_miaphysite;dynasty_title_names;;no
+d_miaphysite;foa;;POPE_FOA
+d_miaphysite;male_names;;Abraham Alexandros Alexios Agatho Anastasios Andronikos Athanasios Benjamin Christodolos Cosmas Kyril Damian Demetrius Dioscorus Gabriel Yohannes Iosephos Isaakios Iakobos Makarios Markianos Markos Matheos Khail Mina Petros Philotheos Shenouda Simeon Theodoros Theophilus Timotheos Zacharias
+d_miaphysite;short_name;;yes
+d_miaphysite;title;;COPTIC_POPE
+d_monophysite;d_monophysite;;The Monophysite Papacy
+d_monophysite;d_monophysite_adj;;Monophysite Papal
+d_monophysite;dynasty_title_names;;no
+d_monophysite;foa;;POPE_FOA
+d_monophysite;male_names;;Abraham Alexandros Alexios Agatho Anastasius Andronicus Athanasios Benjamin Christodolos Cosmas Cyril Damian Demetrius Dioscorus Gabriel Ioannes Iosephos Isaakios Iakobos Makarios Markianos Matheos Michail Mina Petros Philotheos Shenouda Simeon Theodoros Theophilus Timotheos Zacharias
+d_monophysite;short_name;;yes
+d_monophysite;title;;MONOPHYSITE_POPE
+d_nestorian;d_nestorian;;The Patriarchate of the East
+d_nestorian;d_nestorian_adj;;Eastern Patriarchal
+d_nestorian;dynasty_title_names;;no
+d_nestorian;foa;;ECUMENICAL_PATRIARCH_FOA
+d_nestorian;male_names;;Aba Abraham Eliya Denha Emmanuel Giwargis Hnanisho Ishoyahb Makkikha Maremmeh Pethion Sabrisho Shemon Sargis Surin Theodosios Timotheos Yahballaha Yohannan
+d_nestorian;short_name;;yes
+d_nestorian;title;;PATRIARCH_IN_THE_EAST
+d_paulician;d_paulician;;The Paulician Patriarchate
+d_paulician;d_paulician_adj;;Paulician
+d_paulician;dynasty_title_names;;no
+d_paulician;foa;;ECUMENICAL_PATRIARCH_FOA
+d_paulician;male_names;;Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Gabriel Dionysios Dositheos Epaphroditus Eustathios Eustratios Euthymios Gegnesius Gennadios Georgios Gerasimos Germanos Gregorios Ieremias Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael Neophytos Nephon Nikephoros Niketas Nikolaos Paul Pavlos Petros Photios Polykarpos Sergius Silvanus Stephanos Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos Titus
+d_paulician;short_name;;yes
+d_paulician;title;;PAULICIAN_PATRIARCH
+d_monothelite;d_monothelite;;The Monothelite Patriarchate
+d_monothelite;d_monothelite_adj;;Monothelite Patriarchal
+d_monothelite;dynasty_title_names;;no
+d_monothelite;foa;;ECUMENICAL_PATRIARCH_FOA
+d_monothelite;male_names;;Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos Eustathios Eustratios Euthymios Gennadios Georgios Gerasimos Germanos Gregorios Ieremias Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
+d_monothelite;short_name;;yes
+d_monothelite;title;;MONOTHELITE_PATRIARCH
+d_fraticelli;d_fraticelli;;The Fraticelli Papacy
+d_fraticelli;d_fraticelli_adj;;Fraticelli Papal
+d_fraticelli;dynasty_title_names;;no
+d_fraticelli;foa;;POPE_FOA
+d_fraticelli;location_ruler_title;;yes
+d_fraticelli;male_names;;Ioannes:13 Benedictus:10 Gregorius:8 Innocentius:7 Clemens:5 Leo:5 Nicolaus:5 Stephanus:5 Urbanus:5 Coelestinus:4 Hadrianus:4 Alexander:3 Bonifatius:3 Honorius:3 Anastasius:2 Callistus:2 Eugenius:2 Lucius:2 Marinus:2 Martinus:2 Sergius:2 Silvester:2 Victor:2 Agapitus:1 Damasus:1 Formosus:1 Gelasius:1 Landus:1 Paschalis:1 Paulus:1 Pius:1 Romanus:1 Theodorus:1 Xystus:1
+d_fraticelli;short_name;;yes
+d_fraticelli;title;;POPE
+d_iconoclast;d_iconoclast;;The Iconoclast Patriarchate
+d_iconoclast;d_iconoclast_adj;;Iconoclast Patriarchal
+d_iconoclast;dynasty_title_names;;no
+d_iconoclast;foa;;ECUMENICAL_PATRIARCH_FOA
+d_iconoclast;male_names;;Alexios Antonios Athanasios Basileios Chariton Dionysios Dositheos Eustathios Eustratios Euthymios Gennadios Georgios Gerasimos Germanos Gregoras Ioannes Iosephos Isidoros Kallistos Konstantinos Kosmas Leon Leontios Loukas Makarios Manuel Maximos Metrophanes Michael Neophytos Nephon Niketas Nikolaos Nilos Matthaios Paulos Sergios Sisinnios Symeon Theodoros Theodosios Theodotos
+d_iconoclast;short_name;;yes
+d_iconoclast;title;;ECUMENICAL_PATRIARCH
+d_yazidi;d_yazidi;;The Yazidi Sheikhdom
+d_yazidi;d_yazidi_adj;;Yazidi
+d_yazidi;foa;;CALIPH_FOA
+d_yazidi;short_name;;yes
+d_yazidi;title;;SHEIKH
+d_yazidi;title_female;;SHEIKHA
+d_ibadi;d_ibadi;;The Ibadi Caliphate
+d_ibadi;d_ibadi_adj;;Ibadi Caliphal
+d_ibadi;foa;;CALIPH_FOA
+d_ibadi;short_name;;yes
+d_ibadi;title;;CALIPH
+d_ibadi;title_female;;CALIPHA
+d_kharijite;d_kharijite;;The Kharijite Caliphate
+d_kharijite;d_kharijite_adj;;Kharijite Caliphal
+d_kharijite;foa;;CALIPH_FOA
+d_kharijite;short_name;;yes
+d_kharijite;title;;CALIPH
+d_kharijite;title_female;;CALIPHA
+d_hurufi;d_hurufi;;The Hurufi Skeikhdom
+d_hurufi;d_hurufi_adj;;Hurufi
+d_hurufi;foa;;CALIPH_FOA
+d_hurufi;short_name;;yes
+d_hurufi;title;;CALIPH
+d_hurufi;title_female;;CALIPHA
+d_jewish;d_jewish;;The Jewish High Priesthood
+d_jewish;d_jewish_adj;;Jewish
+d_jewish;dynasty_title_names;;no
+d_jewish;foa;;POPE_FOA
+d_jewish;short_name;;yes
+d_jewish;title;;HEAD_KOHEN_GADOL
+d_norse_pagan_reformed;d_norse_pagan_reformed;;The Fylkirate
+d_norse_pagan_reformed;d_norse_pagan_reformed_adj;;Norse
+d_norse_pagan_reformed;dynasty_title_names;;no
+d_norse_pagan_reformed;foa;;FYLKIR_FOA
+d_norse_pagan_reformed;short_name;;yes
+d_norse_pagan_reformed;title;;FYLKIR
+d_norse_pagan_reformed;title_female;;FYLKJA
+d_tengri_pagan_reformed;d_tengri_pagan_reformed;;The Tengri Church
+d_tengri_pagan_reformed;d_tengri_pagan_reformed_adj;;Tengri
+d_tengri_pagan_reformed;dynasty_title_names;;no
+d_tengri_pagan_reformed;foa;;HEAD_PRIEST_FOA
+d_tengri_pagan_reformed;short_name;;yes
+d_tengri_pagan_reformed;title;;HEAD_PRIEST
+d_tengri_pagan_reformed;title_female;;HEAD_PRIESTESS
+d_baltic_pagan_reformed;d_baltic_pagan_reformed;;The Romuvan Church
+d_baltic_pagan_reformed;d_baltic_pagan_reformed_adj;;Romuva
+d_baltic_pagan_reformed;dynasty_title_names;;no
+d_baltic_pagan_reformed;foa;;HEAD_PRIEST_FOA
+d_baltic_pagan_reformed;short_name;;yes
+d_baltic_pagan_reformed;title;;HEAD_PRIEST
+d_baltic_pagan_reformed;title_female;;HEAD_PRIESTESS
+d_finnish_pagan_reformed;d_finnish_pagan_reformed;;The Suomenusko Church
+d_finnish_pagan_reformed;d_finnish_pagan_reformed_adj;;Suomenusko
+d_finnish_pagan_reformed;dynasty_title_names;;no
+d_finnish_pagan_reformed;foa;;HEAD_PRIEST_FOA
+d_finnish_pagan_reformed;short_name;;yes
+d_finnish_pagan_reformed;title;;HEAD_PRIEST
+d_finnish_pagan_reformed;title_female;;HEAD_PRIESTESS
+d_slavic_pagan_reformed;d_slavic_pagan_reformed;;The Slavic Church
+d_slavic_pagan_reformed;d_slavic_pagan_reformed_adj;;Slavic
+d_slavic_pagan_reformed;dynasty_title_names;;no
+d_slavic_pagan_reformed;foa;;HEAD_PRIEST_FOA
+d_slavic_pagan_reformed;short_name;;yes
+d_slavic_pagan_reformed;title;;HEAD_PRIEST
+d_slavic_pagan_reformed;title_female;;HEAD_PRIESTESS
+d_aztec_reformed;d_aztec_reformed;;The Aztec Church
+d_aztec_reformed;d_aztec_reformed_adj;;
+d_aztec_reformed;dynasty_title_names;;no
+d_aztec_reformed;foa;;HEAD_PRIEST_FOA
+d_aztec_reformed;short_name;;yes
+d_aztec_reformed;title;;HEAD_PRIEST
+d_aztec_reformed;title_female;;HEAD_PRIESTESS
+d_west_african_pagan_reformed;d_west_african_pagan_reformed;;West African Church
+d_west_african_pagan_reformed;d_west_african_pagan_reformed_adj;;West African
+d_west_african_pagan_reformed;dynasty_title_names;;no
+d_west_african_pagan_reformed;foa;;HEAD_PRIEST_FOA
+d_west_african_pagan_reformed;short_name;;yes
+d_west_african_pagan_reformed;title;;HEAD_PRIEST
+d_west_african_pagan_reformed;title_female;;HEAD_PRIESTESS
+d_zun_pagan_reformed;d_zun_pagan_reformed;;The Church of Zun
+d_zun_pagan_reformed;d_zun_pagan_reformed_adj;;
+d_zun_pagan_reformed;dynasty_title_names;;no
+d_zun_pagan_reformed;foa;;HEAD_PRIEST_FOA
+d_zun_pagan_reformed;short_name;;yes
+d_zun_pagan_reformed;title;;HEAD_PRIEST
+d_zun_pagan_reformed;title_female;;HEAD_PRIESTESS
+d_zoroastrian;d_zoroastrian;;The Zoroastrian Church
+d_zoroastrian;d_zoroastrian_adj;;Zoroastrian
+d_zoroastrian;dynasty_title_names;;no
+d_zoroastrian;foa;;POPE_FOA
+d_zoroastrian;short_name;;yes
+d_zoroastrian;title;;HEAD_MOABADAN_MOABAD
+d_band_of_the_brave;d_band_of_the_brave;;The brave band
+d_band_of_the_brave;d_band_of_the_brave_adj;;The brave band
+d_band_of_the_brave;foa;;CAPTAIN_FOA
+d_band_of_the_brave;title;;CAPTAIN
+d_band_of_the_red;d_band_of_the_red;;Floti hinn rauði
+d_band_of_the_red;d_band_of_the_red_adj;;Floti hinn rauði
+d_band_of_the_red;foa;;CAPTAIN_FOA
+d_band_of_the_red;title;;DROTTINN
+d_black_gang;d_black_gang;;Arumer Zwarte Hoop
+d_black_gang;d_black_gang_adj;;Arumer Zwarte Hoop
+d_black_gang;foa;;CAPTAIN_FOA
+d_black_gang;title;;CAPTAIN
+d_ulfhedar;d_ulfhedar;;Úlfhéðnar
+d_ulfhedar;d_ulfhedar_adj;;Úlfhéðnar
+d_ulfhedar;foa;;CAPTAIN_FOA
+d_ulfhedar;title;;DROTTINN
+d_valr;d_valr;;Valr
+d_valr;d_valr_adj;;Valr
+d_valr;foa;;CAPTAIN_FOA
+d_valr;title;;DROTTINN
+d_curonian;d_curonian;;Kurši
+d_curonian;d_curonian_adj;;Kuršiu
+d_selonians;d_selonians;;Seli
+d_selonians;d_selonians_adj;;Selu
+d_talavians;d_talavians;;Tãlavi
+d_talavians;d_talavians_adj;;Tãlavu
+d_lettigalians;d_lettigalians;;Latgali
+d_lettigalians;d_lettigalians_adj;;Latgali
+d_zemigalians;d_zemigalians;;Zemgali
+d_zemigalians;d_zemigalians_adj;;Zemgali
+d_deltuvians;d_deltuvians;;Deltuvai
+d_deltuvians;d_deltuvians_adj;;Deltuvos
+d_yatviags;d_yatviags;;Jotvingiai
+d_yatviags;d_yatviags_adj;;Jotvingiu
+d_pruthenians;d_pruthenians;;Prùsà
+d_pruthenians;d_pruthenians_adj;;Prusu
+d_goliadj;d_goliadj;;Goladi
+d_goliadj;d_goliadj_adj;;Goladi
+d_goliadj;bohemian;;Galindowie
+d_goliadj;moravian;;Galindowie
+d_goliadj;polish;;Galindowie
+d_goliadj;pommeranian;;Galindowie
+d_goliadj;russian;;Goliadj
+d_warmians;d_warmians;;Varmi
+d_warmians;d_warmians_adj;;Varmi
+d_pomesanians;d_pomesanians;;Pomedi
+d_pomesanians;d_pomesanians_adj;;Pomedi
+d_sasnians;d_sasnians;;Sasnai
+d_sasnians;d_sasnians_adj;;Sasnai
+d_pogesanians;d_pogesanians;;Paugudi
+d_pogesanians;d_pogesanians_adj;;Paugudi
+d_bartians;d_bartians;;Barthi
+d_bartians;d_bartians_adj;;Barthi
+d_nadruvians;d_nadruvians;;Nadrawai
+d_nadruvians;d_nadruvians_adj;;Nadrawai
+d_scalovians;d_scalovians;;Skalwai
+d_scalovians;d_scalovians_adj;;Skalwai
+d_sambians;d_sambians;;Sembai
+d_sambians;d_sambians_adj;;Sembai
+d_veleti;d_veleti;;Wilzi
+d_veleti;d_veleti_adj;;Wilzi
+d_wolinians;d_wolinians;;Velunzani
+d_wolinians;d_wolinians_adj;;Velunzani
+d_chutizi;d_chutizi;;Chutizi
+d_chutizi;d_chutizi_adj;;Chutizi
+d_leubuzzi;d_leubuzzi;;Licicaviki
+d_leubuzzi;d_leubuzzi_adj;;Licicaviki
+d_glomacze;d_glomacze;;Glomacze
+d_glomacze;d_glomacze_adj;;Glomacz
+d_sorbs;d_sorbs;;Sorbs
+d_sorbs;d_sorbs_adj;;Sorbian
+d_lendians;d_lendians;;Ledzianie
+d_lendians;d_lendians_adj;;Ledzianie
+d_bohemians;d_bohemians;;Czechowé
+d_bohemians;d_bohemians_adj;;Czeský
+d_drevlyans;d_drevlyans;;Drevlyane
+d_drevlyans;d_drevlyans_adj;;Drevlyane
+d_ulichs;d_ulichs;;Ulichane
+d_ulichs;d_ulichs_adj;;Ulichane
+d_volhynians;d_volhynians;;Volyniane
+d_volhynians;d_volhynians_adj;;Volyniane
+d_buzhans;d_buzhans;;Buzhane
+d_buzhans;d_buzhans_adj;;Buzhane
+d_tivertsi;d_tivertsi;;Tivertsi
+d_tivertsi;d_tivertsi_adj;;Tivertsi
+d_meshcheras;d_meshcheras;;Meshcheras
+d_meshcheras;d_meshcheras_adj;;Meshcheran
+d_kryvians;d_kryvians;;Krivichi
+d_kryvians;d_kryvians_adj;;Krivichi
+d_severians;d_severians;;Severiane
+d_severians;d_severians_adj;;Severiane
+d_vyatichi;d_vyatichi;;Vyatichi
+d_vyatichi;d_vyatichi_adj;;Vyatich
+d_dregovichi;d_dregovichi;;Dregovichi
+d_dregovichi;d_dregovichi_adj;;Dregovichi
+d_radimichi;d_radimichi;;Radimichi
+d_radimichi;d_radimichi_adj;;Radimichi
+d_yawdi_ertim;d_yawdi_ertim;;Yawdi Ertim
+d_yawdi_ertim;d_yawdi_ertim_adj;;Yawdi Ertimian
+d_kuerchi_chur;d_kuerchi_chur;;Küerchi Chür
+d_kuerchi_chur;d_kuerchi_chur_adj;;Küerchi Chürian
+d_qabuqsin_yula;d_qabuqsin_yula;;Qabuqsin Yula
+d_qabuqsin_yula;d_qabuqsin_yula_adj;;Qabuqsin Yulaian
+d_suru_kulbej;d_suru_kulbej;;Suru Külbej
+d_suru_kulbej;d_suru_kulbej_adj;;Suru Külbejian
+d_qara_bay;d_qara_bay;;Qara Bay
+d_qara_bay;d_qara_bay_adj;;Qara Bayian
+d_boru_tolmach;d_boru_tolmach;;Boru Tolmach
+d_boru_tolmach;d_boru_tolmach_adj;;Boru Tolmachian
+d_yazi_qapan;d_yazi_qapan;;Yazi Qapan
+d_yazi_qapan;d_yazi_qapan_adj;;Yazi Qapanian
+d_bula_chopan;d_bula_chopan;;Bula Chopan
+d_bula_chopan;d_bula_chopan_adj;;Bula Chopanian
+d_uighurs;d_uighurs;;Uighurs
+d_uighurs;d_uighurs_adj;;Uighur
+d_uighurs;foa;;Idiqut_FOA
+d_uighurs;title;;Idiqut
+d_uighurs;title_prefix;;Yabghuluq_OF
+d_qirghiz;d_qirghiz;;Qirghiz
+d_qirghiz;d_qirghiz_adj;;Qirghiz
+d_qirghiz;foa;;Elteber_FOA
+d_qirghiz;title;;Elteber
+d_qirghiz;title_prefix;;Elteberluq_OF
+d_salgur;d_salgur;;Salgur
+d_salgur;d_salgur_adj;;Salgurish
+d_tekule;d_tekule;;Teküle
+d_tekule;d_tekule_adj;;Tekülish
+d_oghuz;d_oghuz;;Oghuz
+d_oghuz;d_oghuz_adj;;Oghuz
+d_oghuz;foa;;Yabghu_FOA
+d_oghuz;title;;Yabghu
+d_oghuz;title_prefix;;Yabghuluq_OF
+d_iraqiya_oghuz;d_iraqiya_oghuz;;Iraqíya
+d_iraqiya_oghuz;d_iraqiya_oghuz_adj;;Iraqí'í
+d_qarluq;d_qarluq;;Qarluq
+d_qarluq;d_qarluq_adj;;Qarluq
+d_yaghma;d_yaghma;;Yaghma
+d_yaghma;d_yaghma_adj;;Yaghma
+d_yaghma;foa;;Yabghu_FOA
+d_yaghma;title;;Yabghu
+d_yaghma;title_prefix;;Yabghuluq_OF
+d_chigil;d_chigil;;Chigil
+d_chigil;d_chigil_adj;;Chigil
+d_chigil;foa;;Yabghu_FOA
+d_chigil;title;;Yabghu
+d_chigil;title_prefix;;Yabghuluq_OF
+d_basmils;d_basmils;;Bamils
+d_basmils;d_basmils_adj;;Basmil
+d_basmils;foa;;Yabghu_FOA
+d_basmils;title;;Yabghu
+d_basmils;title_prefix;;Yabghuluq_OF
+d_tukhsi;d_tukhsi;;Tukhsi
+d_tukhsi;d_tukhsi_adj;;Tukhsi
+d_tukhsi;foa;;Yabghu_FOA
+d_tukhsi;title;;Yabghu
+d_tukhsi;title_prefix;;Yabghuluq_OF
+d_qipchaq;d_qipchaq;;Qipchaq
+d_qipchaq;d_qipchaq_adj;;Qipchaq
+d_qipchaq;foa;;Opa_FOA
+d_qipchaq;title;;Opa
+d_qipchaq;title_prefix;;Kuren_OF
+d_ay_opa;d_ay_opa;;Ay-opa
+d_ay_opa;d_ay_opa_adj;;Ay-opan
+d_dorut;d_dorut;;Dörüt
+d_dorut;d_dorut_adj;;Dörütish
+d_terteroba;d_terteroba;;Terteroba
+d_terteroba;d_terteroba_adj;;Terteroban
+d_toqsoba;d_toqsoba;;Toqsoba
+d_toqsoba;d_toqsoba_adj;;Toqsoban
+d_yimek;d_yimek;;Yimek
+d_yimek;d_yimek_adj;;Yimekish
+d_enchogli;d_enchogli;;Ençogli
+d_enchogli;d_enchogli_adj;;Ençoglian
+d_olberlig;d_olberlig;;Ölberli
+d_olberlig;d_olberlig_adj;;Ölberlish
+d_targil;d_targil;;Targil
+d_targil;d_targil_adj;;Targilan
+d_qongurogli;d_qongurogli;;Qongorogli
+d_qongurogli;d_qongurogli_adj;;Qongoroglish
+d_oren;d_oren;;Ören
+d_oren;d_oren_adj;;Örenian
+d_qor;d_qor;;Qor
+d_qor;d_qor_adj;;Qorish
+d_burchali;d_burchali;;Burçali
+d_burchali;d_burchali_adj;;Burçalian
+d_chortan;d_chortan;;Çortan
+d_chortan;d_chortan_adj;;Çortanish
+d_ulasgoli;d_ulasgoli;;Ulashogli
+d_ulasgoli;d_ulasgoli_adj;;Ulashoglish
+d_urusoba;d_urusoba;;Urus-oba
+d_urusoba;d_urusoba_adj;;Urus-oban
+d_kabars;d_kabars;;Qabarlar
+d_kabars;d_kabars_adj;;Qabarish
+d_zunbil;d_zunbil;;Zunbils
+d_zunbil;d_zunbil_adj;;Zunbil
+d_shabankara;d_shabankara;;Shabankara
+d_shabankara;d_shabankara_adj;;Shabankaraí
+d_brodniks;d_brodniks;;Brodnici
+d_brodniks;d_brodniks_adj;;Brodnician
+d_bolohoveni;d_bolohoveni;;Bolohoveni
+d_bolohoveni;d_bolohoveni_adj;;Bolohovenian
+d_zyriane;d_zyriane;;Zyriana
+d_zyriane;d_zyriane_adj;;Zyrianan
+d_zyriane;bohemian;;Zyriane
+d_zyriane;d_zyriane_adj_bohemian;;Zyrianian
+d_zyriane;bosnian;;Zyriane
+d_zyriane;d_zyriane_adj_bosnian;;Zyrianian
+d_zyriane;bulgarian;;Zyriane
+d_zyriane;d_zyriane_adj_bulgarian;;Zyrianian
+d_zyriane;croatian;;Zyriane
+d_zyriane;d_zyriane_adj_croatian;;Zyrianian
+d_zyriane;danish;;Syrjænger
+d_zyriane;d_zyriane_adj_danish;;Syrjænger
+d_zyriane;karantanci;;Zyriane
+d_zyriane;d_zyriane_adj_karantanci;;Zyrianian
+d_zyriane;moravian;;Zyriane
+d_zyriane;d_zyriane_adj_moravian;;Zyrianian
+d_zyriane;polish;;Zyriane
+d_zyriane;d_zyriane_adj_polish;;Zyrianian
+d_zyriane;pommeranian;;Zyriane
+d_zyriane;d_zyriane_adj_pommeranian;;Zyrianian
+d_zyriane;russian;;Zyriane
+d_zyriane;d_zyriane_adj_russian;;Zyrianian
+d_zyriane;serbian;;Zyriane
+d_zyriane;d_zyriane_adj_serbian;;Zyrianian
+d_maris;d_maris;;Vice Mari
+d_maris;d_maris_adj;;Vice Marian
+d_maris;avar;;Sarmäslar
+d_maris;d_maris_adj_avar;;Sarmäslärian
+d_maris;bashkir;;Çirmislar
+d_maris;d_maris_adj_bashkir;;Çirmeslarian
+d_maris;d_maris_adj_bohemian;;Cheremis
+d_maris;bolghar;;Sarmäslar
+d_maris;d_maris_adj_bolghar;;Sarmäslärian
+d_maris;d_maris_adj_bosnian;;Cheremis
+d_maris;d_maris_adj_bulgarian;;Cheremis
+d_maris;d_maris_adj_croatian;;Cheremis
+d_maris;cuman;;Çirmeslär
+d_maris;d_maris_adj_cuman;;Çirmeslärian
+d_maris;d_maris_adj_karantanci;;Cheremis
+d_maris;karluk;;Çirmeslär
+d_maris;d_maris_adj_karluk;;Çirmeslärian
+d_maris;kasogi;;Çirmislar
+d_maris;khazar;;Sarmäslar
+d_maris;d_maris_adj_khazar;;Sarmäslärian
+d_maris;d_maris_adj_khitan;;Çirmeslärian
+d_maris;kirghiz;;Çirmeslär
+d_maris;d_maris_adj_kirghiz;;Çirmeslärian
+d_maris;mongol;;Çirmeslär
+d_maris;d_maris_adj_mongol;;Çirmeslärian
+d_maris;d_maris_adj_moravian;;Cheremis
+d_maris;oghuz;;Çirmislar
+d_maris;d_maris_adj_oghuz;;Çirmislarian
+d_maris;pecheneg;;Çirmislar
+d_maris;d_maris_adj_pecheneg;;Çirmislarian
+d_maris;d_maris_adj_polish;;Cheremis
+d_maris;d_maris_adj_pommeranian;;Cheremis
+d_maris;d_maris_adj_russian;;Cheremis
+d_maris;d_maris_adj_serbian;;Cheremis
+d_maris;turkish;;Çirmislar
+d_maris;d_maris_adj_turkish;;Çirmislarian
+d_maris;turkmen;;Çirmislar
+d_maris;d_maris_adj_turkmen;;Çirmislarian
+d_maris;uyghur;;Çirmeslär
+d_maris;d_maris_adj_uyghur;;Çirmeslärian
+d_maris_vetluga;d_maris_vetluga;;Vütla Mari
+d_maris_vetluga;d_maris_vetluga_adj;;Vütla Marian
+d_maris_vetluga;avar;;Tuçi Sarmäslar
+d_maris_vetluga;d_maris_vetluga_adj_avar;;Tuçi Sarmäslärian
+d_maris_vetluga;bashkir;;Tepe Çirmislar
+d_maris_vetluga;d_maris_vetluga_adj_bashkir;;Tepe Çirmeslarian
+d_maris_vetluga;bohemian;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_bohemian;;Gornyye Cheremisian
+d_maris_vetluga;bolghar;;Tuçi Sarmäslar
+d_maris_vetluga;d_maris_vetluga_adj_bolghar;;Tuçi Sarmäslärian
+d_maris_vetluga;bosnian;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_bosnian;;Gornyye Cheremisian
+d_maris_vetluga;bulgarian;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_bulgarian;;Gornyye Cheremisian
+d_maris_vetluga;croatian;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_croatian;;Gornyye Cheremisian
+d_maris_vetluga;cuman;;Tepe Çirmeslär
+d_maris_vetluga;d_maris_vetluga_adj_cuman;;Tepe Çirmeslärian
+d_maris_vetluga;karantanci;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_karantanci;;Gornyye Cheremisian
+d_maris_vetluga;karluk;;Tepe Çirmeslär
+d_maris_vetluga;d_maris_vetluga_adj_karluk;;Tepe Çirmeslärian
+d_maris_vetluga;kasogi;;Tepe Çirmislar
+d_maris_vetluga;khazar;;Tuçi Sarmäslar
+d_maris_vetluga;d_maris_vetluga_adj_khazar;;Tuçi Sarmäslärian
+d_maris_vetluga;d_maris_vetluga_adj_khitan;;Tepe Çirmeslarian
+d_maris_vetluga;kirghiz;;Tepe Çirmeslär
+d_maris_vetluga;d_maris_vetluga_adj_kirghiz;;Tepe Çirmeslärian
+d_maris_vetluga;mongol;;Tepe Çirmeslär
+d_maris_vetluga;d_maris_vetluga_adj_mongol;;Tepe Çirmeslärian
+d_maris_vetluga;moravian;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_moravian;;Gornyye Cheremisian
+d_maris_vetluga;oghuz;;Tepe Çirmislar
+d_maris_vetluga;d_maris_vetluga_adj_oghuz;;Tepe Çirmeslarian
+d_maris_vetluga;pecheneg;;Tepe Çirmislar
+d_maris_vetluga;d_maris_vetluga_adj_pecheneg;;Tepe Çirmeslarian
+d_maris_vetluga;polish;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_polish;;Gornyye Cheremisian
+d_maris_vetluga;pommeranian;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_pommeranian;;Gornyye Cheremisian
+d_maris_vetluga;russian;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_russian;;Gornyye Cheremisian
+d_maris_vetluga;serbian;;Gornyye Cheremis
+d_maris_vetluga;d_maris_vetluga_adj_serbian;;Gornyye Cheremisian
+d_maris_vetluga;turkish;;Tepe Çirmislar
+d_maris_vetluga;d_maris_vetluga_adj_turkish;;Tepe Çirmeslarian
+d_maris_vetluga;turkmen;;Tepe Çirmislar
+d_maris_vetluga;d_maris_vetluga_adj_turkmen;;Tepe Çirmeslarian
+d_maris_vetluga;uyghur;;Tepe Çirmeslär
+d_maris_vetluga;d_maris_vetluga_adj_uyghur;;Tepe Çirmeslärian
+d_meryas;d_meryas;;Meryas
+d_meryas;d_meryas_adj;;Meryan
+d_mordvins_erza;d_mordvins_erza;;Erzyät
+d_mordvins_erza;d_mordvins_erza_adj;;Erzyätan
+d_mordvins_erza;avar;;Irçëlar
+d_mordvins_erza;d_mordvins_erza_adj_avar;;Irçëian
+d_mordvins_erza;bashkir;;Ïrzälar
+d_mordvins_erza;d_mordvins_erza_adj_bashkir;;Ïrzäian
+d_mordvins_erza;bolghar;;Irçëlar
+d_mordvins_erza;d_mordvins_erza_adj_bolghar;;Irçëian
+d_mordvins_erza;cuman;;Ïrzälär
+d_mordvins_erza;d_mordvins_erza_adj_cuman;;Ïrzäian
+d_mordvins_erza;karluk;;Ïrzälar
+d_mordvins_erza;d_mordvins_erza_adj_karluk;;Ïrzäian
+d_mordvins_erza;kasogi;;Irçilar
+d_mordvins_erza;d_mordvins_erza_adj_kasogi;;Irçian
+d_mordvins_erza;khazar;;Irçëlar
+d_mordvins_erza;d_mordvins_erza_adj_khazar;;Irçëian
+d_mordvins_erza;d_mordvins_erza_adj_khitan;;Ïrzäian
+d_mordvins_erza;kirghiz;;Ïrzälär
+d_mordvins_erza;d_mordvins_erza_adj_kirghiz;;Ïrzäian
+d_mordvins_erza;mongol;;Ïrzälär
+d_mordvins_erza;d_mordvins_erza_adj_mongol;;Ïrzäian
+d_mordvins_erza;oghuz;;Irçilar
+d_mordvins_erza;d_mordvins_erza_adj_oghuz;;Irçian
+d_mordvins_erza;pecheneg;;Irçilar
+d_mordvins_erza;d_mordvins_erza_adj_pecheneg;;Irçian
+d_mordvins_erza;turkish;;Irçilar
+d_mordvins_erza;d_mordvins_erza_adj_turkish;;Irçian
+d_mordvins_erza;turkmen;;Irçilar
+d_mordvins_erza;d_mordvins_erza_adj_turkmen;;Irçian
+d_mordvins_erza;uyghur;;Ïrzälär
+d_mordvins_erza;d_mordvins_erza_adj_uyghur;;Ïrzäian
+d_mordvins;d_mordvins;;Mokshet
+d_mordvins;d_mordvins_adj;;Mokshetian
+d_mordvins;afghan;;Tuqshi
+d_mordvins;d_mordvins_adj_afghan;;Tuqshi
+d_mordvins;alan;;Mordia
+d_mordvins;d_mordvins_adj_alan;;Mordian
+d_mordvins;andalusian_arabic;;Tuqshi
+d_mordvins;d_mordvins_adj_andalusian_arabic;;Tuqshi
+d_mordvins;aragonese;;Merdas
+d_mordvins;d_mordvins_adj_aragonese;;Mersdasian
+d_mordvins;arberian;;Mordia
+d_mordvins;d_mordvins_adj_arberian;;Mordian
+d_mordvins;armenian;;Mordia
+d_mordvins;d_mordvins_adj_armenian;;Mordian
+d_mordvins;arpitan;;Merdas
+d_mordvins;d_mordvins_adj_arpitan;;Mersdasian
+d_mordvins;avar;;Tuqšilar
+d_mordvins;d_mordvins_adj_avar;;Tuqshi
+d_mordvins;baloch;;Tuqshi
+d_mordvins;d_mordvins_adj_baloch;;Tuqshi
+d_mordvins;bashkir;;Tuqšilar
+d_mordvins;d_mordvins_adj_bashkir;;Tuqshi
+d_mordvins;basque;;Merdas
+d_mordvins;d_mordvins_adj_basque;;Mersdasian
+d_mordvins;bavarian;;Merdas
+d_mordvins;d_mordvins_adj_bavarian;;Mersdasian
+d_mordvins;bedouin_arabic;;Tuqshi
+d_mordvins;d_mordvins_adj_bedouin_arabic;;Tuqshi
+d_mordvins;bohemian;;Mordva
+d_mordvins;d_mordvins_adj_bohemian;;Mordvan
+d_mordvins;bolghar;;Tuqšilar
+d_mordvins;d_mordvins_adj_bolghar;;Tuqshi
+d_mordvins;bosnian;;Mordva
+d_mordvins;d_mordvins_adj_bosnian;;Mordvan
+d_mordvins;bulgarian;;Mordva
+d_mordvins;d_mordvins_adj_bulgarian;;Mordvan
+d_mordvins;castillan;;Merdas
+d_mordvins;d_mordvins_adj_castillan;;Mersdasian
+d_mordvins;catalan;;Merdas
+d_mordvins;central_italian;;Merdas
+d_mordvins;d_mordvins_adj_central_italian;;Mersdasian
+d_mordvins;corsican;;Merdas
+d_mordvins;d_mordvins_adj_corsican;;Mersdasian
+d_mordvins;croatian;;Mordva
+d_mordvins;d_mordvins_adj_croatian;;Mordvan
+d_mordvins;cuman;;Tuqšilar
+d_mordvins;d_mordvins_adj_cuman;;Tuqshi
+d_mordvins;dalmatian;;Merdas
+d_mordvins;d_mordvins_adj_dalmatian;;Mersdasian
+d_mordvins;danish;;Merdas
+d_mordvins;d_mordvins_adj_danish;;Mersdasian
+d_mordvins;daylamite;;Tuqshi
+d_mordvins;d_mordvins_adj_daylamite;;Tuqshi
+d_mordvins;d_mordvins_adj_dutch;;Mersdasian
+d_mordvins;east_gothic;;Mordens
+d_mordvins;d_mordvins_adj_east_gothic;;Mordensian
+d_mordvins;egyptian_arabic;;Tuqshi
+d_mordvins;d_mordvins_adj_egyptian_arabic;;Tuqshi
+d_mordvins;english;;Merdas
+d_mordvins;d_mordvins_adj_english;;Mersdasian
+d_mordvins;franconian;;Merdas
+d_mordvins;d_mordvins_adj_franconian;;Mersdasian
+d_mordvins;frankish;;Merdas
+d_mordvins;d_mordvins_adj_frankish;;Mersdasian
+d_mordvins;georgian;;Mordia
+d_mordvins;d_mordvins_adj_georgian;;Mordian
+d_mordvins;german;;Merdas
+d_mordvins;d_mordvins_adj_german;;Mersdasian
+d_mordvins;gothic;;Merdas
+d_mordvins;d_mordvins_adj_gothic;;Mersdasian
+d_mordvins;greek;;Mordia
+d_mordvins;d_mordvins_adj_greek;;Mordian
+d_mordvins;d_mordvins_adj_hungarian;;Mersdasian
+d_mordvins;italian;;Merdas
+d_mordvins;d_mordvins_adj_italian;;Mersdasian
+d_mordvins;karantanci;;Mordva
+d_mordvins;d_mordvins_adj_karantanci;;Mordvan
+d_mordvins;karluk;;Tuqšilar
+d_mordvins;d_mordvins_adj_karluk;;Tuqshi
+d_mordvins;kasogi;;Tuqšilar
+d_mordvins;khalaj;;Tuqshi
+d_mordvins;d_mordvins_adj_khalaj;;Tuqshi
+d_mordvins;khazar;;Tuqšilar
+d_mordvins;d_mordvins_adj_khazar;;Tuqshi
+d_mordvins;d_mordvins_adj_khitan;;Tuqshi
+d_mordvins;khwarezmi;;Tuqshi
+d_mordvins;d_mordvins_adj_khwarezmi;;Tuqshi
+d_mordvins;kirghiz;;Tuqšilär
+d_mordvins;d_mordvins_adj_kirghiz;;Tuqshi
+d_mordvins;kurdish;;Tuqshi
+d_mordvins;d_mordvins_adj_kurdish;;Tuqshi
+d_mordvins;langobardisch;;Merdas
+d_mordvins;leonese;;Merdas
+d_mordvins;d_mordvins_adj_leonese;;Mersdasian
+d_mordvins;levantine_arabic;;Tuqshi
+d_mordvins;d_mordvins_adj_levantine_arabic;;Tuqshi
+d_mordvins;ligurian;;Merdas
+d_mordvins;d_mordvins_adj_ligurian;;Mersdasian
+d_mordvins;low_frankish;;Merdas
+d_mordvins;d_mordvins_adj_low_frankish;;Mersdasian
+d_mordvins;low_german;;Merdas
+d_mordvins;d_mordvins_adj_low_german;;Mersdasian
+d_mordvins;low_saxon;;Merdas
+d_mordvins;d_mordvins_adj_low_saxon;;Mersdasian
+d_mordvins;maghreb_arabic;;Tuqshi
+d_mordvins;d_mordvins_adj_maghreb_arabic;;Tuqshi
+d_mordvins;masmuda;;Tuqshi
+d_mordvins;d_mordvins_adj_masmuda;;Tuqshi
+d_mordvins;mongol;;Tuqšilär
+d_mordvins;d_mordvins_adj_mongol;;Tuqshi
+d_mordvins;moravian;;Mordva
+d_mordvins;d_mordvins_adj_moravian;;Mordvan
+d_mordvins;neapolitan;;Merdas
+d_mordvins;d_mordvins_adj_neapolitan;;Mersdasian
+d_mordvins;norman;;Merdas
+d_mordvins;d_mordvins_adj_norman;;Mersdasian
+d_mordvins;d_mordvins_adj_norwegian;;Mersdasian
+d_mordvins;occitan;;Merdas
+d_mordvins;d_mordvins_adj_occitan;;Mersdasian
+d_mordvins;oghuz;;Tuqšilar
+d_mordvins;d_mordvins_adj_oghuz;;Tuqshi
+d_mordvins;pahlavi;;Tuqshi
+d_mordvins;d_mordvins_adj_pahlavi;;Tuqshi
+d_mordvins;pecheneg;;Tuqšilar
+d_mordvins;d_mordvins_adj_pecheneg;;Tuqshi
+d_mordvins;persian;;Tuqshi
+d_mordvins;d_mordvins_adj_persian;;Tuqshi
+d_mordvins;polish;;Mordva
+d_mordvins;d_mordvins_adj_polish;;Mordvan
+d_mordvins;pommeranian;;Mordva
+d_mordvins;d_mordvins_adj_pommeranian;;Mordvan
+d_mordvins;qufs;;Tuqshi
+d_mordvins;d_mordvins_adj_qufs;;Tuqshi
+d_mordvins;romanian;;Merdas
+d_mordvins;d_mordvins_adj_romanian;;Mersdasian
+d_mordvins;d_mordvins_adj_russian;;Mordvan
+d_mordvins;sanhaja;;Tuqshi
+d_mordvins;d_mordvins_adj_sanhaja;;Tuqshi
+d_mordvins;sardinian;;Merdas
+d_mordvins;d_mordvins_adj_sardinian;;Mersdasian
+d_mordvins;serbian;;Mordva
+d_mordvins;d_mordvins_adj_serbian;;Mordvan
+d_mordvins;sicilian;;Merdas
+d_mordvins;d_mordvins_adj_sicilian;;Mersdasian
+d_mordvins;sicilian_arabic;;Tuqshi
+d_mordvins;d_mordvins_adj_sicilian_arabic;;Tuqshi
+d_mordvins;sicilian_greek;;Mordia
+d_mordvins;sogdian;;Tuqshi
+d_mordvins;d_mordvins_adj_sogdian;;Tuqshi
+d_mordvins;southern_italian;;Merdas
+d_mordvins;d_mordvins_adj_southern_italian;;Mersdasian
+d_mordvins;swabian;;Merdas
+d_mordvins;d_mordvins_adj_swabian;;Mersdasian
+d_mordvins;swedish;;Merdas
+d_mordvins;d_mordvins_adj_swedish;;Mersdasian
+d_mordvins;tagelmust;;Tuqshi
+d_mordvins;d_mordvins_adj_tagelmust;;Tuqshi
+d_mordvins;tajik;;Tuqshi
+d_mordvins;d_mordvins_adj_tajik;;Tuqshi
+d_mordvins;thuringian;;Merdas
+d_mordvins;d_mordvins_adj_thuringian;;Mersdasian
+d_mordvins;tuareg;;Tuqshi
+d_mordvins;d_mordvins_adj_tuareg;;Tuqshi
+d_mordvins;turkish;;Tuqšilar
+d_mordvins;d_mordvins_adj_turkish;;Tuqshi
+d_mordvins;turkmen;;Tuqšilar
+d_mordvins;d_mordvins_adj_turkmen;;Tuqshi
+d_mordvins;tuscan;;Merdas
+d_mordvins;d_mordvins_adj_tuscan;;Mersdasian
+d_mordvins;uyghur;;Tuqšilar
+d_mordvins;d_mordvins_adj_uyghur;;Tuqshi
+d_mordvins;venetian;;Merdas
+d_mordvins;d_mordvins_adj_venetian;;Mersdasian
+d_mordvins;zanata;;Tuqshi
+d_mordvins;d_mordvins_adj_zanata;;Tuqshi
+d_burtas;d_burtas;;Burtas
+d_burtas;d_burtas_adj;;Burtas
+d_burtas;afghan;;Burdas
+d_burtas;d_burtas_adj_afghan;;Burdas
+d_burtas;andalusian_arabic;;Burdas
+d_burtas;d_burtas_adj_andalusian_arabic;;Burdas
+d_burtas;avar;;Bortaslar
+d_burtas;d_burtas_adj_avar;;Bortas
+d_burtas;baloch;;Burdas
+d_burtas;d_burtas_adj_baloch;;Burdas
+d_burtas;bashkir;;Bortaslar
+d_burtas;d_burtas_adj_bashkir;;Bortas
+d_burtas;bedouin_arabic;;Burdas
+d_burtas;d_burtas_adj_bedouin_arabic;;Burdas
+d_burtas;bohemian;;Burtasy
+d_burtas;d_burtas_adj_bohemian;;Burtasy
+d_burtas;bolghar;;Bortaslar
+d_burtas;d_burtas_adj_bolghar;;Bortas
+d_burtas;bosnian;;Burtasy
+d_burtas;d_burtas_adj_bosnian;;Burtasy
+d_burtas;bulgarian;;Burtasy
+d_burtas;d_burtas_adj_bulgarian;;Burtasy
+d_burtas;croatian;;Burtasy
+d_burtas;d_burtas_adj_croatian;;Burtasy
+d_burtas;cuman;;Bortaslär
+d_burtas;d_burtas_adj_cuman;;Bortas
+d_burtas;daylamite;;Burdas
+d_burtas;d_burtas_adj_daylamite;;Burdas
+d_burtas;egyptian_arabic;;Burdas
+d_burtas;d_burtas_adj_egyptian_arabic;;Burdas
+d_burtas;karantanci;;Burtasy
+d_burtas;d_burtas_adj_karantanci;;Burtasy
+d_burtas;karluk;;Bortaslar
+d_burtas;d_burtas_adj_karluk;;Bortas
+d_burtas;kasogi;;Bortaslar
+d_burtas;d_burtas_adj_kasogi;;Bortas
+d_burtas;khalaj;;Burdas
+d_burtas;d_burtas_adj_khalaj;;Burdas
+d_burtas;khazar;;Bortaslar
+d_burtas;d_burtas_adj_khazar;;Bortas
+d_burtas;d_burtas_adj_khitan;;Bortas
+d_burtas;khwarezmi;;Burdas
+d_burtas;d_burtas_adj_khwarezmi;;Burdas
+d_burtas;kirghiz;;Bortaslär
+d_burtas;d_burtas_adj_kirghiz;;Bortas
+d_burtas;kurdish;;Burdas
+d_burtas;d_burtas_adj_kurdish;;Burdas
+d_burtas;levantine_arabic;;Burdas
+d_burtas;d_burtas_adj_levantine_arabic;;Burdas
+d_burtas;maghreb_arabic;;Burdas
+d_burtas;d_burtas_adj_maghreb_arabic;;Burdas
+d_burtas;masmuda;;Burdas
+d_burtas;d_burtas_adj_masmuda;;Burdas
+d_burtas;mongol;;Bortaslär
+d_burtas;d_burtas_adj_mongol;;Bortas
+d_burtas;moravian;;Burtasy
+d_burtas;d_burtas_adj_moravian;;Burtasy
+d_burtas;oghuz;;Bortaslar
+d_burtas;d_burtas_adj_oghuz;;Bortas
+d_burtas;pahlavi;;Burdas
+d_burtas;d_burtas_adj_pahlavi;;Burdas
+d_burtas;pecheneg;;Bortaslar
+d_burtas;d_burtas_adj_pecheneg;;Bortas
+d_burtas;persian;;Burdas
+d_burtas;d_burtas_adj_persian;;Burdas
+d_burtas;polish;;Burtasy
+d_burtas;d_burtas_adj_polish;;Burtasy
+d_burtas;pommeranian;;Burtasy
+d_burtas;d_burtas_adj_pommeranian;;Burtasy
+d_burtas;qufs;;Burdas
+d_burtas;d_burtas_adj_qufs;;Burdas
+d_burtas;russian;;Burtasy
+d_burtas;d_burtas_adj_russian;;Burtasy
+d_burtas;sanhaja;;Burdas
+d_burtas;d_burtas_adj_sanhaja;;Burdas
+d_burtas;serbian;;Burtasy
+d_burtas;d_burtas_adj_serbian;;Burtasy
+d_burtas;sicilian_arabic;;Burdas
+d_burtas;d_burtas_adj_sicilian_arabic;;Burdas
+d_burtas;sogdian;;Burdas
+d_burtas;d_burtas_adj_sogdian;;Burdas
+d_burtas;tagelmust;;Burdas
+d_burtas;d_burtas_adj_tagelmust;;Burdas
+d_burtas;tajik;;Burdas
+d_burtas;d_burtas_adj_tajik;;Burdas
+d_burtas;tuareg;;Burdas
+d_burtas;d_burtas_adj_tuareg;;Burdas
+d_burtas;turkish;;Bortaslar
+d_burtas;d_burtas_adj_turkish;;Bortas
+d_burtas;turkmen;;Bortaslar
+d_burtas;d_burtas_adj_turkmen;;Bortas
+d_burtas;uyghur;;Bortaslar
+d_burtas;d_burtas_adj_uyghur;;Bortas
+d_burtas;zanata;;Burdas
+d_burtas;d_burtas_adj_zanata;;Burdas
+d_muromians;d_muromians;;Muromians
+d_muromians;d_muromians_adj;;Muromian
+d_lyydians;d_lyydians;;Lüüdiläižed
+d_lyydians;d_lyydians_adj;;Lüüdiläižed
+d_lyydians;bohemian;;Ljudiny
+d_lyydians;d_lyydians_adj_bohemian;;Ljudinyan
+d_lyydians;bosnian;;Ljudiny
+d_lyydians;d_lyydians_adj_bosnian;;Ljudinyan
+d_lyydians;bulgarian;;Ljudiny
+d_lyydians;d_lyydians_adj_bulgarian;;Ljudinyan
+d_lyydians;croatian;;Ljudiny
+d_lyydians;d_lyydians_adj_croatian;;Ljudinyan
+d_lyydians;karantanci;;Ljudiny
+d_lyydians;d_lyydians_adj_karantanci;;Ljudinyan
+d_lyydians;moravian;;Ljudiny
+d_lyydians;d_lyydians_adj_moravian;;Ljudinyan
+d_lyydians;polish;;Ljudiny
+d_lyydians;d_lyydians_adj_polish;;Ljudinyan
+d_lyydians;pommeranian;;Ljudiny
+d_lyydians;d_lyydians_adj_pommeranian;;Ljudinyan
+d_lyydians;russian;;Ljudiny
+d_lyydians;d_lyydians_adj_russian;;Ljudinyan
+d_lyydians;serbian;;Ljudiny
+d_lyydians;d_lyydians_adj_serbian;;Ljudinyan
+d_chudes;d_chudes;;Vepsläižed
+d_chudes;d_chudes_adj;;Vepsläižedian
+d_chudes;bohemian;;Chud'
+d_chudes;d_chudes_adj_bohemian;;Chud'ian
+d_chudes;bosnian;;Chud'
+d_chudes;d_chudes_adj_bosnian;;Chud'ian
+d_chudes;bulgarian;;Chud'
+d_chudes;d_chudes_adj_bulgarian;;Chud'ian
+d_chudes;croatian;;Chud'
+d_chudes;d_chudes_adj_croatian;;Chud'ian
+d_chudes;karantanci;;Chud'
+d_chudes;d_chudes_adj_karantanci;;Chud'ian
+d_chudes;lappish;;Etelätšuudilaš
+d_chudes;d_chudes_adj_lappish;;Etelätšuudilaš
+d_chudes;moravian;;Chud'
+d_chudes;d_chudes_adj_moravian;;Chud'ian
+d_chudes;polish;;Chud'
+d_chudes;d_chudes_adj_polish;;Chud'ian
+d_chudes;pommeranian;;Chud'
+d_chudes;d_chudes_adj_pommeranian;;Chud'ian
+d_chudes;russian;;Chud'
+d_chudes;d_chudes_adj_russian;;Chud'ian
+d_chudes;serbian;;Chud'
+d_chudes;d_chudes_adj_serbian;;Chud'ian
+d_toimians;d_toimians;;Toimiläižed
+d_toimians;d_toimians_adj;;Toimiläižed
+d_toimians;d_toimians_adj_bohemian;;Toimitsian
+d_toimians;d_toimians_adj_bosnian;;Toimitsian
+d_toimians;d_toimians_adj_bulgarian;;Toimitsian
+d_toimians;d_toimians_adj_croatian;;Toimitsian
+d_toimians;d_toimians_adj_karantanci;;Toimitsian
+d_toimians;d_toimians_adj_moravian;;Toimitsian
+d_toimians;d_toimians_adj_polish;;Toimitsian
+d_toimians;d_toimians_adj_pommeranian;;Toimitsian
+d_toimians;d_toimians_adj_russian;;Toimitsian
+d_toimians;d_toimians_adj_serbian;;Toimitsian
+d_bjarmians;d_bjarmians;;Bjarmiläižed
+d_bjarmians;d_bjarmians_adj;;Bjarmiläižed
+d_bjarmians;anglonorse;;Bjarmir
+d_bjarmians;d_bjarmians_adj_anglonorse;;Bjarmir
+d_bjarmians;bohemian;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_bohemian;;Zavoloch'e Chud'ian
+d_bjarmians;bosnian;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_bosnian;;Zavoloch'e Chud'ian
+d_bjarmians;bulgarian;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_bulgarian;;Zavoloch'e Chud'ian
+d_bjarmians;croatian;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_croatian;;Zavoloch'e Chud'ian
+d_bjarmians;danish;;Bjarmir
+d_bjarmians;d_bjarmians_adj_danish;;Bjarmir
+d_bjarmians;gothic;;Bjarmir
+d_bjarmians;d_bjarmians_adj_gothic;;Bjarmir
+d_bjarmians;icelandic;;Bjarmir
+d_bjarmians;d_bjarmians_adj_icelandic;;Bjarmir
+d_bjarmians;karantanci;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_karantanci;;Zavoloch'e Chud'ian
+d_bjarmians;lappish;;Norjantšuudilaš
+d_bjarmians;d_bjarmians_adj_lappish;;Norjantšuudilaš
+d_bjarmians;moravian;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_moravian;;Zavoloch'e Chud'ian
+d_bjarmians;norse;;Bjarmir
+d_bjarmians;d_bjarmians_adj_norse;;Bjarmir
+d_bjarmians;norsegaelic;;Bjarmir
+d_bjarmians;d_bjarmians_adj_norsegaelic;;Bjarmir
+d_bjarmians;norwegian;;Bjarmir
+d_bjarmians;d_bjarmians_adj_norwegian;;Bjarmir
+d_bjarmians;polish;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_polish;;Zavoloch'e Chud'ian
+d_bjarmians;pommeranian;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_pommeranian;;Zavoloch'e Chud'ian
+d_bjarmians;roman;;Biarmones
+d_bjarmians;d_bjarmians_adj_roman;;Biarmones
+d_bjarmians;russian;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_russian;;Zavoloch'e Chud'ian
+d_bjarmians;saxon;;Beormas
+d_bjarmians;d_bjarmians_adj_saxon;;Beorm
+d_bjarmians;serbian;;Zavoloch'e Chud'
+d_bjarmians;d_bjarmians_adj_serbian;;Zavoloch'e Chud'ian
+d_bjarmians;swedish;;Bjarmir
+d_bjarmians;d_bjarmians_adj_swedish;;Bjarmir
+d_livgians;d_livgians;;Livgilaižed
+d_livgians;d_livgians_adj;;Livgilaižedan
+d_karelians;d_karelians;;Karjalaižed
+d_karelians;d_karelians_adj;;Karjalaižed
+d_karelians;d_karelians_adj_bohemian;;Karely
+d_karelians;d_karelians_adj_bosnian;;Karely
+d_karelians;d_karelians_adj_bulgarian;;Karely
+d_karelians;d_karelians_adj_croatian;;Karely
+d_karelians;d_karelians_adj_karantanci;;Karely
+d_karelians;d_karelians_adj_moravian;;Karely
+d_karelians;d_karelians_adj_pommeranian;;Karely
+d_karelians;d_karelians_adj_russian;;Karely
+d_karelians;d_karelians_adj_serbian;;Karely
+d_horse_karelians;d_horse_karelians;;Tamma-Karjalaižed
+d_horse_karelians;d_horse_karelians_adj;;Tamma-Karjalaižed
+d_horse_karelians;d_horse_karelians_adj_bohemian;;Kobylitskie Karely
+d_horse_karelians;d_horse_karelians_adj_bosnian;;Kobylitskie Karely
+d_horse_karelians;d_horse_karelians_adj_bulgarian;;Kobylitskie Karely
+d_horse_karelians;d_horse_karelians_adj_croatian;;Kobylitskie Karely
+d_horse_karelians;d_horse_karelians_adj_karantanci;;Kobylitskie Karely
+d_horse_karelians;d_horse_karelians_adj_moravian;;Kobylitskie Karely
+d_horse_karelians;d_horse_karelians_adj_pommeranian;;Kobylitskie Karely
+d_horse_karelians;d_horse_karelians_adj_russian;;Kobylitskie Karely
+d_horse_karelians;d_horse_karelians_adj_serbian;;Kobylitskie Karely
+d_estonia;d_estonia;;Eestlased
+d_estonia;d_estonia_adj;;Eestonian
+d_ugandians;d_ugandians;;Ugandilased
+d_ugandians;d_ugandians_adj;;Ugandian
+d_oseelians;d_oseelians;;Saarlased
+d_oseelians;d_oseelians_adj;;
+d_rotalians;d_rotalians;;Läänelased
+d_rotalians;d_rotalians_adj;;Läänemaaian
+d_vironians;d_vironians;;Virulased
+d_vironians;d_vironians_adj;;Virulanian
+d_sakalians;d_sakalians;;Sakali
+d_sakalians;d_sakalians_adj;;Sakalu
+d_vanemas;d_vanemas;;Vanemi
+d_vanemas;d_vanemas_adj;;Vanemu
+d_sami;d_sami;;Sami
+d_sami;d_sami_adj;;Sami
+d_sami;bohemian;;Lop'
+d_sami;d_sami_adj_bohemian;;Lop'ian
+d_sami;bosnian;;Lop'
+d_sami;d_sami_adj_bosnian;;Lop'ian
+d_sami;bulgarian;;Lop'
+d_sami;d_sami_adj_bulgarian;;Lop'ian
+d_sami;croatian;;Lop'
+d_sami;d_sami_adj_croatian;;Lop'ian
+d_sami;karantanci;;Lop'
+d_sami;d_sami_adj_karantanci;;Lop'ian
+d_sami;moravian;;Lop'
+d_sami;d_sami_adj_moravian;;Lop'ian
+d_sami;polish;;Lop'
+d_sami;d_sami_adj_polish;;Lop'ian
+d_sami;pommeranian;;Lop'
+d_sami;d_sami_adj_pommeranian;;Lop'ian
+d_sami;russian;;Lop'
+d_sami;d_sami_adj_russian;;Lop'ian
+d_sami;serbian;;Lop'
+d_sami;d_sami_adj_serbian;;Lop'ian
+d_satakunta;d_satakunta;;Satakuntans
+d_satakunta;d_satakunta_adj;;Satakuntan
+d_tavasts;d_tavasts;;Hämäläiset
+d_tavasts;d_tavasts_adj;;Hämäläiset
+d_tavasts;bohemian;;Jem
+d_tavasts;d_tavasts_adj_bohemian;;Jemian
+d_tavasts;bosnian;;Jem
+d_tavasts;d_tavasts_adj_bosnian;;Jemian
+d_tavasts;bulgarian;;Jem
+d_tavasts;d_tavasts_adj_bulgarian;;Jemian
+d_tavasts;croatian;;Jem
+d_tavasts;d_tavasts_adj_croatian;;Jemian
+d_tavasts;karantanci;;Jem
+d_tavasts;d_tavasts_adj_karantanci;;Jemian
+d_tavasts;moravian;;Jem
+d_tavasts;d_tavasts_adj_moravian;;Jemian
+d_tavasts;polish;;Jem
+d_tavasts;pommeranian;;Jem
+d_tavasts;d_tavasts_adj_pommeranian;;Jemian
+d_tavasts;russian;;Jem
+d_tavasts;d_tavasts_adj_russian;;Jemian
+d_tavasts;serbian;;Jem
+d_tavasts;d_tavasts_adj_serbian;;Jemian
+d_suomi_finns;d_suomi_finns;;Suomalaiset
+d_suomi_finns;d_suomi_finns_adj;;Suomalaiset
+d_suomi_finns;bohemian;;Sum
+d_suomi_finns;d_suomi_finns_adj_bohemian;;Sumian
+d_suomi_finns;bosnian;;Sum
+d_suomi_finns;d_suomi_finns_adj_bosnian;;Sumian
+d_suomi_finns;bulgarian;;Sum
+d_suomi_finns;d_suomi_finns_adj_bulgarian;;Sumian
+d_suomi_finns;croatian;;Sum
+d_suomi_finns;d_suomi_finns_adj_croatian;;Sumian
+d_suomi_finns;karantanci;;Sum
+d_suomi_finns;d_suomi_finns_adj_karantanci;;Sumian
+d_suomi_finns;moravian;;Sum
+d_suomi_finns;d_suomi_finns_adj_moravian;;Sumian
+d_suomi_finns;polish;;Sum
+d_suomi_finns;pommeranian;;Sum
+d_suomi_finns;d_suomi_finns_adj_pommeranian;;Sumian
+d_suomi_finns;russian;;Sum
+d_suomi_finns;d_suomi_finns_adj_russian;;Sumian
+d_suomi_finns;serbian;;Sum
+d_suomi_finns;d_suomi_finns_adj_serbian;;Sumian
+d_savonians;d_savonians;;Savolaiset
+d_savonians;d_savonians_adj;;Savolaiset
+d_savonians;bohemian;;Savaki
+d_savonians;d_savonians_adj_bohemian;;Savakian
+d_savonians;bosnian;;Savaki
+d_savonians;d_savonians_adj_bosnian;;Savakian
+d_savonians;bulgarian;;Savaki
+d_savonians;d_savonians_adj_bulgarian;;Savakian
+d_savonians;croatian;;Savaki
+d_savonians;d_savonians_adj_croatian;;Savakian
+d_savonians;karantanci;;Savaki
+d_savonians;d_savonians_adj_karantanci;;Savakian
+d_savonians;moravian;;Savaki
+d_savonians;d_savonians_adj_moravian;;Savakian
+d_savonians;polish;;Savaki
+d_savonians;pommeranian;;Savaki
+d_savonians;d_savonians_adj_pommeranian;;Savakian
+d_savonians;russian;;Savaki
+d_savonians;d_savonians_adj_russian;;Savakian
+d_savonians;serbian;;Savaki
+d_savonians;d_savonians_adj_serbian;;Savakian
+d_votes;d_votes;;Vadjalased
+d_votes;d_votes_adj;;Vadjalasedan
+d_votes;bavarian;;Woten
+d_votes;d_votes_adj_bavarian;;Wotian
+d_votes;bohemian;;Vod'
+d_votes;d_votes_adj_bohemian;;Vod'ian
+d_votes;bosnian;;Vod'
+d_votes;d_votes_adj_bosnian;;Vod'ian
+d_votes;bulgarian;;Vod'
+d_votes;d_votes_adj_bulgarian;;Vod'ian
+d_votes;croatian;;Vod'
+d_votes;d_votes_adj_croatian;;Vod'ian
+d_votes;dutch;;Woten
+d_votes;d_votes_adj_dutch;;Wotian
+d_votes;franconian;;Woten
+d_votes;d_votes_adj_franconian;;Wotian
+d_votes;german;;Woten
+d_votes;d_votes_adj_german;;Wotian
+d_votes;karantanci;;Vod'
+d_votes;d_votes_adj_karantanci;;Vod'ian
+d_votes;lettigallish;;Krievini
+d_votes;lithuanian;;Krievini
+d_votes;low_frankish;;Woten
+d_votes;d_votes_adj_low_frankish;;Wotian
+d_votes;low_german;;Woten
+d_votes;d_votes_adj_low_german;;Wotian
+d_votes;low_saxon;;Woten
+d_votes;d_votes_adj_low_saxon;;Wotian
+d_votes;moravian;;Vod'
+d_votes;d_votes_adj_moravian;;Vod'ian
+d_votes;polish;;Vod'
+d_votes;pommeranian;;Vod'
+d_votes;d_votes_adj_pommeranian;;Vod'ian
+d_votes;prussian;;Krievini
+d_votes;russian;;Vod'
+d_votes;d_votes_adj_russian;;Vod'ian
+d_votes;serbian;;Vod'
+d_votes;d_votes_adj_serbian;;Vod'ian
+d_votes;swabian;;Woten
+d_votes;d_votes_adj_swabian;;Wotian
+d_votes;thuringian;;Woten
+d_votes;d_votes_adj_thuringian;;Wotian
+d_ingrians;d_ingrians;;Inkerilaižed
+d_ingrians;d_ingrians_adj;;Inkerilaižed
+d_ingrians;bohemian;;Ižory
+d_ingrians;d_ingrians_adj_bohemian;;Ižoryian
+d_ingrians;bosnian;;Ižory
+d_ingrians;d_ingrians_adj_bosnian;;Ižoryian
+d_ingrians;bulgarian;;Ižory
+d_ingrians;d_ingrians_adj_bulgarian;;Ižoryian
+d_ingrians;croatian;;Ižory
+d_ingrians;d_ingrians_adj_croatian;;Ižoryian
+d_ingrians;karantanci;;Ižory
+d_ingrians;d_ingrians_adj_karantanci;;Ižoryian
+d_ingrians;lettigallish;;Ižorai
+d_ingrians;lithuanian;;Ižorai
+d_ingrians;moravian;;Ižory
+d_ingrians;d_ingrians_adj_moravian;;Ižoryian
+d_ingrians;polish;;Ižory
+d_ingrians;pommeranian;;Ižory
+d_ingrians;d_ingrians_adj_pommeranian;;Ižoryian
+d_ingrians;prussian;;Ižorai
+d_ingrians;russian;;Ižory
+d_ingrians;d_ingrians_adj_russian;;Ižoryian
+d_ingrians;serbian;;Ižory
+d_ingrians;d_ingrians_adj_serbian;;Ižoryian
+d_kylfings;d_kylfings;;Kylfingilaš
+d_kylfings;d_kylfings_adj;;Kylfingilaš
+d_kylfings;alan;;Koulpingoi
+d_kylfings;anglonorse;;Kylfingar
+d_kylfings;d_kylfings_adj_anglonorse;;Kylfingarian
+d_kylfings;arberian;;Koulpingoi
+d_kylfings;d_kylfings_adj_arberian;;Koulpingoian
+d_kylfings;armenian;;Koulpingoi
+d_kylfings;d_kylfings_adj_armenian;;Koulpingoian
+d_kylfings;bohemian;;Kolbiagi
+d_kylfings;d_kylfings_adj_bohemian;;Kolbiagian
+d_kylfings;bosnian;;Kolbiagi
+d_kylfings;d_kylfings_adj_bosnian;;Kolbiagian
+d_kylfings;bulgarian;;Kolbiagi
+d_kylfings;d_kylfings_adj_bulgarian;;Kolbiagian
+d_kylfings;croatian;;Kolbiagi
+d_kylfings;d_kylfings_adj_croatian;;Kolbiagian
+d_kylfings;danish;;Kylfingar
+d_kylfings;d_kylfings_adj_danish;;Kylfingarian
+d_kylfings;east_gothic;;Koulpingoi
+d_kylfings;d_kylfings_adj_east_gothic;;Koulpingoian
+d_kylfings;georgian;;Koulpingoi
+d_kylfings;d_kylfings_adj_georgian;;Koulpingoian
+d_kylfings;gothic;;Kylfingar
+d_kylfings;d_kylfings_adj_gothic;;Kylfingarian
+d_kylfings;greek;;Koulpingoi
+d_kylfings;d_kylfings_adj_greek;;Koulpingoian
+d_kylfings;icelandic;;Kylfingar
+d_kylfings;d_kylfings_adj_icelandic;;Kylfingarian
+d_kylfings;karantanci;;Kolbiagi
+d_kylfings;d_kylfings_adj_karantanci;;Kolbiagian
+d_kylfings;moravian;;Kolbiagi
+d_kylfings;d_kylfings_adj_moravian;;Kolbiagian
+d_kylfings;norse;;Kylfingar
+d_kylfings;d_kylfings_adj_norse;;Kylfingarian
+d_kylfings;norsegaelic;;Kylfingar
+d_kylfings;d_kylfings_adj_norsegaelic;;Kylfingarian
+d_kylfings;norwegian;;Kylfingar
+d_kylfings;d_kylfings_adj_norwegian;;Kylfingarian
+d_kylfings;polish;;Kolbiagi
+d_kylfings;pommeranian;;Kolbiagi
+d_kylfings;d_kylfings_adj_pommeranian;;Kolbiagian
+d_kylfings;russian;;Kolbiagi
+d_kylfings;d_kylfings_adj_russian;;Kolbiagian
+d_kylfings;serbian;;Kolbiagi
+d_kylfings;d_kylfings_adj_serbian;;Kolbiagian
+d_kylfings;sicilian_greek;;Koulpingoi
+d_kylfings;d_kylfings_adj_sicilian_greek;;Koulpingoian
+d_kylfings;swedish;;Kylfingar
+d_kylfings;d_kylfings_adj_swedish;;Kylfingarian
+d_kvens;d_kvens;;Kveanatlaš
+d_kvens;d_kvens_adj;;Kveanatlaš
+d_kvens;d_kvens_adj_anglonorse;;Kvænir
+d_kvens;d_kvens_adj_danish;;Kvænir
+d_kvens;d_kvens_adj_gothic;;Kvænir
+d_kvens;d_kvens_adj_icelandic;;Kvænir
+d_kvens;d_kvens_adj_norse;;Kvænir
+d_kvens;d_kvens_adj_norsegaelic;;Kvænir
+d_kvens;d_kvens_adj_norwegian;;Kvænir
+d_kvens;d_kvens_adj_saxon;;Cwenas
+d_kvens;d_kvens_adj_swedish;;Kvænir
+d_kvens_birkarls;d_kvens_birkarls;;Bircharlaboa
+d_kvens_birkarls;d_kvens_birkarls_adj;;Bircharlaboa
+d_samoyeds;d_samoyeds;;Sikhirti
+d_samoyeds;d_samoyeds_adj;;Sikhirtian
+d_baloch;d_baloch;;Baloch
+d_baloch;d_baloch_adj;;Balochian
+k_hilal;k_hilal;;Hilal
+k_hilal;k_hilal_adj;;Hilalian
+k_saxonengland;k_saxonengland;;Englaland
+k_saxonengland;k_saxonengland_adj;;Ænglisc
+d_swabia;d_swabia;;Schwaben
+d_swabia;d_swabia_adj;;Schwäbische
+d_lower_lorraine;d_lower_lorraine;;Niederlothringen
+d_lower_lorraine;d_lower_lorraine_adj;;Niederlothringische
+d_bavaria;d_bavaria;;Baiern
+d_bavaria;d_bavaria_adj;;Bairische
+d_saxony;d_saxony;;Sachsen
+d_saxony;d_saxony_adj;;Sächsische
+d_franconia;d_franconia;;Franken
+d_franconia;d_franconia_adj;;Fränkische
+d_knights_templar;d_knights_templar;;Knights Templar
+d_knights_templar;d_knights_templar_adj;;Templar
+d_knights_templar;foa;;GRANDMASTER_FOA
+d_knights_templar;title;;GRANDMASTER
+d_teutonic_order;d_teutonic_order;;Teutonic Order
+d_teutonic_order;d_teutonic_order_adj;;Teutonic
+d_teutonic_order;foa;;HOCHMEISTER_FOA
+d_teutonic_order;title;;HOCHMEISTER
+d_livonian_brothers_of_the_sword;d_livonian_brothers_of_the_sword;;Schwertbrüderorden
+d_livonian_brothers_of_the_sword;d_livonian_brothers_of_the_sword_adj;;Schwertbrüderische
+d_livonian_brothers_of_the_sword;foa;;HOCHMEISTER_FOA
+d_livonian_brothers_of_the_sword;title;;HOCHMEISTER
+d_knights_hospitaler;d_knights_hospitaler;;Knights Hospitaller
+d_knights_hospitaler;d_knights_hospitaler_adj;;Hospitaller
+d_knights_hospitaler;foa;;GRANDMASTER_FOA
+d_knights_hospitaler;title;;GRANDMASTER
+d_hashshashin;d_hashshashin;;Hashshashin
+d_hashshashin;d_hashshashin_adj;;Hashshashin
+d_hashshashin;foa;;GRANDHEADMASTER_FOA
+d_hashshashin;title;;GRANDHEADMASTER
+d_bektashi;d_bektashi;;Bektashi Order
+d_bektashi;d_bektashi_adj;;Bektashi
+d_bektashi;foa;;GRANDHEADMASTER_FOA
+d_bektashi;title;;DEDEBABA
+d_haruriyyah;d_haruriyyah;;Haruriyyah
+d_haruriyyah;d_haruriyyah_adj;;Haruriyyah
+d_haruriyyah;foa;;GRANDHEADMASTER_FOA
+d_haruriyyah;title;;DEDEBABA
+d_jomsvikings;d_jomsvikings;;Jomsvikings
+d_jomsvikings;d_jomsvikings_adj;;Jomsviking
+d_jomsvikings;foa;;WARCHIEF_FOA
+d_jomsvikings;title;;WARCHIEF
+d_immortals;d_immortals;;Immortals
+d_immortals;d_immortals_adj;;Immortal
+d_immortals;foa;;GRANDMASTER_FOA
+d_immortals;title;;GRANDMASTER
+d_zealots;d_zealots;;Zealots
+d_zealots;d_zealots_adj;;Zealot
+d_zealots;foa;;GRANDMASTER_FOA
+d_zealots;title;;GRANDMASTER
+d_holy_sepulchre;d_holy_sepulchre;;Brotherhood of the Holy Sepulchre
+d_holy_sepulchre;d_holy_sepulchre_adj;;Brotherhood
+d_holy_sepulchre;foa;;GRANDMASTER_FOA
+d_holy_sepulchre;title;;GRANDMASTER
+d_saint_anthony;d_saint_anthony;;Order of Saint Anthony
+d_saint_anthony;d_saint_anthony_adj;;Saint Anthony
+d_saint_anthony;foa;;GRANDMASTER_FOA
+d_saint_anthony;title;;GRANDMASTER
+d_saint_addai;d_saint_addai;;Order of Saint Addai
+d_saint_addai;d_saint_addai_adj;;Addaian
+d_saint_addai;foa;;GRANDMASTER_FOA
+d_saint_addai;title;;GRANDMASTER
+d_sky_lords;d_sky_lords;;Lords of the Sky
+d_sky_lords;d_sky_lords_adj;;Sky Lord
+d_sky_lords;foa;;WARCHIEF_FOA
+d_sky_lords;title;;WARCHIEF
+d_spirit_guardians;d_spirit_guardians;;Spirit Guardians
+d_spirit_guardians;d_spirit_guardians_adj;;Guardian
+d_spirit_guardians;foa;;WARCHIEF_FOA
+d_spirit_guardians;title;;WARCHIEF
+d_warriors_perun;d_warriors_perun;;Warriors of Perun
+d_warriors_perun;d_warriors_perun_adj;;Perun
+d_warriors_perun;foa;;WARCHIEF_FOA
+d_warriors_perun;title;;WARCHIEF
+d_chosen_perkunas;d_chosen_perkunas;;Chosen of Perkunas
+d_chosen_perkunas;d_chosen_perkunas_adj;;Perkunas
+d_chosen_perkunas;foa;;WARCHIEF_FOA
+d_chosen_perkunas;title;;WARCHIEF
+d_sons_kaleva;d_sons_kaleva;;Sons of Kaleva
+d_sons_kaleva;d_sons_kaleva_adj;;Kaleva
+d_sons_kaleva;foa;;WARCHIEF_FOA
+d_sons_kaleva;title;;WARCHIEF
+d_huitzilopochtli;d_huitzilopochtli;;Cult of Huitzilopochtli
+d_huitzilopochtli;d_huitzilopochtli_adj;;Huitzilopochtli
+d_huitzilopochtli;foa;;GRANDMASTER_FOA
+d_huitzilopochtli;title;;HIGHPRIEST
+d_knights_santiago;d_knights_santiago;;Knights of Santiago
+d_knights_santiago;d_knights_santiago_adj;;Santiago
+d_knights_santiago;foa;;GRANDMASTER_FOA
+d_knights_santiago;title;;GRANDMASTER
+d_knights_calatrava;d_knights_calatrava;;Knights of Calatrava
+d_knights_calatrava;d_knights_calatrava_adj;;Calatrava
+d_knights_calatrava;foa;;GRANDMASTER_FOA
+d_knights_calatrava;title;;GRANDMASTER
+d_followers_arjuna;d_followers_arjuna;;Followers of Arjuna
+d_followers_arjuna;d_followers_arjuna_adj;;Arjuna
+d_followers_arjuna;foa;;GRANDMASTER_FOA
+d_followers_arjuna;title;;GRANDMASTER
+d_ashokas_chosen;d_ashokas_chosen;;Chosen of Ashoka
+d_ashokas_chosen;d_ashokas_chosen_adj;;Ashoka
+d_ashokas_chosen;foa;;GRANDMASTER_FOA
+d_ashokas_chosen;title;;GRANDMASTER
+d_bulls_rishabha;d_bulls_rishabha;;Bulls of Rishabha
+d_bulls_rishabha;d_bulls_rishabha_adj;;Rishabha
+d_bulls_rishabha;foa;;GRANDMASTER_FOA
+d_bulls_rishabha;title;;GRANDMASTER
+d_zun_warriors;d_zun_warriors;;Knights of the Sun
+d_zun_warriors;d_zun_warriors_adj;;Zun
+d_zun_warriors;foa;;GRANDMASTER_FOA
+d_zun_warriors;title;;GRANDMASTER
+d_sunni_turkic_company;d_sunni_turkic_company;;Turkmen Company
+d_sunni_turkic_company;d_sunni_turkic_company_adj;;Turkmen
+d_sunni_turkic_company;foa;;CAPTAIN_FOA
+d_sunni_turkic_company;title;;CAPTAIN
+d_sunni_cuman_company;d_sunni_cuman_company;;Khazar Company
+d_sunni_cuman_company;d_sunni_cuman_company_adj;;Khazar
+d_sunni_cuman_company;foa;;CAPTAIN_FOA
+d_sunni_cuman_company;title;;CAPTAIN
+d_sunni_berber_company;d_sunni_berber_company;;Berber Company
+d_sunni_berber_company;d_sunni_berber_company_adj;;Berber
+d_sunni_berber_company;foa;;CAPTAIN_FOA
+d_sunni_berber_company;title;;CAPTAIN
+d_sunni_bedouin_company;d_sunni_bedouin_company;;Arab Company
+d_sunni_bedouin_company;d_sunni_bedouin_company_adj;;Arab
+d_sunni_bedouin_company;foa;;CAPTAIN_FOA
+d_sunni_bedouin_company;title;;CAPTAIN
+d_shiite_turkic_company;d_shiite_turkic_company;;Turkoman Company
+d_shiite_turkic_company;d_shiite_turkic_company_adj;;Turkoman
+d_shiite_turkic_company;foa;;CAPTAIN_FOA
+d_shiite_turkic_company;title;;CAPTAIN
+d_shiite_cuman_company;d_shiite_cuman_company;;Steppe Company
+d_shiite_cuman_company;d_shiite_cuman_company_adj;;Steppe
+d_shiite_cuman_company;foa;;CAPTAIN_FOA
+d_shiite_cuman_company;title;;CAPTAIN
+d_shiite_berber_company;d_shiite_berber_company;;Tuareg Company
+d_shiite_berber_company;d_shiite_berber_company_adj;;Berber
+d_shiite_berber_company;foa;;CAPTAIN_FOA
+d_shiite_berber_company;title;;CAPTAIN
+d_shiite_bedouin_company;d_shiite_bedouin_company;;Bedouin Company
+d_shiite_bedouin_company;d_shiite_bedouin_company_adj;;Bedouin
+d_shiite_bedouin_company;foa;;CAPTAIN_FOA
+d_shiite_bedouin_company;title;;CAPTAIN
+d_white_company;d_white_company;;White Company
+d_white_company;d_white_company_adj;;Mercenary
+d_white_company;foa;;CAPTAIN_FOA
+d_white_company;title;;CAPTAIN
+d_great_company;d_great_company;;Great Company
+d_great_company;d_great_company_adj;;Mercenary
+d_great_company;foa;;CAPTAIN_FOA
+d_great_company;title;;CAPTAIN
+d_company_of_st_george;d_company_of_st_george;;Company of St. George
+d_company_of_st_george;d_company_of_st_george_adj;;St. Georgian
+d_company_of_st_george;foa;;CONDOTTIERO_FOA
+d_company_of_st_george;title;;CONDOTTIERO
+d_star_company;d_star_company;;Company of the Star
+d_star_company;d_star_company_adj;;Star
+d_star_company;foa;;CONDOTTIERO_FOA
+d_star_company;title;;CONDOTTIERO
+d_little_hat_company;d_little_hat_company;;Company of the Hat
+d_little_hat_company;d_little_hat_company_adj;;Hat
+d_little_hat_company;foa;;CONDOTTIERO_FOA
+d_little_hat_company;title;;CONDOTTIERO
+d_rose_company;d_rose_company;;Company of the Rose
+d_rose_company;d_rose_company_adj;;Rose
+d_rose_company;foa;;CONDOTTIERO_FOA
+d_rose_company;title;;CONDOTTIERO
+d_catalan_company;d_catalan_company;;Catalan Company
+d_catalan_company;d_catalan_company_adj;;Catalan
+d_catalan_company;foa;;CONDOTTIERO_FOA
+d_catalan_company;title;;CONDOTTIERO
+d_navarrese_company;d_navarrese_company;;Navarrese Company
+d_navarrese_company;d_navarrese_company_adj;;Navarrese
+d_navarrese_company;foa;;CONDOTTIERO_FOA
+d_navarrese_company;title;;CONDOTTIERO
+d_swiss_company;d_swiss_company;;Swiss Company
+d_swiss_company;d_swiss_company_adj;;Swiss
+d_swiss_company;foa;;CAPTAIN_FOA
+d_swiss_company;title;;CAPTAIN
+d_breton_company;d_breton_company;;Breton Company
+d_breton_company;d_breton_company_adj;;Breton
+d_breton_company;foa;;CAPTAIN_FOA
+d_breton_company;title;;CAPTAIN
+d_victual_brothers;d_victual_brothers;;Victual Brothers
+d_victual_brothers;d_victual_brothers_adj;;Victual
+d_victual_brothers;foa;;CAPTAIN_FOA
+d_victual_brothers;title;;CAPTAIN
+d_varangian_guard;d_varangian_guard;;Varangian Guard
+d_varangian_guard;d_varangian_guard_adj;;Varangian
+d_varangian_guard;foa;;CAPTAIN_FOA
+d_varangian_guard;title;;CAPTAIN
+d_cuman_company;d_cuman_company;;Cuman Company
+d_cuman_company;d_cuman_company_adj;;Cuman
+d_cuman_company;foa;;CAPTAIN_FOA
+d_cuman_company;title;;CAPTAIN
+d_rus_company;d_rus_company;;Rus Company
+d_rus_company;d_rus_company_adj;;Rus
+d_rus_company;foa;;CAPTAIN_FOA
+d_rus_company;title;;CAPTAIN
+d_pecheneg_company;d_pecheneg_company;;Pecheneg Company
+d_pecheneg_company;d_pecheneg_company_adj;;Pecheneg
+d_pecheneg_company;foa;;CAPTAIN_FOA
+d_pecheneg_company;title;;CAPTAIN
+d_bulgarian_company;d_bulgarian_company;;Bulgarian Company
+d_bulgarian_company;d_bulgarian_company_adj;;Bulgarian
+d_bulgarian_company;foa;;CAPTAIN_FOA
+d_bulgarian_company;title;;CAPTAIN
+d_turkic_company;d_turkic_company;;Turkic Company
+d_turkic_company;d_turkic_company_adj;;Turkic
+d_turkic_company;foa;;CAPTAIN_FOA
+d_turkic_company;title;;CAPTAIN
+d_lombard_band;d_lombard_band;;Lombard Band
+d_lombard_band;d_lombard_band_adj;;Lombard
+d_lombard_band;foa;;CONDOTTIERO_FOA
+d_lombard_band;title;;CONDOTTIERO
+d_swiss_band;d_swiss_band;;Swiss Band
+d_swiss_band;d_swiss_band_adj;;Swiss
+d_swiss_band;foa;;CAPTAIN_FOA
+d_swiss_band;title;;CAPTAIN
+d_breton_band;d_breton_band;;Breton Band
+d_breton_band;d_breton_band_adj;;Breton
+d_breton_band;foa;;CAPTAIN_FOA
+d_breton_band;title;;CAPTAIN
+d_catalan_band;d_catalan_band;;Catalan Band
+d_catalan_band;d_catalan_band_adj;;Catalan
+d_catalan_band;foa;;CONDOTTIERO_FOA
+d_catalan_band;title;;CONDOTTIERO
+d_saxon_band;d_saxon_band;;Saxon Band
+d_saxon_band;d_saxon_band_adj;;Saxon
+d_saxon_band;foa;;CAPTAIN_FOA
+d_saxon_band;title;;CAPTAIN
+d_cuman_band;d_cuman_band;;Cuman Band
+d_cuman_band;d_cuman_band_adj;;Cuman
+d_cuman_band;foa;;CAPTAIN_FOA
+d_cuman_band;title;;CAPTAIN
+d_rus_band;d_rus_band;;Rus Band
+d_rus_band;d_rus_band_adj;;Rus
+d_rus_band;foa;;CAPTAIN_FOA
+d_rus_band;title;;CAPTAIN
+d_finnish_band;d_finnish_band;;Finnish Band
+d_finnish_band;d_finnish_band_adj;;Finnish
+d_finnish_band;foa;;CAPTAIN_FOA
+d_finnish_band;title;;CAPTAIN
+d_lappish_band;d_lappish_band;;Sami Band
+d_lappish_band;d_lappish_band_adj;;Sami
+d_lappish_band;foa;;CAPTAIN_FOA
+d_lappish_band;title;;CAPTAIN
+d_lithuanian_band;d_lithuanian_band;;Lithuanian Band
+d_lithuanian_band;d_lithuanian_band_adj;;Lithuanian
+d_lithuanian_band;foa;;CAPTAIN_FOA
+d_lithuanian_band;title;;CAPTAIN
+d_abyssinian_band;d_abyssinian_band;;Abyssinian Band
+d_abyssinian_band;d_abyssinian_band_adj;;Abyssinian
+d_abyssinian_band;foa;;CAPTAIN_FOA
+d_abyssinian_band;title;;CAPTAIN
+d_nubian_band;d_nubian_band;;Nubian Band
+d_nubian_band;d_nubian_band_adj;;Nubian
+d_nubian_band;foa;;CAPTAIN_FOA
+d_nubian_band;title;;CAPTAIN
+d_scottish_band;d_scottish_band;;Scottish Band
+d_scottish_band;d_scottish_band_adj;;Scottish
+d_scottish_band;foa;;CAPTAIN_FOA
+d_scottish_band;title;;CAPTAIN
+d_irish_band;d_irish_band;;Irish Band
+d_irish_band;d_irish_band_adj;;Irish
+d_irish_band;foa;;CAPTAIN_FOA
+d_irish_band;title;;CAPTAIN
+d_alan_band;d_alan_band;;Alan Riders
+d_alan_band;d_alan_band_adj;;Alan
+d_alan_band;foa;;CAPTAIN_FOA
+d_alan_band;title;;CAPTAIN
+d_pecheneg_band;d_pecheneg_band;;Pecheneg Band
+d_pecheneg_band;d_pecheneg_band_adj;;Pecheneg
+d_pecheneg_band;foa;;CAPTAIN_FOA
+d_pecheneg_band;title;;CAPTAIN
+d_bulgarian_band;d_bulgarian_band;;Bulgarian Band
+d_bulgarian_band;d_bulgarian_band_adj;;Bulgarian
+d_bulgarian_band;foa;;CAPTAIN_FOA
+d_bulgarian_band;title;;CAPTAIN
+d_turkic_band;d_turkic_band;;Turkic Band
+d_turkic_band;d_turkic_band_adj;;Turkic
+d_turkic_band;foa;;CAPTAIN_FOA
+d_turkic_band;title;;CAPTAIN
+d_mamluks;d_mamluks;;Mamluks
+d_mamluks;d_mamluks_adj;;Mamluk
+d_mamluks;foa;;CAPTAIN_FOA
+d_mamluks;title;;CAPTAIN
+d_venetian_navy;d_venetian_navy;;Adriatic Galleys
+d_venetian_navy;d_venetian_navy_adj;;Adriatic
+d_venetian_navy;foa;;CAPTAIN_FOA
+d_venetian_navy;short_name;;yes
+d_venetian_navy;title;;CAPTAIN
+d_genoese_navy;d_genoese_navy;;Ligurian Galleys
+d_genoese_navy;d_genoese_navy_adj;;Ligurian
+d_genoese_navy;foa;;CAPTAIN_FOA
+d_genoese_navy;short_name;;yes
+d_genoese_navy;title;;CAPTAIN
+d_hanseatic_navy;d_hanseatic_navy;;Baltic Cogs
+d_hanseatic_navy;d_hanseatic_navy_adj;;Baltic
+d_hanseatic_navy;foa;;CAPTAIN_FOA
+d_hanseatic_navy;short_name;;yes
+d_hanseatic_navy;title;;CAPTAIN
+d_frisian_navy;d_frisian_navy;;North Sea Cogs
+d_frisian_navy;d_frisian_navy_adj;;North Sea
+d_frisian_navy;foa;;CAPTAIN_FOA
+d_frisian_navy;short_name;;yes
+d_frisian_navy;title;;CAPTAIN
+d_maghreb_corsairs;d_maghreb_corsairs;;Maghreb Navy
+d_maghreb_corsairs;d_maghreb_corsairs_adj;;Maghreb
+d_maghreb_corsairs;foa;;CAPTAIN_FOA
+d_maghreb_corsairs;short_name;;yes
+d_maghreb_corsairs;title;;CAPTAIN
+d_ghilman;d_ghilman;;Ghilman
+d_ghilman;d_ghilman_adj;;Ghilman
+d_ghilman;foa;;CAPTAIN_FOA
+d_ghilman;title;;CAPTAIN
+d_ghanan_band;d_ghanan_band;;Ghanan Band
+d_ghanan_band;d_ghanan_band_adj;;Ghanan
+d_ghanan_band;foa;;CAPTAIN_FOA
+d_ghanan_band;title;;CAPTAIN
+e_roman_empire;e_roman_empire;;Roman Empire
+e_roman_empire;e_roman_empire_adj;;Roman
+e_roman_empire;anglonorse;;Rómverska keisaradæmið
+e_roman_empire;arberian;;Perandoria Romake
+e_roman_empire;armenian;;Hrromeakan Kaysrut'yun
+e_roman_empire;bohemian;;Rzímská Rzíše
+e_roman_empire;bosnian;;Rimsku Imperiju
+e_roman_empire;bulgarian;;Rimska Imperiya
+e_roman_empire;croatian;;Rimsko Carstvo
+e_roman_empire;danish;;Rómverska keisaradæmið
+e_roman_empire;georgian;;Romis Imperia
+e_roman_empire;hungarian;;Római Birodalom
+e_roman_empire;icelandic;;Rómverska keisaradæmið
+e_roman_empire;karantanci;;Rimsko Cesárstvo
+e_roman_empire;norse;;Rómverska keisaradæmið
+e_roman_empire;norsegaelic;;Rómverska keisaradæmið
+e_roman_empire;norwegian;;Rómverska keisaradæmið
+e_roman_empire;polish;;Cesarstwo Rzymski
+e_roman_empire;roman;;Imperium Romanum
+e_roman_empire;romanian;;Imperiul Roman
+e_roman_empire;russian;;Rimskaya Imperiya
+e_roman_empire;serbian;;Rimsko Carstvo
+e_roman_empire;swedish;;Rómverska keisaradæmið
+e_roman_empire;short_name;;yes
+d_the_isles;d_the_isles;;Man
+d_the_isles;d_the_isles_adj;;Manx
+d_abbasid;d_abbasid;;Abbasid
+d_abbasid;d_abbasid_adj;;Abbasid
+d_danes;d_danes;;Danmark
+d_danes;d_danes_adj;;Danish
+d_geats;d_geats;;Gauthiod
+d_geats;d_geats_adj;;Geatish
+d_sandomiersk;d_sandomiersk;;Sandomiersk
+d_sandomiersk;d_sandomiersk_adj;;Sandomierskan
+d_sweden;d_sweden;;Svithjod
+d_sweden;d_sweden_adj;;Swedish
+d_swiss;d_swiss;;Switzerland
+d_swiss;d_swiss_adj;;Swiss
+d_temes;d_temes;;Temes
+d_temes;d_temes_adj;;Temesite
+d_wielkopolska;d_wielkopolska;;Wielkopolska
+d_wielkopolska;d_wielkopolska_adj;;Wielkopolskan
+d_hilal;d_hilal;;Banu Hilál
+d_hilal;d_hilal_adj;;Hilálí
+d_massufa;d_massufa;;Massúfa
+d_massufa;d_massufa_adj;;Massúfí
+d_massufa;foa;;RAIS_FOA
+d_massufa;title;;RAIS
+d_lamtuna;d_lamtuna;;Lamtúna
+d_lamtuna;d_lamtuna_adj;;Lamtúní
+d_lamtuna;foa;;RAIS_FOA
+d_lamtuna;title;;RAIS
+d_lamta;d_lamta;;Lamta
+d_lamta;d_lamta_adj;;Lamtí
+d_lamta;foa;;RAIS_FOA
+d_lamta;title;;RAIS
+d_guddala;d_guddala;;Guddála
+d_guddala;d_guddala_adj;;Guddálí
+d_guddala;foa;;RAIS_FOA
+d_guddala;title;;RAIS
+d_gazzula;d_gazzula;;Gazzúla
+d_gazzula;d_gazzula_adj;;Gazzúlí
+d_gazzula;foa;;RAIS_FOA
+d_gazzula;title;;RAIS
+d_targa;d_targa;;Targa
+d_targa;d_targa_adj;;Targí
+d_targa;foa;;RAIS_FOA
+d_targa;title;;RAIS
+d_lawata;d_lawata;;Lawata
+d_lawata;d_lawata_adj;;Lawatí
+d_lawata;foa;;RAIS_FOA
+d_lawata;title;;RAIS
+d_soninke;d_soninke;;Soninke
+d_soninke;d_soninke_adj;;Soninke
+d_zaghawa;d_zaghawa;;Zagháwa
+d_zaghawa;d_zaghawa_adj;;Zagháwí
+d_zaghawa;foa;;RAIS_FOA
+d_zaghawa;title;;RAIS
+d_duguwa;d_duguwa;;Duguwa
+d_duguwa;d_duguwa_adj;;Duguwí
+d_musab;d_musab;;Mus'ab
+d_musab;d_musab_adj;;Mus'abí
+d_musab;foa;;RAIS_FOA
+d_musab;title;;RAIS
+d_tanmak;d_tanmak;;Tanmak
+d_tanmak;d_tanmak_adj;;Tanmaki
+d_tanmak;foa;;RAIS_FOA
+d_tanmak;title;;RAIS
+d_azger;d_azger;;Azger
+d_azger;d_azger_adj;;Azgerí
+d_azger;foa;;RAIS_FOA
+d_azger;title;;RAIS
+d_mazata;d_mazata;;Mazáta
+d_mazata;d_mazata_adj;;Mazátí
+d_mazata;foa;;RAIS_FOA
+d_mazata;title;;RAIS
+d_azben;d_azben;;Azben
+d_azben;d_azben_adj;;Azben
+d_azben;foa;;RAIS_FOA
+d_azben;title;;RAIS
+d_takarkart;d_takarkart;;Takarkart
+d_takarkart;d_takarkart_adj;;Takarkartí
+d_takarkart;foa;;RAIS_FOA
+d_takarkart;title;;RAIS
+d_naqis;d_naqis;;Naqís
+d_naqis;d_naqis_adj;;Naqísí
+d_naqis;foa;;RAIS_FOA
+d_naqis;title;;RAIS
+d_baqlin;d_baqlin;;Baqlín
+d_baqlin;d_baqlin_adj;;Baqlíní
+d_baqlin;foa;;RAIS_FOA
+d_baqlin;title;;RAIS
+d_djarin;d_djarin;;Djarín
+d_djarin;d_djarin_adj;;Djaríní
+d_djarin;foa;;RAIS_FOA
+d_djarin;title;;RAIS
+d_qataa;d_qataa;;Qata'a
+d_qataa;d_qataa_adj;;Qata'í
+d_qataa;foa;;RAIS_FOA
+d_qataa;title;;RAIS
+d_bazin;d_bazin;;Bazín
+d_bazin;d_bazin_adj;;Bazíní
+d_bazin;foa;;RAIS_FOA
+d_bazin;title;;RAIS
+d_danakil;d_danakil;;Danakil
+d_danakil;d_danakil_adj;;Danakilí
+d_danakil;foa;;RAIS_FOA
+d_danakil;title;;RAIS
+d_silesians;d_silesians;;Slezanie
+d_silesians;d_silesians_adj;;Silesian
+d_polans;d_polans;;Polanie
+d_polans;d_polans_adj;;Polan
+d_vistulans;d_vistulans;;Wislanie
+d_vistulans;d_vistulans_adj;;Vistulan
+d_mazovians;d_mazovians;;Mazowszanie
+d_mazovians;d_mazovians_adj;;Mazovian
+k_moravia;k_moravia;;Velká Morava
+k_moravia;k_moravia_adj;;Velkomoravský
+k_almohad;k_almohad;;Almohad
+k_almohad;k_almohad_adj;;Almohad
+k_al-murabitids;k_al-murabitids;;Al-Murabitids
+k_al-murabitids;k_al-murabitids_adj;;Al-Murabitid
+d_aydin;d_aydin;;Aydin
+d_aydin;d_aydin_adj;;Aydini
+d_aydin;greek;;Tralleis
+k_beni_helal;k_beni_helal;;Beni Helal
+k_beni_helal;k_beni_helal_adj;;Beni Helali
+d_candar;d_candar;;Candar
+d_candar;d_candar_adj;;Candari
+d_candar;greek;;Paphlagonia
+d_eretnid;d_eretnid;;Eretna
+d_eretnid;d_eretnid_adj;;Eretni
+k_fatimids;k_fatimids;;Fatimids
+k_fatimids;k_fatimids_adj;;Fatimid
+d_germiyan;d_germiyan;;Germiyan
+d_germiyan;d_germiyan_adj;;Germiyani
+d_germiyan;greek;;Phrygia
+d_germiyan;oghuz;;Eskisehir
+d_germiyan;turkmen;;Eskisehir
+k_hammadid;k_hammadid;;Hammadid
+k_hammadid;k_hammadid_adj;;Hamdanid
+k_kafsid;k_kafsid;;Kafsid
+k_kafsid;k_kafsid_adj;;Kafsid
+d_karaman;d_karaman;;Qaraman
+d_karaman;d_karaman_adj;;Qaramani
+d_karaman;greek;;Lykaonia
+k_magyar;k_magyar;;Hét Magyar
+k_magyar;k_magyar_adj;;Magyar
+k_marinid;k_marinid;;Marinid
+k_marinid;k_marinid_adj;;
+d_mentese;d_mentese;;Mentese
+d_mentese;d_mentese_adj;;Mentesian
+d_mentese;greek;;Mylasa
+d_karasi;d_karasi;;Qarasi
+d_karasi;d_karasi_adj;;Qarasian
+d_karasi;greek;;Mysia
+k_naples;k_naples;;Naples
+k_naples;k_naples_adj;;Neapolitan
+d_osmanli;d_osmanli;;Osmanli
+d_osmanli;d_osmanli_adj;;Osmanlian
+k_ottoman;k_ottoman;;Ottoman Turks
+k_ottoman;k_ottoman_adj;;Ottoman
+k_rum;k_rum;;Rûm
+k_rum;k_rum_adj;;Rûmian
+k_rum;dynasty_title_names;;no
+d_saruhan;d_saruhan;;Saruhan
+d_saruhan;d_saruhan_adj;;Saruhani
+d_saruhan;greek;;Ionia
+e_seljuk_turks;e_seljuk_turks;;Seljuk Empire
+e_seljuk_turks;e_seljuk_turks_adj;;
+e_seljuk_turks;short_name;;yes
+d_ahi;d_ahi;;Ahiler
+d_ahi;d_ahi_adj;;Ahilerian
+d_ahi;greek;;Ankyra
+d_ahi;oghuz;;Engürü
+d_ahi;turkmen;;Engürü
+d_hamid;d_hamid;;Hamid
+d_hamid;d_hamid_adj;;Hamidian
+d_hamid;greek;;Pisidia
+d_tekke;d_tekke;;Teke
+d_tekke;d_tekke_adj;;Tekian
+d_tekke;greek;;Kibyrrhaioton
+k_trinacria;k_trinacria;;Trinacria
+k_trinacria;k_trinacria_adj;;Trinacrian
+k_zenata;k_zenata;;Zenata
+k_zenata;k_zenata_adj;;Zenatan
+k_zirid;k_zirid;;Zirid
+k_zirid;k_zirid_adj;;Zirid
+k_ziyanids;k_ziyanids;;Ziyanids
+k_ziyanids;k_ziyanids_adj;;Ziyanid
+k_makuria;k_makuria;;Makuria
+k_makuria;k_makuria_adj;;Makurian
+k_makuria;andalusian_arabic;;Muqurra
+k_makuria;bedouin_arabic;;Muqurra
+k_makuria;egyptian_arabic;;Muqurra
+k_makuria;levantine_arabic;;Muqurra
+k_makuria;maghreb_arabic;;Muqurra
+k_makuria;nubian;;Makouria
+k_makuria;sicilian_arabic;;Muqurra
+k_alodia;k_alodia;;Alodia
+k_alodia;k_alodia_adj;;Alodian
+k_tiaret;k_tiaret;;Tiáret
+k_tiaret;k_tiaret_adj;;Tiáretí
+k_tiaret;foa;;IMAM_FOA
+k_tiaret;title;;IMAM
+k_tiaret;title_prefix;;IMAMATE_OF
+k_israel;k_israel;;Israel
+k_israel;k_israel_adj;;Israelites
+k_israel;dynasty_title_names;;no
+k_israel;title;;KING
+k_israel;title_female;;QUEEN
+k_ifat;k_ifat;;Ifat
+k_ifat;k_ifat_adj;;Ifatí
+k_blemmyes;k_blemmyes;;Béja
+k_blemmyes;k_blemmyes_adj;;Béjí
+k_khwarezmia;k_khwarezmia;;Khwarezm
+k_khwarezmia;k_khwarezmia_adj;;Khwarezmí
+k_kimek;k_kimek;;Kimek
+k_kimek;k_kimek_adj;;Kimek
+k_kimek;foa;;Khan_FOA
+k_kimek;title;;Khan
+k_kimek;title_prefix;;Khanliq_of
+k_kerman;k_kerman;;Kermán
+k_kerman;k_kerman_adj;;Kermání
+e_latin_empire;e_latin_empire;;Imperium Romaniae
+e_latin_empire;e_latin_empire_adj;;Latin
+e_latin_empire;short_name;;yes
+e_india;e_india;;India
+e_india;e_india_adj;;
+e_india;dynasty_title_names;;no
+e_india;title;;SAMRAT_CHAKRAVARTIN
+e_india;title_female;;SAMRAJNI_CHAKRAVARTIN
+d_oxford;d_oxford;;Oxford
+d_oxford;d_oxford_adj;;Oxfordian
+d_chester;d_chester;;Chester
+d_chester;d_chester_adj;;Chester
+d_gloucester;d_gloucester;;Hwicce
+d_gloucester;d_gloucester_adj;;Hwiccan
+d_gloucester;d_gloucester_adj_english;;Gloucesterian
+d_gloucester;d_gloucester_adj_norman;;Gloucesterian
+b_zussow;b_zussow;;Züssow
+b_zussow;b_zussow_adj;;
+b_kolbatz;b_kolbatz;;Kolbatz
+b_kolbatz;b_kolbatz_adj;;
+d_yaroslavl;d_yaroslavl;;Yaroslavl
+d_yaroslavl;d_yaroslavl_adj;;Yaroslavian
+d_vitebsk;d_vitebsk;;Vitebsk
+d_vitebsk;d_vitebsk_adj;;Vitebskian
+d_cheremisa;d_cheremisa;;Cheremisa
+d_cheremisa;d_cheremisa_adj;;Cheremisan
+d_pronsk;d_pronsk;;Pronsk
+d_pronsk;d_pronsk_adj;;Pronskian
+d_socotra;d_socotra;;Socotra
+d_socotra;d_socotra_adj;;
+e_ulm;e_ulm;;Ulm
+e_ulm;e_ulm_adj;;Ulmian
+e_ulm;foa;;ULM_FOA
+e_ulm;short_name;;yes
+e_ulm;title;;ULM
+e_khazaria;e_khazaria;;Qasarstan
+e_khazaria;e_khazaria_adj;;Qazar
+e_khazaria;afghan;;Xazarstán
+e_khazaria;e_khazaria_adj_afghan;;Xazarí
+e_khazaria;alan;;Chazaria
+e_khazaria;andalusian_arabic;;Khazarstan
+e_khazaria;arberian;;Chazaria
+e_khazaria;e_khazaria_adj_arberian;;Chazaroi
+e_khazaria;armenian;;Chazaria
+e_khazaria;e_khazaria_adj_armenian;;Chazaroi
+e_khazaria;baloch;;Xazarstán
+e_khazaria;e_khazaria_adj_baloch;;Xazarí
+e_khazaria;bedouin_arabic;;Khazarstan
+e_khazaria;bohemian;;Kozaria
+e_khazaria;e_khazaria_adj_bohemian;;Kozaran
+e_khazaria;bosnian;;Kozaria
+e_khazaria;e_khazaria_adj_bosnian;;Kozaran
+e_khazaria;bulgarian;;Kozaria
+e_khazaria;e_khazaria_adj_bulgarian;;Kozaran
+e_khazaria;central_italian;;Cassaria
+e_khazaria;e_khazaria_adj_central_italian;;Cassaro
+e_khazaria;corsican;;Cassaria
+e_khazaria;e_khazaria_adj_corsican;;Cassaro
+e_khazaria;croatian;;Kozaria
+e_khazaria;e_khazaria_adj_croatian;;Kozaran
+e_khazaria;dalmatian;;Cassaria
+e_khazaria;e_khazaria_adj_dalmatian;;Cassaro
+e_khazaria;daylamite;;Xazarstán
+e_khazaria;e_khazaria_adj_daylamite;;Xazarí
+e_khazaria;east_gothic;;Chazaria
+e_khazaria;e_khazaria_adj_east_gothic;;Chazaroi
+e_khazaria;egyptian_arabic;;Khazarstan
+e_khazaria;georgian;;Chazaria
+e_khazaria;e_khazaria_adj_georgian;;Chazaroi
+e_khazaria;greek;;Chazaria
+e_khazaria;e_khazaria_adj_greek;;Chazaroi
+e_khazaria;italian;;Cassaria
+e_khazaria;e_khazaria_adj_italian;;Cassaro
+e_khazaria;karantanci;;Kozaria
+e_khazaria;e_khazaria_adj_karantanci;;Kozaran
+e_khazaria;khalaj;;Xazarstán
+e_khazaria;e_khazaria_adj_khalaj;;Xazarí
+e_khazaria;khwarezmi;;Xazarstán
+e_khazaria;e_khazaria_adj_khwarezmi;;Xazarí
+e_khazaria;kirghiz;;Xäzärstan
+e_khazaria;e_khazaria_adj_kirghiz;;Xäzär
+e_khazaria;kurdish;;Xazarstán
+e_khazaria;e_khazaria_adj_kurdish;;Xazarí
+e_khazaria;langobardisch;;Cassaria
+e_khazaria;levantine_arabic;;Khazarstan
+e_khazaria;ligurian;;Cassaria
+e_khazaria;e_khazaria_adj_ligurian;;Cassaro
+e_khazaria;maghreb_arabic;;Khazarstan
+e_khazaria;masmuda;;Khazarstan
+e_khazaria;mongol;;Xäzärstan
+e_khazaria;e_khazaria_adj_mongol;;Xäzär
+e_khazaria;moravian;;Kozaria
+e_khazaria;e_khazaria_adj_moravian;;Kozaran
+e_khazaria;neapolitan;;Cassaria
+e_khazaria;e_khazaria_adj_neapolitan;;Cassaro
+e_khazaria;oghuz;;Hazarstan
+e_khazaria;e_khazaria_adj_oghuz;;Hazar
+e_khazaria;pahlavi;;Xazarstán
+e_khazaria;e_khazaria_adj_pahlavi;;Xazarí
+e_khazaria;persian;;Xazarstán
+e_khazaria;e_khazaria_adj_persian;;Xazarí
+e_khazaria;polish;;Kozariaia
+e_khazaria;e_khazaria_adj_polish;;Kozaran
+e_khazaria;pommeranian;;Kozaria
+e_khazaria;e_khazaria_adj_pommeranian;;Kozaran
+e_khazaria;qufs;;Xazarstán
+e_khazaria;e_khazaria_adj_qufs;;Xazarí
+e_khazaria;russian;;Kozarye
+e_khazaria;e_khazaria_adj_russian;;Kozaran
+e_khazaria;sanhaja;;Khazarstan
+e_khazaria;sardinian;;Cassaria
+e_khazaria;e_khazaria_adj_sardinian;;Cassaro
+e_khazaria;serbian;;Kozaria
+e_khazaria;e_khazaria_adj_serbian;;Kozaran
+e_khazaria;sicilian;;Cassaria
+e_khazaria;e_khazaria_adj_sicilian;;Cassaro
+e_khazaria;sicilian_arabic;;Khazarstan
+e_khazaria;sicilian_greek;;Chazaria
+e_khazaria;e_khazaria_adj_sicilian_greek;;Chazaroi
+e_khazaria;sogdian;;Xazarstán
+e_khazaria;e_khazaria_adj_sogdian;;Xazarí
+e_khazaria;southern_italian;;Cassaria
+e_khazaria;e_khazaria_adj_southern_italian;;Cassaro
+e_khazaria;tagelmust;;Khazarstan
+e_khazaria;tajik;;Xazarstán
+e_khazaria;e_khazaria_adj_tajik;;Xazarí
+e_khazaria;tuareg;;Khazarstan
+e_khazaria;turkish;;Hazarstan
+e_khazaria;e_khazaria_adj_turkish;;Hazar
+e_khazaria;turkmen;;Hazarstan
+e_khazaria;e_khazaria_adj_turkmen;;Hazar
+e_khazaria;tuscan;;Cassaria
+e_khazaria;e_khazaria_adj_tuscan;;Cassaro
+e_khazaria;venetian;;Cassaria
+e_khazaria;e_khazaria_adj_venetian;;Cassaro
+e_khazaria;zanata;;Khazarstan
+e_khitan;e_khitan;;Huldji Qidai Gur
+e_khitan;e_khitan_adj;;Kara Khitan
+e_khitan;short_name;;yes
+k_qipchaq;k_qipchaq;;Qipchaqlar
+k_qipchaq;k_qipchaq_adj;;Qipchaq
+k_qipchaq;dynasty_title_names;;no
+k_cuman;k_cuman;;Kumanlar
+k_cuman;k_cuman_adj;;Kuman
+k_cuman;dynasty_title_names;;no
+k_pechenegs;k_pechenegs;;Beçeneklar
+k_pechenegs;k_pechenegs_adj;;Beçenek
+k_pechenegs;dynasty_title_names;;no
+k_qangar;k_qangar;;Qangar
+k_qangar;k_qangar_adj;;Qangar
+k_qangar;dynasty_title_names;;no
+k_uzes;k_uzes;;Uzlar
+k_uzes;k_uzes_adj;;Uzlar
+k_uzes;dynasty_title_names;;no
+d_black_caps;d_black_caps;;Karakalpaklar
+d_black_caps;d_black_caps_adj;;Karakalpaklan
+d_black_caps;persian;;Qaum-i Kulah-i Siyahan
+d_black_caps;russian;;Chyornye Klobuki
+d_black_caps;d_black_caps_adj_russian;;Chyornye Klobuki
+d_black_caps;dynasty_title_names;;no
+e_kaleva;e_kaleva;;Kalevala
+e_kaleva;e_kaleva_adj;;Kalevalan
+k_geats;k_geats;;Gautaríki
+k_geats;k_geats_adj;;Gautr
+e_germany;e_germany;;Germania
+e_germany;e_germany_adj;;German
+k_avaria;k_avaria;;Avaria
+k_avaria;k_avaria_adj;;Avarian
+k_lombardy;k_lombardy;;Lombardy
+k_lombardy;k_lombardy_adj;;Lombard
+d_lauenburg;d_lauenburg;;Sachsen-Lauenburg
+d_lauenburg;d_lauenburg_adj;;Sächsische
+d_sangermano;d_sangermano;;Terra Sancti Benedicti
+d_sangermano;d_sangermano_adj;;Bendicitian
+d_sangermano;short_name;;yes
+k_salerno;k_salerno;;Principato di Salerno
+k_salerno;k_salerno_adj;;Salernian
+k_salerno;short_name;;yes
+d_austrialombardic;d_austrialombardic;;Austria
+d_austrialombardic;d_austrialombardic_adj;;Austrian
+d_neustria;d_neustria;;Neustria
+d_neustria;d_neustria_adj;;Neustrian
+d_tuscia;d_tuscia;;Tuscia
+d_tuscia;d_tuscia_adj;;Tuscian
+k_duklja;k_duklja;;Duklja
+k_duklja;k_duklja_adj;;Dukljan
+k_austria;k_austria;;Österreich
+k_austria;k_austria_adj;;Österreichische
+k_austria;foa;;ADA_FOA
+k_austria;title;;ADA
+k_austria;title_prefix;;ADA_OF
+d_smaland;d_smaland;;Småland
+d_smaland;d_smaland_adj;;Smålander
+d_smaland;norse;;Smáland
+e_occitania;e_occitania;;Occitània
+e_occitania;e_occitania_adj;;Occitan
+k_flanders;k_flanders;;Vlaanderen
+k_flanders;k_flanders_adj;;Vlaamse
+d_narbonne;d_narbonne;;Narbona
+d_narbonne;d_narbonne_adj;;Narbonnais
+d_paulicians;d_paulicians;;Paulikianoi
+d_paulicians;d_paulicians_adj;;Paulikianoi
+k_armenia_minor;k_armenia_minor;;Mikrá Armenia
+k_armenia_minor;k_armenia_minor_adj;;Mikrá Armenian
+d_pagania;d_pagania;;Neretljani
+d_pagania;d_pagania_adj;;Narentine
+d_rhodos;d_rhodos;;Rhodos
+d_rhodos;d_rhodos_adj;;Rhodian
+d_rhodos;foa;;CAESAR_FOA
+d_rhodos;title;;CAESAR
+d_rhodos;title_prefix;;CAESAR_OF
+e_chagatai;e_chagatai;;Chagatai
+e_chagatai;e_chagatai_adj;;
+d_tiflis;d_tiflis;;Tiflis
+d_tiflis;d_tiflis_adj;;Tiflisi
+k_vaspurakan;k_vaspurakan;;Vaspurakan
+k_vaspurakan;k_vaspurakan_adj;;Vaspurakani
+d_vanand;d_vanand;;Vanand
+d_vanand;d_vanand_adj;;Vanandian
+d_mingrelia;d_mingrelia;;Samegrelo
+d_mingrelia;d_mingrelia_adj;;Samegrelian
+d_meshketi;d_meshketi;;Meskheti
+d_meshketi;d_meshketi_adj;;Meskhetian
+k_abkhazia;k_abkhazia;;Apkhazeti
+k_abkhazia;k_abkhazia_adj;;Apkhazetian
+k_abkhazia;foa;;MEPE_FOA
+k_abkhazia;title;;MEPE
+k_abkhazia;title_prefix;;MEPE_OF
+k_imereti;k_imereti;;Imereti
+k_imereti;k_imereti_adj;;Imeretian
+k_imereti;foa;;MEPE_FOA
+k_imereti;title;;MEPE
+k_imereti;title_prefix;;MEPE_OF
+k_kakheti;k_kakheti;;Kakheti
+k_kakheti;k_kakheti_adj;;Kakhetian
+k_kakheti;foa;;MEPE_FOA
+k_kakheti;title;;MEPE
+k_kakheti;title_prefix;;MEPE_OF
+k_iberia;k_iberia;;Kartli
+k_iberia;k_iberia_adj;;Kartlian
+k_iberia;foa;;MEPE_FOA
+k_iberia;title;;MEPE
+k_iberia;title_prefix;;MEPE_OF
+d_dahlak;d_dahlak;;Dahlak
+d_dahlak;d_dahlak_adj;;Dahlakian
+d_sadah;d_sadah;;Sadah
+d_sadah;d_sadah_adj;;Sadahi
+d_sharif_medina;d_sharif_medina;;Madinah
+d_sharif_medina;d_sharif_medina_adj;;Madinan
+d_sharif_mecca;d_sharif_mecca;;Makkah
+d_sharif_mecca;d_sharif_mecca_adj;;Makkan
+d_siraf;d_siraf;;Siráf
+d_siraf;d_siraf_adj;;Siráfí
+e_wendish_empire;e_wendish_empire;;Wendish Empire
+e_wendish_empire;e_wendish_empire_adj;;Wendish
+e_wendish_empire;bohemian;;Velké Czechy
+e_wendish_empire;croatian;;Vendia
+e_wendish_empire;karantanci;;Vendia
+e_wendish_empire;moravian;;Velká Morava
+e_wendish_empire;polish;;Wiêksza Polska
+e_wendish_empire;pommeranian;;Vendia
+e_wendish_empire;short_name;;yes
+d_breifne;d_breifne;;Breifne
+d_breifne;d_breifne_adj;;Breifnian
+d_breifne;anglonorse;;Breffny
+d_breifne;breton;;Bréifne
+d_breifne;cornish;;Bréifne
+d_breifne;cumbric;;Bréifne
+d_breifne;danish;;Breffny
+d_breifne;gothic;;Breffny
+d_breifne;icelandic;;Breffny
+d_breifne;irish;;Bréifne
+d_breifne;norse;;Breffny
+d_breifne;norsegaelic;;Bréifne
+d_breifne;norwegian;;Breffny
+d_breifne;saxon;;Breffny
+d_breifne;scottish;;Bréifne
+d_breifne;swedish;;Breffny
+d_breifne;welsh;;Bréifne
+d_thomond;d_thomond;;Thomond
+d_thomond;d_thomond_adj;;Thomondian
+d_thomond;breton;;Tuadhmhumhain
+d_thomond;cornish;;Tuadhmhumhain
+d_thomond;cumbric;;Tuadhmhumhain
+d_thomond;irish;;Tuadhmhumhain
+d_thomond;norsegaelic;;Tuadhmhumhain
+d_thomond;scottish;;Tuadhmhumhain
+d_thomond;welsh;;Tuadhmhumhain
+d_ossory;d_ossory;;Ossory
+d_ossory;d_ossory_adj;;Ossoryan
+d_ossory;breton;;Osraige
+d_ossory;cornish;;Osraige
+d_ossory;cumbric;;Osraige
+d_ossory;irish;;Osraige
+d_ossory;norsegaelic;;Osraige
+d_ossory;scottish;;Osraige
+d_ossory;welsh;;Osraige
+d_oneill;d_oneill;;O'Neill
+d_oneill;d_oneill_adj;;O'Neill
+d_oneill;breton;;Uí Néill
+d_oneill;cornish;;Uí Néill
+d_oneill;cumbric;;Uí Néill
+d_oneill;irish;;Uí Néill
+d_oneill;norsegaelic;;Uí Néill
+d_oneill;scottish;;Uí Néill
+d_oneill;welsh;;Uí Néill
+d_airgialla;d_airgialla;;Airgíalla
+d_airgialla;d_airgialla_adj;;Airgíallan
+d_airgialla;anglonorse;;Oriel
+d_airgialla;breton;;Airgíalla
+d_airgialla;cornish;;Airgíalla
+d_airgialla;cumbric;;Airgíalla
+d_airgialla;danish;;Oriel
+d_airgialla;english;;Oriel
+d_airgialla;gothic;;Oriel
+d_airgialla;icelandic;;Oriel
+d_airgialla;irish;;Airgíalla
+d_airgialla;norse;;Oriel
+d_airgialla;norsegaelic;;Airgíalla
+d_airgialla;norwegian;;Oriel
+d_airgialla;saxon;;Oriel
+d_airgialla;scottish;;Oirialla
+d_airgialla;swedish;;Oriel
+d_airgialla;welsh;;Airgíalla
+e_mexikha;e_mexikha;;Aztec Empire
+e_mexikha;e_mexikha_adj;;Aztec
+e_mexikha;short_name;;yes
+d_ismaili;d_ismaili;;The Isma'ili Caliphate
+d_ismaili;d_ismaili_adj;;Isma'ili
+d_ismaili;foa;;CALIPH_FOA
+d_ismaili;short_name;;yes
+d_ismaili;title;;CALIPH
+d_ismaili;title_female;;CALIPHA
+d_mahdiyya;d_mahdiyya;;The Mahdite Caliphate
+d_mahdiyya;d_mahdiyya_adj;;Mahdite
+d_mahdiyya;foa;;CALIPH_FOA
+d_mahdiyya;short_name;;yes
+d_mahdiyya;title;;CALIPH
+d_mahdiyya;title_female;;CALIPHA
+d_manichean;d_manichean;;Manichaean Church
+d_manichean;d_manichean_adj;;Manichaean
+d_manichean;dynasty_title_names;;no
+d_manichean;foa;;POPE_FOA
+d_manichean;short_name;;yes
+d_manichean;title;;MANI_LEADER
+d_maronite;d_maronite;;Maronite Church
+d_maronite;d_maronite_adj;;Maronite
+d_maronite;dynasty_title_names;;no
+d_maronite;foa;;ECUMENICAL_PATRIARCH_FOA
+d_maronite;short_name;;yes
+d_maronite;title;;MARONITE_PATRIARCH
+d_nabawiyya;d_nabawiyya;;The Nabawite Malikate
+d_nabawiyya;d_nabawiyya_adj;;Nabawite
+d_nabawiyya;foa;;MALIK_FOA
+d_nabawiyya;short_name;;yes
+d_nabawiyya;title;;MALIK
+d_nabawiyya;title_female;;MALIKA
+d_zaydi;d_zaydi;;The Zaydi Caliphate
+d_zaydi;d_zaydi_adj;;Zaydi
+d_zaydi;foa;;CALIPH_FOA
+d_zaydi;short_name;;yes
+d_zaydi;title;;CALIPH
+d_zaydi;title_female;;CALIPHA
+d_apostolic;d_apostolic;;The Apostolic Church
+d_apostolic;d_apostolic_adj;;Apostolic
+d_apostolic;dynasty_title_names;;no
+d_apostolic;foa;;POPE_FOA
+d_apostolic;male_names;;Aleksandr Ananias Aristaces Asdvadzadur Constantine Davit Dertad Eliazar Gevorg Giragos Grigor Isaiah Hacob Joab Hovhannes Hovsep Karapet Khachig Mashdotz Mekhitar Mesrop Mikayel Movses Nahabed Nerses Parsegh Petros Philippos Sarkis Sion Soghomon Stephan Thoros Vahan Yeghishe Zacharias
+d_apostolic;short_name;;yes
+d_apostolic;title;;CATHOLICOS

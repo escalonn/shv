@@ -138,7 +138,7 @@ def read_prev():
                 print(path)
                 raise
             csvfile.seek(0)
-            reader = csv.reader(csvfile)
+            reader = csv.reader(csvfile, delimiter=';')
             next(reader)
             if 'provinces_other' in path.name:
                 for row in reader:
@@ -165,14 +165,14 @@ def write_output(title_attrs, title_region, other_locs, prev_title_attrs,
             region = region if region else 'titular'
             out_path = templates_t / 'zz~_SHV_titles_{}.csv'.format(region)
             with out_path.open('w', encoding='utf8', newline='') as csvfile:
-                csv.writer(csvfile).writerows(out_rows)
+                csv.writer(csvfile, delimiter=';').writerows(out_rows)
         out_path = templates_t / 'zz~_SHV_provinces_other.csv'
         out_rows = [['#KEY', 'VALUE', 'SWMH']]
         for key, value in other_locs:
             prev = prev_other_locs.get(key, '')
             out_rows.append([key, prev, value])
         with out_path.open('w', encoding='utf8', newline='') as csvfile:
-            csv.writer(csvfile).writerows(out_rows)
+            csv.writer(csvfile, delimiter=';').writerows(out_rows)
         templates = rootpath / 'shv/templates'
         if templates.exists():
             shutil.rmtree(str(templates))

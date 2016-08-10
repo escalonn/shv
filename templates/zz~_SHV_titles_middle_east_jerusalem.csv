@@ -1,1703 +1,1703 @@
-#TITLE,KEY,VALUE,SWMH
-k_syria,k_syria,,al-Sham
-k_syria,k_syria_adj,,Shami
-k_syria,greek,,Oriens
-k_syria,roman,,Oriens
-d_aleppo,d_aleppo,,Qinnasrin
-d_aleppo,d_aleppo_adj,,Qinnasrinan
-d_aleppo,greek,,Syria Prima
-d_aleppo,d_aleppo_adj_greek,,Syria Priman
-d_aleppo,roman,,Syria Prima
-d_aleppo,title_prefix,,JUND_OF
-c_aleppo,PROV733,,Halab
-c_aleppo,c_aleppo_adj,,Alepponian
-c_aleppo,frankish,,Halapia
-c_aleppo,c_aleppo_adj_frankish,,Halapian
-c_aleppo,greek,,Berroia
-c_aleppo,c_aleppo_adj_greek,,Berroian
-c_aleppo,norman,,Halapia
-c_aleppo,c_aleppo_adj_norman,,Halapian
-c_aleppo,roman,,Beroea
-b_aleppo,b_aleppo,,Halab
-b_aleppo,b_aleppo_adj,,
-b_aleppo,greek,,Berroia
-b_aleppo,roman,,Beroea
-b_zardana,b_zardana,,Zardana
-b_zardana,b_zardana_adj,,
-b_zardana,andalusian_arabic,,al-Atarib
-b_zardana,bedouin_arabic,,al-Atarib
-b_zardana,egyptian_arabic,,al-Atarib
-b_zardana,frankish,,Cerepum
-b_zardana,greek,,Cerepum
-b_zardana,levantine_arabic,,al-Atarib
-b_zardana,maghreb_arabic,,al-Atarib
-b_zardana,norman,,Cerepum
-b_zardana,roman,,Cerepum
-b_zardana,sicilian_arabic,,al-Atarib
-b_buzaa,b_buzaa,,Buza'a
-b_buzaa,b_buzaa_adj,,
-b_buzaa,frankish,,Puthaha
-b_buzaa,norman,,Puthaha
-b_aleppocastle,b_aleppocastle,,Qala'at al-Halab
-b_aleppocastle,b_aleppocastle_adj,,
-b_aleppocastle,frankish,,Château de Halapia
-b_aleppocastle,greek,,Kastro Berroia
-b_aleppocastle,norman,,Château de Halapia
-b_aleppocastle,roman,,Castrum Beroea
-b_qinnasrin,b_qinnasrin,,Qinnasrin
-b_qinnasrin,b_qinnasrin_adj,,
-b_qinnasrin,greek,,Chalkis
-b_qinnasrin,roman,,Chalcis
-b_khanasir,b_khanasir,,Anasartha
-b_khanasir,b_khanasir_adj,,
-b_khanasir,greek,,Anasartha
-b_khanasir,roman,,Anasartha
-c_manbij,PROV1240,,Manbij
-c_manbij,c_manbij_adj,,Manbijan
-c_manbij,frankish,,Mombech
-c_manbij,c_manbij_adj_frankish,,Mombechan
-c_manbij,greek,,Hierapolis
-c_manbij,c_manbij_adj_greek,,Hierapolitan
-c_manbij,norman,,Mombech
-c_manbij,c_manbij_adj_norman,,Mombechan
-c_manbij,roman,,Hierapolis
-b_qalatnajm,b_qalatnajm,,Qal'at Najm
-b_qalatnajm,b_qalatnajm_adj,,
-b_qalatnajm,frankish,,Caeciliana
-b_qalatnajm,norman,,Caeciliana
-b_manbij,b_manbij,,Manbij
-b_manbij,b_manbij_adj,,
-b_manbij,frankish,,Mombech
-b_manbij,greek,,Hierapolis
-b_manbij,norman,,Mombech
-b_manbij,roman,,Hierapolis
-b_balissyria,b_balissyria,,Balis
-b_balissyria,b_balissyria_adj,,
-b_balissyria,greek,,Barbalissos
-b_balissyria,roman,,Barbalissos
-b_jarabulus,b_jarabulus,,Jarabulus
-b_jarabulus,b_jarabulus_adj,,
-b_jarabulus,frankish,,Geraple
-b_jarabulus,greek,,Europos
-b_jarabulus,kurdish,,Kaniya Dil
-b_jarabulus,norman,,Geraple
-b_jarabulus,roman,,Europos
-c_kafrtab,PROV1243,,Kafr-Tab
-c_kafrtab,c_kafrtab_adj,,Kafr-Taban
-c_kafrtab,frankish,,La Marre
-c_kafrtab,c_kafrtab_adj_frankish,,La Marran
-c_kafrtab,greek,,Arra
-c_kafrtab,c_kafrtab_adj_greek,,Arran
-c_kafrtab,norman,,La Marre
-c_kafrtab,c_kafrtab_adj_norman,,La Marran
-c_kafrtab,roman,,Arra
-b_maaratannuman,b_maaratannuman,,Ma'arat an Numan
-b_maaratannuman,b_maaratannuman_adj,,
-b_maaratannuman,frankish,,La Marre
-b_maaratannuman,greek,,Arra
-b_maaratannuman,norman,,La Marre
-b_maaratannuman,roman,,Arra
-b_serjilla,b_serjilla,,Serjilla
-b_serjilla,b_serjilla_adj,,
-b_bara,b_bara,,Bara
-b_bara,b_bara_adj,,
-b_bara,andalusian_arabic,,al-Bara
-b_bara,bedouin_arabic,,al-Bara
-b_bara,egyptian_arabic,,al-Bara
-b_bara,levantine_arabic,,al-Bara
-b_bara,maghreb_arabic,,al-Bara
-b_bara,sicilian_arabic,,al-Bara
-b_kafr_tab,b_kafr_tab,,Kafr-Tab
-b_kafr_tab,b_kafr_tab_adj,,
-b_kafr_tab,frankish,,Capharda
-b_kafr_tab,norman,,Capharda
-c_hama,PROV732,,Hama
-c_hama,c_hama_adj,,Haman
-c_hama,greek,,Epiphania
-c_hama,c_hama_adj_greek,,Epiphanian
-c_hama,roman,,Epiphania
-b_hama,b_hama,,Hama
-b_hama,b_hama_adj,,
-b_hama,greek,,Epiphania
-b_hama,roman,,Epiphania
-b_kafroun,b_kafroun,,Kafroun
-b_kafroun,b_kafroun_adj,,
-b_mhardeh,b_mhardeh,,Mhardeh
-b_mhardeh,b_mhardeh_adj,,
-b_shayzar,b_shayzar,,Shayzar
-b_shayzar,b_shayzar_adj,,
-b_shayzar,frankish,,Sizara
-b_shayzar,greek,,Larissa
-b_shayzar,norman,,Sizara
-b_shayzar,roman,,Larissa
-b_barinsyria,b_barinsyria,,Barin
-b_barinsyria,b_barinsyria_adj,,
-d_homs,d_homs,,Hims
-d_homs,d_homs_adj,,Himsan
-d_homs,greek,,Syria Salutaris
-d_homs,d_homs_adj_greek,,Syria Salutaran
-d_homs,roman,,Syria Salutaris
-d_homs,title_prefix,,JUND_OF
-c_homs,PROV731,,Hims
-c_homs,c_homs_adj,,Homsian
-c_homs,frankish,,La Chamelle
-c_homs,c_homs_adj_frankish,,La Chamellan
-c_homs,greek,,Emesa
-c_homs,c_homs_adj_greek,,Emesan
-c_homs,norman,,La Chamelle
-c_homs,c_homs_adj_norman,,La Chamellan
-c_homs,roman,,Emesa
-b_homs,b_homs,,Hims
-b_homs,b_homs_adj,,
-b_homs,frankish,,La Chamelle
-b_homs,greek,,Emesa
-b_homs,norman,,La Chamelle
-b_homs,roman,,Emesa
-b_sadad,b_sadad,,Sadad
-b_sadad,b_sadad_adj,,
-b_qusayr,b_qusayr,,Al-Qusayr
-b_qusayr,b_qusayr_adj,,
-b_monasteryofsaintmosestheabyssinian,b_monasteryofsaintmosestheabyssinian,,Deir Mar Musa al-Habash
-b_monasteryofsaintmosestheabyssinian,b_monasteryofsaintmosestheabyssinian_adj,,
-b_citadelofhoms,b_citadelofhoms,,Qala'at al-Hims
-b_citadelofhoms,b_citadelofhoms_adj,,
-b_citadelofhoms,frankish,,Château de La Chamelle
-b_citadelofhoms,greek,,Kastro Emesa
-b_citadelofhoms,norman,,Château de La Chamelle
-b_citadelofhoms,roman,,Castrum Emesa
-c_palmyra,PROV730,,Palmyra
-c_palmyra,c_palmyra_adj,,Palmyran
-b_arak,b_arak,,Arak
-b_arak,b_arak_adj,,
-b_arak,greek,,Aracha
-b_arak,roman,,Aracha
-b_palmyra,b_palmyra,,Palmyra
-b_palmyra,b_palmyra_adj,,
-b_baalshamin,b_baalshamin,,Baalshamin
-b_baalshamin,b_baalshamin_adj,,
-b_fakhraldinalmaani,b_fakhraldinalmaani,,Fakhr-al-Din al-Ma'ani
-b_fakhraldinalmaani,b_fakhraldinalmaani_adj,,
-b_qasralhayralsharqi,b_qasralhayralsharqi,,Qasr al-Hayr al-Sharqi
-b_qasralhayralsharqi,b_qasralhayralsharqi_adj,,
-b_alsukhnah,b_alsukhnah,,Al-Sukhnah
-b_alsukhnah,b_alsukhnah_adj,,
-c_salamiyah,PROV1242,,Salamiyah
-c_salamiyah,c_salamiyah_adj,,Salamiyan
-c_salamiyah,greek,,Salamias
-c_salamiyah,c_salamiyah_adj_greek,,Salamian
-c_salamiyah,roman,,Salamias
-b_salamiyah,b_salamiyah,,Salamiyah
-b_salamiyah,b_salamiyah_adj,,
-b_salamiyah,greek,,Salamias
-b_salamiyah,roman,,Salamias
-b_qasralhayralgharbi,b_qasralhayralgharbi,,Qasr al-Hayr al-Gharbi
-b_qasralhayralgharbi,b_qasralhayralgharbi_adj,,
-b_shmemiscastle,b_shmemiscastle,,Qala'at al-Shmami
-b_shmemiscastle,b_shmemiscastle_adj,,
-d_damascus,d_damascus,,Dimashq
-d_damascus,d_damascus_adj,,Dimashqan
-d_damascus,greek,,Phoenice Libanensis
-d_damascus,d_damascus_adj_greek,,Phoenice Libanensian
-d_damascus,roman,,Phoenice Libanensis
-d_damascus,title_prefix,,JUND_OF
-c_damascus,PROV728,,Ghutah
-c_damascus,c_damascus_adj,,Damascan
-c_damascus,assyrian,,Darmsûq
-c_damascus,frankish,,Damascus
-c_damascus,c_damascus_adj_frankish,,Damascian
-c_damascus,greek,,Damaskos
-c_damascus,c_damascus_adj_greek,,Damaskian
-c_damascus,norman,,Damascus
-c_damascus,c_damascus_adj_norman,,Damascian
-c_damascus,roman,,Damascus
-b_citadelofdamascus,b_citadelofdamascus,,Qal'at Dimašq
-b_citadelofdamascus,b_citadelofdamascus_adj,,
-b_citadelofdamascus,frankish,,Château de Damascus
-b_citadelofdamascus,greek,,Kastro Damaskos
-b_citadelofdamascus,norman,,Château de Damascus
-b_citadelofdamascus,roman,,Castrum Damascus
-b_damascus,b_damascus,,Dimašq
-b_damascus,b_damascus_adj,,
-b_damascus,assyrian,,Darmsûq
-b_damascus,frankish,,Damascus
-b_damascus,greek,,Damaskos
-b_damascus,norman,,Damascus
-b_damascus,roman,,Damascus
-b_martalqamonestary,b_martalqamonestary,,Mar Talqa
-b_martalqamonestary,b_martalqamonestary_adj,,
-b_jaramana,b_jaramana,,Jaramana
-b_jaramana,b_jaramana_adj,,
-b_darayya,b_darayya,,Da'iyyah
-b_darayya,b_darayya_adj,,
-b_marsarkismoenstary,b_marsarkismoenstary,,Mar Sarkis
-b_marsarkismoenstary,b_marsarkismoenstary_adj,,
-b_marsarkismoenstary,greek,,Monì tìs Agios Sergios
-b_aldumay,b_aldumay,,Dumayr
-b_aldumay,b_aldumay_adj,,
-c_baalbek,PROV768,,Bekaa
-c_baalbek,c_baalbek_adj,,Baalbekian
-c_baalbek,frankish,,Balbec
-c_baalbek,c_baalbek_adj_frankish,,Balbecan
-c_baalbek,greek,,Helioupolis
-c_baalbek,c_baalbek_adj_greek,,Helioupolitan
-c_baalbek,norman,,Balbec
-c_baalbek,c_baalbek_adj_norman,,Balbecan
-c_baalbek,roman,,Heliopolis
-b_baalbek,b_baalbek,,Ba'albek
-b_baalbek,b_baalbek_adj,,
-b_baalbek,frankish,,Balbec
-b_baalbek,greek,,Helioupolis
-b_baalbek,norman,,Balbec
-b_baalbek,roman,,Heliopolis
-b_rasbaalek,b_rasbaalek,,Deir Saidat ar-Ras
-b_rasbaalek,b_rasbaalek_adj,,
-b_rasbaalek,greek,,Conna
-b_rasbaalek,roman,,Conna
-b_nimrodcastle,b_nimrodcastle,,Qala'at al-Subeiba
-b_nimrodcastle,b_nimrodcastle_adj,,
-b_nimrodcastle,frankish,,Assebebe
-b_nimrodcastle,norman,,Assebebe
-b_fakiha,b_fakiha,,Al-Fakiha
-b_fakiha,b_fakiha_adj,,
-b_deirelahmar,b_deirelahmar,,Deir El Ahmar
-b_deirelahmar,b_deirelahmar_adj,,
-c_syria,PROV727,,Bathaniyya
-c_syria,c_syria_adj,,Bostrian
-c_syria,greek,,Adraa
-c_syria,c_syria_adj_greek,,Adraan
-c_syria,roman,,Adraa
-b_daraa,b_daraa,,Adra'at
-b_daraa,b_daraa_adj,,
-b_daraa,greek,,Adraa
-b_daraa,roman,,Adraa
-b_nawasyria,b_nawasyria,,Nawaa
-b_nawasyria,b_nawasyria_adj,,
-b_nawasyria,greek,,Neve
-b_nawasyria,roman,,Neve
-b_izra,b_izra,,Izra
-b_izra,b_izra_adj,,
-b_izra,greek,,Zorava
-b_izra,roman,,Zorava
-b_sanamayn,b_sanamayn,,Sanamayn
-b_sanamayn,b_sanamayn_adj,,
-c_suwaida,PROV712,,Hauran
-c_suwaida,c_suwaida_adj,,Suwaidan
-c_suwaida,greek,,Bostra
-c_suwaida,c_suwaida_adj_greek,,Bostran
-c_suwaida,roman,,Bostra
-b_suwaida,b_suwaida,,Suwaida
-b_suwaida,b_suwaida_adj,,
-b_suwaida,greek,,Dionysias
-b_suwaida,roman,,Dionysias
-b_busra,b_busra,,Busra
-b_busra,b_busra_adj,,
-b_busra,greek,,Bostra
-b_busra,roman,,Bostra
-b_shahba,b_shahba,,Shahba
-b_shahba,b_shahba_adj,,
-b_shahba,greek,,Philippopolis
-b_shahba,roman,,Philippopolis
-b_shaqqa,b_shaqqa,,Shaqqa
-b_shaqqa,b_shaqqa_adj,,
-b_shaqqa,greek,,Maximianopolis
-b_shaqqa,roman,,Maximianopolis
-d_jordan,d_jordan,,al-Urdunn
-d_jordan,d_jordan_adj,,al-Urdunnan
-d_jordan,greek,,Arabia Prima
-d_jordan,d_jordan_adj_greek,,Arabia Priman
-d_jordan,roman,,Arabia Prima
-d_jordan,title_prefix,,JUND_OF
-c_amman,PROV724,,Balqa
-c_amman,c_amman_adj,,Ammanian
-c_amman,frankish,,Ahamant
-c_amman,c_amman_adj_frankish,,Ahamantan
-c_amman,greek,,Philadelpheia
-c_amman,c_amman_adj_greek,,Philadelpheian
-c_amman,norman,,Ahamant
-c_amman,c_amman_adj_norman,,Ahamantan
-c_amman,roman,,Philadelphia
-b_amman,b_amman,,Amman
-b_amman,b_amman_adj,,
-b_amman,frankish,,Ahamant
-b_amman,greek,,Philadelpheia
-b_amman,norman,,Ahamant
-b_amman,roman,,Philadelphia
-b_dhiban,b_dhiban,,Dhiban
-b_dhiban,b_dhiban_adj,,
-b_dhiban,greek,,Dibon
-b_dhiban,roman,,Dibon
-b_salt,b_salt,,Salt
-b_salt,b_salt_adj,,
-b_salt,andalusian_arabic,,as-Salt
-b_salt,bedouin_arabic,,as-Salt
-b_salt,egyptian_arabic,,as-Salt
-b_salt,greek,,Saltus
-b_salt,levantine_arabic,,as-Salt
-b_salt,maghreb_arabic,,as-Salt
-b_salt,roman,,Saltus
-b_salt,sicilian_arabic,,as-Salt
-b_mahis,b_mahis,,Mahis
-b_mahis,b_mahis_adj,,
-b_fuheis,b_fuheis,,Fuheis
-b_fuheis,b_fuheis_adj,,
-b_qastal,b_qastal,,Qastal
-b_qastal,b_qastal_adj,,
-c_az_zarqa,PROV714,,Azraq
-c_az_zarqa,c_az_zarqa_adj,,Az Zarqan
-c_az_zarqa,greek,,Basienis
-c_az_zarqa,c_az_zarqa_adj_greek,,Basienan
-c_az_zarqa,roman,,Basienis
-b_amratamad,b_amratamad,,Amrat Amad
-b_amratamad,b_amratamad_adj,,
-b_azraq,b_azraq,,Azraq
-b_azraq,b_azraq_adj,,
-b_azraq,greek,,Basienis
-b_azraq,roman,,Basienis
-b_kharana,b_kharana,,Qasr Kharana
-b_kharana,b_kharana_adj,,
-b_amrah,b_amrah,,Qasr Amra
-b_amrah,b_amrah_adj,,
-c_madaba,PROV723,,Jarash
-c_madaba,c_madaba_adj,,Madaban
-c_madaba,frankish,,Gerasa
-c_madaba,c_madaba_adj_frankish,,Gerasan
-c_madaba,greek,,Arbela
-c_madaba,c_madaba_adj_greek,,Arbelan
-c_madaba,norman,,Gerasa
-c_madaba,c_madaba_adj_norman,,Gerasan
-c_madaba,roman,,Arbela
-b_muwaqqar,b_muwaqqar,,Muwaqqar
-b_muwaqqar,b_muwaqqar_adj,,
-b_irbid,b_irbid,,Irbid
-b_irbid,b_irbid_adj,,
-b_irbid,greek,,Arbela
-b_irbid,roman,,Arbela
-b_aljun,b_aljun,,Aljun
-b_aljun,b_aljun_adj,,
-b_aljun,frankish,,Haylon
-b_aljun,greek,,Pella
-b_aljun,norman,,Haylon
-b_aljun,roman,,Pella
-b_jerash,b_jerash,,Jerash
-b_jerash,b_jerash_adj,,
-b_jerash,frankish,,Gerasa
-b_jerash,greek,,Gerasa
-b_jerash,norman,,Gerasa
-b_jerash,roman,,Gerasa
-b_qasr_al_hallabat,b_qasr_al_hallabat,,Qasr Al-Hallabat
-b_qasr_al_hallabat,b_qasr_al_hallabat_adj,,
-k_jerusalem,k_jerusalem,,Jerusalem
-k_jerusalem,k_jerusalem_adj,,Jerusalemite
-k_jerusalem,andalusian_arabic,,Filastin
-k_jerusalem,bedouin_arabic,,Filastin
-k_jerusalem,egyptian_arabic,,Filastin
-k_jerusalem,greek,,Palaestina
-k_jerusalem,levantine_arabic,,Filastin
-k_jerusalem,maghreb_arabic,,Filastin
-k_jerusalem,masmuda,,Filastin
-k_jerusalem,sanhaja,,Filastin
-k_jerusalem,sicilian_arabic,,Filastin
-k_jerusalem,tagelmust,,Filastin
-k_jerusalem,tuareg,,Filastin
-k_jerusalem,zanata,,Filastin
-d_jerusalem,d_jerusalem,,Jerusalem
-d_jerusalem,d_jerusalem_adj,,Jerusalemite
-d_jerusalem,andalusian_arabic,,Filastin
-d_jerusalem,bedouin_arabic,,Filastin
-d_jerusalem,egyptian_arabic,,Filastin
-d_jerusalem,greek,,Palaestina Prima
-d_jerusalem,d_jerusalem_adj_greek,,Palaestina Priman
-d_jerusalem,levantine_arabic,,Filastin
-d_jerusalem,maghreb_arabic,,Filastin
-d_jerusalem,masmuda,,Filastin
-d_jerusalem,roman,,Palaestina Prima
-d_jerusalem,sanhaja,,Filastin
-d_jerusalem,sicilian_arabic,,Filastin
-d_jerusalem,tagelmust,,Filastin
-d_jerusalem,tuareg,,Filastin
-d_jerusalem,zanata,,Filastin
-c_jerusalem,PROV774,,Jérusalem
-c_jerusalem,c_jerusalem_adj,,Jerusalemite
-c_jerusalem,andalusian_arabic,,Al-Quds
-c_jerusalem,c_jerusalem_adj_andalusian_arabic,,Qudsian
-c_jerusalem,bedouin_arabic,,Al-Quds
-c_jerusalem,c_jerusalem_adj_bedouin_arabic,,Qudsian
-c_jerusalem,egyptian_arabic,,Al-Quds
-c_jerusalem,c_jerusalem_adj_egyptian_arabic,,Qudsian
-c_jerusalem,greek,,Hierosolyma
-c_jerusalem,c_jerusalem_adj_greek,,Hierosolyman
-c_jerusalem,levantine_arabic,,Al-Quds
-c_jerusalem,c_jerusalem_adj_levantine_arabic,,Qudsian
-c_jerusalem,maghreb_arabic,,Al-Quds
-c_jerusalem,c_jerusalem_adj_maghreb_arabic,,Qudsian
-c_jerusalem,masmuda,,Al-Quds
-c_jerusalem,c_jerusalem_adj_masmuda,,Qudsian
-c_jerusalem,oghuz,,Kudüs
-c_jerusalem,c_jerusalem_adj_oghuz,,Küdüsi
-c_jerusalem,roman,,Ierosolyma
-c_jerusalem,sanhaja,,Al-Quds
-c_jerusalem,c_jerusalem_adj_sanhaja,,Qudsian
-c_jerusalem,sicilian_arabic,,Al-Quds
-c_jerusalem,c_jerusalem_adj_sicilian_arabic,,Qudsian
-c_jerusalem,tagelmust,,Al-Quds
-c_jerusalem,c_jerusalem_adj_tagelmust,,Qudsian
-c_jerusalem,tuareg,,Al-Quds
-c_jerusalem,c_jerusalem_adj_tuareg,,Qudsian
-c_jerusalem,turkish,,Kudüs
-c_jerusalem,c_jerusalem_adj_turkish,,Küdüsi
-c_jerusalem,turkmen,,Kudüs
-c_jerusalem,c_jerusalem_adj_turkmen,,Küdüsi
-c_jerusalem,zanata,,Al-Quds
-c_jerusalem,c_jerusalem_adj_zanata,,Qudsian
-b_towerofdavid,b_towerofdavid,,Tour de David
-b_towerofdavid,b_towerofdavid_adj,,
-b_towerofdavid,andalusian_arabic,,Burj Daud
-b_towerofdavid,bedouin_arabic,,Burj Daud
-b_towerofdavid,egyptian_arabic,,Burj Daud
-b_towerofdavid,greek,,Kastro David
-b_towerofdavid,levantine_arabic,,Burj Daud
-b_towerofdavid,maghreb_arabic,,Burj Daud
-b_towerofdavid,masmuda,,Burj Daud
-b_towerofdavid,sanhaja,,Burj Daud
-b_towerofdavid,sicilian_arabic,,Burj Daud
-b_towerofdavid,tagelmust,,Burj Daud
-b_towerofdavid,tuareg,,Burj Daud
-b_towerofdavid,zanata,,Burj Daud
-b_bethlehem,b_bethlehem,,Bethleem
-b_bethlehem,b_bethlehem_adj,,
-b_jerusalem,b_jerusalem,,Jérusalem
-b_jerusalem,b_jerusalem_adj,,
-b_jerusalem,andalusian_arabic,,Al-Quds
-b_jerusalem,bedouin_arabic,,Al-Quds
-b_jerusalem,egyptian_arabic,,Al-Quds
-b_jerusalem,levantine_arabic,,Al-Quds
-b_jerusalem,maghreb_arabic,,Al-Quds
-b_jerusalem,masmuda,,Al-Quds
-b_jerusalem,oghuz,,Kudüs
-b_jerusalem,sanhaja,,Al-Quds
-b_jerusalem,sicilian_arabic,,Al-Quds
-b_jerusalem,tagelmust,,Al-Quds
-b_jerusalem,tuareg,,Al-Quds
-b_jerusalem,turkish,,Kudüs
-b_jerusalem,turkmen,,Kudüs
-b_jerusalem,zanata,,Al-Quds
-b_rammala,b_rammala,,Ramelie
-b_rammala,b_rammala_adj,,
-b_rammala,greek,,Rámla
-b_rammala,roman,,Rámla
-b_blanchegarde,b_blanchegarde,,Blanche Garde
-b_blanchegarde,b_blanchegarde_adj,,
-b_blanchegarde,greek,,Lefki Froura
-b_saintsamuel,b_saintsamuel,,St-Samuel
-b_saintsamuel,b_saintsamuel_adj,,
-b_saintsamuel,greek,,Monì tìs Agios Samuel
-c_beersheb,PROV779,,Naples
-c_beersheb,c_beersheb_adj,,Beershebian
-c_beersheb,andalusian_arabic,,Nablus
-c_beersheb,c_beersheb_adj_andalusian_arabic,,Nablusi
-c_beersheb,bedouin_arabic,,Nablus
-c_beersheb,c_beersheb_adj_bedouin_arabic,,Nablusi
-c_beersheb,egyptian_arabic,,Nablus
-c_beersheb,c_beersheb_adj_egyptian_arabic,,Nablusi
-c_beersheb,greek,,Neapolis
-c_beersheb,c_beersheb_adj_greek,,Neapolitan
-c_beersheb,levantine_arabic,,Nablus
-c_beersheb,c_beersheb_adj_levantine_arabic,,Nablusi
-c_beersheb,maghreb_arabic,,Nablus
-c_beersheb,c_beersheb_adj_maghreb_arabic,,Nablusi
-c_beersheb,masmuda,,Nablus
-c_beersheb,c_beersheb_adj_masmuda,,Nablusi
-c_beersheb,roman,,Neapolis
-c_beersheb,sanhaja,,Nablus
-c_beersheb,c_beersheb_adj_sanhaja,,Nablusi
-c_beersheb,sicilian_arabic,,Nablus
-c_beersheb,c_beersheb_adj_sicilian_arabic,,Nablusi
-c_beersheb,tagelmust,,Nablus
-c_beersheb,c_beersheb_adj_tagelmust,,Nablusi
-c_beersheb,tuareg,,Nablus
-c_beersheb,c_beersheb_adj_tuareg,,Nablusi
-c_beersheb,zanata,,Nablus
-c_beersheb,c_beersheb_adj_zanata,,Nablusi
-b_bethsan,b_bethsan,,Bethsan
-b_bethsan,b_bethsan_adj,,
-b_bethsan,greek,,Skythopolis
-b_bethsan,roman,,Scythopolis
-b_nablus,b_nablus,,Naples
-b_nablus,b_nablus_adj,,
-b_nablus,greek,,Neapolis
-b_nablus,roman,,Neapolis
-b_jericho,b_jericho,,Jericho
-b_jericho,b_jericho_adj,,
-b_jericho,greek,,Ierichó
-b_jericho,roman,,Ierichó
-b_lafeve,b_lafeve,,La Feve
-b_lafeve,b_lafeve_adj,,
-c_hebron,PROV776,,St-Abraham
-c_hebron,c_hebron_adj,,Hebronian
-c_hebron,andalusian_arabic,,El-Khail
-c_hebron,c_hebron_adj_andalusian_arabic,,Khailan
-c_hebron,bedouin_arabic,,El-Khail
-c_hebron,c_hebron_adj_bedouin_arabic,,Khailan
-c_hebron,egyptian_arabic,,El-Khail
-c_hebron,c_hebron_adj_egyptian_arabic,,Khailan
-c_hebron,greek,,Hebrón
-c_hebron,c_hebron_adj_greek,,Hebrónan
-c_hebron,levantine_arabic,,El-Khail
-c_hebron,c_hebron_adj_levantine_arabic,,Khailan
-c_hebron,maghreb_arabic,,El-Khail
-c_hebron,c_hebron_adj_maghreb_arabic,,Khailan
-c_hebron,masmuda,,El-Khail
-c_hebron,c_hebron_adj_masmuda,,Khailan
-c_hebron,roman,,Hebron
-c_hebron,sanhaja,,El-Khail
-c_hebron,c_hebron_adj_sanhaja,,Khailan
-c_hebron,sicilian_arabic,,El-Khail
-c_hebron,c_hebron_adj_sicilian_arabic,,Khailan
-c_hebron,tagelmust,,El-Khail
-c_hebron,c_hebron_adj_tagelmust,,Khailan
-c_hebron,tuareg,,El-Khail
-c_hebron,c_hebron_adj_tuareg,,Khailan
-c_hebron,zanata,,El-Khail
-c_hebron,c_hebron_adj_zanata,,Khailan
-b_hebron,b_hebron,,St-Abraham
-b_hebron,b_hebron_adj,,
-b_hebron,andalusian_arabic,,El-Khail
-b_hebron,bedouin_arabic,,El-Khail
-b_hebron,egyptian_arabic,,El-Khail
-b_hebron,greek,,Hebrón
-b_hebron,levantine_arabic,,El-Khail
-b_hebron,maghreb_arabic,,El-Khail
-b_hebron,masmuda,,El-Khail
-b_hebron,roman,,Hebron
-b_hebron,sanhaja,,El-Khail
-b_hebron,sicilian_arabic,,El-Khail
-b_hebron,tagelmust,,El-Khail
-b_hebron,tuareg,,El-Khail
-b_hebron,zanata,,El-Khail
-b_syrcarmel,b_syrcarmel,,Carmel
-b_syrcarmel,b_syrcarmel_adj,,
-b_alsamoa,b_alsamoa,,Samoe
-b_alsamoa,b_alsamoa_adj,,
-b_bethgibelin,b_bethgibelin,,Beth Gibelin
-b_bethgibelin,b_bethgibelin_adj,,
-b_bethgibelin,greek,,Eleutheropolis
-b_bethgibelin,roman,,Eleutheropolis
-c_darum,PROV781,,Darom
-c_darum,c_darum_adj,,Darumian
-b_darum,b_darum,,Darom
-b_darum,b_darum_adj,,
-b_gaza,b_gaza,,Gaza
-b_gaza,b_gaza_adj,,
-b_radwan,b_radwan,,Radwan
-b_radwan,b_radwan_adj,,
-b_salqah,b_salqah,,Salqah
-b_salqah,b_salqah_adj,,
-d_acre,d_acre,,Acre
-d_acre,d_acre_adj,,Acrean
-d_acre,andalusian_arabic,,Akka
-d_acre,bedouin_arabic,,Akka
-d_acre,egyptian_arabic,,Akka
-d_acre,greek,,Tyros
-d_acre,d_acre_adj_greek,,Tyrian
-d_acre,levantine_arabic,,Akka
-d_acre,maghreb_arabic,,Akka
-d_acre,masmuda,,Akka
-d_acre,roman,,Tyrus
-d_acre,sanhaja,,Akka
-d_acre,sicilian_arabic,,Akka
-d_acre,tagelmust,,Akka
-d_acre,tuareg,,Akka
-d_acre,zanata,,Akka
-c_acre,PROV772,,Acre
-c_acre,c_acre_adj,,Acrenian
-c_acre,andalusian_arabic,,Akka
-c_acre,c_acre_adj_andalusian_arabic,,Akkan
-c_acre,bedouin_arabic,,Akka
-c_acre,c_acre_adj_bedouin_arabic,,Akkan
-c_acre,egyptian_arabic,,Akka
-c_acre,c_acre_adj_egyptian_arabic,,Akkan
-c_acre,greek,,Ptolemais
-c_acre,c_acre_adj_greek,,Ptolemaian
-c_acre,levantine_arabic,,Akka
-c_acre,c_acre_adj_levantine_arabic,,Akkan
-c_acre,maghreb_arabic,,Akka
-c_acre,c_acre_adj_maghreb_arabic,,Akkan
-c_acre,masmuda,,Akka
-c_acre,c_acre_adj_masmuda,,Akkan
-c_acre,roman,,Ptolemais
-c_acre,sanhaja,,Akka
-c_acre,c_acre_adj_sanhaja,,Akkan
-c_acre,sicilian_arabic,,Akka
-c_acre,c_acre_adj_sicilian_arabic,,Akkan
-c_acre,tagelmust,,Akka
-c_acre,c_acre_adj_tagelmust,,Akkan
-c_acre,tuareg,,Akka
-c_acre,c_acre_adj_tuareg,,Akkan
-c_acre,zanata,,Akka
-c_acre,c_acre_adj_zanata,,Akkan
-b_acre,b_acre,,Acre
-b_acre,b_acre_adj,,
-b_acre,andalusian_arabic,,Akka
-b_acre,bedouin_arabic,,Akka
-b_acre,egyptian_arabic,,Akka
-b_acre,greek,,Ptolemais
-b_acre,levantine_arabic,,Akka
-b_acre,maghreb_arabic,,Akka
-b_acre,masmuda,,Akka
-b_acre,roman,,Ptolemais
-b_acre,sanhaja,,Akka
-b_acre,sicilian_arabic,,Akka
-b_acre,tagelmust,,Akka
-b_acre,tuareg,,Akka
-b_acre,zanata,,Akka
-b_castellumregis,b_castellumregis,,Castellum Regis
-b_castellumregis,b_castellumregis_adj,,
-b_castellumregis,andalusian_arabic,,Qal'at Qurein
-b_castellumregis,bedouin_arabic,,Qal'at Qurein
-b_castellumregis,egyptian_arabic,,Qal'at Qurein
-b_castellumregis,german,,Starkenberg
-b_castellumregis,greek,,Kastro Basileios
-b_castellumregis,levantine_arabic,,Qal'at Qurein
-b_castellumregis,maghreb_arabic,,Qal'at Qurein
-b_castellumregis,sicilian_arabic,,Qal'at Qurein
-b_tyrus,b_tyrus,,Tyrus
-b_tyrus,b_tyrus_adj,,
-b_tyrus,andalusian_arabic,,Sur
-b_tyrus,bedouin_arabic,,Sur
-b_tyrus,egyptian_arabic,,Sur
-b_tyrus,greek,,Tyros
-b_tyrus,levantine_arabic,,Sur
-b_tyrus,maghreb_arabic,,Sur
-b_tyrus,masmuda,,Sur
-b_tyrus,roman,,Tyrus
-b_tyrus,sanhaja,,Sur
-b_tyrus,sicilian_arabic,,Sur
-b_tyrus,tagelmust,,Sur
-b_tyrus,tuareg,,Sur
-b_tyrus,zanata,,Sur
-b_haifa,b_haifa,,Haifa
-b_haifa,b_haifa_adj,,
-b_haifa,greek,,Hepha
-b_haifa,roman,,Hepha
-b_scandelon,b_scandelon,,Escalone
-b_scandelon,b_scandelon_adj,,
-b_adelon,b_adelon,,Adelon
-b_adelon,b_adelon_adj,,
-b_adelon,andalusian_arabic,,Ad'loun
-b_adelon,bedouin_arabic,,Ad'loun
-b_adelon,egyptian_arabic,,Ad'loun
-b_adelon,levantine_arabic,,Ad'loun
-b_adelon,maghreb_arabic,,Ad'loun
-b_adelon,sicilian_arabic,,Ad'loun
-c_tyrus,PROV771,,Sidon
-c_tyrus,c_tyrus_adj,,Sidonian
-c_tyrus,andalusian_arabic,,Sayda
-c_tyrus,c_tyrus_adj_andalusian_arabic,,Saydan
-c_tyrus,bedouin_arabic,,Sayda
-c_tyrus,c_tyrus_adj_bedouin_arabic,,Saydan
-c_tyrus,egyptian_arabic,,Sayda
-c_tyrus,c_tyrus_adj_egyptian_arabic,,Saydan
-c_tyrus,levantine_arabic,,Sayda
-c_tyrus,c_tyrus_adj_levantine_arabic,,Saydan
-c_tyrus,maghreb_arabic,,Sayda
-c_tyrus,c_tyrus_adj_maghreb_arabic,,Saydan
-c_tyrus,masmuda,,Sayda
-c_tyrus,c_tyrus_adj_masmuda,,Saydan
-c_tyrus,oghuz,,Sayda
-c_tyrus,sanhaja,,Sayda
-c_tyrus,c_tyrus_adj_sanhaja,,Saydan
-c_tyrus,sicilian_arabic,,Sayda
-c_tyrus,c_tyrus_adj_sicilian_arabic,,Saydan
-c_tyrus,tagelmust,,Sayda
-c_tyrus,c_tyrus_adj_tagelmust,,Saydan
-c_tyrus,tuareg,,Sayda
-c_tyrus,c_tyrus_adj_tuareg,,Saydan
-c_tyrus,turkish,,Sayda
-c_tyrus,turkmen,,Sayda
-c_tyrus,zanata,,Sayda
-c_tyrus,c_tyrus_adj_zanata,,Saydan
-b_sarafand,b_sarafand,,Sarafand
-b_sarafand,b_sarafand_adj,,
-b_sidon,b_sidon,,Sidon
-b_sidon,b_sidon_adj,,
-b_sidon,andalusian_arabic,,Sayda
-b_sidon,bedouin_arabic,,Sayda
-b_sidon,egyptian_arabic,,Sayda
-b_sidon,levantine_arabic,,Sayda
-b_sidon,maghreb_arabic,,Sayda
-b_sidon,masmuda,,Sayda
-b_sidon,oghuz,,Sayda
-b_sidon,sanhaja,,Sayda
-b_sidon,sicilian_arabic,,Sayda
-b_sidon,tagelmust,,Sayda
-b_sidon,tuareg,,Sayda
-b_sidon,turkish,,Sayda
-b_sidon,turkmen,,Sayda
-b_sidon,zanata,,Sayda
-b_syrbelfort,b_syrbelfort,,Belfort
-b_syrbelfort,b_syrbelfort_adj,,
-b_schuf,b_schuf,,Schuf
-b_schuf,b_schuf_adj,,
-b_schuf,andalusian_arabic,,Chouf
-b_schuf,bedouin_arabic,,Chouf
-b_schuf,egyptian_arabic,,Chouf
-b_schuf,levantine_arabic,,Chouf
-b_schuf,maghreb_arabic,,Chouf
-b_schuf,sicilian_arabic,,Chouf
-c_caesarea,PROV1260,,Caesarea
-c_caesarea,c_caesarea_adj,,Caesarean
-c_caesarea,greek,,Parálios Kaisáreia
-c_caesarea,c_caesarea_adj_greek,,Kaisáreian
-c_caesarea,roman,,Caesarea
-b_caymont,b_caymont,,Caymont
-b_caymont,b_caymont_adj,,
-b_caymont,greek,,Cammona
-b_caymont,roman,,Cammona
-b_arsuf,b_arsuf,,Arsour
-b_arsuf,b_arsuf_adj,,
-b_arsuf,greek,,Apollonia
-b_arsuf,roman,,Apollonia
-b_syrcaesarea,b_syrcaesarea,,Caesarea
-b_syrcaesarea,b_syrcaesarea_adj,,
-b_syrcaesarea,greek,,Parálios Kaisáreia
-b_syrcaesarea,roman,,Caesarea
-b_calansue,b_calansue,,Calansue
-b_calansue,b_calansue_adj,,
-d_oultrejourdain,d_oultrejourdain,,Oultrejourdain
-d_oultrejourdain,d_oultrejourdain_adj,,Oultrejourdainian
-d_oultrejourdain,greek,,Palaestina Salutaris
-d_oultrejourdain,d_oultrejourdain_adj_greek,,Palaestinia Salutaran
-d_oultrejourdain,roman,,Palaestina Salutaris
-c_monreal,PROV778,,Monreal
-c_monreal,c_monreal_adj,,Monrealian
-c_monreal,andalusian_arabic,,Shobak
-c_monreal,c_monreal_adj_andalusian_arabic,,Shobakian
-c_monreal,bedouin_arabic,,Shobak
-c_monreal,c_monreal_adj_bedouin_arabic,,Shobakian
-c_monreal,egyptian_arabic,,Shobak
-c_monreal,c_monreal_adj_egyptian_arabic,,Shobakian
-c_monreal,levantine_arabic,,Shobak
-c_monreal,c_monreal_adj_levantine_arabic,,Shobakian
-c_monreal,maghreb_arabic,,Shobak
-c_monreal,c_monreal_adj_maghreb_arabic,,Shobakian
-c_monreal,masmuda,,Shobak
-c_monreal,c_monreal_adj_masmuda,,Shobakian
-c_monreal,sanhaja,,Shobak
-c_monreal,c_monreal_adj_sanhaja,,Shobakian
-c_monreal,sicilian_arabic,,Shobak
-c_monreal,c_monreal_adj_sicilian_arabic,,Shobakian
-c_monreal,tagelmust,,Shobak
-c_monreal,c_monreal_adj_tagelmust,,Shobakian
-c_monreal,tuareg,,Shobak
-c_monreal,c_monreal_adj_tuareg,,Shobakian
-c_monreal,zanata,,Shobak
-c_monreal,c_monreal_adj_zanata,,Shobakian
-b_monreal,b_monreal,,Monreal
-b_monreal,b_monreal_adj,,
-b_monreal,andalusian_arabic,,Shobak
-b_monreal,bedouin_arabic,,Shobak
-b_monreal,egyptian_arabic,,Shobak
-b_monreal,levantine_arabic,,Shobak
-b_monreal,maghreb_arabic,,Shobak
-b_monreal,masmuda,,Shobak
-b_monreal,sanhaja,,Shobak
-b_monreal,sicilian_arabic,,Shobak
-b_monreal,tagelmust,,Shobak
-b_monreal,tuareg,,Shobak
-b_monreal,zanata,,Shobak
-b_syrsegor,b_syrsegor,,Segor
-b_syrsegor,b_syrsegor_adj,,
-b_alwuayra,b_alwuayra,,Al-Wu'ayra
-b_alwuayra,b_alwuayra_adj,,
-b_petra,b_petra,,Sela
-b_petra,b_petra_adj,,
-c_petra,PROV722,,Elim
-c_petra,c_petra_adj,,Petran
-c_petra,andalusian_arabic,,Aqabah
-c_petra,bedouin_arabic,,Aqabah
-c_petra,egyptian_arabic,,Aqabah
-c_petra,greek,,Aila
-c_petra,c_petra_adj_greek,,Ailan
-c_petra,levantine_arabic,,Aqabah
-c_petra,maghreb_arabic,,Aqabah
-c_petra,roman,,Aila
-c_petra,sicilian_arabic,,Aqabah
-b_pharaohosisland,b_pharaohosisland,,Ile de Graye
-b_pharaohosisland,b_pharaohosisland_adj,,
-b_jordanaqba,b_jordanaqba,,Elim
-b_jordanaqba,b_jordanaqba_adj,,
-b_jordanaqba,andalusian_arabic,,Aqabah
-b_jordanaqba,bedouin_arabic,,Aqabah
-b_jordanaqba,egyptian_arabic,,Aqabah
-b_jordanaqba,greek,,Aila
-b_jordanaqba,levantine_arabic,,Aqabah
-b_jordanaqba,maghreb_arabic,,Aqabah
-b_jordanaqba,roman,,Aila
-b_jordanaqba,sicilian_arabic,,Aqabah
-b_syrarandal,b_syrarandal,,Arandal
-b_syrarandal,b_syrarandal_adj,,
-c_kerak,PROV777,,Kerak
-c_kerak,c_kerak_adj,,Kerakian
-c_kerak,andalusian_arabic,,Al-Karak
-c_kerak,bedouin_arabic,,Al-Karak
-c_kerak,egyptian_arabic,,Al-Karak
-c_kerak,levantine_arabic,,Al-Karak
-c_kerak,maghreb_arabic,,Al-Karak
-c_kerak,masmuda,,Al-Karak
-c_kerak,sanhaja,,Al-Karak
-c_kerak,sicilian_arabic,,Al-Karak
-c_kerak,tagelmust,,Al-Karak
-c_kerak,tuareg,,Al-Karak
-c_kerak,zanata,,Al-Karak
-b_krakdemoab,b_krakdemoab,,Krak de Moab
-b_krakdemoab,b_krakdemoab_adj,,
-b_krakdemoab,frankish,,Le Crac
-b_krakdemoab,greek,,Characmoba
-b_krakdemoab,norman,,Le Crac
-b_krakdemoab,roman,,Characmoba
-b_kerak,b_kerak,,Kerak
-b_kerak,b_kerak_adj,,
-b_kerak,andalusian_arabic,,Al-Karak
-b_kerak,bedouin_arabic,,Al-Karak
-b_kerak,egyptian_arabic,,Al-Karak
-b_kerak,greek,,Harreketh
-b_kerak,levantine_arabic,,Al-Karak
-b_kerak,maghreb_arabic,,Al-Karak
-b_kerak,masmuda,,Al-Karak
-b_kerak,roman,,Harreketh
-b_kerak,sanhaja,,Al-Karak
-b_kerak,sicilian_arabic,,Al-Karak
-b_kerak,tagelmust,,Al-Karak
-b_kerak,tuareg,,Al-Karak
-b_kerak,zanata,,Al-Karak
-b_syrdibban,b_syrdibban,,Dibban
-b_syrdibban,b_syrdibban_adj,,
-b_tafila,b_tafila,,Taphila
-b_tafila,b_tafila_adj,,
-b_tafila,frankish,,Taphila
-b_tafila,greek,,Taphila
-b_tafila,norman,,Taphila
-b_tafila,roman,,Taphila
-d_ascalon,d_ascalon,,Jaffa-Ascalon
-d_ascalon,d_ascalon_adj,,Jaffan
-d_ascalon,d_ascalon_adj_greek,,Ascalonian
-c_jaffa,PROV775,,Jaffa
-c_jaffa,c_jaffa_adj,,Jaffan
-c_jaffa,greek,,Ioppa
-c_jaffa,c_jaffa_adj_greek,,Ioppan
-c_jaffa,roman,,Ioppe
-b_qula,b_qula,,Qula
-b_qula,b_qula_adj,,
-b_jaffa,b_jaffa,,Jaffa
-b_jaffa,b_jaffa_adj,,
-b_jaffa,greek,,Ioppa
-b_jaffa,roman,,Ioppe
-b_lydda,b_lydda,,Lidde
-b_lydda,b_lydda_adj,,
-b_mirabel,b_mirabel,,Mirabel
-b_mirabel,b_mirabel_adj,,
-b_beitdejan,b_beitdejan,,Casal Moein
-b_beitdejan,b_beitdejan_adj,,
-c_ascalon,PROV780,,Ascalon
-c_ascalon,c_ascalon_adj,,Ascalonian
-c_ascalon,andalusian_arabic,,Asqalan
-c_ascalon,bedouin_arabic,,Asqalan
-c_ascalon,egyptian_arabic,,Asqalan
-c_ascalon,levantine_arabic,,Asqalan
-c_ascalon,maghreb_arabic,,Asqalan
-c_ascalon,masmuda,,Asqalan
-c_ascalon,sanhaja,,Asqalan
-c_ascalon,sicilian_arabic,,Asqalan
-c_ascalon,tagelmust,,Asqalan
-c_ascalon,tuareg,,Asqalan
-c_ascalon,zanata,,Asqalan
-b_ascalon,b_ascalon,,Ascalon
-b_ascalon,b_ascalon_adj,,
-b_ascalon,andalusian_arabic,,Asqalan
-b_ascalon,bedouin_arabic,,Asqalan
-b_ascalon,egyptian_arabic,,Asqalan
-b_ascalon,levantine_arabic,,Asqalan
-b_ascalon,maghreb_arabic,,Asqalan
-b_ascalon,masmuda,,Asqalan
-b_ascalon,sanhaja,,Asqalan
-b_ascalon,sicilian_arabic,,Asqalan
-b_ascalon,tagelmust,,Asqalan
-b_ascalon,tuareg,,Asqalan
-b_ascalon,zanata,,Asqalan
-b_karatiyya,b_karatiyya,,Galatie
-b_karatiyya,b_karatiyya_adj,,
-b_laforbie,b_laforbie,,La Forbie
-b_laforbie,b_laforbie_adj,,
-c_ibelin,PROV1262,,Ibelin
-c_ibelin,c_ibelin_adj,,Orlando Bloom!!
-c_ibelin,greek,,Iamnia
-c_ibelin,c_ibelin_adj_greek,,Iamnian
-b_ibelin,b_ibelin,,Ibelin
-b_ibelin,b_ibelin_adj,,
-b_ibelin,andalusian_arabic,,Iamnia
-b_ibelin,bedouin_arabic,,Iamnia
-b_ibelin,egyptian_arabic,,Iamnia
-b_ibelin,greek,,Iamnia
-b_ibelin,levantine_arabic,,Iamnia
-b_ibelin,maghreb_arabic,,Iamnia
-b_ibelin,masmuda,,Iamnia
-b_ibelin,sanhaja,,Iamnia
-b_ibelin,sicilian_arabic,,Iamnia
-b_ibelin,tagelmust,,Iamnia
-b_ibelin,tuareg,,Iamnia
-b_ibelin,zanata,,Iamnia
-b_ramleh,b_ramleh,,Ramleh
-b_ramleh,b_ramleh_adj,,
-b_latrun,b_latrun,,Latrun
-b_latrun,b_latrun_adj,,
-b_montgisard,b_montgisard,,Montgisard
-b_montgisard,b_montgisard_adj,,
-d_galilee,d_galilee,,Principauté de Galilée
-d_galilee,d_galilee_adj,,Palaestinian
-d_galilee,andalusian_arabic,,Al-Jalil
-d_galilee,d_galilee_adj_andalusian_arabic,,Jalilan
-d_galilee,bedouin_arabic,,Al-Jalil
-d_galilee,d_galilee_adj_bedouin_arabic,,Jalilan
-d_galilee,egyptian_arabic,,Al-Jalil
-d_galilee,d_galilee_adj_egyptian_arabic,,Jalilan
-d_galilee,greek,,Palaestina Secunda
-d_galilee,d_galilee_adj_greek,,Palaestina Secundan
-d_galilee,levantine_arabic,,Al-Jalil
-d_galilee,d_galilee_adj_levantine_arabic,,Jalilan
-d_galilee,maghreb_arabic,,Al-Jalil
-d_galilee,d_galilee_adj_maghreb_arabic,,Jalilan
-d_galilee,masmuda,,Al-Jalil
-d_galilee,roman,,Palaestina Secunda
-d_galilee,sanhaja,,Al-Jalil
-d_galilee,sicilian_arabic,,Al-Jalil
-d_galilee,d_galilee_adj_sicilian_arabic,,Jalilan
-d_galilee,tagelmust,,Al-Jalil
-d_galilee,tuareg,,Al-Jalil
-d_galilee,zanata,,Al-Jalil
-d_galilee,short_name,,yes
-c_tiberias,PROV773,,Tiberias
-c_tiberias,c_tiberias_adj,,Tiberian
-b_tiberias,b_tiberias,,Tiberias
-b_tiberias,b_tiberias_adj,,
-b_belvoir,b_belvoir,,Belvoir
-b_belvoir,b_belvoir_adj,,
-b_cavedesueth,b_cavedesueth,,Cave de Sueth
-b_cavedesueth,b_cavedesueth_adj,,
-b_cavedesueth,andalusian_arabic,,Ain al-Habis
-b_cavedesueth,bedouin_arabic,,Ain al-Habis
-b_cavedesueth,egyptian_arabic,,Ain al-Habis
-b_cavedesueth,levantine_arabic,,Ain al-Habis
-b_cavedesueth,maghreb_arabic,,Ain al-Habis
-b_cavedesueth,masmuda,,Ain al-Habis
-b_cavedesueth,sanhaja,,Ain al-Habis
-b_cavedesueth,sicilian_arabic,,Ain al-Habis
-b_cavedesueth,tagelmust,,Ain al-Habis
-b_cavedesueth,tuareg,,Ain al-Habis
-b_cavedesueth,zanata,,Ain al-Habis
-b_sepphoria,b_sepphoria,,La Saforie
-b_sepphoria,b_sepphoria_adj,,
-b_sepphoria,andalusian_arabic,,Safurriya
-b_sepphoria,bedouin_arabic,,Safurriya
-b_sepphoria,egyptian_arabic,,Safurriya
-b_sepphoria,greek,,Sepphoris
-b_sepphoria,levantine_arabic,,Safurriya
-b_sepphoria,maghreb_arabic,,Safurriya
-b_sepphoria,masmuda,,Safurriya
-b_sepphoria,roman,,Sepphoris
-b_sepphoria,sanhaja,,Safurriya
-b_sepphoria,sicilian_arabic,,Safurriya
-b_sepphoria,tagelmust,,Safurriya
-b_sepphoria,tuareg,,Safurriya
-b_sepphoria,zanata,,Safurriya
-b_nazareth,b_nazareth,,Nazareth
-b_nazareth,b_nazareth_adj,,
-b_nazareth,andalusian_arabic,,An-Nasirah
-b_nazareth,bedouin_arabic,,An-Nasirah
-b_nazareth,egyptian_arabic,,An-Nasirah
-b_nazareth,levantine_arabic,,An-Nasirah
-b_nazareth,maghreb_arabic,,An-Nasirah
-b_nazareth,masmuda,,An-Nasirah
-b_nazareth,sanhaja,,An-Nasirah
-b_nazareth,sicilian_arabic,,An-Nasirah
-b_nazareth,tagelmust,,An-Nasirah
-b_nazareth,tuareg,,An-Nasirah
-b_nazareth,zanata,,An-Nasirah
-c_beirut,PROV770,,Beirut
-c_beirut,c_beirut_adj,,Beirutian
-c_beirut,greek,,Berytos
-c_beirut,c_beirut_adj_greek,,Berytan
-c_beirut,roman,,Berytus
-b_beirut,b_beirut,,Beyrouth
-b_beirut,b_beirut_adj,,
-b_beirut,greek,,Berytos
-b_beirut,roman,,Berytus
-b_beitkfeya,b_beitkfeya,,Bhersaf
-b_beitkfeya,b_beitkfeya_adj,,
-b_chiyah,b_chiyah,,Chiyah
-b_chiyah,b_chiyah_adj,,
-b_choueir,b_choueir,,Choueir
-b_choueir,b_choueir_adj,,
-c_safed,PROV769,,Toron
-c_safed,c_safed_adj,,Safedian
-c_safed,andalusian_arabic,,Safad
-c_safed,ashkenazi,,Tsfat
-c_safed,bedouin_arabic,,Safad
-c_safed,egyptian_arabic,,Safad
-c_safed,greek,,Paneas
-c_safed,c_safed_adj_greek,,Panean
-c_safed,levantine_arabic,,Safad
-c_safed,maghreb_arabic,,Safad
-c_safed,roman,,Paneas
-c_safed,sicilian_arabic,,Safad
-b_safed,b_safed,,Saphet
-b_safed,b_safed_adj,,
-b_safed,andalusian_arabic,,Safad
-b_safed,ashkenazi,,Tsfat
-b_safed,bedouin_arabic,,Safad
-b_safed,egyptian_arabic,,Safad
-b_safed,greek,,Seph
-b_safed,levantine_arabic,,Safad
-b_safed,maghreb_arabic,,Safad
-b_safed,roman,,Seph
-b_safed,sicilian_arabic,,Safad
-b_banyas,b_banyas,,Belinas
-b_banyas,b_banyas_adj,,
-b_banyas,andalusian_arabic,,Banyas
-b_banyas,bedouin_arabic,,Banyas
-b_banyas,egyptian_arabic,,Banyas
-b_banyas,greek,,Paneas
-b_banyas,levantine_arabic,,Banyas
-b_banyas,maghreb_arabic,,Banyas
-b_banyas,roman,,Paneas
-b_banyas,sicilian_arabic,,Banyas
-b_toron,b_toron,,Toron
-b_toron,b_toron_adj,,
-b_toron,andalusian_arabic,,Tibnine
-b_toron,bedouin_arabic,,Tibnine
-b_toron,egyptian_arabic,,Tibnine
-b_toron,levantine_arabic,,Tibnine
-b_toron,maghreb_arabic,,Tibnine
-b_toron,sicilian_arabic,,Tibnine
-b_meronisreal,b_meronisreal,,Meron
-b_meronisreal,b_meronisreal_adj,,
-b_chastelet,b_chastelet,,Chastelet
-b_chastelet,b_chastelet_adj,,
-b_chastelet,andalusian_arabic,,Qasr al-'Atra
-b_chastelet,bedouin_arabic,,Qasr al-'Atra
-b_chastelet,egyptian_arabic,,Qasr al-'Atra
-b_chastelet,levantine_arabic,,Qasr al-'Atra
-b_chastelet,maghreb_arabic,,Qasr al-'Atra
-b_chastelet,sicilian_arabic,,Qasr al-'Atra
-k_antioch,k_antioch,,Antioche
-k_antioch,k_antioch_adj,,Antiochean
-k_antioch,andalusian_arabic,,Awasim
-k_antioch,bedouin_arabic,,Awasim
-k_antioch,egyptian_arabic,,Awasim
-k_antioch,greek,,Antiócheias
-k_antioch,levantine_arabic,,Awasim
-k_antioch,maghreb_arabic,,Awasim
-k_antioch,masmuda,,Awasim
-k_antioch,roman,,Principatus Antiochenus
-k_antioch,sanhaja,,Awasim
-k_antioch,sicilian_arabic,,Awasim
-k_antioch,tagelmust,,Awasim
-k_antioch,tuareg,,Awasim
-k_antioch,zanata,,Awasim
-d_antioch,d_antioch,,Principauté d'Antioche
-d_antioch,d_antioch_adj,,Antiochean
-d_antioch,alan,,Antiokeias
-d_antioch,andalusian_arabic,,Jund 'Awasim
-d_antioch,d_antioch_adj_andalusian_arabic,,Awasiman
-d_antioch,arberian,,Antiokeias
-d_antioch,armenian,,Antiok
-d_antioch,bedouin_arabic,,Jund 'Awasim
-d_antioch,d_antioch_adj_bedouin_arabic,,Awasiman
-d_antioch,egyptian_arabic,,Jund 'Awasim
-d_antioch,d_antioch_adj_egyptian_arabic,,Awasiman
-d_antioch,georgian,,Antiok
-d_antioch,greek,,Antiokeias
-d_antioch,levantine_arabic,,Jund 'Awasim
-d_antioch,d_antioch_adj_levantine_arabic,,Awasiman
-d_antioch,maghreb_arabic,,Jund 'Awasim
-d_antioch,d_antioch_adj_maghreb_arabic,,Awasiman
-d_antioch,masmuda,,Jund 'Awasim
-d_antioch,d_antioch_adj_masmuda,,Awasiman
-d_antioch,sanhaja,,Jund 'Awasim
-d_antioch,d_antioch_adj_sanhaja,,Awasiman
-d_antioch,sicilian_arabic,,Jund 'Awasim
-d_antioch,d_antioch_adj_sicilian_arabic,,Awasiman
-d_antioch,sicilian_greek,,Antiokeias
-d_antioch,tagelmust,,Jund 'Awasim
-d_antioch,d_antioch_adj_tagelmust,,Awasiman
-d_antioch,tuareg,,Jund 'Awasim
-d_antioch,d_antioch_adj_tuareg,,Awasiman
-d_antioch,zanata,,Jund 'Awasim
-d_antioch,d_antioch_adj_zanata,,Awasiman
-d_antioch,short_name,,yes
-c_antiocheia,PROV764,,Antioch
-c_antiocheia,c_antiocheia_adj,,Antiochian
-c_antiocheia,andalusian_arabic,,Antakiya
-c_antiocheia,c_antiocheia_adj_andalusian_arabic,,Antakiyan
-c_antiocheia,armenian,,Antiok
-c_antiocheia,c_antiocheia_adj_armenian,,Antiokan
-c_antiocheia,assyrian,,Antiokia
-c_antiocheia,bedouin_arabic,,Antakiya
-c_antiocheia,c_antiocheia_adj_bedouin_arabic,,Antakiyan
-c_antiocheia,egyptian_arabic,,Antakiya
-c_antiocheia,c_antiocheia_adj_egyptian_arabic,,Antakiyan
-c_antiocheia,levantine_arabic,,Antakiya
-c_antiocheia,c_antiocheia_adj_levantine_arabic,,Antakiyan
-c_antiocheia,maghreb_arabic,,Antakiya
-c_antiocheia,c_antiocheia_adj_maghreb_arabic,,Antakiyan
-c_antiocheia,masmuda,,Antakiya
-c_antiocheia,c_antiocheia_adj_masmuda,,Antakiyan
-c_antiocheia,oghuz,,Antakiya
-c_antiocheia,c_antiocheia_adj_oghuz,,Antakiyan
-c_antiocheia,sanhaja,,Antakiya
-c_antiocheia,c_antiocheia_adj_sanhaja,,Antakiyan
-c_antiocheia,sicilian_arabic,,Antakiya
-c_antiocheia,c_antiocheia_adj_sicilian_arabic,,Antakiyan
-c_antiocheia,tagelmust,,Antakiya
-c_antiocheia,c_antiocheia_adj_tagelmust,,Antakiyan
-c_antiocheia,tuareg,,Antakiya
-c_antiocheia,c_antiocheia_adj_tuareg,,Antakiyan
-c_antiocheia,turkish,,Antakiya
-c_antiocheia,c_antiocheia_adj_turkish,,Antakiyan
-c_antiocheia,turkmen,,Antakiya
-c_antiocheia,c_antiocheia_adj_turkmen,,Antakiyan
-c_antiocheia,zanata,,Antakiya
-c_antiocheia,c_antiocheia_adj_zanata,,Antakiyan
-b_antiocheia,b_antiocheia,,Antiochia
-b_antiocheia,b_antiocheia_adj,,
-b_antiocheia,andalusian_arabic,,Antakiya
-b_antiocheia,armenian,,Antiok
-b_antiocheia,assyrian,,Antiokia
-b_antiocheia,bedouin_arabic,,Antakiya
-b_antiocheia,egyptian_arabic,,Antakiya
-b_antiocheia,levantine_arabic,,Antakiya
-b_antiocheia,maghreb_arabic,,Antakiya
-b_antiocheia,masmuda,,Antakiya
-b_antiocheia,sanhaja,,Antakiya
-b_antiocheia,sicilian_arabic,,Antakiya
-b_antiocheia,tagelmust,,Antakiya
-b_antiocheia,tuareg,,Antakiya
-b_antiocheia,turkish,,Antakiya
-b_antiocheia,zanata,,Antakiya
-b_stsymeon,b_stsymeon,,Saint Symeon
-b_stsymeon,b_stsymeon_adj,,
-b_stsymeon,andalusian_arabic,,as-Suwaydiyah
-b_stsymeon,armenian,,Svedia
-b_stsymeon,bedouin_arabic,,as-Suwaydiyah
-b_stsymeon,egyptian_arabic,,as-Suwaydiyah
-b_stsymeon,greek,,Seleukeia Pieria
-b_stsymeon,levantine_arabic,,as-Suwaydiyah
-b_stsymeon,maghreb_arabic,,as-Suwaydiyah
-b_stsymeon,oghuz,,Süveydiye
-b_stsymeon,sicilian_arabic,,as-Suwaydiyah
-b_stsymeon,turkish,,Süveydiye
-b_stsymeon,turkmen,,Süveydiye
-b_darbsak,b_darbsak,,Trapesac
-b_darbsak,b_darbsak_adj,,
-b_darbsak,andalusian_arabic,,ad-Darbasak
-b_darbsak,bedouin_arabic,,ad-Darbasak
-b_darbsak,egyptian_arabic,,ad-Darbasak
-b_darbsak,frankish,,Trapesac
-b_darbsak,greek,,Trapezon
-b_darbsak,levantine_arabic,,ad-Darbasak
-b_darbsak,maghreb_arabic,,ad-Darbasak
-b_darbsak,norman,,Trapesac
-b_darbsak,sicilian_arabic,,ad-Darbasak
-b_harenc,b_harenc,,Harenc
-b_harenc,b_harenc_adj,,
-b_harenc,andalusian_arabic,,Qalat Antakiya
-b_harenc,armenian,,Antiokla
-b_harenc,bedouin_arabic,,Qalat Antakiya
-b_harenc,egyptian_arabic,,Qalat Antakiya
-b_harenc,greek,,Kastro Antiokheia
-b_harenc,levantine_arabic,,Qalat Antakiya
-b_harenc,maghreb_arabic,,Qalat Antakiya
-b_harenc,masmuda,,Qalat Antakiya
-b_harenc,oghuz,,Antakiya Hisar
-b_harenc,sanhaja,,Qalat Antakiya
-b_harenc,sicilian_arabic,,Qalat Antakiya
-b_harenc,tagelmust,,Qalat Antakiya
-b_harenc,tuareg,,Qalat Antakiya
-b_harenc,turkish,,Antakiya Hisar
-b_harenc,turkmen,,Antakiya Hisar
-b_harenc,zanata,,Qalat Antakiya
-b_baghras,b_baghras,,Gastun
-b_baghras,b_baghras_adj,,
-b_baghras,armenian,,Pagrai
-b_baghras,frankish,,Gaston
-b_baghras,greek,,Pagrai
-b_baghras,norman,,Gaston
-b_baghras,oghuz,,Bakras
-b_baghras,turkish,,Bakras
-b_baghras,turkmen,,Bakras
-b_artasium,b_artasium,,Artasium
-b_artasium,b_artasium_adj,,
-b_artasium,andalusian_arabic,,Artah
-b_artasium,bedouin_arabic,,Artah
-b_artasium,egyptian_arabic,,Artah
-b_artasium,frankish,,Artasia
-b_artasium,levantine_arabic,,Artah
-b_artasium,maghreb_arabic,,Artah
-b_artasium,norman,,Artasia
-b_artasium,sicilian_arabic,,Artah
-c_hazart,PROV1236,,Hazart
-c_hazart,c_hazart_adj,,Hazartian
-c_hazart,andalusian_arabic,,Azaz
-c_hazart,c_hazart_adj_andalusian_arabic,,Azazan
-c_hazart,bedouin_arabic,,Azaz
-c_hazart,c_hazart_adj_bedouin_arabic,,Azazan
-c_hazart,egyptian_arabic,,Azaz
-c_hazart,c_hazart_adj_egyptian_arabic,,Azazan
-c_hazart,levantine_arabic,,Azaz
-c_hazart,c_hazart_adj_levantine_arabic,,Azazan
-c_hazart,maghreb_arabic,,Azaz
-c_hazart,c_hazart_adj_maghreb_arabic,,Azazan
-c_hazart,sicilian_arabic,,Azaz
-c_hazart,c_hazart_adj_sicilian_arabic,,Azazan
-b_hazart,b_hazart,,Hazart
-b_hazart,b_hazart_adj,,
-b_hazart,andalusian_arabic,,Azaz
-b_hazart,bedouin_arabic,,Azaz
-b_hazart,egyptian_arabic,,Azaz
-b_hazart,levantine_arabic,,Azaz
-b_hazart,maghreb_arabic,,Azaz
-b_hazart,sicilian_arabic,,Azaz
-b_harimantiochia,b_harimantiochia,,Harim
-b_harimantiochia,b_harimantiochia_adj,,
-b_harimantiochia,frankish,,Harenc
-b_harimantiochia,norman,,Harenc
-b_zerdana,b_zerdana,,Zerdana
-b_zerdana,b_zerdana_adj,,
-b_zerdana,andalusian_arabic,,Zaradna
-b_zerdana,bedouin_arabic,,Zaradna
-b_zerdana,egyptian_arabic,,Zaradna
-b_zerdana,frankish,,Sardona
-b_zerdana,levantine_arabic,,Zaradna
-b_zerdana,maghreb_arabic,,Zaradna
-b_zerdana,norman,,Sardona
-b_zerdana,sicilian_arabic,,Zaradna
-b_sarmada,b_sarmada,,Sarmada
-b_sarmada,b_sarmada_adj,,
-b_sarmada,frankish,,Samarta
-b_sarmada,norman,,Samarta
-c_saone,PROV968,,Saone
-c_saone,c_saone_adj,,Saônan
-c_saone,andalusian_arabic,,al-Ladiqiya
-c_saone,c_saone_adj_andalusian_arabic,,Ladiqiyan
-c_saone,bedouin_arabic,,al-Ladiqiya
-c_saone,c_saone_adj_bedouin_arabic,,Ladiqiyan
-c_saone,egyptian_arabic,,al-Ladiqiya
-c_saone,c_saone_adj_egyptian_arabic,,Ladiqiyan
-c_saone,greek,,Laodikeia
-c_saone,c_saone_adj_greek,,Laodikeian
-c_saone,levantine_arabic,,al-Ladiqiya
-c_saone,c_saone_adj_levantine_arabic,,Ladiqiyan
-c_saone,maghreb_arabic,,al-Ladiqiya
-c_saone,c_saone_adj_maghreb_arabic,,Ladiqiyan
-c_saone,sicilian_arabic,,al-Ladiqiya
-c_saone,c_saone_adj_sicilian_arabic,,Ladiqiyan
-b_latakiah,b_latakiah,,Laodicia
-b_latakiah,b_latakiah_adj,,
-b_latakiah,andalusian_arabic,,al-Ladiqiya
-b_latakiah,bedouin_arabic,,al-Ladiqiya
-b_latakiah,egyptian_arabic,,al-Ladiqiya
-b_latakiah,frankish,,Laodicée
-b_latakiah,greek,,Laodikeia
-b_latakiah,levantine_arabic,,al-Ladiqiya
-b_latakiah,maghreb_arabic,,al-Ladiqiya
-b_latakiah,norman,,Laodicée
-b_latakiah,sicilian_arabic,,al-Ladiqiya
-b_hisnaddair,b_hisnaddair,,Hisn ad-Dair
-b_hisnaddair,b_hisnaddair_adj,,
-b_stdanielsyria,b_stdanielsyria,,Breij
-b_stdanielsyria,b_stdanielsyria_adj,,
-b_saone,b_saone,,Saône
-b_saone,b_saone_adj,,
-b_saone,andalusian_arabic,,Sahyun
-b_saone,bedouin_arabic,,Sahyun
-b_saone,egyptian_arabic,,Sahyun
-b_saone,greek,,Sahyoun
-b_saone,levantine_arabic,,Sahyun
-b_saone,maghreb_arabic,,Sahyun
-b_saone,sicilian_arabic,,Sahyun
-b_jabala,b_jabala,,Jabala
-b_jabala,b_jabala_adj,,
-b_jabala,andalusian_arabic,,Gabla
-b_jabala,bedouin_arabic,,Gabla
-b_jabala,egyptian_arabic,,Gabla
-b_jabala,frankish,,Gabula
-b_jabala,greek,,Gabala
-b_jabala,levantine_arabic,,Gabla
-b_jabala,maghreb_arabic,,Gabla
-b_jabala,norman,,Gabula
-b_jabala,sicilian_arabic,,Gabla
-c_archa,PROV765,,Berzieh
-c_archa,c_archa_adj,,Archan
-c_archa,andalusian_arabic,,Fâmieh
-c_archa,c_archa_adj_andalusian_arabic,,Fâmiean
-c_archa,bedouin_arabic,,Fâmieh
-c_archa,c_archa_adj_bedouin_arabic,,Fâmiean
-c_archa,egyptian_arabic,,Fâmieh
-c_archa,c_archa_adj_egyptian_arabic,,Fâmiean
-c_archa,frankish,,Apamée
-c_archa,c_archa_adj_frankish,,Apaméan
-c_archa,greek,,Apameia
-c_archa,c_archa_adj_greek,,Apameian
-c_archa,levantine_arabic,,Fâmieh
-c_archa,c_archa_adj_levantine_arabic,,Fâmiean
-c_archa,maghreb_arabic,,Fâmieh
-c_archa,c_archa_adj_maghreb_arabic,,Fâmiean
-c_archa,norman,,Apamée
-c_archa,c_archa_adj_norman,,Apaméan
-c_archa,sicilian_arabic,,Fâmieh
-c_archa,c_archa_adj_sicilian_arabic,,Fâmiean
-b_sarmeniasyria,b_sarmeniasyria,,Sarmenia
-b_sarmeniasyria,b_sarmeniasyria_adj,,
-b_sarmeniasyria,andalusian_arabic,,Sarmin
-b_sarmeniasyria,bedouin_arabic,,Sarmin
-b_sarmeniasyria,egyptian_arabic,,Sarmin
-b_sarmeniasyria,levantine_arabic,,Sarmin
-b_sarmeniasyria,maghreb_arabic,,Sarmin
-b_sarmeniasyria,sicilian_arabic,,Sarmin
-b_albarasyria,b_albarasyria,,Albara
-b_albarasyria,b_albarasyria_adj,,
-b_albarasyria,andalusian_arabic,,al-Bara
-b_albarasyria,bedouin_arabic,,al-Bara
-b_albarasyria,egyptian_arabic,,al-Bara
-b_albarasyria,levantine_arabic,,al-Bara
-b_albarasyria,maghreb_arabic,,al-Bara
-b_albarasyria,sicilian_arabic,,al-Bara
-b_famia,b_famia,,Apamea
-b_famia,b_famia_adj,,
-b_famia,andalusian_arabic,,Fâmieh
-b_famia,bedouin_arabic,,Fâmieh
-b_famia,egyptian_arabic,,Fâmieh
-b_famia,frankish,,Apamée
-b_famia,greek,,Apameia
-b_famia,levantine_arabic,,Fâmieh
-b_famia,maghreb_arabic,,Fâmieh
-b_famia,norman,,Apamée
-b_famia,sicilian_arabic,,Fâmieh
-b_bourzeycastle,b_bourzeycastle,,Berzieh
-b_bourzeycastle,b_bourzeycastle_adj,,
-b_bourzeycastle,andalusian_arabic,,Barzuya
-b_bourzeycastle,bedouin_arabic,,Barzuya
-b_bourzeycastle,egyptian_arabic,,Barzuya
-b_bourzeycastle,frankish,,Rochefort
-b_bourzeycastle,greek,,Lysias
-b_bourzeycastle,levantine_arabic,,Barzuya
-b_bourzeycastle,maghreb_arabic,,Barzuya
-b_bourzeycastle,norman,,Rochefort
-b_bourzeycastle,sicilian_arabic,,Barzuya
-d_tripoli,d_tripoli,,Tripoli
-d_tripoli,d_tripoli_adj,,Tripolitanian
-d_tripoli,andalusian_arabic,,Tarabulus
-d_tripoli,d_tripoli_adj_andalusian_arabic,,Tarabulan
-d_tripoli,bedouin_arabic,,Tarabulus
-d_tripoli,d_tripoli_adj_bedouin_arabic,,Tarabulan
-d_tripoli,egyptian_arabic,,Tarabulus
-d_tripoli,d_tripoli_adj_egyptian_arabic,,Tarabulan
-d_tripoli,greek,,Phoenice
-d_tripoli,d_tripoli_adj_greek,,Phoenican
-d_tripoli,levantine_arabic,,Tarabulus
-d_tripoli,d_tripoli_adj_levantine_arabic,,Tarabulan
-d_tripoli,maghreb_arabic,,Tarabulus
-d_tripoli,d_tripoli_adj_maghreb_arabic,,Tarabulan
-d_tripoli,masmuda,,Tarabulus
-d_tripoli,d_tripoli_adj_masmuda,,Tarabulan
-d_tripoli,roman,,Phoenice
-d_tripoli,sanhaja,,Tarabulus
-d_tripoli,d_tripoli_adj_sanhaja,,Tarabulan
-d_tripoli,sicilian_arabic,,Tarabulus
-d_tripoli,d_tripoli_adj_sicilian_arabic,,Tarabulan
-d_tripoli,tagelmust,,Tarabulus
-d_tripoli,d_tripoli_adj_tagelmust,,Tarabulan
-d_tripoli,tuareg,,Tarabulus
-d_tripoli,d_tripoli_adj_tuareg,,Tarabulan
-d_tripoli,zanata,,Tarabulus
-d_tripoli,d_tripoli_adj_zanata,,Tarabulan
-d_tripoli,name_tier,,count
-c_tortosa,PROV766,,Tortosa
-c_tortosa,c_tortosa_adj,,Tortosan
-c_tortosa,andalusian_arabic,,Antartus
-c_tortosa,c_tortosa_adj_andalusian_arabic,,Antartan
-c_tortosa,bedouin_arabic,,Antartus
-c_tortosa,c_tortosa_adj_bedouin_arabic,,Antartan
-c_tortosa,egyptian_arabic,,Antartus
-c_tortosa,c_tortosa_adj_egyptian_arabic,,Antartan
-c_tortosa,greek,,Antarados
-c_tortosa,c_tortosa_adj_greek,,Antaradan
-c_tortosa,levantine_arabic,,Antartus
-c_tortosa,c_tortosa_adj_levantine_arabic,,Antartan
-c_tortosa,maghreb_arabic,,Antartus
-c_tortosa,c_tortosa_adj_maghreb_arabic,,Antartan
-c_tortosa,masmuda,,Antartus
-c_tortosa,c_tortosa_adj_masmuda,,Antartan
-c_tortosa,sanhaja,,Antartus
-c_tortosa,c_tortosa_adj_sanhaja,,Antartan
-c_tortosa,sicilian_arabic,,Antartus
-c_tortosa,c_tortosa_adj_sicilian_arabic,,Antartan
-c_tortosa,tagelmust,,Antartus
-c_tortosa,c_tortosa_adj_tagelmust,,Antartan
-c_tortosa,tuareg,,Antartus
-c_tortosa,c_tortosa_adj_tuareg,,Antartan
-c_tortosa,zanata,,Antartus
-c_tortosa,c_tortosa_adj_zanata,,Antartan
-b_tortosa,b_tortosa,,Tortosa
-b_tortosa,b_tortosa_adj,,
-b_tortosa,andalusian_arabic,,Antartus
-b_tortosa,bedouin_arabic,,Antartus
-b_tortosa,egyptian_arabic,,Antartus
-b_tortosa,greek,,Antarados
-b_tortosa,levantine_arabic,,Antartus
-b_tortosa,maghreb_arabic,,Antartus
-b_tortosa,masmuda,,Antartus
-b_tortosa,sanhaja,,Antartus
-b_tortosa,sicilian_arabic,,Antartus
-b_tortosa,tagelmust,,Antartus
-b_tortosa,tuareg,,Antartus
-b_tortosa,zanata,,Antartus
-b_maraclea,b_maraclea,,Maraclée
-b_maraclea,b_maraclea_adj,,
-b_maraclea,andalusian_arabic,,Maraqiya
-b_maraclea,bedouin_arabic,,Maraqiya
-b_maraclea,egyptian_arabic,,Maraqiya
-b_maraclea,greek,,Marakleia
-b_maraclea,levantine_arabic,,Maraqiya
-b_maraclea,maghreb_arabic,,Maraqiya
-b_maraclea,sicilian_arabic,,Maraqiya
-b_valania,b_valania,,Valenia
-b_valania,b_valania_adj,,
-b_valania,andalusian_arabic,,Bulunyas
-b_valania,bedouin_arabic,,Bulunyas
-b_valania,egyptian_arabic,,Bulunyas
-b_valania,greek,,Balanias
-b_valania,levantine_arabic,,Bulunyas
-b_valania,maghreb_arabic,,Bulunyas
-b_valania,sicilian_arabic,,Bulunyas
-b_margat,b_margat,,Margat
-b_margat,b_margat_adj,,
-b_margat,andalusian_arabic,,al-Marqab
-b_margat,bedouin_arabic,,al-Marqab
-b_margat,egyptian_arabic,,al-Marqab
-b_margat,levantine_arabic,,al-Marqab
-b_margat,maghreb_arabic,,al-Marqab
-b_margat,sicilian_arabic,,al-Marqab
-c_monferrand,PROV1244,,Monferrand
-c_monferrand,c_monferrand_adj,,Monferrandan
-c_monferrand,andalusian_arabic,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_andalusian_arabic,,Hisn-al Akradan
-c_monferrand,bedouin_arabic,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_bedouin_arabic,,Hisn-al Akradan
-c_monferrand,egyptian_arabic,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_egyptian_arabic,,Hisn-al Akradan
-c_monferrand,greek,,Raphaniai
-c_monferrand,c_monferrand_adj_greek,,Raphanian
-c_monferrand,levantine_arabic,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_levantine_arabic,,Hisn-al Akradan
-c_monferrand,maghreb_arabic,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_maghreb_arabic,,Hisn-al Akradan
-c_monferrand,masmuda,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_masmuda,,Hisn-al Akradan
-c_monferrand,sanhaja,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_sanhaja,,Hisn-al Akradan
-c_monferrand,sicilian_arabic,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_sicilian_arabic,,Hisn-al Akradan
-c_monferrand,tagelmust,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_tagelmust,,Hisn-al Akradan
-c_monferrand,tuareg,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_tuareg,,Hisn-al Akradan
-c_monferrand,zanata,,Hisn -al Akrad
-c_monferrand,c_monferrand_adj_zanata,,Hisn-al Akradan
-b_chastelrouge,b_chastelrouge,,Chastel Rouge
-b_chastelrouge,b_chastelrouge_adj,,
-b_chastelrouge,andalusian_arabic,,Qalat Yahmur
-b_chastelrouge,bedouin_arabic,,Qalat Yahmur
-b_chastelrouge,egyptian_arabic,,Qalat Yahmur
-b_chastelrouge,levantine_arabic,,Qalat Yahmur
-b_chastelrouge,maghreb_arabic,,Qalat Yahmur
-b_chastelrouge,masmuda,,Qalat Yahmur
-b_chastelrouge,sanhaja,,Qalat Yahmur
-b_chastelrouge,sicilian_arabic,,Qalat Yahmur
-b_chastelrouge,tagelmust,,Qalat Yahmur
-b_chastelrouge,tuareg,,Qalat Yahmur
-b_chastelrouge,zanata,,Qalat Yahmur
-b_zweitina,b_zweitina,,Meshtaye
-b_zweitina,b_zweitina_adj,,
-b_chastelblanc,b_chastelblanc,,Castel Blanc
-b_chastelblanc,b_chastelblanc_adj,,
-b_chastelblanc,andalusian_arabic,,Burj Safita
-b_chastelblanc,bedouin_arabic,,Burj Safita
-b_chastelblanc,egyptian_arabic,,Burj Safita
-b_chastelblanc,levantine_arabic,,Burj Safita
-b_chastelblanc,maghreb_arabic,,Burj Safita
-b_chastelblanc,masmuda,,Burj Safita
-b_chastelblanc,sanhaja,,Burj Safita
-b_chastelblanc,sicilian_arabic,,Burj Safita
-b_chastelblanc,tagelmust,,Burj Safita
-b_chastelblanc,tuareg,,Burj Safita
-b_chastelblanc,zanata,,Burj Safita
-b_krakdeschevaliers,b_krakdeschevaliers,,Le Crat
-b_krakdeschevaliers,b_krakdeschevaliers_adj,,
-b_krakdeschevaliers,andalusian_arabic,,Hisn -al Akrad
-b_krakdeschevaliers,bedouin_arabic,,Hisn -al Akrad
-b_krakdeschevaliers,egyptian_arabic,,Hisn -al Akrad
-b_krakdeschevaliers,levantine_arabic,,Hisn -al Akrad
-b_krakdeschevaliers,maghreb_arabic,,Hisn -al Akrad
-b_krakdeschevaliers,masmuda,,Hisn -al Akrad
-b_krakdeschevaliers,sanhaja,,Hisn -al Akrad
-b_krakdeschevaliers,sicilian_arabic,,Hisn -al Akrad
-b_krakdeschevaliers,tagelmust,,Hisn -al Akrad
-b_krakdeschevaliers,tuareg,,Hisn -al Akrad
-b_krakdeschevaliers,zanata,,Hisn -al Akrad
-c_masyaf,PROV1237,,Masyaf
-c_masyaf,c_masyaf_adj,,Masyafan
-b_alkahf,b_alkahf,,Al Kahf
-b_alkahf,b_alkahf_adj,,
-b_masyaf,b_masyaf,,Masyaf
-b_masyaf,b_masyaf_adj,,
-b_alqadamus,b_alqadamus,,Al-Qadamus
-b_alqadamus,b_alqadamus_adj,,
-c_tripoli,PROV767,,Tripoli
-c_tripoli,c_tripoli_adj,,Tripolitanian
-c_tripoli,andalusian_arabic,,Tarabulus
-c_tripoli,c_tripoli_adj_andalusian_arabic,,Tarabulan
-c_tripoli,bedouin_arabic,,Tarabulus
-c_tripoli,c_tripoli_adj_bedouin_arabic,,Tarabulan
-c_tripoli,egyptian_arabic,,Tarabulus
-c_tripoli,c_tripoli_adj_egyptian_arabic,,Tarabulan
-c_tripoli,levantine_arabic,,Tarabulus
-c_tripoli,c_tripoli_adj_levantine_arabic,,Tarabulan
-c_tripoli,maghreb_arabic,,Tarabulus
-c_tripoli,c_tripoli_adj_maghreb_arabic,,Tarabulan
-c_tripoli,masmuda,,Tarabulus
-c_tripoli,c_tripoli_adj_masmuda,,Tarabulan
-c_tripoli,sanhaja,,Tarabulus
-c_tripoli,c_tripoli_adj_sanhaja,,Tarabulan
-c_tripoli,sicilian_arabic,,Tarabulus
-c_tripoli,c_tripoli_adj_sicilian_arabic,,Tarabulan
-c_tripoli,tagelmust,,Tarabulus
-c_tripoli,c_tripoli_adj_tagelmust,,Tarabulan
-c_tripoli,tuareg,,Tarabulus
-c_tripoli,c_tripoli_adj_tuareg,,Tarabulan
-c_tripoli,zanata,,Tarabulus
-c_tripoli,c_tripoli_adj_zanata,,Tarabulan
-b_syrtripoli,b_syrtripoli,,Tripolis
-b_syrtripoli,b_syrtripoli_adj,,
-b_syrtripoli,andalusian_arabic,,Tarabulus
-b_syrtripoli,bedouin_arabic,,Tarabulus
-b_syrtripoli,egyptian_arabic,,Tarabulus
-b_syrtripoli,levantine_arabic,,Tarabulus
-b_syrtripoli,maghreb_arabic,,Tarabulus
-b_syrtripoli,masmuda,,Tarabulus
-b_syrtripoli,sanhaja,,Tarabulus
-b_syrtripoli,sicilian_arabic,,Tarabulus
-b_syrtripoli,tagelmust,,Tarabulus
-b_syrtripoli,tuareg,,Tarabulus
-b_syrtripoli,zanata,,Tarabulus
-b_citadeloftripoli,b_citadeloftripoli,,Qala'at Tarablos
-b_citadeloftripoli,b_citadeloftripoli_adj,,
-b_citadeloftripoli,andalusian_arabic,,Qalat Tarabulus
-b_citadeloftripoli,bedouin_arabic,,Qalat Tarabulus
-b_citadeloftripoli,egyptian_arabic,,Qalat Tarabulus
-b_citadeloftripoli,greek,,Kastro Tripolis
-b_citadeloftripoli,levantine_arabic,,Qalat Tarabulus
-b_citadeloftripoli,maghreb_arabic,,Qalat Tarabulus
-b_citadeloftripoli,masmuda,,Qalat Tarabulus
-b_citadeloftripoli,sanhaja,,Qalat Tarabulus
-b_citadeloftripoli,sicilian_arabic,,Qalat Tarabulus
-b_citadeloftripoli,tagelmust,,Qalat Tarabulus
-b_citadeloftripoli,tuareg,,Qalat Tarabulus
-b_citadeloftripoli,zanata,,Qalat Tarabulus
-b_citdaelofsaintgilles,b_citdaelofsaintgilles,,Château de Saint-Gilles
-b_citdaelofsaintgilles,b_citdaelofsaintgilles_adj,,
-b_citdaelofsaintgilles,andalusian_arabic,,Qalat Sanjil
-b_citdaelofsaintgilles,bedouin_arabic,,Qalat Sanjil
-b_citdaelofsaintgilles,egyptian_arabic,,Qalat Sanjil
-b_citdaelofsaintgilles,levantine_arabic,,Qalat Sanjil
-b_citdaelofsaintgilles,maghreb_arabic,,Qalat Sanjil
-b_citdaelofsaintgilles,masmuda,,Qalat Sanjil
-b_citdaelofsaintgilles,sanhaja,,Qalat Sanjil
-b_citdaelofsaintgilles,sicilian_arabic,,Qalat Sanjil
-b_citdaelofsaintgilles,tagelmust,,Qalat Sanjil
-b_citdaelofsaintgilles,tuareg,,Qalat Sanjil
-b_citdaelofsaintgilles,zanata,,Qalat Sanjil
-b_buissera,b_buissera,,Bussara
-b_buissera,b_buissera_adj,,
-b_buissera,frankish,,Buissera
-b_buissera,norman,,Buissera
-b_archa,b_archa,,Archis
-b_archa,b_archa_adj,,
-b_archa,andalusian_arabic,,Arqa
-b_archa,bedouin_arabic,,Arqa
-b_archa,egyptian_arabic,,Arqa
-b_archa,greek,,Archa
-b_archa,levantine_arabic,,Arqa
-b_archa,maghreb_arabic,,Arqa
-b_archa,sicilian_arabic,,Arqa
-c_gibelet,PROV1245,,Gibelet
-c_gibelet,c_gibelet_adj,,Gibletian
-c_gibelet,andalusian_arabic,,Jebail
-c_gibelet,c_gibelet_adj_andalusian_arabic,,Jebailan
-c_gibelet,bedouin_arabic,,Jebail
-c_gibelet,c_gibelet_adj_bedouin_arabic,,Jebailan
-c_gibelet,egyptian_arabic,,Jebail
-c_gibelet,c_gibelet_adj_egyptian_arabic,,Jebailan
-c_gibelet,greek,,Byblos
-c_gibelet,c_gibelet_adj_greek,,Byblian
-c_gibelet,levantine_arabic,,Jebail
-c_gibelet,c_gibelet_adj_levantine_arabic,,Jebailan
-c_gibelet,maghreb_arabic,,Jebail
-c_gibelet,c_gibelet_adj_maghreb_arabic,,Jebailan
-c_gibelet,masmuda,,Jebail
-c_gibelet,c_gibelet_adj_masmuda,,Jebailan
-c_gibelet,roman,,Byblus
-c_gibelet,sanhaja,,Jebail
-c_gibelet,c_gibelet_adj_sanhaja,,Jebailan
-c_gibelet,sicilian_arabic,,Jebail
-c_gibelet,c_gibelet_adj_sicilian_arabic,,Jebailan
-c_gibelet,tagelmust,,Jebail
-c_gibelet,c_gibelet_adj_tagelmust,,Jebailan
-c_gibelet,tuareg,,Jebail
-c_gibelet,c_gibelet_adj_tuareg,,Jebailan
-c_gibelet,zanata,,Jebail
-c_gibelet,c_gibelet_adj_zanata,,Jebailan
-c_gibelet,name_tier,,baron
-b_gibeletcastle,b_gibeletcastle,,Château de Gibelet
-b_gibeletcastle,b_gibeletcastle_adj,,
-b_gibeletcastle,andalusian_arabic,,Qalat Jebail
-b_gibeletcastle,bedouin_arabic,,Qalat Jebail
-b_gibeletcastle,egyptian_arabic,,Qalat Jebail
-b_gibeletcastle,greek,,Kastro Byblos
-b_gibeletcastle,levantine_arabic,,Qalat Jebail
-b_gibeletcastle,maghreb_arabic,,Qalat Jebail
-b_gibeletcastle,masmuda,,Qalat Jebail
-b_gibeletcastle,roman,,Castrum Byblus
-b_gibeletcastle,sanhaja,,Qalat Jebail
-b_gibeletcastle,sicilian_arabic,,Qalat Jebail
-b_gibeletcastle,tagelmust,,Qalat Jebail
-b_gibeletcastle,tuareg,,Qalat Jebail
-b_gibeletcastle,zanata,,Qalat Jebail
-b_gibelet,b_gibelet,,Gibelet
-b_gibelet,b_gibelet_adj,,
-b_gibelet,andalusian_arabic,,Jebail
-b_gibelet,bedouin_arabic,,Jebail
-b_gibelet,egyptian_arabic,,Jebail
-b_gibelet,greek,,Byblos
-b_gibelet,levantine_arabic,,Jebail
-b_gibelet,maghreb_arabic,,Jebail
-b_gibelet,masmuda,,Jebail
-b_gibelet,roman,,Byblus
-b_gibelet,sanhaja,,Jebail
-b_gibelet,sicilian_arabic,,Jebail
-b_gibelet,tagelmust,,Jebail
-b_gibelet,tuareg,,Jebail
-b_gibelet,zanata,,Jebail
-b_boutron,b_boutron,,Botron
-b_boutron,b_boutron_adj,,
-b_besmedin,b_besmedin,,Besmedin
-b_besmedin,b_besmedin_adj,,
+#TITLE;KEY;VALUE;SWMH
+k_syria;k_syria;;al-Sham
+k_syria;k_syria_adj;;Shami
+k_syria;greek;;Oriens
+k_syria;roman;;Oriens
+d_aleppo;d_aleppo;;Qinnasrin
+d_aleppo;d_aleppo_adj;;Qinnasrinan
+d_aleppo;greek;;Syria Prima
+d_aleppo;d_aleppo_adj_greek;;Syria Priman
+d_aleppo;roman;;Syria Prima
+d_aleppo;title_prefix;;JUND_OF
+c_aleppo;PROV733;;Halab
+c_aleppo;c_aleppo_adj;;Alepponian
+c_aleppo;frankish;;Halapia
+c_aleppo;c_aleppo_adj_frankish;;Halapian
+c_aleppo;greek;;Berroia
+c_aleppo;c_aleppo_adj_greek;;Berroian
+c_aleppo;norman;;Halapia
+c_aleppo;c_aleppo_adj_norman;;Halapian
+c_aleppo;roman;;Beroea
+b_aleppo;b_aleppo;;Halab
+b_aleppo;b_aleppo_adj;;
+b_aleppo;greek;;Berroia
+b_aleppo;roman;;Beroea
+b_zardana;b_zardana;;Zardana
+b_zardana;b_zardana_adj;;
+b_zardana;andalusian_arabic;;al-Atarib
+b_zardana;bedouin_arabic;;al-Atarib
+b_zardana;egyptian_arabic;;al-Atarib
+b_zardana;frankish;;Cerepum
+b_zardana;greek;;Cerepum
+b_zardana;levantine_arabic;;al-Atarib
+b_zardana;maghreb_arabic;;al-Atarib
+b_zardana;norman;;Cerepum
+b_zardana;roman;;Cerepum
+b_zardana;sicilian_arabic;;al-Atarib
+b_buzaa;b_buzaa;;Buza'a
+b_buzaa;b_buzaa_adj;;
+b_buzaa;frankish;;Puthaha
+b_buzaa;norman;;Puthaha
+b_aleppocastle;b_aleppocastle;;Qala'at al-Halab
+b_aleppocastle;b_aleppocastle_adj;;
+b_aleppocastle;frankish;;Château de Halapia
+b_aleppocastle;greek;;Kastro Berroia
+b_aleppocastle;norman;;Château de Halapia
+b_aleppocastle;roman;;Castrum Beroea
+b_qinnasrin;b_qinnasrin;;Qinnasrin
+b_qinnasrin;b_qinnasrin_adj;;
+b_qinnasrin;greek;;Chalkis
+b_qinnasrin;roman;;Chalcis
+b_khanasir;b_khanasir;;Anasartha
+b_khanasir;b_khanasir_adj;;
+b_khanasir;greek;;Anasartha
+b_khanasir;roman;;Anasartha
+c_manbij;PROV1240;;Manbij
+c_manbij;c_manbij_adj;;Manbijan
+c_manbij;frankish;;Mombech
+c_manbij;c_manbij_adj_frankish;;Mombechan
+c_manbij;greek;;Hierapolis
+c_manbij;c_manbij_adj_greek;;Hierapolitan
+c_manbij;norman;;Mombech
+c_manbij;c_manbij_adj_norman;;Mombechan
+c_manbij;roman;;Hierapolis
+b_qalatnajm;b_qalatnajm;;Qal'at Najm
+b_qalatnajm;b_qalatnajm_adj;;
+b_qalatnajm;frankish;;Caeciliana
+b_qalatnajm;norman;;Caeciliana
+b_manbij;b_manbij;;Manbij
+b_manbij;b_manbij_adj;;
+b_manbij;frankish;;Mombech
+b_manbij;greek;;Hierapolis
+b_manbij;norman;;Mombech
+b_manbij;roman;;Hierapolis
+b_balissyria;b_balissyria;;Balis
+b_balissyria;b_balissyria_adj;;
+b_balissyria;greek;;Barbalissos
+b_balissyria;roman;;Barbalissos
+b_jarabulus;b_jarabulus;;Jarabulus
+b_jarabulus;b_jarabulus_adj;;
+b_jarabulus;frankish;;Geraple
+b_jarabulus;greek;;Europos
+b_jarabulus;kurdish;;Kaniya Dil
+b_jarabulus;norman;;Geraple
+b_jarabulus;roman;;Europos
+c_kafrtab;PROV1243;;Kafr-Tab
+c_kafrtab;c_kafrtab_adj;;Kafr-Taban
+c_kafrtab;frankish;;La Marre
+c_kafrtab;c_kafrtab_adj_frankish;;La Marran
+c_kafrtab;greek;;Arra
+c_kafrtab;c_kafrtab_adj_greek;;Arran
+c_kafrtab;norman;;La Marre
+c_kafrtab;c_kafrtab_adj_norman;;La Marran
+c_kafrtab;roman;;Arra
+b_maaratannuman;b_maaratannuman;;Ma'arat an Numan
+b_maaratannuman;b_maaratannuman_adj;;
+b_maaratannuman;frankish;;La Marre
+b_maaratannuman;greek;;Arra
+b_maaratannuman;norman;;La Marre
+b_maaratannuman;roman;;Arra
+b_serjilla;b_serjilla;;Serjilla
+b_serjilla;b_serjilla_adj;;
+b_bara;b_bara;;Bara
+b_bara;b_bara_adj;;
+b_bara;andalusian_arabic;;al-Bara
+b_bara;bedouin_arabic;;al-Bara
+b_bara;egyptian_arabic;;al-Bara
+b_bara;levantine_arabic;;al-Bara
+b_bara;maghreb_arabic;;al-Bara
+b_bara;sicilian_arabic;;al-Bara
+b_kafr_tab;b_kafr_tab;;Kafr-Tab
+b_kafr_tab;b_kafr_tab_adj;;
+b_kafr_tab;frankish;;Capharda
+b_kafr_tab;norman;;Capharda
+c_hama;PROV732;;Hama
+c_hama;c_hama_adj;;Haman
+c_hama;greek;;Epiphania
+c_hama;c_hama_adj_greek;;Epiphanian
+c_hama;roman;;Epiphania
+b_hama;b_hama;;Hama
+b_hama;b_hama_adj;;
+b_hama;greek;;Epiphania
+b_hama;roman;;Epiphania
+b_kafroun;b_kafroun;;Kafroun
+b_kafroun;b_kafroun_adj;;
+b_mhardeh;b_mhardeh;;Mhardeh
+b_mhardeh;b_mhardeh_adj;;
+b_shayzar;b_shayzar;;Shayzar
+b_shayzar;b_shayzar_adj;;
+b_shayzar;frankish;;Sizara
+b_shayzar;greek;;Larissa
+b_shayzar;norman;;Sizara
+b_shayzar;roman;;Larissa
+b_barinsyria;b_barinsyria;;Barin
+b_barinsyria;b_barinsyria_adj;;
+d_homs;d_homs;;Hims
+d_homs;d_homs_adj;;Himsan
+d_homs;greek;;Syria Salutaris
+d_homs;d_homs_adj_greek;;Syria Salutaran
+d_homs;roman;;Syria Salutaris
+d_homs;title_prefix;;JUND_OF
+c_homs;PROV731;;Hims
+c_homs;c_homs_adj;;Homsian
+c_homs;frankish;;La Chamelle
+c_homs;c_homs_adj_frankish;;La Chamellan
+c_homs;greek;;Emesa
+c_homs;c_homs_adj_greek;;Emesan
+c_homs;norman;;La Chamelle
+c_homs;c_homs_adj_norman;;La Chamellan
+c_homs;roman;;Emesa
+b_homs;b_homs;;Hims
+b_homs;b_homs_adj;;
+b_homs;frankish;;La Chamelle
+b_homs;greek;;Emesa
+b_homs;norman;;La Chamelle
+b_homs;roman;;Emesa
+b_sadad;b_sadad;;Sadad
+b_sadad;b_sadad_adj;;
+b_qusayr;b_qusayr;;Al-Qusayr
+b_qusayr;b_qusayr_adj;;
+b_monasteryofsaintmosestheabyssinian;b_monasteryofsaintmosestheabyssinian;;Deir Mar Musa al-Habash
+b_monasteryofsaintmosestheabyssinian;b_monasteryofsaintmosestheabyssinian_adj;;
+b_citadelofhoms;b_citadelofhoms;;Qala'at al-Hims
+b_citadelofhoms;b_citadelofhoms_adj;;
+b_citadelofhoms;frankish;;Château de La Chamelle
+b_citadelofhoms;greek;;Kastro Emesa
+b_citadelofhoms;norman;;Château de La Chamelle
+b_citadelofhoms;roman;;Castrum Emesa
+c_palmyra;PROV730;;Palmyra
+c_palmyra;c_palmyra_adj;;Palmyran
+b_arak;b_arak;;Arak
+b_arak;b_arak_adj;;
+b_arak;greek;;Aracha
+b_arak;roman;;Aracha
+b_palmyra;b_palmyra;;Palmyra
+b_palmyra;b_palmyra_adj;;
+b_baalshamin;b_baalshamin;;Baalshamin
+b_baalshamin;b_baalshamin_adj;;
+b_fakhraldinalmaani;b_fakhraldinalmaani;;Fakhr-al-Din al-Ma'ani
+b_fakhraldinalmaani;b_fakhraldinalmaani_adj;;
+b_qasralhayralsharqi;b_qasralhayralsharqi;;Qasr al-Hayr al-Sharqi
+b_qasralhayralsharqi;b_qasralhayralsharqi_adj;;
+b_alsukhnah;b_alsukhnah;;Al-Sukhnah
+b_alsukhnah;b_alsukhnah_adj;;
+c_salamiyah;PROV1242;;Salamiyah
+c_salamiyah;c_salamiyah_adj;;Salamiyan
+c_salamiyah;greek;;Salamias
+c_salamiyah;c_salamiyah_adj_greek;;Salamian
+c_salamiyah;roman;;Salamias
+b_salamiyah;b_salamiyah;;Salamiyah
+b_salamiyah;b_salamiyah_adj;;
+b_salamiyah;greek;;Salamias
+b_salamiyah;roman;;Salamias
+b_qasralhayralgharbi;b_qasralhayralgharbi;;Qasr al-Hayr al-Gharbi
+b_qasralhayralgharbi;b_qasralhayralgharbi_adj;;
+b_shmemiscastle;b_shmemiscastle;;Qala'at al-Shmami
+b_shmemiscastle;b_shmemiscastle_adj;;
+d_damascus;d_damascus;;Dimashq
+d_damascus;d_damascus_adj;;Dimashqan
+d_damascus;greek;;Phoenice Libanensis
+d_damascus;d_damascus_adj_greek;;Phoenice Libanensian
+d_damascus;roman;;Phoenice Libanensis
+d_damascus;title_prefix;;JUND_OF
+c_damascus;PROV728;;Ghutah
+c_damascus;c_damascus_adj;;Damascan
+c_damascus;assyrian;;Darmsûq
+c_damascus;frankish;;Damascus
+c_damascus;c_damascus_adj_frankish;;Damascian
+c_damascus;greek;;Damaskos
+c_damascus;c_damascus_adj_greek;;Damaskian
+c_damascus;norman;;Damascus
+c_damascus;c_damascus_adj_norman;;Damascian
+c_damascus;roman;;Damascus
+b_citadelofdamascus;b_citadelofdamascus;;Qal'at Dimašq
+b_citadelofdamascus;b_citadelofdamascus_adj;;
+b_citadelofdamascus;frankish;;Château de Damascus
+b_citadelofdamascus;greek;;Kastro Damaskos
+b_citadelofdamascus;norman;;Château de Damascus
+b_citadelofdamascus;roman;;Castrum Damascus
+b_damascus;b_damascus;;Dimašq
+b_damascus;b_damascus_adj;;
+b_damascus;assyrian;;Darmsûq
+b_damascus;frankish;;Damascus
+b_damascus;greek;;Damaskos
+b_damascus;norman;;Damascus
+b_damascus;roman;;Damascus
+b_martalqamonestary;b_martalqamonestary;;Mar Talqa
+b_martalqamonestary;b_martalqamonestary_adj;;
+b_jaramana;b_jaramana;;Jaramana
+b_jaramana;b_jaramana_adj;;
+b_darayya;b_darayya;;Da'iyyah
+b_darayya;b_darayya_adj;;
+b_marsarkismoenstary;b_marsarkismoenstary;;Mar Sarkis
+b_marsarkismoenstary;b_marsarkismoenstary_adj;;
+b_marsarkismoenstary;greek;;Monì tìs Agios Sergios
+b_aldumay;b_aldumay;;Dumayr
+b_aldumay;b_aldumay_adj;;
+c_baalbek;PROV768;;Bekaa
+c_baalbek;c_baalbek_adj;;Baalbekian
+c_baalbek;frankish;;Balbec
+c_baalbek;c_baalbek_adj_frankish;;Balbecan
+c_baalbek;greek;;Helioupolis
+c_baalbek;c_baalbek_adj_greek;;Helioupolitan
+c_baalbek;norman;;Balbec
+c_baalbek;c_baalbek_adj_norman;;Balbecan
+c_baalbek;roman;;Heliopolis
+b_baalbek;b_baalbek;;Ba'albek
+b_baalbek;b_baalbek_adj;;
+b_baalbek;frankish;;Balbec
+b_baalbek;greek;;Helioupolis
+b_baalbek;norman;;Balbec
+b_baalbek;roman;;Heliopolis
+b_rasbaalek;b_rasbaalek;;Deir Saidat ar-Ras
+b_rasbaalek;b_rasbaalek_adj;;
+b_rasbaalek;greek;;Conna
+b_rasbaalek;roman;;Conna
+b_nimrodcastle;b_nimrodcastle;;Qala'at al-Subeiba
+b_nimrodcastle;b_nimrodcastle_adj;;
+b_nimrodcastle;frankish;;Assebebe
+b_nimrodcastle;norman;;Assebebe
+b_fakiha;b_fakiha;;Al-Fakiha
+b_fakiha;b_fakiha_adj;;
+b_deirelahmar;b_deirelahmar;;Deir El Ahmar
+b_deirelahmar;b_deirelahmar_adj;;
+c_syria;PROV727;;Bathaniyya
+c_syria;c_syria_adj;;Bostrian
+c_syria;greek;;Adraa
+c_syria;c_syria_adj_greek;;Adraan
+c_syria;roman;;Adraa
+b_daraa;b_daraa;;Adra'at
+b_daraa;b_daraa_adj;;
+b_daraa;greek;;Adraa
+b_daraa;roman;;Adraa
+b_nawasyria;b_nawasyria;;Nawaa
+b_nawasyria;b_nawasyria_adj;;
+b_nawasyria;greek;;Neve
+b_nawasyria;roman;;Neve
+b_izra;b_izra;;Izra
+b_izra;b_izra_adj;;
+b_izra;greek;;Zorava
+b_izra;roman;;Zorava
+b_sanamayn;b_sanamayn;;Sanamayn
+b_sanamayn;b_sanamayn_adj;;
+c_suwaida;PROV712;;Hauran
+c_suwaida;c_suwaida_adj;;Suwaidan
+c_suwaida;greek;;Bostra
+c_suwaida;c_suwaida_adj_greek;;Bostran
+c_suwaida;roman;;Bostra
+b_suwaida;b_suwaida;;Suwaida
+b_suwaida;b_suwaida_adj;;
+b_suwaida;greek;;Dionysias
+b_suwaida;roman;;Dionysias
+b_busra;b_busra;;Busra
+b_busra;b_busra_adj;;
+b_busra;greek;;Bostra
+b_busra;roman;;Bostra
+b_shahba;b_shahba;;Shahba
+b_shahba;b_shahba_adj;;
+b_shahba;greek;;Philippopolis
+b_shahba;roman;;Philippopolis
+b_shaqqa;b_shaqqa;;Shaqqa
+b_shaqqa;b_shaqqa_adj;;
+b_shaqqa;greek;;Maximianopolis
+b_shaqqa;roman;;Maximianopolis
+d_jordan;d_jordan;;al-Urdunn
+d_jordan;d_jordan_adj;;al-Urdunnan
+d_jordan;greek;;Arabia Prima
+d_jordan;d_jordan_adj_greek;;Arabia Priman
+d_jordan;roman;;Arabia Prima
+d_jordan;title_prefix;;JUND_OF
+c_amman;PROV724;;Balqa
+c_amman;c_amman_adj;;Ammanian
+c_amman;frankish;;Ahamant
+c_amman;c_amman_adj_frankish;;Ahamantan
+c_amman;greek;;Philadelpheia
+c_amman;c_amman_adj_greek;;Philadelpheian
+c_amman;norman;;Ahamant
+c_amman;c_amman_adj_norman;;Ahamantan
+c_amman;roman;;Philadelphia
+b_amman;b_amman;;Amman
+b_amman;b_amman_adj;;
+b_amman;frankish;;Ahamant
+b_amman;greek;;Philadelpheia
+b_amman;norman;;Ahamant
+b_amman;roman;;Philadelphia
+b_dhiban;b_dhiban;;Dhiban
+b_dhiban;b_dhiban_adj;;
+b_dhiban;greek;;Dibon
+b_dhiban;roman;;Dibon
+b_salt;b_salt;;Salt
+b_salt;b_salt_adj;;
+b_salt;andalusian_arabic;;as-Salt
+b_salt;bedouin_arabic;;as-Salt
+b_salt;egyptian_arabic;;as-Salt
+b_salt;greek;;Saltus
+b_salt;levantine_arabic;;as-Salt
+b_salt;maghreb_arabic;;as-Salt
+b_salt;roman;;Saltus
+b_salt;sicilian_arabic;;as-Salt
+b_mahis;b_mahis;;Mahis
+b_mahis;b_mahis_adj;;
+b_fuheis;b_fuheis;;Fuheis
+b_fuheis;b_fuheis_adj;;
+b_qastal;b_qastal;;Qastal
+b_qastal;b_qastal_adj;;
+c_az_zarqa;PROV714;;Azraq
+c_az_zarqa;c_az_zarqa_adj;;Az Zarqan
+c_az_zarqa;greek;;Basienis
+c_az_zarqa;c_az_zarqa_adj_greek;;Basienan
+c_az_zarqa;roman;;Basienis
+b_amratamad;b_amratamad;;Amrat Amad
+b_amratamad;b_amratamad_adj;;
+b_azraq;b_azraq;;Azraq
+b_azraq;b_azraq_adj;;
+b_azraq;greek;;Basienis
+b_azraq;roman;;Basienis
+b_kharana;b_kharana;;Qasr Kharana
+b_kharana;b_kharana_adj;;
+b_amrah;b_amrah;;Qasr Amra
+b_amrah;b_amrah_adj;;
+c_madaba;PROV723;;Jarash
+c_madaba;c_madaba_adj;;Madaban
+c_madaba;frankish;;Gerasa
+c_madaba;c_madaba_adj_frankish;;Gerasan
+c_madaba;greek;;Arbela
+c_madaba;c_madaba_adj_greek;;Arbelan
+c_madaba;norman;;Gerasa
+c_madaba;c_madaba_adj_norman;;Gerasan
+c_madaba;roman;;Arbela
+b_muwaqqar;b_muwaqqar;;Muwaqqar
+b_muwaqqar;b_muwaqqar_adj;;
+b_irbid;b_irbid;;Irbid
+b_irbid;b_irbid_adj;;
+b_irbid;greek;;Arbela
+b_irbid;roman;;Arbela
+b_aljun;b_aljun;;Aljun
+b_aljun;b_aljun_adj;;
+b_aljun;frankish;;Haylon
+b_aljun;greek;;Pella
+b_aljun;norman;;Haylon
+b_aljun;roman;;Pella
+b_jerash;b_jerash;;Jerash
+b_jerash;b_jerash_adj;;
+b_jerash;frankish;;Gerasa
+b_jerash;greek;;Gerasa
+b_jerash;norman;;Gerasa
+b_jerash;roman;;Gerasa
+b_qasr_al_hallabat;b_qasr_al_hallabat;;Qasr Al-Hallabat
+b_qasr_al_hallabat;b_qasr_al_hallabat_adj;;
+k_jerusalem;k_jerusalem;;Jerusalem
+k_jerusalem;k_jerusalem_adj;;Jerusalemite
+k_jerusalem;andalusian_arabic;;Filastin
+k_jerusalem;bedouin_arabic;;Filastin
+k_jerusalem;egyptian_arabic;;Filastin
+k_jerusalem;greek;;Palaestina
+k_jerusalem;levantine_arabic;;Filastin
+k_jerusalem;maghreb_arabic;;Filastin
+k_jerusalem;masmuda;;Filastin
+k_jerusalem;sanhaja;;Filastin
+k_jerusalem;sicilian_arabic;;Filastin
+k_jerusalem;tagelmust;;Filastin
+k_jerusalem;tuareg;;Filastin
+k_jerusalem;zanata;;Filastin
+d_jerusalem;d_jerusalem;;Jerusalem
+d_jerusalem;d_jerusalem_adj;;Jerusalemite
+d_jerusalem;andalusian_arabic;;Filastin
+d_jerusalem;bedouin_arabic;;Filastin
+d_jerusalem;egyptian_arabic;;Filastin
+d_jerusalem;greek;;Palaestina Prima
+d_jerusalem;d_jerusalem_adj_greek;;Palaestina Priman
+d_jerusalem;levantine_arabic;;Filastin
+d_jerusalem;maghreb_arabic;;Filastin
+d_jerusalem;masmuda;;Filastin
+d_jerusalem;roman;;Palaestina Prima
+d_jerusalem;sanhaja;;Filastin
+d_jerusalem;sicilian_arabic;;Filastin
+d_jerusalem;tagelmust;;Filastin
+d_jerusalem;tuareg;;Filastin
+d_jerusalem;zanata;;Filastin
+c_jerusalem;PROV774;;Jérusalem
+c_jerusalem;c_jerusalem_adj;;Jerusalemite
+c_jerusalem;andalusian_arabic;;Al-Quds
+c_jerusalem;c_jerusalem_adj_andalusian_arabic;;Qudsian
+c_jerusalem;bedouin_arabic;;Al-Quds
+c_jerusalem;c_jerusalem_adj_bedouin_arabic;;Qudsian
+c_jerusalem;egyptian_arabic;;Al-Quds
+c_jerusalem;c_jerusalem_adj_egyptian_arabic;;Qudsian
+c_jerusalem;greek;;Hierosolyma
+c_jerusalem;c_jerusalem_adj_greek;;Hierosolyman
+c_jerusalem;levantine_arabic;;Al-Quds
+c_jerusalem;c_jerusalem_adj_levantine_arabic;;Qudsian
+c_jerusalem;maghreb_arabic;;Al-Quds
+c_jerusalem;c_jerusalem_adj_maghreb_arabic;;Qudsian
+c_jerusalem;masmuda;;Al-Quds
+c_jerusalem;c_jerusalem_adj_masmuda;;Qudsian
+c_jerusalem;oghuz;;Kudüs
+c_jerusalem;c_jerusalem_adj_oghuz;;Küdüsi
+c_jerusalem;roman;;Ierosolyma
+c_jerusalem;sanhaja;;Al-Quds
+c_jerusalem;c_jerusalem_adj_sanhaja;;Qudsian
+c_jerusalem;sicilian_arabic;;Al-Quds
+c_jerusalem;c_jerusalem_adj_sicilian_arabic;;Qudsian
+c_jerusalem;tagelmust;;Al-Quds
+c_jerusalem;c_jerusalem_adj_tagelmust;;Qudsian
+c_jerusalem;tuareg;;Al-Quds
+c_jerusalem;c_jerusalem_adj_tuareg;;Qudsian
+c_jerusalem;turkish;;Kudüs
+c_jerusalem;c_jerusalem_adj_turkish;;Küdüsi
+c_jerusalem;turkmen;;Kudüs
+c_jerusalem;c_jerusalem_adj_turkmen;;Küdüsi
+c_jerusalem;zanata;;Al-Quds
+c_jerusalem;c_jerusalem_adj_zanata;;Qudsian
+b_towerofdavid;b_towerofdavid;;Tour de David
+b_towerofdavid;b_towerofdavid_adj;;
+b_towerofdavid;andalusian_arabic;;Burj Daud
+b_towerofdavid;bedouin_arabic;;Burj Daud
+b_towerofdavid;egyptian_arabic;;Burj Daud
+b_towerofdavid;greek;;Kastro David
+b_towerofdavid;levantine_arabic;;Burj Daud
+b_towerofdavid;maghreb_arabic;;Burj Daud
+b_towerofdavid;masmuda;;Burj Daud
+b_towerofdavid;sanhaja;;Burj Daud
+b_towerofdavid;sicilian_arabic;;Burj Daud
+b_towerofdavid;tagelmust;;Burj Daud
+b_towerofdavid;tuareg;;Burj Daud
+b_towerofdavid;zanata;;Burj Daud
+b_bethlehem;b_bethlehem;;Bethleem
+b_bethlehem;b_bethlehem_adj;;
+b_jerusalem;b_jerusalem;;Jérusalem
+b_jerusalem;b_jerusalem_adj;;
+b_jerusalem;andalusian_arabic;;Al-Quds
+b_jerusalem;bedouin_arabic;;Al-Quds
+b_jerusalem;egyptian_arabic;;Al-Quds
+b_jerusalem;levantine_arabic;;Al-Quds
+b_jerusalem;maghreb_arabic;;Al-Quds
+b_jerusalem;masmuda;;Al-Quds
+b_jerusalem;oghuz;;Kudüs
+b_jerusalem;sanhaja;;Al-Quds
+b_jerusalem;sicilian_arabic;;Al-Quds
+b_jerusalem;tagelmust;;Al-Quds
+b_jerusalem;tuareg;;Al-Quds
+b_jerusalem;turkish;;Kudüs
+b_jerusalem;turkmen;;Kudüs
+b_jerusalem;zanata;;Al-Quds
+b_rammala;b_rammala;;Ramelie
+b_rammala;b_rammala_adj;;
+b_rammala;greek;;Rámla
+b_rammala;roman;;Rámla
+b_blanchegarde;b_blanchegarde;;Blanche Garde
+b_blanchegarde;b_blanchegarde_adj;;
+b_blanchegarde;greek;;Lefki Froura
+b_saintsamuel;b_saintsamuel;;St-Samuel
+b_saintsamuel;b_saintsamuel_adj;;
+b_saintsamuel;greek;;Monì tìs Agios Samuel
+c_beersheb;PROV779;;Naples
+c_beersheb;c_beersheb_adj;;Beershebian
+c_beersheb;andalusian_arabic;;Nablus
+c_beersheb;c_beersheb_adj_andalusian_arabic;;Nablusi
+c_beersheb;bedouin_arabic;;Nablus
+c_beersheb;c_beersheb_adj_bedouin_arabic;;Nablusi
+c_beersheb;egyptian_arabic;;Nablus
+c_beersheb;c_beersheb_adj_egyptian_arabic;;Nablusi
+c_beersheb;greek;;Neapolis
+c_beersheb;c_beersheb_adj_greek;;Neapolitan
+c_beersheb;levantine_arabic;;Nablus
+c_beersheb;c_beersheb_adj_levantine_arabic;;Nablusi
+c_beersheb;maghreb_arabic;;Nablus
+c_beersheb;c_beersheb_adj_maghreb_arabic;;Nablusi
+c_beersheb;masmuda;;Nablus
+c_beersheb;c_beersheb_adj_masmuda;;Nablusi
+c_beersheb;roman;;Neapolis
+c_beersheb;sanhaja;;Nablus
+c_beersheb;c_beersheb_adj_sanhaja;;Nablusi
+c_beersheb;sicilian_arabic;;Nablus
+c_beersheb;c_beersheb_adj_sicilian_arabic;;Nablusi
+c_beersheb;tagelmust;;Nablus
+c_beersheb;c_beersheb_adj_tagelmust;;Nablusi
+c_beersheb;tuareg;;Nablus
+c_beersheb;c_beersheb_adj_tuareg;;Nablusi
+c_beersheb;zanata;;Nablus
+c_beersheb;c_beersheb_adj_zanata;;Nablusi
+b_bethsan;b_bethsan;;Bethsan
+b_bethsan;b_bethsan_adj;;
+b_bethsan;greek;;Skythopolis
+b_bethsan;roman;;Scythopolis
+b_nablus;b_nablus;;Naples
+b_nablus;b_nablus_adj;;
+b_nablus;greek;;Neapolis
+b_nablus;roman;;Neapolis
+b_jericho;b_jericho;;Jericho
+b_jericho;b_jericho_adj;;
+b_jericho;greek;;Ierichó
+b_jericho;roman;;Ierichó
+b_lafeve;b_lafeve;;La Feve
+b_lafeve;b_lafeve_adj;;
+c_hebron;PROV776;;St-Abraham
+c_hebron;c_hebron_adj;;Hebronian
+c_hebron;andalusian_arabic;;El-Khail
+c_hebron;c_hebron_adj_andalusian_arabic;;Khailan
+c_hebron;bedouin_arabic;;El-Khail
+c_hebron;c_hebron_adj_bedouin_arabic;;Khailan
+c_hebron;egyptian_arabic;;El-Khail
+c_hebron;c_hebron_adj_egyptian_arabic;;Khailan
+c_hebron;greek;;Hebrón
+c_hebron;c_hebron_adj_greek;;Hebrónan
+c_hebron;levantine_arabic;;El-Khail
+c_hebron;c_hebron_adj_levantine_arabic;;Khailan
+c_hebron;maghreb_arabic;;El-Khail
+c_hebron;c_hebron_adj_maghreb_arabic;;Khailan
+c_hebron;masmuda;;El-Khail
+c_hebron;c_hebron_adj_masmuda;;Khailan
+c_hebron;roman;;Hebron
+c_hebron;sanhaja;;El-Khail
+c_hebron;c_hebron_adj_sanhaja;;Khailan
+c_hebron;sicilian_arabic;;El-Khail
+c_hebron;c_hebron_adj_sicilian_arabic;;Khailan
+c_hebron;tagelmust;;El-Khail
+c_hebron;c_hebron_adj_tagelmust;;Khailan
+c_hebron;tuareg;;El-Khail
+c_hebron;c_hebron_adj_tuareg;;Khailan
+c_hebron;zanata;;El-Khail
+c_hebron;c_hebron_adj_zanata;;Khailan
+b_hebron;b_hebron;;St-Abraham
+b_hebron;b_hebron_adj;;
+b_hebron;andalusian_arabic;;El-Khail
+b_hebron;bedouin_arabic;;El-Khail
+b_hebron;egyptian_arabic;;El-Khail
+b_hebron;greek;;Hebrón
+b_hebron;levantine_arabic;;El-Khail
+b_hebron;maghreb_arabic;;El-Khail
+b_hebron;masmuda;;El-Khail
+b_hebron;roman;;Hebron
+b_hebron;sanhaja;;El-Khail
+b_hebron;sicilian_arabic;;El-Khail
+b_hebron;tagelmust;;El-Khail
+b_hebron;tuareg;;El-Khail
+b_hebron;zanata;;El-Khail
+b_syrcarmel;b_syrcarmel;;Carmel
+b_syrcarmel;b_syrcarmel_adj;;
+b_alsamoa;b_alsamoa;;Samoe
+b_alsamoa;b_alsamoa_adj;;
+b_bethgibelin;b_bethgibelin;;Beth Gibelin
+b_bethgibelin;b_bethgibelin_adj;;
+b_bethgibelin;greek;;Eleutheropolis
+b_bethgibelin;roman;;Eleutheropolis
+c_darum;PROV781;;Darom
+c_darum;c_darum_adj;;Darumian
+b_darum;b_darum;;Darom
+b_darum;b_darum_adj;;
+b_gaza;b_gaza;;Gaza
+b_gaza;b_gaza_adj;;
+b_radwan;b_radwan;;Radwan
+b_radwan;b_radwan_adj;;
+b_salqah;b_salqah;;Salqah
+b_salqah;b_salqah_adj;;
+d_acre;d_acre;;Acre
+d_acre;d_acre_adj;;Acrean
+d_acre;andalusian_arabic;;Akka
+d_acre;bedouin_arabic;;Akka
+d_acre;egyptian_arabic;;Akka
+d_acre;greek;;Tyros
+d_acre;d_acre_adj_greek;;Tyrian
+d_acre;levantine_arabic;;Akka
+d_acre;maghreb_arabic;;Akka
+d_acre;masmuda;;Akka
+d_acre;roman;;Tyrus
+d_acre;sanhaja;;Akka
+d_acre;sicilian_arabic;;Akka
+d_acre;tagelmust;;Akka
+d_acre;tuareg;;Akka
+d_acre;zanata;;Akka
+c_acre;PROV772;;Acre
+c_acre;c_acre_adj;;Acrenian
+c_acre;andalusian_arabic;;Akka
+c_acre;c_acre_adj_andalusian_arabic;;Akkan
+c_acre;bedouin_arabic;;Akka
+c_acre;c_acre_adj_bedouin_arabic;;Akkan
+c_acre;egyptian_arabic;;Akka
+c_acre;c_acre_adj_egyptian_arabic;;Akkan
+c_acre;greek;;Ptolemais
+c_acre;c_acre_adj_greek;;Ptolemaian
+c_acre;levantine_arabic;;Akka
+c_acre;c_acre_adj_levantine_arabic;;Akkan
+c_acre;maghreb_arabic;;Akka
+c_acre;c_acre_adj_maghreb_arabic;;Akkan
+c_acre;masmuda;;Akka
+c_acre;c_acre_adj_masmuda;;Akkan
+c_acre;roman;;Ptolemais
+c_acre;sanhaja;;Akka
+c_acre;c_acre_adj_sanhaja;;Akkan
+c_acre;sicilian_arabic;;Akka
+c_acre;c_acre_adj_sicilian_arabic;;Akkan
+c_acre;tagelmust;;Akka
+c_acre;c_acre_adj_tagelmust;;Akkan
+c_acre;tuareg;;Akka
+c_acre;c_acre_adj_tuareg;;Akkan
+c_acre;zanata;;Akka
+c_acre;c_acre_adj_zanata;;Akkan
+b_acre;b_acre;;Acre
+b_acre;b_acre_adj;;
+b_acre;andalusian_arabic;;Akka
+b_acre;bedouin_arabic;;Akka
+b_acre;egyptian_arabic;;Akka
+b_acre;greek;;Ptolemais
+b_acre;levantine_arabic;;Akka
+b_acre;maghreb_arabic;;Akka
+b_acre;masmuda;;Akka
+b_acre;roman;;Ptolemais
+b_acre;sanhaja;;Akka
+b_acre;sicilian_arabic;;Akka
+b_acre;tagelmust;;Akka
+b_acre;tuareg;;Akka
+b_acre;zanata;;Akka
+b_castellumregis;b_castellumregis;;Castellum Regis
+b_castellumregis;b_castellumregis_adj;;
+b_castellumregis;andalusian_arabic;;Qal'at Qurein
+b_castellumregis;bedouin_arabic;;Qal'at Qurein
+b_castellumregis;egyptian_arabic;;Qal'at Qurein
+b_castellumregis;german;;Starkenberg
+b_castellumregis;greek;;Kastro Basileios
+b_castellumregis;levantine_arabic;;Qal'at Qurein
+b_castellumregis;maghreb_arabic;;Qal'at Qurein
+b_castellumregis;sicilian_arabic;;Qal'at Qurein
+b_tyrus;b_tyrus;;Tyrus
+b_tyrus;b_tyrus_adj;;
+b_tyrus;andalusian_arabic;;Sur
+b_tyrus;bedouin_arabic;;Sur
+b_tyrus;egyptian_arabic;;Sur
+b_tyrus;greek;;Tyros
+b_tyrus;levantine_arabic;;Sur
+b_tyrus;maghreb_arabic;;Sur
+b_tyrus;masmuda;;Sur
+b_tyrus;roman;;Tyrus
+b_tyrus;sanhaja;;Sur
+b_tyrus;sicilian_arabic;;Sur
+b_tyrus;tagelmust;;Sur
+b_tyrus;tuareg;;Sur
+b_tyrus;zanata;;Sur
+b_haifa;b_haifa;;Haifa
+b_haifa;b_haifa_adj;;
+b_haifa;greek;;Hepha
+b_haifa;roman;;Hepha
+b_scandelon;b_scandelon;;Escalone
+b_scandelon;b_scandelon_adj;;
+b_adelon;b_adelon;;Adelon
+b_adelon;b_adelon_adj;;
+b_adelon;andalusian_arabic;;Ad'loun
+b_adelon;bedouin_arabic;;Ad'loun
+b_adelon;egyptian_arabic;;Ad'loun
+b_adelon;levantine_arabic;;Ad'loun
+b_adelon;maghreb_arabic;;Ad'loun
+b_adelon;sicilian_arabic;;Ad'loun
+c_tyrus;PROV771;;Sidon
+c_tyrus;c_tyrus_adj;;Sidonian
+c_tyrus;andalusian_arabic;;Sayda
+c_tyrus;c_tyrus_adj_andalusian_arabic;;Saydan
+c_tyrus;bedouin_arabic;;Sayda
+c_tyrus;c_tyrus_adj_bedouin_arabic;;Saydan
+c_tyrus;egyptian_arabic;;Sayda
+c_tyrus;c_tyrus_adj_egyptian_arabic;;Saydan
+c_tyrus;levantine_arabic;;Sayda
+c_tyrus;c_tyrus_adj_levantine_arabic;;Saydan
+c_tyrus;maghreb_arabic;;Sayda
+c_tyrus;c_tyrus_adj_maghreb_arabic;;Saydan
+c_tyrus;masmuda;;Sayda
+c_tyrus;c_tyrus_adj_masmuda;;Saydan
+c_tyrus;oghuz;;Sayda
+c_tyrus;sanhaja;;Sayda
+c_tyrus;c_tyrus_adj_sanhaja;;Saydan
+c_tyrus;sicilian_arabic;;Sayda
+c_tyrus;c_tyrus_adj_sicilian_arabic;;Saydan
+c_tyrus;tagelmust;;Sayda
+c_tyrus;c_tyrus_adj_tagelmust;;Saydan
+c_tyrus;tuareg;;Sayda
+c_tyrus;c_tyrus_adj_tuareg;;Saydan
+c_tyrus;turkish;;Sayda
+c_tyrus;turkmen;;Sayda
+c_tyrus;zanata;;Sayda
+c_tyrus;c_tyrus_adj_zanata;;Saydan
+b_sarafand;b_sarafand;;Sarafand
+b_sarafand;b_sarafand_adj;;
+b_sidon;b_sidon;;Sidon
+b_sidon;b_sidon_adj;;
+b_sidon;andalusian_arabic;;Sayda
+b_sidon;bedouin_arabic;;Sayda
+b_sidon;egyptian_arabic;;Sayda
+b_sidon;levantine_arabic;;Sayda
+b_sidon;maghreb_arabic;;Sayda
+b_sidon;masmuda;;Sayda
+b_sidon;oghuz;;Sayda
+b_sidon;sanhaja;;Sayda
+b_sidon;sicilian_arabic;;Sayda
+b_sidon;tagelmust;;Sayda
+b_sidon;tuareg;;Sayda
+b_sidon;turkish;;Sayda
+b_sidon;turkmen;;Sayda
+b_sidon;zanata;;Sayda
+b_syrbelfort;b_syrbelfort;;Belfort
+b_syrbelfort;b_syrbelfort_adj;;
+b_schuf;b_schuf;;Schuf
+b_schuf;b_schuf_adj;;
+b_schuf;andalusian_arabic;;Chouf
+b_schuf;bedouin_arabic;;Chouf
+b_schuf;egyptian_arabic;;Chouf
+b_schuf;levantine_arabic;;Chouf
+b_schuf;maghreb_arabic;;Chouf
+b_schuf;sicilian_arabic;;Chouf
+c_caesarea;PROV1260;;Caesarea
+c_caesarea;c_caesarea_adj;;Caesarean
+c_caesarea;greek;;Parálios Kaisáreia
+c_caesarea;c_caesarea_adj_greek;;Kaisáreian
+c_caesarea;roman;;Caesarea
+b_caymont;b_caymont;;Caymont
+b_caymont;b_caymont_adj;;
+b_caymont;greek;;Cammona
+b_caymont;roman;;Cammona
+b_arsuf;b_arsuf;;Arsour
+b_arsuf;b_arsuf_adj;;
+b_arsuf;greek;;Apollonia
+b_arsuf;roman;;Apollonia
+b_syrcaesarea;b_syrcaesarea;;Caesarea
+b_syrcaesarea;b_syrcaesarea_adj;;
+b_syrcaesarea;greek;;Parálios Kaisáreia
+b_syrcaesarea;roman;;Caesarea
+b_calansue;b_calansue;;Calansue
+b_calansue;b_calansue_adj;;
+d_oultrejourdain;d_oultrejourdain;;Oultrejourdain
+d_oultrejourdain;d_oultrejourdain_adj;;Oultrejourdainian
+d_oultrejourdain;greek;;Palaestina Salutaris
+d_oultrejourdain;d_oultrejourdain_adj_greek;;Palaestinia Salutaran
+d_oultrejourdain;roman;;Palaestina Salutaris
+c_monreal;PROV778;;Monreal
+c_monreal;c_monreal_adj;;Monrealian
+c_monreal;andalusian_arabic;;Shobak
+c_monreal;c_monreal_adj_andalusian_arabic;;Shobakian
+c_monreal;bedouin_arabic;;Shobak
+c_monreal;c_monreal_adj_bedouin_arabic;;Shobakian
+c_monreal;egyptian_arabic;;Shobak
+c_monreal;c_monreal_adj_egyptian_arabic;;Shobakian
+c_monreal;levantine_arabic;;Shobak
+c_monreal;c_monreal_adj_levantine_arabic;;Shobakian
+c_monreal;maghreb_arabic;;Shobak
+c_monreal;c_monreal_adj_maghreb_arabic;;Shobakian
+c_monreal;masmuda;;Shobak
+c_monreal;c_monreal_adj_masmuda;;Shobakian
+c_monreal;sanhaja;;Shobak
+c_monreal;c_monreal_adj_sanhaja;;Shobakian
+c_monreal;sicilian_arabic;;Shobak
+c_monreal;c_monreal_adj_sicilian_arabic;;Shobakian
+c_monreal;tagelmust;;Shobak
+c_monreal;c_monreal_adj_tagelmust;;Shobakian
+c_monreal;tuareg;;Shobak
+c_monreal;c_monreal_adj_tuareg;;Shobakian
+c_monreal;zanata;;Shobak
+c_monreal;c_monreal_adj_zanata;;Shobakian
+b_monreal;b_monreal;;Monreal
+b_monreal;b_monreal_adj;;
+b_monreal;andalusian_arabic;;Shobak
+b_monreal;bedouin_arabic;;Shobak
+b_monreal;egyptian_arabic;;Shobak
+b_monreal;levantine_arabic;;Shobak
+b_monreal;maghreb_arabic;;Shobak
+b_monreal;masmuda;;Shobak
+b_monreal;sanhaja;;Shobak
+b_monreal;sicilian_arabic;;Shobak
+b_monreal;tagelmust;;Shobak
+b_monreal;tuareg;;Shobak
+b_monreal;zanata;;Shobak
+b_syrsegor;b_syrsegor;;Segor
+b_syrsegor;b_syrsegor_adj;;
+b_alwuayra;b_alwuayra;;Al-Wu'ayra
+b_alwuayra;b_alwuayra_adj;;
+b_petra;b_petra;;Sela
+b_petra;b_petra_adj;;
+c_petra;PROV722;;Elim
+c_petra;c_petra_adj;;Petran
+c_petra;andalusian_arabic;;Aqabah
+c_petra;bedouin_arabic;;Aqabah
+c_petra;egyptian_arabic;;Aqabah
+c_petra;greek;;Aila
+c_petra;c_petra_adj_greek;;Ailan
+c_petra;levantine_arabic;;Aqabah
+c_petra;maghreb_arabic;;Aqabah
+c_petra;roman;;Aila
+c_petra;sicilian_arabic;;Aqabah
+b_pharaohosisland;b_pharaohosisland;;Ile de Graye
+b_pharaohosisland;b_pharaohosisland_adj;;
+b_jordanaqba;b_jordanaqba;;Elim
+b_jordanaqba;b_jordanaqba_adj;;
+b_jordanaqba;andalusian_arabic;;Aqabah
+b_jordanaqba;bedouin_arabic;;Aqabah
+b_jordanaqba;egyptian_arabic;;Aqabah
+b_jordanaqba;greek;;Aila
+b_jordanaqba;levantine_arabic;;Aqabah
+b_jordanaqba;maghreb_arabic;;Aqabah
+b_jordanaqba;roman;;Aila
+b_jordanaqba;sicilian_arabic;;Aqabah
+b_syrarandal;b_syrarandal;;Arandal
+b_syrarandal;b_syrarandal_adj;;
+c_kerak;PROV777;;Kerak
+c_kerak;c_kerak_adj;;Kerakian
+c_kerak;andalusian_arabic;;Al-Karak
+c_kerak;bedouin_arabic;;Al-Karak
+c_kerak;egyptian_arabic;;Al-Karak
+c_kerak;levantine_arabic;;Al-Karak
+c_kerak;maghreb_arabic;;Al-Karak
+c_kerak;masmuda;;Al-Karak
+c_kerak;sanhaja;;Al-Karak
+c_kerak;sicilian_arabic;;Al-Karak
+c_kerak;tagelmust;;Al-Karak
+c_kerak;tuareg;;Al-Karak
+c_kerak;zanata;;Al-Karak
+b_krakdemoab;b_krakdemoab;;Krak de Moab
+b_krakdemoab;b_krakdemoab_adj;;
+b_krakdemoab;frankish;;Le Crac
+b_krakdemoab;greek;;Characmoba
+b_krakdemoab;norman;;Le Crac
+b_krakdemoab;roman;;Characmoba
+b_kerak;b_kerak;;Kerak
+b_kerak;b_kerak_adj;;
+b_kerak;andalusian_arabic;;Al-Karak
+b_kerak;bedouin_arabic;;Al-Karak
+b_kerak;egyptian_arabic;;Al-Karak
+b_kerak;greek;;Harreketh
+b_kerak;levantine_arabic;;Al-Karak
+b_kerak;maghreb_arabic;;Al-Karak
+b_kerak;masmuda;;Al-Karak
+b_kerak;roman;;Harreketh
+b_kerak;sanhaja;;Al-Karak
+b_kerak;sicilian_arabic;;Al-Karak
+b_kerak;tagelmust;;Al-Karak
+b_kerak;tuareg;;Al-Karak
+b_kerak;zanata;;Al-Karak
+b_syrdibban;b_syrdibban;;Dibban
+b_syrdibban;b_syrdibban_adj;;
+b_tafila;b_tafila;;Taphila
+b_tafila;b_tafila_adj;;
+b_tafila;frankish;;Taphila
+b_tafila;greek;;Taphila
+b_tafila;norman;;Taphila
+b_tafila;roman;;Taphila
+d_ascalon;d_ascalon;;Jaffa-Ascalon
+d_ascalon;d_ascalon_adj;;Jaffan
+d_ascalon;d_ascalon_adj_greek;;Ascalonian
+c_jaffa;PROV775;;Jaffa
+c_jaffa;c_jaffa_adj;;Jaffan
+c_jaffa;greek;;Ioppa
+c_jaffa;c_jaffa_adj_greek;;Ioppan
+c_jaffa;roman;;Ioppe
+b_qula;b_qula;;Qula
+b_qula;b_qula_adj;;
+b_jaffa;b_jaffa;;Jaffa
+b_jaffa;b_jaffa_adj;;
+b_jaffa;greek;;Ioppa
+b_jaffa;roman;;Ioppe
+b_lydda;b_lydda;;Lidde
+b_lydda;b_lydda_adj;;
+b_mirabel;b_mirabel;;Mirabel
+b_mirabel;b_mirabel_adj;;
+b_beitdejan;b_beitdejan;;Casal Moein
+b_beitdejan;b_beitdejan_adj;;
+c_ascalon;PROV780;;Ascalon
+c_ascalon;c_ascalon_adj;;Ascalonian
+c_ascalon;andalusian_arabic;;Asqalan
+c_ascalon;bedouin_arabic;;Asqalan
+c_ascalon;egyptian_arabic;;Asqalan
+c_ascalon;levantine_arabic;;Asqalan
+c_ascalon;maghreb_arabic;;Asqalan
+c_ascalon;masmuda;;Asqalan
+c_ascalon;sanhaja;;Asqalan
+c_ascalon;sicilian_arabic;;Asqalan
+c_ascalon;tagelmust;;Asqalan
+c_ascalon;tuareg;;Asqalan
+c_ascalon;zanata;;Asqalan
+b_ascalon;b_ascalon;;Ascalon
+b_ascalon;b_ascalon_adj;;
+b_ascalon;andalusian_arabic;;Asqalan
+b_ascalon;bedouin_arabic;;Asqalan
+b_ascalon;egyptian_arabic;;Asqalan
+b_ascalon;levantine_arabic;;Asqalan
+b_ascalon;maghreb_arabic;;Asqalan
+b_ascalon;masmuda;;Asqalan
+b_ascalon;sanhaja;;Asqalan
+b_ascalon;sicilian_arabic;;Asqalan
+b_ascalon;tagelmust;;Asqalan
+b_ascalon;tuareg;;Asqalan
+b_ascalon;zanata;;Asqalan
+b_karatiyya;b_karatiyya;;Galatie
+b_karatiyya;b_karatiyya_adj;;
+b_laforbie;b_laforbie;;La Forbie
+b_laforbie;b_laforbie_adj;;
+c_ibelin;PROV1262;;Ibelin
+c_ibelin;c_ibelin_adj;;Orlando Bloom!!
+c_ibelin;greek;;Iamnia
+c_ibelin;c_ibelin_adj_greek;;Iamnian
+b_ibelin;b_ibelin;;Ibelin
+b_ibelin;b_ibelin_adj;;
+b_ibelin;andalusian_arabic;;Iamnia
+b_ibelin;bedouin_arabic;;Iamnia
+b_ibelin;egyptian_arabic;;Iamnia
+b_ibelin;greek;;Iamnia
+b_ibelin;levantine_arabic;;Iamnia
+b_ibelin;maghreb_arabic;;Iamnia
+b_ibelin;masmuda;;Iamnia
+b_ibelin;sanhaja;;Iamnia
+b_ibelin;sicilian_arabic;;Iamnia
+b_ibelin;tagelmust;;Iamnia
+b_ibelin;tuareg;;Iamnia
+b_ibelin;zanata;;Iamnia
+b_ramleh;b_ramleh;;Ramleh
+b_ramleh;b_ramleh_adj;;
+b_latrun;b_latrun;;Latrun
+b_latrun;b_latrun_adj;;
+b_montgisard;b_montgisard;;Montgisard
+b_montgisard;b_montgisard_adj;;
+d_galilee;d_galilee;;Principauté de Galilée
+d_galilee;d_galilee_adj;;Palaestinian
+d_galilee;andalusian_arabic;;Al-Jalil
+d_galilee;d_galilee_adj_andalusian_arabic;;Jalilan
+d_galilee;bedouin_arabic;;Al-Jalil
+d_galilee;d_galilee_adj_bedouin_arabic;;Jalilan
+d_galilee;egyptian_arabic;;Al-Jalil
+d_galilee;d_galilee_adj_egyptian_arabic;;Jalilan
+d_galilee;greek;;Palaestina Secunda
+d_galilee;d_galilee_adj_greek;;Palaestina Secundan
+d_galilee;levantine_arabic;;Al-Jalil
+d_galilee;d_galilee_adj_levantine_arabic;;Jalilan
+d_galilee;maghreb_arabic;;Al-Jalil
+d_galilee;d_galilee_adj_maghreb_arabic;;Jalilan
+d_galilee;masmuda;;Al-Jalil
+d_galilee;roman;;Palaestina Secunda
+d_galilee;sanhaja;;Al-Jalil
+d_galilee;sicilian_arabic;;Al-Jalil
+d_galilee;d_galilee_adj_sicilian_arabic;;Jalilan
+d_galilee;tagelmust;;Al-Jalil
+d_galilee;tuareg;;Al-Jalil
+d_galilee;zanata;;Al-Jalil
+d_galilee;short_name;;yes
+c_tiberias;PROV773;;Tiberias
+c_tiberias;c_tiberias_adj;;Tiberian
+b_tiberias;b_tiberias;;Tiberias
+b_tiberias;b_tiberias_adj;;
+b_belvoir;b_belvoir;;Belvoir
+b_belvoir;b_belvoir_adj;;
+b_cavedesueth;b_cavedesueth;;Cave de Sueth
+b_cavedesueth;b_cavedesueth_adj;;
+b_cavedesueth;andalusian_arabic;;Ain al-Habis
+b_cavedesueth;bedouin_arabic;;Ain al-Habis
+b_cavedesueth;egyptian_arabic;;Ain al-Habis
+b_cavedesueth;levantine_arabic;;Ain al-Habis
+b_cavedesueth;maghreb_arabic;;Ain al-Habis
+b_cavedesueth;masmuda;;Ain al-Habis
+b_cavedesueth;sanhaja;;Ain al-Habis
+b_cavedesueth;sicilian_arabic;;Ain al-Habis
+b_cavedesueth;tagelmust;;Ain al-Habis
+b_cavedesueth;tuareg;;Ain al-Habis
+b_cavedesueth;zanata;;Ain al-Habis
+b_sepphoria;b_sepphoria;;La Saforie
+b_sepphoria;b_sepphoria_adj;;
+b_sepphoria;andalusian_arabic;;Safurriya
+b_sepphoria;bedouin_arabic;;Safurriya
+b_sepphoria;egyptian_arabic;;Safurriya
+b_sepphoria;greek;;Sepphoris
+b_sepphoria;levantine_arabic;;Safurriya
+b_sepphoria;maghreb_arabic;;Safurriya
+b_sepphoria;masmuda;;Safurriya
+b_sepphoria;roman;;Sepphoris
+b_sepphoria;sanhaja;;Safurriya
+b_sepphoria;sicilian_arabic;;Safurriya
+b_sepphoria;tagelmust;;Safurriya
+b_sepphoria;tuareg;;Safurriya
+b_sepphoria;zanata;;Safurriya
+b_nazareth;b_nazareth;;Nazareth
+b_nazareth;b_nazareth_adj;;
+b_nazareth;andalusian_arabic;;An-Nasirah
+b_nazareth;bedouin_arabic;;An-Nasirah
+b_nazareth;egyptian_arabic;;An-Nasirah
+b_nazareth;levantine_arabic;;An-Nasirah
+b_nazareth;maghreb_arabic;;An-Nasirah
+b_nazareth;masmuda;;An-Nasirah
+b_nazareth;sanhaja;;An-Nasirah
+b_nazareth;sicilian_arabic;;An-Nasirah
+b_nazareth;tagelmust;;An-Nasirah
+b_nazareth;tuareg;;An-Nasirah
+b_nazareth;zanata;;An-Nasirah
+c_beirut;PROV770;;Beirut
+c_beirut;c_beirut_adj;;Beirutian
+c_beirut;greek;;Berytos
+c_beirut;c_beirut_adj_greek;;Berytan
+c_beirut;roman;;Berytus
+b_beirut;b_beirut;;Beyrouth
+b_beirut;b_beirut_adj;;
+b_beirut;greek;;Berytos
+b_beirut;roman;;Berytus
+b_beitkfeya;b_beitkfeya;;Bhersaf
+b_beitkfeya;b_beitkfeya_adj;;
+b_chiyah;b_chiyah;;Chiyah
+b_chiyah;b_chiyah_adj;;
+b_choueir;b_choueir;;Choueir
+b_choueir;b_choueir_adj;;
+c_safed;PROV769;;Toron
+c_safed;c_safed_adj;;Safedian
+c_safed;andalusian_arabic;;Safad
+c_safed;ashkenazi;;Tsfat
+c_safed;bedouin_arabic;;Safad
+c_safed;egyptian_arabic;;Safad
+c_safed;greek;;Paneas
+c_safed;c_safed_adj_greek;;Panean
+c_safed;levantine_arabic;;Safad
+c_safed;maghreb_arabic;;Safad
+c_safed;roman;;Paneas
+c_safed;sicilian_arabic;;Safad
+b_safed;b_safed;;Saphet
+b_safed;b_safed_adj;;
+b_safed;andalusian_arabic;;Safad
+b_safed;ashkenazi;;Tsfat
+b_safed;bedouin_arabic;;Safad
+b_safed;egyptian_arabic;;Safad
+b_safed;greek;;Seph
+b_safed;levantine_arabic;;Safad
+b_safed;maghreb_arabic;;Safad
+b_safed;roman;;Seph
+b_safed;sicilian_arabic;;Safad
+b_banyas;b_banyas;;Belinas
+b_banyas;b_banyas_adj;;
+b_banyas;andalusian_arabic;;Banyas
+b_banyas;bedouin_arabic;;Banyas
+b_banyas;egyptian_arabic;;Banyas
+b_banyas;greek;;Paneas
+b_banyas;levantine_arabic;;Banyas
+b_banyas;maghreb_arabic;;Banyas
+b_banyas;roman;;Paneas
+b_banyas;sicilian_arabic;;Banyas
+b_toron;b_toron;;Toron
+b_toron;b_toron_adj;;
+b_toron;andalusian_arabic;;Tibnine
+b_toron;bedouin_arabic;;Tibnine
+b_toron;egyptian_arabic;;Tibnine
+b_toron;levantine_arabic;;Tibnine
+b_toron;maghreb_arabic;;Tibnine
+b_toron;sicilian_arabic;;Tibnine
+b_meronisreal;b_meronisreal;;Meron
+b_meronisreal;b_meronisreal_adj;;
+b_chastelet;b_chastelet;;Chastelet
+b_chastelet;b_chastelet_adj;;
+b_chastelet;andalusian_arabic;;Qasr al-'Atra
+b_chastelet;bedouin_arabic;;Qasr al-'Atra
+b_chastelet;egyptian_arabic;;Qasr al-'Atra
+b_chastelet;levantine_arabic;;Qasr al-'Atra
+b_chastelet;maghreb_arabic;;Qasr al-'Atra
+b_chastelet;sicilian_arabic;;Qasr al-'Atra
+k_antioch;k_antioch;;Antioche
+k_antioch;k_antioch_adj;;Antiochean
+k_antioch;andalusian_arabic;;Awasim
+k_antioch;bedouin_arabic;;Awasim
+k_antioch;egyptian_arabic;;Awasim
+k_antioch;greek;;Antiócheias
+k_antioch;levantine_arabic;;Awasim
+k_antioch;maghreb_arabic;;Awasim
+k_antioch;masmuda;;Awasim
+k_antioch;roman;;Principatus Antiochenus
+k_antioch;sanhaja;;Awasim
+k_antioch;sicilian_arabic;;Awasim
+k_antioch;tagelmust;;Awasim
+k_antioch;tuareg;;Awasim
+k_antioch;zanata;;Awasim
+d_antioch;d_antioch;;Principauté d'Antioche
+d_antioch;d_antioch_adj;;Antiochean
+d_antioch;alan;;Antiokeias
+d_antioch;andalusian_arabic;;Jund 'Awasim
+d_antioch;d_antioch_adj_andalusian_arabic;;Awasiman
+d_antioch;arberian;;Antiokeias
+d_antioch;armenian;;Antiok
+d_antioch;bedouin_arabic;;Jund 'Awasim
+d_antioch;d_antioch_adj_bedouin_arabic;;Awasiman
+d_antioch;egyptian_arabic;;Jund 'Awasim
+d_antioch;d_antioch_adj_egyptian_arabic;;Awasiman
+d_antioch;georgian;;Antiok
+d_antioch;greek;;Antiokeias
+d_antioch;levantine_arabic;;Jund 'Awasim
+d_antioch;d_antioch_adj_levantine_arabic;;Awasiman
+d_antioch;maghreb_arabic;;Jund 'Awasim
+d_antioch;d_antioch_adj_maghreb_arabic;;Awasiman
+d_antioch;masmuda;;Jund 'Awasim
+d_antioch;d_antioch_adj_masmuda;;Awasiman
+d_antioch;sanhaja;;Jund 'Awasim
+d_antioch;d_antioch_adj_sanhaja;;Awasiman
+d_antioch;sicilian_arabic;;Jund 'Awasim
+d_antioch;d_antioch_adj_sicilian_arabic;;Awasiman
+d_antioch;sicilian_greek;;Antiokeias
+d_antioch;tagelmust;;Jund 'Awasim
+d_antioch;d_antioch_adj_tagelmust;;Awasiman
+d_antioch;tuareg;;Jund 'Awasim
+d_antioch;d_antioch_adj_tuareg;;Awasiman
+d_antioch;zanata;;Jund 'Awasim
+d_antioch;d_antioch_adj_zanata;;Awasiman
+d_antioch;short_name;;yes
+c_antiocheia;PROV764;;Antioch
+c_antiocheia;c_antiocheia_adj;;Antiochian
+c_antiocheia;andalusian_arabic;;Antakiya
+c_antiocheia;c_antiocheia_adj_andalusian_arabic;;Antakiyan
+c_antiocheia;armenian;;Antiok
+c_antiocheia;c_antiocheia_adj_armenian;;Antiokan
+c_antiocheia;assyrian;;Antiokia
+c_antiocheia;bedouin_arabic;;Antakiya
+c_antiocheia;c_antiocheia_adj_bedouin_arabic;;Antakiyan
+c_antiocheia;egyptian_arabic;;Antakiya
+c_antiocheia;c_antiocheia_adj_egyptian_arabic;;Antakiyan
+c_antiocheia;levantine_arabic;;Antakiya
+c_antiocheia;c_antiocheia_adj_levantine_arabic;;Antakiyan
+c_antiocheia;maghreb_arabic;;Antakiya
+c_antiocheia;c_antiocheia_adj_maghreb_arabic;;Antakiyan
+c_antiocheia;masmuda;;Antakiya
+c_antiocheia;c_antiocheia_adj_masmuda;;Antakiyan
+c_antiocheia;oghuz;;Antakiya
+c_antiocheia;c_antiocheia_adj_oghuz;;Antakiyan
+c_antiocheia;sanhaja;;Antakiya
+c_antiocheia;c_antiocheia_adj_sanhaja;;Antakiyan
+c_antiocheia;sicilian_arabic;;Antakiya
+c_antiocheia;c_antiocheia_adj_sicilian_arabic;;Antakiyan
+c_antiocheia;tagelmust;;Antakiya
+c_antiocheia;c_antiocheia_adj_tagelmust;;Antakiyan
+c_antiocheia;tuareg;;Antakiya
+c_antiocheia;c_antiocheia_adj_tuareg;;Antakiyan
+c_antiocheia;turkish;;Antakiya
+c_antiocheia;c_antiocheia_adj_turkish;;Antakiyan
+c_antiocheia;turkmen;;Antakiya
+c_antiocheia;c_antiocheia_adj_turkmen;;Antakiyan
+c_antiocheia;zanata;;Antakiya
+c_antiocheia;c_antiocheia_adj_zanata;;Antakiyan
+b_antiocheia;b_antiocheia;;Antiochia
+b_antiocheia;b_antiocheia_adj;;
+b_antiocheia;andalusian_arabic;;Antakiya
+b_antiocheia;armenian;;Antiok
+b_antiocheia;assyrian;;Antiokia
+b_antiocheia;bedouin_arabic;;Antakiya
+b_antiocheia;egyptian_arabic;;Antakiya
+b_antiocheia;levantine_arabic;;Antakiya
+b_antiocheia;maghreb_arabic;;Antakiya
+b_antiocheia;masmuda;;Antakiya
+b_antiocheia;sanhaja;;Antakiya
+b_antiocheia;sicilian_arabic;;Antakiya
+b_antiocheia;tagelmust;;Antakiya
+b_antiocheia;tuareg;;Antakiya
+b_antiocheia;turkish;;Antakiya
+b_antiocheia;zanata;;Antakiya
+b_stsymeon;b_stsymeon;;Saint Symeon
+b_stsymeon;b_stsymeon_adj;;
+b_stsymeon;andalusian_arabic;;as-Suwaydiyah
+b_stsymeon;armenian;;Svedia
+b_stsymeon;bedouin_arabic;;as-Suwaydiyah
+b_stsymeon;egyptian_arabic;;as-Suwaydiyah
+b_stsymeon;greek;;Seleukeia Pieria
+b_stsymeon;levantine_arabic;;as-Suwaydiyah
+b_stsymeon;maghreb_arabic;;as-Suwaydiyah
+b_stsymeon;oghuz;;Süveydiye
+b_stsymeon;sicilian_arabic;;as-Suwaydiyah
+b_stsymeon;turkish;;Süveydiye
+b_stsymeon;turkmen;;Süveydiye
+b_darbsak;b_darbsak;;Trapesac
+b_darbsak;b_darbsak_adj;;
+b_darbsak;andalusian_arabic;;ad-Darbasak
+b_darbsak;bedouin_arabic;;ad-Darbasak
+b_darbsak;egyptian_arabic;;ad-Darbasak
+b_darbsak;frankish;;Trapesac
+b_darbsak;greek;;Trapezon
+b_darbsak;levantine_arabic;;ad-Darbasak
+b_darbsak;maghreb_arabic;;ad-Darbasak
+b_darbsak;norman;;Trapesac
+b_darbsak;sicilian_arabic;;ad-Darbasak
+b_harenc;b_harenc;;Harenc
+b_harenc;b_harenc_adj;;
+b_harenc;andalusian_arabic;;Qalat Antakiya
+b_harenc;armenian;;Antiokla
+b_harenc;bedouin_arabic;;Qalat Antakiya
+b_harenc;egyptian_arabic;;Qalat Antakiya
+b_harenc;greek;;Kastro Antiokheia
+b_harenc;levantine_arabic;;Qalat Antakiya
+b_harenc;maghreb_arabic;;Qalat Antakiya
+b_harenc;masmuda;;Qalat Antakiya
+b_harenc;oghuz;;Antakiya Hisar
+b_harenc;sanhaja;;Qalat Antakiya
+b_harenc;sicilian_arabic;;Qalat Antakiya
+b_harenc;tagelmust;;Qalat Antakiya
+b_harenc;tuareg;;Qalat Antakiya
+b_harenc;turkish;;Antakiya Hisar
+b_harenc;turkmen;;Antakiya Hisar
+b_harenc;zanata;;Qalat Antakiya
+b_baghras;b_baghras;;Gastun
+b_baghras;b_baghras_adj;;
+b_baghras;armenian;;Pagrai
+b_baghras;frankish;;Gaston
+b_baghras;greek;;Pagrai
+b_baghras;norman;;Gaston
+b_baghras;oghuz;;Bakras
+b_baghras;turkish;;Bakras
+b_baghras;turkmen;;Bakras
+b_artasium;b_artasium;;Artasium
+b_artasium;b_artasium_adj;;
+b_artasium;andalusian_arabic;;Artah
+b_artasium;bedouin_arabic;;Artah
+b_artasium;egyptian_arabic;;Artah
+b_artasium;frankish;;Artasia
+b_artasium;levantine_arabic;;Artah
+b_artasium;maghreb_arabic;;Artah
+b_artasium;norman;;Artasia
+b_artasium;sicilian_arabic;;Artah
+c_hazart;PROV1236;;Hazart
+c_hazart;c_hazart_adj;;Hazartian
+c_hazart;andalusian_arabic;;Azaz
+c_hazart;c_hazart_adj_andalusian_arabic;;Azazan
+c_hazart;bedouin_arabic;;Azaz
+c_hazart;c_hazart_adj_bedouin_arabic;;Azazan
+c_hazart;egyptian_arabic;;Azaz
+c_hazart;c_hazart_adj_egyptian_arabic;;Azazan
+c_hazart;levantine_arabic;;Azaz
+c_hazart;c_hazart_adj_levantine_arabic;;Azazan
+c_hazart;maghreb_arabic;;Azaz
+c_hazart;c_hazart_adj_maghreb_arabic;;Azazan
+c_hazart;sicilian_arabic;;Azaz
+c_hazart;c_hazart_adj_sicilian_arabic;;Azazan
+b_hazart;b_hazart;;Hazart
+b_hazart;b_hazart_adj;;
+b_hazart;andalusian_arabic;;Azaz
+b_hazart;bedouin_arabic;;Azaz
+b_hazart;egyptian_arabic;;Azaz
+b_hazart;levantine_arabic;;Azaz
+b_hazart;maghreb_arabic;;Azaz
+b_hazart;sicilian_arabic;;Azaz
+b_harimantiochia;b_harimantiochia;;Harim
+b_harimantiochia;b_harimantiochia_adj;;
+b_harimantiochia;frankish;;Harenc
+b_harimantiochia;norman;;Harenc
+b_zerdana;b_zerdana;;Zerdana
+b_zerdana;b_zerdana_adj;;
+b_zerdana;andalusian_arabic;;Zaradna
+b_zerdana;bedouin_arabic;;Zaradna
+b_zerdana;egyptian_arabic;;Zaradna
+b_zerdana;frankish;;Sardona
+b_zerdana;levantine_arabic;;Zaradna
+b_zerdana;maghreb_arabic;;Zaradna
+b_zerdana;norman;;Sardona
+b_zerdana;sicilian_arabic;;Zaradna
+b_sarmada;b_sarmada;;Sarmada
+b_sarmada;b_sarmada_adj;;
+b_sarmada;frankish;;Samarta
+b_sarmada;norman;;Samarta
+c_saone;PROV968;;Saone
+c_saone;c_saone_adj;;Saônan
+c_saone;andalusian_arabic;;al-Ladiqiya
+c_saone;c_saone_adj_andalusian_arabic;;Ladiqiyan
+c_saone;bedouin_arabic;;al-Ladiqiya
+c_saone;c_saone_adj_bedouin_arabic;;Ladiqiyan
+c_saone;egyptian_arabic;;al-Ladiqiya
+c_saone;c_saone_adj_egyptian_arabic;;Ladiqiyan
+c_saone;greek;;Laodikeia
+c_saone;c_saone_adj_greek;;Laodikeian
+c_saone;levantine_arabic;;al-Ladiqiya
+c_saone;c_saone_adj_levantine_arabic;;Ladiqiyan
+c_saone;maghreb_arabic;;al-Ladiqiya
+c_saone;c_saone_adj_maghreb_arabic;;Ladiqiyan
+c_saone;sicilian_arabic;;al-Ladiqiya
+c_saone;c_saone_adj_sicilian_arabic;;Ladiqiyan
+b_latakiah;b_latakiah;;Laodicia
+b_latakiah;b_latakiah_adj;;
+b_latakiah;andalusian_arabic;;al-Ladiqiya
+b_latakiah;bedouin_arabic;;al-Ladiqiya
+b_latakiah;egyptian_arabic;;al-Ladiqiya
+b_latakiah;frankish;;Laodicée
+b_latakiah;greek;;Laodikeia
+b_latakiah;levantine_arabic;;al-Ladiqiya
+b_latakiah;maghreb_arabic;;al-Ladiqiya
+b_latakiah;norman;;Laodicée
+b_latakiah;sicilian_arabic;;al-Ladiqiya
+b_hisnaddair;b_hisnaddair;;Hisn ad-Dair
+b_hisnaddair;b_hisnaddair_adj;;
+b_stdanielsyria;b_stdanielsyria;;Breij
+b_stdanielsyria;b_stdanielsyria_adj;;
+b_saone;b_saone;;Saône
+b_saone;b_saone_adj;;
+b_saone;andalusian_arabic;;Sahyun
+b_saone;bedouin_arabic;;Sahyun
+b_saone;egyptian_arabic;;Sahyun
+b_saone;greek;;Sahyoun
+b_saone;levantine_arabic;;Sahyun
+b_saone;maghreb_arabic;;Sahyun
+b_saone;sicilian_arabic;;Sahyun
+b_jabala;b_jabala;;Jabala
+b_jabala;b_jabala_adj;;
+b_jabala;andalusian_arabic;;Gabla
+b_jabala;bedouin_arabic;;Gabla
+b_jabala;egyptian_arabic;;Gabla
+b_jabala;frankish;;Gabula
+b_jabala;greek;;Gabala
+b_jabala;levantine_arabic;;Gabla
+b_jabala;maghreb_arabic;;Gabla
+b_jabala;norman;;Gabula
+b_jabala;sicilian_arabic;;Gabla
+c_archa;PROV765;;Berzieh
+c_archa;c_archa_adj;;Archan
+c_archa;andalusian_arabic;;Fâmieh
+c_archa;c_archa_adj_andalusian_arabic;;Fâmiean
+c_archa;bedouin_arabic;;Fâmieh
+c_archa;c_archa_adj_bedouin_arabic;;Fâmiean
+c_archa;egyptian_arabic;;Fâmieh
+c_archa;c_archa_adj_egyptian_arabic;;Fâmiean
+c_archa;frankish;;Apamée
+c_archa;c_archa_adj_frankish;;Apaméan
+c_archa;greek;;Apameia
+c_archa;c_archa_adj_greek;;Apameian
+c_archa;levantine_arabic;;Fâmieh
+c_archa;c_archa_adj_levantine_arabic;;Fâmiean
+c_archa;maghreb_arabic;;Fâmieh
+c_archa;c_archa_adj_maghreb_arabic;;Fâmiean
+c_archa;norman;;Apamée
+c_archa;c_archa_adj_norman;;Apaméan
+c_archa;sicilian_arabic;;Fâmieh
+c_archa;c_archa_adj_sicilian_arabic;;Fâmiean
+b_sarmeniasyria;b_sarmeniasyria;;Sarmenia
+b_sarmeniasyria;b_sarmeniasyria_adj;;
+b_sarmeniasyria;andalusian_arabic;;Sarmin
+b_sarmeniasyria;bedouin_arabic;;Sarmin
+b_sarmeniasyria;egyptian_arabic;;Sarmin
+b_sarmeniasyria;levantine_arabic;;Sarmin
+b_sarmeniasyria;maghreb_arabic;;Sarmin
+b_sarmeniasyria;sicilian_arabic;;Sarmin
+b_albarasyria;b_albarasyria;;Albara
+b_albarasyria;b_albarasyria_adj;;
+b_albarasyria;andalusian_arabic;;al-Bara
+b_albarasyria;bedouin_arabic;;al-Bara
+b_albarasyria;egyptian_arabic;;al-Bara
+b_albarasyria;levantine_arabic;;al-Bara
+b_albarasyria;maghreb_arabic;;al-Bara
+b_albarasyria;sicilian_arabic;;al-Bara
+b_famia;b_famia;;Apamea
+b_famia;b_famia_adj;;
+b_famia;andalusian_arabic;;Fâmieh
+b_famia;bedouin_arabic;;Fâmieh
+b_famia;egyptian_arabic;;Fâmieh
+b_famia;frankish;;Apamée
+b_famia;greek;;Apameia
+b_famia;levantine_arabic;;Fâmieh
+b_famia;maghreb_arabic;;Fâmieh
+b_famia;norman;;Apamée
+b_famia;sicilian_arabic;;Fâmieh
+b_bourzeycastle;b_bourzeycastle;;Berzieh
+b_bourzeycastle;b_bourzeycastle_adj;;
+b_bourzeycastle;andalusian_arabic;;Barzuya
+b_bourzeycastle;bedouin_arabic;;Barzuya
+b_bourzeycastle;egyptian_arabic;;Barzuya
+b_bourzeycastle;frankish;;Rochefort
+b_bourzeycastle;greek;;Lysias
+b_bourzeycastle;levantine_arabic;;Barzuya
+b_bourzeycastle;maghreb_arabic;;Barzuya
+b_bourzeycastle;norman;;Rochefort
+b_bourzeycastle;sicilian_arabic;;Barzuya
+d_tripoli;d_tripoli;;Tripoli
+d_tripoli;d_tripoli_adj;;Tripolitanian
+d_tripoli;andalusian_arabic;;Tarabulus
+d_tripoli;d_tripoli_adj_andalusian_arabic;;Tarabulan
+d_tripoli;bedouin_arabic;;Tarabulus
+d_tripoli;d_tripoli_adj_bedouin_arabic;;Tarabulan
+d_tripoli;egyptian_arabic;;Tarabulus
+d_tripoli;d_tripoli_adj_egyptian_arabic;;Tarabulan
+d_tripoli;greek;;Phoenice
+d_tripoli;d_tripoli_adj_greek;;Phoenican
+d_tripoli;levantine_arabic;;Tarabulus
+d_tripoli;d_tripoli_adj_levantine_arabic;;Tarabulan
+d_tripoli;maghreb_arabic;;Tarabulus
+d_tripoli;d_tripoli_adj_maghreb_arabic;;Tarabulan
+d_tripoli;masmuda;;Tarabulus
+d_tripoli;d_tripoli_adj_masmuda;;Tarabulan
+d_tripoli;roman;;Phoenice
+d_tripoli;sanhaja;;Tarabulus
+d_tripoli;d_tripoli_adj_sanhaja;;Tarabulan
+d_tripoli;sicilian_arabic;;Tarabulus
+d_tripoli;d_tripoli_adj_sicilian_arabic;;Tarabulan
+d_tripoli;tagelmust;;Tarabulus
+d_tripoli;d_tripoli_adj_tagelmust;;Tarabulan
+d_tripoli;tuareg;;Tarabulus
+d_tripoli;d_tripoli_adj_tuareg;;Tarabulan
+d_tripoli;zanata;;Tarabulus
+d_tripoli;d_tripoli_adj_zanata;;Tarabulan
+d_tripoli;name_tier;;count
+c_tortosa;PROV766;;Tortosa
+c_tortosa;c_tortosa_adj;;Tortosan
+c_tortosa;andalusian_arabic;;Antartus
+c_tortosa;c_tortosa_adj_andalusian_arabic;;Antartan
+c_tortosa;bedouin_arabic;;Antartus
+c_tortosa;c_tortosa_adj_bedouin_arabic;;Antartan
+c_tortosa;egyptian_arabic;;Antartus
+c_tortosa;c_tortosa_adj_egyptian_arabic;;Antartan
+c_tortosa;greek;;Antarados
+c_tortosa;c_tortosa_adj_greek;;Antaradan
+c_tortosa;levantine_arabic;;Antartus
+c_tortosa;c_tortosa_adj_levantine_arabic;;Antartan
+c_tortosa;maghreb_arabic;;Antartus
+c_tortosa;c_tortosa_adj_maghreb_arabic;;Antartan
+c_tortosa;masmuda;;Antartus
+c_tortosa;c_tortosa_adj_masmuda;;Antartan
+c_tortosa;sanhaja;;Antartus
+c_tortosa;c_tortosa_adj_sanhaja;;Antartan
+c_tortosa;sicilian_arabic;;Antartus
+c_tortosa;c_tortosa_adj_sicilian_arabic;;Antartan
+c_tortosa;tagelmust;;Antartus
+c_tortosa;c_tortosa_adj_tagelmust;;Antartan
+c_tortosa;tuareg;;Antartus
+c_tortosa;c_tortosa_adj_tuareg;;Antartan
+c_tortosa;zanata;;Antartus
+c_tortosa;c_tortosa_adj_zanata;;Antartan
+b_tortosa;b_tortosa;;Tortosa
+b_tortosa;b_tortosa_adj;;
+b_tortosa;andalusian_arabic;;Antartus
+b_tortosa;bedouin_arabic;;Antartus
+b_tortosa;egyptian_arabic;;Antartus
+b_tortosa;greek;;Antarados
+b_tortosa;levantine_arabic;;Antartus
+b_tortosa;maghreb_arabic;;Antartus
+b_tortosa;masmuda;;Antartus
+b_tortosa;sanhaja;;Antartus
+b_tortosa;sicilian_arabic;;Antartus
+b_tortosa;tagelmust;;Antartus
+b_tortosa;tuareg;;Antartus
+b_tortosa;zanata;;Antartus
+b_maraclea;b_maraclea;;Maraclée
+b_maraclea;b_maraclea_adj;;
+b_maraclea;andalusian_arabic;;Maraqiya
+b_maraclea;bedouin_arabic;;Maraqiya
+b_maraclea;egyptian_arabic;;Maraqiya
+b_maraclea;greek;;Marakleia
+b_maraclea;levantine_arabic;;Maraqiya
+b_maraclea;maghreb_arabic;;Maraqiya
+b_maraclea;sicilian_arabic;;Maraqiya
+b_valania;b_valania;;Valenia
+b_valania;b_valania_adj;;
+b_valania;andalusian_arabic;;Bulunyas
+b_valania;bedouin_arabic;;Bulunyas
+b_valania;egyptian_arabic;;Bulunyas
+b_valania;greek;;Balanias
+b_valania;levantine_arabic;;Bulunyas
+b_valania;maghreb_arabic;;Bulunyas
+b_valania;sicilian_arabic;;Bulunyas
+b_margat;b_margat;;Margat
+b_margat;b_margat_adj;;
+b_margat;andalusian_arabic;;al-Marqab
+b_margat;bedouin_arabic;;al-Marqab
+b_margat;egyptian_arabic;;al-Marqab
+b_margat;levantine_arabic;;al-Marqab
+b_margat;maghreb_arabic;;al-Marqab
+b_margat;sicilian_arabic;;al-Marqab
+c_monferrand;PROV1244;;Monferrand
+c_monferrand;c_monferrand_adj;;Monferrandan
+c_monferrand;andalusian_arabic;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_andalusian_arabic;;Hisn-al Akradan
+c_monferrand;bedouin_arabic;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_bedouin_arabic;;Hisn-al Akradan
+c_monferrand;egyptian_arabic;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_egyptian_arabic;;Hisn-al Akradan
+c_monferrand;greek;;Raphaniai
+c_monferrand;c_monferrand_adj_greek;;Raphanian
+c_monferrand;levantine_arabic;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_levantine_arabic;;Hisn-al Akradan
+c_monferrand;maghreb_arabic;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_maghreb_arabic;;Hisn-al Akradan
+c_monferrand;masmuda;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_masmuda;;Hisn-al Akradan
+c_monferrand;sanhaja;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_sanhaja;;Hisn-al Akradan
+c_monferrand;sicilian_arabic;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_sicilian_arabic;;Hisn-al Akradan
+c_monferrand;tagelmust;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_tagelmust;;Hisn-al Akradan
+c_monferrand;tuareg;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_tuareg;;Hisn-al Akradan
+c_monferrand;zanata;;Hisn -al Akrad
+c_monferrand;c_monferrand_adj_zanata;;Hisn-al Akradan
+b_chastelrouge;b_chastelrouge;;Chastel Rouge
+b_chastelrouge;b_chastelrouge_adj;;
+b_chastelrouge;andalusian_arabic;;Qalat Yahmur
+b_chastelrouge;bedouin_arabic;;Qalat Yahmur
+b_chastelrouge;egyptian_arabic;;Qalat Yahmur
+b_chastelrouge;levantine_arabic;;Qalat Yahmur
+b_chastelrouge;maghreb_arabic;;Qalat Yahmur
+b_chastelrouge;masmuda;;Qalat Yahmur
+b_chastelrouge;sanhaja;;Qalat Yahmur
+b_chastelrouge;sicilian_arabic;;Qalat Yahmur
+b_chastelrouge;tagelmust;;Qalat Yahmur
+b_chastelrouge;tuareg;;Qalat Yahmur
+b_chastelrouge;zanata;;Qalat Yahmur
+b_zweitina;b_zweitina;;Meshtaye
+b_zweitina;b_zweitina_adj;;
+b_chastelblanc;b_chastelblanc;;Castel Blanc
+b_chastelblanc;b_chastelblanc_adj;;
+b_chastelblanc;andalusian_arabic;;Burj Safita
+b_chastelblanc;bedouin_arabic;;Burj Safita
+b_chastelblanc;egyptian_arabic;;Burj Safita
+b_chastelblanc;levantine_arabic;;Burj Safita
+b_chastelblanc;maghreb_arabic;;Burj Safita
+b_chastelblanc;masmuda;;Burj Safita
+b_chastelblanc;sanhaja;;Burj Safita
+b_chastelblanc;sicilian_arabic;;Burj Safita
+b_chastelblanc;tagelmust;;Burj Safita
+b_chastelblanc;tuareg;;Burj Safita
+b_chastelblanc;zanata;;Burj Safita
+b_krakdeschevaliers;b_krakdeschevaliers;;Le Crat
+b_krakdeschevaliers;b_krakdeschevaliers_adj;;
+b_krakdeschevaliers;andalusian_arabic;;Hisn -al Akrad
+b_krakdeschevaliers;bedouin_arabic;;Hisn -al Akrad
+b_krakdeschevaliers;egyptian_arabic;;Hisn -al Akrad
+b_krakdeschevaliers;levantine_arabic;;Hisn -al Akrad
+b_krakdeschevaliers;maghreb_arabic;;Hisn -al Akrad
+b_krakdeschevaliers;masmuda;;Hisn -al Akrad
+b_krakdeschevaliers;sanhaja;;Hisn -al Akrad
+b_krakdeschevaliers;sicilian_arabic;;Hisn -al Akrad
+b_krakdeschevaliers;tagelmust;;Hisn -al Akrad
+b_krakdeschevaliers;tuareg;;Hisn -al Akrad
+b_krakdeschevaliers;zanata;;Hisn -al Akrad
+c_masyaf;PROV1237;;Masyaf
+c_masyaf;c_masyaf_adj;;Masyafan
+b_alkahf;b_alkahf;;Al Kahf
+b_alkahf;b_alkahf_adj;;
+b_masyaf;b_masyaf;;Masyaf
+b_masyaf;b_masyaf_adj;;
+b_alqadamus;b_alqadamus;;Al-Qadamus
+b_alqadamus;b_alqadamus_adj;;
+c_tripoli;PROV767;;Tripoli
+c_tripoli;c_tripoli_adj;;Tripolitanian
+c_tripoli;andalusian_arabic;;Tarabulus
+c_tripoli;c_tripoli_adj_andalusian_arabic;;Tarabulan
+c_tripoli;bedouin_arabic;;Tarabulus
+c_tripoli;c_tripoli_adj_bedouin_arabic;;Tarabulan
+c_tripoli;egyptian_arabic;;Tarabulus
+c_tripoli;c_tripoli_adj_egyptian_arabic;;Tarabulan
+c_tripoli;levantine_arabic;;Tarabulus
+c_tripoli;c_tripoli_adj_levantine_arabic;;Tarabulan
+c_tripoli;maghreb_arabic;;Tarabulus
+c_tripoli;c_tripoli_adj_maghreb_arabic;;Tarabulan
+c_tripoli;masmuda;;Tarabulus
+c_tripoli;c_tripoli_adj_masmuda;;Tarabulan
+c_tripoli;sanhaja;;Tarabulus
+c_tripoli;c_tripoli_adj_sanhaja;;Tarabulan
+c_tripoli;sicilian_arabic;;Tarabulus
+c_tripoli;c_tripoli_adj_sicilian_arabic;;Tarabulan
+c_tripoli;tagelmust;;Tarabulus
+c_tripoli;c_tripoli_adj_tagelmust;;Tarabulan
+c_tripoli;tuareg;;Tarabulus
+c_tripoli;c_tripoli_adj_tuareg;;Tarabulan
+c_tripoli;zanata;;Tarabulus
+c_tripoli;c_tripoli_adj_zanata;;Tarabulan
+b_syrtripoli;b_syrtripoli;;Tripolis
+b_syrtripoli;b_syrtripoli_adj;;
+b_syrtripoli;andalusian_arabic;;Tarabulus
+b_syrtripoli;bedouin_arabic;;Tarabulus
+b_syrtripoli;egyptian_arabic;;Tarabulus
+b_syrtripoli;levantine_arabic;;Tarabulus
+b_syrtripoli;maghreb_arabic;;Tarabulus
+b_syrtripoli;masmuda;;Tarabulus
+b_syrtripoli;sanhaja;;Tarabulus
+b_syrtripoli;sicilian_arabic;;Tarabulus
+b_syrtripoli;tagelmust;;Tarabulus
+b_syrtripoli;tuareg;;Tarabulus
+b_syrtripoli;zanata;;Tarabulus
+b_citadeloftripoli;b_citadeloftripoli;;Qala'at Tarablos
+b_citadeloftripoli;b_citadeloftripoli_adj;;
+b_citadeloftripoli;andalusian_arabic;;Qalat Tarabulus
+b_citadeloftripoli;bedouin_arabic;;Qalat Tarabulus
+b_citadeloftripoli;egyptian_arabic;;Qalat Tarabulus
+b_citadeloftripoli;greek;;Kastro Tripolis
+b_citadeloftripoli;levantine_arabic;;Qalat Tarabulus
+b_citadeloftripoli;maghreb_arabic;;Qalat Tarabulus
+b_citadeloftripoli;masmuda;;Qalat Tarabulus
+b_citadeloftripoli;sanhaja;;Qalat Tarabulus
+b_citadeloftripoli;sicilian_arabic;;Qalat Tarabulus
+b_citadeloftripoli;tagelmust;;Qalat Tarabulus
+b_citadeloftripoli;tuareg;;Qalat Tarabulus
+b_citadeloftripoli;zanata;;Qalat Tarabulus
+b_citdaelofsaintgilles;b_citdaelofsaintgilles;;Château de Saint-Gilles
+b_citdaelofsaintgilles;b_citdaelofsaintgilles_adj;;
+b_citdaelofsaintgilles;andalusian_arabic;;Qalat Sanjil
+b_citdaelofsaintgilles;bedouin_arabic;;Qalat Sanjil
+b_citdaelofsaintgilles;egyptian_arabic;;Qalat Sanjil
+b_citdaelofsaintgilles;levantine_arabic;;Qalat Sanjil
+b_citdaelofsaintgilles;maghreb_arabic;;Qalat Sanjil
+b_citdaelofsaintgilles;masmuda;;Qalat Sanjil
+b_citdaelofsaintgilles;sanhaja;;Qalat Sanjil
+b_citdaelofsaintgilles;sicilian_arabic;;Qalat Sanjil
+b_citdaelofsaintgilles;tagelmust;;Qalat Sanjil
+b_citdaelofsaintgilles;tuareg;;Qalat Sanjil
+b_citdaelofsaintgilles;zanata;;Qalat Sanjil
+b_buissera;b_buissera;;Bussara
+b_buissera;b_buissera_adj;;
+b_buissera;frankish;;Buissera
+b_buissera;norman;;Buissera
+b_archa;b_archa;;Archis
+b_archa;b_archa_adj;;
+b_archa;andalusian_arabic;;Arqa
+b_archa;bedouin_arabic;;Arqa
+b_archa;egyptian_arabic;;Arqa
+b_archa;greek;;Archa
+b_archa;levantine_arabic;;Arqa
+b_archa;maghreb_arabic;;Arqa
+b_archa;sicilian_arabic;;Arqa
+c_gibelet;PROV1245;;Gibelet
+c_gibelet;c_gibelet_adj;;Gibletian
+c_gibelet;andalusian_arabic;;Jebail
+c_gibelet;c_gibelet_adj_andalusian_arabic;;Jebailan
+c_gibelet;bedouin_arabic;;Jebail
+c_gibelet;c_gibelet_adj_bedouin_arabic;;Jebailan
+c_gibelet;egyptian_arabic;;Jebail
+c_gibelet;c_gibelet_adj_egyptian_arabic;;Jebailan
+c_gibelet;greek;;Byblos
+c_gibelet;c_gibelet_adj_greek;;Byblian
+c_gibelet;levantine_arabic;;Jebail
+c_gibelet;c_gibelet_adj_levantine_arabic;;Jebailan
+c_gibelet;maghreb_arabic;;Jebail
+c_gibelet;c_gibelet_adj_maghreb_arabic;;Jebailan
+c_gibelet;masmuda;;Jebail
+c_gibelet;c_gibelet_adj_masmuda;;Jebailan
+c_gibelet;roman;;Byblus
+c_gibelet;sanhaja;;Jebail
+c_gibelet;c_gibelet_adj_sanhaja;;Jebailan
+c_gibelet;sicilian_arabic;;Jebail
+c_gibelet;c_gibelet_adj_sicilian_arabic;;Jebailan
+c_gibelet;tagelmust;;Jebail
+c_gibelet;c_gibelet_adj_tagelmust;;Jebailan
+c_gibelet;tuareg;;Jebail
+c_gibelet;c_gibelet_adj_tuareg;;Jebailan
+c_gibelet;zanata;;Jebail
+c_gibelet;c_gibelet_adj_zanata;;Jebailan
+c_gibelet;name_tier;;baron
+b_gibeletcastle;b_gibeletcastle;;Château de Gibelet
+b_gibeletcastle;b_gibeletcastle_adj;;
+b_gibeletcastle;andalusian_arabic;;Qalat Jebail
+b_gibeletcastle;bedouin_arabic;;Qalat Jebail
+b_gibeletcastle;egyptian_arabic;;Qalat Jebail
+b_gibeletcastle;greek;;Kastro Byblos
+b_gibeletcastle;levantine_arabic;;Qalat Jebail
+b_gibeletcastle;maghreb_arabic;;Qalat Jebail
+b_gibeletcastle;masmuda;;Qalat Jebail
+b_gibeletcastle;roman;;Castrum Byblus
+b_gibeletcastle;sanhaja;;Qalat Jebail
+b_gibeletcastle;sicilian_arabic;;Qalat Jebail
+b_gibeletcastle;tagelmust;;Qalat Jebail
+b_gibeletcastle;tuareg;;Qalat Jebail
+b_gibeletcastle;zanata;;Qalat Jebail
+b_gibelet;b_gibelet;;Gibelet
+b_gibelet;b_gibelet_adj;;
+b_gibelet;andalusian_arabic;;Jebail
+b_gibelet;bedouin_arabic;;Jebail
+b_gibelet;egyptian_arabic;;Jebail
+b_gibelet;greek;;Byblos
+b_gibelet;levantine_arabic;;Jebail
+b_gibelet;maghreb_arabic;;Jebail
+b_gibelet;masmuda;;Jebail
+b_gibelet;roman;;Byblus
+b_gibelet;sanhaja;;Jebail
+b_gibelet;sicilian_arabic;;Jebail
+b_gibelet;tagelmust;;Jebail
+b_gibelet;tuareg;;Jebail
+b_gibelet;zanata;;Jebail
+b_boutron;b_boutron;;Botron
+b_boutron;b_boutron_adj;;
+b_besmedin;b_besmedin;;Besmedin
+b_besmedin;b_besmedin_adj;;
